@@ -7,6 +7,7 @@ import LightbulbCircleRoundedIcon from "@mui/icons-material/LightbulbCircleRound
 import {
   Box,
   Button,
+  CircularProgress,
   Container,
   Fade,
   FormControlLabel,
@@ -15,65 +16,33 @@ import {
   Switch,
   Typography,
 } from "@mui/material";
+import { useQuery } from "@tanstack/react-query";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 
+import { getJlptPracticeQuestions } from "../services/jlpt-service";
 import HoverRevealText from "./hover-reveal-text";
-
-interface Option {
-  key: string;
-  text: string;
-}
-
-interface Question {
-  id: number;
-  prompt: string;
-  explanation: string;
-  options: Option[];
-  correctOptionKey?: string; // MOCKED for frontend demo purposes if backend doesn't send it immediately
-}
-
-// Simulated data for demo since backend might not be fully seeded with explanations yet
-const MOCK_QUESTIONS: Question[] = [
-  {
-    id: 1,
-    prompt: "この機械は使い方を間違うと（危険）です。",
-    explanation:
-      "「危険」được đọc là きけん (kiken), nghĩa là 'nguy hiểm'.\nCác đáp án khác sai vì:\n- きごけん: Không có từ này.\n- きげん: 機嫌 (Tâm trạng) hoặc 期限 (Kỳ hạn).\n- きこん: 既婚 (Đã kết hôn).",
-    correctOptionKey: "2",
-    options: [
-      { key: "1", text: "きごけん" },
-      { key: "2", text: "きけん" },
-      { key: "3", text: "きげん" },
-      { key: "4", text: "きこん" },
-    ],
-  },
-  {
-    id: 2,
-    prompt: "大切なことを（忘れない）ようにメモしておきます。",
-    explanation:
-      "「忘れない」đọc là わすれない (wasurenai), nghĩa là 'không quên'. Chữ Hán là VONG (quên).",
-    correctOptionKey: "4",
-    options: [
-      { key: "1", text: "忘れれない" },
-      { key: "2", text: "亡れない" },
-      { key: "3", text: "怒れない" },
-      { key: "4", text: "忘れない" },
-    ],
-  },
-];
 
 export default function JlptPracticeView({ level, type }: { level: string; type: string }) {
   const router = useRouter();
-  const [questions, setQuestions] = useState<Question[]>(MOCK_QUESTIONS);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState<string | null>(null);
   const [isWrong, setIsWrong] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
   const [enableHoverReveal, setEnableHoverReveal] = useState(false);
 
+  const {
+    data: questions = [],
+    isLoading,
+    isError,
+  } = useQuery({
+    queryKey: ["jlpt-practice", level, type],
+    queryFn: () => getJlptPracticeQuestions(level, type, 10),
+    staleTime: 0,
+  });
+
   const currentQuestion = questions[currentIndex];
-  const progress = (currentIndex / questions.length) * 100;
+  const progress = questions.length > 0 ? (currentIndex / questions.length) * 100 : 0;
 
   const handleSelectOption = (key: string) => {
     if (isCorrect || !currentQuestion) return; // Already passed this question
@@ -101,6 +70,36 @@ export default function JlptPracticeView({ level, type }: { level: string; type:
       router.push("/practice/jlpt");
     }
   };
+
+  if (isLoading) {
+    return (
+      <Container
+        maxWidth="md"
+        className="flex min-h-[calc(100vh-64px)] items-center justify-center"
+      >
+        <CircularProgress />
+      </Container>
+    );
+  }
+
+  if (isError || questions.length === 0) {
+    return (
+      <Container
+        maxWidth="md"
+        className="flex min-h-[calc(100vh-64px)] flex-col items-center justify-center gap-4"
+      >
+        <Typography variant="h6" className="text-slate-500">
+          Không tìm thấy câu hỏi nào cho phần này.
+        </Typography>
+        <Button
+          variant="outlined"
+          onClick={() => router.push(`/practice/jlpt/${level.toLowerCase()}`)}
+        >
+          Quay lại
+        </Button>
+      </Container>
+    );
+  }
 
   if (!currentQuestion) return null;
 
