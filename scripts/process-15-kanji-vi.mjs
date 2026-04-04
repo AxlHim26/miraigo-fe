@@ -47,7 +47,8 @@ const processedPath = path.join(root, "data", "kanji-processed.txt");
 const cachePath = path.join(root, "data", "kanji-translation-cache.json");
 
 const isUrl = (v) => typeof v === "string" && /^https?:\/\//i.test(v);
-const vietnameseDiacritics = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+const vietnameseDiacritics =
+  /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 const isLikelyEnglish = (value) => {
   if (typeof value !== "string") return false;
   if (!value.trim()) return false;
@@ -190,7 +191,7 @@ const processedSet = new Set(
   rawProcessed
     .split(/\r?\n/)
     .map((line) => line.trim())
-    .filter(Boolean)
+    .filter(Boolean),
 );
 
 const allFiles = await fs.readdir(dataDir);
@@ -260,7 +261,7 @@ for (const file of toProcess) {
 await fs.appendFile(
   processedPath,
   (rawProcessed.endsWith("\n") ? "" : "\n") + toProcess.join("\n") + "\n",
-  "utf-8"
+  "utf-8",
 );
 
 console.log("Đã xử lý: " + toProcess.join(", "));

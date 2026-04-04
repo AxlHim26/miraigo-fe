@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+
 import JlptLevelView from "@/features/practice/components/jlpt-level-view";
 
 export const metadata: Metadata = {

@@ -43,7 +43,8 @@ const processedPath = path.join(root, "data", "kanji-processed.txt");
 const cachePath = path.join(root, "data", "kanji-translation-cache.json");
 
 const isUrl = (value) => typeof value === "string" && /^https?:\/\//i.test(value);
-const vietnameseDiacritics = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+const vietnameseDiacritics =
+  /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 const isLikelyEnglish = (value) => {
   if (typeof value !== "string") return false;
   if (!value.trim()) return false;
@@ -65,8 +66,18 @@ function collectMeaningTargets(obj, pathStack = []) {
       const m = obj.meaning;
       if (typeof m === "string" && m.trim() && isLikelyEnglish(m)) {
         results.push({ path: [...pathStack, "meaning"], value: m, kind: "string" });
-      } else if (m && typeof m === "object" && typeof m.english === "string" && m.english.trim() && isLikelyEnglish(m.english)) {
-        results.push({ path: [...pathStack, "meaning", "vietnamese"], value: m.english, kind: "object" });
+      } else if (
+        m &&
+        typeof m === "object" &&
+        typeof m.english === "string" &&
+        m.english.trim() &&
+        isLikelyEnglish(m.english)
+      ) {
+        results.push({
+          path: [...pathStack, "meaning", "vietnamese"],
+          value: m.english,
+          kind: "object",
+        });
       }
     }
     Object.entries(obj).forEach(([key, value]) => {
@@ -134,7 +145,8 @@ async function translateBatch(texts, attempt = 1) {
       errJson = {};
     }
     const msg = errJson?.message ?? errJson?.error?.message ?? errText;
-    const isRateLimit = response.status === 429 || /rate_limit|rate limit/i.test(String(errJson?.error ?? msg));
+    const isRateLimit =
+      response.status === 429 || /rate_limit|rate limit/i.test(String(errJson?.error ?? msg));
     if (isRateLimit && attempt <= 5) {
       const waitSec = Math.min(Math.max(Number(errJson?.retryAfter) || 30, 5), 120);
       await new Promise((r) => setTimeout(r, waitSec * 1000));
@@ -160,9 +172,16 @@ async function translateBatch(texts, attempt = 1) {
 
 // Load processed set & pick 15 unprocessed
 const rawProcessed = await fs.readFile(processedPath, "utf-8").catch(() => "");
-const processedSet = new Set(rawProcessed.split(/\r?\n/).map((l) => l.trim()).filter(Boolean));
+const processedSet = new Set(
+  rawProcessed
+    .split(/\r?\n/)
+    .map((l) => l.trim())
+    .filter(Boolean),
+);
 const allFiles = await fs.readdir(dataDir);
-const jsonFiles = allFiles.filter((f) => f.endsWith(".json") && f !== "default.json" && !f.startsWith("CDP-"));
+const jsonFiles = allFiles.filter(
+  (f) => f.endsWith(".json") && f !== "default.json" && !f.startsWith("CDP-"),
+);
 const nameLen = (f) => (f.endsWith(".json") ? f.slice(0, -5) : f).length;
 const unprocessed = jsonFiles
   .filter((f) => !processedSet.has(f))
@@ -203,7 +222,8 @@ for (const file of toProcess) {
       if (Array.isArray(translated)) {
         translated.forEach((text, idx) => {
           const source = chunk[idx];
-          if (source != null && typeof text === "string" && text.trim()) cache[source] = text.trim();
+          if (source != null && typeof text === "string" && text.trim())
+            cache[source] = text.trim();
         });
         await saveCache();
       }
@@ -223,5 +243,9 @@ for (const file of toProcess) {
   await fs.writeFile(filePath, JSON.stringify(json, null, 2), "utf-8");
 }
 
-await fs.appendFile(processedPath, (rawProcessed.endsWith("\n") ? "" : "\n") + toProcess.join("\n") + "\n", "utf-8");
+await fs.appendFile(
+  processedPath,
+  (rawProcessed.endsWith("\n") ? "" : "\n") + toProcess.join("\n") + "\n",
+  "utf-8",
+);
 console.log("Đã xử lý:", toProcess.join(", "));

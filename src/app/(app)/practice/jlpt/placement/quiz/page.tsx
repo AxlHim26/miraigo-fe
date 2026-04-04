@@ -1,4 +1,5 @@
 import { Metadata } from "next";
+
 import JlptPracticeView from "@/features/practice/components/jlpt-practice-view";
 
 export const metadata: Metadata = {

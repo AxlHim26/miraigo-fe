@@ -5,11 +5,14 @@ const dataDir = path.join(root, "data", "kanji");
 const processedPath = path.join(root, "data", "kanji-processed.txt");
 const processedRaw = await fs.readFile(processedPath, "utf-8");
 const processedSet = new Set(
-  processedRaw.split(/\r?\n/).map((l) => l.trim()).filter(Boolean)
+  processedRaw
+    .split(/\r?\n/)
+    .map((l) => l.trim())
+    .filter(Boolean),
 );
 const allFiles = await fs.readdir(dataDir);
 const jsonFiles = allFiles.filter(
-  (f) => f.endsWith(".json") && f !== "default.json" && !f.startsWith("CDP-")
+  (f) => f.endsWith(".json") && f !== "default.json" && !f.startsWith("CDP-"),
 );
 const unprocessed = jsonFiles
   .filter((f) => !processedSet.has(f))

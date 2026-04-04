@@ -42,7 +42,8 @@ const processedPath = path.join(root, "data", "kanji-processed.txt");
 const cachePath = path.join(root, "data", "kanji-translation-cache.json");
 
 const isUrl = (value) => typeof value === "string" && /^https?:\/\//i.test(value);
-const vietnameseDiacritics = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+const vietnameseDiacritics =
+  /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 const isLikelyEnglish = (value) => {
   if (typeof value !== "string") return false;
   if (!value.trim()) return false;
@@ -190,7 +191,8 @@ async function getVietnameseMeaningForKanji(kanjiChar, attempt = 1) {
       signal: controller.signal,
     });
     clearTimeout(timeout);
-    if (!response.ok) return attempt < 2 ? getVietnameseMeaningForKanji(kanjiChar, attempt + 1) : null;
+    if (!response.ok)
+      return attempt < 2 ? getVietnameseMeaningForKanji(kanjiChar, attempt + 1) : null;
     const data = await response.json();
     const text = (data.choices?.[0]?.message?.content ?? "").trim();
     return text || null;
@@ -203,7 +205,10 @@ async function getVietnameseMeaningForKanji(kanjiChar, attempt = 1) {
 // 1. Đọc processed
 const processedRaw = await fs.readFile(processedPath, "utf-8");
 const processedSet = new Set(
-  processedRaw.split(/\r?\n/).map((s) => s.trim()).filter(Boolean)
+  processedRaw
+    .split(/\r?\n/)
+    .map((s) => s.trim())
+    .filter(Boolean),
 );
 
 // 2. Liệt kê .json trong data/kanji/
@@ -224,7 +229,7 @@ if (toProcess.length === 0) {
 await fs.writeFile(
   path.join(root, "data", "next-15-batch.txt"),
   toProcess.join("\n") + "\n",
-  "utf-8"
+  "utf-8",
 );
 
 if (!API_KEY) {

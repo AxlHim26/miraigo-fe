@@ -17,4 +17,52 @@ export const JlptPracticeQuestionResponseSchema = z.object({
   options: z.array(JlptQuestionOptionSchema),
 });
 
+export const JlptSectionSchema = z.object({
+  id: z.number(),
+  sectionType: z.string(),
+  title: z.string(),
+  sectionOrder: z.number(),
+  durationMinutes: z.number(),
+  questions: z.array(JlptPracticeQuestionResponseSchema),
+});
+
+export const JlptExamAssetSchema = z.object({
+  id: z.number(),
+  assetType: z.string(),
+  sourcePath: z.string(),
+  extractedTextPath: z.string().nullable().optional(),
+  quality: z.string().nullable().optional(),
+});
+
+export const JlptExamDetailSchema = z.object({
+  id: z.number(),
+  code: z.string(),
+  title: z.string(),
+  level: z.string(),
+  examYear: z.number(),
+  examMonth: z.number(),
+  totalDurationMinutes: z.number(),
+  assets: z.array(JlptExamAssetSchema).optional(),
+  sections: z.array(JlptSectionSchema),
+});
+
+export const JlptAttemptAnswerSchema = z.object({
+  questionId: z.number(),
+  selectedOptionKey: z.string().nullable(),
+});
+
+export const JlptStartAttemptResponseSchema = z.object({
+  attemptId: z.number(),
+  examId: z.number(),
+  status: z.string(),
+  startedAt: z.string(),
+  totalDurationMinutes: z.number(),
+  remainingSeconds: z.number(),
+  answers: z.array(JlptAttemptAnswerSchema),
+});
+
 export type JlptPracticeQuestion = z.infer<typeof JlptPracticeQuestionResponseSchema>;
+export type JlptSection = z.infer<typeof JlptSectionSchema>;
+export type JlptExamDetail = z.infer<typeof JlptExamDetailSchema>;
+export type JlptAttemptAnswer = z.infer<typeof JlptAttemptAnswerSchema>;
+export type JlptStartAttemptResponse = z.infer<typeof JlptStartAttemptResponseSchema>;

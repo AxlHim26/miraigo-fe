@@ -35,12 +35,12 @@ const eslintConfig = defineConfig([
       "unused-imports/no-unused-vars": [
         "warn",
         {
-          "argsIgnorePattern": "^_",
-          "varsIgnorePattern": "^_",
-          "ignoreRestSiblings": true
-        }
-      ]
-    }
+          argsIgnorePattern: "^_",
+          varsIgnorePattern: "^_",
+          ignoreRestSiblings: true,
+        },
+      ],
+    },
   },
   prettier,
   // Override default ignores of eslint-config-next.

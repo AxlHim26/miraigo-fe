@@ -16,7 +16,8 @@ const dataDir = path.join(root, "data", "kanji");
 const processedPath = path.join(root, "data", "kanji-processed.txt");
 const cachePath = path.join(root, "data", "kanji-translation-cache.json");
 
-const vietnameseDiacritics = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+const vietnameseDiacritics =
+  /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 const isLikelyEnglish = (value) => {
   if (typeof value !== "string") return false;
   if (!value.trim()) return false;
@@ -75,7 +76,10 @@ function setByPath(obj, pathParts, newValue) {
 
 const rawProcessed = await fs.readFile(processedPath, "utf-8").catch(() => "");
 const processedSet = new Set(
-  rawProcessed.split(/\r?\n/).map((line) => line.trim()).filter(Boolean),
+  rawProcessed
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .filter(Boolean),
 );
 
 const allFiles = await fs.readdir(dataDir);
