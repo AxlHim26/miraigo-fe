@@ -5,7 +5,10 @@
     "query": "偈",
     "found": true,
     "strokeCount": 11,
-    "meaning": "verse in praise of Buddha, fast, healthy, rest",
+    "meaning": {
+      "en": "verse in praise of Buddha, fast, healthy, rest",
+      "vi": "bài kệ tán Phật, nhanh, khỏe mạnh, nghỉ ngơi"
+    },
     "kunyomi": [
       "いこ.う"
     ],
@@ -19,7 +22,8 @@
         "example": "偈",
         "reading": "ゲ",
         "meaning": {
-          "vi": "gatha (poetic verse of a scripture)"
+          "vi": "gatha (poetic verse of a scripture)",
+          "en": "gatha (poetic verse of a scripture)"
         },
         "romaji": "ge"
       },
@@ -27,7 +31,8 @@
         "example": "七仏通戒偈",
         "reading": "シチブツツウカイゲ",
         "meaning": {
-          "en": "Verse of the Shared Morality of the Seven Buddhas"
+          "en": "Verse of the Shared Morality of the Seven Buddhas",
+          "vi": "Bài kệ về giới luật chung của bảy vị Phật"
         },
         "romaji": "shichibutsutsuukaige"
       },
@@ -35,7 +40,8 @@
         "example": "回向偈",
         "reading": "エコウゲ",
         "meaning": {
-          "en": "closing recital that transfers the merit of the service to a buddha, a bodhisattva, or the dead"
+          "en": "closing recital that transfers the merit of the service to a buddha, a bodhisattva, or the dead",
+          "vi": "bài tụng kết thúc để hồi hướng công đức cho Phật, Bồ Tát hoặc người đã khuất"
         },
         "romaji": "ekouge"
       }
@@ -46,7 +52,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

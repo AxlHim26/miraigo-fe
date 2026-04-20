@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "iro",
-    "meaning": "color",
+    "meaning": {
+      "en": "color",
+      "vi": "màu sắc"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "地方色（ちほうしょく）",
         "meaning": {
-          "english": "local color"
+          "english": "local color",
+          "en": "local color",
+          "vi": "local color"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-iro_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "景色（けしき）",
         "meaning": {
-          "english": "scenery, landscape"
+          "english": "scenery, landscape",
+          "en": "scenery, landscape",
+          "vi": "scenery, landscape"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-iro_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "何色（なにいろ）",
         "meaning": {
-          "english": "what color"
+          "english": "what color",
+          "en": "what color",
+          "vi": "what color"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-iro_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "黄色（きいろ）",
         "meaning": {
-          "english": "yellow"
+          "english": "yellow",
+          "en": "yellow",
+          "vi": "yellow"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-iro_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "色々（いろいろ）",
         "meaning": {
-          "english": "various"
+          "english": "various",
+          "en": "various",
+          "vi": "various"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-iro_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "顔色（かおいろ）",
         "meaning": {
-          "english": "complexion"
+          "english": "complexion",
+          "en": "complexion",
+          "vi": "complexion"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shoku-iro_06_f.opus",
@@ -238,7 +253,9 @@
     "kanji": {
       "character": "色",
       "meaning": {
-        "english": "color"
+        "english": "color",
+        "en": "color",
+        "vi": "màu sắc"
       },
       "strokes": {
         "count": 6,
@@ -288,7 +305,9 @@
         "romaji": "iro"
       },
       "meaning": {
-        "english": "color"
+        "english": "color",
+        "en": "color",
+        "vi": "màu sắc"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/iro0.svg",
@@ -309,7 +328,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "621",
     "strokeCount": 6,
-    "meaning": "color",
+    "meaning": {
+      "en": "color",
+      "vi": "màu sắc"
+    },
     "kunyomi": [
       "いろ"
     ],
@@ -322,7 +344,8 @@
         "example": "色",
         "reading": "ショク",
         "meaning": {
-          "en": "counter for colours"
+          "en": "counter for colours",
+          "vi": "counter for colours"
         },
         "romaji": "shoku"
       },
@@ -330,7 +353,8 @@
         "example": "紫色",
         "reading": "ムラサキイロ",
         "meaning": {
-          "vi": "purple, violet"
+          "vi": "purple, violet",
+          "en": "purple, violet"
         },
         "romaji": "murasakiiro"
       },
@@ -338,7 +362,8 @@
         "example": "彩色",
         "reading": "サイシキ",
         "meaning": {
-          "vi": "colouring, coloring, colouration, coloration, painting"
+          "vi": "colouring, coloring, colouration, coloration, painting",
+          "en": "colouring, coloring, colouration, coloration, painting"
         },
         "romaji": "saishiki"
       },
@@ -346,7 +371,8 @@
         "example": "色",
         "reading": "シキ",
         "meaning": {
-          "vi": "rupa (form), visible objects (i.e. color and form)"
+          "vi": "rupa (form), visible objects (i.e. color and form)",
+          "en": "rupa (form), visible objects (i.e. color and form)"
         },
         "romaji": "shiki"
       },
@@ -354,7 +380,8 @@
         "example": "色彩",
         "reading": "シキサイ",
         "meaning": {
-          "en": "colour, color, hue, tints"
+          "en": "colour, color, hue, tints",
+          "vi": "colour, color, hue, tints"
         },
         "romaji": "shikisai"
       },
@@ -362,7 +389,8 @@
         "example": "彩色",
         "reading": "サイシキ",
         "meaning": {
-          "vi": "colouring, coloring, colouration, coloration, painting"
+          "vi": "colouring, coloring, colouration, coloration, painting",
+          "en": "colouring, coloring, colouration, coloration, painting"
         },
         "romaji": "saishiki"
       },
@@ -370,7 +398,8 @@
         "example": "極彩色",
         "reading": "ゴクサイシキ",
         "meaning": {
-          "en": "richly colored, richly coloured"
+          "en": "richly colored, richly coloured",
+          "vi": "richly colored, richly coloured"
         },
         "romaji": "gokusaishiki"
       }
@@ -380,7 +409,8 @@
         "example": "色",
         "reading": "いろ",
         "meaning": {
-          "vi": "colour, color, hue, tint, tinge, shade, complexion, skin colour, skin color, look (on one's face), expression, appearance, air, feeling, personality, character, tone (of one's voice, etc.), tune, sound, ring, love, lust, sensuality, love affair, lover, paramour, beauty, sexiness, physical appeal, kind, type, variety"
+          "vi": "colour, color, hue, tint, tinge, shade, complexion, skin colour, skin color, look (on one's face), expression, appearance, air, feeling, personality, character, tone (of one's voice, etc.), tune, sound, ring, love, lust, sensuality, love affair, lover, paramour, beauty, sexiness, physical appeal, kind, type, variety",
+          "en": "colour, color, hue, tint, tinge, shade, complexion, skin colour, skin color, look (on one's face), expression, appearance, air, feeling, personality, character, tone (of one's voice, etc.), tune, sound, ring, love, lust, sensuality, love affair, lover, paramour, beauty, sexiness, physical appeal, kind, type, variety"
         },
         "romaji": "iro"
       },
@@ -388,7 +418,8 @@
         "example": "色合い",
         "reading": "いろあい",
         "meaning": {
-          "en": "colouring, coloring, shade (of colour), hue, tone, tinge, tint, flavour, nuance, feel, sense, look"
+          "en": "colouring, coloring, shade (of colour), hue, tone, tinge, tint, flavour, nuance, feel, sense, look",
+          "vi": "colouring, coloring, shade (of colour), hue, tone, tinge, tint, flavour, nuance, feel, sense, look"
         },
         "romaji": "iroai"
       },
@@ -396,7 +427,8 @@
         "example": "紫色",
         "reading": "むらさきいろ",
         "meaning": {
-          "vi": "purple, violet"
+          "vi": "purple, violet",
+          "en": "purple, violet"
         },
         "romaji": "murasakiiro"
       },
@@ -404,14 +436,18 @@
         "example": "橙色",
         "reading": "だいだいいろ",
         "meaning": {
-          "en": "orange (color, colour)"
+          "en": "orange (color, colour)",
+          "vi": "orange (color, colour)"
         },
         "romaji": "daidaiiro"
       }
     ],
     "radical": {
       "symbol": "色",
-      "meaning": "colour, prettiness"
+      "meaning": {
+        "en": "colour, prettiness",
+        "vi": "màu sắc, vẻ đẹp"
+      }
     },
     "parts": [
       "勹",
@@ -425,5 +461,7 @@
   },
   "hanViet": [
     "sắc"
-  ]
+  ],
+  "jlpt_level": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 色 như người cúi mình để lộ sắc thái trên gương mặt, nên nhớ là màu sắc."
 }

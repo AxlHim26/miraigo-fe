@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "bounded area, region",
+    "meaning": {
+      "en": "bounded area, region",
+      "vi": "khu vực, vùng có ranh giới"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "地域（ちいき）",
         "meaning": {
-          "english": "area, region"
+          "english": "area, region",
+          "en": "area, region",
+          "vi": "khu vực, vùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "水域（すいいき）",
         "meaning": {
-          "english": "waters, water area"
+          "english": "waters, water area",
+          "en": "waters, water area",
+          "vi": "vùng nước, thủy vực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "区域（くいき）",
         "meaning": {
-          "english": "boundary, zone, territory"
+          "english": "boundary, zone, territory",
+          "en": "boundary, zone, territory",
+          "vi": "ranh giới, khu vực, lãnh thổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "海域（かいいき）",
         "meaning": {
-          "english": "area of ocean"
+          "english": "area of ocean",
+          "en": "area of ocean",
+          "vi": "vùng biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "全域（ぜんいき）",
         "meaning": {
-          "english": "the whole area"
+          "english": "the whole area",
+          "en": "the whole area",
+          "vi": "toàn khu vực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "聖域（せいいき）",
         "meaning": {
-          "english": "sacred precincts"
+          "english": "sacred precincts",
+          "en": "sacred precincts",
+          "vi": "khuôn viên linh thiêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "領域（りょういき）",
         "meaning": {
-          "english": "area, domain, territory, field"
+          "english": "area, domain, territory, field",
+          "en": "area, domain, territory, field",
+          "vi": "khu vực, lĩnh vực, lãnh thổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)iki_06_g.opus",
@@ -182,7 +199,9 @@
     "kanji": {
       "character": "域",
       "meaning": {
-        "english": "bounded area, region"
+        "english": "bounded area, region",
+        "en": "bounded area, region",
+        "vi": "khu vực, vùng có ranh giới"
       },
       "strokes": {
         "count": 11,
@@ -242,7 +261,9 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -263,7 +284,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "396",
     "strokeCount": 11,
-    "meaning": "range, region, limits, stage, level",
+    "meaning": {
+      "en": "range, region, limits, stage, level",
+      "vi": "phạm vi, khu vực, giới hạn, giai đoạn, cấp độ"
+    },
     "kunyomi": [],
     "onyomi": [
       "イキ"
@@ -273,7 +297,8 @@
         "example": "域",
         "reading": "イキ",
         "meaning": {
-          "en": "region, limits, stage, level"
+          "en": "region, limits, stage, level",
+          "vi": "vùng, giới hạn, giai đoạn, cấp độ"
         },
         "romaji": "iki"
       },
@@ -281,7 +306,8 @@
         "example": "域外",
         "reading": "イキガイ",
         "meaning": {
-          "en": "outside the area"
+          "en": "outside the area",
+          "vi": "ngoài khu vực"
         },
         "romaji": "ikigai"
       },
@@ -289,7 +315,8 @@
         "example": "空域",
         "reading": "クウイキ",
         "meaning": {
-          "vi": "airspace"
+          "vi": "airspace",
+          "en": "airspace"
         },
         "romaji": "kuuiki"
       },
@@ -297,7 +324,8 @@
         "example": "聖域",
         "reading": "セイイキ",
         "meaning": {
-          "vi": "sacred precincts, sanctuary, consecrated ground, holy ground, issue that is regarded as being off-limits, matter that is not up for discussion"
+          "vi": "sacred precincts, sanctuary, consecrated ground, holy ground, issue that is regarded as being off-limits, matter that is not up for discussion",
+          "en": "sacred precincts, sanctuary, consecrated ground, holy ground, issue that is regarded as being off-limits, matter that is not up for discussion"
         },
         "romaji": "seiiki"
       }
@@ -305,7 +333,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "口",

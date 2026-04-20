@@ -5,7 +5,10 @@
     "query": "决",
     "found": true,
     "strokeCount": 6,
-    "meaning": "decide, determine, judge",
+    "meaning": {
+      "en": "decide, determine, judge",
+      "vi": "quyết định, xác định, phán đoán"
+    },
     "kunyomi": [
       "き.める",
       "き.まる",
@@ -19,7 +22,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "ノ",
@@ -31,11 +37,13 @@
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20915_frames.png",
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b3.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b3.gif",
-    "uri": "https://jisho.org/search/%E5%86%B3%23kanji"
+    "uri": "https://jisho.org/search/%E5%86%B3%23kanji",
+    "jlptLevel": null
   },
   "hanViet": [
     "huyết",
     "khuyết",
     "quyết"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: dòng nước phá vỡ chỗ ngăn để mở lối, nên gợi ra sự quyết đoán."
 }

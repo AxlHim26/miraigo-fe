@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "haiku, actor",
+    "meaning": {
+      "en": "haiku, actor",
+      "vi": "haiku, diễn viên"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "俳句（はいく）",
         "meaning": {
-          "english": "haiku poetry"
+          "english": "haiku poetry",
+          "en": "haiku poetry",
+          "vi": "thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ku)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "俳人（はいじん）",
         "meaning": {
-          "english": "haiku poet"
+          "english": "haiku poet",
+          "en": "haiku poet",
+          "vi": "nhà thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ku)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "俳壇（はいだん）",
         "meaning": {
-          "english": "the world of the haiku"
+          "english": "the world of the haiku",
+          "en": "the world of the haiku",
+          "vi": "thế giới haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ku)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "俳優（はいゆう）",
         "meaning": {
-          "english": "actor, actress"
+          "english": "actor, actress",
+          "en": "actor, actress",
+          "vi": "diễn viên nam, diễn viên nữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ku)_06_d.opus",
@@ -143,7 +154,9 @@
     "kanji": {
       "character": "俳",
       "meaning": {
-        "english": "haiku, actor"
+        "english": "haiku, actor",
+        "en": "haiku, actor",
+        "vi": "haiku, diễn viên"
       },
       "strokes": {
         "count": 10,
@@ -201,7 +214,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -222,7 +237,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1137",
     "strokeCount": 10,
-    "meaning": "haiku, actor",
+    "meaning": {
+      "en": "haiku, actor",
+      "vi": "haiku, diễn viên"
+    },
     "kunyomi": [],
     "onyomi": [
       "ハイ"
@@ -232,7 +250,8 @@
         "example": "俳人",
         "reading": "ハイジン",
         "meaning": {
-          "vi": "haiku poet"
+          "vi": "nhà thơ haiku",
+          "en": "haiku poet"
         },
         "romaji": "haijin"
       },
@@ -240,7 +259,8 @@
         "example": "俳句",
         "reading": "ハイク",
         "meaning": {
-          "vi": "haiku, 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae"
+          "vi": "haiku, bài thơ 17 mora, thường gồm 3 dòng với nhịp 5, 7 và 5 mora",
+          "en": "haiku, 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae"
         },
         "romaji": "haiku"
       }
@@ -251,7 +271,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

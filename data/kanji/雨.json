@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ame, ama",
-    "meaning": "rain",
+    "meaning": {
+      "en": "rain",
+      "vi": "mưa"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "降雨量（こううりょう）",
         "meaning": {
-          "english": "amount of rainfall"
+          "english": "amount of rainfall",
+          "en": "amount of rainfall",
+          "vi": "lượng mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u-ame_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "梅雨前線（ばいうぜんせん）",
         "meaning": {
-          "english": "seasonal rain front"
+          "english": "seasonal rain front",
+          "en": "seasonal rain front",
+          "vi": "mặt trận mưa theo mùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u-ame_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "雨期（うき）",
         "meaning": {
-          "english": "rainy season"
+          "english": "rainy season",
+          "en": "rainy season",
+          "vi": "mùa mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u-ame_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "雷雨（らいう）",
         "meaning": {
-          "english": "thunderstorm"
+          "english": "thunderstorm",
+          "en": "thunderstorm",
+          "vi": "dông bão"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u-ame_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "雨（あめ）",
         "meaning": {
-          "english": "rain"
+          "english": "rain",
+          "en": "rain",
+          "vi": "mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u-ame_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "大雨（おおあめ）",
         "meaning": {
-          "english": "heavy rain"
+          "english": "heavy rain",
+          "en": "heavy rain",
+          "vi": "mưa lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u-ame_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "雨上がり（あめあがり）",
         "meaning": {
-          "english": "after the rain"
+          "english": "after the rain",
+          "en": "after the rain",
+          "vi": "sau cơn mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u-ame_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "雨蛙（あまがえる）",
         "meaning": {
-          "english": "tree frog"
+          "english": "tree frog",
+          "en": "tree frog",
+          "vi": "ếch cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u-ame_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "雨雲（あまぐも）",
         "meaning": {
-          "english": "rain cloud"
+          "english": "rain cloud",
+          "en": "rain cloud",
+          "vi": "mây mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u-ame_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "*小雨（こさめ）",
         "meaning": {
-          "english": "light rain"
+          "english": "light rain",
+          "en": "light rain",
+          "vi": "mưa nhẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u-ame_06_j.opus",
@@ -263,7 +286,9 @@
     "kanji": {
       "character": "雨",
       "meaning": {
-        "english": "rain"
+        "english": "rain",
+        "en": "rain",
+        "vi": "mưa"
       },
       "strokes": {
         "count": 8,
@@ -317,7 +342,9 @@
         "romaji": "ame"
       },
       "meaning": {
-        "english": "rain"
+        "english": "rain",
+        "en": "rain",
+        "vi": "mưa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ame0.svg",
@@ -338,7 +365,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "950",
     "strokeCount": 8,
-    "meaning": "rain",
+    "meaning": {
+      "en": "rain",
+      "vi": "mưa"
+    },
     "kunyomi": [
       "あめ",
       "あま-",
@@ -352,7 +382,8 @@
         "example": "雨水",
         "reading": "アマミズ",
         "meaning": {
-          "vi": "rain water, \"rain water\" solar term (approx. February 19)"
+          "vi": "rain water, \"rain water\" solar term (approx. February 19)",
+          "en": ""
         },
         "romaji": "amamizu"
       },
@@ -360,7 +391,8 @@
         "example": "雨季",
         "reading": "ウキ",
         "meaning": {
-          "en": "rainy season"
+          "en": "rainy season",
+          "vi": "mùa mưa"
         },
         "romaji": "uki"
       },
@@ -368,7 +400,8 @@
         "example": "集中豪雨",
         "reading": "シュウチュウゴウウ",
         "meaning": {
-          "vi": "local downpour, severe rain fall"
+          "vi": "local downpour, severe rain fall",
+          "en": ""
         },
         "romaji": "shuuchuugouu"
       },
@@ -376,7 +409,8 @@
         "example": "時雨",
         "reading": "シグレ",
         "meaning": {
-          "en": "rain shower in late autumn (fall) or early winter, seasonable rain"
+          "en": "rain shower in late autumn (fall) or early winter, seasonable rain",
+          "vi": "mưa cuối thu đầu đông, mưa theo mùa"
         },
         "romaji": "shigure"
       }
@@ -386,7 +420,8 @@
         "example": "雨",
         "reading": "あめ",
         "meaning": {
-          "en": "rain, rainy day, rainy weather, the November suit (in hanafuda)"
+          "en": "rain, rainy day, rainy weather, the November suit (in hanafuda)",
+          "vi": "mưa, ngày mưa, thời tiết mưa, lá tháng mười một trong hanafuda"
         },
         "romaji": "ame"
       },
@@ -394,7 +429,8 @@
         "example": "雨降り",
         "reading": "あめふり",
         "meaning": {
-          "en": "rainfall, rainy weather, rain, rainy, wet"
+          "en": "rainfall, rainy weather, rain, rainy, wet",
+          "vi": "lượng mưa, thời tiết mưa, mưa, ẩm ướt"
         },
         "romaji": "amefuri"
       },
@@ -402,7 +438,8 @@
         "example": "五月雨",
         "reading": "さみだれ",
         "meaning": {
-          "en": "early-summer rain"
+          "en": "early-summer rain",
+          "vi": "mưa đầu hạ"
         },
         "romaji": "samidare"
       },
@@ -410,14 +447,18 @@
         "example": "強い雨",
         "reading": "つよいあめ",
         "meaning": {
-          "vi": "heavy rain (specifically 20-29 mm per hour in JMA use)"
+          "vi": "heavy rain (specifically 20-29 mm per hour in JMA use)",
+          "en": ""
         },
         "romaji": "tsuyoiame"
       }
     ],
     "radical": {
       "symbol": "雨",
-      "meaning": "rain"
+      "meaning": {
+        "en": "rain",
+        "vi": "mưa"
+      }
     },
     "parts": [
       "雨"
@@ -431,5 +472,6 @@
     "vú",
     "vũ",
     "vụ"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: khung trời có những hạt rơi xuống như mưa."
 }

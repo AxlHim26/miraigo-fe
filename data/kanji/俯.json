@@ -5,7 +5,10 @@
     "query": "俯",
     "found": true,
     "strokeCount": 10,
-    "meaning": "bend down, lie prostrate",
+    "meaning": {
+      "en": "bend down, lie prostrate",
+      "vi": "cúi xuống, nằm phục"
+    },
     "kunyomi": [
       "ふ.す",
       "うつむ.く",
@@ -19,7 +22,8 @@
         "example": "俯角",
         "reading": "フカク",
         "meaning": {
-          "vi": "depression, angle of dip"
+          "vi": "chỗ trũng, góc dốc xuống",
+          "en": "depression, angle of dip"
         },
         "romaji": "fukaku"
       },
@@ -27,7 +31,8 @@
         "example": "俯瞰",
         "reading": "フカン",
         "meaning": {
-          "en": "overlooking, looking down at, having an overhead view, having a bird's-eye view, having a high-angle view"
+          "en": "overlooking, looking down at, having an overhead view, having a bird's-eye view, having a high-angle view",
+          "vi": "nhìn xuống, nhìn từ trên cao, có tầm nhìn bao quát, góc nhìn chim bay, góc nhìn cao"
         },
         "romaji": "fukan"
       }
@@ -37,7 +42,8 @@
         "example": "俯す",
         "reading": "ふす",
         "meaning": {
-          "en": "to lower (one's head, gaze, etc.)"
+          "en": "to lower (one's head, gaze, etc.)",
+          "vi": "cúi thấp (đầu, ánh mắt, v.v.)"
         },
         "romaji": "fusu"
       },
@@ -45,7 +51,8 @@
         "example": "俯く",
         "reading": "うつむく",
         "meaning": {
-          "en": "to hang one's head, to look down, to cast one's eyes downward"
+          "en": "to hang one's head, to look down, to cast one's eyes downward",
+          "vi": "cúi đầu, nhìn xuống, hạ ánh mắt xuống"
         },
         "romaji": "utsumuku"
       }
@@ -55,7 +62,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

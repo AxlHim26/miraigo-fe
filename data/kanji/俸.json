@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1834",
     "strokeCount": 10,
-    "meaning": "stipend, salary",
+    "meaning": {
+      "en": "stipend, salary",
+      "vi": "bổng lộc, lương"
+    },
     "kunyomi": [],
     "onyomi": [
       "ホウ"
@@ -18,7 +21,8 @@
         "example": "俸",
         "reading": "ホウ",
         "meaning": {
-          "en": "salary"
+          "en": "salary",
+          "vi": "lương"
         },
         "romaji": "hou"
       },
@@ -26,7 +30,8 @@
         "example": "俸給",
         "reading": "ホウキュウ",
         "meaning": {
-          "vi": "salary (esp. public employees), wages, pay"
+          "vi": "tiền lương (đặc biệt của công chức), tiền công, thù lao",
+          "en": "salary (esp. public employees), wages, pay"
         },
         "romaji": "houkyuu"
       },
@@ -34,7 +39,8 @@
         "example": "号俸",
         "reading": "ゴウホウ",
         "meaning": {
-          "en": "gradational salary"
+          "en": "gradational salary",
+          "vi": "lương theo bậc"
         },
         "romaji": "gouhou"
       },
@@ -42,7 +48,8 @@
         "example": "増俸",
         "reading": "ゾウホウ",
         "meaning": {
-          "en": "salary increase, raise"
+          "en": "salary increase, raise",
+          "vi": "tăng lương"
         },
         "romaji": "zouhou"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

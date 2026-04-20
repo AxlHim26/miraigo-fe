@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "redundant, superfluous",
+    "meaning": {
+      "en": "redundant, superfluous",
+      "vi": "thừa, dư thừa"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "冗談（じょうだん）",
         "meaning": {
-          "english": "joke"
+          "english": "joke",
+          "en": "joke",
+          "vi": "trò đùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou(chouna)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "冗長な（じょうちょうな）",
         "meaning": {
-          "english": "tedious, verbose, redundancy"
+          "english": "tedious, verbose, redundancy",
+          "en": "tedious, verbose, redundancy",
+          "vi": "dài dòng, lê thê, sự dư thừa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou(chouna)_06_b.opus",
@@ -121,7 +128,9 @@
     "kanji": {
       "character": "冗",
       "meaning": {
-        "english": "redundant, superfluous"
+        "english": "redundant, superfluous",
+        "en": "redundant, superfluous",
+        "vi": "thừa, dư thừa"
       },
       "strokes": {
         "count": 4,
@@ -167,7 +176,9 @@
         "romaji": "wakanmuri"
       },
       "meaning": {
-        "english": "cover, crown"
+        "english": "cover, crown",
+        "en": "cover, crown",
+        "vi": "che phủ, vương miện"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/wakanmuri0.svg",
@@ -188,7 +199,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1782",
     "strokeCount": 4,
-    "meaning": "superfluous, uselessness",
+    "meaning": {
+      "en": "superfluous, uselessness",
+      "vi": "sự dư thừa, vô dụng"
+    },
     "kunyomi": [],
     "onyomi": [
       "ジョウ"
@@ -198,7 +212,8 @@
         "example": "冗",
         "reading": "ジョウ",
         "meaning": {
-          "en": "waste, uselessness, redundance"
+          "en": "waste, uselessness, redundance",
+          "vi": "lãng phí, vô dụng, dư thừa"
         },
         "romaji": "jou"
       },
@@ -206,7 +221,8 @@
         "example": "冗談",
         "reading": "ジョウダン",
         "meaning": {
-          "en": "joke, jest, funny story"
+          "en": "joke, jest, funny story",
+          "vi": "trò đùa, lời bông đùa, chuyện vui"
         },
         "romaji": "joudan"
       }
@@ -214,7 +230,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冖",
-      "meaning": "cover"
+      "meaning": {
+        "en": "cover",
+        "vi": "che phủ"
+      }
     },
     "parts": [
       "冖",

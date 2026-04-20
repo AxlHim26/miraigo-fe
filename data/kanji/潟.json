@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1204",
     "strokeCount": 15,
-    "meaning": "lagoon",
+    "meaning": {
+      "en": "lagoon",
+      "vi": "đầm phá, đầm nước ven biển"
+    },
     "kunyomi": [
       "かた",
       "-がた"
@@ -21,7 +24,8 @@
         "example": "潟湖",
         "reading": "セキコ",
         "meaning": {
-          "en": "lagoon"
+          "en": "lagoon",
+          "vi": "đầm phá, đầm nước ven biển"
         },
         "romaji": "sekiko"
       }
@@ -31,7 +35,8 @@
         "example": "潟",
         "reading": "かた",
         "meaning": {
-          "en": "lagoon, inlet, creek, tidal beach, tidal flat, tideland"
+          "en": "lagoon, inlet, creek, tidal beach, tidal flat, tideland",
+          "vi": "đầm phá, cửa nhỏ, rạch, bãi triều, đất ven thủy triều"
         },
         "romaji": "kata"
       }
@@ -42,7 +47,10 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": {
+        "en": "water",
+        "vi": "nước"
+      }
     },
     "parts": [
       "勹",
@@ -57,5 +65,7 @@
   },
   "hanViet": [
     "tích"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: nhiều nước hợp thành một vùng trũng đọng gần biển, chính là đầm phá."
 }

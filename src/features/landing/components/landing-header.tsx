@@ -1,6 +1,5 @@
 import LoginIcon from "@mui/icons-material/Login";
 import MenuIcon from "@mui/icons-material/Menu";
-import { Button } from "@mui/material";
 import Link from "next/link";
 
 import BrandLogo from "@/shared/components/ui/brand-logo";
@@ -36,24 +35,18 @@ export default function LandingHeader() {
         </div>
 
         <div className="flex items-center gap-4">
-          <Link href="/login" passHref legacyBehavior>
-            <Button
-              variant="outlined"
-              color="primary"
-              className="hidden rounded-full border-blue-200 font-medium hover:bg-blue-50 dark:border-blue-800 dark:hover:bg-blue-900/30 sm:flex"
-              startIcon={<LoginIcon />}
-            >
-              Đăng nhập
-            </Button>
+          <Link
+            href="/login"
+            className="hidden items-center gap-2 rounded-full border border-blue-200 px-4 py-2 font-medium text-blue-700 transition-colors hover:bg-blue-50 dark:border-blue-800 dark:text-blue-300 dark:hover:bg-blue-900/30 sm:inline-flex"
+          >
+            <LoginIcon fontSize="small" />
+            <span>Đăng nhập</span>
           </Link>
-          <Link href="/courses" passHref legacyBehavior>
-            <Button
-              variant="contained"
-              color="primary"
-              className="rounded-full bg-gradient-to-r from-blue-600 to-indigo-600 font-medium shadow-md shadow-blue-500/20 hover:from-blue-700 hover:to-indigo-700"
-            >
-              Bắt đầu miễn phí
-            </Button>
+          <Link
+            href="/courses"
+            className="inline-flex items-center justify-center rounded-full bg-gradient-to-r from-blue-600 to-indigo-600 px-5 py-2 text-sm font-medium text-white shadow-md shadow-blue-500/20 transition-all hover:from-blue-700 hover:to-indigo-700"
+          >
+            Bắt đầu miễn phí
           </Link>
           {/* Mobile menu could go here */}
           <button className="flex h-10 w-10 items-center justify-center rounded-full text-slate-500 transition-colors hover:bg-slate-100 dark:text-slate-400 dark:hover:bg-slate-800 md:hidden">

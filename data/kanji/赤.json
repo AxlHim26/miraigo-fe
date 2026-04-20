@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "aka, akai, akaramu, akarameru",
-    "meaning": "red",
+    "meaning": {
+      "en": "red",
+      "vi": "màu đỏ"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "赤外線（せきがいせん）",
         "meaning": {
-          "english": "infrared rays"
+          "english": "infrared rays",
+          "en": "infrared rays",
+          "vi": "infrared rays"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "赤十字（せきじゅうじ）",
         "meaning": {
-          "english": "Red Cross"
+          "english": "Red Cross",
+          "en": "Red Cross",
+          "vi": "Red Cross"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "赤道（せきどう）",
         "meaning": {
-          "english": "equator"
+          "english": "equator",
+          "en": "equator",
+          "vi": "equator"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "赤面する（せきめんする）",
         "meaning": {
-          "english": "blush"
+          "english": "blush",
+          "en": "blush",
+          "vi": "blush"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "赤銅色（しゃくどういろ）",
         "meaning": {
-          "english": "tanned color"
+          "english": "tanned color",
+          "en": "tanned color",
+          "vi": "tanned color"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "赤い（あかい）",
         "meaning": {
-          "english": "red"
+          "english": "red",
+          "en": "red",
+          "vi": "màu đỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "赤ちゃん（あかちゃん）",
         "meaning": {
-          "english": "baby"
+          "english": "baby",
+          "en": "baby",
+          "vi": "baby"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "赤ん坊（あかんぼう）",
         "meaning": {
-          "english": "baby"
+          "english": "baby",
+          "en": "baby",
+          "vi": "baby"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "赤字（あかじ）",
         "meaning": {
-          "english": "deficit"
+          "english": "deficit",
+          "en": "deficit",
+          "vi": "deficit"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "赤らめる（あからめる）",
         "meaning": {
-          "english": "redden"
+          "english": "redden",
+          "en": "redden",
+          "vi": "redden"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "*真っ赤な（まっかな）",
         "meaning": {
-          "english": "deep red"
+          "english": "deep red",
+          "en": "deep red",
+          "vi": "deep red"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-aka_06_k.opus",
@@ -291,7 +316,9 @@
     "kanji": {
       "character": "赤",
       "meaning": {
-        "english": "red"
+        "english": "red",
+        "en": "red",
+        "vi": "màu đỏ"
       },
       "strokes": {
         "count": 7,
@@ -343,7 +370,9 @@
         "romaji": "aka"
       },
       "meaning": {
-        "english": "red"
+        "english": "red",
+        "en": "red",
+        "vi": "màu đỏ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/aka0.svg",
@@ -364,7 +393,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "584",
     "strokeCount": 7,
-    "meaning": "red",
+    "meaning": {
+      "en": "red",
+      "vi": "màu đỏ"
+    },
     "kunyomi": [
       "あか",
       "あか-",
@@ -381,7 +413,8 @@
         "example": "赤軍",
         "reading": "セキグン",
         "meaning": {
-          "vi": "Red Army (Soviet Union, 1918-1946), Workers' and Peasants' Red Army, Japanese Red Army, JRA"
+          "vi": "Red Army (Soviet Union, 1918-1946), Workers' and Peasants' Red Army, Japanese Red Army, JRA",
+          "en": "Red Army (Soviet Union, 1918-1946), Workers' and Peasants' Red Army, Japanese Red Army, JRA"
         },
         "romaji": "sekigun"
       },
@@ -389,7 +422,8 @@
         "example": "赤外線",
         "reading": "セキガイセン",
         "meaning": {
-          "en": "infrared rays, infrared radiation"
+          "en": "infrared rays, infrared radiation",
+          "vi": "infrared rays, infrared radiation"
         },
         "romaji": "sekigaisen"
       },
@@ -397,7 +431,8 @@
         "example": "七赤",
         "reading": "シチセキ",
         "meaning": {
-          "vi": "seventh of nine traditional astrological signs (corresponding to Venus and west)"
+          "vi": "seventh of nine traditional astrological signs (corresponding to Venus and west)",
+          "en": "seventh of nine traditional astrological signs (corresponding to Venus and west)"
         },
         "romaji": "shichiseki"
       },
@@ -405,7 +440,8 @@
         "example": "日赤",
         "reading": "ニッセキ",
         "meaning": {
-          "vi": "Japanese Red Cross Society (abbr), Nisseki"
+          "vi": "Japanese Red Cross Society (abbr), Nisseki",
+          "en": "Japanese Red Cross Society (abbr), Nisseki"
         },
         "romaji": "nisseki"
       },
@@ -413,7 +449,8 @@
         "example": "赤銅",
         "reading": "シャクドウ",
         "meaning": {
-          "vi": "shakudo, gold-copper alloy, often with a blue patina"
+          "vi": "shakudo, gold-copper alloy, often with a blue patina",
+          "en": "shakudo, gold-copper alloy, often with a blue patina"
         },
         "romaji": "shakudou"
       },
@@ -421,7 +458,8 @@
         "example": "赤銅色",
         "reading": "シャクドウイロ",
         "meaning": {
-          "en": "brown, tan"
+          "en": "brown, tan",
+          "vi": "brown, tan"
         },
         "romaji": "shakudouiro"
       }
@@ -431,7 +469,8 @@
         "example": "赤",
         "reading": "あか",
         "meaning": {
-          "vi": "red, crimson, scarlet, red-containing colour (e.g. brown, pink, orange), Red (i.e. communist), red light (traffic), red ink (i.e. in finance or proof-reading), (in) the red, complete, total, perfect, obvious, copper, red 5-point card"
+          "vi": "red, crimson, scarlet, red-containing colour (e.g. brown, pink, orange), Red (i.e. communist), red light (traffic), red ink (i.e. in finance or proof-reading), (in) the red, complete, total, perfect, obvious, copper, red 5-point card",
+          "en": "red, crimson, scarlet, red-containing colour (e.g. brown, pink, orange), Red (i.e. communist), red light (traffic), red ink (i.e. in finance or proof-reading), (in) the red, complete, total, perfect, obvious, copper, red 5-point card"
         },
         "romaji": "aka"
       },
@@ -439,7 +478,8 @@
         "example": "銅",
         "reading": "どう",
         "meaning": {
-          "vi": "copper (Cu), bronze (medal)"
+          "vi": "copper (Cu), bronze (medal)",
+          "en": "copper (Cu), bronze (medal)"
         },
         "romaji": "dou"
       },
@@ -447,7 +487,8 @@
         "example": "紅赤",
         "reading": "べにあか",
         "meaning": {
-          "vi": "beniaka, variety of sweet potato with red skin and sweet yellow flesh; product of the Kawagoe region, bright red tinged with yellow"
+          "vi": "beniaka, variety of sweet potato with red skin and sweet yellow flesh; product of the Kawagoe region, bright red tinged with yellow",
+          "en": "beniaka, variety of sweet potato with red skin and sweet yellow flesh; product of the Kawagoe region, bright red tinged with yellow"
         },
         "romaji": "beniaka"
       },
@@ -455,7 +496,8 @@
         "example": "真赤",
         "reading": "まあか",
         "meaning": {
-          "vi": "bright red, deep red"
+          "vi": "bright red, deep red",
+          "en": "bright red, deep red"
         },
         "romaji": "maaka"
       },
@@ -463,7 +505,8 @@
         "example": "赤い",
         "reading": "あかい",
         "meaning": {
-          "en": "red, crimson, scarlet, vermilion, Red, communist"
+          "en": "red, crimson, scarlet, vermilion, Red, communist",
+          "vi": "red, crimson, scarlet, vermilion, Red, communist"
         },
         "romaji": "akai"
       },
@@ -471,7 +514,8 @@
         "example": "赤色",
         "reading": "あかいろ",
         "meaning": {
-          "en": "red, red color (colour), communism, the left"
+          "en": "red, red color (colour), communism, the left",
+          "vi": "red, red color (colour), communism, the left"
         },
         "romaji": "akairo"
       },
@@ -479,7 +523,8 @@
         "example": "赤らむ",
         "reading": "あからむ",
         "meaning": {
-          "en": "to become red, to redden, to blush"
+          "en": "to become red, to redden, to blush",
+          "vi": "to become red, to redden, to blush"
         },
         "romaji": "akaramu"
       },
@@ -487,14 +532,18 @@
         "example": "赤らめる",
         "reading": "あからめる",
         "meaning": {
-          "en": "to blush, to redden"
+          "en": "to blush, to redden",
+          "vi": "to blush, to redden"
         },
         "romaji": "akarameru"
       }
     ],
     "radical": {
       "symbol": "赤",
-      "meaning": "red, naked"
+      "meaning": {
+        "en": "red, naked",
+        "vi": "đỏ, trần trụi"
+      }
     },
     "parts": [
       "土",
@@ -508,5 +557,7 @@
   "hanViet": [
     "thích",
     "xích"
-  ]
+  ],
+  "jlpt_level": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 赤 có bộ đất và lửa, liên tưởng đất nung đỏ rực thành màu đỏ."
 }

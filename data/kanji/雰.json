@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1341",
     "strokeCount": 12,
-    "meaning": "atmosphere, fog",
+    "meaning": {
+      "en": "atmosphere, fog",
+      "vi": "bầu không khí, sương mù"
+    },
     "kunyomi": [],
     "onyomi": [
       "フン"
@@ -18,7 +21,8 @@
         "example": "雰囲気",
         "reading": "フンイキ",
         "meaning": {
-          "vi": "atmosphere, mood, ambience, ambiance, aura, feel, a certain air, presence, special aura, something (about someone), (Earth's) atmosphere"
+          "vi": "atmosphere, mood, ambience, ambiance, aura, feel, a certain air, presence, special aura, something (about someone), (Earth's) atmosphere",
+          "en": ""
         },
         "romaji": "fun'iki"
       },
@@ -26,7 +30,8 @@
         "example": "雰囲気美人",
         "reading": "フンイキビジン",
         "meaning": {
-          "en": "woman who is not traditionally beautiful yet somehow very attractive, woman with an aura of beauty"
+          "en": "woman who is not traditionally beautiful yet somehow very attractive, woman with an aura of beauty",
+          "vi": "người phụ nữ không theo chuẩn đẹp thông thường nhưng vẫn rất cuốn hút, người phụ nữ có khí chất đẹp"
         },
         "romaji": "fun'ikibijin"
       }
@@ -34,7 +39,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "雨",
-      "meaning": "rain"
+      "meaning": {
+        "en": "rain",
+        "vi": "mưa"
+      }
     },
     "parts": [
       "ハ",
@@ -48,5 +56,7 @@
   },
   "hanViet": [
     "phân"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: dưới mưa có làn khí lan tỏa thành màn sương, nên 雰 gợi bầu không khí."
 }

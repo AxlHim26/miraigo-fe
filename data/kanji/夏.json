@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 3,
     "kunyomi": "natsu",
-    "meaning": "summer",
+    "meaning": {
+      "en": "summer",
+      "vi": "mùa hè"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "夏期講座（かきこうざ）",
         "meaning": {
-          "english": "course in summer term"
+          "en": "course in summer term",
+          "vi": "môn học học kỳ hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/natsu_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "初夏（しょか）",
         "meaning": {
-          "english": "early summer"
+          "en": "early summer",
+          "vi": "đầu hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/natsu_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "夏至（げし）",
         "meaning": {
-          "english": "summer solstice"
+          "en": "summer solstice",
+          "vi": "hạ chí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/natsu_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "夏（なつ）",
         "meaning": {
-          "english": "summer"
+          "en": "summer",
+          "vi": "mùa hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/natsu_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "真夏（まなつ）",
         "meaning": {
-          "english": "midsummer"
+          "en": "midsummer",
+          "vi": "giữa hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/natsu_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "常夏（とこなつ）",
         "meaning": {
-          "english": "everlasting summer"
+          "en": "everlasting summer",
+          "vi": "mùa hè bất tận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/natsu_06_f.opus",
@@ -222,7 +231,8 @@
     "kanji": {
       "character": "夏",
       "meaning": {
-        "english": "summer"
+        "en": "summer",
+        "vi": "mùa hè"
       },
       "strokes": {
         "count": 10,
@@ -280,7 +290,8 @@
         "romaji": "natsuashi"
       },
       "meaning": {
-        "english": "to go slowly"
+        "en": "to go slowly",
+        "vi": "đi chậm"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/natsuashi0.svg",
@@ -301,7 +312,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "659",
     "strokeCount": 10,
-    "meaning": "summer",
+    "meaning": {
+      "en": "summer",
+      "vi": "mùa hè"
+    },
     "kunyomi": [
       "なつ"
     ],
@@ -315,6 +329,7 @@
         "example": "夏",
         "reading": "カ",
         "meaning": {
+          "en": "Xia dynasty (of China; ca. 2070-1600 BCE; possibly mythological), Hsia dynasty",
           "vi": "Xia dynasty (of China; ca. 2070-1600 BCE; possibly mythological), Hsia dynasty"
         },
         "romaji": "ka"
@@ -323,7 +338,8 @@
         "example": "夏季",
         "reading": "カキ",
         "meaning": {
-          "en": "summer season, summer, summertime"
+          "en": "summer season, summer, summertime",
+          "vi": "mùa hè, thời gian mùa hè"
         },
         "romaji": "kaki"
       },
@@ -331,7 +347,8 @@
         "example": "初夏",
         "reading": "ショカ",
         "meaning": {
-          "en": "early summer, fourth month of the lunar calendar"
+          "en": "early summer, fourth month of the lunar calendar",
+          "vi": "đầu hè, tháng tư âm lịch"
         },
         "romaji": "shoka"
       },
@@ -339,7 +356,8 @@
         "example": "盛夏",
         "reading": "セイカ",
         "meaning": {
-          "en": "midsummer, height of summer"
+          "en": "midsummer, height of summer",
+          "vi": "midsummer, height of summer"
         },
         "romaji": "seika"
       },
@@ -347,7 +365,8 @@
         "example": "夏",
         "reading": "ゲ",
         "meaning": {
-          "en": "summer (on the lunisolar calendar: 16th day of the 4th month to the 15th day of the 7th month)"
+          "en": "summer (on the lunisolar calendar: 16th day of the 4th month to the 15th day of the 7th month)",
+          "vi": "mùa hè theo âm dương lịch"
         },
         "romaji": "ge"
       },
@@ -355,7 +374,8 @@
         "example": "夏至",
         "reading": "ゲシ",
         "meaning": {
-          "en": "summer solstice"
+          "en": "summer solstice",
+          "vi": "hạ chí"
         },
         "romaji": "geshi"
       },
@@ -363,7 +383,8 @@
         "example": "一夏",
         "reading": "イチゲ",
         "meaning": {
-          "en": "one summer (during which a monk attends a summer retreat)"
+          "en": "one summer (during which a monk attends a summer retreat)",
+          "vi": "một mùa hạ an cư"
         },
         "romaji": "ichige"
       },
@@ -371,6 +392,7 @@
         "example": "半夏",
         "reading": "ハンゲ",
         "meaning": {
+          "en": "crow dipper (Pinellia tuber), 11th day after the summer solstice, last seed-sowing and rice-planting day",
           "vi": "crow dipper (Pinellia tuber), 11th day after the summer solstice, last seed-sowing and rice-planting day"
         },
         "romaji": "hange"
@@ -381,7 +403,8 @@
         "example": "夏",
         "reading": "なつ",
         "meaning": {
-          "en": "summer"
+          "en": "summer",
+          "vi": "mùa hè"
         },
         "romaji": "natsu"
       },
@@ -389,7 +412,8 @@
         "example": "夏季",
         "reading": "かき",
         "meaning": {
-          "en": "summer season, summer, summertime"
+          "en": "summer season, summer, summertime",
+          "vi": "mùa hè, thời gian mùa hè"
         },
         "romaji": "kaki"
       },
@@ -397,7 +421,8 @@
         "example": "初夏",
         "reading": "しょか",
         "meaning": {
-          "en": "early summer, fourth month of the lunar calendar"
+          "en": "early summer, fourth month of the lunar calendar",
+          "vi": "đầu hè, tháng tư âm lịch"
         },
         "romaji": "shoka"
       },
@@ -405,14 +430,18 @@
         "example": "常夏",
         "reading": "とこなつ",
         "meaning": {
-          "en": "everlasting summer"
+          "en": "everlasting summer",
+          "vi": "mùa hè bất tận"
         },
         "romaji": "tokonatsu"
       }
     ],
     "radical": {
       "symbol": "夊",
-      "meaning": "go slowly"
+      "meaning": {
+        "en": "go slowly",
+        "vi": "đi chậm"
+      }
     },
     "parts": [
       "一",
@@ -429,5 +458,7 @@
     "giá",
     "giạ",
     "hạ"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: dáng người đội nắng đi chậm trong mùa nóng, nên 夏 là mùa hè."
 }

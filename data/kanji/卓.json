@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "table, prominent",
+    "meaning": {
+      "en": "table, prominent",
+      "vi": "bàn, nổi bật"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "卓上（たくじょう）",
         "meaning": {
-          "english": "tabletop, desktop"
+          "english": "tabletop, desktop",
+          "en": "tabletop, desktop",
+          "vi": "mặt bàn, bàn làm việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(den)taku_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "卓球（たっきゅう）",
         "meaning": {
-          "english": "table tennis, ping-pong"
+          "english": "table tennis, ping-pong",
+          "en": "table tennis, ping-pong",
+          "vi": "bóng bàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(den)taku_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "卓見（たくけん）",
         "meaning": {
-          "english": "penetration, excellent idea"
+          "english": "penetration, excellent idea",
+          "en": "penetration, excellent idea",
+          "vi": "sự thấu suốt, ý hay xuất sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(den)taku_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "食卓（しょくたく）",
         "meaning": {
-          "english": "dining table"
+          "english": "dining table",
+          "en": "dining table",
+          "vi": "bàn ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(den)taku_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "電卓（でんたく）",
         "meaning": {
-          "english": "calculator"
+          "english": "calculator",
+          "en": "calculator",
+          "vi": "máy tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(den)taku_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "卓抜な（たくばつな）",
         "meaning": {
-          "english": "excellent, superior"
+          "english": "excellent, superior",
+          "en": "excellent, superior",
+          "vi": "xuất sắc, ưu việt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(den)taku_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "卓越する（たくえつする）",
         "meaning": {
-          "english": "excel, surpass"
+          "english": "excel, surpass",
+          "en": "excel, surpass",
+          "vi": "vượt trội, vượt hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(den)taku_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "卓立する（たくりつする）",
         "meaning": {
-          "english": "excel, stand out"
+          "english": "excel, stand out",
+          "en": "excel, stand out",
+          "vi": "nổi bật, vượt trội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(den)taku_06_h.opus",
@@ -187,7 +206,9 @@
     "kanji": {
       "character": "卓",
       "meaning": {
-        "english": "table, prominent"
+        "english": "table, prominent",
+        "en": "table, prominent",
+        "vi": "bàn, nổi bật"
       },
       "strokes": {
         "count": 8,
@@ -241,7 +262,9 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten",
+        "en": "ten",
+        "vi": "mười"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -262,7 +285,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1348",
     "strokeCount": 8,
-    "meaning": "eminent, table, desk, high",
+    "meaning": {
+      "en": "eminent, table, desk, high",
+      "vi": "nổi bật, bàn, bàn làm việc, cao"
+    },
     "kunyomi": [],
     "onyomi": [
       "タク"
@@ -272,7 +298,8 @@
         "example": "卓",
         "reading": "タク",
         "meaning": {
-          "vi": "table, desk, counter for tables, desks, etc., offering table before an altar (sometimes used in tea ceremony), tabletop incense burner"
+          "vi": "table, desk, counter for tables, desks, etc., offering table before an altar (sometimes used in tea ceremony), tabletop incense burner",
+          "en": "table, desk, counter for tables, desks, etc., offering table before an altar (sometimes used in tea ceremony), tabletop incense burner"
         },
         "romaji": "taku"
       },
@@ -280,7 +307,8 @@
         "example": "卓越",
         "reading": "タクエツ",
         "meaning": {
-          "vi": "preeminence, excellence, superiority, transcendence"
+          "vi": "preeminence, excellence, superiority, transcendence",
+          "en": "preeminence, excellence, superiority, transcendence"
         },
         "romaji": "takuetsu"
       },
@@ -288,7 +316,8 @@
         "example": "聖卓",
         "reading": "セイタク",
         "meaning": {
-          "vi": "altar (esp. Christian)"
+          "vi": "altar (esp. Christian)",
+          "en": "altar (esp. Christian)"
         },
         "romaji": "seitaku"
       },
@@ -296,7 +325,8 @@
         "example": "音声調整卓",
         "reading": "オンセイチョウセイタク",
         "meaning": {
-          "en": "mixing board (console, desk), (audio) mixer"
+          "en": "mixing board (console, desk), (audio) mixer",
+          "vi": "bàn trộn âm, mixer âm thanh"
         },
         "romaji": "onseichouseitaku"
       }
@@ -304,7 +334,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "mười, đầy đủ"
+      }
     },
     "parts": [
       "十",
@@ -318,5 +351,7 @@
   },
   "hanViet": [
     "trác"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Cái bàn cao nổi bật hơn xung quanh, nhớ nghĩa bàn và xuất sắc."
 }

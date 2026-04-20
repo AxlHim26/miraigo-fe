@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "i, hai, iri, iru, hairu, ireru, ire",
-    "meaning": "enter, put in",
+    "meaning": {
+      "en": "enter, put in",
+      "vi": "vào, cho vào"
+    },
     "kstroke": 2,
     "examples": [
       {
         "japanese": "収入（しゅうにゅう）",
         "meaning": {
-          "english": "income"
+          "english": "income",
+          "en": "income",
+          "vi": "thu nhập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "入学する（にゅうがくする）",
         "meaning": {
-          "english": "entry school or university"
+          "english": "entry school or university",
+          "en": "entry school or university",
+          "vi": "nhập học vào trường hoặc đại học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "入国する（にゅうこくする）",
         "meaning": {
-          "english": "entry a country"
+          "english": "entry a country",
+          "en": "entry a country",
+          "vi": "nhập cảnh vào một quốc gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "輸入する（ゆにゅうする）",
         "meaning": {
-          "english": "import"
+          "english": "import",
+          "en": "import",
+          "vi": "nhập khẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "気に入る（きにいる）",
         "meaning": {
-          "english": "be pleased with, come to like"
+          "english": "be pleased with, come to like",
+          "en": "be pleased with, come to like",
+          "vi": "hài lòng với, dần thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "入り口（いりぐち）",
         "meaning": {
-          "english": "entrance"
+          "english": "entrance",
+          "en": "entrance",
+          "vi": "lối vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "仲間入り（なかまいり）",
         "meaning": {
-          "english": "join a group"
+          "english": "join a group",
+          "en": "join a group",
+          "vi": "gia nhập một nhóm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "入れる（いれる）",
         "meaning": {
-          "english": "put in, let in [v.t.]"
+          "english": "put in, let in [v.t.]",
+          "en": "put in, let in [v.t.]",
+          "vi": "cho vào, cho vào trong [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "入れ物（いれもの）",
         "meaning": {
-          "english": "container"
+          "english": "container",
+          "en": "container",
+          "vi": "đồ chứa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "入る（はいる）",
         "meaning": {
-          "english": "enter, get in [v.i.]"
+          "english": "enter, get in [v.i.]",
+          "en": "enter, get in [v.i.]",
+          "vi": "đi vào, vào trong [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hai(ru)_06_j.opus",
@@ -286,7 +309,9 @@
     "kanji": {
       "character": "入",
       "meaning": {
-        "english": "enter, put in"
+        "english": "enter, put in",
+        "en": "enter, put in",
+        "vi": "vào, cho vào"
       },
       "strokes": {
         "count": 2,
@@ -328,7 +353,9 @@
         "romaji": "iru"
       },
       "meaning": {
-        "english": "to enter"
+        "english": "to enter",
+        "en": "to enter",
+        "vi": "đi vào"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/iru0.svg",
@@ -349,7 +376,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "56",
     "strokeCount": 2,
-    "meaning": "enter, insert",
+    "meaning": {
+      "en": "enter, insert",
+      "vi": "đi vào, chèn vào"
+    },
     "kunyomi": [
       "い.る",
       "-い.る",
@@ -367,7 +397,8 @@
         "example": "入園",
         "reading": "ニュウエン",
         "meaning": {
-          "vi": "enrollment in kindergarten, enrollment in nursery school, entering a park, garden, zoo, etc."
+          "vi": "enrollment in kindergarten, enrollment in nursery school, entering a park, garden, zoo, etc.",
+          "en": "enrollment in kindergarten, enrollment in nursery school, entering a park, garden, zoo, etc."
         },
         "romaji": "nyuuen"
       },
@@ -375,7 +406,8 @@
         "example": "入院",
         "reading": "ニュウイン",
         "meaning": {
-          "vi": "hospitalization, hospitalisation"
+          "vi": "hospitalization, hospitalisation",
+          "en": "hospitalization, hospitalisation"
         },
         "romaji": "nyuuin"
       },
@@ -383,7 +415,8 @@
         "example": "輸出入",
         "reading": "ユシュツニュウ",
         "meaning": {
-          "vi": "export and import"
+          "vi": "export and import",
+          "en": "export and import"
         },
         "romaji": "yushutsunyuu"
       },
@@ -391,7 +424,8 @@
         "example": "納入",
         "reading": "ノウニュウ",
         "meaning": {
-          "vi": "payment (of taxes, fees, etc.), supply (of goods), delivery"
+          "vi": "payment (of taxes, fees, etc.), supply (of goods), delivery",
+          "en": "payment (of taxes, fees, etc.), supply (of goods), delivery"
         },
         "romaji": "nounyuu"
       },
@@ -399,7 +433,8 @@
         "example": "入水",
         "reading": "ジュスイ",
         "meaning": {
-          "en": "suicide by drowning, drowning oneself, entering the water, hitting the water"
+          "en": "suicide by drowning, drowning oneself, entering the water, hitting the water",
+          "vi": "tự tử bằng cách chết đuối, dìm mình xuống nước, xuống nước, lao xuống nước"
         },
         "romaji": "jusui"
       },
@@ -407,7 +442,8 @@
         "example": "入御",
         "reading": "ニュウギョ",
         "meaning": {
-          "vi": "emperor's return to the imperial palace"
+          "vi": "emperor's return to the imperial palace",
+          "en": "emperor's return to the imperial palace"
         },
         "romaji": "nyuugyo"
       }
@@ -417,7 +453,8 @@
         "example": "入る",
         "reading": "いる",
         "meaning": {
-          "vi": "to enter, to go in, to get in, to come in, to set (of the sun or moon), to sink, to go down, to attain (nirvana, enlightenment, etc.), to achieve, to reach (e.g. a climax), to do fully, to do intently, to do sincerely, to do deeply, to feel keenly, to (reach a state) completely"
+          "vi": "to enter, to go in, to get in, to come in, to set (of the sun or moon), to sink, to go down, to attain (nirvana, enlightenment, etc.), to achieve, to reach (e.g. a climax), to do fully, to do intently, to do sincerely, to do deeply, to feel keenly, to (reach a state) completely",
+          "en": "to enter, to go in, to get in, to come in, to set (of the sun or moon), to sink, to go down, to attain (nirvana, enlightenment, etc.), to achieve, to reach (e.g. a climax), to do fully, to do intently, to do sincerely, to do deeply, to feel keenly, to (reach a state) completely"
         },
         "romaji": "iru"
       },
@@ -425,7 +462,8 @@
         "example": "入満",
         "reading": "イルマン",
         "meaning": {
-          "en": "brother, lay brother, non-ordained member of a Christian religious order"
+          "en": "brother, lay brother, non-ordained member of a Christian religious order",
+          "vi": "tu huynh, giáo dân nam trong một dòng tu Kitô giáo chưa thụ phong"
         },
         "romaji": "iruman"
       },
@@ -433,7 +471,8 @@
         "example": "東入ル",
         "reading": "ひがしいる",
         "meaning": {
-          "en": "east of"
+          "en": "east of",
+          "vi": "ở phía đông của"
         },
         "romaji": "higashiiru"
       },
@@ -441,7 +480,8 @@
         "example": "西入ル",
         "reading": "にしいる",
         "meaning": {
-          "en": "west of"
+          "en": "west of",
+          "vi": "ở phía tây của"
         },
         "romaji": "nishiiru"
       },
@@ -449,7 +489,8 @@
         "example": "入れる",
         "reading": "いれる",
         "meaning": {
-          "vi": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"
+          "vi": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call",
+          "en": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"
         },
         "romaji": "ireru"
       },
@@ -457,14 +498,18 @@
         "example": "入る",
         "reading": "はいる",
         "meaning": {
-          "vi": "to enter, to come in, to go in, to get in, to arrive, to join (a club, company, etc.), to enter (a university, the army, etc.), to enroll (in), to go into (e.g. politics), to get into, to be contained (in), to be included (in), to be inside (e.g. a box), to come under (a heading), to belong (in a category), to (be able to) fit (in a container, building, etc.), to be (able to be) held, to be (able to be) accommodated, to be introduced, to be brought in, to be installed, to be received, to be obtained, to be scored (of points), to be won (of votes), to turn on, to start functioning, to start working, to enter (a month, season, etc.), to reach (e.g. a climax), to get to (e.g. the main topic), to enter into (e.g. negotiations), to start (doing), to begin, to form (of a crack, fissure, etc.), to develop, to be put in (of effort, spirit, feeling, etc.), to be applied (e.g. of strength), to be ready (of tea, coffee, etc.), to be made, to enter the body (of alcohol), to become drunk"
+          "vi": "to enter, to come in, to go in, to get in, to arrive, to join (a club, company, etc.), to enter (a university, the army, etc.), to enroll (in), to go into (e.g. politics), to get into, to be contained (in), to be included (in), to be inside (e.g. a box), to come under (a heading), to belong (in a category), to (be able to) fit (in a container, building, etc.), to be (able to be) held, to be (able to be) accommodated, to be introduced, to be brought in, to be installed, to be received, to be obtained, to be scored (of points), to be won (of votes), to turn on, to start functioning, to start working, to enter (a month, season, etc.), to reach (e.g. a climax), to get to (e.g. the main topic), to enter into (e.g. negotiations), to start (doing), to begin, to form (of a crack, fissure, etc.), to develop, to be put in (of effort, spirit, feeling, etc.), to be applied (e.g. of strength), to be ready (of tea, coffee, etc.), to be made, to enter the body (of alcohol), to become drunk",
+          "en": "to enter, to come in, to go in, to get in, to arrive, to join (a club, company, etc.), to enter (a university, the army, etc.), to enroll (in), to go into (e.g. politics), to get into, to be contained (in), to be included (in), to be inside (e.g. a box), to come under (a heading), to belong (in a category), to (be able to) fit (in a container, building, etc.), to be (able to be) held, to be (able to be) accommodated, to be introduced, to be brought in, to be installed, to be received, to be obtained, to be scored (of points), to be won (of votes), to turn on, to start functioning, to start working, to enter (a month, season, etc.), to reach (e.g. a climax), to get to (e.g. the main topic), to enter into (e.g. negotiations), to start (doing), to begin, to form (of a crack, fissure, etc.), to develop, to be put in (of effort, spirit, feeling, etc.), to be applied (e.g. of strength), to be ready (of tea, coffee, etc.), to be made, to enter the body (of alcohol), to become drunk"
         },
         "romaji": "hairu"
       }
     ],
     "radical": {
       "symbol": "入",
-      "meaning": "enter"
+      "meaning": {
+        "en": "enter",
+        "vi": "đi vào"
+      }
     },
     "parts": [
       "入"

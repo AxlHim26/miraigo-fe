@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1950",
     "strokeCount": 8,
-    "meaning": "uncle, youth",
+    "meaning": {
+      "en": "uncle, youth",
+      "vi": "chú, bác; tuổi trẻ"
+    },
     "kunyomi": [],
     "onyomi": [
       "シュク"
@@ -18,7 +21,8 @@
         "example": "叔母",
         "reading": "オバ",
         "meaning": {
-          "en": "aunt"
+          "en": "aunt",
+          "vi": "cô, dì, bác gái"
         },
         "romaji": "oba"
       },
@@ -26,7 +30,8 @@
         "example": "叔父",
         "reading": "オジ",
         "meaning": {
-          "en": "uncle"
+          "en": "uncle",
+          "vi": "chú, bác, cậu"
         },
         "romaji": "oji"
       },
@@ -34,7 +39,8 @@
         "example": "伯叔",
         "reading": "ハクシュク",
         "meaning": {
-          "en": "brothers, one's father's brothers"
+          "en": "brothers, one's father's brothers",
+          "vi": "anh em trai, các anh em của cha"
         },
         "romaji": "hakushuku"
       }
@@ -42,7 +48,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": {
+        "en": "right hand",
+        "vi": "tay phải"
+      }
     },
     "parts": [
       "卜",
@@ -56,5 +65,6 @@
   },
   "hanViet": [
     "thúc"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: bàn tay phải 又 cầm cành nhỏ, gợi hình người chú trẻ hơn trong họ."
 }

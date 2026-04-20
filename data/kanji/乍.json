@@ -5,7 +5,10 @@
     "query": "乍",
     "found": true,
     "strokeCount": 5,
-    "meaning": "though, notwithstanding, while, during, both, all",
+    "meaning": {
+      "en": "though, notwithstanding, while, during, both, all",
+      "vi": "mặc dù, bất chấp, trong khi, trong suốt, cả hai, tất cả"
+    },
     "kunyomi": [
       "-なが.ら",
       "たちま.ち"
@@ -18,7 +21,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "丿",
-      "meaning": "slash"
+      "meaning": {
+        "en": "slash",
+        "vi": "nét phẩy"
+      }
     },
     "parts": [
       "ノ",

@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2323",
     "strokeCount": 7,
-    "meaning": "nursing, attending, entertainer",
+    "meaning": {
+      "en": "nursing, attending, entertainer",
+      "vi": "chăm sóc, hầu cận, người mua vui"
+    },
     "kunyomi": [
       "とぎ"
     ],
@@ -22,7 +25,8 @@
         "example": "伽耶",
         "reading": "カヤ",
         "meaning": {
-          "en": "Kaya (ancient Korean confederacy), Karak"
+          "en": "Kaya (ancient Korean confederacy), Karak",
+          "vi": "Kaya (liên minh cổ đại của Hàn Quốc), Karak"
         },
         "romaji": "kaya"
       },
@@ -30,7 +34,8 @@
         "example": "伽耶琴",
         "reading": "カヤグム",
         "meaning": {
-          "en": "gayageum (12-stringed Korean zither)"
+          "en": "gayageum (12-stringed Korean zither)",
+          "vi": "đàn gayageum của Hàn Quốc (đàn 12 dây)"
         },
         "romaji": "kayagumu"
       },
@@ -38,7 +43,8 @@
         "example": "閼伽",
         "reading": "アカ",
         "meaning": {
-          "en": "water offering to Buddha, holy water"
+          "en": "water offering to Buddha, holy water",
+          "vi": "nước cúng Phật, nước thánh"
         },
         "romaji": "aka"
       },
@@ -46,7 +52,8 @@
         "example": "真那伽",
         "reading": "マナカ",
         "meaning": {
-          "en": "incense variety used in kōdō (orig. from Malacca)"
+          "en": "incense variety used in kōdō (orig. from Malacca)",
+          "vi": "một loại hương dùng trong hương đạo (gốc từ Malacca)"
         },
         "romaji": "manaka"
       },
@@ -54,6 +61,7 @@
         "example": "伽藍",
         "reading": "ガラン",
         "meaning": {
+          "en": "temple (esp. large one), monastery, temple building",
           "vi": "temple (esp. large one), monastery, temple building"
         },
         "romaji": "garan"
@@ -62,6 +70,7 @@
         "example": "伽藍鳥",
         "reading": "ガランチョウ",
         "meaning": {
+          "en": "pelican",
           "vi": "pelican"
         },
         "romaji": "garanchou"
@@ -70,7 +79,8 @@
         "example": "瑜伽",
         "reading": "ユガ",
         "meaning": {
-          "en": "yoga"
+          "en": "yoga",
+          "vi": "yoga"
         },
         "romaji": "yuga"
       },
@@ -78,6 +88,7 @@
         "example": "迦陵頻伽",
         "reading": "カリョウビンガ",
         "meaning": {
+          "en": "kalavinka, imaginary bird in paradise that sings sweet notes, person or creature with a beautiful voice",
           "vi": "kalavinka, imaginary bird in paradise that sings sweet notes, person or creature with a beautiful voice"
         },
         "romaji": "karyoubinga"
@@ -86,6 +97,7 @@
         "example": "伽羅",
         "reading": "キャラ",
         "meaning": {
+          "en": "aloes wood (Taxus cuspidata var. nana), aloes-wood perfume, aloes-wood incense",
           "vi": "aloes wood (Taxus cuspidata var. nana), aloes-wood perfume, aloes-wood incense"
         },
         "romaji": "kyara"
@@ -94,7 +106,8 @@
         "example": "伽羅蕗",
         "reading": "キャラブキ",
         "meaning": {
-          "en": "stalks of butterbur boiled in soy sauce"
+          "en": "stalks of butterbur boiled in soy sauce",
+          "vi": "cuống cây butterbur nấu với nước tương"
         },
         "romaji": "kyarabuki"
       },
@@ -102,7 +115,8 @@
         "example": "僧伽",
         "reading": "ソウギャ",
         "meaning": {
-          "en": "sangha (the Buddhist community)"
+          "en": "sangha (the Buddhist community)",
+          "vi": "tăng đoàn (cộng đồng Phật giáo)"
         },
         "romaji": "sougya"
       }
@@ -112,7 +126,8 @@
         "example": "伽",
         "reading": "とぎ",
         "meaning": {
-          "en": "nursing, nurse, attending, attendant, entertainer"
+          "en": "nursing, nurse, attending, attendant, entertainer",
+          "vi": "chăm sóc, y tá, hầu cận, người phục vụ, người mua vui"
         },
         "romaji": "togi"
       },
@@ -120,6 +135,7 @@
         "example": "伽芝居",
         "reading": "とぎしばい",
         "meaning": {
+          "en": "fairy play, pantomime",
           "vi": "fairy play, pantomime"
         },
         "romaji": "togishibai"
@@ -128,6 +144,7 @@
         "example": "御伽",
         "reading": "おとぎ",
         "meaning": {
+          "en": "attending (upon), keeping another company, being a confidant, serving (a nobleman), fairy tale",
           "vi": "attending (upon), keeping another company, being a confidant, serving (a nobleman), fairy tale"
         },
         "romaji": "otogi"
@@ -136,6 +153,7 @@
         "example": "夜伽",
         "reading": "よとぎ",
         "meaning": {
+          "en": "attending someone through the night (of a guard, nurse), sleeping with a man (at his bidding), overnight vigil before burial",
           "vi": "attending someone through the night (of a guard, nurse), sleeping with a man (at his bidding), overnight vigil before burial"
         },
         "romaji": "yotogi"
@@ -146,7 +164,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "力",

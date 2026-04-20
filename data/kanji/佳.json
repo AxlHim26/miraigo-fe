@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1643",
     "strokeCount": 8,
-    "meaning": "excellent, beautiful, good, pleasing, skilled",
+    "meaning": {
+      "en": "excellent, beautiful, good, pleasing, skilled",
+      "vi": "xuất sắc, đẹp, tốt, dễ chịu, khéo léo"
+    },
     "kunyomi": [],
     "onyomi": [
       "カ"
@@ -18,7 +21,8 @@
         "example": "佳",
         "reading": "カ",
         "meaning": {
-          "en": "beautiful, good, excellent"
+          "en": "beautiful, good, excellent",
+          "vi": "đẹp, tốt, xuất sắc"
         },
         "romaji": "ka"
       },
@@ -26,7 +30,8 @@
         "example": "佳作",
         "reading": "カサク",
         "meaning": {
-          "vi": "fine (piece of) work, excellent work, work that receives an honourable mention"
+          "en": "fine (piece of) work, excellent work, work that receives an honourable mention",
+          "vi": "tác phẩm hay, tác phẩm xuất sắc, tác phẩm được tuyên dương"
         },
         "romaji": "kasaku"
       },
@@ -34,7 +39,8 @@
         "example": "絶佳",
         "reading": "ゼッカ",
         "meaning": {
-          "vi": "superb (view, landscape)"
+          "en": "superb (view, landscape)",
+          "vi": "tuyệt đẹp (quang cảnh, phong cảnh)"
         },
         "romaji": "zekka"
       },
@@ -42,7 +48,8 @@
         "example": "風光絶佳",
         "reading": "フウコウゼッカ",
         "meaning": {
-          "en": "scenic beauty"
+          "en": "scenic beauty",
+          "vi": "vẻ đẹp phong cảnh"
         },
         "romaji": "fuukouzekka"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

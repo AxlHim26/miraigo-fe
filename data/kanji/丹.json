@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1402",
     "strokeCount": 4,
-    "meaning": "rust-colored, red, red lead, pills, sincerity",
+    "meaning": {
+      "en": "rust-colored, red, red lead, pills, sincerity",
+      "vi": "màu gỉ sắt, đỏ, chì đỏ, viên thuốc, sự chân thành"
+    },
     "kunyomi": [
       "に"
     ],
@@ -20,7 +23,8 @@
         "example": "丹念",
         "reading": "タンネン",
         "meaning": {
-          "vi": "painstaking, careful, meticulous, scrupulous, detailed, elaborate"
+          "vi": "painstaking, careful, meticulous, scrupulous, detailed, elaborate",
+          "en": "painstaking, careful, meticulous, scrupulous, detailed, elaborate"
         },
         "meaningVN": "tỉ mỉ, cẩn thận, tỉ mỉ, tỉ mỉ, tỉ mỉ, tỉ mỉ",
         "hanViet": "đan niệm",
@@ -31,7 +35,8 @@
         "example": "丹精",
         "reading": "タンセイ",
         "meaning": {
-          "vi": "working earnestly, sincerity, diligence, effort, pains"
+          "vi": "working earnestly, sincerity, diligence, effort, pains",
+          "en": "working earnestly, sincerity, diligence, effort, pains"
         },
         "meaningVN": "làm việc nghiêm túc, chân thành, siêng năng, nỗ lực, chịu khó",
         "hanViet": "đan tinh",
@@ -42,7 +47,8 @@
         "example": "伊勢丹",
         "reading": "イセタン",
         "meaning": {
-          "vi": "Isetan (department store)"
+          "vi": "Isetan (department store)",
+          "en": "Isetan (department store)"
         },
         "meaningVN": "isetan (cửa hàng bách hóa)",
         "hanViet": "y thế đan",
@@ -53,7 +59,8 @@
         "example": "切支丹",
         "reading": "キリシタン",
         "meaning": {
-          "vi": "Christianity (in feudal Japan), Christian"
+          "vi": "Christianity (in feudal Japan), Christian",
+          "en": "Christianity (in feudal Japan), Christian"
         },
         "meaningVN": "thiên chúa giáo (ở nhật bản thời phong kiến), thiên chúa giáo",
         "hanViet": "thiết chi đan",
@@ -66,7 +73,8 @@
         "example": "丹",
         "reading": "に",
         "meaning": {
-          "en": "red earth (i.e. containing cinnabar or minium), vermilion"
+          "en": "red earth (i.e. containing cinnabar or minium), vermilion",
+          "vi": "đất đỏ (tức là có chứa chu sa hoặc minium), đỏ son"
         },
         "meaningVN": "đất đỏ (tức là có chứa chu sa hoặc minium), đỏ son",
         "hanViet": "đan",
@@ -77,7 +85,8 @@
         "example": "丹色",
         "reading": "にいろ",
         "meaning": {
-          "en": "red"
+          "en": "red",
+          "vi": "màu đỏ"
         },
         "meaningVN": "màu đỏ",
         "hanViet": "đan sắc",
@@ -88,7 +97,8 @@
         "example": "海胆",
         "reading": "うに",
         "meaning": {
-          "en": "sea urchin, seasoned sea urchin eggs"
+          "en": "sea urchin, seasoned sea urchin eggs",
+          "vi": "nhím biển, trứng nhím biển dày dặn"
         },
         "meaningVN": "nhím biển, trứng nhím biển dày dặn",
         "hanViet": "hải đàn",
@@ -99,7 +109,8 @@
         "example": "黄丹",
         "reading": "おうだん",
         "meaning": {
-          "vi": "orange color traditionally worn by the crown prince"
+          "vi": "orange color traditionally worn by the crown prince",
+          "en": "orange color traditionally worn by the crown prince"
         },
         "meaningVN": "màu cam truyền thống của thái tử mặc",
         "hanViet": "hoàng đan",
@@ -109,7 +120,10 @@
     ],
     "radical": {
       "symbol": "丶",
-      "meaning": "dot"
+      "meaning": {
+        "en": "dot",
+        "vi": "dấu chấm"
+      }
     },
     "parts": [
       "ノ",

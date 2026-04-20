@@ -5,7 +5,10 @@
     "query": "冂",
     "found": true,
     "strokeCount": 2,
-    "meaning": "upside-down box radical (no. 13)",
+    "meaning": {
+      "en": "upside-down box radical (no. 13)",
+      "vi": "bộ quynh úp, bộ số 13"
+    },
     "kunyomi": [],
     "onyomi": [
       "キョウ",
@@ -15,7 +18,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đất trống"
+      }
     },
     "parts": [
       "冂"

@@ -5,7 +5,10 @@
     "query": "做",
     "found": true,
     "strokeCount": 11,
-    "meaning": "make",
+    "meaning": {
+      "en": "make",
+      "vi": "làm, tạo ra"
+    },
     "kunyomi": [
       "な.す",
       "つく.る"
@@ -20,7 +23,8 @@
         "example": "作す",
         "reading": "ナス",
         "meaning": {
-          "en": "to make"
+          "en": "to make",
+          "vi": "làm, tạo ra"
         },
         "romaji": "nasu"
       },
@@ -28,7 +32,8 @@
         "example": "作す",
         "reading": "ナス",
         "meaning": {
-          "en": "to make"
+          "en": "to make",
+          "vi": "làm, tạo ra"
         },
         "romaji": "nasu"
       }
@@ -38,7 +43,8 @@
         "example": "作す",
         "reading": "なす",
         "meaning": {
-          "en": "to make"
+          "en": "to make",
+          "vi": "làm, tạo ra"
         },
         "romaji": "nasu"
       }
@@ -48,7 +54,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "乞",

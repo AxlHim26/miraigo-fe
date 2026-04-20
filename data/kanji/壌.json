@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1407",
     "strokeCount": 16,
-    "meaning": "lot, earth, soil",
+    "meaning": {
+      "en": "lot, earth, soil",
+      "vi": "đất, thổ nhưỡng, đất đai"
+    },
     "kunyomi": [
       "つち"
     ],
@@ -20,7 +23,8 @@
         "example": "壌土",
         "reading": "ジョウド",
         "meaning": {
-          "en": "soil, loamy soil, loam, soil with clay content of 25-37.5%"
+          "en": "soil, loamy soil, loam, soil with clay content of 25-37.5%",
+          "vi": "đất mùn pha sét, đất thịt, đất thịt pha"
         },
         "romaji": "joudo"
       },
@@ -28,7 +32,8 @@
         "example": "平壌",
         "reading": "ピョンヤン",
         "meaning": {
-          "vi": "Pyongyang (North Korea)"
+          "vi": "Bình Nhưỡng (Triều Tiên)",
+          "en": "Pyongyang (North Korea)"
         },
         "romaji": "pyon'yan"
       },
@@ -36,7 +41,8 @@
         "example": "黄壌",
         "reading": "コウジョウ",
         "meaning": {
-          "en": "yellow soil, loess, Hades, hell, underworld, world of the dead"
+          "en": "yellow soil, loess, Hades, hell, underworld, world of the dead",
+          "vi": "hoàng thổ, đất phù sa vàng, địa ngục, cõi âm"
         },
         "romaji": "koujou"
       }
@@ -44,7 +50,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "ハ",
@@ -59,5 +68,7 @@
   },
   "hanViet": [
     "nhưỡng"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: lớp đất màu mỡ nuôi cây cối, nên 壌 là đất đai, thổ nhưỡng."
 }

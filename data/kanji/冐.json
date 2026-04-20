@@ -5,7 +5,10 @@
     "query": "冐",
     "found": true,
     "strokeCount": 8,
-    "meaning": "risk, brave, dare, face, defy, (diseases) attack, damage, desecrate, assume (a name)",
+    "meaning": {
+      "en": "risk, brave, dare, face, defy, (diseases) attack, damage, desecrate, assume (a name)",
+      "vi": "mạo hiểm, can đảm, dám, đối mặt, thách thức, (bệnh tật) tấn công, gây hại, xúc phạm, mang (tên)"
+    },
     "kunyomi": [
       "おか.す"
     ],
@@ -16,7 +19,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [
       "二",

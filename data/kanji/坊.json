@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "Buddhist priest, boy, colloquial person suffix",
+    "meaning": {
+      "en": "Buddhist priest, boy, colloquial person suffix",
+      "vi": "nhà sư, cậu bé, hậu tố chỉ người theo lối nói thông tục"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "坊主（ぼうず）",
         "meaning": {
-          "english": "Buddhist priest [derogatory]"
+          "english": "Buddhist priest [derogatory]",
+          "en": "Buddhist priest [derogatory]",
+          "vi": "thằng cha sư, cách gọi miệt thị nhà sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ne)bou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "お坊さん（おぼうさん）",
         "meaning": {
-          "english": "Buddhist priest"
+          "english": "Buddhist priest",
+          "en": "Buddhist priest",
+          "vi": "nhà sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ne)bou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "坊ちゃん（ぼっちゃん）",
         "meaning": {
-          "english": "son (of others)"
+          "english": "son (of others)",
+          "en": "son (of others)",
+          "vi": "con trai nhà người ta, cậu ấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ne)bou_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "坊や（ぼうや）",
         "meaning": {
-          "english": "boy"
+          "english": "boy",
+          "en": "boy",
+          "vi": "cậu bé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ne)bou_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "赤ん坊（あかんぼう）",
         "meaning": {
-          "english": "baby"
+          "english": "baby",
+          "en": "baby",
+          "vi": "em bé"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ne)bou_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "食いしん坊（くいしんぼう）",
         "meaning": {
-          "english": "glutton"
+          "english": "glutton",
+          "en": "glutton",
+          "vi": "đồ ham ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ne)bou_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "けちん坊（けちんぼう）",
         "meaning": {
-          "english": "miser, cheapskate"
+          "english": "miser, cheapskate",
+          "en": "miser, cheapskate",
+          "vi": "kẻ keo kiệt, bủn xỉn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ne)bou_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "朝寝坊（あさねぼう）",
         "meaning": {
-          "english": "oversleeping"
+          "english": "oversleeping",
+          "en": "oversleeping",
+          "vi": "ngủ quên, dậy muộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ne)bou_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "寝坊する（ねぼうする）",
         "meaning": {
-          "english": "sleep in late"
+          "english": "sleep in late",
+          "en": "sleep in late",
+          "vi": "ngủ dậy muộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ne)bou_06_i.opus",
@@ -215,7 +236,9 @@
     "kanji": {
       "character": "坊",
       "meaning": {
-        "english": "Buddhist priest, boy, colloquial person suffix"
+        "english": "Buddhist priest, boy, colloquial person suffix",
+        "en": "Buddhist priest, boy, colloquial person suffix",
+        "vi": "nhà sư, cậu bé, hậu tố chỉ người theo lối nói thông tục"
       },
       "strokes": {
         "count": 7,
@@ -267,7 +290,9 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -287,7 +312,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "1832",
     "strokeCount": 7,
-    "meaning": "boy, priest's residence, priest",
+    "meaning": {
+      "en": "boy, priest's residence, priest",
+      "vi": "cậu bé, nơi ở của thầy tu, nhà sư"
+    },
     "kunyomi": [],
     "onyomi": [
       "ボウ",
@@ -298,7 +326,8 @@
         "example": "坊",
         "reading": "ボウ",
         "meaning": {
-          "vi": "bonze, monk, monk's dwelling, boy, son, sonny, I, me, little, person who is ..."
+          "vi": "nhà sư, chỗ ở của nhà sư, cậu bé, con trai, cậu nhóc, tôi, người nhỏ bé, người mà ...",
+          "en": "bonze, monk, monk's dwelling, boy, son, sonny, I, me, little, person who is ..."
         },
         "romaji": "bou"
       },
@@ -306,7 +335,8 @@
         "example": "坊さん",
         "reading": "ボウサン",
         "meaning": {
-          "vi": "Buddhist priest, monk, boy"
+          "vi": "nhà sư, tăng nhân, cậu bé",
+          "en": "Buddhist priest, monk, boy"
         },
         "romaji": "bousan"
       },
@@ -314,7 +344,8 @@
         "example": "本因坊",
         "reading": "ホンインボウ",
         "meaning": {
-          "en": "Hon'inbō, Honinbo, grandmaster"
+          "en": "Hon'inbō, Honinbo, grandmaster",
+          "vi": "Honinbo, danh hiệu đại sư"
         },
         "romaji": "hon'inbou"
       },
@@ -322,7 +353,8 @@
         "example": "厨房",
         "reading": "チュウボウ",
         "meaning": {
-          "en": "kitchen, galley, (Internet) troll"
+          "en": "kitchen, galley, (Internet) troll",
+          "vi": "nhà bếp, bếp tàu, kẻ khiêu khích trên mạng"
         },
         "romaji": "chuubou"
       },
@@ -330,7 +362,8 @@
         "example": "坊ちゃん",
         "reading": "ボッチャン",
         "meaning": {
-          "en": "(another's) son, boy, young master, green young man from a well-to-do family, young man innocent of the ways of the world"
+          "en": "(another's) son, boy, young master, green young man from a well-to-do family, young man innocent of the ways of the world",
+          "vi": "con trai nhà người khác, cậu bé, cậu ấm, chàng trai non nớt con nhà khá giả"
         },
         "romaji": "botchan"
       },
@@ -338,7 +371,8 @@
         "example": "坊ちゃま",
         "reading": "ボッチャマ",
         "meaning": {
-          "en": "(another's) son, boy, young master, green young man from a well-to-do family, young man innocent of the ways of the world"
+          "en": "(another's) son, boy, young master, green young man from a well-to-do family, young man innocent of the ways of the world",
+          "vi": "con trai nhà người khác, cậu bé, cậu ấm, chàng trai non nớt con nhà khá giả"
         },
         "romaji": "botchama"
       }
@@ -346,7 +380,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "土",
@@ -360,5 +397,7 @@
   "hanViet": [
     "phòng",
     "phường"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là nền đất, 方 gợi hình căn phòng nhỏ trong chùa hay khu phố, nên 坊 gợi đến cậu bé hoặc nhà sư trong khu nhà."
 }

@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2350",
     "strokeCount": 11,
-    "meaning": "recollect, remember",
+    "meaning": {
+      "en": "recollect, remember",
+      "vi": "hồi tưởng, nhớ lại"
+    },
     "kunyomi": [
       "しの.ぶ"
     ],
@@ -20,7 +23,8 @@
         "example": "偲ぶ",
         "reading": "シノブ",
         "meaning": {
-          "en": "to recollect, to remember, to reminisce, to be nostalgic for, to imagine, to guess, to infer"
+          "en": "to recollect, to remember, to reminisce, to be nostalgic for, to imagine, to guess, to infer",
+          "vi": "hồi tưởng, nhớ lại, hoài niệm, thấy hoài nhớ, tưởng tượng, đoán, suy ra"
         },
         "romaji": "shinobu"
       },
@@ -28,7 +32,8 @@
         "example": "偲ばれる",
         "reading": "シノバレル",
         "meaning": {
-          "en": "to be brought to mind, to come to mind"
+          "en": "to be brought to mind, to come to mind",
+          "vi": "được gợi nhớ, hiện lên trong tâm trí"
         },
         "romaji": "shinobareru"
       }
@@ -38,7 +43,8 @@
         "example": "偲ぶ",
         "reading": "しのぶ",
         "meaning": {
-          "en": "to recollect, to remember, to reminisce, to be nostalgic for, to imagine, to guess, to infer"
+          "en": "to recollect, to remember, to reminisce, to be nostalgic for, to imagine, to guess, to infer",
+          "vi": "hồi tưởng, nhớ lại, hoài niệm, thấy hoài nhớ, tưởng tượng, đoán, suy ra"
         },
         "romaji": "shinobu"
       },
@@ -46,7 +52,8 @@
         "example": "偲ぶ会",
         "reading": "しのぶかい",
         "meaning": {
-          "vi": "gathering to remember a dead person, memorial meeting"
+          "vi": "gathering to remember a dead person, memorial meeting",
+          "en": "gathering to remember a dead person, memorial meeting"
         },
         "romaji": "shinobukai"
       }
@@ -56,7 +63,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

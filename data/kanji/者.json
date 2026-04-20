@@ -7,13 +7,17 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "mono",
-    "meaning": "person",
+    "meaning": {
+      "en": "person",
+      "vi": "người"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "医者（いしゃ）",
         "meaning": {
-          "english": "doctor (medical)"
+          "en": "doctor (medical)",
+          "vi": "bác sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "学者（がくしゃ）",
         "meaning": {
-          "english": "scholar"
+          "en": "scholar",
+          "vi": "học giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "弱者（じゃくしゃ）",
         "meaning": {
-          "english": "the weak"
+          "en": "the weak",
+          "vi": "người yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "読者（どくしゃ）",
         "meaning": {
-          "english": "reader"
+          "en": "reader",
+          "vi": "độc giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "著者（ちょしゃ）",
         "meaning": {
-          "english": "author"
+          "en": "author",
+          "vi": "tác giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "記者（きしゃ）",
         "meaning": {
-          "english": "reporter"
+          "en": "reporter",
+          "vi": "phóng viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "科学者（かがくしゃ）",
         "meaning": {
-          "english": "scientist"
+          "en": "scientist",
+          "vi": "nhà khoa học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "前者（ぜんしゃ）",
         "meaning": {
-          "english": "the former"
+          "en": "the former",
+          "vi": "người/vật phía trước; cái trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "死者（ししゃ）",
         "meaning": {
-          "english": "the deceased"
+          "en": "the deceased",
+          "vi": "người đã khuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "者（もの）",
         "meaning": {
-          "english": "person"
+          "en": "person",
+          "vi": "người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "若者（わかもの）",
         "meaning": {
-          "english": "youth"
+          "en": "youth",
+          "vi": "thanh niên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_k.opus",
@@ -145,7 +159,8 @@
       {
         "japanese": "怠け者（なまけもの）",
         "meaning": {
-          "english": "lazy person"
+          "en": "lazy person",
+          "vi": "kẻ lười biếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-mono_06_l.opus",
@@ -306,7 +321,8 @@
     "kanji": {
       "character": "者",
       "meaning": {
-        "english": "person"
+        "en": "person",
+        "vi": "người"
       },
       "strokes": {
         "count": 8,
@@ -360,7 +376,8 @@
         "romaji": "oikanmuri"
       },
       "meaning": {
-        "english": "old, old-age"
+        "en": "old, old-age",
+        "vi": "già, tuổi già"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/oikanmuri0.svg",
@@ -381,7 +398,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "38",
     "strokeCount": 8,
-    "meaning": "someone, person",
+    "meaning": {
+      "en": "someone, person",
+      "vi": "ai đó, người"
+    },
     "kunyomi": [
       "もの"
     ],
@@ -393,6 +413,7 @@
         "example": "者",
         "reading": "シャ",
         "meaning": {
+          "en": "person, -er, expert, geisha, prostitute",
           "vi": "person, -er, expert, geisha, prostitute"
         },
         "romaji": "sha"
@@ -401,6 +422,7 @@
         "example": "芸者",
         "reading": "ゲイシャ",
         "meaning": {
+          "en": "geisha, professional female entertainer, usu. at traditional banquets",
           "vi": "geisha, professional female entertainer, usu. at traditional banquets"
         },
         "romaji": "geisha"
@@ -409,6 +431,7 @@
         "example": "加害者",
         "reading": "カガイシャ",
         "meaning": {
+          "en": "perpetrator, wrong-doer, aggressor, assailant, offender",
           "vi": "perpetrator, wrong-doer, aggressor, assailant, offender"
         },
         "romaji": "kagaisha"
@@ -419,6 +442,7 @@
         "example": "者",
         "reading": "もの",
         "meaning": {
+          "en": "person",
           "vi": "person"
         },
         "romaji": "mono"
@@ -427,6 +451,7 @@
         "example": "者ども",
         "reading": "ものども",
         "meaning": {
+          "en": "you, people",
           "vi": "you, people"
         },
         "romaji": "monodomo"
@@ -435,6 +460,7 @@
         "example": "弱き者",
         "reading": "よわきもの",
         "meaning": {
+          "en": "weak person, the weak",
           "vi": "weak person, the weak"
         },
         "romaji": "yowakimono"
@@ -443,6 +469,7 @@
         "example": "若い者",
         "reading": "わかいもの",
         "meaning": {
+          "en": "young person, young people, youth, youngsters, young employee, young manservant, young follower",
           "vi": "young person, young people, youth, youngsters, young employee, young manservant, young follower"
         },
         "romaji": "wakaimono"
@@ -453,7 +480,10 @@
       "forms": [
         "耂"
       ],
-      "meaning": "old"
+      "meaning": {
+        "en": "old",
+        "vi": "già"
+      }
     },
     "parts": [
       "日",
@@ -466,5 +496,7 @@
   },
   "hanViet": [
     "giả"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: hình một người già ngồi hơ lửa, nên 者 dùng để chỉ người."
 }

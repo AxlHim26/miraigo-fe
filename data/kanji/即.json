@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "sunawa, sunawachi",
-    "meaning": "immediate, namely, conform",
+    "meaning": {
+      "en": "immediate, namely, conform",
+      "vi": "ngay lập tức, tức là, phù hợp"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "即刻（そっこく）",
         "meaning": {
-          "english": "instantly"
+          "english": "instantly",
+          "en": "instantly",
+          "vi": "ngay lập tức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "即興（そっきょう）",
         "meaning": {
-          "english": "improvised, impromptu"
+          "english": "improvised, impromptu",
+          "en": "improvised, impromptu",
+          "vi": "ứng biến, ngẫu hứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "即効性（そっこうせい）",
         "meaning": {
-          "english": "immediate effect"
+          "english": "immediate effect",
+          "en": "immediate effect",
+          "vi": "hiệu lực ngay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "即座に（そくざに）",
         "meaning": {
-          "english": "right away"
+          "english": "right away",
+          "en": "right away",
+          "vi": "ngay lập tức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "即死する（そくしする）",
         "meaning": {
-          "english": "die instantly"
+          "english": "die instantly",
+          "en": "die instantly",
+          "vi": "chết ngay lập tức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "即答する（そくとうする）",
         "meaning": {
-          "english": "reply immediately"
+          "english": "reply immediately",
+          "en": "reply immediately",
+          "vi": "trả lời ngay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "即する（そくする）",
         "meaning": {
-          "english": "conform to"
+          "english": "conform to",
+          "en": "conform to",
+          "vi": "phù hợp với"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "即ち（すなわち）",
         "meaning": {
-          "english": "namely"
+          "english": "namely",
+          "en": "namely",
+          "vi": "tức là"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(bai)_06_h.opus",
@@ -193,7 +212,9 @@
     "kanji": {
       "character": "即",
       "meaning": {
-        "english": "immediate, namely, conform"
+        "english": "immediate, namely, conform",
+        "en": "immediate, namely, conform",
+        "vi": "ngay lập tức, tức là, phù hợp"
       },
       "strokes": {
         "count": 7,
@@ -245,7 +266,9 @@
         "romaji": "fushizukuri"
       },
       "meaning": {
-        "english": "stamp, seal"
+        "english": "stamp, seal",
+        "en": "stamp, seal",
+        "vi": "con dấu, ấn"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/fushizukuri0.svg",
@@ -266,7 +289,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1167",
     "strokeCount": 7,
-    "meaning": "instant, namely, as is, conform, agree, adapt",
+    "meaning": {
+      "en": "instant, namely, as is, conform, agree, adapt",
+      "vi": "ngay tức thì, tức là, đúng như vậy, phù hợp, đồng ý, thích ứng"
+    },
     "kunyomi": [
       "つ.く",
       "つ.ける",
@@ -280,7 +306,8 @@
         "example": "即",
         "reading": "ソク",
         "meaning": {
-          "vi": "instantly, immediately, at once, equals, means, is, oneness (of two opposing things), inseparability"
+          "vi": "instantly, immediately, at once, equals, means, is, oneness (of two opposing things), inseparability",
+          "en": "instantly, immediately, at once, equals, means, is, oneness (of two opposing things), inseparability"
         },
         "romaji": "soku"
       },
@@ -288,7 +315,8 @@
         "example": "即位",
         "reading": "ソクイ",
         "meaning": {
-          "en": "accession to the throne, enthronement"
+          "en": "accession to the throne, enthronement",
+          "vi": "lên ngôi, đăng cơ"
         },
         "romaji": "sokui"
       },
@@ -296,7 +324,8 @@
         "example": "相即",
         "reading": "ソウソク",
         "meaning": {
-          "vi": "coming together and dissolving into oneness, being closely related, being inseparable"
+          "vi": "coming together and dissolving into oneness, being closely related, being inseparable",
+          "en": "coming together and dissolving into oneness, being closely related, being inseparable"
         },
         "romaji": "sousoku"
       },
@@ -304,7 +333,8 @@
         "example": "即即",
         "reading": "ソクソク",
         "meaning": {
-          "en": "immediate sex (without taking a shower first)"
+          "en": "immediate sex (without taking a shower first)",
+          "vi": "quan hệ ngay lập tức (không tắm trước)"
         },
         "romaji": "sokusoku"
       }
@@ -314,7 +344,8 @@
         "example": "就く",
         "reading": "つく",
         "meaning": {
-          "vi": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice"
+          "vi": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice",
+          "en": "to take (seat, position, course, office, etc.), to assume, to be hired, to be employed, to ascend (the throne), to accede, to start (on a journey), to commence, to depart, to study (under teacher), to be an apprentice"
         },
         "romaji": "tsuku"
       },
@@ -322,7 +353,8 @@
         "example": "就ける",
         "reading": "つける",
         "meaning": {
-          "vi": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under)"
+          "vi": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under)",
+          "en": "to install (a king, emperor, etc.), to appoint (to a post), to promote, to assign (to study under)"
         },
         "romaji": "tsukeru"
       },
@@ -330,14 +362,18 @@
         "example": "即ち",
         "reading": "すなわち",
         "meaning": {
-          "vi": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+          "vi": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then",
+          "en": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
         },
         "romaji": "sunawachi"
       }
     ],
     "radical": {
       "symbol": "卩",
-      "meaning": "kneel"
+      "meaning": {
+        "en": "kneel",
+        "vi": "quỳ"
+      }
     },
     "parts": [
       "卩",
@@ -350,5 +386,7 @@
   },
   "hanViet": [
     "tức"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Người quỳ bên đồ ăn và làm ngay lập tức, nhớ nghĩa tức thì, ngay."
 }

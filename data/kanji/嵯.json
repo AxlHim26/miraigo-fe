@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2191",
     "strokeCount": 13,
-    "meaning": "steep, craggy, rugged",
+    "meaning": {
+      "en": "steep, craggy, rugged",
+      "vi": "dốc đứng, lởm chởm, gồ ghề"
+    },
     "kunyomi": [],
     "onyomi": [
       "サ",
@@ -18,7 +21,8 @@
         "example": "嵯峨",
         "reading": "サガ",
         "meaning": {
-          "vi": "precipitous"
+          "vi": "precipitous",
+          "en": "precipitous"
         },
         "romaji": "saga"
       },
@@ -26,7 +30,8 @@
         "example": "嵯峨野線",
         "reading": "サガノセン",
         "meaning": {
-          "en": "Sagano Line (Kyoto)"
+          "en": "Sagano Line (Kyoto)",
+          "vi": "Tuyến Sagano (Kyoto)"
         },
         "romaji": "saganosen"
       }
@@ -34,7 +39,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "山",
-      "meaning": "mountain"
+      "meaning": {
+        "en": "mountain",
+        "vi": "núi"
+      }
     },
     "parts": [
       "ノ",
@@ -51,5 +59,7 @@
   },
   "hanViet": [
     "tha"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Bộ núi với nét chồng chéo gợi vách đá gồ ghề, hiểm trở."
 }

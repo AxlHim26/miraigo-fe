@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2422",
     "strokeCount": 9,
-    "meaning": "madder, red dye, Turkey red",
+    "meaning": {
+      "en": "madder, red dye, Turkey red",
+      "vi": "cây thiên thảo, thuốc nhuộm đỏ, đỏ Turkey"
+    },
     "kunyomi": [
       "あかね"
     ],
@@ -20,6 +23,7 @@
         "example": "茜",
         "reading": "あかね",
         "meaning": {
+          "en": "madder (esp. Japanese madder, Rubia argyi), madder (red color)",
           "vi": "madder (esp. Japanese madder, Rubia argyi), madder (red color)"
         },
         "romaji": "akane"
@@ -28,20 +32,25 @@
         "example": "茜色",
         "reading": "あかねいろ",
         "meaning": {
-          "en": "madder red, dark red, crimson"
+          "en": "madder red, dark red, crimson",
+          "vi": "đỏ thiên thảo, đỏ sẫm, đỏ thắm"
         },
         "romaji": "akaneiro"
       },
       {
         "example": "【アキアカネ】",
         "reading": "autumn darter (Sympetrum frequens)",
-        "meaning": "",
+        "meaning": {
+          "en": "",
+          "vi": ""
+        },
         "romaji": "autumn darter (Sympetrum frequens)"
       },
       {
         "example": "蝦夷茜",
         "reading": "えぞあかね",
         "meaning": {
+          "en": "yellow-winged darter (Sympetrum flaveolum)",
           "vi": "yellow-winged darter (Sympetrum flaveolum)"
         },
         "romaji": "ezoakane"
@@ -52,7 +61,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [
       "艾",

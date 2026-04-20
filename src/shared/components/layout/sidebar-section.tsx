@@ -37,7 +37,7 @@ function SidebarSection({ section, activeId, onItemClick }: SidebarSectionProps)
       )}
       <div className="space-y-1">
         {section.items.map((item) => {
-          const isActive = item.href ? activeId?.startsWith(item.href) : activeId === item.id;
+          const isActive = item.href ? activeId === item.href : activeId === item.id;
           return (
             <SidebarItem
               key={item.id}

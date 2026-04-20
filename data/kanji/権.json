@@ -7,13 +7,17 @@
     "grade": 6,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "right, power, authority",
+    "meaning": {
+      "en": "right, power, authority",
+      "vi": "right, power, authority"
+    },
     "kstroke": 15,
     "examples": [
       {
         "japanese": "権利（けんり）",
         "meaning": {
-          "english": "right"
+          "en": "right",
+          "vi": "quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "権限（けんげん）",
         "meaning": {
-          "english": "power, jurisdiction"
+          "en": "power, jurisdiction",
+          "vi": "power, jurisdiction"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "権威（けんい）",
         "meaning": {
-          "english": "authority"
+          "en": "authority",
+          "vi": "thẩm quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "権力（けんりょく）",
         "meaning": {
-          "english": "power"
+          "en": "power",
+          "vi": "quyền lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "特権（とっけん）",
         "meaning": {
-          "english": "privilege"
+          "en": "privilege",
+          "vi": "đặc quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "人権（じんけん）",
         "meaning": {
-          "english": "human rights"
+          "en": "human rights",
+          "vi": "nhân quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "政権（せいけん）",
         "meaning": {
-          "english": "political power"
+          "en": "political power",
+          "vi": "chính quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "参政権（さんせいけん）",
         "meaning": {
-          "english": "suffrage"
+          "en": "suffrage",
+          "vi": "quyền bầu cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "所有権（しょゆうけん）",
         "meaning": {
-          "english": "right of ownership"
+          "en": "right of ownership",
+          "vi": "right of ownership"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "有権者（ゆうけんしゃ）",
         "meaning": {
-          "english": "electorate"
+          "en": "electorate",
+          "vi": "electorate"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "三権分立（さんけんぶんりつ）",
         "meaning": {
-          "english": "separation of powers"
+          "en": "separation of powers",
+          "vi": "separation of powers"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_k.opus",
@@ -145,7 +159,8 @@
       {
         "japanese": "権化（ごんげ）",
         "meaning": {
-          "english": "incarnation"
+          "en": "incarnation",
+          "vi": "incarnation"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_l.opus",
@@ -259,7 +274,8 @@
     "kanji": {
       "character": "権",
       "meaning": {
-        "english": "right, power, authority"
+        "en": "right, power, authority",
+        "vi": "right, power, authority"
       },
       "strokes": {
         "count": 15,
@@ -327,7 +343,8 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "en": "tree, wood",
+        "vi": "tree, wood"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -341,6 +358,8 @@
       "classic_nelson": "2360"
     }
   },
+  "jlpt": "N2",
+  "mnemonic_vi": "Cành cây 木 được nắm chắc như quyền trong tay: từ đó gợi nghĩa quyền lực, quyền hạn.",
   "jishoData": {
     "query": "権",
     "found": true,
@@ -348,7 +367,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "156",
     "strokeCount": 15,
-    "meaning": "authority, power, rights",
+    "meaning": {
+      "en": "authority, power, rights",
+      "vi": "authority, power, rights"
+    },
     "kunyomi": [
       "おもり",
       "かり",
@@ -363,6 +385,7 @@
         "example": "権",
         "reading": "ケン",
         "meaning": {
+          "en": "right (to do something), authority, power",
           "vi": "right (to do something), authority, power"
         },
         "romaji": "ken"
@@ -371,6 +394,7 @@
         "example": "権威",
         "reading": "ケンイ",
         "meaning": {
+          "en": "authority, power, influence, prestige, (an) authority (on), expert",
           "vi": "authority, power, influence, prestige, (an) authority (on), expert"
         },
         "romaji": "ken'i"
@@ -379,6 +403,7 @@
         "example": "抵当権",
         "reading": "テイトウケン",
         "meaning": {
+          "en": "mortgage, right of pledge, lien",
           "vi": "mortgage, right of pledge, lien"
         },
         "romaji": "teitouken"
@@ -387,7 +412,8 @@
         "example": "参政権",
         "reading": "サンセイケン",
         "meaning": {
-          "en": "suffrage, franchise"
+          "en": "suffrage, franchise",
+          "vi": "suffrage, franchise"
         },
         "romaji": "sanseiken"
       },
@@ -395,6 +421,7 @@
         "example": "権化",
         "reading": "ゴンゲ",
         "meaning": {
+          "en": "incarnation (of Buddha or bodhisattva), avatar, embodiment (as in \"embodiment of evil\"), incarnation, personification",
           "vi": "incarnation (of Buddha or bodhisattva), avatar, embodiment (as in \"embodiment of evil\"), incarnation, personification"
         },
         "romaji": "gonge"
@@ -403,6 +430,7 @@
         "example": "権宮司",
         "reading": "ゴングウジ",
         "meaning": {
+          "en": "associate chief priest, deputy chief priest",
           "vi": "associate chief priest, deputy chief priest"
         },
         "romaji": "gonguuji"
@@ -413,6 +441,7 @@
         "example": "仮殿",
         "reading": "かりどの",
         "meaning": {
+          "en": "temporary shrine (houses the object in which the deity resides when main shrine is under repairs)",
           "vi": "temporary shrine (houses the object in which the deity resides when main shrine is under repairs)"
         },
         "romaji": "karidono"
@@ -420,7 +449,10 @@
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "tree"
+      }
     },
     "parts": [
       "乞",

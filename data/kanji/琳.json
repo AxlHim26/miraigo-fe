@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 12,
-    "meaning": "jewel, tinkling of jewelry",
+    "meaning": {
+      "en": "jewel, tinkling of jewelry",
+      "vi": "đá quý, tiếng leng keng của đồ trang sức"
+    },
     "kunyomi": [],
     "onyomi": [
       "リン"
@@ -16,7 +19,8 @@
         "example": "琳派",
         "reading": "リンパ",
         "meaning": {
-          "vi": "Rimpa school (of painting, 17th-early 20th century)"
+          "vi": "Rimpa school (of painting, 17th-early 20th century)",
+          "en": "Rimpa school (of painting, 17th-early 20th century)"
         },
         "romaji": "rinpa"
       }
@@ -27,7 +31,10 @@
       "forms": [
         "王"
       ],
-      "meaning": "jade (king)"
+      "meaning": {
+        "en": "jade (king)",
+        "vi": "ngọc (vương)"
+      }
     },
     "parts": [
       "木",
@@ -40,5 +47,7 @@
   },
   "hanViet": [
     "lâm"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Hai viên ngọc 林 đứng cạnh nhau gợi hình chuỗi ngọc đẹp phát tiếng leng keng."
 }

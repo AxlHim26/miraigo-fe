@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "moto, motoi",
-    "meaning": "base, foundation",
+    "meaning": {
+      "en": "base, foundation",
+      "vi": "nền tảng, cơ sở"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "基礎（きそ）",
         "meaning": {
-          "english": "foundation"
+          "english": "foundation",
+          "en": "foundation",
+          "vi": "nền móng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "基本（きほん）",
         "meaning": {
-          "english": "basis"
+          "english": "basis",
+          "en": "basis",
+          "vi": "cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "基準（きじゅん）",
         "meaning": {
-          "english": "norm, standard"
+          "english": "norm, standard",
+          "en": "norm, standard",
+          "vi": "chuẩn mực, tiêu chuẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "基地（きち）",
         "meaning": {
-          "english": "base [n.]"
+          "english": "base [n.]",
+          "en": "base [n.]",
+          "vi": "căn cứ, cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "基金（ききん）",
         "meaning": {
-          "english": "funds"
+          "english": "funds",
+          "en": "funds",
+          "vi": "quỹ vốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "基（もと）",
         "meaning": {
-          "english": "basis"
+          "english": "basis",
+          "en": "basis",
+          "vi": "cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "基づく（もとづく）",
         "meaning": {
-          "english": "be based on"
+          "english": "be based on",
+          "en": "be based on",
+          "vi": "dựa trên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "基（もとい）",
         "meaning": {
-          "english": "basis"
+          "english": "basis",
+          "en": "basis",
+          "vi": "cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/motoi_06_h.opus",
@@ -207,7 +226,9 @@
     "kanji": {
       "character": "基",
       "meaning": {
-        "english": "base, foundation"
+        "english": "base, foundation",
+        "en": "base, foundation",
+        "vi": "nền tảng, cơ sở"
       },
       "strokes": {
         "count": 11,
@@ -267,7 +288,9 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -288,7 +311,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "241",
     "strokeCount": 11,
-    "meaning": "fundamentals, radical (chem), counter for machines, foundation",
+    "meaning": {
+      "en": "fundamentals, radical (chem), counter for machines, foundation",
+      "vi": "nền tảng, gốc tự do, lượng từ cho máy móc, cơ sở"
+    },
     "kunyomi": [
       "もと",
       "もとい"
@@ -301,7 +327,8 @@
         "example": "基",
         "reading": "キ",
         "meaning": {
-          "vi": "group, (free) radical, counter for installed or mounted objects (e.g. stone lanterns, gravestones, satellites)"
+          "vi": "nhóm, gốc tự do, lượng từ cho vật đặt cố định như đèn đá, bia mộ, vệ tinh",
+          "en": "group, (free) radical, counter for installed or mounted objects (e.g. stone lanterns, gravestones, satellites)"
         },
         "romaji": "ki"
       },
@@ -309,7 +336,8 @@
         "example": "起因",
         "reading": "キイン",
         "meaning": {
-          "en": "to be caused by, to result from, to arise from, to stem from, to be due to, cause, origin"
+          "en": "to be caused by, to result from, to arise from, to stem from, to be due to, cause, origin",
+          "vi": "bắt nguồn từ, do, phát sinh từ, nguyên nhân, xuất xứ"
         },
         "romaji": "kiin"
       },
@@ -317,7 +345,8 @@
         "example": "塩基",
         "reading": "エンキ",
         "meaning": {
-          "en": "base"
+          "en": "base",
+          "vi": "cơ sở, nền"
         },
         "romaji": "enki"
       },
@@ -325,7 +354,8 @@
         "example": "加爾基",
         "reading": "カルキ",
         "meaning": {
-          "vi": "chlorinated lime, calcium hypochlorite, chloride of lime, bleaching powder"
+          "vi": "vôi clo, canxi hypoclorit, bột tẩy",
+          "en": "chlorinated lime, calcium hypochlorite, chloride of lime, bleaching powder"
         },
         "romaji": "karuki"
       }
@@ -335,7 +365,8 @@
         "example": "元",
         "reading": "もと",
         "meaning": {
-          "vi": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+          "vi": "nguồn gốc, căn nguyên, nền tảng, gốc rễ, nguyên liệu, phần cốt, vốn liếng, thân cây, phần cầm trên tay, ba câu đầu của waka, lượng từ cho cây và chim ưng",
+          "en": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
         },
         "romaji": "moto"
       },
@@ -343,7 +374,8 @@
         "example": "基",
         "reading": "もとい",
         "meaning": {
-          "en": "basis, foundation, origin, source"
+          "en": "basis, foundation, origin, source",
+          "vi": "cơ sở, nền tảng, nguồn gốc, xuất xứ"
         },
         "romaji": "motoi"
       },
@@ -351,7 +383,8 @@
         "example": "失敗は成功のもと",
         "reading": "しっぱいはせいこうのもと",
         "meaning": {
-          "vi": "failure teaches success, failure is a stepping-stone to success"
+          "vi": "thất bại dạy thành công, thất bại là bước đệm của thành công",
+          "en": "failure teaches success, failure is a stepping-stone to success"
         },
         "romaji": "shippaihaseikounomoto"
       },
@@ -359,7 +392,8 @@
         "example": "生兵法は大怪我のもと",
         "reading": "なまびょうほうはおおけがのもと",
         "meaning": {
-          "en": "a little learning is a dangerous thing"
+          "en": "a little learning is a dangerous thing",
+          "vi": "biết chút ít dễ sinh chủ quan"
         },
         "romaji": "namabyouhouhaookeganomoto"
       },
@@ -367,14 +401,18 @@
         "example": "基",
         "reading": "もとい",
         "meaning": {
-          "en": "basis, foundation, origin, source"
+          "en": "basis, foundation, origin, source",
+          "vi": "cơ sở, nền tảng, nguồn gốc, xuất xứ"
         },
         "romaji": "motoi"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "ハ",
@@ -389,5 +427,7 @@
   },
   "hanViet": [
     "cơ"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: phần nền đất 土 ở dưới nâng đỡ mọi thứ phía trên, nên 基 là nền tảng, căn bản."
 }

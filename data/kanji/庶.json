@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1558",
     "strokeCount": 11,
-    "meaning": "commoner, all, bastard",
+    "meaning": {
+      "en": "commoner, all, bastard",
+      "vi": "thường dân, mọi người, con ngoài giá thú"
+    },
     "kunyomi": [],
     "onyomi": [
       "ショ"
@@ -18,7 +21,8 @@
         "example": "庶民",
         "reading": "ショミン",
         "meaning": {
-          "vi": "common people, ordinary people, masses"
+          "vi": "dân thường, người bình dân, quần chúng",
+          "en": "common people, ordinary people, masses"
         },
         "romaji": "shomin"
       },
@@ -26,7 +30,8 @@
         "example": "庶民的",
         "reading": "ショミンテキ",
         "meaning": {
-          "vi": "popular, folksy, plebeian, ordinary, unpretentious"
+          "vi": "bình dân, dân dã, thường dân, mộc mạc",
+          "en": "popular, folksy, plebeian, ordinary, unpretentious"
         },
         "romaji": "shominteki"
       },
@@ -34,7 +39,8 @@
         "example": "衆庶",
         "reading": "シュウショ",
         "meaning": {
-          "vi": "the masses, common people"
+          "vi": "quần chúng, dân thường",
+          "en": "the masses, common people"
         },
         "romaji": "shuusho"
       },
@@ -42,7 +48,8 @@
         "example": "士庶",
         "reading": "シショ",
         "meaning": {
-          "vi": "samurai and commoners, normal people (as opposed to people of a high social standing)"
+          "vi": "võ sĩ và dân thường, người bình thường đối lập với tầng lớp cao",
+          "en": "samurai and commoners, normal people (as opposed to people of a high social standing)"
         },
         "romaji": "shisho"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "广",
-      "meaning": "house on cliff"
+      "meaning": {
+        "en": "house on cliff",
+        "vi": "ngôi nhà bên vách đá"
+      }
     },
     "parts": [
       "广",
@@ -63,5 +73,7 @@
   },
   "hanViet": [
     "thứ"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Dưới mái nhà 广 có nhiều người và lửa sinh hoạt, gợi số đông dân thường, nên 庶 là quần chúng, thứ dân."
 }

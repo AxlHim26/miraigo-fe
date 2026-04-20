@@ -5,7 +5,10 @@
     "query": "冲",
     "found": true,
     "strokeCount": 6,
-    "meaning": "offing, open sea, rise high into sky",
+    "meaning": {
+      "en": "offing, open sea, rise high into sky",
+      "vi": "khơi xa, biển khơi, vút cao lên trời"
+    },
     "kunyomi": [
       "おき",
       "おきつ",
@@ -20,7 +23,8 @@
         "example": "沖する",
         "reading": "チュウスル",
         "meaning": {
-          "vi": "to rise up into the air, to ascend into the sky"
+          "vi": "to rise up into the air, to ascend into the sky",
+          "en": "to rise up into the air, to ascend into the sky"
         },
         "romaji": "chuusuru"
       },
@@ -28,7 +32,8 @@
         "example": "沖天",
         "reading": "チュウテン",
         "meaning": {
-          "en": "rising into the heavens"
+          "en": "rising into the heavens",
+          "vi": "vút lên tận trời"
         },
         "romaji": "chuuten"
       }
@@ -38,14 +43,18 @@
         "example": "沖する",
         "reading": "ちゅうする",
         "meaning": {
-          "vi": "to rise up into the air, to ascend into the sky"
+          "vi": "to rise up into the air, to ascend into the sky",
+          "en": "to rise up into the air, to ascend into the sky"
         },
         "romaji": "chuusuru"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "冫",
@@ -55,10 +64,12 @@
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20914_frames.png",
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b2.gif",
-    "uri": "https://jisho.org/search/%E5%86%B2%23kanji"
+    "uri": "https://jisho.org/search/%E5%86%B2%23kanji",
+    "jlptLevel": null
   },
   "hanViet": [
     "trùng",
     "xung"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: luồng khí hay nước vọt xung lên cao, nên nhớ đến vươn ra xa và xông lên."
 }

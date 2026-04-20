@@ -5,7 +5,10 @@
     "query": "斡",
     "found": true,
     "strokeCount": 14,
-    "meaning": "go around, rule, administer",
+    "meaning": {
+      "en": "go around, rule, administer",
+      "vi": "xoay quanh, cai quản, điều hành"
+    },
     "kunyomi": [
       "めぐ.る",
       "めぐ.らす"
@@ -19,7 +22,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "斗",
-      "meaning": "dipper"
+      "meaning": {
+        "en": "dipper",
+        "vi": "cái đấu, muôi"
+      }
     },
     "parts": [
       "个",

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2077",
     "strokeCount": 4,
-    "meaning": "measuring box, 1.8 liter",
+    "meaning": {
+      "en": "measuring box, 1.8 liter",
+      "vi": "hộp đong, 1,8 lít"
+    },
     "kunyomi": [
       "ます"
     ],
@@ -20,7 +23,8 @@
         "example": "升",
         "reading": "ショウ",
         "meaning": {
-          "vi": "shō, traditional unit of volume, approx. 1.8 litres"
+          "vi": "shou, đơn vị thể tích truyền thống, khoảng 1,8 lít",
+          "en": "shō, traditional unit of volume, approx. 1.8 litres"
         },
         "romaji": "shou"
       },
@@ -28,7 +32,8 @@
         "example": "升遷",
         "reading": "ショウセン",
         "meaning": {
-          "vi": "rising up"
+          "vi": "sự đi lên, thăng lên",
+          "en": "rising up"
         },
         "romaji": "shousen"
       },
@@ -36,7 +41,8 @@
         "example": "一升",
         "reading": "イッショウ",
         "meaning": {
-          "vi": "one shō (approx. 1.8 litres)"
+          "vi": "một shou (khoảng 1,8 lít)",
+          "en": "one shō (approx. 1.8 litres)"
         },
         "romaji": "isshou"
       }
@@ -46,7 +52,8 @@
         "example": "升",
         "reading": "ます",
         "meaning": {
-          "vi": "measuring container, measuring box, measure, box (seating at a theatre, etc.), square on a grid, cell of a grid, square bearing block (at the top of a pillar)"
+          "vi": "đồ đong, hộp đong, đơn vị đong, khoang ô vuông (như chỗ ngồi nhà hát), ô trên lưới, khối đỡ vuông trên đầu cột",
+          "en": "measuring container, measuring box, measure, box (seating at a theatre, etc.), square on a grid, cell of a grid, square bearing block (at the top of a pillar)"
         },
         "romaji": "masu"
       },
@@ -54,14 +61,18 @@
         "example": "升売り",
         "reading": "ますうり",
         "meaning": {
-          "vi": "selling by volume (esp. using a traditional wooden masu box)"
+          "vi": "bán theo thể tích (đặc biệt dùng hộp gỗ masu truyền thống)",
+          "en": "selling by volume (esp. using a traditional wooden masu box)"
         },
         "romaji": "masuuri"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "mười, trọn vẹn"
+      }
     },
     "parts": [
       "ノ",
@@ -75,5 +86,6 @@
   },
   "hanViet": [
     "thăng"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: nét chữ như chiếc đấu đong nhỏ đang được nâng lên, gợi ý vừa đong vừa thăng lên."
 }

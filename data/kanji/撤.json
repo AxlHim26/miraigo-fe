@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "811",
     "strokeCount": 15,
-    "meaning": "remove, withdraw, disarm, dismantle, reject, exclude",
+    "meaning": {
+      "en": "remove, withdraw, disarm, dismantle, reject, exclude",
+      "vi": "rút đi, thu hồi, giải giáp, tháo dỡ, bác bỏ, loại trừ"
+    },
     "kunyomi": [],
     "onyomi": [
       "テツ"
@@ -20,7 +23,10 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": {
+        "en": "hand",
+        "vi": "tay"
+      }
     },
     "parts": [
       "乞",
@@ -37,5 +43,7 @@
   },
   "hanViet": [
     "triệt"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Tay thu dọn mọi thứ lại nên là rút, dỡ bỏ, triệt bỏ."
 }

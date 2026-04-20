@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "1848",
     "strokeCount": 7,
-    "meaning": "be amazed, disgusted, shocked",
+    "meaning": {
+      "en": "be amazed, disgusted, shocked",
+      "vi": "ngạc nhiên, chán ngán, sững sờ"
+    },
     "kunyomi": [
       "ほけ.る",
       "ぼ.ける",
@@ -21,7 +24,8 @@
         "example": "呆",
         "reading": "ホウ",
         "meaning": {
-          "en": "(I'm) shocked"
+          "en": "(I'm) shocked",
+          "vi": "tôi bị sốc, tôi sững người"
         },
         "romaji": "hou"
       },
@@ -29,7 +33,8 @@
         "example": "惚ける",
         "reading": "ホウケル",
         "meaning": {
-          "en": "to be mentally slow, to be befuddled, to become engrossed in, to become absorbed in, to become frayed and dishevelled (of hair, grass, etc.), to be fluffy"
+          "en": "to be mentally slow, to be befuddled, to become engrossed in, to become absorbed in, to become frayed and dishevelled (of hair, grass, etc.), to be fluffy",
+          "vi": "trở nên đần độn, mê muội, mải mê, chìm đắm, trở nên xơ rối như tóc hay cỏ, xù lên"
         },
         "romaji": "houkeru"
       },
@@ -37,7 +42,8 @@
         "example": "痴呆",
         "reading": "チホウ",
         "meaning": {
-          "vi": "dementia, stupidity, foolishness, fool, idiot"
+          "vi": "chứng sa sút trí tuệ, sự ngu ngốc, kẻ ngốc, đồ ngốc",
+          "en": "dementia, stupidity, foolishness, fool, idiot"
         },
         "romaji": "chihou"
       },
@@ -45,7 +51,8 @@
         "example": "踊る阿呆に見る阿呆",
         "reading": "オドルアホウニミルアホウ",
         "meaning": {
-          "en": "you're a fool if you dance, and a fool if you just look on; we're all fools, so let's dance"
+          "en": "you're a fool if you dance, and a fool if you just look on; we're all fools, so let's dance",
+          "vi": "nhảy cũng là kẻ ngốc, đứng nhìn cũng là kẻ ngốc, đã đều là kẻ ngốc thì hãy cứ nhảy đi"
         },
         "romaji": "odoruahounimiruahou"
       }
@@ -54,21 +61,28 @@
       {
         "example": "【ボケる】",
         "reading": "to grow senile, to be childish with age, to be mentally slow, to be befuddled, to play stupid, to say something stupid (oft. on purpose; esp. as part of a comedic routine)",
-        "meaning": "",
+        "meaning": {
+          "en": "to grow senile, to be childish with age, to be mentally slow, to be befuddled, to play stupid, to say something stupid (oft. on purpose; esp. as part of a comedic routine)",
+          "vi": "trở nên lẫn, hóa trẻ con khi có tuổi, chậm chạp đầu óc, mê muội, giả ngốc, nói điều ngớ ngẩn để pha trò"
+        },
         "romaji": "to grow senile, to be childish with age, to be mentally slow, to be befuddled, to play stupid, to say something stupid (oft. on purpose; esp. as part of a comedic routine)"
       },
       {
         "example": "呆れる",
         "reading": "あきれる",
         "meaning": {
-          "vi": "to be amazed, to be shocked, to be astonished, to be astounded, to be disgusted, to be exasperated, to be fed up"
+          "vi": "ngạc nhiên, sững sờ, kinh ngạc, choáng váng, chán ngấy, bực tức, phát ngán",
+          "en": "to be amazed, to be shocked, to be astonished, to be astounded, to be disgusted, to be exasperated, to be fed up"
         },
         "romaji": "akireru"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -83,5 +97,7 @@
     "bảo",
     "ngai",
     "ngốc"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Miệng 口 và người đứng đơ như khúc gỗ 木, nhìn là nhớ 呆 là đờ ra, ngẩn người."
 }

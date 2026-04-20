@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 10,
-    "meaning": "clear",
+    "meaning": {
+      "en": "clear",
+      "vi": "trong sáng, rõ ràng"
+    },
     "kunyomi": [
       "あきらか"
     ],
@@ -18,7 +21,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "mặt trời, ngày"
+      }
     },
     "parts": [
       "ノ",
@@ -33,5 +39,7 @@
   "hanViet": [
     "thạnh",
     "thịnh"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Mặt trời lên sáng rõ nên chữ mang nghĩa sáng sủa, hưng thịnh."
 }

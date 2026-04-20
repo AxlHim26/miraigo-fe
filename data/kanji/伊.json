@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "703",
     "strokeCount": 6,
-    "meaning": "Italy, that one",
+    "meaning": {
+      "en": "Italy, that one",
+      "vi": "Ý, cái/kẻ đó"
+    },
     "kunyomi": [
       "かれ"
     ],
@@ -19,7 +22,8 @@
         "example": "伊",
         "reading": "イ",
         "meaning": {
-          "en": "Italy"
+          "en": "Italy",
+          "vi": "Ý"
         },
         "romaji": "i"
       },
@@ -27,7 +31,8 @@
         "example": "伊勢丹",
         "reading": "イセタン",
         "meaning": {
-          "vi": "Isetan (department store)"
+          "vi": "Isetan (department store)",
+          "en": "Isetan (cửa hàng bách hóa)"
         },
         "romaji": "isetan"
       },
@@ -35,7 +40,8 @@
         "example": "駐伊",
         "reading": "チュウイ",
         "meaning": {
-          "en": "stationed in Italy"
+          "en": "stationed in Italy",
+          "vi": "đóng ở Ý"
         },
         "romaji": "chuui"
       },
@@ -43,7 +49,8 @@
         "example": "紀伊",
         "reading": "キイ",
         "meaning": {
-          "vi": "Kii (former province located in present-day Wakayama and southern Mie prefectures)"
+          "vi": "Kii (former province located in present-day Wakayama and southern Mie prefectures)",
+          "en": "Kii (cựu tỉnh nằm ở Wakayama ngày nay và phía nam tỉnh Mie)"
         },
         "romaji": "kii"
       }
@@ -54,7 +61,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ヨ",

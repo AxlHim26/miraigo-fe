@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "tasu, tasukeru, tasukaru, suke",
-    "meaning": "help, rescue, assistance",
+    "meaning": {
+      "en": "help, rescue, assistance",
+      "vi": "giup do, cuu tro, su tro giup"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "助詞（じょし）",
         "meaning": {
-          "english": "(grammar) particle"
+          "english": "(grammar) particle",
+          "en": "(grammar) particle",
+          "vi": "(grammar) particle"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "助手（じょしゅ）",
         "meaning": {
-          "english": "assistant"
+          "english": "assistant",
+          "en": "assistant",
+          "vi": "assistant"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "助教授（じょきょうじゅ）",
         "meaning": {
-          "english": "assistant professor"
+          "english": "assistant professor",
+          "en": "assistant professor",
+          "vi": "assistant professor"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "助監督（じょかんとく）",
         "meaning": {
-          "english": "assistant director"
+          "english": "assistant director",
+          "en": "assistant director",
+          "vi": "assistant director"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "助言する（じょげんする）",
         "meaning": {
-          "english": "advise"
+          "english": "advise",
+          "en": "advise",
+          "vi": "advise"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "援助する（えんじょする）",
         "meaning": {
-          "english": "aid, support"
+          "english": "aid, support",
+          "en": "aid, support",
+          "vi": "aid, support"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "救助する（きゅうじょする）",
         "meaning": {
-          "english": "rescue [v.t.]"
+          "english": "rescue [v.t.]",
+          "en": "rescue [v.t.]",
+          "vi": "rescue [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "助ける（たすける）",
         "meaning": {
-          "english": "help, save [v.t.]"
+          "english": "help, save [v.t.]",
+          "en": "help, save [v.t.]",
+          "vi": "help, save [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "手助け（てだすけ）",
         "meaning": {
-          "english": "help [n.]"
+          "english": "help [n.]",
+          "en": "help [n.]",
+          "vi": "help [n.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "助かる（たすかる）",
         "meaning": {
-          "english": "be saved, survive [v.i.], helpful [adj.]"
+          "english": "be saved, survive [v.i.], helpful [adj.]",
+          "en": "be saved, survive [v.i.], helpful [adj.]",
+          "vi": "be saved, survive [v.i.], helpful [adj.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "助っ人（すけっと）",
         "meaning": {
-          "english": "helper"
+          "english": "helper",
+          "en": "helper",
+          "vi": "helper"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tasu(keru)_06_k.opus",
@@ -288,7 +313,9 @@
     "kanji": {
       "character": "助",
       "meaning": {
-        "english": "help, rescue, assistance"
+        "english": "help, rescue, assistance",
+        "en": "help, rescue, assistance",
+        "vi": "giup do, cuu tro, su tro giup"
       },
       "strokes": {
         "count": 7,
@@ -340,7 +367,9 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power",
+        "en": "power",
+        "vi": "power"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -361,7 +390,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "397",
     "strokeCount": 7,
-    "meaning": "help, rescue, assist",
+    "meaning": {
+      "en": "help, rescue, assist",
+      "vi": "giup do, cuu, ho tro"
+    },
     "kunyomi": [
       "たす.ける",
       "たす.かる",
@@ -376,7 +408,8 @@
         "example": "助",
         "reading": "ジョ",
         "meaning": {
-          "vi": "help, rescue, assistant"
+          "vi": "help, rescue, assistant",
+          "en": "help, rescue, assistant"
         },
         "romaji": "jo"
       },
@@ -384,7 +417,8 @@
         "example": "助演",
         "reading": "ジョエン",
         "meaning": {
-          "vi": "supporting performance, playing a supporting role"
+          "vi": "supporting performance, playing a supporting role",
+          "en": "supporting performance, playing a supporting role"
         },
         "romaji": "joen"
       },
@@ -392,7 +426,8 @@
         "example": "互助",
         "reading": "ゴジョ",
         "meaning": {
-          "vi": "mutual aid, cooperation, benefit"
+          "vi": "mutual aid, cooperation, benefit",
+          "en": "mutual aid, cooperation, benefit"
         },
         "romaji": "gojo"
       },
@@ -400,7 +435,8 @@
         "example": "介助",
         "reading": "カイジョ",
         "meaning": {
-          "vi": "help, assistance, aid"
+          "vi": "help, assistance, aid",
+          "en": "help, assistance, aid"
         },
         "romaji": "kaijo"
       }
@@ -410,7 +446,8 @@
         "example": "助ける",
         "reading": "たすける",
         "meaning": {
-          "vi": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"
+          "vi": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to",
+          "en": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"
         },
         "romaji": "tasukeru"
       },
@@ -418,7 +455,8 @@
         "example": "助かる",
         "reading": "たすかる",
         "meaning": {
-          "vi": "to be saved, to be rescued, to survive, to escape harm, to be spared damage, to be helped, to be saved trouble"
+          "vi": "to be saved, to be rescued, to survive, to escape harm, to be spared damage, to be helped, to be saved trouble",
+          "en": "to be saved, to be rescued, to survive, to escape harm, to be spared damage, to be helped, to be saved trouble"
         },
         "romaji": "tasukaru"
       },
@@ -426,7 +464,8 @@
         "example": "助",
         "reading": "すけ",
         "meaning": {
-          "vi": "assistance, help, helper, babe, chick, broad"
+          "vi": "assistance, help, helper, babe, chick, broad",
+          "en": "assistance, help, helper, babe, chick, broad"
         },
         "romaji": "suke"
       },
@@ -434,7 +473,8 @@
         "example": "助っ人",
         "reading": "すけっと",
         "meaning": {
-          "vi": "helper, supporter, second, backer, foreign player (hired to strengthen a team)"
+          "vi": "helper, supporter, second, backer, foreign player (hired to strengthen a team)",
+          "en": "helper, supporter, second, backer, foreign player (hired to strengthen a team)"
         },
         "romaji": "suketto"
       },
@@ -442,7 +482,8 @@
         "example": "福助",
         "reading": "ふくすけ",
         "meaning": {
-          "en": "large-headed dwarf statue, bringer of good luck"
+          "en": "large-headed dwarf statue, bringer of good luck",
+          "vi": "large-headed dwarf statue, bringer of good luck"
         },
         "romaji": "fukusuke"
       },
@@ -450,14 +491,18 @@
         "example": "デコ助",
         "reading": "デコすけ",
         "meaning": {
-          "en": "big forehead, fivehead, asshole"
+          "en": "big forehead, fivehead, asshole",
+          "vi": "big forehead, fivehead, asshole"
         },
         "romaji": "dekosuke"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "suc manh, luc"
+      }
     },
     "parts": [
       "力",
@@ -470,5 +515,6 @@
   },
   "hanViet": [
     "trợ"
-  ]
+  ],
+  "mnemonic_vi": "Goi y cach nho: Co suc luc 力 ben canh giup do nen thanh 助."
 }

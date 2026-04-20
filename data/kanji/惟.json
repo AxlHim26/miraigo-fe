@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2246",
     "strokeCount": 11,
-    "meaning": "consider, reflect, think",
+    "meaning": {
+      "en": "consider, reflect, think",
+      "vi": "cân nhắc, suy ngẫm, suy nghĩ"
+    },
     "kunyomi": [
       "おも.んみる",
       "これ",
@@ -22,7 +25,8 @@
         "example": "惟神",
         "reading": "カンナガラ",
         "meaning": {
-          "en": "as a god, as was done in the age of the gods"
+          "en": "as a god, as was done in the age of the gods",
+          "vi": "như thần linh, như thời đại các vị thần"
         },
         "romaji": "kannagara"
       },
@@ -30,6 +34,7 @@
         "example": "思惟",
         "reading": "シイ",
         "meaning": {
+          "en": "thought, thinking, contemplation, consideration, using wisdom to get to the bottom of things, focusing one's mind, deep contemplation, concentrated thought, deliberating, pondering, reflecting",
           "vi": "thought, thinking, contemplation, consideration, using wisdom to get to the bottom of things, focusing one's mind, deep contemplation, concentrated thought, deliberating, pondering, reflecting"
         },
         "romaji": "shii"
@@ -38,6 +43,7 @@
         "example": "思惟",
         "reading": "シイ",
         "meaning": {
+          "en": "thought, thinking, contemplation, consideration, using wisdom to get to the bottom of things, focusing one's mind, deep contemplation, concentrated thought, deliberating, pondering, reflecting",
           "vi": "thought, thinking, contemplation, consideration, using wisdom to get to the bottom of things, focusing one's mind, deep contemplation, concentrated thought, deliberating, pondering, reflecting"
         },
         "romaji": "shii"
@@ -48,7 +54,8 @@
         "example": "思い見る",
         "reading": "おもいみる",
         "meaning": {
-          "en": "to reflect carefully"
+          "en": "to reflect carefully",
+          "vi": "suy xét cẩn thận"
         },
         "romaji": "omoimiru"
       },
@@ -56,6 +63,7 @@
         "example": "此れ",
         "reading": "これ",
         "meaning": {
+          "en": "this, this one, this person, now, this point (in time), here, used to stress the subject of a sentence, I, me",
           "vi": "this, this one, this person, now, this point (in time), here, used to stress the subject of a sentence, I, me"
         },
         "romaji": "kore"
@@ -64,6 +72,7 @@
         "example": "思うに",
         "reading": "おもうに",
         "meaning": {
+          "en": "presumably, conceivably, in my opinion, in my view, I think (that), upon thought, upon reflection",
           "vi": "presumably, conceivably, in my opinion, in my view, I think (that), upon thought, upon reflection"
         },
         "romaji": "omouni"
@@ -75,7 +84,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "tim"
+      }
     },
     "parts": [
       "忙",

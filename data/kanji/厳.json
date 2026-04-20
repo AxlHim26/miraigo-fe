@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 4,
     "kunyomi": "ogosoka, kibishii, ogoso, kibi",
-    "meaning": "severe, strict, solemn",
+    "meaning": {
+      "en": "severe, strict, solemn",
+      "vi": "khac nghiet, nghiem, trang nghiem"
+    },
     "kstroke": 17,
     "examples": [
       {
         "japanese": "厳冬（げんとう）",
         "meaning": {
-          "english": "severe winter"
+          "english": "severe winter",
+          "en": "severe winter",
+          "vi": "mua dong khac nghiet"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "威厳（いげん）",
         "meaning": {
-          "english": "dignity"
+          "english": "dignity",
+          "en": "dignity",
+          "vi": "uy nghi, ton nghiem"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "戒厳令（かいげんれい）",
         "meaning": {
-          "english": "martial law"
+          "english": "martial law",
+          "en": "martial law",
+          "vi": "thiet quan luat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "厳格な（げんかくな）",
         "meaning": {
-          "english": "severe, strict, rigid"
+          "english": "severe, strict, rigid",
+          "en": "severe, strict, rigid",
+          "vi": "nghiem khac, chặt che, cung ran"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "厳密な（げんみつな）",
         "meaning": {
-          "english": "accurate"
+          "english": "accurate",
+          "en": "accurate",
+          "vi": "chinh xac"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "厳重な（げんじゅうな）",
         "meaning": {
-          "english": "strict, austere"
+          "english": "strict, austere",
+          "en": "strict, austere",
+          "vi": "nghiem khac, khac kho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "厳守する（げんしゅする）",
         "meaning": {
-          "english": "observe (a rule) strictly"
+          "english": "observe (a rule) strictly",
+          "en": "observe (a rule) strictly",
+          "vi": "tuan thu nghiem ngat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "荘厳な（そうごんな）",
         "meaning": {
-          "english": "solemn, sublime, majestic"
+          "english": "solemn, sublime, majestic",
+          "en": "solemn, sublime, majestic",
+          "vi": "trang nghiem, cao quy, uy nghiem"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "厳かな（おごそかな）",
         "meaning": {
-          "english": "solemn"
+          "english": "solemn",
+          "en": "solemn",
+          "vi": "trang nghiem"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "厳しい（きびしい）",
         "meaning": {
-          "english": "intense (e.g. cold), severe, strict"
+          "english": "intense (e.g. cold), severe, strict",
+          "en": "intense (e.g. cold), severe, strict",
+          "vi": "khac nghiet, du doi, nghiem khac"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_j.opus",
@@ -263,7 +286,9 @@
     "kanji": {
       "character": "厳",
       "meaning": {
-        "english": "severe, strict, solemn"
+        "english": "severe, strict, solemn",
+        "en": "severe, strict, solemn",
+        "vi": "khac nghiet, nghiem, trang nghiem"
       },
       "strokes": {
         "count": 17,
@@ -335,7 +360,9 @@
         "romaji": "tsu"
       },
       "meaning": {
-        "english": "Katakana Tsu"
+        "english": "Katakana Tsu",
+        "en": "Katakana Tsu",
+        "vi": "chu katakana Tsu"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsu0.svg",
@@ -356,7 +383,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "638",
     "strokeCount": 17,
-    "meaning": "stern, strictness, severity, rigidity",
+    "meaning": {
+      "en": "stern, strictness, severity, rigidity",
+      "vi": "nghiem khac, su nghiem ngat, su khac nghiet, do cung nhac"
+    },
     "kunyomi": [
       "おごそ.か",
       "きび.しい",
@@ -372,7 +402,8 @@
         "example": "厳",
         "reading": "ゲン",
         "meaning": {
-          "en": "strict, stern"
+          "en": "strict, stern",
+          "vi": "nghiem khac, nghiem"
         },
         "romaji": "gen"
       },
@@ -380,7 +411,8 @@
         "example": "厳格",
         "reading": "ゲンカク",
         "meaning": {
-          "en": "strict, severe, stern, rigid, rigorous, tough"
+          "en": "strict, severe, stern, rigid, rigorous, tough",
+          "vi": "nghiem khac, gay gat, cứng ran, nghiem nhat, khac nghiet"
         },
         "romaji": "genkaku"
       },
@@ -388,7 +420,8 @@
         "example": "謹厳",
         "reading": "キンゲン",
         "meaning": {
-          "en": "stern, grave, solemn, sobersided"
+          "en": "stern, grave, solemn, sobersided",
+          "vi": "nghiem trang, tram mac, trang nghiem, nghiem tuc"
         },
         "romaji": "kingen"
       },
@@ -396,7 +429,8 @@
         "example": "冷厳",
         "reading": "レイゲン",
         "meaning": {
-          "en": "grim, stern, stark, heartless"
+          "en": "grim, stern, stark, heartless",
+          "vi": "lanh lung, nghiem khac, gay gat, vo tinh"
         },
         "romaji": "reigen"
       },
@@ -404,7 +438,8 @@
         "example": "華厳",
         "reading": "ケゴン",
         "meaning": {
-          "vi": "avatamsa (flower adornment, as a metaphor for becoming a buddha), Avatamska sutra, Kegon (sect of Buddhism)"
+          "vi": "Hoa Nghiem, kinh Hoa Nghiem, tong Hoa Nghiem",
+          "en": "avatamsa (flower adornment, as a metaphor for becoming a buddha), Avatamska sutra, Kegon (sect of Buddhism)"
         },
         "romaji": "kegon"
       },
@@ -412,7 +447,8 @@
         "example": "荘厳",
         "reading": "ショウゴン",
         "meaning": {
-          "vi": "decorating (a Buddhist statue or temple), adorning"
+          "vi": "trang hoang tuong Phat hoac chua, trang suc",
+          "en": "decorating (a Buddhist statue or temple), adorning"
         },
         "romaji": "shougon"
       }
@@ -422,7 +458,8 @@
         "example": "厳か",
         "reading": "おごそか",
         "meaning": {
-          "vi": "solemn (ceremony, atmosphere, etc.), austere, grave, majestic, dignified, stately, impressive"
+          "vi": "trang nghiem trong le nghi hay bau khong khi, khac kho, nghiem trang, uy nghiem, ton nghiem, uy nghi, an tuong",
+          "en": "solemn (ceremony, atmosphere, etc.), austere, grave, majestic, dignified, stately, impressive"
         },
         "romaji": "ogosoka"
       },
@@ -430,7 +467,8 @@
         "example": "厳しい",
         "reading": "きびしい",
         "meaning": {
-          "vi": "severe, strict, rigid, unsparing, relentless, hard (to do), difficult, tricky, intense (e.g. cold), harsh (weather), inclement"
+          "vi": "khac nghiet, nghiem khac, cung nhac, khong nuong tay, dai dang, kho lam, kho, gay go, du doi nhu ret, thoi tiet khac nghiet, bat loi",
+          "en": "severe, strict, rigid, unsparing, relentless, hard (to do), difficult, tricky, intense (e.g. cold), harsh (weather), inclement"
         },
         "romaji": "kibishii"
       },
@@ -438,7 +476,8 @@
         "example": "厳しい暑さ",
         "reading": "きびしいあつさ",
         "meaning": {
-          "en": "intense heat"
+          "en": "intense heat",
+          "vi": "nang nong gay gat"
         },
         "romaji": "kibishiiatsusa"
       },
@@ -446,14 +485,18 @@
         "example": "厳めしい",
         "reading": "いかめしい",
         "meaning": {
-          "vi": "stern, grave, austere, imposing, dignified, formidable, solemn, majestic, strict (e.g. security), severe, firm, rigid, rigorous"
+          "vi": "nghiem trang, tram mac, khac kho, uy nghiem, ton nghiem, dang so, trang nghiem, uy vu, nghiem ngat nhu an ninh, khac nghiet, vung vang, cung nhac, nghiem mat",
+          "en": "stern, grave, austere, imposing, dignified, formidable, solemn, majestic, strict (e.g. security), severe, firm, rigid, rigorous"
         },
         "romaji": "ikameshii"
       }
     ],
     "radical": {
       "symbol": "厂",
-      "meaning": "cliff"
+      "meaning": {
+        "en": "cliff",
+        "vi": "vach da"
+      }
     },
     "parts": [
       "乞",
@@ -469,5 +512,7 @@
   },
   "hanViet": [
     "nghiêm"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Vách đá kết hợp nhiều nét như khuôn phép chặt chẽ, gợi sự nghiêm khắc."
 }

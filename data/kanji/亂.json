@@ -5,7 +5,10 @@
     "query": "亂",
     "found": true,
     "strokeCount": 13,
-    "meaning": "war, disorder, riot, disturb",
+    "meaning": {
+      "en": "war, disorder, riot, disturb",
+      "vi": "chiến tranh, rối loạn, bạo loạn, quấy nhiễu"
+    },
     "kunyomi": [
       "みだ.れる",
       "みだ.る",
@@ -23,7 +26,8 @@
         "example": "乱暴",
         "reading": "ランボウ",
         "meaning": {
-          "vi": "violence, assault, rowdiness, wildness, running riot, rough (handling, language, etc.), reckless, careless, coarse, rude, unreasonable (e.g. demand), wild (e.g. argument), rape, sexual assault"
+          "en": "violence, assault, rowdiness, wildness, running riot, rough (handling, language, etc.), reckless, careless, coarse, rude, unreasonable (e.g. demand), wild (e.g. argument), rape, sexual assault",
+          "vi": "bạo lực, hành hung, ồn ào, hoang dã, bạo loạn, thô bạo (cách xử lý, ngôn ngữ, v.v.), liều lĩnh, bất cẩn, thô lỗ, thô lỗ, vô lý (ví dụ: yêu cầu), hoang dã (ví dụ: tranh luận), hãm hiếp, tấn công tình dục"
         },
         "meaningVN": "bạo lực, hành hung, ồn ào, hoang dã, bạo loạn, thô bạo (cách xử lý, ngôn ngữ, v.v.), liều lĩnh, bất cẩn, thô lỗ, thô lỗ, vô lý (ví dụ: yêu cầu), hoang dã (ví dụ: tranh luận), hãm hiếp, tấn công tình dục",
         "hanViet": "loạn bão",
@@ -39,7 +43,10 @@
         "⺄",
         "乚"
       ],
-      "meaning": "second"
+      "meaning": {
+        "en": "second",
+        "vi": "thứ hai"
+      }
     },
     "parts": [
       "乙",

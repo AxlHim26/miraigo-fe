@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1610",
     "strokeCount": 9,
-    "meaning": "vulgar, customs, manners, worldliness, mundane things",
+    "meaning": {
+      "en": "vulgar, customs, manners, worldliness, mundane things",
+      "vi": "thô tục, phong tục, lễ nghi, tính trần tục, những điều đời thường"
+    },
     "kunyomi": [],
     "onyomi": [
       "ゾク"
@@ -18,7 +21,8 @@
         "example": "俗",
         "reading": "ゾク",
         "meaning": {
-          "vi": "layman (esp. as opposed to a Buddhist monk), laity, man of the world, the world, local manners, modern customs, common, popular, vulgar, low"
+          "vi": "người thường (đặc biệt đối lập với tăng sĩ Phật giáo), giới thế tục, người từng trải, thế gian, phong tục địa phương, tập quán hiện đại, thông thường, phổ biến, thô tục, thấp kém",
+          "en": "layman (esp. as opposed to a Buddhist monk), laity, man of the world, the world, local manners, modern customs, common, popular, vulgar, low"
         },
         "romaji": "zoku"
       },
@@ -26,7 +30,8 @@
         "example": "俗語",
         "reading": "ゾクゴ",
         "meaning": {
-          "en": "colloquialism, colloquial language, slang"
+          "en": "colloquialism, colloquial language, slang",
+          "vi": "khẩu ngữ, ngôn ngữ thông tục, tiếng lóng"
         },
         "romaji": "zokugo"
       },
@@ -34,7 +39,8 @@
         "example": "民俗",
         "reading": "ミンゾク",
         "meaning": {
-          "en": "folk customs, folkways, ethnic customs"
+          "en": "folk customs, folkways, ethnic customs",
+          "vi": "phong tục dân gian, tập quán dân tộc"
         },
         "romaji": "minzoku"
       },
@@ -42,7 +48,8 @@
         "example": "低俗",
         "reading": "テイゾク",
         "meaning": {
-          "en": "vulgar, lowbrow, coarse"
+          "en": "vulgar, lowbrow, coarse",
+          "vi": "thô tục, bình dân, cục mịch"
         },
         "romaji": "teizoku"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "kuchi",
-    "meaning": "mouth",
+    "meaning": {
+      "en": "mouth",
+      "vi": "miệng"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "人口（じんこう）",
         "meaning": {
-          "english": "population"
+          "english": "population",
+          "en": "population",
+          "vi": "dân số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "利口な（りこうな）",
         "meaning": {
-          "english": "clever"
+          "english": "clever",
+          "en": "clever",
+          "vi": "lanh lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "口調（くちょう）",
         "meaning": {
-          "english": "tone of voice"
+          "english": "tone of voice",
+          "en": "tone of voice",
+          "vi": "giọng điệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "異口同音（いくどうおん）",
         "meaning": {
-          "english": "say something in unison"
+          "english": "say something in unison",
+          "en": "say something in unison",
+          "vi": "đồng thanh nói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "口（くち）",
         "meaning": {
-          "english": "mouth"
+          "english": "mouth",
+          "en": "mouth",
+          "vi": "miệng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "入り口（いりぐち）",
         "meaning": {
-          "english": "entrance"
+          "english": "entrance",
+          "en": "entrance",
+          "vi": "lối vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "出口（でぐち）",
         "meaning": {
-          "english": "exit [n.]"
+          "english": "exit [n.]",
+          "en": "exit [n.]",
+          "vi": "lối ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "窓口（まどぐち）",
         "meaning": {
-          "english": "service window (e.g. at bank)"
+          "english": "service window (e.g. at bank)",
+          "en": "service window (e.g. at bank)",
+          "vi": "quầy giao dịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "悪口（わるぐち）",
         "meaning": {
-          "english": "slander, abuse"
+          "english": "slander, abuse",
+          "en": "slander, abuse",
+          "vi": "vu khống, lăng mạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "無口な（むくちな）",
         "meaning": {
-          "english": "reticent"
+          "english": "reticent",
+          "en": "reticent",
+          "vi": "ít nói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_j.opus",
@@ -279,7 +302,9 @@
     "kanji": {
       "character": "口",
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "strokes": {
         "count": 3,
@@ -323,7 +348,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -344,7 +371,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "284",
     "strokeCount": 3,
-    "meaning": "mouth",
+    "meaning": {
+      "en": "mouth",
+      "vi": "miệng"
+    },
     "kunyomi": [
       "くち"
     ],
@@ -357,7 +387,8 @@
         "example": "口",
         "reading": "ク",
         "meaning": {
-          "vi": "mouth, speech, counter for people or implements"
+          "vi": "mouth, speech, counter for people or implements",
+          "en": "mouth, speech, counter for people or implements"
         },
         "romaji": "ku"
       },
@@ -365,7 +396,8 @@
         "example": "口径",
         "reading": "コウケイ",
         "meaning": {
-          "vi": "aperture, bore, calibre, caliber"
+          "vi": "aperture, bore, calibre, caliber",
+          "en": "aperture, bore, calibre, caliber"
         },
         "romaji": "koukei"
       },
@@ -373,7 +405,8 @@
         "example": "開口",
         "reading": "カイコウ",
         "meaning": {
-          "vi": "opening, aperture (e.g. camera), opening one's mouth, beginning to speak, open, broad"
+          "vi": "opening, aperture (e.g. camera), opening one's mouth, beginning to speak, open, broad",
+          "en": "opening, aperture (e.g. camera), opening one's mouth, beginning to speak, open, broad"
         },
         "romaji": "kaikou"
       },
@@ -381,7 +414,8 @@
         "example": "悪口",
         "reading": "アッコウ",
         "meaning": {
-          "en": "(verbal) abuse, name-calling, abusive language, insulting remarks"
+          "en": "(verbal) abuse, name-calling, abusive language, insulting remarks",
+          "vi": "(verbal) abuse, name-calling, abusive language, insulting remarks"
         },
         "romaji": "akkou"
       },
@@ -389,7 +423,8 @@
         "example": "口",
         "reading": "ク",
         "meaning": {
-          "vi": "mouth, speech, counter for people or implements"
+          "vi": "mouth, speech, counter for people or implements",
+          "en": "mouth, speech, counter for people or implements"
         },
         "romaji": "ku"
       },
@@ -397,7 +432,8 @@
         "example": "口",
         "reading": "クチ",
         "meaning": {
-          "vi": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords"
+          "vi": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords",
+          "en": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords"
         },
         "romaji": "kuchi"
       },
@@ -405,7 +441,8 @@
         "example": "猪口",
         "reading": "チョコ",
         "meaning": {
-          "vi": "sake cup, small deep porcelain bowl for serving food"
+          "vi": "sake cup, small deep porcelain bowl for serving food",
+          "en": "sake cup, small deep porcelain bowl for serving food"
         },
         "romaji": "choko"
       },
@@ -413,7 +450,8 @@
         "example": "赤口",
         "reading": "シャッコウ",
         "meaning": {
-          "vi": "day that is unlucky except between the auspicious hours of 11am and 1pm (in the traditional calendar)"
+          "vi": "day that is unlucky except between the auspicious hours of 11am and 1pm (in the traditional calendar)",
+          "en": "day that is unlucky except between the auspicious hours of 11am and 1pm (in the traditional calendar)"
         },
         "romaji": "shakkou"
       }
@@ -423,7 +461,8 @@
         "example": "口",
         "reading": "くち",
         "meaning": {
-          "vi": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords"
+          "vi": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords",
+          "en": "mouth, opening, hole, gap, orifice, mouth (of a bottle), spout, nozzle, mouthpiece, gate, door, entrance, exit, speaking, speech, talk (i.e. gossip), taste, palate, mouth (to feed), opening (i.e. vacancy), available position, invitation, summons, kind, sort, type, opening (i.e. beginning), counter for mouthfuls, shares (of money), stove burners, and swords"
         },
         "romaji": "kuchi"
       },
@@ -431,7 +470,8 @@
         "example": "口利き",
         "reading": "くちきき",
         "meaning": {
-          "vi": "mediation, good offices, intervention, mediator, middleman, influential person, person of influence, eloquence, eloquent person, way of speaking"
+          "vi": "mediation, good offices, intervention, mediator, middleman, influential person, person of influence, eloquence, eloquent person, way of speaking",
+          "en": "mediation, good offices, intervention, mediator, middleman, influential person, person of influence, eloquence, eloquent person, way of speaking"
         },
         "romaji": "kuchikiki"
       },
@@ -439,7 +479,8 @@
         "example": "切り口",
         "reading": "きりくち",
         "meaning": {
-          "vi": "cut end, section, opening, slit, point of view, (different) perspective, new approach"
+          "vi": "cut end, section, opening, slit, point of view, (different) perspective, new approach",
+          "en": "cut end, section, opening, slit, point of view, (different) perspective, new approach"
         },
         "romaji": "kirikuchi"
       },
@@ -447,14 +488,18 @@
         "example": "大口",
         "reading": "おおぐち",
         "meaning": {
-          "vi": "big mouth, mouth opened wide, boastful speech, tall talk, bragging, boasting, large amount, large quantity"
+          "vi": "big mouth, mouth opened wide, boastful speech, tall talk, bragging, boasting, large amount, large quantity",
+          "en": "big mouth, mouth opened wide, boastful speech, tall talk, bragging, boasting, large amount, large quantity"
         },
         "romaji": "ooguchi"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -465,6 +510,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e3.gif",
     "uri": "https://jisho.org/search/%E5%8F%A3%23kanji"
   },
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: hình vuông như cái miệng đang mở.",
   "hanViet": [
     "khẩu"
   ]

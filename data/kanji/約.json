@@ -7,13 +7,17 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "promise, contract, approximately",
+    "meaning": {
+      "en": "promise, contract, approximately",
+      "vi": "promise, contract, approximately"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "約一年（やくいちねん）",
         "meaning": {
-          "english": "about one year"
+          "en": "about one year",
+          "vi": "khoảng một năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "約束する（やくそくする）",
         "meaning": {
-          "english": "promise [v.t.]"
+          "en": "promise [v.t.]",
+          "vi": "promise [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "予約する（よやくする）",
         "meaning": {
-          "english": "reserve"
+          "en": "reserve",
+          "vi": "đặt trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "契約する（けいやくする）",
         "meaning": {
-          "english": "make a contract"
+          "en": "make a contract",
+          "vi": "make a contract"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "解約する（かいやくする）",
         "meaning": {
-          "english": "cancel a contract"
+          "en": "cancel a contract",
+          "vi": "cancel a contract"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "婚約する（こんやくする）",
         "meaning": {
-          "english": "get engaged (marriage)"
+          "en": "get engaged (marriage)",
+          "vi": "get engaged (marriage)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "要約する（ようやくする）",
         "meaning": {
-          "english": "summarize"
+          "en": "summarize",
+          "vi": "tóm tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "節約する（せつやくする）",
         "meaning": {
-          "english": "save, conserve"
+          "en": "save, conserve",
+          "vi": "save, conserve"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "先約（せんやく）",
         "meaning": {
-          "english": "previous engagement"
+          "en": "previous engagement",
+          "vi": "previous engagement"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yaku(soku)_06_i.opus",
@@ -231,7 +243,8 @@
     "kanji": {
       "character": "約",
       "meaning": {
-        "english": "promise, contract, approximately"
+        "en": "promise, contract, approximately",
+        "vi": "promise, contract, approximately"
       },
       "strokes": {
         "count": 9,
@@ -287,7 +300,8 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "en": "thread",
+        "vi": "sợi chỉ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -301,6 +315,8 @@
       "classic_nelson": "3499"
     }
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Sợi chỉ 糸 được buộc lại 勺 như ràng buộc lời hứa: giao ước, xấp xỉ trong giới hạn.",
   "jishoData": {
     "query": "約",
     "found": true,
@@ -308,7 +324,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "94",
     "strokeCount": 9,
-    "meaning": "promise, approximately, shrink",
+    "meaning": {
+      "en": "promise, approximately, shrink",
+      "vi": "promise, approximately, shrink"
+    },
     "kunyomi": [
       "つづ.まる",
       "つづ.める",
@@ -322,6 +341,7 @@
         "example": "約",
         "reading": "ヤク",
         "meaning": {
+          "en": "approximately, about, promise, appointment, engagement, shortening, reduction, simplification, contraction (in phonetics)",
           "vi": "approximately, about, promise, appointment, engagement, shortening, reduction, simplification, contraction (in phonetics)"
         },
         "romaji": "yaku"
@@ -330,6 +350,7 @@
         "example": "約束",
         "reading": "ヤクソク",
         "meaning": {
+          "en": "promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date, convention, rule, destiny, fate",
           "vi": "promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date, convention, rule, destiny, fate"
         },
         "romaji": "yakusoku"
@@ -338,7 +359,8 @@
         "example": "締約",
         "reading": "テイヤク",
         "meaning": {
-          "en": "conclusion of a treaty"
+          "en": "conclusion of a treaty",
+          "vi": "conclusion of a treaty"
         },
         "romaji": "teiyaku"
       },
@@ -346,7 +368,8 @@
         "example": "成約",
         "reading": "セイヤク",
         "meaning": {
-          "en": "conclusion of a contract"
+          "en": "conclusion of a contract",
+          "vi": "conclusion of a contract"
         },
         "romaji": "seiyaku"
       }
@@ -356,6 +379,7 @@
         "example": "約まる",
         "reading": "つづまる",
         "meaning": {
+          "en": "to compress, to shrink",
           "vi": "to compress, to shrink"
         },
         "romaji": "tsuzumaru"
@@ -364,7 +388,8 @@
         "example": "約める",
         "reading": "つづめる",
         "meaning": {
-          "en": "to abridge, to shorten, to economize"
+          "en": "to abridge, to shorten, to economize",
+          "vi": "to abridge, to shorten, to economize"
         },
         "romaji": "tsuzumeru"
       },
@@ -372,7 +397,8 @@
         "example": "約やか",
         "reading": "つづまやか",
         "meaning": {
-          "en": "concise, brief, humble, frugal, modest, discrete"
+          "en": "concise, brief, humble, frugal, modest, discrete",
+          "vi": "concise, brief, humble, frugal, modest, discrete"
         },
         "romaji": "tsuzumayaka"
       }
@@ -382,7 +408,10 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": {
+        "en": "silk",
+        "vi": "silk"
+      }
     },
     "parts": [
       "丶",

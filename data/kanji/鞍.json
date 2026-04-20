@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2214",
     "strokeCount": 15,
-    "meaning": "saddle",
+    "meaning": {
+      "en": "saddle",
+      "vi": "yên ngựa"
+    },
     "kunyomi": [
       "くら"
     ],
@@ -18,6 +21,7 @@
         "example": "鞍馬",
         "reading": "アンバ",
         "meaning": {
+          "en": "pommel horse, side horse, saddled horse",
           "vi": "pommel horse, side horse, saddled horse"
         },
         "romaji": "anba"
@@ -26,7 +30,8 @@
         "example": "鞍橋",
         "reading": "クラボネ",
         "meaning": {
-          "en": "saddle tree"
+          "en": "saddle tree",
+          "vi": "khung yên ngựa"
         },
         "romaji": "kurabone"
       }
@@ -36,7 +41,8 @@
         "example": "鞍",
         "reading": "くら",
         "meaning": {
-          "en": "saddle"
+          "en": "saddle",
+          "vi": "yên ngựa"
         },
         "romaji": "kura"
       },
@@ -44,6 +50,7 @@
         "example": "鞍掛海豹",
         "reading": "くらかけあざらし",
         "meaning": {
+          "en": "ribbon seal (Histriophoca fasciata)",
           "vi": "ribbon seal (Histriophoca fasciata)"
         },
         "romaji": "kurakakeazarashi"
@@ -52,7 +59,8 @@
         "example": "馬鞍",
         "reading": "うまくら",
         "meaning": {
-          "en": "saddle"
+          "en": "saddle",
+          "vi": "yên ngựa"
         },
         "romaji": "umakura"
       },
@@ -60,14 +68,18 @@
         "example": "唐鞍",
         "reading": "からくら",
         "meaning": {
-          "en": "Chinese-style ritual saddle"
+          "en": "Chinese-style ritual saddle",
+          "vi": "yên ngựa nghi lễ kiểu Trung Hoa"
         },
         "romaji": "karakura"
       }
     ],
     "radical": {
       "symbol": "革",
-      "meaning": "leather, rawhide"
+      "meaning": {
+        "en": "leather, rawhide",
+        "vi": "da, da sống"
+      }
     },
     "parts": [
       "女",

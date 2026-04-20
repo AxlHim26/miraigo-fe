@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "2088",
     "strokeCount": 5,
-    "meaning": "bowl, bowl of food",
+    "meaning": {
+      "en": "bowl, bowl of food",
+      "vi": "bát, tô thức ăn"
+    },
     "kunyomi": [
       "どんぶり"
     ],
@@ -23,7 +26,8 @@
         "example": "丼",
         "reading": "どんぶり",
         "meaning": {
-          "vi": "porcelain bowl, donburi, bowl of meat, fish, etc. served over rice"
+          "vi": "porcelain bowl, donburi, bowl of meat, fish, etc. served over rice",
+          "en": "porcelain bowl, donburi, bowl of meat, fish, etc. served over rice"
         },
         "meaningVN": "bát sứ, donburi, bát thịt, cá, v.v. dùng kèm cơm",
         "hanViet": "tỉnh",
@@ -34,7 +38,8 @@
         "example": "どんぶり勘定",
         "reading": "どんぶりかんじょう",
         "meaning": {
-          "vi": "rough estimate, sloppy accounting, slapdash bookkeeping"
+          "vi": "rough estimate, sloppy accounting, slapdash bookkeeping",
+          "en": "rough estimate, sloppy accounting, slapdash bookkeeping"
         },
         "meaningVN": "ước tính sơ bộ, kế toán cẩu thả, sổ sách kế toán cẩu thả",
         "hanViet": "ど ん ぶ り khám đính",
@@ -45,7 +50,8 @@
         "example": "開化丼",
         "reading": "かいかどん",
         "meaning": {
-          "vi": "bowl of rice topped with beef (or pork) and egg"
+          "vi": "bowl of rice topped with beef (or pork) and egg",
+          "en": "bowl of rice topped with beef (or pork) and egg"
         },
         "meaningVN": "tô cơm phủ thịt bò (hoặc thịt lợn) và trứng",
         "hanViet": "khai hoa tỉnh",
@@ -56,7 +62,8 @@
         "example": "中華丼",
         "reading": "ちゅうかどん",
         "meaning": {
-          "vi": "bowl of rice topped with a chop-suey-like mixture"
+          "vi": "bowl of rice topped with a chop-suey-like mixture",
+          "en": "bowl of rice topped with a chop-suey-like mixture"
         },
         "meaningVN": "bát cơm phủ hỗn hợp giống như thịt băm",
         "hanViet": "trung hoa tỉnh",
@@ -66,7 +73,10 @@
     ],
     "radical": {
       "symbol": "丶",
-      "meaning": "dot"
+      "meaning": {
+        "en": "dot",
+        "vi": "dấu chấm"
+      }
     },
     "parts": [
       "ノ",

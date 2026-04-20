@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1297",
     "strokeCount": 14,
-    "meaning": "cram school, private school",
+    "meaning": {
+      "en": "cram school, private school",
+      "vi": "trường luyện thi, trường tư"
+    },
     "kunyomi": [],
     "onyomi": [
       "ジュク"
@@ -18,7 +21,8 @@
         "example": "塾",
         "reading": "ジュク",
         "meaning": {
-          "vi": "cram school, private tutoring school, juku"
+          "vi": "cram school, private tutoring school, juku",
+          "en": "cram school, private tutoring school, juku"
         },
         "romaji": "juku"
       },
@@ -26,7 +30,8 @@
         "example": "塾長",
         "reading": "ジュクチョウ",
         "meaning": {
-          "vi": "principal of a private school"
+          "vi": "principal of a private school",
+          "en": "principal of a private school"
         },
         "romaji": "jukuchou"
       },
@@ -34,7 +39,8 @@
         "example": "私塾",
         "reading": "シジュク",
         "meaning": {
-          "vi": "small private school (esp. for cramming), private school (in the Edo period, orig. run by Confucianists)"
+          "vi": "small private school (esp. for cramming), private school (in the Edo period, orig. run by Confucianists)",
+          "en": "small private school (esp. for cramming), private school (in the Edo period, orig. run by Confucianists)"
         },
         "romaji": "shijuku"
       },
@@ -42,7 +48,8 @@
         "example": "入塾",
         "reading": "ニュウジュク",
         "meaning": {
-          "en": "enrolling at a cram school"
+          "en": "enrolling at a cram school",
+          "vi": "ghi danh vào lò luyện thi"
         },
         "romaji": "nyuujuku"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "丶",
@@ -65,6 +75,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/587e.gif",
     "uri": "https://jisho.org/search/%E5%A1%BE%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là nền học, 熟 gợi việc học chín kỹ, thành lớp học thêm luyện cho thật vững.",
   "hanViet": [
     "thục"
   ]

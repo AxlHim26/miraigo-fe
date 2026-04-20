@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "empress",
+    "meaning": {
+      "en": "empress",
+      "vi": "hoang hau"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "皇后（こうごう）",
         "meaning": {
-          "english": "empress"
+          "english": "empress",
+          "en": "empress",
+          "vi": "hoang hau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koutai)gou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "皇后陛下（こうごうへいか）",
         "meaning": {
-          "english": "her majesty the Empress"
+          "english": "her majesty the Empress",
+          "en": "her majesty the Empress",
+          "vi": "Be ha Hoang hau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koutai)gou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "皇太后（こうたいごう）",
         "meaning": {
-          "english": "Queen Mother"
+          "english": "Queen Mother",
+          "en": "Queen Mother",
+          "vi": "hoang thai hau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koutai)gou_06_c.opus",
@@ -115,7 +124,9 @@
     "kanji": {
       "character": "后",
       "meaning": {
-        "english": "empress"
+        "english": "empress",
+        "en": "empress",
+        "vi": "hoang hau"
       },
       "strokes": {
         "count": 6,
@@ -165,7 +176,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "mieng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -186,7 +199,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1583",
     "strokeCount": 6,
-    "meaning": "empress, queen, after, behind, back, later",
+    "meaning": {
+      "en": "empress, queen, after, behind, back, later",
+      "vi": "hoang hau, nu vuong, sau, phia sau, lung, ve sau"
+    },
     "kunyomi": [
       "きさき"
     ],
@@ -199,7 +215,8 @@
         "example": "后宮",
         "reading": "コウグウ",
         "meaning": {
-          "vi": "empress's palace, queen's palace, empress, queen"
+          "vi": "cung cua hoang hau, cung cua nu vuong, hoang hau, nu vuong",
+          "en": "empress's palace, queen's palace, empress, queen"
         },
         "romaji": "kouguu"
       },
@@ -207,7 +224,8 @@
         "example": "皇妃",
         "reading": "コウヒ",
         "meaning": {
-          "vi": "empress, queen"
+          "vi": "empress, queen",
+          "en": "empress, queen"
         },
         "romaji": "kouhi"
       },
@@ -215,7 +233,8 @@
         "example": "皇太后",
         "reading": "コウタイゴウ",
         "meaning": {
-          "vi": "Empress Dowager, Queen Mother"
+          "vi": "thai hau, hoang thai hau",
+          "en": "Empress Dowager, Queen Mother"
         },
         "romaji": "koutaigou"
       },
@@ -223,7 +242,8 @@
         "example": "太后",
         "reading": "タイコウ",
         "meaning": {
-          "vi": "empress dowager, queen mother"
+          "vi": "empress dowager, queen mother",
+          "en": "empress dowager, queen mother"
         },
         "romaji": "taikou"
       }
@@ -233,7 +253,8 @@
         "example": "后",
         "reading": "きさき",
         "meaning": {
-          "vi": "empress (consort), queen (consort)"
+          "vi": "hoang hau, vuong phi",
+          "en": "empress (consort), queen (consort)"
         },
         "romaji": "kisaki"
       },
@@ -241,14 +262,18 @@
         "example": "后町",
         "reading": "きさきまち",
         "meaning": {
-          "vi": "women's pavilion (of the inner Heian palace)"
+          "vi": "khu nu phong trong noi cung Heian",
+          "en": "women's pavilion (of the inner Heian palace)"
         },
         "romaji": "kisakimachi"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "mieng, lo mo"
+      }
     },
     "parts": [
       "ノ",
@@ -266,5 +291,7 @@
   "hanViet": [
     "hấu",
     "hậu"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Miệng ở dưới, nét trên như người đứng sau rèm, nhớ là hoàng hậu hoặc phía sau."
 }

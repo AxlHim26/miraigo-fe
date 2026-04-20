@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "sourou",
-    "meaning": "season, seasonal weather",
+    "meaning": {
+      "en": "season, seasonal weather",
+      "vi": "mùa, thời tiết theo mùa"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "候補者（こうほしゃ）",
         "meaning": {
-          "english": "candidate, applicant"
+          "english": "candidate, applicant",
+          "en": "candidate, applicant",
+          "vi": "ứng cử viên, người nộp đơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sourou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "気候（きこう）",
         "meaning": {
-          "english": "climate"
+          "english": "climate",
+          "en": "climate",
+          "vi": "khí hậu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sourou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "時候（じこう）",
         "meaning": {
-          "english": "season, time of the year"
+          "english": "season, time of the year",
+          "en": "season, time of the year",
+          "vi": "mùa, thời điểm trong năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sourou_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "天候（てんこう）",
         "meaning": {
-          "english": "weather"
+          "english": "weather",
+          "en": "weather",
+          "vi": "thời tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sourou_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "兆候（ちょうこう）",
         "meaning": {
-          "english": "sign, indication, omen, symptom"
+          "english": "sign, indication, omen, symptom",
+          "en": "sign, indication, omen, symptom",
+          "vi": "dấu hiệu, chỉ dấu, điềm báo, triệu chứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sourou_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "立候補する（りっこうほする）",
         "meaning": {
-          "english": "announce candidacy"
+          "english": "announce candidacy",
+          "en": "announce candidacy",
+          "vi": "tuyên bố ra tranh cử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sourou_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "候文（そうろうぶん）",
         "meaning": {
-          "english": "writing in old epistolary style"
+          "english": "writing in old epistolary style",
+          "en": "writing in old epistolary style",
+          "vi": "lối viết thư cổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sourou_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "居候（いそうろう）",
         "meaning": {
-          "english": "someone living rent-free"
+          "english": "someone living rent-free",
+          "en": "someone living rent-free",
+          "vi": "người ở nhờ không trả tiền thuê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sourou_06_h.opus",
@@ -209,7 +228,9 @@
     "kanji": {
       "character": "候",
       "meaning": {
-        "english": "season, seasonal weather"
+        "english": "season, seasonal weather",
+        "en": "season, seasonal weather",
+        "vi": "mùa, thời tiết theo mùa"
       },
       "strokes": {
         "count": 10,
@@ -267,7 +288,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -288,7 +311,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "510",
     "strokeCount": 10,
-    "meaning": "climate, season, weather, wait for, expect",
+    "meaning": {
+      "en": "climate, season, weather, wait for, expect",
+      "vi": "khí hậu, mùa, thời tiết, chờ đợi, mong đợi"
+    },
     "kunyomi": [
       "そうろう"
     ],
@@ -300,7 +326,8 @@
         "example": "候",
         "reading": "コウ",
         "meaning": {
-          "en": "season, weather"
+          "en": "season, weather",
+          "vi": "mùa, thời tiết"
         },
         "romaji": "kou"
       },
@@ -308,7 +335,8 @@
         "example": "候補",
         "reading": "コウホ",
         "meaning": {
-          "vi": "candidate, contender, prospect, pick, choice, list, candidacy, candidature, nomination"
+          "vi": "ứng cử viên, đối thủ cạnh tranh, triển vọng, lựa chọn, sự lựa chọn, danh sách, tư cách ứng cử, việc ra ứng cử, sự đề cử",
+          "en": "candidate, contender, prospect, pick, choice, list, candidacy, candidature, nomination"
         },
         "romaji": "kouho"
       },
@@ -316,7 +344,8 @@
         "example": "時候",
         "reading": "ジコウ",
         "meaning": {
-          "en": "season, time of the year"
+          "en": "season, time of the year",
+          "vi": "mùa, thời điểm trong năm"
         },
         "romaji": "jikou"
       },
@@ -324,7 +353,8 @@
         "example": "症候",
         "reading": "ショウコウ",
         "meaning": {
-          "vi": "symptom"
+          "vi": "triệu chứng",
+          "en": "symptom"
         },
         "romaji": "shoukou"
       }
@@ -334,7 +364,8 @@
         "example": "候ふ",
         "reading": "そうろう",
         "meaning": {
-          "vi": "to serve (by a superior's side), to be, to do"
+          "vi": "hầu hạ bên cạnh bề trên, ở, làm",
+          "en": "to serve (by a superior's side), to be, to do"
         },
         "romaji": "sourou"
       },
@@ -342,7 +373,8 @@
         "example": "候間",
         "reading": "そうろうあいだ",
         "meaning": {
-          "en": "as ..."
+          "en": "as ...",
+          "vi": "với tư cách ..."
         },
         "romaji": "sourouaida"
       },
@@ -350,7 +382,8 @@
         "example": "書き候",
         "reading": "かきそうろう",
         "meaning": {
-          "en": "(have the honor, honour) to write"
+          "en": "(have the honor, honour) to write",
+          "vi": "(vinh dự) được viết"
         },
         "romaji": "kakisourou"
       },
@@ -358,7 +391,8 @@
         "example": "御入り候ふ",
         "reading": "おんいりそうろう",
         "meaning": {
-          "en": "to go, to come, to be"
+          "en": "to go, to come, to be",
+          "vi": "đi, đến, hiện diện"
         },
         "romaji": "on'irisourou"
       }
@@ -368,7 +402,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ユ",

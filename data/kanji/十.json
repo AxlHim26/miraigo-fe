@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "too, to",
-    "meaning": "ten",
+    "meaning": {
+      "en": "ten",
+      "vi": "mười"
+    },
     "kstroke": 2,
     "examples": [
       {
         "japanese": "十（じゅう）",
         "meaning": {
-          "english": "10"
+          "english": "10",
+          "en": "10",
+          "vi": "mười"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "十年（じゅうねん）",
         "meaning": {
-          "english": "10 years"
+          "english": "10 years",
+          "en": "10 years",
+          "vi": "mười năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "十分な（じゅうぶんな）",
         "meaning": {
-          "english": "enough"
+          "english": "enough",
+          "en": "enough",
+          "vi": "đủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "十か月（じゅっかげつ）",
         "meaning": {
-          "english": "10 months"
+          "english": "10 months",
+          "en": "10 months",
+          "vi": "mười tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "十冊（じゅっさつ）",
         "meaning": {
-          "english": "10 (bound objects)"
+          "english": "10 (bound objects)",
+          "en": "10 (bound objects)",
+          "vi": "mười vật đếm bằng hậu tố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "十匹（じゅっぴき）",
         "meaning": {
-          "english": "10 (animals)"
+          "english": "10 (animals)",
+          "en": "10 (animals)",
+          "vi": "mười con vật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "十分（じゅっぷん）",
         "meaning": {
-          "english": "10 minutes"
+          "english": "10 minutes",
+          "en": "10 minutes",
+          "vi": "mười phút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "十本（じゅっぽん）",
         "meaning": {
-          "english": "10 (long cylindrical objects)"
+          "english": "10 (long cylindrical objects)",
+          "en": "10 (long cylindrical objects)",
+          "vi": "mười vật dài hình trụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "十日（とおか）",
         "meaning": {
-          "english": "10 days, 10th of the month"
+          "english": "10 days, 10th of the month",
+          "en": "10 days, 10th of the month",
+          "vi": "mười ngày, ngày mùng mười"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "十人十色（じゅうにんといろ）",
         "meaning": {
-          "english": "several men, several minds"
+          "english": "several men, several minds",
+          "en": "several men, several minds",
+          "vi": "mỗi người một ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "*二十才（はたち）",
         "meaning": {
-          "english": "20 years old"
+          "english": "20 years old",
+          "en": "20 years old",
+          "vi": "hai mươi tuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "*二十日（はつか）",
         "meaning": {
-          "english": "20 days, 20th day of the month"
+          "english": "20 days, 20th day of the month",
+          "en": "20 days, 20th day of the month",
+          "vi": "hai mươi ngày, ngày hai mươi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/10_06_l.opus",
@@ -291,7 +318,9 @@
     "kanji": {
       "character": "十",
       "meaning": {
-        "english": "ten"
+        "english": "ten",
+        "en": "ten",
+        "vi": "mười"
       },
       "strokes": {
         "count": 2,
@@ -333,7 +362,9 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten",
+        "en": "ten",
+        "vi": "mười"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -354,7 +385,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "8",
     "strokeCount": 2,
-    "meaning": "ten",
+    "meaning": {
+      "en": "ten",
+      "vi": "mười"
+    },
     "kunyomi": [
       "とお",
       "と",
@@ -370,7 +404,8 @@
         "example": "十",
         "reading": "ジュウ",
         "meaning": {
-          "vi": "ten, 10, ten years of age, book containing a collection of poems"
+          "vi": "mười, số 10, mười tuổi, tập sách tuyển thơ",
+          "en": "ten, 10, ten years of age, book containing a collection of poems"
         },
         "romaji": "juu"
       },
@@ -378,7 +413,8 @@
         "example": "十一",
         "reading": "ジュウイチ",
         "meaning": {
-          "en": "eleven, 11, jack"
+          "en": "eleven, 11, jack",
+          "vi": "mười một, quân J"
         },
         "romaji": "juuichi"
       },
@@ -386,7 +422,8 @@
         "example": "９０",
         "reading": "キュウジュウ",
         "meaning": {
-          "en": "ninety, 90"
+          "en": "ninety, 90",
+          "vi": "chín mươi"
         },
         "romaji": "kyuujuu"
       },
@@ -394,7 +431,8 @@
         "example": "第十",
         "reading": "ダイジュウ",
         "meaning": {
-          "en": "tenth"
+          "en": "tenth",
+          "vi": "thứ mười"
         },
         "romaji": "daijuu"
       },
@@ -402,7 +440,8 @@
         "example": "十種競技",
         "reading": "ジッシュキョウギ",
         "meaning": {
-          "en": "decathlon"
+          "en": "decathlon",
+          "vi": "môn mười môn phối hợp"
         },
         "romaji": "jisshukyougi"
       },
@@ -410,7 +449,8 @@
         "example": "十指",
         "reading": "ジッシ",
         "meaning": {
-          "en": "the ten fingers"
+          "en": "the ten fingers",
+          "vi": "mười ngón tay"
         },
         "romaji": "jisshi"
       },
@@ -418,7 +458,8 @@
         "example": "十指",
         "reading": "ジッシ",
         "meaning": {
-          "en": "the ten fingers"
+          "en": "the ten fingers",
+          "vi": "mười ngón tay"
         },
         "romaji": "jisshi"
       },
@@ -426,7 +467,8 @@
         "example": "十回",
         "reading": "ジッカイ",
         "meaning": {
-          "en": "ten times"
+          "en": "ten times",
+          "vi": "gấp mười lần"
         },
         "romaji": "jikkai"
       }
@@ -436,7 +478,8 @@
         "example": "十",
         "reading": "じゅう",
         "meaning": {
-          "vi": "ten, 10, ten years of age, book containing a collection of poems"
+          "vi": "mười, số 10, mười tuổi, tập sách tuyển thơ",
+          "en": "ten, 10, ten years of age, book containing a collection of poems"
         },
         "romaji": "juu"
       },
@@ -444,7 +487,8 @@
         "example": "１０日",
         "reading": "とおか",
         "meaning": {
-          "en": "10th day of the month, ten days"
+          "en": "10th day of the month, ten days",
+          "vi": "ngày mùng mười, mười ngày"
         },
         "romaji": "tooka"
       },
@@ -452,7 +496,8 @@
         "example": "釈迦十",
         "reading": "しゃかじゅう",
         "meaning": {
-          "en": "10 of batons (in mekuri karuta)"
+          "en": "10 of batons (in mekuri karuta)",
+          "vi": "lá gậy số 10 trong bài mekuri karuta"
         },
         "romaji": "shakajuu"
       },
@@ -460,7 +505,8 @@
         "example": "十",
         "reading": "じゅう",
         "meaning": {
-          "vi": "ten, 10, ten years of age, book containing a collection of poems"
+          "vi": "mười, số 10, mười tuổi, tập sách tuyển thơ",
+          "en": "ten, 10, ten years of age, book containing a collection of poems"
         },
         "romaji": "juu"
       },
@@ -468,7 +514,8 @@
         "example": "１０日",
         "reading": "とおか",
         "meaning": {
-          "en": "10th day of the month, ten days"
+          "en": "10th day of the month, ten days",
+          "vi": "ngày mùng mười, mười ngày"
         },
         "romaji": "tooka"
       },
@@ -476,7 +523,8 @@
         "example": "算盤",
         "reading": "そろばん",
         "meaning": {
-          "vi": "abacus, soroban, calculation (esp. of profit and loss), reckoning"
+          "vi": "bàn tính, soroban, phép tính (đặc biệt là lời lỗ), sự tính toán",
+          "en": "abacus, soroban, calculation (esp. of profit and loss), reckoning"
         },
         "romaji": "soroban"
       },
@@ -484,14 +532,18 @@
         "example": "そろばん高い",
         "reading": "そろばんだかい",
         "meaning": {
-          "en": "calculating, miserly"
+          "en": "calculating, miserly",
+          "vi": "toan tính, keo kiệt"
         },
         "romaji": "sorobandakai"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "mười, trọn vẹn"
+      }
     },
     "parts": [
       "十"
@@ -503,5 +555,7 @@
   },
   "hanViet": [
     "thập"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: một nét dọc cắt một nét ngang thành dấu cộng, đếm đủ mười là 十."
 }

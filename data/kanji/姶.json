@@ -5,7 +5,10 @@
     "query": "姶",
     "found": true,
     "strokeCount": 9,
-    "meaning": "good-looking, quiet",
+    "meaning": {
+      "en": "good-looking, quiet",
+      "vi": "xinh đẹp, điềm tĩnh"
+    },
     "kunyomi": [
       "あい"
     ],
@@ -17,7 +20,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": {
+        "en": "woman, female",
+        "vi": "phụ nữ, giống cái"
+      }
     },
     "parts": [
       "一",

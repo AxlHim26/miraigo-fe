@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kokoro",
-    "meaning": "heart",
+    "meaning": {
+      "en": "heart",
+      "vi": "trái tim"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "心理学（しんりがく）",
         "meaning": {
-          "english": "psychology"
+          "english": "psychology",
+          "en": "psychology",
+          "vi": "tâm lý học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "心臓病（しんぞうびょう）",
         "meaning": {
-          "english": "heart disease"
+          "english": "heart disease",
+          "en": "heart disease",
+          "vi": "bệnh tim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "心臓まひ（しんぞうまひ）",
         "meaning": {
-          "english": "heart attack"
+          "english": "heart attack",
+          "en": "heart attack",
+          "vi": "cơn đau tim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "中心（ちゅうしん）",
         "meaning": {
-          "english": "center"
+          "english": "center",
+          "en": "center",
+          "vi": "trung tâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "好奇心（こうきしん）",
         "meaning": {
-          "english": "curiosity"
+          "english": "curiosity",
+          "en": "curiosity",
+          "vi": "tò mò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "肝心な（かんじんな）",
         "meaning": {
-          "english": "essential"
+          "english": "essential",
+          "en": "essential",
+          "vi": "cốt yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "心配する（しんぱいする）",
         "meaning": {
-          "english": "worry"
+          "english": "worry",
+          "en": "worry",
+          "vi": "lo lắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "安心する（あんしんする）",
         "meaning": {
-          "english": "be relieved"
+          "english": "be relieved",
+          "en": "be relieved",
+          "vi": "yên tâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "感心する（かんしんする）",
         "meaning": {
-          "english": "admire [v.i.]"
+          "english": "admire [v.i.]",
+          "en": "admire [v.i.]",
+          "vi": "thán phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "決心する（けっしんする）",
         "meaning": {
-          "english": "resolve to do something"
+          "english": "resolve to do something",
+          "en": "resolve to do something",
+          "vi": "quyết tâm làm điều gì đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "心（こころ）",
         "meaning": {
-          "english": "heart, spirit"
+          "english": "heart, spirit",
+          "en": "heart, spirit",
+          "vi": "trái tim, tinh thần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "親心（おやごころ）",
         "meaning": {
-          "english": "parental love"
+          "english": "parental love",
+          "en": "parental love",
+          "vi": "tình thương của cha mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoro_06_l.opus",
@@ -304,7 +331,9 @@
     "kanji": {
       "character": "心",
       "meaning": {
-        "english": "heart"
+        "english": "heart",
+        "en": "heart",
+        "vi": "trái tim"
       },
       "strokes": {
         "count": 4,
@@ -350,7 +379,9 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit",
+        "en": "heart, mind, spirit",
+        "vi": "trái tim, tâm trí, tinh thần"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -371,7 +402,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "157",
     "strokeCount": 4,
-    "meaning": "heart, mind, spirit, heart radical (no. 61)",
+    "meaning": {
+      "en": "heart, mind, spirit, heart radical (no. 61)",
+      "vi": "trái tim, tâm trí, tinh thần, bộ tâm số 61"
+    },
     "kunyomi": [
       "こころ",
       "-ごころ"
@@ -384,7 +418,8 @@
         "example": "心",
         "reading": "シン",
         "meaning": {
-          "vi": "heart, mind, spirit, vitality, inner strength, bottom of one's heart, core (of one's character), nature, centre, center, core, heart, heart (organ), Chinese \"Heart\" constellation (one of the 28 mansions), friend"
+          "vi": "heart, mind, spirit, vitality, inner strength, bottom of one's heart, core (of one's character), nature, centre, center, core, heart, heart (organ), Chinese \"Heart\" constellation (one of the 28 mansions), friend",
+          "en": "heart, mind, spirit, vitality, inner strength, bottom of one's heart, core (of one's character), nature, centre, center, core, heart, heart (organ), Chinese \"Heart\" constellation (one of the 28 mansions), friend"
         },
         "romaji": "shin"
       },
@@ -392,7 +427,8 @@
         "example": "心から",
         "reading": "ココロカラ",
         "meaning": {
-          "en": "from the bottom of one's heart, heartily, sincerely"
+          "en": "from the bottom of one's heart, heartily, sincerely",
+          "vi": "từ tận đáy lòng, chân thành"
         },
         "romaji": "kokorokara"
       },
@@ -400,7 +436,8 @@
         "example": "重心",
         "reading": "ジュウシン",
         "meaning": {
-          "en": "centre of gravity (center), centroid, barycenter, (one's) balance"
+          "en": "centre of gravity (center), centroid, barycenter, (one's) balance",
+          "vi": "trọng tâm, tâm hình học, tâm khối, sự cân bằng"
         },
         "romaji": "juushin"
       },
@@ -408,7 +445,8 @@
         "example": "会心",
         "reading": "カイシン",
         "meaning": {
-          "en": "congeniality, satisfaction, gratification"
+          "en": "congeniality, satisfaction, gratification",
+          "vi": "sự hợp ý, hài lòng, thỏa mãn"
         },
         "romaji": "kaishin"
       }
@@ -418,7 +456,8 @@
         "example": "心",
         "reading": "こころ",
         "meaning": {
-          "vi": "mind, heart, spirit, the meaning of a phrase (riddle, etc.)"
+          "vi": "mind, heart, spirit, the meaning of a phrase (riddle, etc.)",
+          "en": "mind, heart, spirit, the meaning of a phrase (riddle, etc.)"
         },
         "romaji": "kokoro"
       },
@@ -426,7 +465,8 @@
         "example": "心意気",
         "reading": "こころいき",
         "meaning": {
-          "vi": "spirit, determination, pluck, mettle"
+          "vi": "spirit, determination, pluck, mettle",
+          "en": "spirit, determination, pluck, mettle"
         },
         "romaji": "kokoroiki"
       },
@@ -434,7 +474,8 @@
         "example": "我が心",
         "reading": "わがこころ",
         "meaning": {
-          "en": "my heart"
+          "en": "my heart",
+          "vi": "trái tim tôi"
         },
         "romaji": "wagakokoro"
       },
@@ -442,7 +483,8 @@
         "example": "静心",
         "reading": "しずごころ",
         "meaning": {
-          "vi": "calm mind, placid temperament"
+          "vi": "calm mind, placid temperament",
+          "en": "calm mind, placid temperament"
         },
         "romaji": "shizugokoro"
       }
@@ -453,7 +495,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "trái tim"
+      }
     },
     "parts": [
       "心"
@@ -465,5 +510,7 @@
   },
   "hanViet": [
     "tâm"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: ba chấm như ba nhịp đập bao quanh một tâm điểm là trái tim."
 }

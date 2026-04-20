@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "jlptLevel": "N1",
     "strokeCount": 6,
-    "meaning": "officer, an official",
+    "meaning": {
+      "en": "officer, an official",
+      "vi": "quan lại, viên chức"
+    },
     "kunyomi": [],
     "onyomi": [
       "リ"
@@ -17,7 +20,8 @@
         "example": "吏",
         "reading": "リ",
         "meaning": {
-          "vi": "government official, public official"
+          "vi": "quan chức nhà nước, công chức",
+          "en": "government official, public official"
         },
         "romaji": "ri"
       },
@@ -25,7 +29,8 @@
         "example": "吏員",
         "reading": "リイン",
         "meaning": {
-          "en": "official"
+          "en": "official",
+          "vi": "quan chức, viên chức"
         },
         "romaji": "riin"
       },
@@ -33,7 +38,8 @@
         "example": "官吏",
         "reading": "カンリ",
         "meaning": {
-          "vi": "government official, public servant, civil servant"
+          "vi": "quan chức nhà nước, công bộc, công chức",
+          "en": "government official, public servant, civil servant"
         },
         "romaji": "kanri"
       },
@@ -41,7 +47,8 @@
         "example": "刑吏",
         "reading": "ケイリ",
         "meaning": {
-          "en": "executioner"
+          "en": "executioner",
+          "vi": "đao phủ"
         },
         "romaji": "keiri"
       }
@@ -49,7 +56,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "ノ",
@@ -64,5 +74,6 @@
   },
   "hanViet": [
     "lại"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: người dùng miệng 口 truyền lệnh công vụ, gợi hình viên lại quan chức."
 }

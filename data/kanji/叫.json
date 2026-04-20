@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "sake, sakebu",
-    "meaning": "shout, scream",
+    "meaning": {
+      "en": "shout, scream",
+      "vi": "la het, thét"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "阿鼻叫喚（あびきょうかん）",
         "meaning": {
-          "english": "agonizing cries, pandemonium"
+          "english": "agonizing cries, pandemonium",
+          "en": "agonizing cries, pandemonium",
+          "vi": "tieng la the tham thiet, canh hon loan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sake(bu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "絶叫する（ぜっきょうする）",
         "meaning": {
-          "english": "scream, shout [v.i.]"
+          "english": "scream, shout [v.i.]",
+          "en": "scream, shout [v.i.]",
+          "vi": "het len, goi lon"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sake(bu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "叫ぶ（さけぶ）",
         "meaning": {
-          "english": "scream, shout [v.i.]"
+          "english": "scream, shout [v.i.]",
+          "en": "scream, shout [v.i.]",
+          "vi": "het len, goi lon"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sake(bu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "叫び声（さけびごえ）",
         "meaning": {
-          "english": "shout, scream [n.]"
+          "english": "shout, scream [n.]",
+          "en": "shout, scream [n.]",
+          "vi": "tieng la het"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sake(bu)_06_d.opus",
@@ -133,7 +144,9 @@
     "kanji": {
       "character": "叫",
       "meaning": {
-        "english": "shout, scream"
+        "english": "shout, scream",
+        "en": "shout, scream",
+        "vi": "la het, thét"
       },
       "strokes": {
         "count": 6,
@@ -183,7 +196,9 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "mieng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -204,7 +219,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1426",
     "strokeCount": 6,
-    "meaning": "shout, exclaim, yell",
+    "meaning": {
+      "en": "shout, exclaim, yell",
+      "vi": "la het, keu len, goi am i"
+    },
     "kunyomi": [
       "さけ.ぶ"
     ],
@@ -216,7 +234,8 @@
         "example": "叫喚",
         "reading": "キョウカン",
         "meaning": {
-          "en": "shout, scream"
+          "en": "shout, scream",
+          "vi": "la het, thét"
         },
         "romaji": "kyoukan"
       },
@@ -224,7 +243,8 @@
         "example": "叫号",
         "reading": "キョウゴウ",
         "meaning": {
-          "en": "crying aloud"
+          "en": "crying aloud",
+          "vi": "khoc the thanh tieng"
         },
         "romaji": "kyougou"
       },
@@ -232,7 +252,8 @@
         "example": "哀叫",
         "reading": "アイキョウ",
         "meaning": {
-          "en": "crying loudly with sadness"
+          "en": "crying loudly with sadness",
+          "vi": "khoc lon trong dau buon"
         },
         "romaji": "aikyou"
       },
@@ -240,7 +261,8 @@
         "example": "大絶叫",
         "reading": "ダイゼッキョウ",
         "meaning": {
-          "vi": "loud scream, screaming at the top of one's lungs"
+          "vi": "tieng thet lon, thet het suc",
+          "en": "loud scream, screaming at the top of one's lungs"
         },
         "romaji": "daizekkyou"
       }
@@ -250,14 +272,18 @@
         "example": "叫ぶ",
         "reading": "さけぶ",
         "meaning": {
-          "en": "to shout, to cry, to scream, to shriek, to yell, to exclaim, to clamor (for or against), to clamour (for or against)"
+          "en": "to shout, to cry, to scream, to shriek, to yell, to exclaim, to clamor (for or against), to clamour (for or against)",
+          "vi": "het len, khoc, thet, re len, la, keu len, doi hoi om sum, phan doi om sum"
         },
         "romaji": "sakebu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "mieng, lo mo"
+      }
     },
     "parts": [
       "十",
@@ -271,5 +297,7 @@
   },
   "hanViet": [
     "khiếu"
-  ]
+  ],
+  "jlpt_level": "N2",
+  "mnemonic_vi": "Miệng bên trái phát âm lớn, nét bên phải bật lên như đang hét."
 }

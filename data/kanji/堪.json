@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1953",
     "strokeCount": 12,
-    "meaning": "withstand, endure, support, resist",
+    "meaning": {
+      "en": "withstand, endure, support, resist",
+      "vi": "chịu đựng, kham nổi, chống đỡ"
+    },
     "kunyomi": [
       "た.える",
       "たま.る",
@@ -24,7 +27,8 @@
         "example": "堪忍袋",
         "reading": "カンニンブクロ",
         "meaning": {
-          "vi": "one's store of patience"
+          "vi": "one's store of patience",
+          "en": "one's store of patience"
         },
         "romaji": "kanninbukuro"
       },
@@ -32,7 +36,8 @@
         "example": "堪忍",
         "reading": "カンニン",
         "meaning": {
-          "vi": "patience, forbearance, endurance, tolerance, forgiveness, pardon"
+          "vi": "patience, forbearance, endurance, tolerance, forgiveness, pardon",
+          "en": "patience, forbearance, endurance, tolerance, forgiveness, pardon"
         },
         "romaji": "kannin"
       },
@@ -40,7 +45,8 @@
         "example": "不堪",
         "reading": "フカン",
         "meaning": {
-          "vi": "incompetence"
+          "vi": "incompetence",
+          "en": "incompetence"
         },
         "romaji": "fukan"
       },
@@ -48,7 +54,8 @@
         "example": "堪能",
         "reading": "タンノウ",
         "meaning": {
-          "vi": "proficient, skilled, skillful, good, accomplished, enjoying to the full, full satisfaction, being satiated (with), having one's fill (of)"
+          "vi": "proficient, skilled, skillful, good, accomplished, enjoying to the full, full satisfaction, being satiated (with), having one's fill (of)",
+          "en": "proficient, skilled, skillful, good, accomplished, enjoying to the full, full satisfaction, being satiated (with), having one's fill (of)"
         },
         "romaji": "tannou"
       },
@@ -56,7 +63,8 @@
         "example": "堪航能力",
         "reading": "タンコウノウリョク",
         "meaning": {
-          "en": "seaworthiness"
+          "en": "seaworthiness",
+          "vi": "khả năng đi biển an toàn"
         },
         "romaji": "tankounouryoku"
       }
@@ -66,7 +74,8 @@
         "example": "耐える",
         "reading": "たえる",
         "meaning": {
-          "vi": "to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, to be equal to"
+          "vi": "to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, to be equal to",
+          "en": "to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, to be equal to"
         },
         "romaji": "taeru"
       },
@@ -74,7 +83,8 @@
         "example": "堪る",
         "reading": "たまる",
         "meaning": {
-          "en": "to bear, to endure"
+          "en": "to bear, to endure",
+          "vi": "chịu đựng"
         },
         "romaji": "tamaru"
       },
@@ -82,7 +92,8 @@
         "example": "堪える",
         "reading": "こらえる",
         "meaning": {
-          "vi": "to bear, to stand, to endure, to put up with, to restrain, to control, to keep a check on, to forgive, to put up with, to pardon"
+          "vi": "to bear, to stand, to endure, to put up with, to restrain, to control, to keep a check on, to forgive, to put up with, to pardon",
+          "en": "to bear, to stand, to endure, to put up with, to restrain, to control, to keep a check on, to forgive, to put up with, to pardon"
         },
         "romaji": "koraeru"
       },
@@ -90,14 +101,18 @@
         "example": "堪える",
         "reading": "こらえる",
         "meaning": {
-          "vi": "to bear, to stand, to endure, to put up with, to restrain, to control, to keep a check on, to forgive, to put up with, to pardon"
+          "vi": "to bear, to stand, to endure, to put up with, to restrain, to control, to keep a check on, to forgive, to put up with, to pardon",
+          "en": "to bear, to stand, to endure, to put up with, to restrain, to control, to keep a check on, to forgive, to put up with, to pardon"
         },
         "romaji": "koraeru"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "儿",
@@ -110,6 +125,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/582a.gif",
     "uri": "https://jisho.org/search/%E5%A0%AA%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là nền chịu lực, 甚 như sức nặng đè xuống, gợi ý sức chịu đựng đến mức kham nổi.",
   "hanViet": [
     "kham"
   ]

@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "stomach",
+    "meaning": {
+      "en": "stomach",
+      "vi": "dạ dày"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "胃（い）",
         "meaning": {
-          "english": "stomach"
+          "english": "stomach",
+          "en": "stomach",
+          "vi": "dạ dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(bukuro)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "胃腸（いちょう）",
         "meaning": {
-          "english": "stomach & intestines"
+          "english": "stomach & intestines",
+          "en": "stomach & intestines",
+          "vi": "dạ dày và ruột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(bukuro)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "胃袋（いぶくろ）",
         "meaning": {
-          "english": "stomach"
+          "english": "stomach",
+          "en": "stomach",
+          "vi": "dạ dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(bukuro)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "胃炎（いえん）",
         "meaning": {
-          "english": "gastritis, gastric catarrh"
+          "english": "gastritis, gastric catarrh",
+          "en": "gastritis, gastric catarrh",
+          "vi": "viêm dạ dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(bukuro)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "胃癌（いがん）",
         "meaning": {
-          "english": "stomach cancer"
+          "english": "stomach cancer",
+          "en": "stomach cancer",
+          "vi": "ung thư dạ dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(bukuro)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "胃下垂（いかすい）",
         "meaning": {
-          "english": "gastroptosis"
+          "english": "gastroptosis",
+          "en": "gastroptosis",
+          "vi": "sa dạ dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(bukuro)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "胃潰瘍（いかいよう）",
         "meaning": {
-          "english": "stomach ulcer"
+          "english": "stomach ulcer",
+          "en": "stomach ulcer",
+          "vi": "loét dạ dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(bukuro)_06_g.opus",
@@ -167,7 +184,9 @@
     "kanji": {
       "character": "胃",
       "meaning": {
-        "english": "stomach"
+        "english": "stomach",
+        "en": "stomach",
+        "vi": "dạ dày"
       },
       "strokes": {
         "count": 9,
@@ -223,7 +242,9 @@
         "romaji": "nikuzuki"
       },
       "meaning": {
-        "english": "meat, flesh"
+        "english": "meat, flesh",
+        "en": "meat, flesh",
+        "vi": "thịt, da thịt"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
@@ -244,7 +265,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1647",
     "strokeCount": 9,
-    "meaning": "stomach, paunch, crop, craw",
+    "meaning": {
+      "en": "stomach, paunch, crop, craw",
+      "vi": "dạ dày, bụng, diều, mề"
+    },
     "kunyomi": [],
     "onyomi": [
       "イ"
@@ -254,7 +278,8 @@
         "example": "胃",
         "reading": "イ",
         "meaning": {
-          "en": "stomach, Chinese \"stomach\" constellation (one of the 28 mansions)"
+          "en": "stomach, Chinese \"stomach\" constellation (one of the 28 mansions)",
+          "vi": "dạ dày, chòm sao \"Vị\" trong thiên văn Trung Hoa (một trong 28 tú)"
         },
         "romaji": "i"
       },
@@ -262,7 +287,8 @@
         "example": "胃腸",
         "reading": "イチョウ",
         "meaning": {
-          "en": "stomach and intestines, gastrointestinal tract, digestive organs"
+          "en": "stomach and intestines, gastrointestinal tract, digestive organs",
+          "vi": "dạ dày và ruột, đường tiêu hóa, cơ quan tiêu hóa"
         },
         "romaji": "ichou"
       },
@@ -270,7 +296,8 @@
         "example": "しわ胃",
         "reading": "シワイ",
         "meaning": {
-          "en": "abomasum"
+          "en": "abomasum",
+          "vi": "dạ múi khế"
         },
         "romaji": "shiwai"
       },
@@ -278,7 +305,8 @@
         "example": "蜂巣胃",
         "reading": "ホウソウイ",
         "meaning": {
-          "en": "reticulum"
+          "en": "reticulum",
+          "vi": "dạ tổ ong"
         },
         "romaji": "housoui"
       }
@@ -289,7 +317,10 @@
       "forms": [
         "⺼"
       ],
-      "meaning": "meat"
+      "meaning": {
+        "en": "meat",
+        "vi": "thịt"
+      }
     },
     "parts": [
       "月",

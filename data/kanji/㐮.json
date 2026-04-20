@@ -5,14 +5,20 @@
     "query": "㐮",
     "found": true,
     "strokeCount": 13,
-    "meaning": "giúp đỡ",
+    "meaning": {
+      "en": "help",
+      "vi": "giúp đỡ"
+    },
     "kunyomi": [],
     "onyomi": [],
     "onyomiExamples": [],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亠",
-      "meaning": "nắp"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/13358_frames.png",
@@ -28,7 +34,7 @@
     "en": null
   },
   "meaning": {
-    "vi": "giúp đỡ",
-    "en": "giúp đỡ"
+    "en": "help",
+    "vi": "giúp đỡ"
   }
 }

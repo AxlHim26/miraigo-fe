@@ -7,7 +7,10 @@
     "grade": null,
     "hint_group": 50,
     "kunyomi": "ata, ataeru",
-    "meaning": "give, grant",
+    "meaning": {
+      "en": "give, grant",
+      "vi": "cho, ban cấp"
+    },
     "kstroke": 3,
     "examples": [
       {
@@ -270,7 +273,9 @@
     "kanji": {
       "character": "与",
       "meaning": {
-        "english": "give, grant"
+        "english": "give, grant",
+        "en": "give, grant",
+        "vi": "cho, ban cấp"
       },
       "strokes": {
         "count": 3,
@@ -314,7 +319,9 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke",
+        "en": "one, horizontal stroke",
+        "vi": "một, nét ngang"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -335,7 +342,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "308",
     "strokeCount": 3,
-    "meaning": "bestow, participate in, give, award, impart, provide, cause, gift, godsend",
+    "meaning": {
+      "en": "bestow, participate in, give, award, impart, provide, cause, gift, godsend",
+      "vi": "ban cho, tham gia, cho, trao tặng, truyền đạt, cung cấp, gây ra, quà tặng, ơn trời"
+    },
     "kunyomi": [
       "あた.える",
       "あずか.る",
@@ -468,7 +478,10 @@
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "一",
@@ -492,5 +505,7 @@
   "meaning": {
     "vi": "cho, cấp",
     "en": "give, grant"
-  }
+  },
+  "jlpt": "N3",
+  "mnemonic_vi": "Nhìn như bàn tay đưa vật cho người khác, nên nhớ là cho, ban."
 }

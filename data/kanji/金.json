@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "kane, kana",
-    "meaning": "metal, gold, money",
+    "meaning": {
+      "en": "metal, gold, money",
+      "vi": "kim loại, vàng, tiền"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "金曜日（きんようび）",
         "meaning": {
-          "english": "Friday"
+          "english": "Friday",
+          "en": "Friday",
+          "vi": "thứ Sáu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "金属（きんぞく）",
         "meaning": {
-          "english": "metal"
+          "english": "metal",
+          "en": "metal",
+          "vi": "kim loại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "金髪（きんぱつ）",
         "meaning": {
-          "english": "blond hair"
+          "english": "blond hair",
+          "en": "blond hair",
+          "vi": "tóc vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "金魚（きんぎょ）",
         "meaning": {
-          "english": "goldfish"
+          "english": "goldfish",
+          "en": "goldfish",
+          "vi": "cá vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "金額（きんがく）",
         "meaning": {
-          "english": "amount of money"
+          "english": "amount of money",
+          "en": "amount of money",
+          "vi": "số tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "奨学金（しょうがくきん）",
         "meaning": {
-          "english": "scholarship"
+          "english": "scholarship",
+          "en": "scholarship",
+          "vi": "học bổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "罰金（ばっきん）",
         "meaning": {
-          "english": "a fine"
+          "english": "a fine",
+          "en": "a fine",
+          "vi": "tiền phạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "現金（げんきん）",
         "meaning": {
-          "english": "cash"
+          "english": "cash",
+          "en": "cash",
+          "vi": "tiền mặt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "預金する（よきんする）",
         "meaning": {
-          "english": "deposit in a bank"
+          "english": "deposit in a bank",
+          "en": "deposit in a bank",
+          "vi": "tiền gửi ngân hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "金色（こんじき/きんいろ）",
         "meaning": {
-          "english": "gold colored"
+          "english": "gold colored",
+          "en": "gold colored",
+          "vi": "màu vàng kim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "お金（おかね）",
         "meaning": {
-          "english": "money"
+          "english": "money",
+          "en": "money",
+          "vi": "tiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "金物（かなもの）",
         "meaning": {
-          "english": "hardware"
+          "english": "hardware",
+          "en": "hardware",
+          "vi": "đồ kim khí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kin-kane_06_l.opus",
@@ -317,7 +344,9 @@
     "kanji": {
       "character": "金",
       "meaning": {
-        "english": "metal, gold, money"
+        "english": "metal, gold, money",
+        "en": "metal, gold, money",
+        "vi": "kim loại, vàng, tiền"
       },
       "strokes": {
         "count": 8,
@@ -371,7 +400,9 @@
         "romaji": "kane"
       },
       "meaning": {
-        "english": "metal, gold, mineral"
+        "english": "metal, gold, mineral",
+        "en": "metal, gold, mineral",
+        "vi": "kim loại, vàng, khoáng vật"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kane0.svg",
@@ -392,7 +423,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "53",
     "strokeCount": 8,
-    "meaning": "gold",
+    "meaning": {
+      "en": "gold",
+      "vi": "gold"
+    },
     "kunyomi": [
       "かね",
       "かな-",
@@ -408,7 +442,8 @@
         "example": "金",
         "reading": "キン",
         "meaning": {
-          "vi": "gold (metal), gold (color), gold (medal), first place (prize), something of great value, something golden (e.g. silence), money, gold coin, sum (of money), Friday, karat (measure of purity of gold), carat, metal (fourth phase of Wu Xing), Jin dynasty (of China; 1115-1234), Chin dynasty, Jurchen dynasty, gold general, testicles"
+          "vi": "gold (metal), gold (color), gold (medal), first place (prize), something of great value, something golden (e.g. silence), money, gold coin, sum (of money), Friday, karat (measure of purity of gold), carat, metal (fourth phase of Wu Xing), Jin dynasty (of China; 1115-1234), Chin dynasty, Jurchen dynasty, gold general, testicles",
+          "en": "gold (metal), gold (color), gold (medal), first place (prize), something of great value, something golden (e.g. silence), money, gold coin, sum (of money), Friday, karat (measure of purity of gold), carat, metal (fourth phase of Wu Xing), Jin dynasty (of China; 1115-1234), Chin dynasty, Jurchen dynasty, gold general, testicles"
         },
         "romaji": "kin"
       },
@@ -416,7 +451,8 @@
         "example": "金色",
         "reading": "キンイロ",
         "meaning": {
-          "en": "gold (colour, color)"
+          "en": "gold (colour, color)",
+          "vi": "màu vàng kim"
         },
         "romaji": "kin'iro"
       },
@@ -424,7 +460,8 @@
         "example": "集金",
         "reading": "シュウキン",
         "meaning": {
-          "en": "money collection"
+          "en": "money collection",
+          "vi": "việc thu tiền"
         },
         "romaji": "shuukin"
       },
@@ -432,7 +469,8 @@
         "example": "納金",
         "reading": "ノウキン",
         "meaning": {
-          "vi": "payment"
+          "vi": "payment",
+          "en": "payment"
         },
         "romaji": "noukin"
       },
@@ -440,7 +478,8 @@
         "example": "金色",
         "reading": "キンイロ",
         "meaning": {
-          "en": "gold (colour, color)"
+          "en": "gold (colour, color)",
+          "vi": "màu vàng kim"
         },
         "romaji": "kin'iro"
       },
@@ -448,7 +487,8 @@
         "example": "金剛",
         "reading": "コンゴウ",
         "meaning": {
-          "vi": "vajra (indestructible substance), diamond, adamantine, thunderbolt, Indra's weapon, Buddhist symbol of the indestructible truth"
+          "vi": "vajra (indestructible substance), diamond, adamantine, thunderbolt, Indra's weapon, Buddhist symbol of the indestructible truth",
+          "en": "vajra (indestructible substance), diamond, adamantine, thunderbolt, Indra's weapon, Buddhist symbol of the indestructible truth"
         },
         "romaji": "kongou"
       },
@@ -456,7 +496,8 @@
         "example": "鬱金",
         "reading": "ウコン",
         "meaning": {
-          "en": "turmeric (Curcuma domestica)"
+          "en": "turmeric (Curcuma domestica)",
+          "vi": "nghệ (Curcuma domestica)"
         },
         "romaji": "ukon"
       },
@@ -464,7 +505,8 @@
         "example": "葛鬱金",
         "reading": "クズウコン",
         "meaning": {
-          "en": "arrowroot (Maranta arundinacea)"
+          "en": "arrowroot (Maranta arundinacea)",
+          "vi": "cây dong riềng (arrowroot)"
         },
         "romaji": "kuzuukon"
       },
@@ -472,7 +514,8 @@
         "example": "漉油",
         "reading": "コシアブラ",
         "meaning": {
-          "vi": "Acanthopanax sciadophylloides (species of flowering plant related to the aralias)"
+          "vi": "Acanthopanax sciadophylloides (species of flowering plant related to the aralias)",
+          "en": "Acanthopanax sciadophylloides (species of flowering plant related to the aralias)"
         },
         "romaji": "koshiabura"
       }
@@ -482,7 +525,8 @@
         "example": "金",
         "reading": "かね",
         "meaning": {
-          "en": "money, metal"
+          "en": "money, metal",
+          "vi": "tiền, kim loại"
         },
         "romaji": "kane"
       },
@@ -490,7 +534,8 @@
         "example": "金持ち",
         "reading": "かねもち",
         "meaning": {
-          "vi": "rich person, wealthy person"
+          "vi": "rich person, wealthy person",
+          "en": "rich person, wealthy person"
         },
         "romaji": "kanemochi"
       },
@@ -498,7 +543,8 @@
         "example": "細かい金",
         "reading": "こまかいかね",
         "meaning": {
-          "en": "small change"
+          "en": "small change",
+          "vi": "tiền lẻ"
         },
         "romaji": "komakaikane"
       },
@@ -506,7 +552,8 @@
         "example": "汚れた金",
         "reading": "よごれたかね",
         "meaning": {
-          "en": "dirty money"
+          "en": "dirty money",
+          "vi": "tiền bẩn"
         },
         "romaji": "yogoretakane"
       }
@@ -516,7 +563,10 @@
       "forms": [
         "釒"
       ],
-      "meaning": "metal, gold"
+      "meaning": {
+        "en": "metal, gold",
+        "vi": "metal, gold"
+      }
     },
     "parts": [
       "ハ",
@@ -530,6 +580,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91d1.gif",
     "uri": "https://jisho.org/search/%E9%87%91%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Có vàng, kim loại và tiền đều gom dưới chữ kim.",
   "hanViet": [
     "kim"
   ]

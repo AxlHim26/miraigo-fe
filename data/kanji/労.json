@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": null,
     "kunyomi": "n/a",
-    "meaning": "labor, toil",
+    "meaning": {
+      "en": "labor, toil",
+      "vi": "lao dong, lao luc"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "労力（ろうりょく）",
         "meaning": {
-          "english": "labor, effort, toil, trouble"
+          "english": "labor, effort, toil, trouble",
+          "en": "labor, effort, toil, trouble",
+          "vi": "labor, effort, toil, trouble"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "労働（ろうどう）",
         "meaning": {
-          "english": "manual labor, toil, work"
+          "english": "manual labor, toil, work",
+          "en": "manual labor, toil, work",
+          "vi": "manual labor, toil, work"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "労働時間（ろうどうじかん）",
         "meaning": {
-          "english": "working hours, man-hours"
+          "english": "working hours, man-hours",
+          "en": "working hours, man-hours",
+          "vi": "working hours, man-hours"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "労働条件（ろうどうじょうけん）",
         "meaning": {
-          "english": "working conditions"
+          "english": "working conditions",
+          "en": "working conditions",
+          "vi": "working conditions"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "労働組合（ろうどうくみあい）",
         "meaning": {
-          "english": "labor union"
+          "english": "labor union",
+          "en": "labor union",
+          "vi": "labor union"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "心労（しんろう）",
         "meaning": {
-          "english": "anxiety, worry, fear"
+          "english": "anxiety, worry, fear",
+          "en": "anxiety, worry, fear",
+          "vi": "anxiety, worry, fear"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "勤労（きんろう）",
         "meaning": {
-          "english": "labor, exertion, diligent service"
+          "english": "labor, exertion, diligent service",
+          "en": "labor, exertion, diligent service",
+          "vi": "labor, exertion, diligent service"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "苦労する（くろうする）",
         "meaning": {
-          "english": "undergo hardship, suffer"
+          "english": "undergo hardship, suffer",
+          "en": "undergo hardship, suffer",
+          "vi": "undergo hardship, suffer"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "疲労する（ひろうする）",
         "meaning": {
-          "english": "be tired"
+          "english": "be tired",
+          "en": "be tired",
+          "vi": "be tired"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/rou(dou)_06_i.opus",
@@ -212,7 +233,9 @@
     "kanji": {
       "character": "労",
       "meaning": {
-        "english": "labor, toil"
+        "english": "labor, toil",
+        "en": "labor, toil",
+        "vi": "lao dong, lao luc"
       },
       "strokes": {
         "count": 7,
@@ -264,7 +287,9 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power",
+        "en": "power",
+        "vi": "power"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -285,7 +310,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "398",
     "strokeCount": 7,
-    "meaning": "labor, thank for, reward for, toil, trouble",
+    "meaning": {
+      "en": "labor, thank for, reward for, toil, trouble",
+      "vi": "lao dong, cam on, den dap, lao luc, phien toai"
+    },
     "kunyomi": [
       "ろう.する",
       "いたわ.る",
@@ -302,7 +330,8 @@
         "example": "労",
         "reading": "ロウ",
         "meaning": {
-          "vi": "labor, labour, toil, trouble, pains, work, effort, striving"
+          "vi": "labor, labour, toil, trouble, pains, work, effort, striving",
+          "en": "labor, labour, toil, trouble, pains, work, effort, striving"
         },
         "romaji": "rou"
       },
@@ -310,7 +339,8 @@
         "example": "労組",
         "reading": "ロウソ",
         "meaning": {
-          "en": "labor union, labour union, trade union"
+          "en": "labor union, labour union, trade union",
+          "vi": "labor union, labour union, trade union"
         },
         "romaji": "rouso"
       },
@@ -318,7 +348,8 @@
         "example": "国労",
         "reading": "コクロウ",
         "meaning": {
-          "en": "National Railway Workers Union"
+          "en": "National Railway Workers Union",
+          "vi": "National Railway Workers Union"
         },
         "romaji": "kokurou"
       },
@@ -326,7 +357,8 @@
         "example": "功労",
         "reading": "コウロウ",
         "meaning": {
-          "en": "meritorious deed, services"
+          "en": "meritorious deed, services",
+          "vi": "meritorious deed, services"
         },
         "romaji": "kourou"
       }
@@ -336,7 +368,8 @@
         "example": "労する",
         "reading": "ろうする",
         "meaning": {
-          "vi": "to work, to labor, to labour, to put to work, to make (someone) work"
+          "vi": "to work, to labor, to labour, to put to work, to make (someone) work",
+          "en": "to work, to labor, to labour, to put to work, to make (someone) work"
         },
         "romaji": "rousuru"
       },
@@ -344,7 +377,8 @@
         "example": "労る",
         "reading": "いたわる",
         "meaning": {
-          "vi": "to pity, to sympathize with, to sympathise with, to treat with sympathy, to console, to be kind to, to tend to (e.g. an injury), to care for, to nurse, to soothe, to appreciate, to recognize (someone's efforts), to reward for"
+          "vi": "to pity, to sympathize with, to sympathise with, to treat with sympathy, to console, to be kind to, to tend to (e.g. an injury), to care for, to nurse, to soothe, to appreciate, to recognize (someone's efforts), to reward for",
+          "en": "to pity, to sympathize with, to sympathise with, to treat with sympathy, to console, to be kind to, to tend to (e.g. an injury), to care for, to nurse, to soothe, to appreciate, to recognize (someone's efforts), to reward for"
         },
         "romaji": "itawaru"
       },
@@ -352,7 +386,8 @@
         "example": "労き",
         "reading": "いたずき",
         "meaning": {
-          "vi": "pain, trouble, illness"
+          "vi": "pain, trouble, illness",
+          "en": "pain, trouble, illness"
         },
         "romaji": "itazuki"
       },
@@ -360,7 +395,8 @@
         "example": "労い",
         "reading": "ねぎらい",
         "meaning": {
-          "vi": "expression of appreciation (for someone's efforts), thanks"
+          "vi": "expression of appreciation (for someone's efforts), thanks",
+          "en": "expression of appreciation (for someone's efforts), thanks"
         },
         "romaji": "negirai"
       },
@@ -368,7 +404,8 @@
         "example": "労う",
         "reading": "ねぎらう",
         "meaning": {
-          "vi": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for"
+          "vi": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for",
+          "en": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for"
         },
         "romaji": "negirau"
       },
@@ -376,14 +413,18 @@
         "example": "労う",
         "reading": "ねぎらう",
         "meaning": {
-          "vi": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for"
+          "vi": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for",
+          "en": "to show appreciation for (efforts, esp. by someone of equal or lower status), to thank for, to reward for"
         },
         "romaji": "negirau"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "suc manh, luc"
+      }
     },
     "parts": [
       "冖",
@@ -395,7 +436,9 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52b4.gif",
     "uri": "https://jisho.org/search/%E5%8A%B4%23kanji"
   },
+  "jlpt": "N3",
   "hanViet": [
     "lao"
-  ]
+  ],
+  "mnemonic_vi": "Goi y cach nho: Lam viec duoi mai che, ton suc 力 nen thanh lao nhoc 労."
 }

@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2255",
     "strokeCount": 5,
-    "meaning": "scold, reprove",
+    "meaning": {
+      "en": "scold, reprove",
+      "vi": "mắng, quở trách"
+    },
     "kunyomi": [
       "しか.る"
     ],
@@ -20,7 +23,8 @@
         "example": "叱罵",
         "reading": "シツバ",
         "meaning": {
-          "en": "angry scolding, abusive criticism"
+          "en": "angry scolding, abusive criticism",
+          "vi": "sự quát mắng giận dữ, lời chỉ trích cay nghiệt"
         },
         "romaji": "shitsuba"
       }
@@ -30,14 +34,18 @@
         "example": "叱る",
         "reading": "しかる",
         "meaning": {
-          "vi": "to scold, to chide, to rebuke, to reprimand"
+          "vi": "mắng, trách mắng, khiển trách, quở trách",
+          "en": "to scold, to chide, to rebuke, to reprimand"
         },
         "romaji": "shikaru"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "匕",
@@ -50,5 +58,7 @@
   },
   "hanViet": [
     "sất"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Miệng 口 bật ra lời mắng lớn nên 叱 là quát mắng, trách mắng."
 }

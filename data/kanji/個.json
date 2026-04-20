@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "individual, general counter",
+    "meaning": {
+      "en": "individual, general counter",
+      "vi": "cá thể, từ đếm chung"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "一個（いっこ）",
         "meaning": {
-          "english": "1 (piece)"
+          "english": "1 (piece)",
+          "en": "1 (piece)",
+          "vi": "1 cái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(sei)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "何個（なんこ）",
         "meaning": {
-          "english": "how many pieces"
+          "english": "how many pieces",
+          "en": "how many pieces",
+          "vi": "bao nhiêu cái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(sei)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "個室（こしつ）",
         "meaning": {
-          "english": "private room"
+          "english": "private room",
+          "en": "private room",
+          "vi": "phòng riêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(sei)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "個人（こじん）",
         "meaning": {
-          "english": "individual"
+          "english": "individual",
+          "en": "individual",
+          "vi": "cá nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(sei)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "個性（こせい）",
         "meaning": {
-          "english": "personality"
+          "english": "personality",
+          "en": "personality",
+          "vi": "cá tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(sei)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "二個所（にかしょ）",
         "meaning": {
-          "english": "2 places"
+          "english": "2 places",
+          "en": "2 places",
+          "vi": "2 chỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko(sei)_06_f.opus",
@@ -207,7 +222,9 @@
     "kanji": {
       "character": "個",
       "meaning": {
-        "english": "individual, general counter"
+        "english": "individual, general counter",
+        "en": "individual, general counter",
+        "vi": "cá thể, từ đếm chung"
       },
       "strokes": {
         "count": 10,
@@ -265,7 +282,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -286,7 +305,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "451",
     "strokeCount": 10,
-    "meaning": "individual, counter for articles",
+    "meaning": {
+      "en": "individual, counter for articles",
+      "vi": "cá thể, từ đếm cho vật phẩm"
+    },
     "kunyomi": [],
     "onyomi": [
       "コ",
@@ -297,7 +319,8 @@
         "example": "個",
         "reading": "コ",
         "meaning": {
-          "vi": "counter for (small) things or pieces, counter for military units, (an) individual, one person"
+          "vi": "từ đếm cho vật nhỏ hoặc từng món, từ đếm cho đơn vị quân đội, một cá nhân, một người",
+          "en": "counter for (small) things or pieces, counter for military units, (an) individual, one person"
         },
         "romaji": "ko"
       },
@@ -305,7 +328,8 @@
         "example": "個々",
         "reading": "ココ",
         "meaning": {
-          "vi": "individual, one by one, separate, each"
+          "vi": "cá nhân, từng người một, riêng rẽ, mỗi",
+          "en": "individual, one by one, separate, each"
         },
         "romaji": "koko"
       },
@@ -313,7 +337,8 @@
         "example": "好個",
         "reading": "コウコ",
         "meaning": {
-          "vi": "excellent, fine, pertinent"
+          "vi": "xuất sắc, tốt, thích đáng",
+          "en": "excellent, fine, pertinent"
         },
         "romaji": "kouko"
       },
@@ -321,7 +346,8 @@
         "example": "複数個",
         "reading": "フクスウコ",
         "meaning": {
-          "en": "multitude"
+          "en": "multitude",
+          "vi": "số đông"
         },
         "romaji": "fukusuuko"
       },
@@ -329,7 +355,8 @@
         "example": "箇",
         "reading": "カ",
         "meaning": {
-          "vi": "counter used with Sino-Japanese words"
+          "vi": "từ đếm dùng với từ Hán-Nhật",
+          "en": "counter used with Sino-Japanese words"
         },
         "romaji": "ka"
       },
@@ -337,7 +364,8 @@
         "example": "箇所",
         "reading": "カショ",
         "meaning": {
-          "vi": "place, point, part, spot, area, passage, portion, counter for places, parts, passages, etc."
+          "vi": "địa điểm, điểm, phần, chỗ, khu vực, đoạn, phần chia, từ đếm cho nơi chốn, bộ phận, đoạn đường, v.v.",
+          "en": "place, point, part, spot, area, passage, portion, counter for places, parts, passages, etc."
         },
         "romaji": "kasho"
       }
@@ -348,7 +376,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

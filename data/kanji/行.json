@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "i, iku, yu, yuku, okona, okonau",
-    "meaning": "go, act, line",
+    "meaning": {
+      "en": "go, act, line",
+      "vi": "di, hanh dong, dong"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "旅行する（りょこうする）",
         "meaning": {
-          "english": "travel"
+          "english": "travel",
+          "en": "travel",
+          "vi": "du lich, di lai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "歩行する（ほこうする）",
         "meaning": {
-          "english": "walk"
+          "english": "walk",
+          "en": "walk",
+          "vi": "đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "実行する（じっこうする）",
         "meaning": {
-          "english": "act, carry out, practice"
+          "english": "act, carry out, practice",
+          "en": "act, carry out, practice",
+          "vi": "thuc hien, tien hanh, thuc hanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "銀行（ぎんこう）",
         "meaning": {
-          "english": "bank"
+          "english": "bank",
+          "en": "bank",
+          "vi": "ngan hang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "行政（ぎょうせい）",
         "meaning": {
-          "english": "administration"
+          "english": "administration",
+          "en": "administration",
+          "vi": "administration"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "一行目（いちぎょうめ）",
         "meaning": {
-          "english": "first line"
+          "english": "first line",
+          "en": "first line",
+          "vi": "dong dau tien"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "行事（ぎょうじ）",
         "meaning": {
-          "english": "event"
+          "english": "event",
+          "en": "event",
+          "vi": "su kien"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "行脚する（あんぎゃする）",
         "meaning": {
-          "english": "go on pilgrimage"
+          "english": "go on pilgrimage",
+          "en": "go on pilgrimage",
+          "vi": "di hanh huong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "行く（いく/ゆく）",
         "meaning": {
-          "english": "go"
+          "english": "go",
+          "en": "go",
+          "vi": "di"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "行き先（いきさき/ゆきさき）",
         "meaning": {
-          "english": "destination"
+          "english": "destination",
+          "en": "destination",
+          "vi": "điểm đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "行う（おこなう）",
         "meaning": {
-          "english": "do"
+          "english": "do",
+          "en": "do",
+          "vi": "lam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ku)-gyou_06_k.opus",
@@ -310,7 +335,9 @@
     "kanji": {
       "character": "行",
       "meaning": {
-        "english": "go, act, line"
+        "english": "go, act, line",
+        "en": "go, act, line",
+        "vi": "di, hanh dong, dong"
       },
       "strokes": {
         "count": 6,
@@ -360,7 +387,9 @@
         "romaji": "gyougamae"
       },
       "meaning": {
-        "english": "to go"
+        "english": "to go",
+        "en": "to go",
+        "vi": "đi"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyougamae0.svg",
@@ -381,7 +410,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "20",
     "strokeCount": 6,
-    "meaning": "going, journey, carry out, conduct, act, line, row, bank",
+    "meaning": {
+      "en": "going, journey, carry out, conduct, act, line, row, bank",
+      "vi": "su di chuyen, hanh trinh, thi hanh, hanh dong, dong, hang, ngan hang"
+    },
     "kunyomi": [
       "い.く",
       "ゆ.く",
@@ -402,7 +434,8 @@
         "example": "行",
         "reading": "コウ",
         "meaning": {
-          "vi": "going, travelling, traveling, journey, trip, act, action, bank, counter for banks, counter for groups or parties of people, type of classical Chinese verse (usu. an epic from the Tang period onwards), shopping district (of similar merchants; in the Sui and Tang periods), merchants' guild (in the Tang period)"
+          "vi": "going, travelling, traveling, journey, trip, act, action, bank, counter for banks, counter for groups or parties of people, type of classical Chinese verse (usu. an epic from the Tang period onwards), shopping district (of similar merchants; in the Sui and Tang periods), merchants' guild (in the Tang period)",
+          "en": "going, travelling, traveling, journey, trip, act, action, bank, counter for banks, counter for groups or parties of people, type of classical Chinese verse (usu. an epic from the Tang period onwards), shopping district (of similar merchants; in the Sui and Tang periods), merchants' guild (in the Tang period)"
         },
         "romaji": "kou"
       },
@@ -410,7 +443,8 @@
         "example": "行為",
         "reading": "コウイ",
         "meaning": {
-          "en": "act, deed, conduct"
+          "en": "act, deed, conduct",
+          "vi": "hanh vi, viec lam, tu cach"
         },
         "romaji": "koui"
       },
@@ -418,7 +452,8 @@
         "example": "並行",
         "reading": "ヘイコウ",
         "meaning": {
-          "vi": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with"
+          "vi": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with",
+          "en": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with"
         },
         "romaji": "heikou"
       },
@@ -426,7 +461,8 @@
         "example": "性行",
         "reading": "セイコウ",
         "meaning": {
-          "en": "character and conduct"
+          "en": "character and conduct",
+          "vi": "nhan cach va hanh vi"
         },
         "romaji": "seikou"
       },
@@ -434,7 +470,8 @@
         "example": "行",
         "reading": "ギョウ",
         "meaning": {
-          "en": "line (of text), row, verse, carya (austerities), samskara (formations), semi-cursive style (of writing Chinese characters), running style"
+          "en": "line (of text), row, verse, carya (austerities), samskara (formations), semi-cursive style (of writing Chinese characters), running style",
+          "vi": "dong chu, hang, cau tho, hanh thu"
         },
         "romaji": "gyou"
       },
@@ -442,7 +479,8 @@
         "example": "行革",
         "reading": "ギョウカク",
         "meaning": {
-          "en": "administrative reform"
+          "en": "administrative reform",
+          "vi": "cai cach hanh chinh"
         },
         "romaji": "gyoukaku"
       },
@@ -450,7 +488,8 @@
         "example": "奉行",
         "reading": "ブギョウ",
         "meaning": {
-          "en": "magistrate, shogunate administrator"
+          "en": "magistrate, shogunate administrator",
+          "vi": "quan chuc, quan tri cua Mac phu"
         },
         "romaji": "bugyou"
       },
@@ -458,7 +497,8 @@
         "example": "施行",
         "reading": "シコウ",
         "meaning": {
-          "vi": "putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution"
+          "vi": "putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution",
+          "en": "putting in force (a law), putting into operation, putting into effect, enforcement, carrying out (a plan, policy, etc.), execution"
         },
         "romaji": "shikou"
       },
@@ -466,7 +506,8 @@
         "example": "行脚",
         "reading": "アンギャ",
         "meaning": {
-          "vi": "pilgrimage, walking tour, travelling (on foot)"
+          "vi": "pilgrimage, walking tour, travelling (on foot)",
+          "en": "pilgrimage, walking tour, travelling (on foot)"
         },
         "romaji": "angya"
       },
@@ -474,7 +515,8 @@
         "example": "行火",
         "reading": "アンカ",
         "meaning": {
-          "en": "bed warmer, foot warmer"
+          "en": "bed warmer, foot warmer",
+          "vi": "do suoi chan trong chan dem"
         },
         "romaji": "anka"
       }
@@ -484,7 +526,8 @@
         "example": "行く",
         "reading": "いく",
         "meaning": {
-          "vi": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
+          "vi": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination",
+          "en": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
         },
         "romaji": "iku"
       },
@@ -492,7 +535,8 @@
         "example": "行く先",
         "reading": "ゆくさき",
         "meaning": {
-          "vi": "destination, whereabouts, future, prospects"
+          "vi": "destination, whereabouts, future, prospects",
+          "en": "destination, whereabouts, future, prospects"
         },
         "romaji": "yukusaki"
       },
@@ -500,7 +544,8 @@
         "example": "行く",
         "reading": "いく",
         "meaning": {
-          "vi": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
+          "vi": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination",
+          "en": "to go, to move (towards), to head (towards), to leave (for), to move through, to travel across, to walk along (e.g. a road), to go (well, badly, etc.), to proceed, to turn out, to get along, to do (in a particular way), to go (with; a choice), to try, to pass (of time, seasons, etc.), to go by, to stream, to flow, to die, to pass away, to reach (a stage, extent, age, etc.), to get to, to go (so far as ...), to reach (of information, instructions, wind, etc.), to arrive, to continue ..., to go on ..., to (progress) steadily, to gradually ..., to progressively ..., to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination"
         },
         "romaji": "iku"
       },
@@ -508,7 +553,8 @@
         "example": "行方",
         "reading": "ゆくえ",
         "meaning": {
-          "vi": "(one's) whereabouts, destination, where one is headed, outcome, course (of events), development, direction, tide, future, journey ahead"
+          "vi": "(one's) whereabouts, destination, where one is headed, outcome, course (of events), development, direction, tide, future, journey ahead",
+          "en": "(one's) whereabouts, destination, where one is headed, outcome, course (of events), development, direction, tide, future, journey ahead"
         },
         "romaji": "yukue"
       },
@@ -516,7 +562,8 @@
         "example": "行う",
         "reading": "おこなう",
         "meaning": {
-          "vi": "to perform, to do, to conduct oneself, to carry out"
+          "vi": "to perform, to do, to conduct oneself, to carry out",
+          "en": "to perform, to do, to conduct oneself, to carry out"
         },
         "romaji": "okonau"
       },
@@ -524,14 +571,18 @@
         "example": "行う",
         "reading": "おこなう",
         "meaning": {
-          "vi": "to perform, to do, to conduct oneself, to carry out"
+          "vi": "to perform, to do, to conduct oneself, to carry out",
+          "en": "to perform, to do, to conduct oneself, to carry out"
         },
         "romaji": "okonau"
       }
     ],
     "radical": {
       "symbol": "行",
-      "meaning": "go, do"
+      "meaning": {
+        "en": "go, do",
+        "vi": "di, lam"
+      }
     },
     "parts": [
       "彳",
@@ -548,5 +599,7 @@
     "hãng",
     "hạng",
     "hạnh"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Hai net nhu nga duong song song, giong con duong de buoc di. Vi vay 行 la di, tien hanh."
 }

@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2475",
     "strokeCount": 6,
-    "meaning": "suspend, hang, wear (sword)",
+    "meaning": {
+      "en": "suspend, hang, wear (sword)",
+      "vi": "treo lên, treo lủng lẳng, đeo kiếm"
+    },
     "kunyomi": [
       "つ.る",
       "つる.す"
@@ -19,7 +22,8 @@
         "example": "懸吊",
         "reading": "ケンチョウ",
         "meaning": {
-          "vi": "suspension, hanging"
+          "vi": "sự treo, trạng thái treo",
+          "en": "suspension, hanging"
         },
         "romaji": "kenchou"
       }
@@ -29,7 +33,8 @@
         "example": "吊る",
         "reading": "つる",
         "meaning": {
-          "vi": "to hang, to suspend, to sling, to wear (e.g. a sword), to put up (e.g. a shelf), to hang oneself, to hoist an opponent off of his feet by his loincloth, to turn upwards (as if being pulled), to be slanted (of eyes), to pucker (e.g. of a seam), to be pulled tight"
+          "vi": "treo, mắc lên, đeo, dựng lên như cái kệ, treo cổ, nhấc đối thủ khỏi mặt đất, xếch lên, xếch mắt, nhăn lại, căng ra",
+          "en": "to hang, to suspend, to sling, to wear (e.g. a sword), to put up (e.g. a shelf), to hang oneself, to hoist an opponent off of his feet by his loincloth, to turn upwards (as if being pulled), to be slanted (of eyes), to pucker (e.g. of a seam), to be pulled tight"
         },
         "romaji": "tsuru"
       },
@@ -37,7 +42,8 @@
         "example": "吊るす",
         "reading": "つるす",
         "meaning": {
-          "vi": "to hang, to hang up"
+          "vi": "treo lên, mắc lên",
+          "en": "to hang, to hang up"
         },
         "romaji": "tsurusu"
       },
@@ -45,14 +51,18 @@
         "example": "吊るす",
         "reading": "つるす",
         "meaning": {
-          "vi": "to hang, to hang up"
+          "vi": "treo lên, mắc lên",
+          "en": "to hang, to hang up"
         },
         "romaji": "tsurusu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -65,5 +75,7 @@
   },
   "hanViet": [
     "điếu"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Vật được treo lủng lẳng bên dưới nên 吊 gợi ý treo lên, treo xuống."
 }

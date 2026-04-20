@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "rule, law",
+    "meaning": {
+      "en": "rule, law",
+      "vi": "quy tắc, luật lệ"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "規則（きそく）",
         "meaning": {
-          "english": "regulation"
+          "english": "regulation",
+          "en": "regulation",
+          "vi": "quy định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "法則（ほうそく）",
         "meaning": {
-          "english": "law, principle (e.g. in physics)"
+          "english": "law, principle (e.g. in physics)",
+          "en": "law, principle (e.g. in physics)",
+          "vi": "định luật, nguyên lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "原則（げんそく）",
         "meaning": {
-          "english": "principle"
+          "english": "principle",
+          "en": "principle",
+          "vi": "nguyên tắc, nguyên lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "罰則（ばっそく）",
         "meaning": {
-          "english": "penal regulations"
+          "english": "penal regulations",
+          "en": "penal regulations",
+          "vi": "quy định hình sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "会則（かいそく）",
         "meaning": {
-          "english": "society or club regulations"
+          "english": "society or club regulations",
+          "en": "society or club regulations",
+          "vi": "nội quy hội hoặc câu lạc bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "不規則な（ふきそくな）",
         "meaning": {
-          "english": "irregular"
+          "english": "irregular",
+          "en": "irregular",
+          "vi": "không đều, bất quy tắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "反則する（はんそくする）",
         "meaning": {
-          "english": "violate"
+          "english": "violate",
+          "en": "violate",
+          "vi": "vi phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)soku_06_g.opus",
@@ -193,7 +210,9 @@
     "kanji": {
       "character": "則",
       "meaning": {
-        "english": "rule, law"
+        "english": "rule, law",
+        "en": "rule, law",
+        "vi": "quy tắc, luật lệ"
       },
       "strokes": {
         "count": 9,
@@ -249,7 +268,9 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -270,7 +291,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "753",
     "strokeCount": 9,
-    "meaning": "rule, law, follow, based on, model after",
+    "meaning": {
+      "en": "rule, law, follow, based on, model after",
+      "vi": "quy tắc, luật lệ, noi theo, dựa theo, lấy làm mẫu"
+    },
     "kunyomi": [
       "のっと.る",
       "のり",
@@ -284,7 +308,8 @@
         "example": "則",
         "reading": "ソク",
         "meaning": {
-          "en": "counter for rules, rule, regulation"
+          "en": "counter for rules, rule, regulation",
+          "vi": "mục quy định, quy tắc, điều lệ"
         },
         "romaji": "soku"
       },
@@ -292,7 +317,8 @@
         "example": "即する",
         "reading": "ソクスル",
         "meaning": {
-          "vi": "to conform to, to agree with, to be adapted to, to be based on"
+          "vi": "to conform to, to agree with, to be adapted to, to be based on",
+          "en": "to conform to, to agree with, to be adapted to, to be based on"
         },
         "romaji": "sokusuru"
       },
@@ -300,7 +326,8 @@
         "example": "反則",
         "reading": "ハンソク",
         "meaning": {
-          "en": "foul, breaking the rules, violation (of the law, regulations, etc.), infringement, breach, infraction"
+          "en": "foul, breaking the rules, violation (of the law, regulations, etc.), infringement, breach, infraction",
+          "vi": "phạm quy, vi phạm luật lệ, xâm phạm, sai phạm"
         },
         "romaji": "hansoku"
       },
@@ -308,7 +335,8 @@
         "example": "正則",
         "reading": "セイソク",
         "meaning": {
-          "vi": "correct, proper, formal, regular, systematic, normal, invertible (matrix), holomorphic"
+          "vi": "correct, proper, formal, regular, systematic, normal, invertible (matrix), holomorphic",
+          "en": "correct, proper, formal, regular, systematic, normal, invertible (matrix), holomorphic"
         },
         "romaji": "seisoku"
       }
@@ -318,7 +346,8 @@
         "example": "則る",
         "reading": "のっとる",
         "meaning": {
-          "vi": "to follow (a rule, precedent, style, etc.), to conform to, to be in accordance with"
+          "vi": "to follow (a rule, precedent, style, etc.), to conform to, to be in accordance with",
+          "en": "to follow (a rule, precedent, style, etc.), to conform to, to be in accordance with"
         },
         "romaji": "nottoru"
       },
@@ -326,7 +355,8 @@
         "example": "法",
         "reading": "のり",
         "meaning": {
-          "vi": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+          "vi": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope",
+          "en": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
         },
         "romaji": "nori"
       },
@@ -334,7 +364,8 @@
         "example": "即ち",
         "reading": "すなわち",
         "meaning": {
-          "vi": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
+          "vi": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then",
+          "en": "that is (to say), namely, i.e., precisely, exactly, just, nothing but, neither more nor less, (and) then"
         },
         "romaji": "sunawachi"
       }
@@ -344,7 +375,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "ハ",
@@ -359,5 +393,6 @@
   },
   "hanViet": [
     "tắc"
-  ]
+  ],
+  "mnemonic_vi": "Có quy tắc ở bên dao, cứ theo mẫu đó mà làm."
 }

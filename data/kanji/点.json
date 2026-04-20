@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "point",
+    "meaning": {
+      "en": "point",
+      "vi": "điểm, chấm"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "点（てん）",
         "meaning": {
-          "english": "point, dot"
+          "english": "point, dot",
+          "en": "point, dot",
+          "vi": "điểm, chấm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "点線（てんせん）",
         "meaning": {
-          "english": "dotted line"
+          "english": "dotted line",
+          "en": "dotted line",
+          "vi": "đường nét đứt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "点字（てんじ）",
         "meaning": {
-          "english": "Braille"
+          "english": "Braille",
+          "en": "Braille",
+          "vi": "chữ nổi Braille"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "点数（てんすう）",
         "meaning": {
-          "english": "points, grade, score"
+          "english": "points, grade, score",
+          "en": "points, grade, score",
+          "vi": "điểm số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "得点（とくてん）",
         "meaning": {
-          "english": "points, score"
+          "english": "points, score",
+          "en": "points, score",
+          "vi": "điểm ghi được"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "同点（どうてん）",
         "meaning": {
-          "english": "tie, draw (sports)"
+          "english": "tie, draw (sports)",
+          "en": "tie, draw (sports)",
+          "vi": "hòa điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "欠点（けってん）",
         "meaning": {
-          "english": "defect [n.]"
+          "english": "defect [n.]",
+          "en": "defect [n.]",
+          "vi": "khuyết điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "焦点（しょうてん）",
         "meaning": {
-          "english": "focus [n.]"
+          "english": "focus [n.]",
+          "en": "focus [n.]",
+          "vi": "tiêu điểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "終点（しゅうてん）",
         "meaning": {
-          "english": "last stop (e.g train)"
+          "english": "last stop (e.g train)",
+          "en": "last stop (e.g train)",
+          "vi": "điểm cuối, bến cuối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "交差点（こうさてん）",
         "meaning": {
-          "english": "intersection"
+          "english": "intersection",
+          "en": "intersection",
+          "vi": "ngã tư, giao lộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "点在する（てんざいする）",
         "meaning": {
-          "english": "be dotted with"
+          "english": "be dotted with",
+          "en": "be dotted with",
+          "vi": "rải rác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "点滅する（てんめつする）",
         "meaning": {
-          "english": "blink, turn on and off"
+          "english": "blink, turn on and off",
+          "en": "blink, turn on and off",
+          "vi": "nhấp nháy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten(suu)_06_l.opus",
@@ -477,5 +504,7 @@
   },
   "hanViet": [
     "điểm"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: ngọn lửa nhỏ tạo thành một chấm sáng, nên 点 là điểm, chấm."
 }

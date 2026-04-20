@@ -4,8 +4,12 @@
   "jishoData": {
     "query": "凅",
     "found": true,
+    "jlptLevel": null,
     "strokeCount": 10,
-    "meaning": "wither, droop, lame",
+    "meaning": {
+      "en": "wither, droop, lame",
+      "vi": "héo úa, rũ xuống, khập khiễng"
+    },
     "kunyomi": [
       "か.れる",
       "か.らす",
@@ -19,7 +23,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "冫",
@@ -34,5 +41,6 @@
   },
   "hanViet": [
     "hạc"
-  ]
+  ],
+  "mnemonic_vi": "Băng 冫 bao quanh như bị khô cạn trong khung, gợi sự héo úa và khô kiệt."
 }

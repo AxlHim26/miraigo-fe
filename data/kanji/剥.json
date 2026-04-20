@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2383",
     "strokeCount": 10,
-    "meaning": "come off, peel, fade, discolor",
+    "meaning": {
+      "en": "come off, peel, fade, discolor",
+      "vi": "bong ra, lột ra, phai màu, biến màu"
+    },
     "kunyomi": [
       "へ.ぐ",
       "へず.る",
@@ -26,7 +29,8 @@
         "example": "剥製",
         "reading": "ハクセイ",
         "meaning": {
-          "vi": "stuffed specimen, taxidermy mount, stuffing, mounting"
+          "vi": "mẫu thú nhồi, tiêu bản nhồi, việc nhồi và gắn tiêu bản",
+          "en": "stuffed specimen, taxidermy mount, stuffing, mounting"
         },
         "romaji": "hakusei"
       },
@@ -34,7 +38,8 @@
         "example": "剥製術",
         "reading": "ハクセイジュツ",
         "meaning": {
-          "en": "taxidermy"
+          "en": "taxidermy",
+          "vi": "nghệ thuật nhồi tiêu bản"
         },
         "romaji": "hakuseijutsu"
       },
@@ -42,7 +47,8 @@
         "example": "落剥",
         "reading": "ラクハク",
         "meaning": {
-          "vi": "peeling off, coming off"
+          "vi": "bóc ra, bong ra",
+          "en": "peeling off, coming off"
         },
         "romaji": "rakuhaku"
       }
@@ -52,7 +58,8 @@
         "example": "剥ぐ",
         "reading": "はぐ",
         "meaning": {
-          "vi": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to bark, to strip of (clothes, rank, etc.), to deprive of, to divest of"
+          "vi": "lột ra, bóc ra, giật phăng, tước bỏ, lột da, róc vỏ, tước bỏ quần áo hay địa vị, tước đoạt",
+          "en": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to bark, to strip of (clothes, rank, etc.), to deprive of, to divest of"
         },
         "romaji": "hagu"
       },
@@ -60,7 +67,8 @@
         "example": "剥る",
         "reading": "へずる",
         "meaning": {
-          "vi": "to pilfer, to steal a portion"
+          "vi": "ăn bớt, lấy trộm một phần",
+          "en": "to pilfer, to steal a portion"
         },
         "romaji": "hezuru"
       },
@@ -68,7 +76,8 @@
         "example": "剥く",
         "reading": "むく",
         "meaning": {
-          "vi": "to peel, to skin, to pare, to hull, to strip, to bare (teeth, fangs), to open wide (eyes)"
+          "vi": "gọt vỏ, lột da, tước vỏ, bóc lớp ngoài, để lộ răng nanh, mở to mắt",
+          "en": "to peel, to skin, to pare, to hull, to strip, to bare (teeth, fangs), to open wide (eyes)"
         },
         "romaji": "muku"
       },
@@ -76,7 +85,8 @@
         "example": "剥れる",
         "reading": "むくれる",
         "meaning": {
-          "vi": "to become sullen, to sulk, to get angry, to take offense, to be miffed, to be upset, to peel (off), to come off"
+          "vi": "trở nên giận dỗi, hờn dỗi, nổi giận, phật ý, bực mình, khó chịu, bong ra",
+          "en": "to become sullen, to sulk, to get angry, to take offense, to be miffed, to be upset, to peel (off), to come off"
         },
         "romaji": "mukureru"
       },
@@ -84,7 +94,8 @@
         "example": "剥ける",
         "reading": "むける",
         "meaning": {
-          "vi": "to peel off, to come off, to be taken off"
+          "vi": "bị bóc ra, bong ra, bị tháo ra",
+          "en": "to peel off, to come off, to be taken off"
         },
         "romaji": "mukeru"
       },
@@ -92,7 +103,8 @@
         "example": "剥がれる",
         "reading": "はがれる",
         "meaning": {
-          "vi": "to come unstuck from, to peel off, to come off"
+          "vi": "bị tróc ra, bong khỏi, rơi lớp ngoài",
+          "en": "to come unstuck from, to peel off, to come off"
         },
         "romaji": "hagareru"
       },
@@ -100,7 +112,8 @@
         "example": "剥ぐ",
         "reading": "はぐ",
         "meaning": {
-          "vi": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to bark, to strip of (clothes, rank, etc.), to deprive of, to divest of"
+          "vi": "lột ra, bóc ra, giật phăng, tước bỏ, lột da, róc vỏ, tước bỏ quần áo hay địa vị, tước đoạt",
+          "en": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to bark, to strip of (clothes, rank, etc.), to deprive of, to divest of"
         },
         "romaji": "hagu"
       },
@@ -108,7 +121,8 @@
         "example": "剥げる",
         "reading": "はげる",
         "meaning": {
-          "vi": "to peel off, to come off, to flake off, to be worn off, to fade, to discolor, to discolour"
+          "vi": "bóc ra, bong ra, tróc từng mảng, bị mòn mất, phai màu, đổi màu",
+          "en": "to peel off, to come off, to flake off, to be worn off, to fade, to discolor, to discolour"
         },
         "romaji": "hageru"
       },
@@ -116,7 +130,8 @@
         "example": "剥がす",
         "reading": "はがす",
         "meaning": {
-          "vi": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect"
+          "vi": "lột ra, bóc ra, giật phăng, tước bỏ, lột da, cởi bỏ quần áo, tước đoạt, tách ra, ngắt kết nối",
+          "en": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect"
         },
         "romaji": "hagasu"
       }
@@ -126,7 +141,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "ヨ",
@@ -140,5 +158,7 @@
   },
   "hanViet": [
     "bác"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Dùng dao 刂 lột vỏ ra từng lớp nên nhớ 剥 là bóc, lột."
 }

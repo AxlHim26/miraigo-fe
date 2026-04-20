@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 18,
-    "meaning": "shine",
+    "meaning": {
+      "en": "shine",
+      "vi": "tỏa sáng"
+    },
     "kunyomi": [
       "かがや.く",
       "ひかり"
@@ -21,7 +24,10 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": {
+        "en": "fire",
+        "vi": "lửa"
+      }
     },
     "parts": [
       "ヨ",
@@ -36,5 +42,7 @@
   "hanViet": [
     "diệu",
     "sảo"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Lửa phát ra ánh chói nên nhớ nghĩa chiếu sáng, rực sáng."
 }

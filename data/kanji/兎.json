@@ -5,7 +5,10 @@
     "query": "兎",
     "found": true,
     "strokeCount": 8,
-    "meaning": "rabbit, hare",
+    "meaning": {
+      "en": "rabbit, hare",
+      "vi": "thỏ, thỏ rừng"
+    },
     "kunyomi": [
       "うさぎ"
     ],
@@ -18,7 +21,8 @@
         "example": "兎に角",
         "reading": "トニカク",
         "meaning": {
-          "en": "anyway, anyhow, at any rate, in any case, at least, just, setting aside ..., regardless of ..., really, truly, certainly, definitely, undeniably"
+          "en": "anyway, anyhow, at any rate, in any case, at least, just, setting aside ..., regardless of ..., really, truly, certainly, definitely, undeniably",
+          "vi": "dù sao đi nữa, bằng mọi cách, trong mọi trường hợp, ít nhất, chỉ là, gác ... sang một bên, bất kể ..., thực sự, chắc chắn, không thể phủ nhận"
         },
         "romaji": "tonikaku"
       },
@@ -26,7 +30,8 @@
         "example": "兎角",
         "reading": "トカク",
         "meaning": {
-          "vi": "(doing) various things, (doing) this and that, being apt to, being prone to, tending to, at any rate, anyhow, anyway, all sorts of (negative things), various, things that do not exist, rabbit horns"
+          "vi": "(doing) various things, (doing) this and that, being apt to, being prone to, tending to, at any rate, anyhow, anyway, all sorts of (negative things), various, things that do not exist, rabbit horns",
+          "en": ""
         },
         "romaji": "tokaku"
       },
@@ -34,7 +39,8 @@
         "example": "烏兎",
         "reading": "ウト",
         "meaning": {
-          "en": "sun and moon, time, the years, the months"
+          "en": "sun and moon, time, the years, the months",
+          "vi": "mặt trời và mặt trăng, thời gian, năm tháng"
         },
         "romaji": "uto"
       },
@@ -42,7 +48,8 @@
         "example": "狡兎",
         "reading": "コウト",
         "meaning": {
-          "en": "smart rabbit, cunning rabbit, nimble rabbit"
+          "en": "smart rabbit, cunning rabbit, nimble rabbit",
+          "vi": "con thỏ thông minh, xảo quyệt, nhanh nhẹn"
         },
         "romaji": "kouto"
       }
@@ -52,7 +59,8 @@
         "example": "兎",
         "reading": "うさぎ",
         "meaning": {
-          "vi": "rabbit, hare, coney, cony, lagomorph (esp. leporids)"
+          "vi": "rabbit, hare, coney, cony, lagomorph (esp. leporids)",
+          "en": ""
         },
         "romaji": "usagi"
       },
@@ -60,7 +68,8 @@
         "example": "兎網",
         "reading": "うさぎあみ",
         "meaning": {
-          "en": "rabbit-catching net"
+          "en": "rabbit-catching net",
+          "vi": "lưới bắt thỏ"
         },
         "romaji": "usagiami"
       },
@@ -68,7 +77,8 @@
         "example": "月の兎",
         "reading": "つきのうさぎ",
         "meaning": {
-          "en": "moon rabbit, moon hare, mythical figure who lives on the moon"
+          "en": "moon rabbit, moon hare, mythical figure who lives on the moon",
+          "vi": "thỏ ngọc, thỏ trên cung trăng, nhân vật thần thoại sống trên mặt trăng"
         },
         "romaji": "tsukinousagi"
       },
@@ -76,14 +86,18 @@
         "example": "飼兎",
         "reading": "かいうさぎ",
         "meaning": {
-          "vi": "domestic rabbit (variety of European rabbit, Oryctolagus cuniculus)"
+          "vi": "domestic rabbit (variety of European rabbit, Oryctolagus cuniculus)",
+          "en": ""
         },
         "romaji": "kaiusagi"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "ノ",

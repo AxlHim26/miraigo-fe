@@ -6,7 +6,10 @@
     "found": true,
     "taughtIn": "junior high",
     "strokeCount": 9,
-    "meaning": "companion, follower",
+    "meaning": {
+      "en": "companion, follower",
+      "vi": "bạn đồng hành, người theo"
+    },
     "kunyomi": [
       "とも"
     ],
@@ -19,7 +22,8 @@
         "example": "侶伴",
         "reading": "リョハン",
         "meaning": {
-          "vi": "companion"
+          "vi": "bạn đồng hành",
+          "en": "companion"
         },
         "romaji": "ryohan"
       },
@@ -27,7 +31,8 @@
         "example": "同侶",
         "reading": "ドウリョ",
         "meaning": {
-          "vi": "companion, friend"
+          "vi": "bạn đồng hành, bạn bè",
+          "en": "companion, friend"
         },
         "romaji": "douryo"
       }
@@ -37,7 +42,8 @@
         "example": "供",
         "reading": "とも",
         "meaning": {
-          "vi": "companion, follower, attendant, retinue"
+          "vi": "bạn đồng hành, người theo, người hầu cận, đoàn tùy tùng",
+          "en": "companion, follower, attendant, retinue"
         },
         "romaji": "tomo"
       }
@@ -47,7 +53,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

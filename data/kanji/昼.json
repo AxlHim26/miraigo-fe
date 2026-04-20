@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "hiru",
-    "meaning": "daytime",
+    "meaning": {
+      "en": "daytime",
+      "vi": "ban ngày, buổi trưa"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "昼食（ちゅうしょく）",
         "meaning": {
-          "english": "lunch"
+          "english": "lunch",
+          "en": "lunch",
+          "vi": "bữa trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "昼（ひる）",
         "meaning": {
-          "english": "noon"
+          "english": "noon",
+          "en": "noon",
+          "vi": "buổi trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "真昼（まひる）",
         "meaning": {
-          "english": "midday"
+          "english": "midday",
+          "en": "midday",
+          "vi": "giữa trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "昼間（ひるま）",
         "meaning": {
-          "english": "daytime"
+          "english": "daytime",
+          "en": "daytime",
+          "vi": "ban ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "昼過ぎ（ひるすぎ）",
         "meaning": {
-          "english": "afternoon"
+          "english": "afternoon",
+          "en": "afternoon",
+          "vi": "đầu giờ chiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "昼休み（ひるやすみ）",
         "meaning": {
-          "english": "lunch break"
+          "english": "lunch break",
+          "en": "lunch break",
+          "vi": "giờ nghỉ trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "昼寝（ひるね）",
         "meaning": {
-          "english": "nap"
+          "english": "nap",
+          "en": "nap",
+          "vi": "giấc ngủ trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiru_06_g.opus",
@@ -404,5 +421,7 @@
   },
   "hanViet": [
     "trú"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: mặt trời đứng giữa khung trời như đang ở chính giữa ngày, nên 昼 là ban ngày, buổi trưa."
 }

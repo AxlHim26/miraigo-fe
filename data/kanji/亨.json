@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1952",
     "strokeCount": 7,
-    "meaning": "pass through, go smoothly",
+    "meaning": {
+      "en": "pass through, go smoothly",
+      "vi": "đi qua, tiến triển suôn sẻ"
+    },
     "kunyomi": [
       "とお.る"
     ],
@@ -21,7 +24,8 @@
         "example": "亨運",
         "reading": "コウウン",
         "meaning": {
-          "en": "good fortune"
+          "en": "good fortune",
+          "vi": "vận may"
         },
         "romaji": "kouun"
       },
@@ -29,7 +33,8 @@
         "example": "亨通",
         "reading": "コウツウ",
         "meaning": {
-          "vi": "doing well, prosperous"
+          "vi": "thuận lợi, thịnh vượng",
+          "en": "doing well, prosperous"
         },
         "romaji": "koutsuu"
       },
@@ -37,7 +42,8 @@
         "example": "元亨",
         "reading": "ゲンコウ",
         "meaning": {
-          "en": "Genkō era (1321.2.23-1324.12.9)"
+          "en": "Genkō era (1321.2.23-1324.12.9)",
+          "vi": "niên hiệu Genkō (23/2/1321-9/12/1324)"
         },
         "romaji": "genkou"
       }
@@ -45,7 +51,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "一",

@@ -5,7 +5,10 @@
     "query": "什",
     "found": true,
     "strokeCount": 4,
-    "meaning": "utensil, thing, ten",
+    "meaning": {
+      "en": "utensil, thing, ten",
+      "vi": "đồ dùng, vật, mười"
+    },
     "kunyomi": [],
     "onyomi": [
       "ジュウ",
@@ -16,7 +19,8 @@
         "example": "十",
         "reading": "ジュウ",
         "meaning": {
-          "vi": "ten, 10, ten years of age, book containing a collection of poems"
+          "vi": "mười, số 10, mười tuổi, sách tuyển tập thơ",
+          "en": "ten, 10, ten years of age, book containing a collection of poems"
         },
         "romaji": "juu"
       },
@@ -24,7 +28,8 @@
         "example": "什一",
         "reading": "ジュウイチ",
         "meaning": {
-          "en": "tithe"
+          "en": "tithe",
+          "vi": "một phần mười"
         },
         "romaji": "juuichi"
       },
@@ -32,7 +37,8 @@
         "example": "佳什",
         "reading": "カジュウ",
         "meaning": {
-          "vi": "excellent poem"
+          "vi": "bài thơ xuất sắc",
+          "en": "excellent poem"
         },
         "romaji": "kajuu"
       },
@@ -40,7 +46,8 @@
         "example": "家什",
         "reading": "カジュウ",
         "meaning": {
-          "en": "furniture, fixtures"
+          "en": "furniture, fixtures",
+          "vi": "đồ đạc, vật dụng cố định"
         },
         "romaji": "kajuu"
       }
@@ -51,7 +58,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

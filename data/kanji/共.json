@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 3,
     "kunyomi": "tomo",
-    "meaning": "joint, together, both",
+    "meaning": {
+      "en": "joint, together, both",
+      "vi": "chung, cùng nhau, cả hai"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "共通（きょうつう）",
         "meaning": {
-          "english": "common, shared"
+          "english": "common, shared",
+          "en": "common, shared",
+          "vi": "chung, được chia sẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "共通語（きょうつうご）",
         "meaning": {
-          "english": "common language"
+          "english": "common language",
+          "en": "common language",
+          "vi": "ngôn ngữ chung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "共同（きょうどう）",
         "meaning": {
-          "english": "collaboration, partnership"
+          "english": "collaboration, partnership",
+          "en": "collaboration, partnership",
+          "vi": "hợp tác, cộng tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "共産党（きょうさんとう）",
         "meaning": {
-          "english": "Communist Party"
+          "english": "Communist Party",
+          "en": "Communist Party",
+          "vi": "Đảng Cộng sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "公共（こうきょう）",
         "meaning": {
-          "english": "public"
+          "english": "public",
+          "en": "public",
+          "vi": "công cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "共感する（きょうかんする）",
         "meaning": {
-          "english": "resonate"
+          "english": "resonate",
+          "en": "resonate",
+          "vi": "cộng hưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "共有する（きょうゆうする）",
         "meaning": {
-          "english": "share [v.t.]"
+          "english": "share [v.t.]",
+          "en": "share [v.t.]",
+          "vi": "chia sẻ [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "共存する（きょうそんする）",
         "meaning": {
-          "english": "coexist"
+          "english": "coexist",
+          "en": "coexist",
+          "vi": "cùng tồn tại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "共に（ともに）",
         "meaning": {
-          "english": "together, both"
+          "english": "together, both",
+          "en": "together, both",
+          "vi": "cùng nhau, cả hai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "共稼ぎ（ともかせぎ）",
         "meaning": {
-          "english": "working couple"
+          "english": "working couple",
+          "en": "working couple",
+          "vi": "vợ chồng cùng đi làm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "両方共（りょうほうとも）",
         "meaning": {
-          "english": "both"
+          "english": "both",
+          "en": "both",
+          "vi": "cả hai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "私共（わたくしども）",
         "meaning": {
-          "english": "we [hum.]"
+          "english": "we [hum.]",
+          "en": "we [hum.]",
+          "vi": "chúng tôi [khiêm nhường]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tomo(domo)_06_l.opus",
@@ -267,7 +294,9 @@
     "kanji": {
       "character": "共",
       "meaning": {
-        "english": "joint, together, both"
+        "english": "joint, together, both",
+        "en": "joint, together, both",
+        "vi": "chung, cùng nhau, cả hai"
       },
       "strokes": {
         "count": 6,
@@ -317,7 +346,9 @@
         "romaji": "hachi"
       },
       "meaning": {
-        "english": "eight"
+        "english": "eight",
+        "en": "eight",
+        "vi": "tám"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hachi0.svg",
@@ -338,7 +369,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "174",
     "strokeCount": 6,
-    "meaning": "together, both, neither, all, and, alike, with",
+    "meaning": {
+      "en": "together, both, neither, all, and, alike, with",
+      "vi": "cùng nhau, cả hai, đều không, tất cả, và, giống nhau, với"
+    },
     "kunyomi": [
       "とも",
       "とも.に",
@@ -352,7 +386,8 @@
         "example": "共演",
         "reading": "キョウエン",
         "meaning": {
-          "vi": "appearing together (in a film, play, etc.), performing together (at a concert, etc.), acting together, co-starring, playing together (in a sports match)"
+          "vi": "appearing together (in a film, play, etc.), performing together (at a concert, etc.), acting together, co-starring, playing together (in a sports match)",
+          "en": "appearing together (in a film, play, etc.), performing together (at a concert, etc.), acting together, co-starring, playing together (in a sports match)"
         },
         "romaji": "kyouen"
       },
@@ -360,7 +395,8 @@
         "example": "共栄",
         "reading": "キョウエイ",
         "meaning": {
-          "vi": "mutual prosperity"
+          "vi": "mutual prosperity",
+          "en": "mutual prosperity"
         },
         "romaji": "kyouei"
       },
@@ -368,7 +404,8 @@
         "example": "反共",
         "reading": "ハンキョウ",
         "meaning": {
-          "en": "anticommunism"
+          "en": "anticommunism",
+          "vi": "chủ nghĩa chống cộng"
         },
         "romaji": "hankyou"
       },
@@ -376,7 +413,8 @@
         "example": "中共",
         "reading": "チュウキョウ",
         "meaning": {
-          "vi": "Chinese Communist Party, Chinese Communists, Communist China"
+          "vi": "Chinese Communist Party, Chinese Communists, Communist China",
+          "en": "Chinese Communist Party, Chinese Communists, Communist China"
         },
         "romaji": "chuukyou"
       }
@@ -386,7 +424,8 @@
         "example": "共",
         "reading": "とも",
         "meaning": {
-          "en": "together with, same, both, all, neither, none, including ..."
+          "en": "together with, same, both, all, neither, none, including ...",
+          "vi": "cùng với, giống nhau, cả hai, tất cả, không cái nào, bao gồm ..."
         },
         "romaji": "tomo"
       },
@@ -394,7 +433,8 @@
         "example": "共に",
         "reading": "ともに",
         "meaning": {
-          "en": "together, jointly, at the same time, with, as ..., including, along with, both"
+          "en": "together, jointly, at the same time, with, as ..., including, along with, both",
+          "vi": "cùng nhau, chung, đồng thời, với, như ..., bao gồm, cùng với, cả hai"
         },
         "romaji": "tomoni"
       },
@@ -402,7 +442,8 @@
         "example": "送料共",
         "reading": "そうりょうとも",
         "meaning": {
-          "vi": "including postage"
+          "vi": "including postage",
+          "en": "including postage"
         },
         "romaji": "souryoutomo"
       },
@@ -410,7 +451,8 @@
         "example": "母子とも",
         "reading": "ぼしとも",
         "meaning": {
-          "en": "both mother and child"
+          "en": "both mother and child",
+          "vi": "cả mẹ lẫn con"
         },
         "romaji": "boshitomo"
       },
@@ -418,7 +460,8 @@
         "example": "共に",
         "reading": "ともに",
         "meaning": {
-          "en": "together, jointly, at the same time, with, as ..., including, along with, both"
+          "en": "together, jointly, at the same time, with, as ..., including, along with, both",
+          "vi": "cùng nhau, chung, đồng thời, với, như ..., bao gồm, cùng với, cả hai"
         },
         "romaji": "tomoni"
       },
@@ -426,14 +469,18 @@
         "example": "共にする",
         "reading": "ともにする",
         "meaning": {
-          "vi": "to do together, to share, to participate in"
+          "vi": "to do together, to share, to participate in",
+          "en": "to do together, to share, to participate in"
         },
         "romaji": "tomonisuru"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": {
+        "en": "eight",
+        "vi": "tám"
+      }
     },
     "parts": [
       "ハ",

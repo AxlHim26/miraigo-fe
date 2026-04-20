@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ame, ama",
-    "meaning": "heaven",
+    "meaning": {
+      "en": "heaven",
+      "vi": "bầu trời"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "天気（てんき）",
         "meaning": {
-          "english": "weather, fine weather"
+          "english": "weather, fine weather",
+          "en": "weather, fine weather",
+          "vi": "thời tiết, trời đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten-ama_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "天候（てんこう）",
         "meaning": {
-          "english": "weather"
+          "english": "weather",
+          "en": "weather",
+          "vi": "thời tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten-ama_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "天国（てんごく）",
         "meaning": {
-          "english": "heaven"
+          "english": "heaven",
+          "en": "heaven",
+          "vi": "bầu trời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten-ama_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "天皇（てんのう）",
         "meaning": {
-          "english": "emperor"
+          "english": "emperor",
+          "en": "emperor",
+          "vi": "thiên hoàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten-ama_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "天才（てんさい）",
         "meaning": {
-          "english": "genius"
+          "english": "genius",
+          "en": "genius",
+          "vi": "thiên tài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten-ama_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "晴天（せいてん）",
         "meaning": {
-          "english": "fine weather"
+          "english": "fine weather",
+          "en": "fine weather",
+          "vi": "trời đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten-ama_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "雨天（うてん）",
         "meaning": {
-          "english": "rainy weather"
+          "english": "rainy weather",
+          "en": "rainy weather",
+          "vi": "thời tiết mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten-ama_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "先天的な（せんてんてきな）",
         "meaning": {
-          "english": "innate"
+          "english": "innate",
+          "en": "innate",
+          "vi": "bẩm sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten-ama_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "天（あめ）",
         "meaning": {
-          "english": "heaven, sky"
+          "english": "heaven, sky",
+          "en": "heaven, sky",
+          "vi": "bầu trời, trời cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten-ama_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "天の川（あまのがわ）",
         "meaning": {
-          "english": "Milky Way"
+          "english": "Milky Way",
+          "en": "Milky Way",
+          "vi": "Ngân Hà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ten-ama_06_j.opus",
@@ -269,7 +292,9 @@
     "kanji": {
       "character": "天",
       "meaning": {
-        "english": "heaven"
+        "english": "heaven",
+        "en": "heaven",
+        "vi": "bầu trời"
       },
       "strokes": {
         "count": 4,
@@ -315,7 +340,9 @@
         "romaji": "dai"
       },
       "meaning": {
-        "english": "large, big"
+        "english": "large, big",
+        "en": "large, big",
+        "vi": "to lớn"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/dai0.svg",
@@ -336,7 +363,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "512",
     "strokeCount": 4,
-    "meaning": "heavens, sky, imperial",
+    "meaning": {
+      "en": "heavens, sky, imperial",
+      "vi": "trời, bầu trời, hoàng gia"
+    },
     "kunyomi": [
       "あまつ",
       "あめ",
@@ -350,7 +380,8 @@
         "example": "天",
         "reading": "テン",
         "meaning": {
-          "vi": "sky, heaven, God, svarga (heaven-like realm visited as a stage of death and rebirth), deva (divine being of Buddhism), top (of a book), sole (of a Japanese sandal), beginning, start, tempura, India"
+          "vi": "sky, heaven, God, svarga (heaven-like realm visited as a stage of death and rebirth), deva (divine being of Buddhism), top (of a book), sole (of a Japanese sandal), beginning, start, tempura, India",
+          "en": ""
         },
         "romaji": "ten"
       },
@@ -358,7 +389,8 @@
         "example": "天下",
         "reading": "テンカ",
         "meaning": {
-          "vi": "the whole world, the whole country, society, the public, supremacy over a nation, government of a country, the ruling power, having one's own way, doing as one pleases, peerless, incomparable, superlative, world-famous, shogun (Edo period)"
+          "vi": "the whole world, the whole country, society, the public, supremacy over a nation, government of a country, the ruling power, having one's own way, doing as one pleases, peerless, incomparable, superlative, world-famous, shogun (Edo period)",
+          "en": ""
         },
         "romaji": "tenka"
       },
@@ -366,7 +398,8 @@
         "example": "炎天",
         "reading": "エンテン",
         "meaning": {
-          "en": "blazing heat, scorching sun"
+          "en": "blazing heat, scorching sun",
+          "vi": "nắng gắt, cái nóng thiêu đốt"
         },
         "romaji": "enten"
       },
@@ -374,7 +407,8 @@
         "example": "楽天",
         "reading": "ラクテン",
         "meaning": {
-          "vi": "optimism"
+          "vi": "optimism",
+          "en": ""
         },
         "romaji": "rakuten"
       }
@@ -384,7 +418,8 @@
         "example": "天津",
         "reading": "あまつ",
         "meaning": {
-          "vi": "heavenly, imperial"
+          "vi": "heavenly, imperial",
+          "en": ""
         },
         "romaji": "amatsu"
       },
@@ -392,7 +427,8 @@
         "example": "天津乙女",
         "reading": "あまつおとめ",
         "meaning": {
-          "en": "celestial maiden"
+          "en": "celestial maiden",
+          "vi": "tiên nữ"
         },
         "romaji": "amatsuotome"
       },
@@ -400,7 +436,8 @@
         "example": "天",
         "reading": "あめ",
         "meaning": {
-          "en": "sky"
+          "en": "sky",
+          "vi": "bầu trời"
         },
         "romaji": "ame"
       },
@@ -408,14 +445,18 @@
         "example": "天地",
         "reading": "てんち",
         "meaning": {
-          "vi": "heaven and earth, the universe, the world, nature, land, world, realm, sphere, top and bottom, gods of heaven and earth"
+          "vi": "heaven and earth, the universe, the world, nature, land, world, realm, sphere, top and bottom, gods of heaven and earth",
+          "en": ""
         },
         "romaji": "tenchi"
       }
     ],
     "radical": {
       "symbol": "大",
-      "meaning": "big, very"
+      "meaning": {
+        "en": "big, very",
+        "vi": "to, rất"
+      }
     },
     "parts": [
       "一",
@@ -429,5 +470,6 @@
   },
   "hanViet": [
     "thiên"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: một nét lớn đội lên đầu như bầu trời ở trên cao."
 }

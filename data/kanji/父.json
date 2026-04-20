@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "chichi",
-    "meaning": "father",
+    "meaning": {
+      "en": "father",
+      "vi": "cha"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "父母（ふぼ）",
         "meaning": {
-          "english": "one's own father and mother"
+          "english": "one's own father and mother",
+          "en": "one's own father and mother",
+          "vi": "cha mẹ ruột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-chichi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "祖父（そふ）",
         "meaning": {
-          "english": "one's own grandfather"
+          "english": "one's own grandfather",
+          "en": "one's own grandfather",
+          "vi": "ông nội hoặc ông ngoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-chichi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "父（ちち）",
         "meaning": {
-          "english": "one's own father"
+          "english": "one's own father",
+          "en": "one's own father",
+          "vi": "one's own father"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-chichi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "父親（ちちおや）",
         "meaning": {
-          "english": "father"
+          "english": "father",
+          "en": "father",
+          "vi": "cha"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-chichi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "*お父さん（おとうさん）",
         "meaning": {
-          "english": "father [hon.]"
+          "english": "father [hon.]",
+          "en": "father [hon.]",
+          "vi": "father [hon.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fu-chichi_06_e.opus",
@@ -214,7 +227,9 @@
     "kanji": {
       "character": "父",
       "meaning": {
-        "english": "father"
+        "english": "father",
+        "en": "father",
+        "vi": "cha"
       },
       "strokes": {
         "count": 4,
@@ -260,7 +275,9 @@
         "romaji": "chichi"
       },
       "meaning": {
-        "english": "father"
+        "english": "father",
+        "en": "father",
+        "vi": "cha"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chichi0.svg",
@@ -281,7 +298,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "646",
     "strokeCount": 4,
-    "meaning": "father",
+    "meaning": {
+      "en": "father",
+      "vi": "cha"
+    },
     "kunyomi": [
       "ちち"
     ],
@@ -293,7 +313,8 @@
         "example": "父母",
         "reading": "フボ",
         "meaning": {
-          "vi": "father and mother, parents"
+          "vi": "father and mother, parents",
+          "en": "father and mother, parents"
         },
         "romaji": "fubo"
       },
@@ -301,7 +322,8 @@
         "example": "父子",
         "reading": "フシ",
         "meaning": {
-          "en": "father and child, father and son, father and daughter"
+          "en": "father and child, father and son, father and daughter",
+          "vi": "father and child, father and son, father and daughter"
         },
         "romaji": "fushi"
       },
@@ -309,7 +331,8 @@
         "example": "義父",
         "reading": "ギフ",
         "meaning": {
-          "vi": "father-in-law, foster father, stepfather"
+          "vi": "father-in-law, foster father, stepfather",
+          "en": "father-in-law, foster father, stepfather"
         },
         "romaji": "gifu"
       },
@@ -317,7 +340,8 @@
         "example": "養父",
         "reading": "ヨウフ",
         "meaning": {
-          "vi": "foster father, adoptive father"
+          "vi": "foster father, adoptive father",
+          "en": "foster father, adoptive father"
         },
         "romaji": "youfu"
       }
@@ -327,7 +351,8 @@
         "example": "父",
         "reading": "ちち",
         "meaning": {
-          "en": "father"
+          "en": "father",
+          "vi": "cha"
         },
         "romaji": "chichi"
       },
@@ -335,7 +360,8 @@
         "example": "父親",
         "reading": "ちちおや",
         "meaning": {
-          "en": "father"
+          "en": "father",
+          "vi": "cha"
         },
         "romaji": "chichioya"
       },
@@ -343,7 +369,8 @@
         "example": "亡き父",
         "reading": "なきちち",
         "meaning": {
-          "en": "(one's) late father"
+          "en": "(one's) late father",
+          "vi": "(one's) late father"
         },
         "romaji": "nakichichi"
       },
@@ -351,14 +378,18 @@
         "example": "建国の父",
         "reading": "けんこくのちち",
         "meaning": {
-          "en": "founding father (of a country)"
+          "en": "founding father (of a country)",
+          "vi": "founding father (of a country)"
         },
         "romaji": "kenkokunochichi"
       }
     ],
     "radical": {
       "symbol": "父",
-      "meaning": "father"
+      "meaning": {
+        "en": "father",
+        "vi": "cha"
+      }
     },
     "parts": [
       "父"
@@ -371,5 +402,7 @@
   "hanViet": [
     "phụ",
     "phủ"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: hai nét như đôi tay cầm roi, gợi hình người cha."
 }

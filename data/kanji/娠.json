@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1623",
     "strokeCount": 10,
-    "meaning": "with child, pregnancy",
+    "meaning": {
+      "en": "with child, pregnancy",
+      "vi": "mang thai, thai nghén"
+    },
     "kunyomi": [],
     "onyomi": [
       "シン"
@@ -18,7 +21,8 @@
         "example": "双胎妊娠",
         "reading": "ソウタイニンシン",
         "meaning": {
-          "vi": "twin pregnancy"
+          "vi": "twin pregnancy",
+          "en": "twin pregnancy"
         },
         "romaji": "soutaininshin"
       },
@@ -26,7 +30,8 @@
         "example": "多胎妊娠",
         "reading": "タタイニンシン",
         "meaning": {
-          "vi": "multiple pregnancy, polycyesis"
+          "vi": "multiple pregnancy, polycyesis",
+          "en": "multiple pregnancy, polycyesis"
         },
         "romaji": "tataininshin"
       }
@@ -34,7 +39,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": {
+        "en": "woman, female",
+        "vi": "phụ nữ, nữ"
+      }
     },
     "parts": [
       "厂",
@@ -49,5 +57,7 @@
   },
   "hanViet": [
     "thần"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Bộ nữ kết hợp phần thân đang lớn dần, gợi hình người phụ nữ mang thai."
 }

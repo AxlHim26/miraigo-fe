@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mana, manabu",
-    "meaning": "study, educational, institution",
+    "meaning": {
+      "en": "study, educational, institution",
+      "vi": "học, giáo dục, cơ sở"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "学生（がくせい）",
         "meaning": {
-          "english": "student"
+          "english": "student",
+          "en": "student",
+          "vi": "học sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "学者（がくしゃ）",
         "meaning": {
-          "english": "scholar"
+          "english": "scholar",
+          "en": "scholar",
+          "vi": "học giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "大学（だいがく）",
         "meaning": {
-          "english": "university"
+          "english": "university",
+          "en": "university",
+          "vi": "university"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "大学院（だいがくいん）",
         "meaning": {
-          "english": "graduate school"
+          "english": "graduate school",
+          "en": "graduate school",
+          "vi": "graduate school"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "奨学金（しょうがくきん）",
         "meaning": {
-          "english": "scholarship"
+          "english": "scholarship",
+          "en": "scholarship",
+          "vi": "scholarship"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "人類学（じんるいがく）",
         "meaning": {
-          "english": "anthropology"
+          "english": "anthropology",
+          "en": "anthropology",
+          "vi": "anthropology"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "言語学（げんごがく）",
         "meaning": {
-          "english": "linguistics"
+          "english": "linguistics",
+          "en": "linguistics",
+          "vi": "linguistics"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "学校（がっこう）",
         "meaning": {
-          "english": "school"
+          "english": "school",
+          "en": "school",
+          "vi": "school"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "学期（がっき）",
         "meaning": {
-          "english": "term, semester"
+          "english": "term, semester",
+          "en": "term, semester",
+          "vi": "term, semester"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "学ぶ（まなぶ）",
         "meaning": {
-          "english": "study"
+          "english": "study",
+          "en": "study",
+          "vi": "study"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mana(bu)_06_j.opus",
@@ -297,7 +320,9 @@
     "kanji": {
       "character": "学",
       "meaning": {
-        "english": "study, educational, institution"
+        "english": "study, educational, institution",
+        "en": "study, educational, institution",
+        "vi": "học, giáo dục, cơ sở"
       },
       "strokes": {
         "count": 8,
@@ -351,7 +376,9 @@
         "romaji": "ko"
       },
       "meaning": {
-        "english": "child, son"
+        "english": "child, son",
+        "en": "child, son",
+        "vi": "child, son"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ko0.svg",
@@ -372,7 +399,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "63",
     "strokeCount": 8,
-    "meaning": "study, learning, science",
+    "meaning": {
+      "en": "study, learning, science",
+      "vi": "study, learning, science"
+    },
     "kunyomi": [
       "まな.ぶ"
     ],
@@ -384,7 +414,8 @@
         "example": "学",
         "reading": "ガク",
         "meaning": {
-          "vi": "learning, scholarship, study, erudition, knowledge, education, study of ..., -ology, -ics"
+          "vi": "learning, scholarship, study, erudition, knowledge, education, study of ..., -ology, -ics",
+          "en": "learning, scholarship, study, erudition, knowledge, education, study of ..., -ology, -ics"
         },
         "romaji": "gaku"
       },
@@ -392,7 +423,8 @@
         "example": "学位",
         "reading": "ガクイ",
         "meaning": {
-          "en": "(academic) degree"
+          "en": "(academic) degree",
+          "vi": "(academic) degree"
         },
         "romaji": "gakui"
       },
@@ -400,7 +432,8 @@
         "example": "短期大学",
         "reading": "タンキダイガク",
         "meaning": {
-          "vi": "junior college, community college, vocationally oriented two or three year post-secondary education institution"
+          "vi": "junior college, community college, vocationally oriented two or three year post-secondary education institution",
+          "en": "junior college, community college, vocationally oriented two or three year post-secondary education institution"
         },
         "romaji": "tankidaigaku"
       },
@@ -408,7 +441,8 @@
         "example": "法医学",
         "reading": "ホウイガク",
         "meaning": {
-          "vi": "forensic medicine, forensic pathology, medical jurisprudence, legal medicine"
+          "vi": "forensic medicine, forensic pathology, medical jurisprudence, legal medicine",
+          "en": "forensic medicine, forensic pathology, medical jurisprudence, legal medicine"
         },
         "romaji": "houigaku"
       }
@@ -418,14 +452,18 @@
         "example": "学ぶ",
         "reading": "まなぶ",
         "meaning": {
-          "en": "to learn, to study, to take lessons in"
+          "en": "to learn, to study, to take lessons in",
+          "vi": "to learn, to study, to take lessons in"
         },
         "romaji": "manabu"
       }
     ],
     "radical": {
       "symbol": "子",
-      "meaning": "child, seed"
+      "meaning": {
+        "en": "child, seed",
+        "vi": "child, seed"
+      }
     },
     "parts": [
       "冖",
@@ -437,6 +475,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b66.gif",
     "uri": "https://jisho.org/search/%E5%AD%A6%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: mái trường ở trên, đứa trẻ bên dưới đang học.",
   "hanViet": [
     "học"
   ]

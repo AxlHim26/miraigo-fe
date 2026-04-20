@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1857",
     "strokeCount": 11,
-    "meaning": "spy",
+    "meaning": {
+      "en": "spy",
+      "vi": "do thám, gián điệp"
+    },
     "kunyomi": [],
     "onyomi": [
       "テイ"
@@ -18,7 +21,8 @@
         "example": "偵察",
         "reading": "テイサツ",
         "meaning": {
-          "en": "scouting, reconnaissance"
+          "en": "scouting, reconnaissance",
+          "vi": "trinh sát, do thám"
         },
         "romaji": "teisatsu"
       },
@@ -26,7 +30,8 @@
         "example": "偵察衛星",
         "reading": "テイサツエイセイ",
         "meaning": {
-          "vi": "reconnaissance satellite, spy satellite"
+          "vi": "reconnaissance satellite, spy satellite",
+          "en": "reconnaissance satellite, spy satellite"
         },
         "romaji": "teisatsueisei"
       },
@@ -34,7 +39,8 @@
         "example": "内偵",
         "reading": "ナイテイ",
         "meaning": {
-          "vi": "secret investigation, private enquiry, private inquiry, reconnaissance, scouting"
+          "vi": "secret investigation, private enquiry, private inquiry, reconnaissance, scouting",
+          "en": "secret investigation, private enquiry, private inquiry, reconnaissance, scouting"
         },
         "romaji": "naitei"
       },
@@ -42,7 +48,8 @@
         "example": "密偵",
         "reading": "ミッテイ",
         "meaning": {
-          "vi": "spy, secret agent, spying"
+          "vi": "spy, secret agent, spying",
+          "en": "spy, secret agent, spying"
         },
         "romaji": "mittei"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "maji, ma, ka, majiwaru, majieru, majiru, mazaru, mazeru, kau, kawasu",
-    "meaning": "intercourse, interchange",
+    "meaning": {
+      "en": "intercourse, interchange",
+      "vi": "giao lưu, trao đổi"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "交通（こうつう）",
         "meaning": {
-          "english": "traffic"
+          "english": "traffic",
+          "en": "traffic",
+          "vi": "giao thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "交番（こうばん）",
         "meaning": {
-          "english": "police box"
+          "english": "police box",
+          "en": "police box",
+          "vi": "đồn cảnh sát nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "国交（こっこう）",
         "meaning": {
-          "english": "diplomatic relations"
+          "english": "diplomatic relations",
+          "en": "diplomatic relations",
+          "vi": "quan hệ ngoại giao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "交換する（こうかんする）",
         "meaning": {
-          "english": "exchange [v.t.]"
+          "english": "exchange [v.t.]",
+          "en": "exchange [v.t.]",
+          "vi": "trao đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "交流する（こうりゅうする）",
         "meaning": {
-          "english": "intermingle"
+          "english": "intermingle",
+          "en": "intermingle",
+          "vi": "trộn lẫn, giao hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "交際する（こうさいする）",
         "meaning": {
-          "english": "keep company, date"
+          "english": "keep company, date",
+          "en": "keep company, date",
+          "vi": "qua lại, hẹn hò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "交わる（まじわる）",
         "meaning": {
-          "english": "cross, join [v.i.]"
+          "english": "cross, join [v.i.]",
+          "en": "cross, join [v.i.]",
+          "vi": "cắt ngang, giao nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "交ざる（まざる）",
         "meaning": {
-          "english": "be mixed, join [v.i.]"
+          "english": "be mixed, join [v.i.]",
+          "en": "be mixed, join [v.i.]",
+          "vi": "bị pha lẫn, nhập vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "交じる（まじる）",
         "meaning": {
-          "english": "be mixed [v.i.]"
+          "english": "be mixed [v.i.]",
+          "en": "be mixed [v.i.]",
+          "vi": "bị trộn lẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "飛び交う（とびかう）",
         "meaning": {
-          "english": "fly past each other"
+          "english": "fly past each other",
+          "en": "fly past each other",
+          "vi": "bay lướt qua nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "行き交う（いきかう）",
         "meaning": {
-          "english": "go past each other"
+          "english": "go past each other",
+          "en": "go past each other",
+          "vi": "đi lướt qua nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maji(waru)_06_k.opus",
@@ -308,7 +333,9 @@
     "kanji": {
       "character": "交",
       "meaning": {
-        "english": "intercourse, interchange"
+        "english": "intercourse, interchange",
+        "en": "intercourse, interchange",
+        "vi": "giao lưu, trao đổi"
       },
       "strokes": {
         "count": 6,
@@ -358,7 +385,9 @@
         "romaji": "nabebuta"
       },
       "meaning": {
-        "english": "lid, top"
+        "english": "lid, top",
+        "en": "lid, top",
+        "vi": "nắp, phần trên"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nabebuta0.svg",
@@ -379,7 +408,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "178",
     "strokeCount": 6,
-    "meaning": "mingle, mixing, association, coming & going",
+    "meaning": {
+      "en": "mingle, mixing, association, coming & going",
+      "vi": "sự pha trộn, giao thiệp, qua lại"
+    },
     "kunyomi": [
       "まじ.わる",
       "まじ.える",
@@ -400,7 +432,8 @@
         "example": "交",
         "reading": "コウ",
         "meaning": {
-          "vi": "association, fellowship, change (of season, year, etc.)"
+          "vi": "sự giao thiệp, tình bằng hữu, sự chuyển đổi (mùa, năm, v.v.)",
+          "en": "association, fellowship, change (of season, year, etc.)"
         },
         "romaji": "kou"
       },
@@ -408,7 +441,8 @@
         "example": "交易",
         "reading": "コウエキ",
         "meaning": {
-          "en": "trade, commerce"
+          "en": "trade, commerce",
+          "vi": "thương mại, buôn bán"
         },
         "romaji": "koueki"
       },
@@ -416,7 +450,8 @@
         "example": "親交",
         "reading": "シンコウ",
         "meaning": {
-          "vi": "intimacy, friendship, friendly relations"
+          "vi": "sự thân thiết, tình bạn, quan hệ hữu hảo",
+          "en": "intimacy, friendship, friendly relations"
         },
         "romaji": "shinkou"
       },
@@ -424,7 +459,8 @@
         "example": "国交",
         "reading": "コッコウ",
         "meaning": {
-          "vi": "diplomatic relations"
+          "vi": "quan hệ ngoại giao",
+          "en": "diplomatic relations"
         },
         "romaji": "kokkou"
       }
@@ -434,7 +470,8 @@
         "example": "交わる",
         "reading": "まじわる",
         "meaning": {
-          "vi": "to cross, to intersect, to join, to meet, to associate with, to mingle with, to consort with, to have a sexual relationship, to copulate"
+          "vi": "cắt ngang, giao nhau, kết hợp, gặp gỡ, giao du, qua lại, có quan hệ tình dục",
+          "en": "to cross, to intersect, to join, to meet, to associate with, to mingle with, to consort with, to have a sexual relationship, to copulate"
         },
         "romaji": "majiwaru"
       },
@@ -442,7 +479,8 @@
         "example": "交える",
         "reading": "まじえる",
         "meaning": {
-          "en": "to mix, to combine, to include, to exchange (words, fire, etc.), to cross (e.g. swords), to join together"
+          "en": "to mix, to combine, to include, to exchange (words, fire, etc.), to cross (e.g. swords), to join together",
+          "vi": "trộn, kết hợp, bao gồm, trao đổi (lời nói, hỏa lực, v.v.), bắt chéo, nhập lại"
         },
         "romaji": "majieru"
       },
@@ -450,7 +488,8 @@
         "example": "混じる",
         "reading": "まじる",
         "meaning": {
-          "en": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+          "en": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join",
+          "vi": "bị trộn lẫn, hòa vào, kết hợp, giao du, nhập vào"
         },
         "romaji": "majiru"
       },
@@ -458,7 +497,8 @@
         "example": "混じる",
         "reading": "まじる",
         "meaning": {
-          "en": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join"
+          "en": "to be mixed, to be blended with, to be combined, to associate with, to mingle with, to interest, to join",
+          "vi": "bị trộn lẫn, hòa vào, kết hợp, giao du, nhập vào"
         },
         "romaji": "majiru"
       },
@@ -466,7 +506,8 @@
         "example": "混ざる",
         "reading": "まざる",
         "meaning": {
-          "en": "to be mixed, to be blended with, to associate with, to mingle with, to join"
+          "en": "to be mixed, to be blended with, to associate with, to mingle with, to join",
+          "vi": "bị pha lẫn, giao du, hòa vào, nhập vào"
         },
         "romaji": "mazaru"
       },
@@ -474,7 +515,8 @@
         "example": "混ぜる",
         "reading": "まぜる",
         "meaning": {
-          "en": "to mix, to stir, to blend"
+          "en": "to mix, to stir, to blend",
+          "vi": "trộn, khuấy, hòa"
         },
         "romaji": "mazeru"
       },
@@ -482,7 +524,8 @@
         "example": "交わす",
         "reading": "かわす",
         "meaning": {
-          "en": "to exchange (messages, greetings, arguments, etc.), to intersect, to cross, to interlace, ... with one another, ... to each other"
+          "en": "to exchange (messages, greetings, arguments, etc.), to intersect, to cross, to interlace, ... with one another, ... to each other",
+          "vi": "trao đổi (tin nhắn, lời chào, tranh luận, v.v.), giao nhau, đan xen, ... với nhau"
         },
         "romaji": "kawasu"
       },
@@ -490,7 +533,8 @@
         "example": "交わす",
         "reading": "かわす",
         "meaning": {
-          "en": "to exchange (messages, greetings, arguments, etc.), to intersect, to cross, to interlace, ... with one another, ... to each other"
+          "en": "to exchange (messages, greetings, arguments, etc.), to intersect, to cross, to interlace, ... with one another, ... to each other",
+          "vi": "trao đổi (tin nhắn, lời chào, tranh luận, v.v.), giao nhau, đan xen, ... với nhau"
         },
         "romaji": "kawasu"
       },
@@ -498,14 +542,18 @@
         "example": "交々",
         "reading": "こもごも",
         "meaning": {
-          "en": "alternately, in succession"
+          "en": "alternately, in succession",
+          "vi": "luân phiên, nối tiếp nhau"
         },
         "romaji": "komogomo"
       }
     ],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "亠",
@@ -518,5 +566,7 @@
   },
   "hanViet": [
     "giao"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Hai nét giao nhau như người qua lại, nên nhớ là giao tiếp, trao đổi."
 }

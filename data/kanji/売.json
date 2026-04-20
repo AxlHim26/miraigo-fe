@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "u, uru",
-    "meaning": "sell",
+    "meaning": {
+      "en": "sell",
+      "vi": "bán"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "売買する（ばいばいする）",
         "meaning": {
-          "english": "trade"
+          "english": "trade",
+          "en": "trade",
+          "vi": "buôn bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "商売する（しょうばいする）",
         "meaning": {
-          "english": "do business"
+          "english": "do business",
+          "en": "do business",
+          "vi": "kinh doanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "発売する（はつばいする）",
         "meaning": {
-          "english": "put a product on the market"
+          "english": "put a product on the market",
+          "en": "put a product on the market",
+          "vi": "đưa sản phẩm ra thị trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "売店（ばいてん）",
         "meaning": {
-          "english": "shop, kiosk"
+          "english": "shop, kiosk",
+          "en": "shop, kiosk",
+          "vi": "cửa hàng, quầy bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "売る（うる）",
         "meaning": {
-          "english": "sell"
+          "english": "sell",
+          "en": "sell",
+          "vi": "bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "売り切れ（うりきれ）",
         "meaning": {
-          "english": "sold-out"
+          "english": "sold-out",
+          "en": "sold-out",
+          "vi": "bán hết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "売り場（うりば）",
         "meaning": {
-          "english": "sales floor"
+          "english": "sales floor",
+          "en": "sales floor",
+          "vi": "khu bán hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-u(ru)_06_g.opus",
@@ -246,7 +263,9 @@
     "kanji": {
       "character": "売",
       "meaning": {
-        "english": "sell"
+        "english": "sell",
+        "en": "sell",
+        "vi": "bán"
       },
       "strokes": {
         "count": 7,
@@ -298,7 +317,9 @@
         "romaji": "samuraikanmuri"
       },
       "meaning": {
-        "english": "man, scholar, samurai"
+        "english": "man, scholar, samurai",
+        "en": "man, scholar, samurai",
+        "vi": "người, học giả, võ sĩ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/samuraikanmuri0.svg",
@@ -319,7 +340,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "202",
     "strokeCount": 7,
-    "meaning": "sell",
+    "meaning": {
+      "en": "sell",
+      "vi": "bán"
+    },
     "kunyomi": [
       "う.る",
       "う.れる"
@@ -332,7 +356,8 @@
         "example": "売春",
         "reading": "バイシュン",
         "meaning": {
-          "vi": "prostitution"
+          "vi": "prostitution",
+          "en": "prostitution"
         },
         "romaji": "baishun"
       },
@@ -340,7 +365,8 @@
         "example": "売却",
         "reading": "バイキャク",
         "meaning": {
-          "vi": "selling off, disposal by sale, sale"
+          "vi": "selling off, disposal by sale, sale",
+          "en": "selling off, disposal by sale, sale"
         },
         "romaji": "baikyaku"
       },
@@ -348,7 +374,8 @@
         "example": "乱売",
         "reading": "ランバイ",
         "meaning": {
-          "vi": "selling at a fire-sale price, clearance sale, dumping"
+          "vi": "selling at a fire-sale price, clearance sale, dumping",
+          "en": "selling at a fire-sale price, clearance sale, dumping"
         },
         "romaji": "ranbai"
       },
@@ -356,7 +383,8 @@
         "example": "転売",
         "reading": "テンバイ",
         "meaning": {
-          "en": "resale"
+          "en": "resale",
+          "vi": "bán lại"
         },
         "romaji": "tenbai"
       }
@@ -366,7 +394,8 @@
         "example": "売る",
         "reading": "うる",
         "meaning": {
-          "vi": "to sell, to betray, to sell out (one's friend, country, etc.), to make (oneself) known, to establish (a reputation) for oneself, to pick (a fight, quarrel, etc.), to provoke, to force on someone"
+          "vi": "to sell, to betray, to sell out (one's friend, country, etc.), to make (oneself) known, to establish (a reputation) for oneself, to pick (a fight, quarrel, etc.), to provoke, to force on someone",
+          "en": "to sell, to betray, to sell out (one's friend, country, etc.), to make (oneself) known, to establish (a reputation) for oneself, to pick (a fight, quarrel, etc.), to provoke, to force on someone"
         },
         "romaji": "uru"
       },
@@ -374,7 +403,8 @@
         "example": "売るほど",
         "reading": "うるほど",
         "meaning": {
-          "vi": "so many (that one would want to sell some), more than enough, lots, plenty"
+          "vi": "so many (that one would want to sell some), more than enough, lots, plenty",
+          "en": "so many (that one would want to sell some), more than enough, lots, plenty"
         },
         "romaji": "uruhodo"
       },
@@ -382,14 +412,18 @@
         "example": "売れる",
         "reading": "うれる",
         "meaning": {
-          "vi": "to sell (well), to be well known, to be popular, to be famous"
+          "vi": "to sell (well), to be well known, to be popular, to be famous",
+          "en": "to sell (well), to be well known, to be popular, to be famous"
         },
         "romaji": "ureru"
       }
     ],
     "radical": {
       "symbol": "士",
-      "meaning": "scholar, bachelor"
+      "meaning": {
+        "en": "scholar, bachelor",
+        "vi": "học giả, cử nhân"
+      }
     },
     "parts": [
       "儿",
@@ -403,5 +437,7 @@
   },
   "hanViet": [
     "mại"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: người đội hàng lên đầu mang ra chợ để bán."
 }

@@ -5,7 +5,10 @@
     "query": "倥",
     "found": true,
     "strokeCount": 10,
-    "meaning": "boorish, urgent",
+    "meaning": {
+      "en": "boorish, urgent",
+      "vi": "thô lỗ, cấp bách"
+    },
     "kunyomi": [
       "ぬか.る"
     ],
@@ -17,7 +20,8 @@
         "example": "倥偬",
         "reading": "コウソウ",
         "meaning": {
-          "en": "hurrying"
+          "en": "hurrying",
+          "vi": "vội vã"
         },
         "romaji": "kousou"
       }
@@ -28,7 +32,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "儿",

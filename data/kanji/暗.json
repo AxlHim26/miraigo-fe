@@ -7,13 +7,17 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "kura, kurai, kurasa",
-    "meaning": "dark, dim",
+    "meaning": {
+      "en": "dark, dim",
+      "vi": "tối, mờ"
+    },
     "kstroke": 13,
     "examples": [
       {
         "japanese": "暗黒（あんこく）",
         "meaning": {
-          "english": "darkness"
+          "en": "darkness",
+          "vi": "bóng tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kura(i)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "暗号（あんごう）",
         "meaning": {
-          "english": "code, password"
+          "en": "code, password",
+          "vi": "mật mã, mật khẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kura(i)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "暗室（あんしつ）",
         "meaning": {
-          "english": "dark room"
+          "en": "dark room",
+          "vi": "phòng tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kura(i)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "暗黙（あんもく）",
         "meaning": {
-          "english": "tacit, implicit"
+          "en": "tacit, implicit",
+          "vi": "ngầm hiểu, hàm ẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kura(i)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "暗算（あんざん）",
         "meaning": {
-          "english": "mental arithmetic"
+          "en": "mental arithmetic",
+          "vi": "tính nhẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kura(i)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "明暗（めいあん）",
         "meaning": {
-          "english": "light and darkness"
+          "en": "light and darkness",
+          "vi": "ánh sáng và bóng tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kura(i)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "暗殺する（あんさつする）",
         "meaning": {
-          "english": "assassinate"
+          "en": "assassinate",
+          "vi": "ám sát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kura(i)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "暗示する（あんじする）",
         "meaning": {
-          "english": "hint, suggest"
+          "en": "hint, suggest",
+          "vi": "gợi ý, ám chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kura(i)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "暗記する（あんきする）",
         "meaning": {
-          "english": "memorize, learn"
+          "en": "memorize, learn",
+          "vi": "ghi nhớ, học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kura(i)_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "暗い（くらい）",
         "meaning": {
-          "english": "dark, gloomy"
+          "en": "dark, gloomy",
+          "vi": "tối tăm, u ám"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kura(i)_06_j.opus",
@@ -265,7 +278,8 @@
     "kanji": {
       "character": "暗",
       "meaning": {
-        "english": "dark, dim"
+        "en": "dark, dim",
+        "vi": "tối, mờ"
       },
       "strokes": {
         "count": 13,
@@ -329,7 +343,8 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "en": "sun, day, time",
+        "vi": "mặt trời, ngày, thời gian"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen0.svg",
@@ -350,7 +365,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1040",
     "strokeCount": 13,
-    "meaning": "darkness, disappear, shade, informal, grow dark, be blinded",
+    "meaning": {
+      "en": "darkness, disappear, shade, informal, grow dark, be blinded",
+      "vi": "bóng tối, biến mất, bóng râm, kín đáo, trở nên tối, bị che mắt"
+    },
     "kunyomi": [
       "くら.い",
       "くら.む",
@@ -364,7 +382,8 @@
         "example": "暗",
         "reading": "アン",
         "meaning": {
-          "en": "darkness"
+          "en": "darkness",
+          "vi": "bóng tối"
         },
         "romaji": "an"
       },
@@ -372,7 +391,8 @@
         "example": "暗雲",
         "reading": "アンウン",
         "meaning": {
-          "en": "dark clouds, threatening signs, ominous indications"
+          "en": "dark clouds, threatening signs, ominous indications",
+          "vi": "mây đen, điềm báo đáng ngại, dấu hiệu ominous"
         },
         "romaji": "an'un"
       },
@@ -380,7 +400,8 @@
         "example": "明暗",
         "reading": "メイアン",
         "meaning": {
-          "en": "light and darkness, light and shade"
+          "en": "light and darkness, light and shade",
+          "vi": "ánh sáng và bóng tối, sáng và râm"
         },
         "romaji": "meian"
       },
@@ -388,7 +409,8 @@
         "example": "冥暗",
         "reading": "メイアン",
         "meaning": {
-          "en": "gloom, shade"
+          "en": "gloom, shade",
+          "vi": "u tối, bóng râm"
         },
         "romaji": "meian"
       }
@@ -398,6 +420,7 @@
         "example": "暗い",
         "reading": "くらい",
         "meaning": {
+          "en": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)",
           "vi": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"
         },
         "romaji": "kurai"
@@ -406,6 +429,7 @@
         "example": "暗い過去",
         "reading": "くらいかこ",
         "meaning": {
+          "en": "shadowy past, murky past",
           "vi": "shadowy past, murky past"
         },
         "romaji": "kuraikako"
@@ -414,7 +438,8 @@
         "example": "眩む",
         "reading": "くらむ",
         "meaning": {
-          "en": "to be dazzled by, to be dizzied by, to be disoriented by, to be lost in (greed, lust, etc.), to become dark"
+          "en": "to be dazzled by, to be dizzied by, to be disoriented by, to be lost in (greed, lust, etc.), to become dark",
+          "vi": "bị lóa bởi, bị choáng bởi, bị mất phương hướng bởi, bị cuốn vào (tham lam, dục vọng, v.v.), trở nên tối"
         },
         "romaji": "kuramu"
       },
@@ -422,6 +447,7 @@
         "example": "暮れる",
         "reading": "くれる",
         "meaning": {
+          "en": "to get dark, to grow dark, to end (of a day, year, season, etc.), to come to an end, to close, to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with",
           "vi": "to get dark, to grow dark, to end (of a day, year, season, etc.), to come to an end, to close, to be sunk in (e.g. despair), to be lost in (e.g. thought), to be overcome with"
         },
         "romaji": "kureru"
@@ -429,7 +455,10 @@
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "mặt trời, ngày"
+      }
     },
     "parts": [
       "日",

@@ -5,7 +5,10 @@
     "query": "冏",
     "found": true,
     "strokeCount": 7,
-    "meaning": "light, clear, bright",
+    "meaning": {
+      "en": "light, clear, bright",
+      "vi": "sáng, trong, rực rỡ"
+    },
     "kunyomi": [
       "あきらか"
     ],
@@ -19,7 +22,8 @@
         "example": "冏構え",
         "reading": "ケイガマエ",
         "meaning": {
-          "vi": "kanji radical 13 (\"upside-down box\")"
+          "vi": "kanji radical 13 (\"upside-down box\")",
+          "en": "kanji radical 13 (\"upside-down box\")"
         },
         "romaji": "keigamae"
       },
@@ -27,7 +31,8 @@
         "example": "炯々",
         "reading": "ケイケイ",
         "meaning": {
-          "vi": "glaring (eyes), piercing, penetrating"
+          "vi": "glaring (eyes), piercing, penetrating",
+          "en": "glaring (eyes), piercing, penetrating"
         },
         "romaji": "keikei"
       },
@@ -35,7 +40,8 @@
         "example": "炯々",
         "reading": "ケイケイ",
         "meaning": {
-          "vi": "glaring (eyes), piercing, penetrating"
+          "vi": "glaring (eyes), piercing, penetrating",
+          "en": "glaring (eyes), piercing, penetrating"
         },
         "romaji": "keikei"
       }
@@ -43,7 +49,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [
       "儿",

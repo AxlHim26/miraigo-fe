@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2343",
     "strokeCount": 13,
-    "meaning": "reed, bullrush",
+    "meaning": {
+      "en": "reed, bullrush",
+      "vi": "cây sậy, cỏ bấc"
+    },
     "kunyomi": [
       "あし",
       "よし",
@@ -23,7 +26,8 @@
         "example": "一葦",
         "reading": "イチイ",
         "meaning": {
-          "vi": "one reed, small boat, one person"
+          "vi": "one reed, small boat, one person",
+          "en": "one reed, small boat, one person"
         },
         "romaji": "ichii"
       }
@@ -33,7 +37,8 @@
         "example": "葦",
         "reading": "あし",
         "meaning": {
-          "vi": "common reed (Phragmites australis)"
+          "vi": "common reed (Phragmites australis)",
+          "en": "common reed (Phragmites australis)"
         },
         "romaji": "ashi"
       },
@@ -41,7 +46,8 @@
         "example": "海驢",
         "reading": "あしか",
         "meaning": {
-          "vi": "eared seal (esp. the California sea lion, Zalophus californianus), sea lion"
+          "vi": "eared seal (esp. the California sea lion, Zalophus californianus), sea lion",
+          "en": "eared seal (esp. the California sea lion, Zalophus californianus), sea lion"
         },
         "romaji": "ashika"
       },
@@ -49,7 +55,8 @@
         "example": "間葦",
         "reading": "あいあし",
         "meaning": {
-          "vi": "Phacelurus latifolius (species of perennial grass)"
+          "vi": "Phacelurus latifolius (species of perennial grass)",
+          "en": "Phacelurus latifolius (species of perennial grass)"
         },
         "romaji": "aiashi"
       },
@@ -57,7 +64,8 @@
         "example": "青葦",
         "reading": "あおあし",
         "meaning": {
-          "en": "lush waterside reeds"
+          "en": "lush waterside reeds",
+          "vi": "đám sậy ven nước xanh tốt"
         },
         "romaji": "aoashi"
       },
@@ -65,7 +73,8 @@
         "example": "葦",
         "reading": "あし",
         "meaning": {
-          "vi": "common reed (Phragmites australis)"
+          "vi": "common reed (Phragmites australis)",
+          "en": "common reed (Phragmites australis)"
         },
         "romaji": "ashi"
       },
@@ -73,7 +82,8 @@
         "example": "葦鴨",
         "reading": "よしがも",
         "meaning": {
-          "en": "falcated teal"
+          "en": "falcated teal",
+          "vi": "vịt mỏ lưỡi liềm"
         },
         "romaji": "yoshigamo"
       }
@@ -83,7 +93,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [
       "口",

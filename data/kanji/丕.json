@@ -5,7 +5,10 @@
     "query": "丕",
     "found": true,
     "strokeCount": 5,
-    "meaning": "large, great, grand, glorious, distinguished",
+    "meaning": {
+      "en": "large, great, grand, glorious, distinguished",
+      "vi": "lớn, vĩ đại, to lớn, vẻ vang, xuất chúng"
+    },
     "kunyomi": [
       "おお.きい"
     ],
@@ -51,7 +54,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "ノ",

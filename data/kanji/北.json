@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "kita",
-    "meaning": "north",
+    "meaning": {
+      "en": "north",
+      "vi": "phía bắc"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "北部（ほくぶ）",
         "meaning": {
-          "english": "northern part"
+          "english": "northern part",
+          "en": "northern part",
+          "vi": "phần phía bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "北欧（ほくおう）",
         "meaning": {
-          "english": "Northern Europe"
+          "english": "Northern Europe",
+          "en": "Northern Europe",
+          "vi": "Bắc Âu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "東北（とうほく）",
         "meaning": {
-          "english": "Touhoku"
+          "english": "Touhoku",
+          "en": "Touhoku",
+          "vi": "Tohoku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "北海道（ほっかいどう）",
         "meaning": {
-          "english": "Hokkaido"
+          "english": "Hokkaido",
+          "en": "Hokkaido",
+          "vi": "Hokkaido"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "敗北する（はいぼくする）",
         "meaning": {
-          "english": "be defeated"
+          "english": "be defeated",
+          "en": "be defeated",
+          "vi": "bị đánh bại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "南北（なんぼく）",
         "meaning": {
-          "english": "south and north"
+          "english": "south and north",
+          "en": "south and north",
+          "vi": "nam và bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "北（きた）",
         "meaning": {
-          "english": "north"
+          "english": "north",
+          "en": "north",
+          "vi": "phía bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "北風（きたかぜ）",
         "meaning": {
-          "english": "north wind"
+          "english": "north wind",
+          "en": "north wind",
+          "vi": "gió bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "北半球（きたはんきゅう）",
         "meaning": {
-          "english": "northern hemisphere"
+          "english": "northern hemisphere",
+          "en": "northern hemisphere",
+          "vi": "bán cầu bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kita_06_i.opus",
@@ -248,7 +269,9 @@
     "kanji": {
       "character": "北",
       "meaning": {
-        "english": "north"
+        "english": "north",
+        "en": "north",
+        "vi": "phía bắc"
       },
       "strokes": {
         "count": 5,
@@ -296,7 +319,9 @@
         "romaji": "saji"
       },
       "meaning": {
-        "english": "spoon"
+        "english": "spoon",
+        "en": "spoon",
+        "vi": "cái thìa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/saji0.svg",
@@ -317,7 +342,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "153",
     "strokeCount": 5,
-    "meaning": "north",
+    "meaning": {
+      "en": "north",
+      "vi": "phía bắc"
+    },
     "kunyomi": [
       "きた"
     ],
@@ -329,7 +357,8 @@
         "example": "北欧",
         "reading": "ホクオウ",
         "meaning": {
-          "vi": "Northern Europe, Nordic countries, Scandinavia"
+          "vi": "Northern Europe, Nordic countries, Scandinavia",
+          "en": "Northern Europe, Nordic countries, Scandinavia"
         },
         "romaji": "hokuou"
       },
@@ -337,7 +366,8 @@
         "example": "北緯",
         "reading": "ホクイ",
         "meaning": {
-          "en": "north latitude"
+          "en": "north latitude",
+          "vi": "vĩ độ bắc"
         },
         "romaji": "hokui"
       },
@@ -345,7 +375,8 @@
         "example": "極北",
         "reading": "キョクホク",
         "meaning": {
-          "vi": "extreme north, North Pole, utmost limit, breaking point"
+          "vi": "extreme north, North Pole, utmost limit, breaking point",
+          "en": "extreme north, North Pole, utmost limit, breaking point"
         },
         "romaji": "kyokuhoku"
       },
@@ -353,7 +384,8 @@
         "example": "西北",
         "reading": "セイホク",
         "meaning": {
-          "en": "north-west"
+          "en": "north-west",
+          "vi": "tây bắc"
         },
         "romaji": "seihoku"
       }
@@ -363,7 +395,8 @@
         "example": "北",
         "reading": "きた",
         "meaning": {
-          "en": "north, the North, northern territories, North Korea, north wind"
+          "en": "north, the North, northern territories, North Korea, north wind",
+          "vi": "phía bắc, miền bắc, vùng lãnh thổ phía bắc, Bắc Triều Tiên, gió bắc"
         },
         "romaji": "kita"
       },
@@ -371,7 +404,8 @@
         "example": "北アイルランド",
         "reading": "きたアイルランド",
         "meaning": {
-          "en": "Northern Ireland"
+          "en": "Northern Ireland",
+          "vi": "Bắc Ireland"
         },
         "romaji": "kitaairurando"
       },
@@ -379,14 +413,18 @@
         "example": "西北",
         "reading": "せいほく",
         "meaning": {
-          "en": "north-west"
+          "en": "north-west",
+          "vi": "tây bắc"
         },
         "romaji": "seihoku"
       }
     ],
     "radical": {
       "symbol": "匕",
-      "meaning": "spoon"
+      "meaning": {
+        "en": "spoon",
+        "vi": "cái thìa"
+      }
     },
     "parts": [
       "匕",
@@ -401,5 +439,7 @@
     "bắc",
     "bối",
     "bội"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Hai người quay lưng về hai phía, gợi hướng bắc là phía đối ngược."
 }

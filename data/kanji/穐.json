@@ -5,7 +5,10 @@
     "query": "穐",
     "found": true,
     "strokeCount": 16,
-    "meaning": "autumn",
+    "meaning": {
+      "en": "autumn",
+      "vi": "mùa thu"
+    },
     "kunyomi": [
       "あき",
       "とき"
@@ -17,7 +20,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": {
+        "en": "grain",
+        "vi": "ngũ cốc"
+      }
     },
     "parts": [
       "乙",

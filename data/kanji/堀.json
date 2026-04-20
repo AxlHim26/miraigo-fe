@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1285",
     "strokeCount": 11,
-    "meaning": "ditch, moat, canal",
+    "meaning": {
+      "en": "ditch, moat, canal",
+      "vi": "hào, mương, kênh đào"
+    },
     "kunyomi": [
       "ほり"
     ],
@@ -21,7 +24,8 @@
         "example": "堀",
         "reading": "ほり",
         "meaning": {
-          "en": "moat, fosse, canal, ditch"
+          "en": "moat, fosse, canal, ditch",
+          "vi": "hào, mương, kênh đào"
         },
         "romaji": "hori"
       },
@@ -29,14 +33,18 @@
         "example": "堀江",
         "reading": "ほりえ",
         "meaning": {
-          "en": "canal"
+          "en": "canal",
+          "vi": "kênh đào"
         },
         "romaji": "horie"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "凵",
@@ -52,5 +60,7 @@
   },
   "hanViet": [
     "quật"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: đào đất thành rãnh sâu quanh thành, nên 堀 là hào hay mương."
 }

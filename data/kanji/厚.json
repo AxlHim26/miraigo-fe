@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "atsu, atsui",
-    "meaning": "thick, kind",
+    "meaning": {
+      "en": "thick, kind",
+      "vi": "day, nhan hau"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "厚意（こうい）",
         "meaning": {
-          "english": "kindness, favor"
+          "english": "kindness, favor",
+          "en": "kindness, favor",
+          "vi": "long tot, an hue"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-atsu(i)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "厚顔無恥（こうがんむち）",
         "meaning": {
-          "english": "brazen and unscrupulous"
+          "english": "brazen and unscrupulous",
+          "en": "brazen and unscrupulous",
+          "vi": "tro tren va vo liem si"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-atsu(i)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "濃厚な（のうこうな）",
         "meaning": {
-          "english": "dense"
+          "english": "dense",
+          "en": "dense",
+          "vi": "day dac"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-atsu(i)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "温厚な（おんこうな）",
         "meaning": {
-          "english": "gentle"
+          "english": "gentle",
+          "en": "gentle",
+          "vi": "on hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-atsu(i)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "厚い（あつい）",
         "meaning": {
-          "english": "thick"
+          "english": "thick",
+          "en": "thick",
+          "vi": "day"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-atsu(i)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "厚かましい（あつかましい）",
         "meaning": {
-          "english": "impudent"
+          "english": "impudent",
+          "en": "impudent",
+          "vi": "xao xac, vo le"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-atsu(i)_06_f.opus",
@@ -176,7 +191,9 @@
     "kanji": {
       "character": "厚",
       "meaning": {
-        "english": "thick, kind"
+        "english": "thick, kind",
+        "en": "thick, kind",
+        "vi": "day, nhan hau"
       },
       "strokes": {
         "count": 9,
@@ -232,7 +249,9 @@
         "romaji": "gandare"
       },
       "meaning": {
-        "english": "cliff"
+        "english": "cliff",
+        "en": "cliff",
+        "vi": "vach da"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gandare0.svg",
@@ -253,7 +272,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "768",
     "strokeCount": 9,
-    "meaning": "thick, heavy, rich, kind, cordial, brazen, shameless",
+    "meaning": {
+      "en": "thick, heavy, rich, kind, cordial, brazen, shameless",
+      "vi": "day, nang, phong phu, tu te, than tinh, tro tren, khong biet xau ho"
+    },
     "kunyomi": [
       "あつ.い",
       "あか"
@@ -266,7 +288,8 @@
         "example": "厚生",
         "reading": "コウセイ",
         "meaning": {
-          "vi": "welfare, public welfare, social welfare, (former) Ministry of Health and Welfare"
+          "vi": "phuc loi, phuc loi cong cong, an sinh xa hoi, Bo Y te va Phuc loi truoc day",
+          "en": "welfare, public welfare, social welfare, (former) Ministry of Health and Welfare"
         },
         "romaji": "kousei"
       },
@@ -274,7 +297,8 @@
         "example": "厚相",
         "reading": "コウショウ",
         "meaning": {
-          "en": "Welfare Minister"
+          "en": "Welfare Minister",
+          "vi": "bo truong phuc loi"
         },
         "romaji": "koushou"
       },
@@ -282,7 +306,8 @@
         "example": "重厚",
         "reading": "ジュウコウ",
         "meaning": {
-          "vi": "profound, deep, grave, solid, dignified, stately, solemn, composed, substantial, massive"
+          "vi": "sau sac, sau, nghiem trong, vung chac, ton nghiem, uy nghi, trang nghiem, dien tinh, dang ke, do so",
+          "en": "profound, deep, grave, solid, dignified, stately, solemn, composed, substantial, massive"
         },
         "romaji": "juukou"
       },
@@ -290,7 +315,8 @@
         "example": "敗色濃厚",
         "reading": "ハイショクノウコウ",
         "meaning": {
-          "vi": "likely loss, probable defeat"
+          "vi": "de thua, kha nang that bai cao",
+          "en": "likely loss, probable defeat"
         },
         "romaji": "haishokunoukou"
       }
@@ -300,7 +326,8 @@
         "example": "厚い",
         "reading": "あつい",
         "meaning": {
-          "vi": "thick, deep, heavy, kind, cordial, hospitable, warm, faithful, serious (of an illness), abundant"
+          "vi": "day, sau, nang, tu te, than tinh, hieu khach, am ap, trung thanh, nang ve benh tinh, doi dao",
+          "en": "thick, deep, heavy, kind, cordial, hospitable, warm, faithful, serious (of an illness), abundant"
         },
         "romaji": "atsui"
       },
@@ -308,14 +335,18 @@
         "example": "厚板",
         "reading": "あついた",
         "meaning": {
-          "vi": "thick board, plank, steel plate (with a thickness of at least 3 mm), heavy brocade cloth, Elaphoglossum yoshinagae (species of fern)"
+          "vi": "tam van day, van go, tam thep day it nhat 3 mm, vai gam day, mot loai duong xi",
+          "en": "thick board, plank, steel plate (with a thickness of at least 3 mm), heavy brocade cloth, Elaphoglossum yoshinagae (species of fern)"
         },
         "romaji": "atsuita"
       }
     ],
     "radical": {
       "symbol": "厂",
-      "meaning": "cliff"
+      "meaning": {
+        "en": "cliff",
+        "vi": "vach da"
+      }
     },
     "parts": [
       "厂",
@@ -329,5 +360,7 @@
   },
   "hanViet": [
     "hậu"
-  ]
+  ],
+  "jlpt_level": "N2",
+  "mnemonic_vi": "Vách đá che chở cây con phía dưới, gợi cảm giác dày dặn và hậu hĩnh."
 }

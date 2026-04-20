@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2454",
     "strokeCount": 10,
-    "meaning": "emulate, imitate",
+    "meaning": {
+      "en": "emulate, imitate",
+      "vi": "noi theo, bắt chước"
+    },
     "kunyomi": [
       "なら.う"
     ],
@@ -21,7 +24,8 @@
         "example": "倣う",
         "reading": "ならう",
         "meaning": {
-          "vi": "to imitate, to follow, to copy, to emulate"
+          "vi": "bắt chước, noi theo, sao chép, mô phỏng",
+          "en": "to imitate, to follow, to copy, to emulate"
         },
         "romaji": "narau"
       }
@@ -31,7 +35,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "乞",

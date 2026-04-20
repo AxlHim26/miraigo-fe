@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 8,
-    "meaning": "urge to eat",
+    "meaning": {
+      "en": "urge to eat",
+      "vi": "mời ăn, thúc ăn"
+    },
     "kunyomi": [
       "すす.める",
       "たす.ける"
@@ -20,7 +23,8 @@
         "example": "侑觴",
         "reading": "ユウショウ",
         "meaning": {
-          "en": "urging one to drink more good wine during a banquet"
+          "en": "urging one to drink more good wine during a banquet",
+          "vi": "mời người khác uống thêm rượu ngon trong yến tiệc"
         },
         "romaji": "yuushou"
       },
@@ -28,7 +32,8 @@
         "example": "侑食",
         "reading": "ユウショク",
         "meaning": {
-          "vi": "assisting at dinner, dining with a superior"
+          "vi": "phụ giúp trong bữa ăn, dùng bữa cùng bề trên",
+          "en": "assisting at dinner, dining with a superior"
         },
         "romaji": "yuushoku"
       }
@@ -39,7 +44,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "phrase, haiku, verse",
+    "meaning": {
+      "en": "phrase, haiku, verse",
+      "vi": "câu, thơ haiku, câu thơ"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "文句（もんく）",
         "meaning": {
-          "english": "phrase, complaint"
+          "english": "phrase, complaint",
+          "en": "phrase, complaint",
+          "vi": "câu nói, lời than phiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "慣用句（かんようく）",
         "meaning": {
-          "english": "idiomatic phrase"
+          "english": "idiomatic phrase",
+          "en": "idiomatic phrase",
+          "vi": "thành ngữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "語句（ごく）",
         "meaning": {
-          "english": "words and phrases"
+          "english": "words and phrases",
+          "en": "words and phrases",
+          "vi": "từ và cụm từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "俳句（はいく）",
         "meaning": {
-          "english": "haiku poetry"
+          "english": "haiku poetry",
+          "en": "haiku poetry",
+          "vi": "thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "句読点（くとうてん）",
         "meaning": {
-          "english": "punctuation marks"
+          "english": "punctuation marks",
+          "en": "punctuation marks",
+          "vi": "dấu câu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "句会（くかい）",
         "meaning": {
-          "english": "gathering of haiku poets"
+          "english": "gathering of haiku poets",
+          "en": "gathering of haiku poets",
+          "vi": "buổi tụ họp của các nhà thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "句集（くしゅう）",
         "meaning": {
-          "english": "collection of haiku poems"
+          "english": "collection of haiku poems",
+          "en": "collection of haiku poems",
+          "vi": "tập thơ haiku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hai)ku_06_g.opus",
@@ -187,7 +204,9 @@
     "kanji": {
       "character": "句",
       "meaning": {
-        "english": "phrase, haiku, verse"
+        "english": "phrase, haiku, verse",
+        "en": "phrase, haiku, verse",
+        "vi": "câu, thơ haiku, câu thơ"
       },
       "strokes": {
         "count": 5,
@@ -235,7 +254,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -256,7 +277,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1244",
     "strokeCount": 5,
-    "meaning": "phrase, clause, sentence, passage, paragraph, counter for haiku",
+    "meaning": {
+      "en": "phrase, clause, sentence, passage, paragraph, counter for haiku",
+      "vi": "cụm từ, mệnh đề, câu, đoạn văn, đoạn, lượng từ cho haiku"
+    },
     "kunyomi": [],
     "onyomi": [
       "ク"
@@ -266,7 +290,8 @@
         "example": "句",
         "reading": "ク",
         "meaning": {
-          "vi": "section (i.e. of text), sentence, passage, paragraph, phrase, verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry), haiku, first 17 morae of a renga, etc., maxim, saying, idiom, expression, clause (e.g. in a database query language)"
+          "vi": "đoạn (văn bản), câu, đoạn văn, khổ, cụm từ, câu thơ, haiku, 17 mora đầu của một bài renga, châm ngôn, câu nói, thành ngữ, biểu đạt, mệnh đề",
+          "en": "section (i.e. of text), sentence, passage, paragraph, phrase, verse (of 5 or 7 mora in Japanese poetry; of 4, 5, or 7 characters in Chinese poetry), haiku, first 17 morae of a renga, etc., maxim, saying, idiom, expression, clause (e.g. in a database query language)"
         },
         "romaji": "ku"
       },
@@ -274,7 +299,8 @@
         "example": "区切り",
         "reading": "クギリ",
         "meaning": {
-          "vi": "pause (in speech, writing, etc.), punctuation, break, end, (place to) stop, pause, milestone (e.g. in a project)"
+          "vi": "sự ngắt (trong lời nói, văn viết...), dấu câu, quãng nghỉ, kết thúc, chỗ dừng, cột mốc",
+          "en": "pause (in speech, writing, etc.), punctuation, break, end, (place to) stop, pause, milestone (e.g. in a project)"
         },
         "romaji": "kugiri"
       },
@@ -282,7 +308,8 @@
         "example": "絶句",
         "reading": "ゼック",
         "meaning": {
-          "vi": "being lost for words, becoming speechless, jueju (Chinese quatrain with lines of either five or seven syllables)"
+          "vi": "bí lời, nên câm lặng, thể thơ tuyệt cú Trung Hoa",
+          "en": "being lost for words, becoming speechless, jueju (Chinese quatrain with lines of either five or seven syllables)"
         },
         "romaji": "zekku"
       },
@@ -290,7 +317,8 @@
         "example": "慣用句",
         "reading": "カンヨウク",
         "meaning": {
-          "vi": "idiom, set phrase, idiomatic phrase"
+          "vi": "thành ngữ, cụm từ cố định, cách nói thành ngữ",
+          "en": "idiom, set phrase, idiomatic phrase"
         },
         "romaji": "kan'youku"
       }
@@ -298,7 +326,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "勹",
@@ -309,6 +340,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e5.gif",
     "uri": "https://jisho.org/search/%E5%8F%A5%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: nét bao ngoài ôm lấy miệng 口 như gom chữ thành một câu, nên 句 là câu, mệnh đề.",
   "hanViet": [
     "câu",
     "cú",

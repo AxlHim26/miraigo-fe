@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2122",
     "strokeCount": 12,
-    "meaning": "hollyhock",
+    "meaning": {
+      "en": "hollyhock",
+      "vi": "cây thục quỳ"
+    },
     "kunyomi": [
       "あおい"
     ],
@@ -19,7 +22,8 @@
         "example": "葵花",
         "reading": "キカ",
         "meaning": {
-          "en": "sunflower"
+          "en": "sunflower",
+          "vi": "hoa hướng dương"
         },
         "romaji": "kika"
       },
@@ -27,7 +31,8 @@
         "example": "戎葵",
         "reading": "ジュウキ",
         "meaning": {
-          "en": "hollyhock"
+          "en": "hollyhock",
+          "vi": "cây thục quỳ"
         },
         "romaji": "juuki"
       },
@@ -35,7 +40,8 @@
         "example": "黄蜀葵",
         "reading": "トロロアオイ",
         "meaning": {
-          "en": "sunset hibiscus (Hibiscus manihot)"
+          "en": "sunset hibiscus (Hibiscus manihot)",
+          "vi": "dâm bụt hoàng hôn (Hibiscus manihot)"
         },
         "romaji": "tororoaoi"
       }
@@ -45,6 +51,7 @@
         "example": "葵",
         "reading": "あおい",
         "meaning": {
+          "en": "mallow (any plant of family Malvaceae), Asarum caulescens (species of wild ginger)",
           "vi": "mallow (any plant of family Malvaceae), Asarum caulescens (species of wild ginger)"
         },
         "romaji": "aoi"
@@ -53,6 +60,7 @@
         "example": "葵色",
         "reading": "あおいいろ",
         "meaning": {
+          "en": "purple, lavender",
           "vi": "purple, lavender"
         },
         "romaji": "aoiiro"
@@ -61,6 +69,7 @@
         "example": "布袋葵",
         "reading": "ほていあおい",
         "meaning": {
+          "en": "common water hyacinth (Pontederia crassipes)",
           "vi": "common water hyacinth (Pontederia crassipes)"
         },
         "romaji": "hoteiaoi"
@@ -69,6 +78,7 @@
         "example": "天竺葵",
         "reading": "てんじくあおい",
         "meaning": {
+          "en": "geranium (Pelargonium inquinans)",
           "vi": "geranium (Pelargonium inquinans)"
         },
         "romaji": "tenjikuaoi"
@@ -79,7 +89,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [
       "ノ",

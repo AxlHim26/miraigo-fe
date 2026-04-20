@@ -5,7 +5,10 @@
     "query": "佇",
     "found": true,
     "strokeCount": 7,
-    "meaning": "stop, linger, appearance, figure, bearing",
+    "meaning": {
+      "en": "stop, linger, appearance, figure, bearing",
+      "vi": "dừng lại, nấn ná, dáng vẻ, hình dáng, phong thái"
+    },
     "kunyomi": [
       "たたず.む"
     ],
@@ -17,7 +20,8 @@
         "example": "佇立",
         "reading": "チョリツ",
         "meaning": {
-          "en": "standing still"
+          "en": "standing still",
+          "vi": "đứng yên"
         },
         "romaji": "choritsu"
       }
@@ -27,6 +31,7 @@
         "example": "佇む",
         "reading": "たたずむ",
         "meaning": {
+          "en": "to stand (still) a while, to loiter, to stop",
           "vi": "to stand (still) a while, to loiter, to stop"
         },
         "romaji": "tatazumu"
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

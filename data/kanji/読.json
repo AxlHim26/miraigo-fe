@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "yo, yomu",
-    "meaning": "read",
+    "meaning": {
+      "en": "read",
+      "vi": "đọc"
+    },
     "kstroke": 14,
     "examples": [
       {
         "japanese": "読者（どくしゃ）",
         "meaning": {
-          "english": "reader"
+          "english": "reader",
+          "en": "reader",
+          "vi": "người đọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "読書（どくしょ）",
         "meaning": {
-          "english": "reading"
+          "english": "reading",
+          "en": "reading",
+          "vi": "đọc sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "読解力（どっかいりょく）",
         "meaning": {
-          "english": "reading ability"
+          "english": "reading ability",
+          "en": "reading ability",
+          "vi": "khả năng đọc hiểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "読本（とくほん）",
         "meaning": {
-          "english": "a reading primer"
+          "english": "a reading primer",
+          "en": "a reading primer",
+          "vi": "sách tập đọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "読点（とうてん）",
         "meaning": {
-          "english": "comma"
+          "english": "comma",
+          "en": "comma",
+          "vi": "dấu phẩy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "読む（よむ）",
         "meaning": {
-          "english": "read"
+          "english": "read",
+          "en": "read",
+          "vi": "đọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "読売新聞（よみうりしんぶん）",
         "meaning": {
-          "english": "Yomiuri (newspaper)"
+          "english": "Yomiuri (newspaper)",
+          "en": "Yomiuri (newspaper)",
+          "vi": "báo Yomiuri"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "立ち読みする（たちよみする）",
         "meaning": {
-          "english": "browse in a bookstore"
+          "english": "browse in a bookstore",
+          "en": "browse in a bookstore",
+          "vi": "đọc lướt sách ở hiệu sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "読み方（よみかた）",
         "meaning": {
-          "english": "way of reading"
+          "english": "way of reading",
+          "en": "way of reading",
+          "vi": "cách đọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "読み直す（よみなおす）",
         "meaning": {
-          "english": "read something over again"
+          "english": "read something over again",
+          "en": "read something over again",
+          "vi": "đọc lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(mu)_06_j.opus",
@@ -286,7 +309,9 @@
     "kanji": {
       "character": "読",
       "meaning": {
-        "english": "read"
+        "english": "read",
+        "en": "read",
+        "vi": "đọc"
       },
       "strokes": {
         "count": 14,
@@ -352,7 +377,9 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say",
+        "en": "words, to speak, say",
+        "vi": "lời nói, nói"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -373,7 +400,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "618",
     "strokeCount": 14,
-    "meaning": "read",
+    "meaning": {
+      "en": "read",
+      "vi": "đọc"
+    },
     "kunyomi": [
       "よ.む",
       "-よ.み"
@@ -388,7 +418,8 @@
         "example": "読書",
         "reading": "ドクショ",
         "meaning": {
-          "en": "reading (books)"
+          "en": "reading (books)",
+          "vi": "việc đọc sách"
         },
         "romaji": "dokusho"
       },
@@ -396,7 +427,8 @@
         "example": "読者",
         "reading": "ドクシャ",
         "meaning": {
-          "en": "reader"
+          "en": "reader",
+          "vi": "người đọc"
         },
         "romaji": "dokusha"
       },
@@ -404,7 +436,8 @@
         "example": "積ん読",
         "reading": "ツンドク",
         "meaning": {
-          "vi": "buying books and not reading them, stockpiling books, tsundoku, books bought but not read"
+          "vi": "mua sách mà không đọc, chất đống sách",
+          "en": "buying books and not reading them, stockpiling books, tsundoku, books bought but not read"
         },
         "romaji": "tsundoku"
       },
@@ -412,7 +445,8 @@
         "example": "必読",
         "reading": "ヒツドク",
         "meaning": {
-          "en": "must-read, required reading"
+          "en": "must-read, required reading",
+          "vi": "bài đọc bắt buộc"
         },
         "romaji": "hitsudoku"
       },
@@ -420,7 +454,8 @@
         "example": "読書",
         "reading": "ドクショ",
         "meaning": {
-          "en": "reading (books)"
+          "en": "reading (books)",
+          "vi": "việc đọc sách"
         },
         "romaji": "dokusho"
       },
@@ -428,7 +463,8 @@
         "example": "読本",
         "reading": "トクホン",
         "meaning": {
-          "vi": "reading-book, reader, guidebook, manual, textbook (esp. a pre-war elementary school Japanese language textbook)"
+          "vi": "sách đọc, sách hướng dẫn, cẩm nang, sách giáo khoa",
+          "en": "reading-book, reader, guidebook, manual, textbook (esp. a pre-war elementary school Japanese language textbook)"
         },
         "romaji": "tokuhon"
       },
@@ -436,7 +472,8 @@
         "example": "読点",
         "reading": "トウテン",
         "meaning": {
-          "en": "comma"
+          "en": "comma",
+          "vi": "dấu phẩy"
         },
         "romaji": "touten"
       },
@@ -444,7 +481,8 @@
         "example": "句読",
         "reading": "クトウ",
         "meaning": {
-          "vi": "breaks and pauses (in a sentence), punctuation, way of reading (esp. kanbun)"
+          "vi": "chỗ ngắt câu, dấu câu, cách đọc",
+          "en": "breaks and pauses (in a sentence), punctuation, way of reading (esp. kanbun)"
         },
         "romaji": "kutou"
       },
@@ -452,7 +490,8 @@
         "example": "吏読",
         "reading": "リト",
         "meaning": {
-          "vi": "Idu (archaic writing system that uses Chinese characters to represent the Korean language)"
+          "vi": "Idu, hệ thống chữ viết cổ dùng Hán tự để ghi tiếng Hàn",
+          "en": "Idu (archaic writing system that uses Chinese characters to represent the Korean language)"
         },
         "romaji": "rito"
       }
@@ -462,7 +501,8 @@
         "example": "読む",
         "reading": "よむ",
         "meaning": {
-          "vi": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
+          "vi": "đọc, tụng, đoán, dự báo, đọc suy nghĩ, phát âm, giải mã, đọc biểu đồ hay nhạc, xem giờ, đếm, ước lượng",
+          "en": "to read, to recite (e.g. a sutra), to chant, to predict, to guess, to forecast, to read (someone's thoughts), to see (e.g. into someone's heart), to divine, to pronounce, to read (e.g. a kanji), to decipher, to read (a meter, graph, music, etc.), to tell (the time), to count, to estimate, to read (a kanji) with its native Japanese reading"
         },
         "romaji": "yomu"
       }
@@ -472,7 +512,10 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": {
+        "en": "speech",
+        "vi": "lời nói"
+      }
     },
     "parts": [
       "儿",
@@ -488,5 +531,6 @@
   "hanViet": [
     "đậu",
     "độc"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: bên trái là lời chữ, bên phải gợi âm, nhìn 読 như đang đọc chữ thành tiếng."
 }

@@ -5,7 +5,10 @@
     "query": "佞",
     "found": true,
     "strokeCount": 7,
-    "meaning": "flattery, insincerity",
+    "meaning": {
+      "en": "flattery, insincerity",
+      "vi": "sự nịnh hót, giả dối"
+    },
     "kunyomi": [
       "おもね.る",
       "よこしま"
@@ -18,7 +21,8 @@
         "example": "佞",
         "reading": "ネイ",
         "meaning": {
-          "en": "flattery, insincerity"
+          "en": "flattery, insincerity",
+          "vi": "sự nịnh hót, giả dối"
         },
         "romaji": "nei"
       },
@@ -26,7 +30,8 @@
         "example": "佞悪",
         "reading": "ネイアク",
         "meaning": {
-          "vi": "perverseness, perverse person"
+          "en": "perverseness, perverse person",
+          "vi": "sự trái nết, kẻ trái nết"
         },
         "romaji": "neiaku"
       },
@@ -34,7 +39,8 @@
         "example": "便佞",
         "reading": "ベンネイ",
         "meaning": {
-          "en": "flattery, adulation"
+          "en": "flattery, adulation",
+          "vi": "sự nịnh bợ, tâng bốc"
         },
         "romaji": "bennei"
       },
@@ -42,7 +48,8 @@
         "example": "阿諛便佞",
         "reading": "アユベンネイ",
         "meaning": {
-          "vi": "flattery, adulation, sycophancy"
+          "en": "flattery, adulation, sycophancy",
+          "vi": "sự nịnh bợ, tâng bốc, xu nịnh"
         },
         "romaji": "ayubennei"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "二",

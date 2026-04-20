@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "tama",
-    "meaning": "gem, jewel, ball",
+    "meaning": {
+      "en": "gem, jewel, ball",
+      "vi": "ngọc, châu báu, quả cầu"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "玉座（ぎょくざ）",
         "meaning": {
-          "english": "throne"
+          "english": "throne",
+          "en": "throne",
+          "vi": "ngai vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyoku-tama_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "玉石混淆（ぎょくせきこんこう）",
         "meaning": {
-          "english": "mixture of wheat and chaff"
+          "english": "mixture of wheat and chaff",
+          "en": "mixture of wheat and chaff",
+          "vi": "hỗn hợp lúa mì và trấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyoku-tama_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "玉（たま）",
         "meaning": {
-          "english": "ball, jewel"
+          "english": "ball, jewel",
+          "en": "ball, jewel",
+          "vi": "quả cầu, châu báu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyoku-tama_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "玉子（たまご）",
         "meaning": {
-          "english": "egg"
+          "english": "egg",
+          "en": "egg",
+          "vi": "trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyoku-tama_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "玉葱（たまねぎ）",
         "meaning": {
-          "english": "onion"
+          "english": "onion",
+          "en": "onion",
+          "vi": "hành tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyoku-tama_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "水玉模様（みずたまもよう）",
         "meaning": {
-          "english": "polka dots"
+          "english": "polka dots",
+          "en": "polka dots",
+          "vi": "họa tiết chấm bi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyoku-tama_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "目玉（めだま）",
         "meaning": {
-          "english": "eyeball"
+          "english": "eyeball",
+          "en": "eyeball",
+          "vi": "nhãn cầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyoku-tama_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "鉄砲玉（てっぽうだま）",
         "meaning": {
-          "english": "bullet"
+          "english": "bullet",
+          "en": "bullet",
+          "vi": "viên đạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyoku-tama_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "十円玉（じゅうえんだま）",
         "meaning": {
-          "english": "10 yen coin"
+          "english": "10 yen coin",
+          "en": "10 yen coin",
+          "vi": "đồng 10 yên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyoku-tama_06_i.opus",
@@ -219,7 +240,9 @@
     "kanji": {
       "character": "玉",
       "meaning": {
-        "english": "gem, jewel, ball"
+        "english": "gem, jewel, ball",
+        "en": "gem, jewel, ball",
+        "vi": "ngọc, châu báu, quả cầu"
       },
       "strokes": {
         "count": 5,
@@ -267,7 +290,9 @@
         "romaji": "tama"
       },
       "meaning": {
-        "english": "jewelry"
+        "english": "jewelry",
+        "en": "jewelry",
+        "vi": "trang sức"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tama0.svg",
@@ -288,7 +313,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "737",
     "strokeCount": 5,
-    "meaning": "jewel, ball",
+    "meaning": {
+      "en": "jewel, ball",
+      "vi": "châu báu, quả cầu"
+    },
     "kunyomi": [
       "たま",
       "たま-",
@@ -302,7 +330,8 @@
         "example": "玉",
         "reading": "ギョク",
         "meaning": {
-          "vi": "precious stone (esp. jade), egg (esp. as a sushi topping), stock or security being traded, product being bought or sold, position (in finance, the amount of a security either owned or owed by an investor or dealer), geisha, time charge for a geisha, king (of the junior player)"
+          "vi": "precious stone (esp. jade), egg (esp. as a sushi topping), stock or security being traded, product being bought or sold, position (in finance, the amount of a security either owned or owed by an investor or dealer), geisha, time charge for a geisha, king (of the junior player)",
+          "en": "precious stone (esp. jade), egg (esp. as a sushi topping), stock or security being traded, product being bought or sold, position (in finance, the amount of a security either owned or owed by an investor or dealer), geisha, time charge for a geisha, king (of the junior player)"
         },
         "romaji": "gyoku"
       },
@@ -310,7 +339,8 @@
         "example": "玉音",
         "reading": "ギョクオン",
         "meaning": {
-          "vi": "the Emperor's voice, beautiful voice, beautiful sound"
+          "vi": "the Emperor's voice, beautiful voice, beautiful sound",
+          "en": "the Emperor's voice, beautiful voice, beautiful sound"
         },
         "romaji": "gyokuon"
       },
@@ -318,7 +348,8 @@
         "example": "珠玉",
         "reading": "シュギョク",
         "meaning": {
-          "vi": "jewel, gem, gem (of a story, essay, etc.), accomplished work, beautiful piece"
+          "vi": "jewel, gem, gem (of a story, essay, etc.), accomplished work, beautiful piece",
+          "en": "jewel, gem, gem (of a story, essay, etc.), accomplished work, beautiful piece"
         },
         "romaji": "shugyoku"
       },
@@ -326,7 +357,8 @@
         "example": "居玉",
         "reading": "イギョク",
         "meaning": {
-          "vi": "playing with one's king in its original starting position, sitting king"
+          "vi": "playing with one's king in its original starting position, sitting king",
+          "en": "playing with one's king in its original starting position, sitting king"
         },
         "romaji": "igyoku"
       }
@@ -336,7 +368,8 @@
         "example": "玉",
         "reading": "たま",
         "meaning": {
-          "vi": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent"
+          "vi": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent",
+          "en": "ball, sphere, globe, orb, bead (of sweat, dew, etc.), drop, droplet, ball (in sports), pitch (e.g. in baseball), pile (of noodles, etc.), bullet, bulb (i.e. a light bulb), lens (of glasses, etc.), bead (of an abacus), ball (i.e. a testicle), gem, jewel (esp. spherical; sometimes used figuratively), pearl, female entertainer (e.g. a geisha), person (when commenting on their nature), character, item, funds or person used as part of a plot, egg, okonomiyaki, coin, precious, beautiful, excellent"
         },
         "romaji": "tama"
       },
@@ -344,7 +377,8 @@
         "example": "卵",
         "reading": "たまご",
         "meaning": {
-          "vi": "eggs, egg, spawn, roe, (hen's) egg, a ... in the making, future (lawyer, doctor, etc.), budding ..., beginning, origin, infancy"
+          "vi": "eggs, egg, spawn, roe, (hen's) egg, a ... in the making, future (lawyer, doctor, etc.), budding ..., beginning, origin, infancy",
+          "en": "eggs, egg, spawn, roe, (hen's) egg, a ... in the making, future (lawyer, doctor, etc.), budding ..., beginning, origin, infancy"
         },
         "romaji": "tamago"
       },
@@ -352,7 +386,8 @@
         "example": "埼玉",
         "reading": "さいたま",
         "meaning": {
-          "vi": "Saitama (city, prefecture)"
+          "vi": "Saitama (city, prefecture)",
+          "en": "Saitama (city, prefecture)"
         },
         "romaji": "saitama"
       },
@@ -360,7 +395,8 @@
         "example": "勾玉",
         "reading": "まがたま",
         "meaning": {
-          "vi": "magatama, comma-shaped bead from prehistoric Japan, usually made of jade"
+          "vi": "magatama, comma-shaped bead from prehistoric Japan, usually made of jade",
+          "en": "magatama, comma-shaped bead from prehistoric Japan, usually made of jade"
         },
         "romaji": "magatama"
       }
@@ -370,7 +406,10 @@
       "forms": [
         "王"
       ],
-      "meaning": "jade (king)"
+      "meaning": {
+        "en": "jade (king)",
+        "vi": "ngọc bích (bộ vua)"
+      }
     },
     "parts": [
       "丶",
@@ -384,5 +423,7 @@
   "hanViet": [
     "ngọc",
     "túc"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: viên ngọc nhỏ có chấm sáng ở cạnh, nhìn như hạt ngọc lấp lánh."
 }

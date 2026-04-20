@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "koe, kowa",
-    "meaning": "voice",
+    "meaning": {
+      "en": "voice",
+      "vi": "giọng nói"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "発声する（はっせいする）",
         "meaning": {
-          "english": "make an utterance"
+          "english": "make an utterance",
+          "en": "make an utterance",
+          "vi": "cất tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koe_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "音声（おんせい）",
         "meaning": {
-          "english": "voice, sound"
+          "english": "voice, sound",
+          "en": "voice, sound",
+          "vi": "giọng nói, âm thanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koe_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "名声（めいせい）",
         "meaning": {
-          "english": "fame"
+          "english": "fame",
+          "en": "fame",
+          "vi": "danh tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koe_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "擬声語（ぎせいご）",
         "meaning": {
-          "english": "onomatopoeia"
+          "english": "onomatopoeia",
+          "en": "onomatopoeia",
+          "vi": "từ tượng thanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koe_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "声援（せいえん）",
         "meaning": {
-          "english": "cheering"
+          "english": "cheering",
+          "en": "cheering",
+          "vi": "cổ vũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koe_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "大音声（だいおんじょう）",
         "meaning": {
-          "english": "very loud voice"
+          "english": "very loud voice",
+          "en": "very loud voice",
+          "vi": "giọng rất to"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koe_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "声（こえ）",
         "meaning": {
-          "english": "voice"
+          "english": "voice",
+          "en": "voice",
+          "vi": "giọng nói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koe_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "大声（おおごえ）",
         "meaning": {
-          "english": "loud voice"
+          "english": "loud voice",
+          "en": "loud voice",
+          "vi": "giọng to"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koe_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "小声（こごえ）",
         "meaning": {
-          "english": "low voice"
+          "english": "low voice",
+          "en": "low voice",
+          "vi": "giọng nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koe_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "声色（こわいろ）",
         "meaning": {
-          "english": "tone of voice"
+          "english": "tone of voice",
+          "en": "tone of voice",
+          "vi": "ngữ điệu giọng nói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koe_06_j.opus",
@@ -264,7 +287,9 @@
     "kanji": {
       "character": "声",
       "meaning": {
-        "english": "voice"
+        "english": "voice",
+        "en": "voice",
+        "vi": "giọng nói"
       },
       "strokes": {
         "count": 7,
@@ -316,7 +341,9 @@
         "romaji": "samuraikanmuri"
       },
       "meaning": {
-        "english": "man, scholar, samurai"
+        "english": "man, scholar, samurai",
+        "en": "man, scholar, samurai",
+        "vi": "người, học giả, võ sĩ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/samuraikanmuri0.svg",
@@ -337,7 +364,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "388",
     "strokeCount": 7,
-    "meaning": "voice",
+    "meaning": {
+      "en": "voice",
+      "vi": "giọng nói"
+    },
     "kunyomi": [
       "こえ",
       "こわ-"
@@ -351,7 +381,8 @@
         "example": "声楽",
         "reading": "セイガク",
         "meaning": {
-          "en": "vocal music"
+          "en": "vocal music",
+          "vi": "thanh nhạc"
         },
         "romaji": "seigaku"
       },
@@ -359,7 +390,8 @@
         "example": "声援",
         "reading": "セイエン",
         "meaning": {
-          "vi": "(shout of) encouragement, cheering, rooting, support"
+          "vi": "(shout of) encouragement, cheering, rooting, support",
+          "en": "(shout of) encouragement, cheering, rooting, support"
         },
         "romaji": "seien"
       },
@@ -367,7 +399,8 @@
         "example": "肉声",
         "reading": "ニクセイ",
         "meaning": {
-          "vi": "natural voice (without a microphone)"
+          "vi": "natural voice (without a microphone)",
+          "en": "natural voice (without a microphone)"
         },
         "romaji": "nikusei"
       },
@@ -375,7 +408,8 @@
         "example": "和声",
         "reading": "ワセイ",
         "meaning": {
-          "en": "harmony, concord, consonance"
+          "en": "harmony, concord, consonance",
+          "vi": "sự hòa hợp, hòa âm"
         },
         "romaji": "wasei"
       },
@@ -383,7 +417,8 @@
         "example": "声",
         "reading": "ショウ",
         "meaning": {
-          "vi": "voice, sound, tone (of Chinese character), tone mark, stress (in pronunciation), intonation, accent"
+          "vi": "voice, sound, tone (of Chinese character), tone mark, stress (in pronunciation), intonation, accent",
+          "en": "voice, sound, tone (of Chinese character), tone mark, stress (in pronunciation), intonation, accent"
         },
         "romaji": "shou"
       },
@@ -391,7 +426,8 @@
         "example": "声点",
         "reading": "ショウテン",
         "meaning": {
-          "vi": "tone mark, mark placed in one of the four corners of a Chinese character to indicate the tone"
+          "vi": "tone mark, mark placed in one of the four corners of a Chinese character to indicate the tone",
+          "en": "tone mark, mark placed in one of the four corners of a Chinese character to indicate the tone"
         },
         "romaji": "shouten"
       },
@@ -399,7 +435,8 @@
         "example": "高声",
         "reading": "コウセイ",
         "meaning": {
-          "vi": "loud voice, high-pitched voice"
+          "vi": "loud voice, high-pitched voice",
+          "en": "loud voice, high-pitched voice"
         },
         "romaji": "kousei"
       },
@@ -407,7 +444,8 @@
         "example": "上声",
         "reading": "ジョウショウ",
         "meaning": {
-          "vi": "rising tone (in Chinese), (of a Japanese accent) having a high, flat tone"
+          "vi": "rising tone (in Chinese), (of a Japanese accent) having a high, flat tone",
+          "en": "rising tone (in Chinese), (of a Japanese accent) having a high, flat tone"
         },
         "romaji": "joushou"
       }
@@ -417,7 +455,8 @@
         "example": "声",
         "reading": "こえ",
         "meaning": {
-          "vi": "voice, singing (of a bird), chirping (of an insect), hoot, voice, opinion (as expressed in words), view, wish, attitude, will, sound, sense (of something's arrival), feeling, voice, voiced sound"
+          "vi": "voice, singing (of a bird), chirping (of an insect), hoot, voice, opinion (as expressed in words), view, wish, attitude, will, sound, sense (of something's arrival), feeling, voice, voiced sound",
+          "en": "voice, singing (of a bird), chirping (of an insect), hoot, voice, opinion (as expressed in words), view, wish, attitude, will, sound, sense (of something's arrival), feeling, voice, voiced sound"
         },
         "romaji": "koe"
       },
@@ -425,7 +464,8 @@
         "example": "声かけ",
         "reading": "こえかけ",
         "meaning": {
-          "vi": "saying something (to someone), greeting, approaching (someone)"
+          "vi": "saying something (to someone), greeting, approaching (someone)",
+          "en": "saying something (to someone), greeting, approaching (someone)"
         },
         "romaji": "koekake"
       },
@@ -433,7 +473,8 @@
         "example": "一声",
         "reading": "いっせい",
         "meaning": {
-          "en": "voice, cry, shout"
+          "en": "voice, cry, shout",
+          "vi": "tiếng nói, tiếng kêu, tiếng hô"
         },
         "romaji": "issei"
       },
@@ -441,14 +482,18 @@
         "example": "険しい声",
         "reading": "けわしいこえ",
         "meaning": {
-          "vi": "sharp voice"
+          "vi": "sharp voice",
+          "en": "sharp voice"
         },
         "romaji": "kewashiikoe"
       }
     ],
     "radical": {
       "symbol": "士",
-      "meaning": "scholar, bachelor"
+      "meaning": {
+        "en": "scholar, bachelor",
+        "vi": "học giả, cử nhân"
+      }
     },
     "parts": [
       "士",
@@ -461,5 +506,7 @@
   },
   "hanViet": [
     "thanh"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng phát ra âm từ trong nhà nên thành tiếng nói."
 }

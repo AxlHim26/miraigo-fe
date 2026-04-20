@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "implement, tool",
+    "meaning": {
+      "en": "implement, tool",
+      "vi": "dụng cụ, công cụ"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "具（ぐ）",
         "meaning": {
-          "english": "ingredients"
+          "english": "ingredients",
+          "en": "ingredients",
+          "vi": "nguyên liệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "道具（どうぐ）",
         "meaning": {
-          "english": "tool"
+          "english": "tool",
+          "en": "tool",
+          "vi": "dụng cụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "家具（かぐ）",
         "meaning": {
-          "english": "furniture"
+          "english": "furniture",
+          "en": "furniture",
+          "vi": "đồ nội thất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "文房具（ぶんぼうぐ）",
         "meaning": {
-          "english": "stationery"
+          "english": "stationery",
+          "en": "stationery",
+          "vi": "văn phòng phẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "用具（ようぐ）",
         "meaning": {
-          "english": "tool"
+          "english": "tool",
+          "en": "tool",
+          "vi": "dụng cụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "具合（ぐあい）",
         "meaning": {
-          "english": "condition [n.]"
+          "english": "condition [n.]",
+          "en": "condition [n.]",
+          "vi": "tình trạng [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "具体的な（ぐたいてきな）",
         "meaning": {
-          "english": "concrete [adj.]"
+          "english": "concrete [adj.]",
+          "en": "concrete [adj.]",
+          "vi": "cụ thể [tính từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "具備する（ぐびする）",
         "meaning": {
-          "english": "be furnished/equipped with [v.t.]"
+          "english": "be furnished/equipped with [v.t.]",
+          "en": "be furnished/equipped with [v.t.]",
+          "vi": "được trang bị, được cung cấp [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(dou)gu_06_h.opus",
@@ -209,7 +228,9 @@
     "kanji": {
       "character": "具",
       "meaning": {
-        "english": "implement, tool"
+        "english": "implement, tool",
+        "en": "implement, tool",
+        "vi": "dụng cụ, công cụ"
       },
       "strokes": {
         "count": 8,
@@ -263,7 +284,9 @@
         "romaji": "hachi"
       },
       "meaning": {
-        "english": "eight"
+        "english": "eight",
+        "en": "eight",
+        "vi": "tám"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hachi0.svg",
@@ -284,7 +307,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "629",
     "strokeCount": 8,
-    "meaning": "tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+    "meaning": {
+      "en": "tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture",
+      "vi": "dụng cụ, đồ dùng, phương tiện, sở hữu, nguyên liệu, từ đếm cho áo giáp, bộ đồ, bộ bàn ghế"
+    },
     "kunyomi": [
       "そな.える",
       "つぶさ.に"
@@ -297,7 +323,8 @@
         "example": "具",
         "reading": "グ",
         "meaning": {
-          "vi": "tool, means, ingredients (added to soup, rice, etc.), counter for sets of armor, utensils, furniture, etc."
+          "vi": "tool, means, ingredients (added to soup, rice, etc.), counter for sets of armor, utensils, furniture, etc.",
+          "en": "tool, means, ingredients (added to soup, rice, etc.), counter for sets of armor, utensils, furniture, etc."
         },
         "romaji": "gu"
       },
@@ -305,7 +332,8 @@
         "example": "具合",
         "reading": "グアイ",
         "meaning": {
-          "vi": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety"
+          "vi": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety",
+          "en": "condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety"
         },
         "romaji": "guai"
       },
@@ -313,7 +341,8 @@
         "example": "文具",
         "reading": "ブング",
         "meaning": {
-          "en": "stationery"
+          "en": "stationery",
+          "vi": "văn phòng phẩm"
         },
         "romaji": "bungu"
       },
@@ -321,7 +350,8 @@
         "example": "金具",
         "reading": "カナグ",
         "meaning": {
-          "en": "metal fittings, metal fixtures"
+          "en": "metal fittings, metal fixtures",
+          "vi": "phụ kiện kim loại, đồ gá kim loại"
         },
         "romaji": "kanagu"
       }
@@ -331,7 +361,8 @@
         "example": "備える",
         "reading": "そなえる",
         "meaning": {
-          "vi": "to furnish with, to equip with, to provide, to install, to prepare for, to make preparations for, to make provision for, to possess (all that is needed), to be endowed with, to be equipped with, to be born with, to have since birth"
+          "vi": "to furnish with, to equip with, to provide, to install, to prepare for, to make preparations for, to make provision for, to possess (all that is needed), to be endowed with, to be equipped with, to be born with, to have since birth",
+          "en": "to furnish with, to equip with, to provide, to install, to prepare for, to make preparations for, to make provision for, to possess (all that is needed), to be endowed with, to be equipped with, to be born with, to have since birth"
         },
         "romaji": "sonaeru"
       },
@@ -339,14 +370,18 @@
         "example": "具に",
         "reading": "つぶさに",
         "meaning": {
-          "vi": "in detail, with great care, completely, fully"
+          "vi": "in detail, with great care, completely, fully",
+          "en": "in detail, with great care, completely, fully"
         },
         "romaji": "tsubusani"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": {
+        "en": "eight",
+        "vi": "tám"
+      }
     },
     "parts": [
       "ハ",

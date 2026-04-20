@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tsuta, tsutawaru, tsutaeru, tsutau, tsutai",
-    "meaning": "transmit",
+    "meaning": {
+      "en": "transmit",
+      "vi": "truyền đạt, truyền"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "伝統（でんとう）",
         "meaning": {
-          "english": "tradition"
+          "english": "tradition",
+          "en": "tradition",
+          "vi": "truyền thống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuta(waru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "以心伝心（いしんでんしん）",
         "meaning": {
-          "english": "tacit understanding"
+          "english": "tacit understanding",
+          "en": "tacit understanding",
+          "vi": "sự hiểu ngầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuta(waru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "伝言する（でんごんする）",
         "meaning": {
-          "english": "convey message"
+          "english": "convey message",
+          "en": "convey message",
+          "vi": "chuyển lời nhắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuta(waru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "伝達する（でんたつする）",
         "meaning": {
-          "english": "convey (e.g. news)"
+          "english": "convey (e.g. news)",
+          "en": "convey (e.g. news)",
+          "vi": "truyền đạt (ví dụ tin tức)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuta(waru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "伝染する（でんせんする）",
         "meaning": {
-          "english": "transmit (e.g. disease)"
+          "english": "transmit (e.g. disease)",
+          "en": "transmit (e.g. disease)",
+          "vi": "lây truyền (ví dụ bệnh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuta(waru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "宣伝する（せんでんする）",
         "meaning": {
-          "english": "advertise"
+          "english": "advertise",
+          "en": "advertise",
+          "vi": "quảng bá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuta(waru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "遺伝する（いでんする）",
         "meaning": {
-          "english": "be passed on (e.g. heredity)"
+          "english": "be passed on (e.g. heredity)",
+          "en": "be passed on (e.g. heredity)",
+          "vi": "được truyền lại (ví dụ tính di truyền)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuta(waru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "伝える（つたえる）",
         "meaning": {
-          "english": "tell"
+          "english": "tell",
+          "en": "tell",
+          "vi": "kể, báo cho biết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuta(waru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "伝わる（つたわる）",
         "meaning": {
-          "english": "be transmitted"
+          "english": "be transmitted",
+          "en": "be transmitted",
+          "vi": "được truyền đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuta(waru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "手伝う（てつだう）",
         "meaning": {
-          "english": "assist"
+          "english": "assist",
+          "en": "assist",
+          "vi": "giúp đỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuta(waru)_06_j.opus",
@@ -284,7 +307,9 @@
     "kanji": {
       "character": "伝",
       "meaning": {
-        "english": "transmit"
+        "english": "transmit",
+        "en": "transmit",
+        "vi": "truyền đạt, truyền"
       },
       "strokes": {
         "count": 6,
@@ -334,7 +359,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -355,7 +382,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "416",
     "strokeCount": 6,
-    "meaning": "transmit, go along, walk along, follow, report, communicate, legend, tradition",
+    "meaning": {
+      "en": "transmit, go along, walk along, follow, report, communicate, legend, tradition",
+      "vi": "truyền đạt, đi dọc theo, bước theo, theo, báo cáo, giao tiếp, truyền thuyết, truyền thống"
+    },
     "kunyomi": [
       "つた.わる",
       "つた.える",
@@ -373,7 +403,8 @@
         "example": "伝",
         "reading": "デン",
         "meaning": {
-          "vi": "legend, tradition, biography, life, method, way, horseback transportation and communication relay system used in ancient Japan"
+          "vi": "legend, tradition, biography, life, method, way, horseback transportation and communication relay system used in ancient Japan",
+          "en": "truyền thuyết, truyền thống, tiểu sử, cuộc đời, phương pháp, cách thức, hệ thống trạm chuyển thư/ngựa dùng trong Nhật Bản cổ đại"
         },
         "romaji": "den"
       },
@@ -381,7 +412,8 @@
         "example": "伝記",
         "reading": "デンキ",
         "meaning": {
-          "vi": "biography, life story"
+          "vi": "biography, life story",
+          "en": "tiểu sử, chuyện đời"
         },
         "romaji": "denki"
       },
@@ -389,7 +421,8 @@
         "example": "駅伝",
         "reading": "エキデン",
         "meaning": {
-          "vi": "long-distance relay race, stagecoach, post horse"
+          "vi": "long-distance relay race, stagecoach, post horse",
+          "en": "cuộc đua tiếp sức đường dài, xe ngựa trạm, ngựa đưa thư"
         },
         "romaji": "ekiden"
       },
@@ -397,7 +430,8 @@
         "example": "評伝",
         "reading": "ヒョウデン",
         "meaning": {
-          "vi": "critical biography"
+          "vi": "critical biography",
+          "en": "phê bình tiểu sử"
         },
         "romaji": "hyouden"
       },
@@ -405,7 +439,8 @@
         "example": "転手",
         "reading": "テンジュ",
         "meaning": {
-          "vi": "tuning peg (on a biwa or shamisen)"
+          "vi": "tuning peg (on a biwa or shamisen)",
+          "en": "chốt lên dây (trên đàn biwa hoặc shamisen)"
         },
         "romaji": "tenju"
       },
@@ -413,7 +448,8 @@
         "example": "伝奏",
         "reading": "テンソウ",
         "meaning": {
-          "vi": "delivering a message to the emperor"
+          "vi": "delivering a message to the emperor",
+          "en": "dâng lời tâu lên thiên hoàng"
         },
         "romaji": "tensou"
       }
@@ -423,7 +459,8 @@
         "example": "伝わる",
         "reading": "つたわる",
         "meaning": {
-          "vi": "to spread (of a rumour, news, etc.), to travel, to circulate, to go around, to be passed around, to become known, to be handed down (from generation to generation), to be passed down, to be introduced (to a country, region, etc.), to be brought, to come, to be conveyed (of a feeling, impression, etc.), to be felt, to come across, to travel (of sound, electricity, etc.), to propagate, to be conducted, to be transmitted, to go along, to move along"
+          "vi": "to spread (of a rumour, news, etc.), to travel, to circulate, to go around, to be passed around, to become known, to be handed down (from generation to generation), to be passed down, to be introduced (to a country, region, etc.), to be brought, to come, to be conveyed (of a feeling, impression, etc.), to be felt, to come across, to travel (of sound, electricity, etc.), to propagate, to be conducted, to be transmitted, to go along, to move along",
+          "en": "lan truyền (tin đồn, tin tức, v.v.), di chuyển, lưu hành, truyền tay, trở nên được biết đến, được truyền lại qua các thế hệ, được du nhập (vào quốc gia, khu vực, v.v.), được mang đến, đến nơi, được truyền tải (cảm xúc, ấn tượng, v.v.), được cảm nhận, truyền đi (âm thanh, điện, v.v.), lan truyền, dẫn truyền, truyền đạt, đi dọc theo, dịch chuyển theo"
         },
         "romaji": "tsutawaru"
       },
@@ -431,7 +468,8 @@
         "example": "伝える",
         "reading": "つたえる",
         "meaning": {
-          "vi": "to convey, to report, to transmit, to communicate, to tell, to impart, to propagate, to teach, to bequeath"
+          "vi": "to convey, to report, to transmit, to communicate, to tell, to impart, to propagate, to teach, to bequeath",
+          "en": "truyền đạt, báo cáo, truyền đi, giao tiếp, kể lại, truyền thụ, lan truyền, dạy, để lại"
         },
         "romaji": "tsutaeru"
       },
@@ -439,7 +477,8 @@
         "example": "伝う",
         "reading": "つたう",
         "meaning": {
-          "en": "to go along, to walk along, to follow"
+          "en": "to go along, to walk along, to follow",
+          "vi": "đi dọc theo, bước theo, đi theo"
         },
         "romaji": "tsutau"
       },
@@ -447,7 +486,8 @@
         "example": "伝",
         "reading": "つて",
         "meaning": {
-          "vi": "means of making contact, intermediary, go-between, connections, influence, pull, good offices"
+          "vi": "means of making contact, intermediary, go-between, connections, influence, pull, good offices",
+          "en": "phương tiện liên lạc, trung gian, người mai mối, quan hệ, ảnh hưởng, thế lực, sự giúp sức"
         },
         "romaji": "tsute"
       },
@@ -455,7 +495,8 @@
         "example": "伝言",
         "reading": "つてこと",
         "meaning": {
-          "en": "(verbal) message, word (from someone), rumour, rumor"
+          "en": "(verbal) message, word (from someone), rumour, rumor",
+          "vi": "lời nhắn (bằng miệng), lời gửi, tin đồn"
         },
         "romaji": "tsutekoto"
       },
@@ -463,7 +504,8 @@
         "example": "風のつて",
         "reading": "かぜのつて",
         "meaning": {
-          "vi": "hearsay, rumor, grapevine"
+          "vi": "hearsay, rumor, grapevine",
+          "en": "tin đồn, lời đồn, tin hành lang"
         },
         "romaji": "kazenotsute"
       }
@@ -473,7 +515,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "二",

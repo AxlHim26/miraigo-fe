@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2206",
     "strokeCount": 5,
-    "meaning": "concave, hollow, sunken",
+    "meaning": {
+      "en": "concave, hollow, sunken",
+      "vi": "lõm, rỗng, trũng xuống"
+    },
     "kunyomi": [
       "くぼ.む",
       "へこ.む",
@@ -22,7 +25,8 @@
         "example": "凹",
         "reading": "オウ",
         "meaning": {
-          "en": "concave, hollow, sunken"
+          "en": "concave, hollow, sunken",
+          "vi": "lõm, rỗng, trũng xuống"
         },
         "romaji": "ou"
       },
@@ -30,7 +34,8 @@
         "example": "凹凸",
         "reading": "オウトツ",
         "meaning": {
-          "vi": "unevenness, bumpiness, roughness, ruggedness, imbalance, inequality, unevenness, disparity"
+          "vi": "unevenness, bumpiness, roughness, ruggedness, imbalance, inequality, unevenness, disparity",
+          "en": "unevenness, bumpiness, roughness, ruggedness, imbalance, inequality, unevenness, disparity"
         },
         "romaji": "outotsu"
       },
@@ -38,7 +43,8 @@
         "example": "肋凹",
         "reading": "ロクオウ",
         "meaning": {
-          "en": "costal fovea"
+          "en": "costal fovea",
+          "vi": "hõm sườn"
         },
         "romaji": "rokuou"
       }
@@ -48,7 +54,8 @@
         "example": "窪む",
         "reading": "くぼむ",
         "meaning": {
-          "vi": "to cave in, to become depressed, to sink"
+          "vi": "to cave in, to become depressed, to sink",
+          "en": "to cave in, to become depressed, to sink"
         },
         "romaji": "kubomu"
       },
@@ -56,7 +63,8 @@
         "example": "凹む",
         "reading": "へこむ",
         "meaning": {
-          "vi": "to be dented, to be indented, to yield, to give, to sink, to collapse, to cave in, to be beaten, to be overwhelmed, to yield, to give in, to give up, to be disheartened, to feel down, to feel depressed, to suffer a loss, to lose"
+          "vi": "to be dented, to be indented, to yield, to give, to sink, to collapse, to cave in, to be beaten, to be overwhelmed, to yield, to give in, to give up, to be disheartened, to feel down, to feel depressed, to suffer a loss, to lose",
+          "en": "to be dented, to be indented, to yield, to give, to sink, to collapse, to cave in, to be beaten, to be overwhelmed, to yield, to give in, to give up, to be disheartened, to feel down, to feel depressed, to suffer a loss, to lose"
         },
         "romaji": "hekomu"
       },
@@ -64,7 +72,8 @@
         "example": "発達凸凹",
         "reading": "はったつでこぼこ",
         "meaning": {
-          "vi": "developmental irregularities, developmental disorder, neurodiversity"
+          "vi": "developmental irregularities, developmental disorder, neurodiversity",
+          "en": "developmental irregularities, developmental disorder, neurodiversity"
         },
         "romaji": "hattatsudekoboko"
       },
@@ -72,14 +81,18 @@
         "example": "穴ぼこ",
         "reading": "あなぼこ",
         "meaning": {
-          "vi": "hole, hollow, pothole (road, pavement, etc.)"
+          "vi": "hole, hollow, pothole (road, pavement, etc.)",
+          "en": "hole, hollow, pothole (road, pavement, etc.)"
         },
         "romaji": "anaboko"
       }
     ],
     "radical": {
       "symbol": "凵",
-      "meaning": "container, open mouth"
+      "meaning": {
+        "en": "container, open mouth",
+        "vi": "đồ chứa, miệng mở"
+      }
     },
     "parts": [
       "凵"
@@ -91,5 +104,6 @@
   },
   "hanViet": [
     "ao"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: hình chữ lõm xuống ở giữa nên 凹 nghĩa là lõm."
 }

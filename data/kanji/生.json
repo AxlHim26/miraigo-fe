@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "i, ikiru, u, umareru, umu, o, ha, haeru, hayasu, nama, ki",
-    "meaning": "life, be born, student",
+    "meaning": {
+      "en": "life, be born, student",
+      "vi": "cuộc sống, sinh ra, học sinh"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "学生（がくせい）",
         "meaning": {
-          "english": "student"
+          "english": "student",
+          "en": "student",
+          "vi": "học sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "先生（せんせい）",
         "meaning": {
-          "english": "teacher, master, doctor"
+          "english": "teacher, master, doctor",
+          "en": "teacher, master, doctor",
+          "vi": "giáo viên, bậc thầy, bác sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "一生（いっしょう）",
         "meaning": {
-          "english": "one's whole life"
+          "english": "one's whole life",
+          "en": "one's whole life",
+          "vi": "one's whole life"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "誕生日（たんじょうび）",
         "meaning": {
-          "english": "birthday"
+          "english": "birthday",
+          "en": "birthday",
+          "vi": "birthday"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "生きる（いきる）",
         "meaning": {
-          "english": "live"
+          "english": "live",
+          "en": "live",
+          "vi": "live"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "生まれる（うまれる）",
         "meaning": {
-          "english": "be born"
+          "english": "be born",
+          "en": "be born",
+          "vi": "be born"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "生い立ち（おいたち）",
         "meaning": {
-          "english": "upbringing, background"
+          "english": "upbringing, background",
+          "en": "upbringing, background",
+          "vi": "upbringing, background"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "生える（はえる）",
         "meaning": {
-          "english": "grow [v.i.]"
+          "english": "grow [v.i.]",
+          "en": "grow [v.i.]",
+          "vi": "grow [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "生やす（はやす）",
         "meaning": {
-          "english": "grow [v.t.]"
+          "english": "grow [v.t.]",
+          "en": "grow [v.t.]",
+          "vi": "grow [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "生卵（なまたまご）",
         "meaning": {
-          "english": "raw egg"
+          "english": "raw egg",
+          "en": "raw egg",
+          "vi": "raw egg"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "生地（きじ）",
         "meaning": {
-          "english": "cloth"
+          "english": "cloth",
+          "en": "cloth",
+          "vi": "cloth"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/u(mu)_06_k.opus",
@@ -340,7 +365,9 @@
     "kanji": {
       "character": "生",
       "meaning": {
-        "english": "life, be born, student"
+        "english": "life, be born, student",
+        "en": "life, be born, student",
+        "vi": "cuộc sống, sinh ra, học sinh"
       },
       "strokes": {
         "count": 5,
@@ -388,7 +415,9 @@
         "romaji": "umareru"
       },
       "meaning": {
-        "english": "birth, to be born, live"
+        "english": "birth, to be born, live",
+        "en": "birth, to be born, live",
+        "vi": "birth, to be born, live"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/umareru0.svg",
@@ -409,7 +438,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "29",
     "strokeCount": 5,
-    "meaning": "life, genuine, birth",
+    "meaning": {
+      "en": "life, genuine, birth",
+      "vi": "life, genuine, birth"
+    },
     "kunyomi": [
       "い.きる",
       "い.かす",
@@ -439,7 +471,8 @@
         "example": "生",
         "reading": "セイ",
         "meaning": {
-          "en": "life, living, I, me, myself, student"
+          "en": "life, living, I, me, myself, student",
+          "vi": "life, living, I, me, myself, student"
         },
         "romaji": "sei"
       },
@@ -447,7 +480,8 @@
         "example": "生育",
         "reading": "セイイク",
         "meaning": {
-          "vi": "birth and growth, giving birth and raising, development, breeding"
+          "vi": "birth and growth, giving birth and raising, development, breeding",
+          "en": "birth and growth, giving birth and raising, development, breeding"
         },
         "romaji": "seiiku"
       },
@@ -455,7 +489,8 @@
         "example": "回生",
         "reading": "カイセイ",
         "meaning": {
-          "en": "resurrection, resuscitation, coming back to life, regeneration, nth-year university student"
+          "en": "resurrection, resuscitation, coming back to life, regeneration, nth-year university student",
+          "vi": "resurrection, resuscitation, coming back to life, regeneration, nth-year university student"
         },
         "romaji": "kaisei"
       },
@@ -463,7 +498,8 @@
         "example": "公衆衛生",
         "reading": "コウシュウエイセイ",
         "meaning": {
-          "vi": "public health, public hygiene, sanitation"
+          "vi": "public health, public hygiene, sanitation",
+          "en": "public health, public hygiene, sanitation"
         },
         "romaji": "koushuueisei"
       },
@@ -471,7 +507,8 @@
         "example": "生",
         "reading": "セイ",
         "meaning": {
-          "en": "life, living, I, me, myself, student"
+          "en": "life, living, I, me, myself, student",
+          "vi": "life, living, I, me, myself, student"
         },
         "romaji": "sei"
       },
@@ -479,7 +516,8 @@
         "example": "生家",
         "reading": "セイカ",
         "meaning": {
-          "vi": "house where one was born, one's parents' house"
+          "vi": "house where one was born, one's parents' house",
+          "en": "house where one was born, one's parents' house"
         },
         "romaji": "seika"
       },
@@ -487,7 +525,8 @@
         "example": "殺生",
         "reading": "セッショウ",
         "meaning": {
-          "en": "killing, destruction of life, cruel, heartless, callous, brutal"
+          "en": "killing, destruction of life, cruel, heartless, callous, brutal",
+          "vi": "killing, destruction of life, cruel, heartless, callous, brutal"
         },
         "romaji": "sesshou"
       },
@@ -495,7 +534,8 @@
         "example": "死生",
         "reading": "シセイ",
         "meaning": {
-          "en": "life and death"
+          "en": "life and death",
+          "vi": "life and death"
         },
         "romaji": "shisei"
       }
@@ -505,7 +545,8 @@
         "example": "生きる",
         "reading": "いきる",
         "meaning": {
-          "en": "to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)"
+          "en": "to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)",
+          "vi": "to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)"
         },
         "romaji": "ikiru"
       },
@@ -513,7 +554,8 @@
         "example": "生きる糧",
         "reading": "いきるかて",
         "meaning": {
-          "en": "source of vitality, life sustenance"
+          "en": "source of vitality, life sustenance",
+          "vi": "source of vitality, life sustenance"
         },
         "romaji": "ikirukate"
       },
@@ -521,7 +563,8 @@
         "example": "生かす",
         "reading": "いかす",
         "meaning": {
-          "vi": "to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.), to let live, to keep alive, to revive, to resuscitate, to bring back to life, to restore (a deleted passage; in proofreading)"
+          "vi": "to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.), to let live, to keep alive, to revive, to resuscitate, to bring back to life, to restore (a deleted passage; in proofreading)",
+          "en": "to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.), to let live, to keep alive, to revive, to resuscitate, to bring back to life, to restore (a deleted passage; in proofreading)"
         },
         "romaji": "ikasu"
       },
@@ -529,7 +572,8 @@
         "example": "生ける",
         "reading": "いける",
         "meaning": {
-          "vi": "to arrange (flowers), to plant, living, live"
+          "vi": "to arrange (flowers), to plant, living, live",
+          "en": "to arrange (flowers), to plant, living, live"
         },
         "romaji": "ikeru"
       },
@@ -537,7 +581,8 @@
         "example": "生ける屍",
         "reading": "いけるしかばね",
         "meaning": {
-          "vi": "living corpse"
+          "vi": "living corpse",
+          "en": "living corpse"
         },
         "romaji": "ikerushikabane"
       },
@@ -545,7 +590,8 @@
         "example": "生まれる",
         "reading": "うまれる",
         "meaning": {
-          "en": "to be born"
+          "en": "to be born",
+          "vi": "to be born"
         },
         "romaji": "umareru"
       },
@@ -553,7 +599,8 @@
         "example": "生まれる",
         "reading": "うまれる",
         "meaning": {
-          "en": "to be born"
+          "en": "to be born",
+          "vi": "to be born"
         },
         "romaji": "umareru"
       },
@@ -561,7 +608,8 @@
         "example": "生まれ",
         "reading": "うまれ",
         "meaning": {
-          "vi": "birth, birthplace, born in (country, month, imperial era, zodiac year, etc.)"
+          "vi": "birth, birthplace, born in (country, month, imperial era, zodiac year, etc.)",
+          "en": "birth, birthplace, born in (country, month, imperial era, zodiac year, etc.)"
         },
         "romaji": "umare"
       },
@@ -569,7 +617,8 @@
         "example": "生まれつき",
         "reading": "うまれつき",
         "meaning": {
-          "en": "by nature, by birth, naturally, natural, innate"
+          "en": "by nature, by birth, naturally, natural, innate",
+          "vi": "by nature, by birth, naturally, natural, innate"
         },
         "romaji": "umaretsuki"
       },
@@ -577,7 +626,8 @@
         "example": "生まれ",
         "reading": "うまれ",
         "meaning": {
-          "vi": "birth, birthplace, born in (country, month, imperial era, zodiac year, etc.)"
+          "vi": "birth, birthplace, born in (country, month, imperial era, zodiac year, etc.)",
+          "en": "birth, birthplace, born in (country, month, imperial era, zodiac year, etc.)"
         },
         "romaji": "umare"
       },
@@ -585,7 +635,8 @@
         "example": "生まれつき",
         "reading": "うまれつき",
         "meaning": {
-          "en": "by nature, by birth, naturally, natural, innate"
+          "en": "by nature, by birth, naturally, natural, innate",
+          "vi": "by nature, by birth, naturally, natural, innate"
         },
         "romaji": "umaretsuki"
       },
@@ -593,7 +644,8 @@
         "example": "生む",
         "reading": "うむ",
         "meaning": {
-          "vi": "to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to, to deliver"
+          "vi": "to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to, to deliver",
+          "en": "to give birth, to bear (child), to lay (eggs), to produce, to yield, to give rise to, to deliver"
         },
         "romaji": "umu"
       },
@@ -601,7 +653,8 @@
         "example": "生う",
         "reading": "おう",
         "meaning": {
-          "vi": "to grow (of plants), to spring up"
+          "vi": "to grow (of plants), to spring up",
+          "en": "to grow (of plants), to spring up"
         },
         "romaji": "ou"
       },
@@ -609,7 +662,8 @@
         "example": "生える",
         "reading": "はえる",
         "meaning": {
-          "vi": "to grow, to spring up, to sprout, to cut (teeth)"
+          "vi": "to grow, to spring up, to sprout, to cut (teeth)",
+          "en": "to grow, to spring up, to sprout, to cut (teeth)"
         },
         "romaji": "haeru"
       },
@@ -617,7 +671,8 @@
         "example": "生やす",
         "reading": "はやす",
         "meaning": {
-          "en": "to grow, to cultivate, to let grow (e.g. weeds)"
+          "en": "to grow, to cultivate, to let grow (e.g. weeds)",
+          "vi": "to grow, to cultivate, to let grow (e.g. weeds)"
         },
         "romaji": "hayasu"
       },
@@ -625,7 +680,8 @@
         "example": "生",
         "reading": "き",
         "meaning": {
-          "vi": "pure, undiluted, raw, crude"
+          "vi": "pure, undiluted, raw, crude",
+          "en": "pure, undiluted, raw, crude"
         },
         "romaji": "ki"
       },
@@ -633,7 +689,8 @@
         "example": "生地",
         "reading": "きじ",
         "meaning": {
-          "vi": "cloth, fabric, material, texture, dough, batter, inherent quality, one's true character, one's true colours, unglazed pottery, skin with no make-up, uncoated metal"
+          "vi": "cloth, fabric, material, texture, dough, batter, inherent quality, one's true character, one's true colours, unglazed pottery, skin with no make-up, uncoated metal",
+          "en": "cloth, fabric, material, texture, dough, batter, inherent quality, one's true character, one's true colours, unglazed pottery, skin with no make-up, uncoated metal"
         },
         "romaji": "kiji"
       },
@@ -641,7 +698,8 @@
         "example": "死に生き",
         "reading": "しにいき",
         "meaning": {
-          "en": "death and life, death or life, death"
+          "en": "death and life, death or life, death",
+          "vi": "death and life, death or life, death"
         },
         "romaji": "shiniiki"
       },
@@ -649,7 +707,8 @@
         "example": "生",
         "reading": "なま",
         "meaning": {
-          "vi": "raw, uncooked, fresh, natural, as it is, unedited, unprocessed, unprotected (sex), raw, bareback, live (i.e. not recorded), inexperienced, unpolished, green, crude, impudence, sauciness, unpasteurized beer, draft beer, draught beer, blank (e.g. disk), unused, just a little, somehow, vaguely, partially, somewhat, half-, semi-, insufficient, incomplete, half-baked, half-hearted, perfunctory, cash, tipsiness"
+          "vi": "raw, uncooked, fresh, natural, as it is, unedited, unprocessed, unprotected (sex), raw, bareback, live (i.e. not recorded), inexperienced, unpolished, green, crude, impudence, sauciness, unpasteurized beer, draft beer, draught beer, blank (e.g. disk), unused, just a little, somehow, vaguely, partially, somewhat, half-, semi-, insufficient, incomplete, half-baked, half-hearted, perfunctory, cash, tipsiness",
+          "en": "raw, uncooked, fresh, natural, as it is, unedited, unprocessed, unprotected (sex), raw, bareback, live (i.e. not recorded), inexperienced, unpolished, green, crude, impudence, sauciness, unpasteurized beer, draft beer, draught beer, blank (e.g. disk), unused, just a little, somehow, vaguely, partially, somewhat, half-, semi-, insufficient, incomplete, half-baked, half-hearted, perfunctory, cash, tipsiness"
         },
         "romaji": "nama"
       },
@@ -657,7 +716,8 @@
         "example": "生り",
         "reading": "なまり",
         "meaning": {
-          "en": "boiled and half-dried bonito"
+          "en": "boiled and half-dried bonito",
+          "vi": "boiled and half-dried bonito"
         },
         "romaji": "namari"
       },
@@ -665,7 +725,8 @@
         "example": "お生",
         "reading": "おなま",
         "meaning": {
-          "vi": "impudence, sauciness"
+          "vi": "impudence, sauciness",
+          "en": "impudence, sauciness"
         },
         "romaji": "onama"
       },
@@ -673,7 +734,8 @@
         "example": "現ナマ",
         "reading": "げんナマ",
         "meaning": {
-          "en": "cold cash, hard cash"
+          "en": "cold cash, hard cash",
+          "vi": "cold cash, hard cash"
         },
         "romaji": "gennama"
       },
@@ -681,7 +743,8 @@
         "example": "生る",
         "reading": "なる",
         "meaning": {
-          "en": "to bear fruit"
+          "en": "to bear fruit",
+          "vi": "to bear fruit"
         },
         "romaji": "naru"
       },
@@ -689,7 +752,8 @@
         "example": "生す",
         "reading": "なす",
         "meaning": {
-          "en": "to have a child"
+          "en": "to have a child",
+          "vi": "to have a child"
         },
         "romaji": "nasu"
       },
@@ -697,14 +761,18 @@
         "example": "生す",
         "reading": "むす",
         "meaning": {
-          "en": "to grow (of moss, etc.)"
+          "en": "to grow (of moss, etc.)",
+          "vi": "to grow (of moss, etc.)"
         },
         "romaji": "musu"
       }
     ],
     "radical": {
       "symbol": "生",
-      "meaning": "life"
+      "meaning": {
+        "en": "life",
+        "vi": "life"
+      }
     },
     "parts": [
       "生"
@@ -717,5 +785,7 @@
   "hanViet": [
     "sanh",
     "sinh"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: mầm cây mọc lên từ mặt đất, nên 生 là sống và sinh ra."
 }

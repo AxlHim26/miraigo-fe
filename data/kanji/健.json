@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "suko, sukoyakana",
-    "meaning": "robust, healthy",
+    "meaning": {
+      "en": "robust, healthy",
+      "vi": "khỏe mạnh, cường tráng"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "健康（けんこう）",
         "meaning": {
-          "english": "health"
+          "english": "health",
+          "en": "health",
+          "vi": "sức khỏe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "健康保険（けんこうほけん）",
         "meaning": {
-          "english": "health insurance"
+          "english": "health insurance",
+          "en": "health insurance",
+          "vi": "bảo hiểm y tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "健全な（けんぜんな）",
         "meaning": {
-          "english": "healthy, sound, wholesome"
+          "english": "healthy, sound, wholesome",
+          "en": "healthy, sound, wholesome",
+          "vi": "khỏe mạnh, lành mạnh, tốt cho sức khỏe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "穏健な（おんけんな）",
         "meaning": {
-          "english": "quiet, dependable, moderate"
+          "english": "quiet, dependable, moderate",
+          "en": "quiet, dependable, moderate",
+          "vi": "điềm tĩnh, đáng tin cậy, ôn hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "健康的な（けんこうてきな）",
         "meaning": {
-          "english": "hygienic, healthful, sanitary"
+          "english": "hygienic, healthful, sanitary",
+          "en": "hygienic, healthful, sanitary",
+          "vi": "hợp vệ sinh, tốt cho sức khỏe, vệ sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "健やかな（すこやかな）",
         "meaning": {
-          "english": "healthy"
+          "english": "healthy",
+          "en": "healthy",
+          "vi": "khỏe mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "*健気な（けなげな）",
         "meaning": {
-          "english": "heroic, brave, admirable"
+          "english": "heroic, brave, admirable",
+          "en": "heroic, brave, admirable",
+          "vi": "anh dũng, can đảm, đáng khâm phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(yaka)_06_g.opus",
@@ -197,7 +214,9 @@
     "kanji": {
       "character": "健",
       "meaning": {
-        "english": "robust, healthy"
+        "english": "robust, healthy",
+        "en": "robust, healthy",
+        "vi": "khỏe mạnh, cường tráng"
       },
       "strokes": {
         "count": 11,
@@ -257,7 +276,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -278,7 +299,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "572",
     "strokeCount": 11,
-    "meaning": "healthy, health, strength, persistence",
+    "meaning": {
+      "en": "healthy, health, strength, persistence",
+      "vi": "khỏe mạnh, sức khỏe, sức mạnh, sự bền bỉ"
+    },
     "kunyomi": [
       "すこ.やか"
     ],
@@ -290,7 +314,8 @@
         "example": "健康食品",
         "reading": "ケンコウショクヒン",
         "meaning": {
-          "en": "health foods"
+          "en": "health foods",
+          "vi": "thực phẩm tốt cho sức khỏe"
         },
         "romaji": "kenkoushokuhin"
       },
@@ -298,7 +323,8 @@
         "example": "健康",
         "reading": "ケンコウ",
         "meaning": {
-          "en": "health, healthy, sound, fit, wholesome"
+          "en": "health, healthy, sound, fit, wholesome",
+          "vi": "sức khỏe, khỏe mạnh, lành mạnh, sung sức, tốt cho sức khỏe"
         },
         "romaji": "kenkou"
       },
@@ -306,7 +332,8 @@
         "example": "豪健",
         "reading": "ゴウケン",
         "meaning": {
-          "en": "hardy, sturdy, robust"
+          "en": "hardy, sturdy, robust",
+          "vi": "dẻo dai, vững chắc, cường tráng"
         },
         "romaji": "gouken"
       },
@@ -314,7 +341,8 @@
         "example": "質実剛健",
         "reading": "シツジツゴウケン",
         "meaning": {
-          "en": "unaffected and sincere, with fortitude and vigor (vigour)"
+          "en": "unaffected and sincere, with fortitude and vigor (vigour)",
+          "vi": "chân thành, không kiểu cách, với nghị lực và sức sống"
         },
         "romaji": "shitsujitsugouken"
       }
@@ -324,7 +352,8 @@
         "example": "健やか",
         "reading": "すこやか",
         "meaning": {
-          "en": "vigorous, healthy, sound"
+          "en": "vigorous, healthy, sound",
+          "vi": "tràn đầy sinh lực, khỏe mạnh, lành mạnh"
         },
         "romaji": "sukoyaka"
       }
@@ -334,7 +363,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

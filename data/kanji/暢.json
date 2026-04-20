@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2144",
     "strokeCount": 14,
-    "meaning": "stretch",
+    "meaning": {
+      "en": "stretch",
+      "vi": "kéo dài, thông suốt"
+    },
     "kunyomi": [
       "のび.る"
     ],
@@ -19,7 +22,8 @@
         "example": "暢達",
         "reading": "チョウタツ",
         "meaning": {
-          "en": "fluency, facileness"
+          "en": "fluency, facileness",
+          "vi": "sự trôi chảy, sự thông suốt dễ dàng"
         },
         "romaji": "choutatsu"
       },
@@ -27,7 +31,8 @@
         "example": "伸長",
         "reading": "シンチョウ",
         "meaning": {
-          "vi": "expansion, extension, elongation, stretching"
+          "vi": "sự mở rộng, kéo dài, giãn ra",
+          "en": "expansion, extension, elongation, stretching"
         },
         "romaji": "shinchou"
       }
@@ -35,7 +40,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "mặt trời, ngày"
+      }
     },
     "parts": [
       "一",
@@ -51,5 +59,7 @@
   },
   "hanViet": [
     "sướng"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: ánh nắng mở rộng khắp nơi, mọi thứ trôi chảy thông suốt và kéo dài."
 }

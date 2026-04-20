@@ -5,7 +5,10 @@
     "query": "乂",
     "found": true,
     "strokeCount": 2,
-    "meaning": "mow, cut grass, subdue",
+    "meaning": {
+      "en": "mow, cut grass, subdue",
+      "vi": "cắt, cắt cỏ, khuất phục"
+    },
     "kunyomi": [
       "おさ.める",
       "か.る"
@@ -19,7 +22,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "丿",
-      "meaning": "slash"
+      "meaning": {
+        "en": "slash",
+        "vi": "nét phẩy"
+      }
     },
     "parts": [
       "ノ",

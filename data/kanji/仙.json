@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1157",
     "strokeCount": 5,
-    "meaning": "hermit, wizard, cent",
+    "meaning": {
+      "en": "hermit, wizard, cent",
+      "vi": "ẩn sĩ, pháp sư, xu"
+    },
     "kunyomi": [],
     "onyomi": [
       "セン",
@@ -19,7 +22,8 @@
         "example": "仙",
         "reading": "セン",
         "meaning": {
-          "en": "hermit, wizard, wizardry"
+          "en": "hermit, wizard, wizardry",
+          "vi": "ẩn sĩ, pháp sư, phép thuật"
         },
         "romaji": "sen"
       },
@@ -27,7 +31,8 @@
         "example": "仙",
         "reading": "セント",
         "meaning": {
-          "en": "cent (monetary unit)"
+          "en": "cent (monetary unit)",
+          "vi": "xu (đơn vị tiền tệ)"
         },
         "romaji": "sento"
       },
@@ -35,6 +40,7 @@
         "example": "水仙",
         "reading": "スイセン",
         "meaning": {
+          "en": "daffodil (esp. Narcissus tazetta var. chinensis), narcissus",
           "vi": "daffodil (esp. Narcissus tazetta var. chinensis), narcissus"
         },
         "romaji": "suisen"
@@ -43,7 +49,8 @@
         "example": "黄水仙",
         "reading": "キズイセン",
         "meaning": {
-          "en": "jonquil (Narcissus jonquilla)"
+          "en": "jonquil (Narcissus jonquilla)",
+          "vi": "hoa thủy tiên vàng (Narcissus jonquilla)"
         },
         "romaji": "kizuisen"
       },
@@ -51,7 +58,8 @@
         "example": "仙",
         "reading": "セント",
         "meaning": {
-          "en": "cent (monetary unit)"
+          "en": "cent (monetary unit)",
+          "vi": "xu (đơn vị tiền tệ)"
         },
         "romaji": "sento"
       },
@@ -59,6 +67,7 @@
         "example": "仙洞御所",
         "reading": "セントウゴショ",
         "meaning": {
+          "en": "palace of a retired emperor",
           "vi": "palace of a retired emperor"
         },
         "romaji": "sentougosho"
@@ -70,7 +79,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

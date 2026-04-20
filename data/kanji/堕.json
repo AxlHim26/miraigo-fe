@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2087",
     "strokeCount": 12,
-    "meaning": "degenerate, descend to, lapse into",
+    "meaning": {
+      "en": "degenerate, descend to, lapse into",
+      "vi": "sa đọa, rơi xuống, sa vào"
+    },
     "kunyomi": [
       "お.ちる",
       "くず.す",
@@ -22,7 +25,8 @@
         "example": "堕落",
         "reading": "ダラク",
         "meaning": {
-          "vi": "depravity, corruption, degradation"
+          "vi": "depravity, corruption, degradation",
+          "en": "depravity, corruption, degradation"
         },
         "romaji": "daraku"
       },
@@ -30,7 +34,8 @@
         "example": "堕胎",
         "reading": "ダタイ",
         "meaning": {
-          "en": "abortion, feticide"
+          "en": "abortion, feticide",
+          "vi": "phá thai"
         },
         "romaji": "datai"
       },
@@ -38,7 +43,8 @@
         "example": "落堕",
         "reading": "ラクダ",
         "meaning": {
-          "en": "marrying (of a monk), returning to secular life (of a monk)"
+          "en": "marrying (of a monk), returning to secular life (of a monk)",
+          "vi": "nhà sư lấy vợ, hoàn tục"
         },
         "romaji": "rakuda"
       }
@@ -48,14 +54,18 @@
         "example": "堕ちる",
         "reading": "おちる",
         "meaning": {
-          "vi": "to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low), to be ruined, to go under, to fall (into hell)"
+          "vi": "to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low), to be ruined, to go under, to fall (into hell)",
+          "en": "to decline (of morals, character, etc.), to become vulgar (e.g. of a conversation), to stoop (to), to sink (so low), to be ruined, to go under, to fall (into hell)"
         },
         "romaji": "ochiru"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "ノ",
@@ -69,6 +79,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5815.gif",
     "uri": "https://jisho.org/search/%E5%A0%95%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là nền đất, phần còn lại như thứ đang trượt khỏi vị trí, gợi hình ảnh rơi xuống và sa ngã.",
   "hanViet": [
     "huy",
     "đoạ"

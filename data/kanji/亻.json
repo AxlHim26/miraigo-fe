@@ -5,7 +5,10 @@
     "query": "亻",
     "found": true,
     "strokeCount": 2,
-    "meaning": "radical number 9",
+    "meaning": {
+      "en": "radical number 9",
+      "vi": "bộ thủ số 9"
+    },
     "kunyomi": [],
     "onyomi": [],
     "onyomiExamples": [],
@@ -15,7 +18,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20155_frames.png",

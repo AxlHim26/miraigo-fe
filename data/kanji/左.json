@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 2,
     "kunyomi": "hidari",
-    "meaning": "left",
+    "meaning": {
+      "en": "left",
+      "vi": "bên trái"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "左右する（さゆうする）",
         "meaning": {
-          "english": "influence, control, command"
+          "english": "influence, control, command",
+          "en": "influence, control, command",
+          "vi": "ảnh hưởng, kiểm soát, chỉ huy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "左派（さは）",
         "meaning": {
-          "english": "(political) left wing"
+          "english": "(political) left wing",
+          "en": "(political) left wing",
+          "vi": "cánh tả (chính trị)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "左（ひだり）",
         "meaning": {
-          "english": "left"
+          "english": "left",
+          "en": "left",
+          "vi": "bên trái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "左側（ひだりがわ）",
         "meaning": {
-          "english": "left side"
+          "english": "left side",
+          "en": "left side",
+          "vi": "phía bên trái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "左向き（ひだりむき）",
         "meaning": {
-          "english": "left facing"
+          "english": "left facing",
+          "en": "left facing",
+          "vi": "hướng sang trái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hidari_06_e.opus",
@@ -200,7 +213,9 @@
     "kanji": {
       "character": "左",
       "meaning": {
-        "english": "left"
+        "english": "left",
+        "en": "left",
+        "vi": "bên trái"
       },
       "strokes": {
         "count": 5,
@@ -248,7 +263,9 @@
         "romaji": "takumi"
       },
       "meaning": {
-        "english": "work, carpenter, skill"
+        "english": "work, carpenter, skill",
+        "en": "work, carpenter, skill",
+        "vi": "công việc, thợ mộc, kỹ năng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/takumi0.svg",
@@ -269,7 +286,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "630",
     "strokeCount": 5,
-    "meaning": "left",
+    "meaning": {
+      "en": "left",
+      "vi": "bên trái"
+    },
     "kunyomi": [
       "ひだり"
     ],
@@ -282,7 +302,8 @@
         "example": "左",
         "reading": "サ",
         "meaning": {
-          "vi": "left (esp. in vertical Japanese writing), the following"
+          "vi": "left (esp. in vertical Japanese writing), the following",
+          "en": "left (especially in vertical Japanese writing), the following"
         },
         "romaji": "sa"
       },
@@ -290,7 +311,8 @@
         "example": "左記",
         "reading": "サキ",
         "meaning": {
-          "en": "undermentioned (statement), the following, at left"
+          "en": "undermentioned (statement), the following, at left",
+          "vi": "điều nêu dưới đây, phần sau, ở bên trái"
         },
         "romaji": "saki"
       },
@@ -298,7 +320,8 @@
         "example": "極左",
         "reading": "キョクサ",
         "meaning": {
-          "en": "extreme left, ultraleft"
+          "en": "extreme left, ultraleft",
+          "vi": "cực tả, siêu tả"
         },
         "romaji": "kyokusa"
       },
@@ -306,7 +329,8 @@
         "example": "最左",
         "reading": "サイサ",
         "meaning": {
-          "en": "left-most"
+          "en": "left-most",
+          "vi": "ngoài cùng bên trái"
         },
         "romaji": "saisa"
       },
@@ -314,7 +338,8 @@
         "example": "左官",
         "reading": "サカン",
         "meaning": {
-          "vi": "plasterer"
+          "vi": "plasterer",
+          "en": "plasterer"
         },
         "romaji": "sakan"
       }
@@ -324,7 +349,8 @@
         "example": "左",
         "reading": "ひだり",
         "meaning": {
-          "en": "left, left-hand side, left hand, the left (wing), leftist, fondness for alcohol, drinker"
+          "en": "left, left-hand side, left hand, the left (wing), leftist, fondness for alcohol, drinker",
+          "vi": "bên trái, phía trái, tay trái, phe cánh tả, người theo cánh tả, thích rượu, người uống rượu"
         },
         "romaji": "hidari"
       },
@@ -332,7 +358,8 @@
         "example": "左腕",
         "reading": "さわん",
         "meaning": {
-          "vi": "left arm, left-handed (baseball pitcher)"
+          "vi": "left arm, left-handed (baseball pitcher)",
+          "en": "left arm, left-handed baseball pitcher"
         },
         "romaji": "sawan"
       },
@@ -340,7 +367,8 @@
         "example": "向かって左",
         "reading": "むかってひだり",
         "meaning": {
-          "en": "on the left as one faces (it)"
+          "en": "on the left as one faces (it)",
+          "vi": "ở bên trái khi đối diện"
         },
         "romaji": "mukattehidari"
       },
@@ -348,14 +376,18 @@
         "example": "同左",
         "reading": "どうひだり",
         "meaning": {
-          "en": "same as on the left, (in vertical writing) same as below"
+          "en": "same as on the left, (in vertical writing) same as below",
+          "vi": "giống như bên trái, trong văn viết dọc là giống như bên dưới"
         },
         "romaji": "douhidari"
       }
     ],
     "radical": {
       "symbol": "工",
-      "meaning": "work"
+      "meaning": {
+        "en": "work",
+        "vi": "work"
+      }
     },
     "parts": [
       "ノ",
@@ -370,5 +402,7 @@
   "hanViet": [
     "tá",
     "tả"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: Tay bên trái giữ lấy cây thước công, nên nhớ là bên trái."
 }

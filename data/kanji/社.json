@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "yashiro",
-    "meaning": "company, society",
+    "meaning": {
+      "en": "company, society",
+      "vi": "công ty, xã hội"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "社会（しゃかい）",
         "meaning": {
-          "english": "society"
+          "english": "society",
+          "en": "society",
+          "vi": "society"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "社長（しゃちょう）",
         "meaning": {
-          "english": "company president"
+          "english": "company president",
+          "en": "company president",
+          "vi": "company president"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "会社（かいしゃ）",
         "meaning": {
-          "english": "company"
+          "english": "company",
+          "en": "company",
+          "vi": "company"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "本社（ほんしゃ）",
         "meaning": {
-          "english": "headquarters"
+          "english": "headquarters",
+          "en": "headquarters",
+          "vi": "headquarters"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "支社（ししゃ）",
         "meaning": {
-          "english": "branch office"
+          "english": "branch office",
+          "en": "branch office",
+          "vi": "branch office"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "出版社（しゅっぱんしゃ）",
         "meaning": {
-          "english": "publisher"
+          "english": "publisher",
+          "en": "publisher",
+          "vi": "publisher"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "神社（じんじゃ）",
         "meaning": {
-          "english": "Shinto shrine"
+          "english": "Shinto shrine",
+          "en": "Shinto shrine",
+          "vi": "Shinto shrine"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "入社する（にゅうしゃする）",
         "meaning": {
-          "english": "join a company"
+          "english": "join a company",
+          "en": "join a company",
+          "vi": "join a company"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "お社（おやしろ）",
         "meaning": {
-          "english": "Shinto shrine [hon.]"
+          "english": "Shinto shrine [hon.]",
+          "en": "Shinto shrine [hon.]",
+          "vi": "Shinto shrine [hon.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yashiro_06_i.opus",
@@ -259,7 +280,9 @@
     "kanji": {
       "character": "社",
       "meaning": {
-        "english": "company, society"
+        "english": "company, society",
+        "en": "company, society",
+        "vi": "công ty, xã hội"
       },
       "strokes": {
         "count": 7,
@@ -311,7 +334,9 @@
         "romaji": "shimesuhen"
       },
       "meaning": {
-        "english": "altar, festival, religious service"
+        "english": "altar, festival, religious service",
+        "en": "altar, festival, religious service",
+        "vi": "altar, festival, religious service"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shimesuhen0.svg",
@@ -332,7 +357,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "21",
     "strokeCount": 7,
-    "meaning": "company, firm, office, association, shrine",
+    "meaning": {
+      "en": "company, firm, office, association, shrine",
+      "vi": "công ty, hãng, văn phòng, hiệp hội, đền thần"
+    },
     "kunyomi": [
       "やしろ"
     ],
@@ -344,7 +372,8 @@
         "example": "社",
         "reading": "シャ",
         "meaning": {
-          "vi": "company, firm, office, association, society, (Shinto) shrine, regional Chinese god of the earth (or a village built in its honour), counter for companies, shrines, etc., incorporated body, corporation, corporate juridical person"
+          "vi": "company, firm, office, association, society, (Shinto) shrine, regional Chinese god of the earth (or a village built in its honour), counter for companies, shrines, etc., incorporated body, corporation, corporate juridical person",
+          "en": "company, firm, office, association, society, (Shinto) shrine, regional Chinese god of the earth (or a village built in its honour), counter for companies, shrines, etc., incorporated body, corporation, corporate juridical person"
         },
         "romaji": "sha"
       },
@@ -352,7 +381,8 @@
         "example": "社員",
         "reading": "シャイン",
         "meaning": {
-          "vi": "company employee, member of a corporation, company stockholder (esp. in legal contexts)"
+          "vi": "company employee, member of a corporation, company stockholder (esp. in legal contexts)",
+          "en": "company employee, member of a corporation, company stockholder (esp. in legal contexts)"
         },
         "romaji": "shain"
       },
@@ -360,7 +390,8 @@
         "example": "大社",
         "reading": "タイシャ",
         "meaning": {
-          "en": "grand shrine, famous shrine, Izumo Grand Shrine"
+          "en": "grand shrine, famous shrine, Izumo Grand Shrine",
+          "vi": "grand shrine, famous shrine, Izumo Grand Shrine"
         },
         "romaji": "taisha"
       },
@@ -368,7 +399,8 @@
         "example": "親会社",
         "reading": "オヤガイシャ",
         "meaning": {
-          "vi": "parent company"
+          "vi": "parent company",
+          "en": "parent company"
         },
         "romaji": "oyagaisha"
       }
@@ -378,7 +410,8 @@
         "example": "社",
         "reading": "やしろ",
         "meaning": {
-          "en": "(Shinto) shrine"
+          "en": "(Shinto) shrine",
+          "vi": "(Shinto) shrine"
         },
         "romaji": "yashiro"
       },
@@ -386,7 +419,8 @@
         "example": "大社",
         "reading": "たいしゃ",
         "meaning": {
-          "en": "grand shrine, famous shrine, Izumo Grand Shrine"
+          "en": "grand shrine, famous shrine, Izumo Grand Shrine",
+          "vi": "grand shrine, famous shrine, Izumo Grand Shrine"
         },
         "romaji": "taisha"
       },
@@ -394,7 +428,8 @@
         "example": "村のお社",
         "reading": "むらのおやしろ",
         "meaning": {
-          "en": "village shrine"
+          "en": "village shrine",
+          "vi": "village shrine"
         },
         "romaji": "muranooyashiro"
       }
@@ -404,7 +439,10 @@
       "forms": [
         "礻"
       ],
-      "meaning": "sign"
+      "meaning": {
+        "en": "sign",
+        "vi": "dấu hiệu"
+      }
     },
     "parts": [
       "土",
@@ -417,5 +455,7 @@
   },
   "hanViet": [
     "xã"
-  ]
+  ],
+  "jlpt_level": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 社 gồm bộ thị của đền miếu và nét đất, gợi đến đền xã rồi mở rộng thành công ty, hội đoàn."
 }

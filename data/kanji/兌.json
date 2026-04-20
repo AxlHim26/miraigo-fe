@@ -5,7 +5,10 @@
     "query": "兌",
     "found": true,
     "strokeCount": 7,
-    "meaning": "exchange",
+    "meaning": {
+      "en": "exchange",
+      "vi": "trao đổi"
+    },
     "kunyomi": [
       "よろこ.ぶ"
     ],
@@ -20,7 +23,8 @@
         "example": "兌",
         "reading": "ダ",
         "meaning": {
-          "vi": "dui (one of the trigrams of the I Ching: swamp, west)"
+          "vi": "dui (one of the trigrams of the I Ching: swamp, west)",
+          "en": ""
         },
         "romaji": "da"
       },
@@ -28,7 +32,8 @@
         "example": "兌換",
         "reading": "ダカン",
         "meaning": {
-          "vi": "conversion (of paper money, esp. into specie)"
+          "vi": "conversion (of paper money, esp. into specie)",
+          "en": ""
         },
         "romaji": "dakan"
       },
@@ -36,7 +41,8 @@
         "example": "発兌",
         "reading": "ハツダ",
         "meaning": {
-          "vi": "publication, printing"
+          "vi": "publication, printing",
+          "en": ""
         },
         "romaji": "hatsuda"
       }
@@ -44,7 +50,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "儿",

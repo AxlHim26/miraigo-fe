@@ -5,7 +5,10 @@
     "query": "冋",
     "found": true,
     "strokeCount": 5,
-    "meaning": "desert, border prairie, the 1st form is radical 13",
+    "meaning": {
+      "en": "desert, border prairie, the 1st form is radical 13",
+      "vi": "sa mạc, thảo nguyên biên giới, dạng thứ nhất là bộ 13"
+    },
     "kunyomi": [
       "まきがまえ",
       "えながまえ",
@@ -20,7 +23,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20875_frames.png",

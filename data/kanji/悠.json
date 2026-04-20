@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1921",
     "strokeCount": 11,
-    "meaning": "permanence, distant, long time, leisure",
+    "meaning": {
+      "en": "permanence, distant, long time, leisure",
+      "vi": "lâu dài, xa xăm, thong dong"
+    },
     "kunyomi": [],
     "onyomi": [
       "ユウ"
@@ -18,7 +21,8 @@
         "example": "悠",
         "reading": "ユウ",
         "meaning": {
-          "vi": "quiet, calm, leisurely, composed, distant, far-off, boundless, endless, eternal"
+          "vi": "quiet, calm, leisurely, composed, distant, far-off, boundless, endless, eternal",
+          "en": "quiet, calm, leisurely, composed, distant, far-off, boundless, endless, eternal"
         },
         "romaji": "yuu"
       },
@@ -26,7 +30,8 @@
         "example": "悠々",
         "reading": "ユウユウ",
         "meaning": {
-          "vi": "quiet, calm, leisurely, composed, easily, comfortably, without difficulty, distant, far-off, boundless, endless, eternal"
+          "vi": "quiet, calm, leisurely, composed, easily, comfortably, without difficulty, distant, far-off, boundless, endless, eternal",
+          "en": "quiet, calm, leisurely, composed, easily, comfortably, without difficulty, distant, far-off, boundless, endless, eternal"
         },
         "romaji": "yuuyuu"
       }
@@ -38,7 +43,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "tim"
+      }
     },
     "parts": [
       "乞",
@@ -55,5 +63,7 @@
   },
   "hanViet": [
     "du"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Tâm ở dưới, bước chậm ở trên gợi cảm giác thong dong, lâu dài và xa xăm."
 }

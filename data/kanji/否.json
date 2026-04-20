@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ina",
-    "meaning": "say no, not",
+    "meaning": {
+      "en": "say no, not",
+      "vi": "noi khong, khong"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "否定形（ひていけい）",
         "meaning": {
-          "english": "negative form"
+          "english": "negative form",
+          "en": "negative form",
+          "vi": "the phu dinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "賛否（さんぴ）",
         "meaning": {
-          "english": "yes and no, for and against"
+          "english": "yes and no, for and against",
+          "en": "yes and no, for and against",
+          "vi": "dong y va khong dong y, tan thanh va phan doi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "安否（あんぴ）",
         "meaning": {
-          "english": "safety, welfare, well-being"
+          "english": "safety, welfare, well-being",
+          "en": "safety, welfare, well-being",
+          "vi": "an sinh, phuc loi, suc khoe tot"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "否定する（ひていする）",
         "meaning": {
-          "english": "deny, negate, repudiate"
+          "english": "deny, negate, repudiate",
+          "en": "deny, negate, repudiate",
+          "vi": "phu nhan, bac bo, khuoc tu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "否認する（ひにんする）",
         "meaning": {
-          "english": "deny, negate, disclaim, disavow"
+          "english": "deny, negate, disclaim, disavow",
+          "en": "deny, negate, disclaim, disavow",
+          "vi": "phu nhan, bac bo, tu choi thua nhan, khong cong nhan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "否決する（ひけつする）",
         "meaning": {
-          "english": "reject, vote down"
+          "english": "reject, vote down",
+          "en": "reject, vote down",
+          "vi": "bac bo, bo phieu chong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "拒否する（きょひする）",
         "meaning": {
-          "english": "reject, deny, veto, refuse"
+          "english": "reject, deny, veto, refuse",
+          "en": "reject, deny, veto, refuse",
+          "vi": "bac bo, phu nhan, phu quyet, tu choi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "否む（いなむ）",
         "meaning": {
-          "english": "refuse, deny, decline"
+          "english": "refuse, deny, decline",
+          "en": "refuse, deny, decline",
+          "vi": "tu choi, phu nhan, khuoc tu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "否めない（いなめない）",
         "meaning": {
-          "english": "undeniable"
+          "english": "undeniable",
+          "en": "undeniable",
+          "vi": "khong the phu nhan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-ina_06_i.opus",
@@ -208,7 +229,9 @@
     "kanji": {
       "character": "否",
       "meaning": {
-        "english": "say no, not"
+        "english": "say no, not",
+        "en": "say no, not",
+        "vi": "noi khong, khong"
       },
       "strokes": {
         "count": 7,
@@ -260,7 +283,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "mieng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -281,7 +306,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "561",
     "strokeCount": 7,
-    "meaning": "negate, no, noes, refuse, decline, deny",
+    "meaning": {
+      "en": "negate, no, noes, refuse, decline, deny",
+      "vi": "phu dinh, khong, phe khong tan thanh, tu choi, khuoc tu, phu nhan"
+    },
     "kunyomi": [
       "いな",
       "いや"
@@ -294,7 +322,8 @@
         "example": "否",
         "reading": "ヒ",
         "meaning": {
-          "en": "no, the noes"
+          "en": "no, the noes",
+          "vi": "khong, phe khong tan thanh"
         },
         "romaji": "hi"
       },
@@ -302,7 +331,8 @@
         "example": "否決",
         "reading": "ヒケツ",
         "meaning": {
-          "en": "rejection, negation, voting down"
+          "en": "rejection, negation, voting down",
+          "vi": "su bac bo, phu dinh, viec bo phieu chong"
         },
         "romaji": "hiketsu"
       },
@@ -310,7 +340,8 @@
         "example": "当否",
         "reading": "トウヒ",
         "meaning": {
-          "vi": "propriety, right or wrong, justice"
+          "vi": "le nghi, dung sai, cong ly",
+          "en": "propriety, right or wrong, justice"
         },
         "romaji": "touhi"
       },
@@ -318,7 +349,8 @@
         "example": "採否",
         "reading": "サイヒ",
         "meaning": {
-          "vi": "adoption or rejection"
+          "vi": "chap nhan hoac bac bo",
+          "en": "adoption or rejection"
         },
         "romaji": "saihi"
       }
@@ -328,7 +360,8 @@
         "example": "否",
         "reading": "いな",
         "meaning": {
-          "vi": "no, nay, disagreement, objection, disapproval"
+          "vi": "khong, khong tan thanh, bat dong, phan doi, khong chap thuan",
+          "en": "no, nay, disagreement, objection, disapproval"
         },
         "romaji": "ina"
       },
@@ -336,7 +369,8 @@
         "example": "否む",
         "reading": "いなむ",
         "meaning": {
-          "en": "to refuse, to decline, to deny"
+          "en": "to refuse, to decline, to deny",
+          "vi": "tu choi, khuoc tu, phu nhan"
         },
         "romaji": "inamu"
       },
@@ -344,7 +378,8 @@
         "example": "否",
         "reading": "いや",
         "meaning": {
-          "en": "no"
+          "en": "no",
+          "vi": "khong"
         },
         "romaji": "iya"
       },
@@ -352,14 +387,18 @@
         "example": "否々",
         "reading": "いやいや",
         "meaning": {
-          "en": "no!, no no!, no, not at all"
+          "en": "no!, no no!, no, not at all",
+          "vi": "khong!, khong dau!, khong he"
         },
         "romaji": "iyaiya"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "mieng, lo mo"
+      }
     },
     "parts": [
       "ノ",
@@ -378,5 +417,7 @@
     "bỉ",
     "phầu",
     "phủ"
-  ]
+  ],
+  "jlpt_level": "N3",
+  "mnemonic_vi": "Không ở trên, miệng ở dưới, nhớ là phủ định nói không."
 }

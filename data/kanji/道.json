@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "michi",
-    "meaning": "way, street, road",
+    "meaning": {
+      "en": "way, street, road",
+      "vi": "đường, phố, lối đi"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "道路（どうろ）",
         "meaning": {
-          "english": "road"
+          "english": "road",
+          "en": "road",
+          "vi": "con đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou-michi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "道場（どうじょう）",
         "meaning": {
-          "english": "hall used for martial arts training"
+          "english": "hall used for martial arts training",
+          "en": "hall used for martial arts training",
+          "vi": "võ đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou-michi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "歩道（ほどう）",
         "meaning": {
-          "english": "sidewalk"
+          "english": "sidewalk",
+          "en": "sidewalk",
+          "vi": "vỉa hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou-michi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "水道（すいどう）",
         "meaning": {
-          "english": "water supply"
+          "english": "water supply",
+          "en": "water supply",
+          "vi": "cấp nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou-michi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "書道（しょどう）",
         "meaning": {
-          "english": "calligraphy"
+          "english": "calligraphy",
+          "en": "calligraphy",
+          "vi": "thư pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou-michi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "地下道（ちかどう）",
         "meaning": {
-          "english": "underground tunnel"
+          "english": "underground tunnel",
+          "en": "underground tunnel",
+          "vi": "đường hầm ngầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou-michi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "神道（しんとう）",
         "meaning": {
-          "english": "Shintoism"
+          "english": "Shintoism",
+          "en": "Shintoism",
+          "vi": "Thần đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou-michi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "報道する（ほうどうする）",
         "meaning": {
-          "english": "report"
+          "english": "report",
+          "en": "report",
+          "vi": "báo đạo, bản tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou-michi_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "道（みち）",
         "meaning": {
-          "english": "street"
+          "english": "street",
+          "en": "street",
+          "vi": "đường phố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou-michi_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "近道（ちかみち）",
         "meaning": {
-          "english": "shortcut"
+          "english": "shortcut",
+          "en": "shortcut",
+          "vi": "đường tắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dou-michi_06_j.opus",
@@ -282,7 +305,9 @@
     "kanji": {
       "character": "道",
       "meaning": {
-        "english": "way, street, road"
+        "english": "way, street, road",
+        "en": "way, street, road",
+        "vi": "đường, phố, lối đi"
       },
       "strokes": {
         "count": 12,
@@ -344,7 +369,9 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance",
+        "en": "road, walk, to advance",
+        "vi": "đường, đi bộ, tiến lên"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -362,10 +389,13 @@
     "query": "道",
     "found": true,
     "taughtIn": "grade 2",
-    "jlptLevel": "N4",
+    "jlptLevel": "N5",
     "newspaperFrequencyRank": "207",
     "strokeCount": 12,
-    "meaning": "road-way, street, district, journey, course, moral, teachings",
+    "meaning": {
+      "en": "road-way, street, district, journey, course, moral, teachings",
+      "vi": "đường sá, phố xá, khu vực, hành trình, lộ trình, đạo lý, giáo huấn"
+    },
     "kunyomi": [
       "みち",
       "いう"
@@ -379,7 +409,8 @@
         "example": "道",
         "reading": "ドウ",
         "meaning": {
-          "vi": "road, path, street, route, way, set of practices, rules for conducting oneself, moral education, Buddhist teachings, Taoism, administrative region of Japan (Hokkaido), administrative region of Japan (Tokaido, Tosando, etc.), province (administrative region of Korea), circuit (administrative region of China), province (Tang-era administrative region of China)"
+          "vi": "đường, lối, tuyến đường, phép tắc xử thế, giáo dục đạo đức, giáo lý Phật giáo, Đạo giáo, đơn vị hành chính",
+          "en": "road, path, street, route, way, set of practices, rules for conducting oneself, moral education, Buddhist teachings, Taoism, administrative region of Japan (Hokkaido), administrative region of Japan (Tokaido, Tosando, etc.), province (administrative region of Korea), circuit (administrative region of China), province (Tang-era administrative region of China)"
         },
         "romaji": "dou"
       },
@@ -387,7 +418,8 @@
         "example": "道義",
         "reading": "ドウギ",
         "meaning": {
-          "vi": "morality, moral principles"
+          "vi": "đạo đức, nguyên tắc đạo lý",
+          "en": "morality, moral principles"
         },
         "romaji": "dougi"
       },
@@ -395,7 +427,8 @@
         "example": "正道",
         "reading": "セイドウ",
         "meaning": {
-          "vi": "path of righteousness, path of duty, right track, correct path"
+          "vi": "con đường chính đạo, đường đúng đắn",
+          "en": "path of righteousness, path of duty, right track, correct path"
         },
         "romaji": "seidou"
       },
@@ -403,7 +436,8 @@
         "example": "海道",
         "reading": "カイドウ",
         "meaning": {
-          "en": "sea route"
+          "en": "sea route",
+          "vi": "đường biển"
         },
         "romaji": "kaidou"
       },
@@ -411,7 +445,8 @@
         "example": "有道",
         "reading": "ユウドウ",
         "meaning": {
-          "vi": "being good, being virtuous, virtuous person"
+          "vi": "đức hạnh, người có đức",
+          "en": "being good, being virtuous, virtuous person"
         },
         "romaji": "yuudou"
       },
@@ -419,7 +454,8 @@
         "example": "不道",
         "reading": "フドウ",
         "meaning": {
-          "vi": "inhuman, immoral, unreasonable, outrageous, wicked, barbarity (one of the eight unpardonable crimes, incl. killing three people in one family, or dismembering a corpse)"
+          "vi": "vô đạo, vô luân, vô lý, tàn ác, man rợ",
+          "en": "inhuman, immoral, unreasonable, outrageous, wicked, barbarity (one of the eight unpardonable crimes, incl. killing three people in one family, or dismembering a corpse)"
         },
         "romaji": "fudou"
       }
@@ -429,7 +465,8 @@
         "example": "道",
         "reading": "みち",
         "meaning": {
-          "vi": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
+          "vi": "đường, lối, phố, tuyến, hành trình, khoảng cách, con đường đến thành công, cách sống, đạo lý, giáo lý, lĩnh vực, môn học, chuyên môn, phương tiện, phương pháp",
+          "en": "road, path, street, lane, passage, route, way, distance, journey, road (e.g. to victory), course, way (of living, proper conduct, etc.), moral principles, teachings (esp. Confucian or Buddhist), dogma, field (e.g. of medicine), subject, speciality, means, way, method"
         },
         "romaji": "michi"
       },
@@ -437,7 +474,8 @@
         "example": "道筋",
         "reading": "みちすじ",
         "meaning": {
-          "vi": "path, route, itinerary"
+          "vi": "con đường, tuyến đường, hành trình",
+          "en": "path, route, itinerary"
         },
         "romaji": "michisuji"
       },
@@ -445,7 +483,8 @@
         "example": "花道",
         "reading": "はなみち",
         "meaning": {
-          "en": "elevated walkway through the audience to the stage, honourable end to a career"
+          "en": "elevated walkway through the audience to the stage, honourable end to a career",
+          "vi": "lối đi cao xuyên qua khán giả lên sân khấu, cái kết đẹp của sự nghiệp"
         },
         "romaji": "hanamichi"
       },
@@ -453,7 +492,8 @@
         "example": "横道",
         "reading": "よこみち",
         "meaning": {
-          "en": "byway, side street, cross street, wrong way, digression"
+          "en": "byway, side street, cross street, wrong way, digression",
+          "vi": "đường nhánh, phố nhỏ, đường cắt ngang, lạc hướng, lạc đề"
         },
         "romaji": "yokomichi"
       }
@@ -465,7 +505,10 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": {
+        "en": "walk",
+        "vi": "đi bộ"
+      }
     },
     "parts": [
       "并",
@@ -481,5 +524,6 @@
   "hanViet": [
     "đáo",
     "đạo"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: vừa bước đi vừa chọn hướng, nên 道 là con đường hay đạo lý."
 }

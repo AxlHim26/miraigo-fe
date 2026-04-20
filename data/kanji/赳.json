@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2114",
     "strokeCount": 10,
-    "meaning": "strong and brave",
+    "meaning": {
+      "en": "strong and brave",
+      "vi": "mạnh mẽ và dũng cảm"
+    },
     "kunyomi": [],
     "onyomi": [
       "キュウ"
@@ -19,7 +22,10 @@
       "forms": [
         "赱"
       ],
-      "meaning": "run"
+      "meaning": {
+        "en": "run",
+        "vi": "chạy"
+      }
     },
     "parts": [
       "土",
@@ -33,5 +39,7 @@
   },
   "hanViet": [
     "củ"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Dáng chạy mạnh mẽ, hiên ngang nên nghĩa là dũng mãnh."
 }

@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "furu, furui",
-    "meaning": "old",
+    "meaning": {
+      "en": "old",
+      "vi": "cũ, xưa"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "古典（こてん）",
         "meaning": {
-          "english": "classics"
+          "english": "classics",
+          "en": "classics",
+          "vi": "kinh điển, cổ điển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "古代（こだい）",
         "meaning": {
-          "english": "ancient times"
+          "english": "ancient times",
+          "en": "ancient times",
+          "vi": "thời cổ đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "古い（ふるい）",
         "meaning": {
-          "english": "old"
+          "english": "old",
+          "en": "old",
+          "vi": "cũ, xưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "古新聞（ふるしんぶん）",
         "meaning": {
-          "english": "old newspapers"
+          "english": "old newspapers",
+          "en": "old newspapers",
+          "vi": "báo cũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/furu(i)_06_d.opus",
@@ -195,7 +206,9 @@
     "kanji": {
       "character": "古",
       "meaning": {
-        "english": "old"
+        "english": "old",
+        "en": "old",
+        "vi": "cũ, xưa"
       },
       "strokes": {
         "count": 5,
@@ -243,7 +256,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -264,7 +279,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "509",
     "strokeCount": 5,
-    "meaning": "old",
+    "meaning": {
+      "en": "old",
+      "vi": "cũ, xưa"
+    },
     "kunyomi": [
       "ふる.い",
       "ふる-",
@@ -278,7 +296,8 @@
         "example": "古参",
         "reading": "コサン",
         "meaning": {
-          "en": "senior, veteran, old-timer"
+          "en": "senior, veteran, old-timer",
+          "vi": "người kỳ cựu, cựu binh, lão làng"
         },
         "romaji": "kosan"
       },
@@ -286,7 +305,8 @@
         "example": "古今",
         "reading": "ココン",
         "meaning": {
-          "vi": "ancient and modern times, all ages, past and present"
+          "vi": "thời xưa và nay, mọi thời đại, quá khứ và hiện tại",
+          "en": "ancient and modern times, all ages, past and present"
         },
         "romaji": "kokon"
       },
@@ -294,7 +314,8 @@
         "example": "蒙古",
         "reading": "モウコ",
         "meaning": {
-          "vi": "Mongolia (region), Greater Mongolia, Mongolian Plateau, Mongols (nomadic tribe)"
+          "vi": "Mông Cổ (khu vực), Đại Mông Cổ, cao nguyên Mông Cổ, người Mông Cổ (bộ tộc du mục)",
+          "en": "Mongolia (region), Greater Mongolia, Mongolian Plateau, Mongols (nomadic tribe)"
         },
         "romaji": "mouko"
       },
@@ -302,7 +323,8 @@
         "example": "懐古",
         "reading": "カイコ",
         "meaning": {
-          "vi": "reminiscence, nostalgia, thinking fondly of the past, recalling the old days"
+          "vi": "hồi tưởng, hoài niệm, nhớ thương quá khứ, nhớ về những ngày xưa",
+          "en": "reminiscence, nostalgia, thinking fondly of the past, recalling the old days"
         },
         "romaji": "kaiko"
       }
@@ -312,7 +334,8 @@
         "example": "古い",
         "reading": "ふるい",
         "meaning": {
-          "vi": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date"
+          "vi": "cũ, lâu năm, cổ xưa, cổ hủ, đồ cổ, nhuốm màu thời gian, lâu dài, từ lâu, đáng kính theo thời gian, thuộc thời xa xưa, đã lâu, ôi thiu, sờn cũ, sáo mòn, lỗi thời",
+          "en": "old, aged, ancient, antiquated, antique, timeworn, long, since long ago, time-honored, of the distant past, long-ago, stale, threadbare, hackneyed, corny, old-fashioned, outmoded, out-of-date"
         },
         "romaji": "furui"
       },
@@ -320,14 +343,18 @@
         "example": "古家",
         "reading": "ふるいえ",
         "meaning": {
-          "en": "old house, deserted house"
+          "en": "old house, deserted house",
+          "vi": "nhà cũ, nhà hoang"
         },
         "romaji": "furuie"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "十",
@@ -338,6 +365,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e4.gif",
     "uri": "https://jisho.org/search/%E5%8F%A4%23kanji"
   },
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 十 chồng lên 口 như lời nói từ mười đời trước, nên 古 là cũ, xưa.",
   "hanViet": [
     "cổ"
   ]

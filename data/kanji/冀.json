@@ -5,7 +5,10 @@
     "query": "冀",
     "found": true,
     "strokeCount": 16,
-    "meaning": "hope for, wish, Hebei province",
+    "meaning": {
+      "en": "hope for, wish, Hebei province",
+      "vi": "hy vọng, mong ước, tỉnh Hà Bắc"
+    },
     "kunyomi": [
       "こいねが.う",
       "こいねが.わくは"
@@ -18,7 +21,8 @@
         "example": "希望",
         "reading": "キボウ",
         "meaning": {
-          "vi": "hope, wish, aspiration, (bright) prospects, expectation"
+          "vi": "hope, wish, aspiration, (bright) prospects, expectation",
+          "en": "hope, wish, aspiration, (bright) prospects, expectation"
         },
         "romaji": "kibou"
       },
@@ -26,7 +30,8 @@
         "example": "希求",
         "reading": "キキュウ",
         "meaning": {
-          "vi": "longing, great desire, aspiration"
+          "vi": "longing, great desire, aspiration",
+          "en": "longing, great desire, aspiration"
         },
         "romaji": "kikyuu"
       }
@@ -36,7 +41,8 @@
         "example": "希う",
         "reading": "こいねがう",
         "meaning": {
-          "vi": "to beg, to request, to beseech, to implore, to entreat"
+          "vi": "to beg, to request, to beseech, to implore, to entreat",
+          "en": "to beg, to request, to beseech, to implore, to entreat"
         },
         "romaji": "koinegau"
       },
@@ -44,14 +50,18 @@
         "example": "乞い願わくは",
         "reading": "こいねがわくは",
         "meaning": {
-          "vi": "I pray in earnest that, I beg that, I yearn that"
+          "vi": "I pray in earnest that, I beg that, I yearn that",
+          "en": "I pray in earnest that, I beg that, I yearn that"
         },
         "romaji": "koinegawakuha"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": {
+        "en": "eight",
+        "vi": "tám"
+      }
     },
     "parts": [
       "ハ",

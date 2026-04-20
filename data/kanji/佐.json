@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "474",
     "strokeCount": 7,
-    "meaning": "assistant, help",
+    "meaning": {
+      "en": "assistant, help",
+      "vi": "trợ giúp, hỗ trợ"
+    },
     "kunyomi": [],
     "onyomi": [
       "サ"
@@ -18,6 +21,7 @@
         "example": "佐保姫",
         "reading": "サホヒメ",
         "meaning": {
+          "en": "Saohime, goddess of Spring",
           "vi": "Saohime, goddess of Spring"
         },
         "romaji": "sahohime"
@@ -26,6 +30,7 @@
         "example": "佐織養護学校",
         "reading": "サオリヨウゴガッコウ",
         "meaning": {
+          "en": "Saori Special Needs School (older name style)",
           "vi": "Saori Special Needs School (older name style)"
         },
         "romaji": "saoriyougogakkou"
@@ -34,7 +39,8 @@
         "example": "中佐",
         "reading": "チュウサ",
         "meaning": {
-          "en": "lieutenant colonel, commander (navy)"
+          "en": "lieutenant colonel, commander (navy)",
+          "vi": "trung tá, chỉ huy hải quân"
         },
         "romaji": "chuusa"
       },
@@ -42,7 +48,8 @@
         "example": "二佐",
         "reading": "ニサ",
         "meaning": {
-          "en": "lieutenant colonel (JGSDF)"
+          "en": "lieutenant colonel (JGSDF)",
+          "vi": "trung tá (Lực lượng Phòng vệ Mặt đất Nhật Bản)"
         },
         "romaji": "nisa"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

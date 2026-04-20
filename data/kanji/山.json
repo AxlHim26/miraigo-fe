@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "yama",
-    "meaning": "mountain",
+    "meaning": {
+      "en": "mountain",
+      "vi": "núi"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "富士山（ふじさん）",
         "meaning": {
-          "english": "Mt Fuji"
+          "english": "Mt Fuji",
+          "en": "Mt Fuji",
+          "vi": "núi Phú Sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "山脈（さんみゃく）",
         "meaning": {
-          "english": "mountain range"
+          "english": "mountain range",
+          "en": "mountain range",
+          "vi": "dãy núi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "火山（かざん）",
         "meaning": {
-          "english": "volcano"
+          "english": "volcano",
+          "en": "volcano",
+          "vi": "núi lửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "登山（とざん）",
         "meaning": {
-          "english": "mountain-climbing"
+          "english": "mountain-climbing",
+          "en": "mountain-climbing",
+          "vi": "leo núi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "山（やま）",
         "meaning": {
-          "english": "mountain, pile, climax"
+          "english": "mountain, pile, climax",
+          "en": "mountain, pile, climax",
+          "vi": "núi, đống, cao trào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "岩山（いわやま）",
         "meaning": {
-          "english": "rocky mountain"
+          "english": "rocky mountain",
+          "en": "rocky mountain",
+          "vi": "núi đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "山火事（やまかじ）",
         "meaning": {
-          "english": "bushfire"
+          "english": "bushfire",
+          "en": "bushfire",
+          "vi": "cháy rừng bụi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yama_06_g.opus",
@@ -230,7 +247,9 @@
     "kanji": {
       "character": "山",
       "meaning": {
-        "english": "mountain"
+        "english": "mountain",
+        "en": "mountain",
+        "vi": "núi"
       },
       "strokes": {
         "count": 3,
@@ -274,7 +293,9 @@
         "romaji": "yama"
       },
       "meaning": {
-        "english": "mountain"
+        "english": "mountain",
+        "en": "mountain",
+        "vi": "núi"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yama0.svg",
@@ -295,7 +316,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "131",
     "strokeCount": 3,
-    "meaning": "mountain",
+    "meaning": {
+      "en": "mountain",
+      "vi": "núi"
+    },
     "kunyomi": [
       "やま"
     ],
@@ -308,7 +332,8 @@
         "example": "山",
         "reading": "サン",
         "meaning": {
-          "vi": "Mt., Mount, temple"
+          "vi": "Mt., Mount, temple",
+          "en": "Mt., Mount, temple"
         },
         "romaji": "san"
       },
@@ -316,7 +341,8 @@
         "example": "山陰",
         "reading": "ヤマカゲ",
         "meaning": {
-          "vi": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+          "vi": "place in the shade of a mountain, shelter of the mountains, mountain recess",
+          "en": "place in the shade of a mountain, shelter of the mountains, mountain recess"
         },
         "romaji": "yamakage"
       },
@@ -324,7 +350,8 @@
         "example": "治山",
         "reading": "チサン",
         "meaning": {
-          "en": "forest conservation, afforestation"
+          "en": "forest conservation, afforestation",
+          "vi": "forest conservation, afforestation"
         },
         "romaji": "chisan"
       },
@@ -332,7 +359,8 @@
         "example": "開山",
         "reading": "カイサン",
         "meaning": {
-          "vi": "founding a temple (on a hill-top)"
+          "vi": "founding a temple (on a hill-top)",
+          "en": "founding a temple (on a hill-top)"
         },
         "romaji": "kaisan"
       },
@@ -340,7 +368,8 @@
         "example": "山道",
         "reading": "ヤマミチ",
         "meaning": {
-          "en": "mountain road, mountain trail"
+          "en": "mountain road, mountain trail",
+          "vi": "mountain road, mountain trail"
         },
         "romaji": "yamamichi"
       },
@@ -348,7 +377,8 @@
         "example": "山海経",
         "reading": "センガイキョウ",
         "meaning": {
-          "en": "Classic of Mountains and Seas (classic Chinese text)"
+          "en": "Classic of Mountains and Seas (classic Chinese text)",
+          "vi": "Classic of Mountains and Seas (classic Chinese text)"
         },
         "romaji": "sengaikyou"
       },
@@ -356,7 +386,8 @@
         "example": "雪山",
         "reading": "セツザン",
         "meaning": {
-          "vi": "snowy mountain, permanently snow-covered mountain, Himalayas"
+          "vi": "snowy mountain, permanently snow-covered mountain, Himalayas",
+          "en": "snowy mountain, permanently snow-covered mountain, Himalayas"
         },
         "romaji": "setsuzan"
       },
@@ -364,7 +395,8 @@
         "example": "須弥山",
         "reading": "シュミセン",
         "meaning": {
-          "en": "Mount Sumeru (believed to be the centre of the Buddhist world)"
+          "en": "Mount Sumeru (believed to be the centre of the Buddhist world)",
+          "vi": "Mount Sumeru (believed to be the centre of the Buddhist world)"
         },
         "romaji": "shumisen"
       }
@@ -374,7 +406,8 @@
         "example": "山",
         "reading": "やま",
         "meaning": {
-          "vi": "mountain, hill, mine, (mountain) forest, heap, pile, stack, mountain, protruding or high part of an object, crown (of a hat), thread (of a screw), tread (of a tire), climax, peak, critical point, guess, speculation, gamble, (criminal) case, crime, mountain climbing, mountaineering, festival float (esp. one mounted with a decorative halberd), deck (from which players draw cards), draw pile, stock, wall, wall tile, wild"
+          "vi": "mountain, hill, mine, (mountain) forest, heap, pile, stack, mountain, protruding or high part of an object, crown (of a hat), thread (of a screw), tread (of a tire), climax, peak, critical point, guess, speculation, gamble, (criminal) case, crime, mountain climbing, mountaineering, festival float (esp. one mounted with a decorative halberd), deck (from which players draw cards), draw pile, stock, wall, wall tile, wild",
+          "en": "mountain, hill, mine, (mountain) forest, heap, pile, stack, mountain, protruding or high part of an object, crown (of a hat), thread (of a screw), tread (of a tire), climax, peak, critical point, guess, speculation, gamble, (criminal) case, crime, mountain climbing, mountaineering, festival float (esp. one mounted with a decorative halberd), deck (from which players draw cards), draw pile, stock, wall, wall tile, wild"
         },
         "romaji": "yama"
       },
@@ -382,7 +415,8 @@
         "example": "山陰",
         "reading": "やまかげ",
         "meaning": {
-          "vi": "place in the shade of a mountain, shelter of the mountains, mountain recess"
+          "vi": "place in the shade of a mountain, shelter of the mountains, mountain recess",
+          "en": "place in the shade of a mountain, shelter of the mountains, mountain recess"
         },
         "romaji": "yamakage"
       },
@@ -390,7 +424,8 @@
         "example": "奥山",
         "reading": "おくやま",
         "meaning": {
-          "en": "remote mountain, mountain recesses"
+          "en": "remote mountain, mountain recesses",
+          "vi": "remote mountain, mountain recesses"
         },
         "romaji": "okuyama"
       },
@@ -398,14 +433,18 @@
         "example": "青山",
         "reading": "せいざん",
         "meaning": {
-          "vi": "lush mountain, green mountain, grave, burial place"
+          "vi": "lush mountain, green mountain, grave, burial place",
+          "en": "lush mountain, green mountain, grave, burial place"
         },
         "romaji": "seizan"
       }
     ],
     "radical": {
       "symbol": "山",
-      "meaning": "mountain"
+      "meaning": {
+        "en": "mountain",
+        "vi": "núi"
+      }
     },
     "parts": [
       "山"
@@ -415,6 +454,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c71.gif",
     "uri": "https://jisho.org/search/%E5%B1%B1%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: ba đỉnh nhô lên như một ngọn núi.",
   "hanViet": [
     "san",
     "sơn"

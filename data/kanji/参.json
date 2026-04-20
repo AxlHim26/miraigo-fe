@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "mairu, mai",
-    "meaning": "participate, visit a holy place",
+    "meaning": {
+      "en": "participate, visit a holy place",
+      "vi": "tham gia, den than vieng noi linh thieng"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "参加する（さんかする）",
         "meaning": {
-          "english": "participate"
+          "english": "participate",
+          "en": "participate",
+          "vi": "tham gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-mai(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "参戦する（さんせんする）",
         "meaning": {
-          "english": "participate in a war"
+          "english": "participate in a war",
+          "en": "participate in a war",
+          "vi": "tham chien"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-mai(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "参拝する（さんぱいする）",
         "meaning": {
-          "english": "worship"
+          "english": "worship",
+          "en": "worship",
+          "vi": "tho phung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-mai(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "持参する（じさんする）",
         "meaning": {
-          "english": "bring"
+          "english": "bring",
+          "en": "bring",
+          "vi": "mang den"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-mai(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "降参する（こうさんする）",
         "meaning": {
-          "english": "surrender, give up [v.i.]"
+          "english": "surrender, give up [v.i.]",
+          "en": "surrender, give up [v.i.]",
+          "vi": "dau hang, bo cuoc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-mai(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "参考書（さんこうしょ）",
         "meaning": {
-          "english": "reference book"
+          "english": "reference book",
+          "en": "reference book",
+          "vi": "sach tham khao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-mai(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "参議院（さんぎいん）",
         "meaning": {
-          "english": "House of Councilors"
+          "english": "House of Councilors",
+          "en": "House of Councilors",
+          "vi": "Vien Co van"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-mai(ru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "参る（まいる）",
         "meaning": {
-          "english": "visit, go [hum.], be beaten"
+          "english": "visit, go [hum.], be beaten",
+          "en": "visit, go [hum.], be beaten",
+          "vi": "tham, di (khiem ngu), bi danh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-mai(ru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "墓参り（はかまいり）",
         "meaning": {
-          "english": "visit to a grave [n.]"
+          "english": "visit to a grave [n.]",
+          "en": "visit to a grave [n.]",
+          "vi": "viec tham mo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-mai(ru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "*人参（にんじん）",
         "meaning": {
-          "english": "carrot"
+          "english": "carrot",
+          "en": "carrot",
+          "vi": "ca rot"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/san-mai(ru)_06_j.opus",
@@ -247,7 +270,9 @@
     "kanji": {
       "character": "参",
       "meaning": {
-        "english": "participate, visit a holy place"
+        "english": "participate, visit a holy place",
+        "en": "participate, visit a holy place",
+        "vi": "tham gia, den than vieng noi linh thieng"
       },
       "strokes": {
         "count": 8,
@@ -301,7 +326,9 @@
         "romaji": "mu"
       },
       "meaning": {
-        "english": "private, Katakana Mu"
+        "english": "private, Katakana Mu",
+        "en": "private, Katakana Mu",
+        "vi": "rieng tu, chu katakana Mu"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mu0.svg",
@@ -322,7 +349,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "201",
     "strokeCount": 8,
-    "meaning": "nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in",
+    "meaning": {
+      "en": "nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in",
+      "vi": "boi roi, so ba trong van ban, di, den, tham, tham vieng, bi danh bai, chet, si tinh, tham gia, du phan"
+    },
     "kunyomi": [
       "まい.る",
       "まい-",
@@ -338,7 +368,8 @@
         "example": "三",
         "reading": "サン",
         "meaning": {
-          "en": "three, 3"
+          "en": "three, 3",
+          "vi": "ba, so 3"
         },
         "romaji": "san"
       },
@@ -346,7 +377,8 @@
         "example": "参院",
         "reading": "サンイン",
         "meaning": {
-          "vi": "House of Councillors (upper house of the National Diet of Japan)"
+          "vi": "Thuong nghi vien Nhat Ban",
+          "en": "House of Councillors (upper house of the National Diet of Japan)"
         },
         "romaji": "san'in"
       },
@@ -354,7 +386,8 @@
         "example": "日参",
         "reading": "ニッサン",
         "meaning": {
-          "vi": "daily visit to a temple or shrine (to worship), visiting frequently, visiting daily"
+          "vi": "di chua den than hang ngay de le bai, thuong xuyen lui toi, tham hang ngay",
+          "en": "daily visit to a temple or shrine (to worship), visiting frequently, visiting daily"
         },
         "romaji": "nissan"
       },
@@ -362,7 +395,8 @@
         "example": "推参",
         "reading": "スイサン",
         "meaning": {
-          "vi": "paying an unannounced visit, rudeness"
+          "vi": "ghe tham khong bao truoc, that le",
+          "en": "paying an unannounced visit, rudeness"
         },
         "romaji": "suisan"
       },
@@ -370,7 +404,8 @@
         "example": "参",
         "reading": "シン",
         "meaning": {
-          "en": "Chinese \"Three Stars\" constellation (one of the 28 mansions)"
+          "en": "Chinese \"Three Stars\" constellation (one of the 28 mansions)",
+          "vi": "chom sao Tam Tinh cua Trung Hoa, mot trong nhi thap bat tu"
         },
         "romaji": "shin"
       },
@@ -378,7 +413,8 @@
         "example": "参差",
         "reading": "シンシ",
         "meaning": {
-          "en": "of uneven heights or lengths"
+          "en": "of uneven heights or lengths",
+          "vi": "cao thap khong deu"
         },
         "romaji": "shinshi"
       }
@@ -388,14 +424,18 @@
         "example": "参る",
         "reading": "まいる",
         "meaning": {
-          "vi": "to go, to come, to call, to be defeated, to collapse, to die, to be annoyed, to be nonplussed, to be madly in love, to visit (shrine, grave)"
+          "vi": "di, den, ghe, bi danh bai, sup do, chet, buc boi, boi roi, si tinh, di tham den chua mo",
+          "en": "to go, to come, to call, to be defeated, to collapse, to die, to be annoyed, to be nonplussed, to be madly in love, to visit (shrine, grave)"
         },
         "romaji": "mairu"
       }
     ],
     "radical": {
       "symbol": "厶",
-      "meaning": "private"
+      "meaning": {
+        "en": "private",
+        "vi": "rieng tu"
+      }
     },
     "parts": [
       "一",
@@ -413,5 +453,7 @@
     "tam",
     "tham",
     "xam"
-  ]
+  ],
+  "jlpt_level": "N3",
+  "mnemonic_vi": "Ba nét phía trên như nhiều người cùng tham gia, nhớ là tham dự hoặc tham khảo."
 }

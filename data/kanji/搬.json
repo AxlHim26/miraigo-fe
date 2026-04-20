@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1664",
     "strokeCount": 13,
-    "meaning": "conveyor, carry, transport",
+    "meaning": {
+      "en": "conveyor, carry, transport",
+      "vi": "mang vác, chuyên chở, vận chuyển"
+    },
     "kunyomi": [],
     "onyomi": [
       "ハン"
@@ -18,7 +21,8 @@
         "example": "搬入",
         "reading": "ハンニュウ",
         "meaning": {
-          "vi": "carrying in (esp. heavy objects, artwork, furniture), bringing in, taking in"
+          "vi": "carrying in (esp. heavy objects, artwork, furniture), bringing in, taking in",
+          "en": ""
         },
         "romaji": "hannyuu"
       },
@@ -26,7 +30,8 @@
         "example": "搬送",
         "reading": "ハンソウ",
         "meaning": {
-          "vi": "transportation, conveyance, delivery, hospitalization, transfer to hospital"
+          "vi": "transportation, conveyance, delivery, hospitalization, transfer to hospital",
+          "en": ""
         },
         "romaji": "hansou"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": {
+        "en": "hand",
+        "vi": "tay"
+      }
     },
     "parts": [
       "几",
@@ -54,5 +62,7 @@
   "hanViet": [
     "ban",
     "bàn"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: dùng tay chuyển đồ lên thuyền rồi chở đi, nên 搬 là vận chuyển."
 }

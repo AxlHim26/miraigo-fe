@@ -5,7 +5,10 @@
     "query": "儖",
     "found": true,
     "strokeCount": 17,
-    "meaning": "ugly",
+    "meaning": {
+      "en": "ugly",
+      "vi": "xấu xí"
+    },
     "kunyomi": [],
     "onyomi": [
       "ラン"
@@ -17,7 +20,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "乞",

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1431",
     "strokeCount": 11,
-    "meaning": "cultivate, foster",
+    "meaning": {
+      "en": "cultivate, foster",
+      "vi": "vun trồng, bồi dưỡng"
+    },
     "kunyomi": [
       "つちか.う"
     ],
@@ -20,7 +23,8 @@
         "example": "培養",
         "reading": "バイヨウ",
         "meaning": {
-          "vi": "culture, cultivation, cultivation (of plants), growing, raising, cultivation (e.g. of a skill), nurture (of democracy, national power, etc.), growth"
+          "vi": "culture, cultivation, cultivation (of plants), growing, raising, cultivation (e.g. of a skill), nurture (of democracy, national power, etc.), growth",
+          "en": "culture, cultivation, cultivation (of plants), growing, raising, cultivation (e.g. of a skill), nurture (of democracy, national power, etc.), growth"
         },
         "romaji": "baiyou"
       },
@@ -28,7 +32,8 @@
         "example": "培植",
         "reading": "バイショク",
         "meaning": {
-          "vi": "cultivation (of plants), culturing"
+          "vi": "cultivation (of plants), culturing",
+          "en": "cultivation (of plants), culturing"
         },
         "romaji": "baishoku"
       },
@@ -36,7 +41,8 @@
         "example": "育成栽培",
         "reading": "イクセイサイバイ",
         "meaning": {
-          "en": "vegetable and fruit growing"
+          "en": "vegetable and fruit growing",
+          "vi": "trồng rau quả"
         },
         "romaji": "ikuseisaibai"
       },
@@ -44,7 +50,8 @@
         "example": "促成栽培",
         "reading": "ソクセイサイバイ",
         "meaning": {
-          "vi": "forcing (plants, vegetables, etc.), artificially hastening the growth of plants (by controlling heat, light, etc.)"
+          "vi": "forcing (plants, vegetables, etc.), artificially hastening the growth of plants (by controlling heat, light, etc.)",
+          "en": "forcing (plants, vegetables, etc.), artificially hastening the growth of plants (by controlling heat, light, etc.)"
         },
         "romaji": "sokuseisaibai"
       }
@@ -54,14 +61,18 @@
         "example": "培う",
         "reading": "つちかう",
         "meaning": {
-          "en": "to cultivate, to foster"
+          "en": "to cultivate, to foster",
+          "vi": "vun bồi, nuôi dưỡng"
         },
         "romaji": "tsuchikau"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "口",
@@ -73,6 +84,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57f9.gif",
     "uri": "https://jisho.org/search/%E5%9F%B9%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là đất, 咅 như phần được đắp thêm lên, thành vun đất để nuôi cây lớn.",
   "hanViet": [
     "bẫu",
     "bậu",

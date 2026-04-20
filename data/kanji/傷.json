@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "kizu, ita, itamu, itameru",
-    "meaning": "wound, injury, hurt",
+    "meaning": {
+      "en": "wound, injury, hurt",
+      "vi": "vết thương, chấn thương, làm đau"
+    },
     "kstroke": 13,
     "examples": [
       {
         "japanese": "傷害事件（しょうがいじけん）",
         "meaning": {
-          "english": "assault [n.]"
+          "english": "assault [n.]",
+          "en": "assault [n.]",
+          "vi": "hành hung, tấn công"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "損傷（そんしょう）",
         "meaning": {
-          "english": "damage, injury"
+          "english": "damage, injury",
+          "en": "damage, injury",
+          "vi": "thiệt hại, chấn thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "重傷（じゅうしょう）",
         "meaning": {
-          "english": "serious wound or injury"
+          "english": "serious wound or injury",
+          "en": "serious wound or injury",
+          "vi": "vết thương hoặc chấn thương nghiêm trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "中傷する（ちゅうしょうする）",
         "meaning": {
-          "english": "slander, defame"
+          "english": "slander, defame",
+          "en": "slander, defame",
+          "vi": "phỉ báng, bôi nhọ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "負傷する（ふしょうする）",
         "meaning": {
-          "english": "be injured, be wounded"
+          "english": "be injured, be wounded",
+          "en": "be injured, be wounded",
+          "vi": "bị thương, bị trúng thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "傷（きず）",
         "meaning": {
-          "english": "wound, injury, hurt, cut"
+          "english": "wound, injury, hurt, cut",
+          "en": "wound, injury, hurt, cut",
+          "vi": "vết thương, chấn thương, đau, vết cắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "傷口（きずぐち）",
         "meaning": {
-          "english": "wound"
+          "english": "wound",
+          "en": "wound",
+          "vi": "vết thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "傷跡（きずあと）",
         "meaning": {
-          "english": "scar"
+          "english": "scar",
+          "en": "scar",
+          "vi": "vết sẹo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "傷つける（きずつける）",
         "meaning": {
-          "english": "hurt, wound [v.t.]"
+          "english": "hurt, wound [v.t.]",
+          "en": "hurt, wound [v.t.]",
+          "vi": "làm đau, gây thương tích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "傷める（いためる）",
         "meaning": {
-          "english": "damage, impair, hurt [v.t.]"
+          "english": "damage, impair, hurt [v.t.]",
+          "en": "damage, impair, hurt [v.t.]",
+          "vi": "làm hư hại, làm suy yếu, làm tổn thương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "傷む（いたむ）",
         "meaning": {
-          "english": "be damaged, go bad [v.i.]"
+          "english": "be damaged, go bad [v.i.]",
+          "en": "be damaged, go bad [v.i.]",
+          "vi": "bị hỏng, trở nên xấu đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "*火傷（やけど）",
         "meaning": {
-          "english": "burn [n.]"
+          "english": "burn [n.]",
+          "en": "burn [n.]",
+          "vi": "vết bỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_l.opus",
@@ -250,7 +277,9 @@
     "kanji": {
       "character": "傷",
       "meaning": {
-        "english": "wound, injury, hurt"
+        "english": "wound, injury, hurt",
+        "en": "wound, injury, hurt",
+        "vi": "vết thương, chấn thương, làm đau"
       },
       "strokes": {
         "count": 13,
@@ -314,7 +343,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -335,7 +366,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "845",
     "strokeCount": 13,
-    "meaning": "wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point",
+    "meaning": {
+      "en": "wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point",
+      "vi": "vết thương, làm đau, gây thương tích, làm tổn hại, cơn đau, chấn thương, vết cắt, vết rạch, vết sẹo, điểm yếu"
+    },
     "kunyomi": [
       "きず",
       "いた.む",
@@ -349,7 +383,8 @@
         "example": "傷跡",
         "reading": "キズアト",
         "meaning": {
-          "en": "scar"
+          "en": "scar",
+          "vi": "vết sẹo"
         },
         "romaji": "kizuato"
       },
@@ -357,7 +392,8 @@
         "example": "傷害",
         "reading": "ショウガイ",
         "meaning": {
-          "en": "injury, inflicting bodily injury"
+          "en": "injury, inflicting bodily injury",
+          "vi": "chấn thương, gây thương tích cơ thể"
         },
         "romaji": "shougai"
       },
@@ -365,7 +401,8 @@
         "example": "殺傷",
         "reading": "サッショウ",
         "meaning": {
-          "en": "killing and wounding, bloodshed"
+          "en": "killing and wounding, bloodshed",
+          "vi": "giết chóc và làm bị thương, đổ máu"
         },
         "romaji": "sasshou"
       },
@@ -373,7 +410,8 @@
         "example": "脳挫傷",
         "reading": "ノウザショウ",
         "meaning": {
-          "en": "cerebral contusion"
+          "en": "cerebral contusion",
+          "vi": "dập não"
         },
         "romaji": "nouzashou"
       }
@@ -383,7 +421,8 @@
         "example": "傷",
         "reading": "きず",
         "meaning": {
-          "vi": "wound, injury, cut, gash, bruise, scratch, scrape, scar, chip, crack, scratch, nick, flaw, defect, weakness, weak point, stain (on one's reputation), disgrace, dishonor, dishonour, (emotional) hurt, hurt feelings"
+          "vi": "vết thương, chấn thương, vết cắt, vết rạch, vết bầm, vết xước, vết trầy, vết sẹo, mẻ, nứt, vết xước, vết khía, khuyết điểm, lỗi, sự yếu kém, điểm yếu, vết nhơ (trên danh tiếng), ô nhục, mất danh dự, tổn thương (tình cảm), cảm giác bị tổn thương",
+          "en": "wound, injury, cut, gash, bruise, scratch, scrape, scar, chip, crack, scratch, nick, flaw, defect, weakness, weak point, stain (on one's reputation), disgrace, dishonor, dishonour, (emotional) hurt, hurt feelings"
         },
         "romaji": "kizu"
       },
@@ -391,7 +430,8 @@
         "example": "傷跡",
         "reading": "きずあと",
         "meaning": {
-          "en": "scar"
+          "en": "scar",
+          "vi": "vết sẹo"
         },
         "romaji": "kizuato"
       },
@@ -399,7 +439,8 @@
         "example": "無傷",
         "reading": "むきず",
         "meaning": {
-          "vi": "unhurt, uninjured, unwounded, unscathed, unharmed, flawless (e.g. gem), unblemished, undamaged, perfect (condition), spotless (e.g. reputation), faultless (e.g. performance), perfect (record), without failure, without defeat"
+          "vi": "không bị thương, không bị chấn thương, không có vết thương, nguyên vẹn, không hề hấn gì, không tì vết (ví dụ đá quý), không blemish, không hư hại, hoàn hảo (tình trạng), không tì vết (ví dụ danh tiếng), không lỗi (ví dụ màn trình diễn), thành tích hoàn hảo, không thất bại, không bị đánh bại",
+          "en": "unhurt, uninjured, unwounded, unscathed, unharmed, flawless (e.g. gem), unblemished, undamaged, perfect (condition), spotless (e.g. reputation), faultless (e.g. performance), perfect (record), without failure, without defeat"
         },
         "romaji": "mukizu"
       },
@@ -407,7 +448,8 @@
         "example": "古傷",
         "reading": "ふるきず",
         "meaning": {
-          "vi": "old wound, scar, unpleasant past experience, painful memory, past misdeed"
+          "vi": "vết thương cũ, vết sẹo, trải nghiệm quá khứ khó chịu, ký ức đau buồn, lỗi lầm trong quá khứ",
+          "en": "old wound, scar, unpleasant past experience, painful memory, past misdeed"
         },
         "romaji": "furukizu"
       },
@@ -415,7 +457,8 @@
         "example": "痛む",
         "reading": "いたむ",
         "meaning": {
-          "vi": "to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food), to be damaged"
+          "vi": "đau, nhức, cảm thấy đau, bị thương, bị hỏng (ví dụ thức ăn), bị hư hại",
+          "en": "to hurt, to ache, to feel a pain, to be injured, to be spoiled (e.g. food), to be damaged"
         },
         "romaji": "itamu"
       },
@@ -423,7 +466,8 @@
         "example": "痛める",
         "reading": "いためる",
         "meaning": {
-          "vi": "to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket"
+          "vi": "làm đau, làm bị thương, gây đau đớn, gây hại, làm hư hại, làm hỏng, khiến lo lắng, làm phiền, khiến buồn lòng, hành hạ, gây thiệt hại tài chính, làm hao tiền tốn của",
+          "en": "to hurt, to injure, to cause pain, to harm, to damage, to spoil, to worry, to bother, to be grieved over, to afflict, to cause financial loss, to hurt one's pocket"
         },
         "romaji": "itameru"
       }
@@ -433,7 +477,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

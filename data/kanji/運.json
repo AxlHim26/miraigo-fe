@@ -7,13 +7,17 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "hako, hakobu",
-    "meaning": "carry, move, fortune",
+    "meaning": {
+      "en": "carry, move, fortune",
+      "vi": "carry, move, fortune"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "運動する（うんどうする）",
         "meaning": {
-          "english": "exercise"
+          "en": "exercise",
+          "vi": "vận động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "運転する（うんてんする）",
         "meaning": {
-          "english": "operate, drive"
+          "en": "operate, drive",
+          "vi": "operate, drive"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "準備運動（じゅんびうんどう）",
         "meaning": {
-          "english": "warming-up exercises"
+          "en": "warming-up exercises",
+          "vi": "warming-up exercises"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "運賃（うんちん）",
         "meaning": {
-          "english": "fare"
+          "en": "fare",
+          "vi": "cước phí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "運動靴（うんどうぐつ）",
         "meaning": {
-          "english": "sneakers"
+          "en": "sneakers",
+          "vi": "giày thể thao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "運命（うんめい）",
         "meaning": {
-          "english": "fate"
+          "en": "fate",
+          "vi": "số mệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "好運（こううん）",
         "meaning": {
-          "english": "good luck"
+          "en": "good luck",
+          "vi": "vận may"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "不運（ふうん）",
         "meaning": {
-          "english": "bad luck"
+          "en": "bad luck",
+          "vi": "xui xẻo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "運ぶ（はこぶ）",
         "meaning": {
-          "english": "transport"
+          "en": "transport",
+          "vi": "vận chuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hako(bu)_06_i.opus",
@@ -302,7 +314,8 @@
     "kanji": {
       "character": "運",
       "meaning": {
-        "english": "carry, move, fortune"
+        "en": "carry, move, fortune",
+        "vi": "carry, move, fortune"
       },
       "strokes": {
         "count": 12,
@@ -364,7 +377,8 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "en": "road, walk, to advance",
+        "vi": "road, walk, to advance"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -378,6 +392,8 @@
       "classic_nelson": "4725"
     }
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Xe/đội quân 軍 được đưa đi trên đường 辶: vận chuyển, vận hành, cũng là vận số.",
   "jishoData": {
     "query": "運",
     "found": true,
@@ -385,7 +401,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "255",
     "strokeCount": 12,
-    "meaning": "carry, luck, destiny, fate, lot, transport, progress, advance",
+    "meaning": {
+      "en": "carry, luck, destiny, fate, lot, transport, progress, advance",
+      "vi": "carry, luck, destiny, fate, lot, transport, progress, advance"
+    },
     "kunyomi": [
       "はこ.ぶ"
     ],
@@ -397,7 +416,8 @@
         "example": "運",
         "reading": "ウン",
         "meaning": {
-          "en": "fortune, luck, chance"
+          "en": "fortune, luck, chance",
+          "vi": "fortune, luck, chance"
         },
         "romaji": "un"
       },
@@ -405,6 +425,7 @@
         "example": "運営",
         "reading": "ウンエイ",
         "meaning": {
+          "en": "management, administration, operation",
           "vi": "management, administration, operation"
         },
         "romaji": "un'ei"
@@ -413,6 +434,7 @@
         "example": "機運",
         "reading": "キウン",
         "meaning": {
+          "en": "opportunity, chance, good time (to do), trend, tendency, momentum",
           "vi": "opportunity, chance, good time (to do), trend, tendency, momentum"
         },
         "romaji": "kiun"
@@ -421,7 +443,8 @@
         "example": "命運",
         "reading": "メイウン",
         "meaning": {
-          "en": "fate, destiny"
+          "en": "fate, destiny",
+          "vi": "fate, destiny"
         },
         "romaji": "meiun"
       }
@@ -431,6 +454,7 @@
         "example": "運ぶ",
         "reading": "はこぶ",
         "meaning": {
+          "en": "to carry, to transport, to move, to convey, to come, to go, to use (a brush, chopsticks, etc.), to move, to carry out, to proceed with, to arrange, to go (well, etc.), to proceed, to progress",
           "vi": "to carry, to transport, to move, to convey, to come, to go, to use (a brush, chopsticks, etc.), to move, to carry out, to proceed with, to arrange, to go (well, etc.), to proceed, to progress"
         },
         "romaji": "hakobu"
@@ -443,7 +467,10 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": {
+        "en": "walk",
+        "vi": "walk"
+      }
     },
     "parts": [
       "冖",

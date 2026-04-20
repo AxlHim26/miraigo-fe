@@ -4,12 +4,15 @@
   "jishoData": {
     "query": "マ",
     "found": false,
-    "meaning": "mã"
+    "meaning": {
+      "en": "mark",
+      "vi": "mã"
+    }
   },
   "hanViet": null,
   "hanVietNote": "Không tìm thấy trong các nguồn tra cứu",
   "meaning": {
-    "vi": "mã",
-    "en": "mã"
+    "en": "mark",
+    "vi": "mã"
   }
 }

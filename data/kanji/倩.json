@@ -5,7 +5,10 @@
     "query": "倩",
     "found": true,
     "strokeCount": 10,
-    "meaning": "carefully, attentively, profoundly",
+    "meaning": {
+      "en": "carefully, attentively, profoundly",
+      "vi": "cẩn thận, chăm chú, sâu sắc"
+    },
     "kunyomi": [
       "つらつら",
       "うつく.しい"
@@ -19,7 +22,8 @@
         "example": "倩",
         "reading": "セン",
         "meaning": {
-          "en": "good-looking, attractive"
+          "en": "good-looking, attractive",
+          "vi": "ưa nhìn, hấp dẫn"
         },
         "romaji": "sen"
       }
@@ -29,7 +33,8 @@
         "example": "倩々",
         "reading": "つらつら",
         "meaning": {
-          "vi": "carefully, closely, attentively, profoundly, deeply, at length"
+          "vi": "cẩn thận, kỹ lưỡng, chăm chú, sâu sắc, sâu đậm, tường tận",
+          "en": "carefully, closely, attentively, profoundly, deeply, at length"
         },
         "romaji": "tsuratsura"
       }
@@ -39,7 +44,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "二",

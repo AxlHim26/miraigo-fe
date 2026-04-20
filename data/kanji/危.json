@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "abu, aya, abunai, ayaui, ayabumu, ayauku",
-    "meaning": "dangerous",
+    "meaning": {
+      "en": "dangerous",
+      "vi": "nguy hiểm"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "危機（きき）",
         "meaning": {
-          "english": "crisis"
+          "english": "crisis",
+          "en": "crisis",
+          "vi": "khủng hoảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "危害（きがい）",
         "meaning": {
-          "english": "injury, harm, danger"
+          "english": "injury, harm, danger",
+          "en": "injury, harm, danger",
+          "vi": "tổn thương, nguy hại, nguy hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "危篤（きとく）",
         "meaning": {
-          "english": "on the verge of death"
+          "english": "on the verge of death",
+          "en": "on the verge of death",
+          "vi": "thoi thóp, cận kề cái chết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "危惧（きぐ）",
         "meaning": {
-          "english": "fear, misgivings"
+          "english": "fear, misgivings",
+          "en": "fear, misgivings",
+          "vi": "nỗi sợ, sự bất an"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "危険な（きけんな）",
         "meaning": {
-          "english": "dangerous, perilous, hazardous"
+          "english": "dangerous, perilous, hazardous",
+          "en": "dangerous, perilous, hazardous",
+          "vi": "nguy hiểm, hiểm nguy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "危ない（あぶない）",
         "meaning": {
-          "english": "dangerous, watch out! [adj.]"
+          "english": "dangerous, watch out! [adj.]",
+          "en": "dangerous, watch out! [adj.]",
+          "vi": "nguy hiểm, coi chừng!"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "危うく（あやうく）",
         "meaning": {
-          "english": "in imminent danger of, almost"
+          "english": "in imminent danger of, almost",
+          "en": "in imminent danger of, almost",
+          "vi": "sắp rơi vào nguy hiểm, suýt nữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "危うい（あやうい）",
         "meaning": {
-          "english": "dangerous, critical [adj.]"
+          "english": "dangerous, critical [adj.]",
+          "en": "dangerous, critical [adj.]",
+          "vi": "nguy cấp, nguy hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "危ぶむ（あやぶむ）",
         "meaning": {
-          "english": "have misgivings [v.t.]"
+          "english": "have misgivings [v.t.]",
+          "en": "have misgivings [v.t.]",
+          "vi": "cảm thấy bất an, nghi ngại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/abu(nai)_06_i.opus",
@@ -228,7 +249,9 @@
     "kanji": {
       "character": "危",
       "meaning": {
-        "english": "dangerous"
+        "english": "dangerous",
+        "en": "dangerous",
+        "vi": "nguy hiểm"
       },
       "strokes": {
         "count": 6,
@@ -278,7 +301,9 @@
         "romaji": "fushizukuri"
       },
       "meaning": {
-        "english": "stamp, seal"
+        "english": "stamp, seal",
+        "en": "stamp, seal",
+        "vi": "con dấu, ấn"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/fushizukuri0.svg",
@@ -299,7 +324,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "606",
     "strokeCount": 6,
-    "meaning": "dangerous, fear, uneasy",
+    "meaning": {
+      "en": "dangerous, fear, uneasy",
+      "vi": "nguy hiểm, sợ hãi, bất an"
+    },
     "kunyomi": [
       "あぶ.ない",
       "あや.うい",
@@ -313,7 +341,8 @@
         "example": "危",
         "reading": "キ",
         "meaning": {
-          "vi": "danger, Chinese \"rooftop\" constellation (one of the 28 mansions)"
+          "vi": "danger, Chinese \"rooftop\" constellation (one of the 28 mansions)",
+          "en": "danger, Chinese \"rooftop\" constellation (one of the 28 mansions)"
         },
         "romaji": "ki"
       },
@@ -321,7 +350,8 @@
         "example": "危害",
         "reading": "キガイ",
         "meaning": {
-          "en": "injury, harm, danger"
+          "en": "injury, harm, danger",
+          "vi": "tổn thương, nguy hại, nguy hiểm"
         },
         "romaji": "kigai"
       },
@@ -329,7 +359,8 @@
         "example": "安危",
         "reading": "アンキ",
         "meaning": {
-          "en": "fate, safety, welfare"
+          "en": "fate, safety, welfare",
+          "vi": "vận mệnh, sự an toàn, phúc lợi"
         },
         "romaji": "anki"
       }
@@ -339,7 +370,8 @@
         "example": "危ない",
         "reading": "あぶない",
         "meaning": {
-          "vi": "dangerous, risky, hazardous, perilous, precarious, in danger, in jeopardy, critical, grave, at risk, uncertain, unreliable, insecure, unsteady, doubtful, close (call), narrow (escape), look out!, watch out!, be careful!"
+          "vi": "dangerous, risky, hazardous, perilous, precarious, in danger, in jeopardy, critical, grave, at risk, uncertain, unreliable, insecure, unsteady, doubtful, close (call), narrow (escape), look out!, watch out!, be careful!",
+          "en": "dangerous, risky, hazardous, perilous, precarious, in danger, in jeopardy, critical, grave, at risk, uncertain, unreliable, insecure, unsteady, doubtful, close (call), narrow (escape), look out!, watch out!, be careful!"
         },
         "romaji": "abunai"
       },
@@ -347,7 +379,8 @@
         "example": "危ない橋を渡る",
         "reading": "あぶないはしをわたる",
         "meaning": {
-          "vi": "to tread on thin ice, to go out on a limb, to walk a tightrope, to take risks, to cross a dangerous bridge"
+          "vi": "to tread on thin ice, to go out on a limb, to walk a tightrope, to take risks, to cross a dangerous bridge",
+          "en": "to tread on thin ice, to go out on a limb, to walk a tightrope, to take risks, to cross a dangerous bridge"
         },
         "romaji": "abunaihashiwowataru"
       },
@@ -355,7 +388,8 @@
         "example": "危うい",
         "reading": "あやうい",
         "meaning": {
-          "vi": "dangerous, in danger, facing imminent danger, precarious (situation), perilous (state, balance, etc.), in doubt, in jeopardy, uncertain, insecure, concerning, worrying"
+          "vi": "dangerous, in danger, facing imminent danger, precarious (situation), perilous (state, balance, etc.), in doubt, in jeopardy, uncertain, insecure, concerning, worrying",
+          "en": "dangerous, in danger, facing imminent danger, precarious (situation), perilous (state, balance, etc.), in doubt, in jeopardy, uncertain, insecure, concerning, worrying"
         },
         "romaji": "ayaui"
       },
@@ -363,14 +397,18 @@
         "example": "危ぶむ",
         "reading": "あやぶむ",
         "meaning": {
-          "vi": "to fear, to doubt, to have misgivings about, to worry about, to be anxious about, to be apprehensive about"
+          "vi": "to fear, to doubt, to have misgivings about, to worry about, to be anxious about, to be apprehensive about",
+          "en": "to fear, to doubt, to have misgivings about, to worry about, to be anxious about, to be apprehensive about"
         },
         "romaji": "ayabumu"
       }
     ],
     "radical": {
       "symbol": "卩",
-      "meaning": "kneel"
+      "meaning": {
+        "en": "kneel",
+        "vi": "quỳ"
+      }
     },
     "parts": [
       "勹",
@@ -385,5 +423,7 @@
   "hanViet": [
     "nguy",
     "quỵ"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Người đứng chênh vênh trên vách cao, nhìn là thấy nguy hiểm."
 }

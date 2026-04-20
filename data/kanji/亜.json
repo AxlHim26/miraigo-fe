@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1509",
     "strokeCount": 7,
-    "meaning": "Asia, rank next, come after, -ous",
+    "meaning": {
+      "en": "Asia, rank next, come after, -ous",
+      "vi": "châu Á, xếp kế tiếp, theo sau, hậu tố -ous"
+    },
     "kunyomi": [
       "つ.ぐ"
     ],
@@ -20,6 +23,7 @@
         "example": "亜",
         "reading": "ア",
         "meaning": {
+          "en": "sub-, second-rate, inferior, -ous (indicating a low oxidation state), -ite, Asia, Argentina, Arabia, America, American person",
           "vi": "sub-, second-rate, inferior, -ous (indicating a low oxidation state), -ite, Asia, Argentina, Arabia, America, American person"
         },
         "meaningVN": "phụ, hạng hai, kém hơn, -ous (biểu thị trạng thái oxy hóa thấp), -ite, châu á, argentina, ả rập, châu mỹ, người mỹ",
@@ -31,7 +35,8 @@
         "example": "亜鉛",
         "reading": "アエン",
         "meaning": {
-          "en": "zinc (Zn)"
+          "en": "zinc (Zn)",
+          "vi": "kẽm (Zn)"
         },
         "meaningVN": "kẽm (zn)",
         "hanViet": "a diên",
@@ -42,7 +47,8 @@
         "example": "東亜",
         "reading": "トウア",
         "meaning": {
-          "en": "East Asia, the Orient"
+          "en": "East Asia, the Orient",
+          "vi": "Đông Á, phương Đông"
         },
         "meaningVN": "đông á, phương đông",
         "hanViet": "đông a",
@@ -53,7 +59,8 @@
         "example": "叙利亜",
         "reading": "シリア",
         "meaning": {
-          "en": "Syria"
+          "en": "Syria",
+          "vi": "Syria"
         },
         "meaningVN": "syria",
         "hanViet": "tự lợi a",
@@ -66,7 +73,8 @@
         "example": "次ぐ",
         "reading": "つぐ",
         "meaning": {
-          "en": "to follow, to come after, to come next (to), to rank next (to), to rank second (to)"
+          "en": "to follow, to come after, to come next (to), to rank next (to), to rank second (to)",
+          "vi": "theo sau, đến sau, đến kế tiếp, xếp kế tiếp, xếp thứ hai"
         },
         "meaningVN": "theo sau, đến sau, đến tiếp theo (đến), xếp hạng tiếp theo (đến), xếp thứ hai (đến)",
         "hanViet": "thứ ぐ",
@@ -76,7 +84,10 @@
     ],
     "radical": {
       "symbol": "二",
-      "meaning": "two"
+      "meaning": {
+        "en": "two",
+        "vi": "hai"
+      }
     },
     "parts": [
       "一",

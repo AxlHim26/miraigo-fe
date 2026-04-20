@@ -7,13 +7,17 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "tobo, toboshii, toboshisa",
-    "meaning": "scanty, meager, scarce",
+    "meaning": {
+      "en": "scanty, meager, scarce",
+      "vi": "ít ỏi, nghèo nàn, khan hiếm"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "貧乏な（びんぼうな）",
         "meaning": {
-          "english": "poor"
+          "en": "poor",
+          "vi": "nghèo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_a.opus",
@@ -28,7 +32,8 @@
       {
         "japanese": "欠乏する（けつぼうする）",
         "meaning": {
-          "english": "run short"
+          "en": "run short",
+          "vi": "chạy ngắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_b.opus",
@@ -43,7 +48,8 @@
       {
         "japanese": "乏しい（とぼしい）",
         "meaning": {
-          "english": "meagre, scarce"
+          "en": "meagre, scarce",
+          "vi": "ít ỏi, khan hiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tobo(shii)_06_c.opus",
@@ -157,7 +163,8 @@
     "kanji": {
       "character": "乏",
       "meaning": {
-        "english": "scanty, meager, scarce"
+        "en": "scanty, meager, scarce",
+        "vi": "ít ỏi, nghèo nàn, khan hiếm"
       },
       "strokes": {
         "count": 4,
@@ -203,7 +210,8 @@
         "romaji": "nokanmuri"
       },
       "meaning": {
-        "english": "diagonal sweeping stroke"
+        "en": "diagonal sweeping stroke",
+        "vi": "nét phẩy chéo"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nokanmuri0.svg",
@@ -224,7 +232,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1646",
     "strokeCount": 4,
-    "meaning": "destitution, scarce, limited",
+    "meaning": {
+      "en": "destitution, scarce, limited",
+      "vi": "sự thiếu thốn, khan hiếm, hạn chế"
+    },
     "kunyomi": [
       "とぼ.しい",
       "とも.しい"
@@ -237,6 +248,7 @@
         "example": "乏精子症",
         "reading": "ボウセイシショウ",
         "meaning": {
+          "en": "oligozoospermia, oligospermia",
           "vi": "oligozoospermia, oligospermia"
         },
         "meaningVN": "oligozoospermia, oligospermia",
@@ -248,7 +260,8 @@
         "example": "乏尿",
         "reading": "ボウニョウ",
         "meaning": {
-          "en": "oliguria"
+          "en": "oliguria",
+          "vi": "thiểu niệu"
         },
         "meaningVN": "thiểu niệu",
         "hanViet": "phạp niếu",
@@ -259,7 +272,8 @@
         "example": "耐乏",
         "reading": "タイボウ",
         "meaning": {
-          "vi": "austerity, voluntary privation"
+          "en": "austerity, voluntary privation",
+          "vi": "thắt lưng buộc bụng, tự nguyện thiếu thốn"
         },
         "meaningVN": "thắt lưng buộc bụng, tự nguyện thiếu thốn",
         "hanViet": "năng phạp",
@@ -270,7 +284,8 @@
         "example": "困苦窮乏",
         "reading": "コンクキュウボウ",
         "meaning": {
-          "vi": "hardships and privations"
+          "en": "hardships and privations",
+          "vi": "những khó khăn và thiếu thốn"
         },
         "meaningVN": "những khó khăn và thiếu thốn",
         "hanViet": "khốn cổ cùng phạp",
@@ -283,7 +298,8 @@
         "example": "乏しい",
         "reading": "とぼしい",
         "meaning": {
-          "vi": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"
+          "en": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor",
+          "vi": "ít ỏi, ít ỏi, khan hiếm, có giới hạn, cơ cực, khó khăn, thiếu thốn, ít ỏi, nghèo nàn"
         },
         "meaningVN": "ít ỏi, ít ỏi, khan hiếm, có giới hạn, cơ cực, khó khăn, thiếu thốn, ít ỏi, nghèo nàn",
         "hanViet": "phạp し い",
@@ -294,7 +310,8 @@
         "example": "乏しい",
         "reading": "とぼしい",
         "meaning": {
-          "vi": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor"
+          "en": "meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor",
+          "vi": "ít ỏi, ít ỏi, khan hiếm, có giới hạn, cơ cực, khó khăn, thiếu thốn, ít ỏi, nghèo nàn"
         },
         "meaningVN": "ít ỏi, ít ỏi, khan hiếm, có giới hạn, cơ cực, khó khăn, thiếu thốn, ít ỏi, nghèo nàn",
         "hanViet": "phạp し い",
@@ -304,7 +321,10 @@
     ],
     "radical": {
       "symbol": "丿",
-      "meaning": "slash"
+      "meaning": {
+        "en": "slash",
+        "vi": "nét phẩy"
+      }
     },
     "parts": [
       "ノ",

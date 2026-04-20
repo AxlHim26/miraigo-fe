@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kata, katai, katasa",
-    "meaning": "firm, hard, solid",
+    "meaning": {
+      "en": "firm, hard, solid",
+      "vi": "rắn chắc, cứng, vững"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "堅実な（けんじつな）",
         "meaning": {
-          "english": "reliable, solid"
+          "english": "reliable, solid",
+          "en": "reliable, solid",
+          "vi": "đáng tin, vững vàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata(i)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "堅固な（けんごな）",
         "meaning": {
-          "english": "solid, firm"
+          "english": "solid, firm",
+          "en": "solid, firm",
+          "vi": "rắn chắc, vững"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata(i)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "中堅（ちゅうけん）",
         "meaning": {
-          "english": "backbone, mainstay, center"
+          "english": "backbone, mainstay, center",
+          "en": "backbone, mainstay, center",
+          "vi": "xương sống, chỗ dựa chính, trung tâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata(i)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "堅い（かたい）",
         "meaning": {
-          "english": "firm, hard, formal (writing)"
+          "english": "firm, hard, formal (writing)",
+          "en": "firm, hard, formal (writing)",
+          "vi": "cứng rắn, chắc chắn, văn phong trang trọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata(i)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "堅苦しい（かたくるしい）",
         "meaning": {
-          "english": "stiff (mannered)"
+          "english": "stiff (mannered)",
+          "en": "stiff (mannered)",
+          "vi": "cứng nhắc, gượng gạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata(i)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "堅物（かたぶつ）",
         "meaning": {
-          "english": "overly serious person"
+          "english": "overly serious person",
+          "en": "overly serious person",
+          "vi": "người quá nghiêm túc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata(i)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "手堅い（てがたい）",
         "meaning": {
-          "english": "secure [adj.]"
+          "english": "secure [adj.]",
+          "en": "secure [adj.]",
+          "vi": "an toàn, vững chắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-kata(i)_06_g.opus",
@@ -185,7 +202,9 @@
     "kanji": {
       "character": "堅",
       "meaning": {
-        "english": "firm, hard, solid"
+        "english": "firm, hard, solid",
+        "en": "firm, hard, solid",
+        "vi": "rắn chắc, cứng, vững"
       },
       "strokes": {
         "count": 12,
@@ -247,7 +266,9 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -268,7 +289,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1049",
     "strokeCount": 12,
-    "meaning": "strict, hard, solid, tough, tight, reliable",
+    "meaning": {
+      "en": "strict, hard, solid, tough, tight, reliable",
+      "vi": "nghiêm, cứng, rắn, bền chắc, chặt, đáng tin"
+    },
     "kunyomi": [
       "かた.い",
       "-がた.い"
@@ -281,7 +305,8 @@
         "example": "堅",
         "reading": "ケン",
         "meaning": {
-          "en": "strength, solidity, firmness, armour, armor"
+          "en": "strength, solidity, firmness, armour, armor",
+          "vi": "sức bền, độ rắn chắc, sự kiên cố, áo giáp"
         },
         "romaji": "ken"
       },
@@ -289,7 +314,8 @@
         "example": "堅持",
         "reading": "ケンジ",
         "meaning": {
-          "en": "holding on to, sticking to"
+          "en": "holding on to, sticking to",
+          "vi": "bám chặt, kiên định giữ lấy"
         },
         "romaji": "kenji"
       },
@@ -297,7 +323,8 @@
         "example": "中堅",
         "reading": "チュウケン",
         "meaning": {
-          "vi": "nucleus, backbone, mainstay, key figure, medium-level, mid-level, middle-ranking, midsize, main body (of troops), crack troops, select troops, center field, centre field, center fielder, centre fielder, athlete competing in the middle-number match in a team competition, i.e. second in 3-on-3, third in 5-on-5 (kendo, judo, etc.)"
+          "vi": "nòng cốt, xương sống, nhân vật chủ chốt, cấp trung, cỡ vừa, lực lượng chính, quân tinh nhuệ, vị trí trung tâm, tuyển thủ ở trận giữa",
+          "en": "nucleus, backbone, mainstay, key figure, medium-level, mid-level, middle-ranking, midsize, main body (of troops), crack troops, select troops, center field, centre field, center fielder, centre fielder, athlete competing in the middle-number match in a team competition, i.e. second in 3-on-3, third in 5-on-5 (kendo, judo, etc.)"
         },
         "romaji": "chuuken"
       },
@@ -305,7 +332,8 @@
         "example": "米利堅",
         "reading": "メリケン",
         "meaning": {
-          "en": "America, American, fist"
+          "en": "America, American, fist",
+          "vi": "Mỹ, người Mỹ, nắm đấm"
         },
         "romaji": "meriken"
       }
@@ -315,7 +343,8 @@
         "example": "硬い",
         "reading": "かたい",
         "meaning": {
-          "vi": "hard, solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not viscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy"
+          "vi": "hard, solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not viscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy",
+          "en": "hard, solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not viscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy"
         },
         "romaji": "katai"
       },
@@ -323,14 +352,18 @@
         "example": "堅い商売",
         "reading": "かたいしょうばい",
         "meaning": {
-          "en": "sound business"
+          "en": "sound business",
+          "vi": "việc làm ăn vững chắc"
         },
         "romaji": "kataishoubai"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "又",
@@ -344,5 +377,7 @@
   },
   "hanViet": [
     "kiên"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: nền đất 土 được giữ chặt, nén kỹ nên trở nên cứng chắc, vững bền."
 }

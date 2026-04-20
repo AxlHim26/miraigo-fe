@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "era, erai",
-    "meaning": "great, eminent, remarkable",
+    "meaning": {
+      "en": "great, eminent, remarkable",
+      "vi": "vĩ đại, kiệt xuất, đáng chú ý"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "偉才（いさい）",
         "meaning": {
-          "english": "great talent"
+          "english": "great talent",
+          "en": "great talent",
+          "vi": "tài năng lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/era(i)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "偉業（いぎょう）",
         "meaning": {
-          "english": "great enterprise"
+          "english": "great enterprise",
+          "en": "great enterprise",
+          "vi": "sự nghiệp lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/era(i)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "偉大な（いだいな）",
         "meaning": {
-          "english": "great, grand"
+          "english": "great, grand",
+          "en": "great, grand",
+          "vi": "vĩ đại, to lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/era(i)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "偉い（えらい）",
         "meaning": {
-          "english": "remarkable"
+          "english": "remarkable",
+          "en": "remarkable",
+          "vi": "đáng chú ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/era(i)_06_d.opus",
@@ -156,7 +167,9 @@
     "kanji": {
       "character": "偉",
       "meaning": {
-        "english": "great, eminent, remarkable"
+        "english": "great, eminent, remarkable",
+        "en": "great, eminent, remarkable",
+        "vi": "vĩ đại, kiệt xuất, đáng chú ý"
       },
       "strokes": {
         "count": 12,
@@ -218,7 +231,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -239,7 +254,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1639",
     "strokeCount": 12,
-    "meaning": "admirable, greatness, remarkable, conceited, famous, excellent",
+    "meaning": {
+      "en": "admirable, greatness, remarkable, conceited, famous, excellent",
+      "vi": "đáng khâm phục, sự vĩ đại, đáng chú ý, tự cao, nổi tiếng, xuất sắc"
+    },
     "kunyomi": [
       "えら.い"
     ],
@@ -251,7 +269,8 @@
         "example": "偉",
         "reading": "イ",
         "meaning": {
-          "en": "greatness, excellence, magnificence"
+          "en": "greatness, excellence, magnificence",
+          "vi": "sự vĩ đại, xuất sắc, tráng lệ"
         },
         "romaji": "i"
       },
@@ -259,7 +278,8 @@
         "example": "偉業",
         "reading": "イギョウ",
         "meaning": {
-          "en": "great achievement, great feat, great work, great undertaking"
+          "en": "great achievement, great feat, great work, great undertaking",
+          "vi": "thành tựu lớn, chiến công lớn, công trình lớn, sự nghiệp lớn"
         },
         "romaji": "igyou"
       },
@@ -267,7 +287,8 @@
         "example": "魁偉",
         "reading": "カイイ",
         "meaning": {
-          "vi": "brawny, muscular, impressive, gigantic"
+          "vi": "brawny, muscular, impressive, gigantic",
+          "en": "brawny, muscular, impressive, gigantic"
         },
         "romaji": "kaii"
       },
@@ -275,7 +296,8 @@
         "example": "容貌魁偉",
         "reading": "ヨウボウカイイ",
         "meaning": {
-          "vi": "(a man) having a commanding face and a powerful physique"
+          "vi": "(a man) having a commanding face and a powerful physique",
+          "en": "(a man) having a commanding face and a powerful physique"
         },
         "romaji": "youboukaii"
       }
@@ -285,7 +307,8 @@
         "example": "偉い",
         "reading": "えらい",
         "meaning": {
-          "vi": "great, excellent, admirable, commendable, laudable, honorable, wonderful, outstanding, extraordinary, distinguished, important, high-ranking, powerful, eminent, famous, awful, terrible, serious, tremendous, great, mighty, severe, tiring, tough, hard, very, extremely"
+          "vi": "great, excellent, admirable, commendable, laudable, honorable, wonderful, outstanding, extraordinary, distinguished, important, high-ranking, powerful, eminent, famous, awful, terrible, serious, tremendous, great, mighty, severe, tiring, tough, hard, very, extremely",
+          "en": "great, excellent, admirable, commendable, laudable, honorable, wonderful, outstanding, extraordinary, distinguished, important, high-ranking, powerful, eminent, famous, awful, terrible, serious, tremendous, great, mighty, severe, tiring, tough, hard, very, extremely"
         },
         "romaji": "erai"
       },
@@ -293,7 +316,8 @@
         "example": "偉いこっちゃ",
         "reading": "えらいこっちゃ",
         "meaning": {
-          "vi": "what are we going to do?, uh-oh, oh crap, what a mess, oh brother"
+          "vi": "what are we going to do?, uh-oh, oh crap, what a mess, oh brother",
+          "en": "what are we going to do?, uh-oh, oh crap, what a mess, oh brother"
         },
         "romaji": "eraikotcha"
       }
@@ -303,7 +327,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

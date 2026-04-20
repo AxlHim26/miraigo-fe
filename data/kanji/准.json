@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1441",
     "strokeCount": 10,
-    "meaning": "quasi-, semi-, associate",
+    "meaning": {
+      "en": "quasi-, semi-, associate",
+      "vi": "bán, á, chuẩn, tương đương"
+    },
     "kunyomi": [],
     "onyomi": [
       "ジュン"
@@ -18,7 +21,8 @@
         "example": "準ずる",
         "reading": "ジュンズル",
         "meaning": {
-          "vi": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as"
+          "vi": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as",
+          "en": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as"
         },
         "romaji": "junzuru"
       },
@@ -26,7 +30,8 @@
         "example": "準じる",
         "reading": "ジュンジル",
         "meaning": {
-          "vi": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as"
+          "vi": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as",
+          "en": "to follow (a rule, precedent, etc.), to conform to (the law, standards, etc.), to be based on, to apply correspondingly, to be proportionate to, to correspond to, to be equivalent to, to be treated in the same way as"
         },
         "romaji": "junjiru"
       },
@@ -34,7 +39,8 @@
         "example": "批准",
         "reading": "ヒジュン",
         "meaning": {
-          "en": "ratification"
+          "en": "ratification",
+          "vi": "sự phê chuẩn"
         },
         "romaji": "hijun"
       }
@@ -42,7 +48,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "冫",
@@ -56,5 +65,6 @@
   "hanViet": [
     "chuyết",
     "chuẩn"
-  ]
+  ],
+  "mnemonic_vi": "Băng 冫 ghép chim đuôi ngắn 隹, như lấy chuẩn để so cho ngay hàng thẳng lối."
 }

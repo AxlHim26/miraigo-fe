@@ -5,7 +5,10 @@
     "query": "仞",
     "found": true,
     "strokeCount": 5,
-    "meaning": "fathom",
+    "meaning": {
+      "en": "fathom",
+      "vi": "sải tay, đơn vị đo chiều sâu"
+    },
     "kunyomi": [
       "はか.る"
     ],
@@ -17,6 +20,7 @@
         "example": "仞",
         "reading": "ジン",
         "meaning": {
+          "en": "ren (ancient Chinese measure of height, depth, etc.; between 1-3 meters)",
           "vi": "ren (ancient Chinese measure of height, depth, etc.; between 1-3 meters)"
         },
         "romaji": "jin"
@@ -25,7 +29,8 @@
         "example": "九仞",
         "reading": "キュウジン",
         "meaning": {
-          "en": "great height"
+          "en": "great height",
+          "vi": "độ cao lớn"
         },
         "romaji": "kyuujin"
       },
@@ -33,6 +38,7 @@
         "example": "壁立千仞",
         "reading": "ヘキリツセンジン",
         "meaning": {
+          "en": "precipitous cliff of great height, metaphor for absolute nature of Buddhist truth",
           "vi": "precipitous cliff of great height, metaphor for absolute nature of Buddhist truth"
         },
         "romaji": "hekiritsusenjin"
@@ -44,7 +50,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "丶",

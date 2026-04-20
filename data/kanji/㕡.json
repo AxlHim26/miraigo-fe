@@ -4,12 +4,15 @@
   "jishoData": {
     "query": "㕡",
     "found": false,
-    "meaning": "hẻm núi"
+    "meaning": {
+      "en": "ravine",
+      "vi": "hẻm núi"
+    }
   },
   "hanViet": null,
   "hanVietNote": "Không tìm thấy trong các nguồn tra cứu",
   "meaning": {
-    "vi": "hẻm núi",
-    "en": "hẻm núi"
+    "en": "ravine",
+    "vi": "hẻm núi"
   }
 }

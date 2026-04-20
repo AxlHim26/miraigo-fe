@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ne, atai",
-    "meaning": "value, price",
+    "meaning": {
+      "en": "value, price",
+      "vi": "giá trị, giá cả"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "価値（かち）",
         "meaning": {
-          "english": "value"
+          "english": "value",
+          "en": "value",
+          "vi": "giá trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "数値（すうち）",
         "meaning": {
-          "english": "numerical value"
+          "english": "numerical value",
+          "en": "numerical value",
+          "vi": "giá trị số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "平均値（へいきんち）",
         "meaning": {
-          "english": "mean value"
+          "english": "mean value",
+          "en": "mean value",
+          "vi": "giá trị trung bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "値段（ねだん）",
         "meaning": {
-          "english": "price"
+          "english": "price",
+          "en": "price",
+          "vi": "giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "値上げ（ねあげ）",
         "meaning": {
-          "english": "mark-up"
+          "english": "mark-up",
+          "en": "mark-up",
+          "vi": "mức tăng giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "値切る（ねぎる）",
         "meaning": {
-          "english": "knock down a price"
+          "english": "knock down a price",
+          "en": "knock down a price",
+          "vi": "giảm giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "値引きする（ねびきする）",
         "meaning": {
-          "english": "discount [v.t.]"
+          "english": "discount [v.t.]",
+          "en": "discount [v.t.]",
+          "vi": "giảm giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "値する（あたいする）",
         "meaning": {
-          "english": "be worth it, be deserving"
+          "english": "be worth it, be deserving",
+          "en": "be worth it, be deserving",
+          "vi": "xứng đáng, đáng giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atai_06_h.opus",
@@ -215,7 +234,9 @@
     "kanji": {
       "character": "値",
       "meaning": {
-        "english": "value, price"
+        "english": "value, price",
+        "en": "value, price",
+        "vi": "giá trị, giá cả"
       },
       "strokes": {
         "count": 10,
@@ -273,7 +294,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -294,7 +317,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "518",
     "strokeCount": 10,
-    "meaning": "price, cost, value",
+    "meaning": {
+      "en": "price, cost, value",
+      "vi": "giá, chi phí, giá trị"
+    },
     "kunyomi": [
       "ね",
       "あたい"
@@ -307,7 +333,8 @@
         "example": "値",
         "reading": "チ",
         "meaning": {
-          "en": "level, value"
+          "en": "level, value",
+          "vi": "mức, giá trị"
         },
         "romaji": "chi"
       },
@@ -315,7 +342,8 @@
         "example": "値域",
         "reading": "チイキ",
         "meaning": {
-          "en": "range (of a function)"
+          "en": "range (of a function)",
+          "vi": "miền giá trị (của hàm số)"
         },
         "romaji": "chiiki"
       },
@@ -323,7 +351,8 @@
         "example": "経験値",
         "reading": "ケイケンチ",
         "meaning": {
-          "vi": "amount of experience, experience level, experience point, exp, XP"
+          "vi": "lượng kinh nghiệm, cấp độ kinh nghiệm, điểm kinh nghiệm, exp, XP",
+          "en": "amount of experience, experience level, experience point, exp, XP"
         },
         "romaji": "keikenchi"
       },
@@ -331,7 +360,8 @@
         "example": "閾値",
         "reading": "イキチ",
         "meaning": {
-          "en": "threshold (amount, dose, etc.)"
+          "en": "threshold (amount, dose, etc.)",
+          "vi": "ngưỡng (lượng, liều, v.v.)"
         },
         "romaji": "ikichi"
       }
@@ -341,7 +371,8 @@
         "example": "値",
         "reading": "ね",
         "meaning": {
-          "vi": "price, cost, value, worth, merit"
+          "vi": "giá, chi phí, giá trị, sự đáng giá, công lao",
+          "en": "price, cost, value, worth, merit"
         },
         "romaji": "ne"
       },
@@ -349,7 +380,8 @@
         "example": "値上がり",
         "reading": "ねあがり",
         "meaning": {
-          "vi": "price increase, rise in price"
+          "vi": "tăng giá, sự tăng giá",
+          "en": "price increase, rise in price"
         },
         "romaji": "neagari"
       },
@@ -357,7 +389,8 @@
         "example": "安値",
         "reading": "やすね",
         "meaning": {
-          "vi": "low price"
+          "vi": "giá thấp",
+          "en": "low price"
         },
         "romaji": "yasune"
       },
@@ -365,7 +398,8 @@
         "example": "底値",
         "reading": "そこね",
         "meaning": {
-          "vi": "bottom price"
+          "vi": "giá sàn",
+          "en": "bottom price"
         },
         "romaji": "sokone"
       },
@@ -373,7 +407,8 @@
         "example": "値",
         "reading": "あたい",
         "meaning": {
-          "vi": "price, cost, value, worth, merit, value"
+          "vi": "giá, chi phí, giá trị, sự đáng giá, công lao, giá trị",
+          "en": "price, cost, value, worth, merit, value"
         },
         "romaji": "atai"
       },
@@ -381,7 +416,8 @@
         "example": "値する",
         "reading": "あたいする",
         "meaning": {
-          "en": "to be worth, to be worthy of, to deserve, to merit"
+          "en": "to be worth, to be worthy of, to deserve, to merit",
+          "vi": "đáng giá, xứng đáng, đáng được, có công"
         },
         "romaji": "ataisuru"
       },
@@ -389,7 +425,8 @@
         "example": "最初の値",
         "reading": "さいしょのあたい",
         "meaning": {
-          "en": "initial value"
+          "en": "initial value",
+          "vi": "giá trị ban đầu"
         },
         "romaji": "saishonoatai"
       }
@@ -399,7 +436,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

@@ -5,7 +5,10 @@
     "query": "冓",
     "found": true,
     "strokeCount": 10,
-    "meaning": "put together, inner palace",
+    "meaning": {
+      "en": "put together, inner palace",
+      "vi": "ghép lại, nội cung"
+    },
     "kunyomi": [
       "かま.える"
     ],
@@ -16,7 +19,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [
       "一",

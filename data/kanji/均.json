@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "even, equal",
+    "meaning": {
+      "en": "even, equal",
+      "vi": "đều, bằng nhau"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "均整（きんせい）",
         "meaning": {
-          "english": "symmetry, balance"
+          "english": "symmetry, balance",
+          "en": "symmetry, balance",
+          "vi": "đối xứng, cân bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "均衡（きんこう）",
         "meaning": {
-          "english": "equilibrium, balance"
+          "english": "equilibrium, balance",
+          "en": "equilibrium, balance",
+          "vi": "trạng thái cân bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "平均（へいきん）",
         "meaning": {
-          "english": "average, mean [n.]"
+          "english": "average, mean [n.]",
+          "en": "average, mean [n.]",
+          "vi": "trung bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "均一な（きんいつな）",
         "meaning": {
-          "english": "uniform, equal"
+          "english": "uniform, equal",
+          "en": "uniform, equal",
+          "vi": "đồng đều, ngang nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "均質な（きんしつな）",
         "meaning": {
-          "english": "homogeneous"
+          "english": "homogeneous",
+          "en": "homogeneous",
+          "vi": "đồng nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "均等に（きんとうに）",
         "meaning": {
-          "english": "equally, uniformly, evenly"
+          "english": "equally, uniformly, evenly",
+          "en": "equally, uniformly, evenly",
+          "vi": "một cách đồng đều, ngang nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hei)kin_06_f.opus",
@@ -171,7 +186,9 @@
     "kanji": {
       "character": "均",
       "meaning": {
-        "english": "even, equal"
+        "english": "even, equal",
+        "en": "even, equal",
+        "vi": "đều, bằng nhau"
       },
       "strokes": {
         "count": 7,
@@ -223,7 +240,9 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -244,7 +263,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "715",
     "strokeCount": 7,
-    "meaning": "level, average",
+    "meaning": {
+      "en": "level, average",
+      "vi": "mức đều, trung bình"
+    },
     "kunyomi": [
       "なら.す"
     ],
@@ -256,7 +278,8 @@
         "example": "均衡",
         "reading": "キンコウ",
         "meaning": {
-          "en": "equilibrium, balance"
+          "en": "equilibrium, balance",
+          "vi": "cân bằng"
         },
         "romaji": "kinkou"
       },
@@ -264,7 +287,8 @@
         "example": "均一",
         "reading": "キンイツ",
         "meaning": {
-          "en": "uniformity, equality"
+          "en": "uniformity, equality",
+          "vi": "sự đồng đều, bình đẳng"
         },
         "romaji": "kin'itsu"
       },
@@ -272,7 +296,8 @@
         "example": "１００均",
         "reading": "ヒャッキン",
         "meaning": {
-          "vi": "hundred-yen store, 100 yen shop"
+          "vi": "hundred-yen store, 100 yen shop",
+          "en": "hundred-yen store, 100 yen shop"
         },
         "romaji": "hyakkin"
       },
@@ -280,7 +305,8 @@
         "example": "移動平均",
         "reading": "イドウヘイキン",
         "meaning": {
-          "en": "moving average"
+          "en": "moving average",
+          "vi": "trung bình động"
         },
         "romaji": "idouheikin"
       }
@@ -290,14 +316,18 @@
         "example": "均す",
         "reading": "ならす",
         "meaning": {
-          "en": "to make even, to make smooth, to make level, to flatten, to average"
+          "en": "to make even, to make smooth, to make level, to flatten, to average",
+          "vi": "làm cho đều, làm trơn, làm phẳng, san bằng, lấy trung bình"
         },
         "romaji": "narasu"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "二",
@@ -310,6 +340,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5747.gif",
     "uri": "https://jisho.org/search/%E5%9D%87%23kanji"
   },
+  "mnemonic_vi": "Đất chia đều trong túi bao, nhớ nghĩa cân bằng, đồng đều.",
   "hanViet": [
     "quân",
     "vận"

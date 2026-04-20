@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mizu",
-    "meaning": "water",
+    "meaning": {
+      "en": "water",
+      "vi": "nước"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "水曜日（すいようび）",
         "meaning": {
-          "english": "Wednesday"
+          "english": "Wednesday",
+          "en": "Wednesday",
+          "vi": "thứ Tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizu_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "水道（すいどう）",
         "meaning": {
-          "english": "water supply"
+          "english": "water supply",
+          "en": "water supply",
+          "vi": "cấp nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizu_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "水準（すいじゅん）",
         "meaning": {
-          "english": "level, standard"
+          "english": "level, standard",
+          "en": "level, standard",
+          "vi": "mức độ, tiêu chuẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizu_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "水中（すいちゅう）",
         "meaning": {
-          "english": "underwater"
+          "english": "underwater",
+          "en": "underwater",
+          "vi": "dưới nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizu_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "海水（かいすい）",
         "meaning": {
-          "english": "ocean water"
+          "english": "ocean water",
+          "en": "ocean water",
+          "vi": "nước biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizu_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "水（みず）",
         "meaning": {
-          "english": "water"
+          "english": "water",
+          "en": "water",
+          "vi": "nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizu_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "水着（みずぎ）",
         "meaning": {
-          "english": "bathing suit"
+          "english": "bathing suit",
+          "en": "bathing suit",
+          "vi": "đồ bơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizu_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "水色（みずいろ）",
         "meaning": {
-          "english": "light blue"
+          "english": "light blue",
+          "en": "light blue",
+          "vi": "xanh nhạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mizu_06_h.opus",
@@ -243,7 +262,9 @@
     "kanji": {
       "character": "水",
       "meaning": {
-        "english": "water"
+        "english": "water",
+        "en": "water",
+        "vi": "nước"
       },
       "strokes": {
         "count": 4,
@@ -289,7 +310,9 @@
         "romaji": "mizu"
       },
       "meaning": {
-        "english": "water"
+        "english": "water",
+        "en": "water",
+        "vi": "nước"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mizu0.svg",
@@ -310,7 +333,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "223",
     "strokeCount": 4,
-    "meaning": "water",
+    "meaning": {
+      "en": "water",
+      "vi": "nước"
+    },
     "kunyomi": [
       "みず",
       "みず-"
@@ -323,7 +349,8 @@
         "example": "水",
         "reading": "スイ",
         "meaning": {
-          "vi": "Wednesday, shaved ice (served with flavored syrup), water (fifth of the five elements)"
+          "vi": "Wednesday, shaved ice (served with flavored syrup), water (fifth of the five elements)",
+          "en": "Wednesday, shaved ice (served with flavored syrup), water (fifth of the five elements)"
         },
         "romaji": "sui"
       },
@@ -331,7 +358,8 @@
         "example": "水位",
         "reading": "スイイ",
         "meaning": {
-          "en": "water level"
+          "en": "water level",
+          "vi": "water level"
         },
         "romaji": "suii"
       },
@@ -339,7 +367,8 @@
         "example": "用水",
         "reading": "ヨウスイ",
         "meaning": {
-          "en": "irrigation water, water for fire, city water, cistern water"
+          "en": "irrigation water, water for fire, city water, cistern water",
+          "vi": "irrigation water, water for fire, city water, cistern water"
         },
         "romaji": "yousui"
       },
@@ -347,7 +376,8 @@
         "example": "浄水",
         "reading": "ジョウスイ",
         "meaning": {
-          "vi": "clean water, purified water"
+          "vi": "clean water, purified water",
+          "en": "clean water, purified water"
         },
         "romaji": "jousui"
       }
@@ -357,7 +387,8 @@
         "example": "水",
         "reading": "みず",
         "meaning": {
-          "vi": "water (esp. cool or cold), fluid (esp. in an animal tissue), liquid, flood, floodwaters, water offered to wrestlers just prior to a bout, break granted to wrestlers engaged in a prolonged bout"
+          "vi": "water (esp. cool or cold), fluid (esp. in an animal tissue), liquid, flood, floodwaters, water offered to wrestlers just prior to a bout, break granted to wrestlers engaged in a prolonged bout",
+          "en": "water (esp. cool or cold), fluid (esp. in an animal tissue), liquid, flood, floodwaters, water offered to wrestlers just prior to a bout, break granted to wrestlers engaged in a prolonged bout"
         },
         "romaji": "mizu"
       },
@@ -365,7 +396,8 @@
         "example": "水揚げ",
         "reading": "みずあげ",
         "meaning": {
-          "vi": "landing, unloading (e.g. a ship), catch (of fish), takings, sales (of a shop), defloration (e.g. of a geisha), preservation (of cut flowers, in ikebana)"
+          "vi": "landing, unloading (e.g. a ship), catch (of fish), takings, sales (of a shop), defloration (e.g. of a geisha), preservation (of cut flowers, in ikebana)",
+          "en": "landing, unloading (e.g. a ship), catch (of fish), takings, sales (of a shop), defloration (e.g. of a geisha), preservation (of cut flowers, in ikebana)"
         },
         "romaji": "mizuage"
       },
@@ -373,7 +405,8 @@
         "example": "飲み水",
         "reading": "のみみず",
         "meaning": {
-          "vi": "drinking water, potable water"
+          "vi": "drinking water, potable water",
+          "en": "drinking water, potable water"
         },
         "romaji": "nomimizu"
       },
@@ -381,7 +414,8 @@
         "example": "呼び水",
         "reading": "よびみず",
         "meaning": {
-          "vi": "pump-priming, rousing, stimulation"
+          "vi": "pump-priming, rousing, stimulation",
+          "en": "pump-priming, rousing, stimulation"
         },
         "romaji": "yobimizu"
       }
@@ -392,7 +426,10 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": {
+        "en": "water",
+        "vi": "nước"
+      }
     },
     "parts": [
       "水"
@@ -402,6 +439,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c34.gif",
     "uri": "https://jisho.org/search/%E6%B0%B4%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: nét giữa là dòng chính, hai bên là nước bắn ra.",
   "hanViet": [
     "thuỷ"
   ]

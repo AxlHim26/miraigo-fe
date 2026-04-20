@@ -5,7 +5,10 @@
     "query": "亅",
     "found": true,
     "strokeCount": 1,
-    "meaning": "feathered stick, barb radical (no. 6)",
+    "meaning": {
+      "en": "feathered stick, barb radical (no. 6)",
+      "vi": "que có lông, bộ móc ngạnh (bộ số 6)"
+    },
     "kunyomi": [
       "かぎ"
     ],
@@ -16,7 +19,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亅",
-      "meaning": "hook"
+      "meaning": {
+        "en": "hook",
+        "vi": "móc"
+      }
     },
     "parts": [
       "亅"

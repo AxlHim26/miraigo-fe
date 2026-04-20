@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2024",
     "strokeCount": 10,
-    "meaning": "hide, shelter, shield",
+    "meaning": {
+      "en": "hide, shelter, shield",
+      "vi": "ẩn giấu, che chở, che chắn"
+    },
     "kunyomi": [
       "かくま.う"
     ],
@@ -20,7 +23,8 @@
         "example": "匿",
         "reading": "トク",
         "meaning": {
-          "en": "shelter, shield, hide"
+          "en": "shelter, shield, hide",
+          "vi": "che chở, che chắn, ẩn giấu"
         },
         "romaji": "toku"
       },
@@ -28,7 +32,8 @@
         "example": "匿名",
         "reading": "トクメイ",
         "meaning": {
-          "en": "anonymity, using an assumed name"
+          "en": "anonymity, using an assumed name",
+          "vi": "ẩn danh, dùng tên giả"
         },
         "romaji": "tokumei"
       },
@@ -36,7 +41,8 @@
         "example": "隠匿",
         "reading": "イントク",
         "meaning": {
-          "vi": "concealment (esp. of wrongdoings or criminals), sheltering, harboring"
+          "vi": "sự che giấu (đặc biệt tội lỗi hoặc tội phạm), chứa chấp, bao che",
+          "en": "concealment (esp. of wrongdoings or criminals), sheltering, harboring"
         },
         "romaji": "intoku"
       },
@@ -44,7 +50,8 @@
         "example": "秘匿",
         "reading": "ヒトク",
         "meaning": {
-          "en": "hiding, concealment"
+          "en": "hiding, concealment",
+          "vi": "sự ẩn nấp, che giấu"
         },
         "romaji": "hitoku"
       }
@@ -54,14 +61,18 @@
         "example": "匿う",
         "reading": "かくまう",
         "meaning": {
-          "en": "to shelter (e.g. a fugitive), to harbour, to harbor, to hide, to give refuge to"
+          "en": "to shelter (e.g. a fugitive), to harbour, to harbor, to hide, to give refuge to",
+          "vi": "che giấu, chứa chấp, cho ẩn náu"
         },
         "romaji": "kakumau"
       }
     ],
     "radical": {
       "symbol": "匸",
-      "meaning": "hiding enclosure"
+      "meaning": {
+        "en": "hiding enclosure",
+        "vi": "vùng bao che để ẩn náu"
+      }
     },
     "parts": [
       "ノ",
@@ -76,5 +87,6 @@
   },
   "hanViet": [
     "nặc"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: 匚 như chỗ che kín, bên trong có 若 như người trốn vào nơi kín để ẩn mình."
 }

@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "station",
+    "meaning": {
+      "en": "station",
+      "vi": "nhà ga"
+    },
     "kstroke": 14,
     "examples": [
       {
         "japanese": "駅（えき）",
         "meaning": {
-          "english": "station"
+          "english": "station",
+          "en": "station",
+          "vi": "nhà ga"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kaku)eki_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "駅前（えきまえ）",
         "meaning": {
-          "english": "in front of the station"
+          "english": "in front of the station",
+          "en": "in front of the station",
+          "vi": "in front of the station"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kaku)eki_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "駅長（えきちょう）",
         "meaning": {
-          "english": "station master"
+          "english": "station master",
+          "en": "station master",
+          "vi": "station master"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kaku)eki_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "駅弁（えきべん）",
         "meaning": {
-          "english": "(boxed) lunch sold in stations"
+          "english": "(boxed) lunch sold in stations",
+          "en": "(boxed) lunch sold in stations",
+          "vi": "(boxed) lunch sold in stations"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kaku)eki_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "東京駅（とうきょうえき）",
         "meaning": {
-          "english": "Tokyo station"
+          "english": "Tokyo station",
+          "en": "Tokyo station",
+          "vi": "Tokyo station"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kaku)eki_06_e.opus",
@@ -215,7 +228,9 @@
     "kanji": {
       "character": "駅",
       "meaning": {
-        "english": "station"
+        "english": "station",
+        "en": "station",
+        "vi": "nhà ga"
       },
       "strokes": {
         "count": 14,
@@ -281,7 +296,9 @@
         "romaji": "umahen"
       },
       "meaning": {
-        "english": "horse"
+        "english": "horse",
+        "en": "horse",
+        "vi": "ngựa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/umahen0.svg",
@@ -302,7 +319,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "724",
     "strokeCount": 14,
-    "meaning": "station",
+    "meaning": {
+      "en": "station",
+      "vi": "nhà ga"
+    },
     "kunyomi": [],
     "onyomi": [
       "エキ"
@@ -312,7 +332,8 @@
         "example": "駅",
         "reading": "エキ",
         "meaning": {
-          "vi": "railway station, train station, staging post on a highway (in pre-modern Japan), counter for railway stations and bus stations"
+          "vi": "railway station, train station, staging post on a highway (in pre-modern Japan), counter for railway stations and bus stations",
+          "en": "railway station, train station, staging post on a highway (in pre-modern Japan), counter for railway stations and bus stations"
         },
         "romaji": "eki"
       },
@@ -320,7 +341,8 @@
         "example": "駅員",
         "reading": "エキイン",
         "meaning": {
-          "vi": "(train) station attendant, station employee, station staff"
+          "vi": "(train) station attendant, station employee, station staff",
+          "en": "(train) station attendant, station employee, station staff"
         },
         "romaji": "ekiin"
       },
@@ -328,7 +350,8 @@
         "example": "宿駅",
         "reading": "シュクエキ",
         "meaning": {
-          "vi": "relay station, post station, stage"
+          "vi": "relay station, post station, stage",
+          "en": "relay station, post station, stage"
         },
         "romaji": "shukueki"
       },
@@ -336,7 +359,8 @@
         "example": "終着駅",
         "reading": "シュウチャクエキ",
         "meaning": {
-          "en": "terminal station"
+          "en": "terminal station",
+          "vi": "terminal station"
         },
         "romaji": "shuuchakueki"
       }
@@ -344,7 +368,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "馬",
-      "meaning": "horse"
+      "meaning": {
+        "en": "horse",
+        "vi": "ngựa"
+      }
     },
     "parts": [
       "丶",
@@ -359,5 +386,7 @@
   },
   "hanViet": [
     "dịch"
-  ]
+  ],
+  "jlpt_level": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 駅 có bộ ngựa bên trái, xưa trạm ngựa đổi ngựa là nơi dừng chân, nên nhớ là nhà ga, trạm."
 }

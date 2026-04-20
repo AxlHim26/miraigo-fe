@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1728",
     "strokeCount": 6,
-    "meaning": "span, range, extend over",
+    "meaning": {
+      "en": "span, range, extend over",
+      "vi": "trải dài, phạm vi, vươn khắp"
+    },
     "kunyomi": [
       "わた.る",
       "もと.める"
@@ -22,7 +25,8 @@
         "example": "亘古",
         "reading": "コウコ",
         "meaning": {
-          "en": "for ever, from ancient times"
+          "en": "for ever, from ancient times",
+          "vi": "mãi mãi, từ xa xưa"
         },
         "meaningVN": "mãi mãi, từ xa xưa",
         "hanViet": "cắng cổ",
@@ -33,7 +37,8 @@
         "example": "連亘",
         "reading": "レンコウ",
         "meaning": {
-          "en": "extending in a row"
+          "en": "extending in a row",
+          "vi": "kéo dài liên tiếp"
         },
         "meaningVN": "kéo dài liên tiếp",
         "hanViet": "liên cắng",
@@ -46,7 +51,8 @@
         "example": "渡る",
         "reading": "わたる",
         "meaning": {
-          "vi": "to cross over, to go across, to extend, to cover, to range, to span"
+          "en": "to cross over, to go across, to extend, to cover, to range, to span",
+          "vi": "vượt qua, đi ngang qua, mở rộng, bao phủ, phạm vi, trải dài"
         },
         "meaningVN": "vượt qua, đi ngang qua, mở rộng, bao phủ, phạm vi, trải dài",
         "hanViet": "độ る",
@@ -56,7 +62,10 @@
     ],
     "radical": {
       "symbol": "二",
-      "meaning": "two"
+      "meaning": {
+        "en": "two",
+        "vi": "hai"
+      }
     },
     "parts": [
       "一",

@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 9,
-    "meaning": "star, god of literature",
+    "meaning": {
+      "en": "star, god of literature",
+      "vi": "ngôi sao, thần văn chương"
+    },
     "kunyomi": [],
     "onyomi": [
       "ケイ",
@@ -17,7 +20,8 @@
         "example": "奎",
         "reading": "ケイ",
         "meaning": {
-          "en": "Chinese \"Legs\" constellation (one of the 28 mansions)"
+          "en": "Chinese \"Legs\" constellation (one of the 28 mansions)",
+          "vi": "chòm Khuê của Trung Hoa (một trong nhị thập bát tú)"
         },
         "romaji": "kei"
       },
@@ -25,7 +29,8 @@
         "example": "奎宿",
         "reading": "トカキボシ",
         "meaning": {
-          "en": "Chinese \"Legs\" constellation (one of the 28 mansions)"
+          "en": "Chinese \"Legs\" constellation (one of the 28 mansions)",
+          "vi": "chòm Khuê của Trung Hoa (một trong nhị thập bát tú)"
         },
         "romaji": "tokakiboshi"
       }
@@ -33,7 +38,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "大",
-      "meaning": "big, very"
+      "meaning": {
+        "en": "big, very",
+        "vi": "to, rất"
+      }
     },
     "parts": [
       "土",
@@ -46,5 +54,7 @@
   },
   "hanViet": [
     "khuê"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Hình như ngôi sao lớn tỏa sáng trên trời, gợi nhớ sao Khuê và văn chương."
 }

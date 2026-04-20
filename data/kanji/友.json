@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "tomo",
-    "meaning": "friend",
+    "meaning": {
+      "en": "friend",
+      "vi": "bạn"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "友人（ゆうじん）",
         "meaning": {
-          "english": "friend"
+          "english": "friend",
+          "en": "friend",
+          "vi": "bạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-tomo_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "友情（ゆうじょう）",
         "meaning": {
-          "english": "friendship"
+          "english": "friendship",
+          "en": "friendship",
+          "vi": "tình bạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-tomo_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "親友（しんゆう）",
         "meaning": {
-          "english": "close friend"
+          "english": "close friend",
+          "en": "close friend",
+          "vi": "close friend"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-tomo_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "友達（ともだち）",
         "meaning": {
-          "english": "friend"
+          "english": "friend",
+          "en": "friend",
+          "vi": "bạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-tomo_06_d.opus",
@@ -188,7 +199,9 @@
     "kanji": {
       "character": "友",
       "meaning": {
-        "english": "friend"
+        "english": "friend",
+        "en": "friend",
+        "vi": "bạn"
       },
       "strokes": {
         "count": 4,
@@ -234,7 +247,9 @@
         "romaji": "mata"
       },
       "meaning": {
-        "english": "again, right hand"
+        "english": "again, right hand",
+        "en": "again, right hand",
+        "vi": "again, right hand"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mata0.svg",
@@ -255,7 +270,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "622",
     "strokeCount": 4,
-    "meaning": "friend",
+    "meaning": {
+      "en": "friend",
+      "vi": "bạn"
+    },
     "kunyomi": [
       "とも"
     ],
@@ -267,7 +285,8 @@
         "example": "友",
         "reading": "ユウ",
         "meaning": {
-          "en": "friend, affection (for siblings)"
+          "en": "friend, affection (for siblings)",
+          "vi": "friend, affection (for siblings)"
         },
         "romaji": "yuu"
       },
@@ -275,7 +294,8 @@
         "example": "友愛",
         "reading": "ユウアイ",
         "meaning": {
-          "vi": "fraternity, friendship"
+          "vi": "fraternity, friendship",
+          "en": "fraternity, friendship"
         },
         "romaji": "yuuai"
       },
@@ -283,7 +303,8 @@
         "example": "戦友",
         "reading": "センユウ",
         "meaning": {
-          "en": "comrade in arms, war buddy, fellow soldier"
+          "en": "comrade in arms, war buddy, fellow soldier",
+          "vi": "comrade in arms, war buddy, fellow soldier"
         },
         "romaji": "sen'yuu"
       },
@@ -291,7 +312,8 @@
         "example": "盟友",
         "reading": "メイユウ",
         "meaning": {
-          "en": "sworn friend"
+          "en": "sworn friend",
+          "vi": "sworn friend"
         },
         "romaji": "meiyuu"
       }
@@ -301,7 +323,8 @@
         "example": "友",
         "reading": "とも",
         "meaning": {
-          "vi": "friend, companion, comrade, pal, accompaniment, companion (e.g. book), complement, accessory"
+          "vi": "friend, companion, comrade, pal, accompaniment, companion (e.g. book), complement, accessory",
+          "en": "friend, companion, comrade, pal, accompaniment, companion (e.g. book), complement, accessory"
         },
         "romaji": "tomo"
       },
@@ -309,7 +332,8 @@
         "example": "友達",
         "reading": "ともだち",
         "meaning": {
-          "vi": "friend, companion"
+          "vi": "friend, companion",
+          "en": "friend, companion"
         },
         "romaji": "tomodachi"
       },
@@ -317,7 +341,8 @@
         "example": "リア友",
         "reading": "リアとも",
         "meaning": {
-          "vi": "real-life friend (as opposed to online friend)"
+          "vi": "real-life friend (as opposed to online friend)",
+          "en": "real-life friend (as opposed to online friend)"
         },
         "romaji": "riatomo"
       },
@@ -325,14 +350,18 @@
         "example": "酒のお供",
         "reading": "さけのおとも",
         "meaning": {
-          "vi": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
+          "vi": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink",
+          "en": "appetizer or snack served with drinks, accompaniment to an (alcoholic) drink"
         },
         "romaji": "sakenootomo"
       }
     ],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": {
+        "en": "right hand",
+        "vi": "right hand"
+      }
     },
     "parts": [
       "ノ",
@@ -346,5 +375,7 @@
   },
   "hanViet": [
     "hữu"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: hai bàn tay hướng về nhau như tình bạn."
 }

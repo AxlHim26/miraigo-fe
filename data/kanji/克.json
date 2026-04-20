@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1333",
     "strokeCount": 7,
-    "meaning": "overcome, kindly, skillfully",
+    "meaning": {
+      "en": "overcome, kindly, skillfully",
+      "vi": "vượt qua, tử tế, khéo léo"
+    },
     "kunyomi": [
       "か.つ"
     ],
@@ -20,7 +23,8 @@
         "example": "克明",
         "reading": "コクメイ",
         "meaning": {
-          "vi": "detailed, scrupulous, careful, minute, faithful, elaborate, diligent, honest, upright, sincere"
+          "vi": "detailed, scrupulous, careful, minute, faithful, elaborate, diligent, honest, upright, sincere",
+          "en": ""
         },
         "romaji": "kokumei"
       },
@@ -28,7 +32,8 @@
         "example": "克服",
         "reading": "コクフク",
         "meaning": {
-          "en": "conquest (of a difficulty, illness, crisis, etc.), overcoming, surmounting, bringing under control"
+          "en": "conquest (of a difficulty, illness, crisis, etc.), overcoming, surmounting, bringing under control",
+          "vi": "sự chinh phục (khó khăn, bệnh tật, khủng hoảng, v.v.), vượt qua, khắc phục, kiểm soát được"
         },
         "romaji": "kokufuku"
       },
@@ -36,7 +41,8 @@
         "example": "相克",
         "reading": "ソウコク",
         "meaning": {
-          "en": "rivalry"
+          "en": "rivalry",
+          "vi": "sự ganh đua"
         },
         "romaji": "soukoku"
       },
@@ -44,7 +50,8 @@
         "example": "超克",
         "reading": "チョウコク",
         "meaning": {
-          "en": "overcoming, conquering, surmounting, getting over"
+          "en": "overcoming, conquering, surmounting, getting over",
+          "vi": "vượt qua, chinh phục, khắc phục, vượt khỏi"
         },
         "romaji": "choukoku"
       }
@@ -54,14 +61,18 @@
         "example": "勝つ",
         "reading": "かつ",
         "meaning": {
-          "en": "to win, to gain victory"
+          "en": "to win, to gain victory",
+          "vi": "chiến thắng, giành thắng lợi"
         },
         "romaji": "katsu"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "儿",

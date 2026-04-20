@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 6,
-    "meaning": "also, again",
+    "meaning": {
+      "en": "also, again",
+      "vi": "cũng, lại nữa"
+    },
     "kunyomi": [
       "また"
     ],
@@ -20,7 +23,8 @@
         "example": "又",
         "reading": "また",
         "meaning": {
-          "en": "again, once more, once again, another time, some other time, also, too, as well, likewise, on the other hand, while, and, in addition, besides, moreover, furthermore, or, otherwise, really, how, (what, why) on earth, some time (in the future), indirect"
+          "en": "again, once more, once again, another time, some other time, also, too, as well, likewise, on the other hand, while, and, in addition, besides, moreover, furthermore, or, otherwise, really, how, (what, why) on earth, some time (in the future), indirect",
+          "vi": "lại, một lần nữa, lần khác, cũng, tương tự, mặt khác, trong khi, và, thêm nữa, hơn nữa, hoặc, nếu không thì, thực sự, sao mà, lúc nào đó trong tương lai, gián tiếp"
         },
         "romaji": "mata"
       },
@@ -28,14 +32,18 @@
         "example": "又々",
         "reading": "またまた",
         "meaning": {
-          "en": "once again, yet again, (there you go) again"
+          "en": "once again, yet again, (there you go) again",
+          "vi": "lại một lần nữa, lại nữa"
         },
         "romaji": "matamata"
       }
     ],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "ノ",

@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "jlptLevel": "N1",
     "strokeCount": 5,
-    "meaning": "moreover, also, furthermore",
+    "meaning": {
+      "en": "moreover, also, furthermore",
+      "vi": "hơn nữa, cũng, thêm vào đó"
+    },
     "kunyomi": [
       "か.つ"
     ],
@@ -89,7 +92,10 @@
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "一",
@@ -112,5 +118,7 @@
   "meaning": {
     "vi": "hơn nữa, hơn nữa, hơn nữa",
     "en": "moreover, also, furthermore"
-  }
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Các nét chồng thêm lên nhau, nhớ nghĩa hơn nữa, thêm vào."
 }

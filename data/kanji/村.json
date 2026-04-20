@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mura",
-    "meaning": "village",
+    "meaning": {
+      "en": "village",
+      "vi": "làng"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "農村（のうそん）",
         "meaning": {
-          "english": "farm village"
+          "english": "farm village",
+          "en": "farm village",
+          "vi": "làng nông nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-mura_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "漁村（ぎょそん）",
         "meaning": {
-          "english": "fishing village"
+          "english": "fishing village",
+          "en": "fishing village",
+          "vi": "làng chài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-mura_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "村落（そんらく）",
         "meaning": {
-          "english": "village"
+          "english": "village",
+          "en": "village",
+          "vi": "làng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-mura_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "村（むら）",
         "meaning": {
-          "english": "village"
+          "english": "village",
+          "en": "village",
+          "vi": "làng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-mura_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "村人（むらびと）",
         "meaning": {
-          "english": "villager"
+          "english": "villager",
+          "en": "villager",
+          "vi": "dân làng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son-mura_06_e.opus",
@@ -210,7 +223,9 @@
     "kanji": {
       "character": "村",
       "meaning": {
-        "english": "village"
+        "english": "village",
+        "en": "village",
+        "vi": "làng"
       },
       "strokes": {
         "count": 7,
@@ -262,7 +277,9 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood",
+        "en": "tree, wood",
+        "vi": "cây, gỗ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -283,7 +300,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "253",
     "strokeCount": 7,
-    "meaning": "village, town",
+    "meaning": {
+      "en": "village, town",
+      "vi": "làng, thị trấn"
+    },
     "kunyomi": [
       "むら"
     ],
@@ -295,7 +315,8 @@
         "example": "村",
         "reading": "ムラ",
         "meaning": {
-          "en": "village"
+          "en": "village",
+          "vi": "làng"
         },
         "romaji": "mura"
       },
@@ -303,7 +324,8 @@
         "example": "村議会",
         "reading": "ソンギカイ",
         "meaning": {
-          "en": "village assembly"
+          "en": "village assembly",
+          "vi": "hội đồng làng"
         },
         "romaji": "songikai"
       },
@@ -311,7 +333,8 @@
         "example": "町村",
         "reading": "チョウソン",
         "meaning": {
-          "en": "towns and villages"
+          "en": "towns and villages",
+          "vi": "thị trấn và làng mạc"
         },
         "romaji": "chouson"
       },
@@ -319,7 +342,8 @@
         "example": "農村",
         "reading": "ノウソン",
         "meaning": {
-          "en": "agricultural community, farm village, rural"
+          "en": "agricultural community, farm village, rural",
+          "vi": "cộng đồng nông nghiệp, làng nông nghiệp, nông thôn"
         },
         "romaji": "nouson"
       }
@@ -329,7 +353,8 @@
         "example": "村",
         "reading": "むら",
         "meaning": {
-          "en": "village"
+          "en": "village",
+          "vi": "làng"
         },
         "romaji": "mura"
       },
@@ -337,7 +362,8 @@
         "example": "村長",
         "reading": "そんちょう",
         "meaning": {
-          "en": "village headman, village mayor"
+          "en": "village headman, village mayor",
+          "vi": "trưởng làng, thị trưởng làng"
         },
         "romaji": "sonchou"
       },
@@ -345,7 +371,8 @@
         "example": "選手村",
         "reading": "せんしゅむら",
         "meaning": {
-          "vi": "Olympic village, athlete's village"
+          "vi": "Olympic village, athlete's village",
+          "en": "Olympic village, athletes' village"
         },
         "romaji": "senshumura"
       },
@@ -353,14 +380,18 @@
         "example": "隣村",
         "reading": "りんそん",
         "meaning": {
-          "en": "neighboring village, neighbouring village"
+          "en": "neighboring village, neighbouring village",
+          "vi": "làng bên cạnh"
         },
         "romaji": "rinson"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "tree"
+      }
     },
     "parts": [
       "寸",
@@ -373,5 +404,7 @@
   },
   "hanViet": [
     "thôn"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: Cây 木 cạnh thước 寸 gợi khu dân cư nhỏ bên rừng, nên 村 là làng."
 }

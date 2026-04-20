@@ -7,13 +7,17 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "mind, meaning, will",
+    "meaning": {
+      "en": "mind, meaning, will",
+      "vi": "tâm trí, ý nghĩa, ý chí"
+    },
     "kstroke": 13,
     "examples": [
       {
         "japanese": "意味（いみ）",
         "meaning": {
-          "english": "meaning"
+          "en": "meaning",
+          "vi": "ý nghĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ketsu)i_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "意識（いしき）",
         "meaning": {
-          "english": "consciousness"
+          "en": "consciousness",
+          "vi": "ý thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ketsu)i_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "意見（いけん）",
         "meaning": {
-          "english": "opinion"
+          "en": "opinion",
+          "vi": "ý kiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ketsu)i_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "意志（いし）",
         "meaning": {
-          "english": "will [n.]"
+          "en": "will [n.]",
+          "vi": "ý chí"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ketsu)i_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "好意（こうい）",
         "meaning": {
-          "english": "good will, favor"
+          "en": "good will, favor",
+          "vi": "thiện chí, ân huệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ketsu)i_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "意外な（いがいな）",
         "meaning": {
-          "english": "surprising"
+          "en": "surprising",
+          "vi": "đáng ngạc nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ketsu)i_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "意地悪な（いじわるな）",
         "meaning": {
-          "english": "malicious"
+          "en": "malicious",
+          "vi": "ác ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ketsu)i_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "注意する（ちゅういする）",
         "meaning": {
-          "english": "be careful, warn"
+          "en": "be careful, warn",
+          "vi": "cẩn thận, cảnh báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ketsu)i_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "用意する（よういする）",
         "meaning": {
-          "english": "prepare"
+          "en": "prepare",
+          "vi": "chuẩn bị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ketsu)i_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "決意する（けついする）",
         "meaning": {
-          "english": "decide"
+          "en": "decide",
+          "vi": "quyết định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ketsu)i_06_j.opus",
@@ -301,7 +314,8 @@
     "kanji": {
       "character": "意",
       "meaning": {
-        "english": "mind, meaning, will"
+        "en": "mind, meaning, will",
+        "vi": "tâm trí, ý nghĩa, ý chí"
       },
       "strokes": {
         "count": 13,
@@ -365,7 +379,8 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "en": "heart, mind, spirit",
+        "vi": "trái tim, tâm trí, tinh thần"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -386,7 +401,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "99",
     "strokeCount": 13,
-    "meaning": "idea, mind, heart, taste, thought, desire, care, liking",
+    "meaning": {
+      "en": "idea, mind, heart, taste, thought, desire, care, liking",
+      "vi": "ý tưởng, tâm trí, trái tim, sở thích, suy nghĩ, mong muốn, sự quan tâm, yêu thích"
+    },
     "kunyomi": [],
     "onyomi": [
       "イ"
@@ -396,7 +414,8 @@
         "example": "意",
         "reading": "イ",
         "meaning": {
-          "en": "feelings, thoughts, meaning"
+          "en": "feelings, thoughts, meaning",
+          "vi": "cảm xúc, suy nghĩ, ý nghĩa"
         },
         "romaji": "i"
       },
@@ -404,6 +423,7 @@
         "example": "意外",
         "reading": "イガイ",
         "meaning": {
+          "en": "unexpected, surprising",
           "vi": "unexpected, surprising"
         },
         "romaji": "igai"
@@ -412,6 +432,7 @@
         "example": "賛意",
         "reading": "サンイ",
         "meaning": {
+          "en": "approval, assent",
           "vi": "approval, assent"
         },
         "romaji": "san'i"
@@ -420,6 +441,7 @@
         "example": "総意",
         "reading": "ソウイ",
         "meaning": {
+          "en": "consensus, collective will, collective opinion",
           "vi": "consensus, collective will, collective opinion"
         },
         "romaji": "soui"
@@ -432,7 +454,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "tim"
+      }
     },
     "parts": [
       "心",

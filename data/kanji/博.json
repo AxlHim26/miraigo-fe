@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "extensive, doctor, broad",
+    "meaning": {
+      "en": "extensive, doctor, broad",
+      "vi": "rộng lớn, học vị tiến sĩ, uyên bác"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "博士（はくし）",
         "meaning": {
-          "english": "doctorate, PhD"
+          "english": "doctorate, PhD",
+          "en": "doctorate, PhD",
+          "vi": "học vị tiến sĩ, PhD"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haku(shiki)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "博識（はくしき）",
         "meaning": {
-          "english": "extensive knowledge"
+          "english": "extensive knowledge",
+          "en": "extensive knowledge",
+          "vi": "kiến thức sâu rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haku(shiki)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "博学（はくがく）",
         "meaning": {
-          "english": "erudition"
+          "english": "erudition",
+          "en": "erudition",
+          "vi": "sự uyên bác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haku(shiki)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "博物館（はくぶつかん）",
         "meaning": {
-          "english": "museum"
+          "english": "museum",
+          "en": "museum",
+          "vi": "bảo tàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haku(shiki)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "博覧会（はくらんかい）",
         "meaning": {
-          "english": "fair, exhibition, exposition"
+          "english": "fair, exhibition, exposition",
+          "en": "fair, exhibition, exposition",
+          "vi": "hội chợ, triển lãm, exposition"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haku(shiki)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "博愛主義（はくあいしゅぎ）",
         "meaning": {
-          "english": "altruism"
+          "english": "altruism",
+          "en": "altruism",
+          "vi": "lòng vị tha"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haku(shiki)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "万博（ばんぱく）",
         "meaning": {
-          "english": "world fair"
+          "english": "world fair",
+          "en": "world fair",
+          "vi": "hội chợ thế giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haku(shiki)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "博打（ばくち）",
         "meaning": {
-          "english": "gambling"
+          "english": "gambling",
+          "en": "gambling",
+          "vi": "cờ bạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haku(shiki)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "*博士（はかせ）",
         "meaning": {
-          "english": "expert, learned man"
+          "english": "expert, learned man",
+          "en": "expert, learned man",
+          "vi": "chuyên gia, người học rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haku(shiki)_06_i.opus",
@@ -206,7 +227,9 @@
     "kanji": {
       "character": "博",
       "meaning": {
-        "english": "extensive, doctor, broad"
+        "english": "extensive, doctor, broad",
+        "en": "extensive, doctor, broad",
+        "vi": "rộng lớn, học vị tiến sĩ, uyên bác"
       },
       "strokes": {
         "count": 12,
@@ -268,7 +291,9 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten",
+        "en": "ten",
+        "vi": "mười"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -289,7 +314,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "794",
     "strokeCount": 12,
-    "meaning": "Dr., command, esteem, win acclaim, Ph.D., exposition, fair",
+    "meaning": {
+      "en": "Dr., command, esteem, win acclaim, Ph.D., exposition, fair",
+      "vi": "tiến sĩ, ra lệnh, được kính trọng, được ca ngợi, PhD, triển lãm, hội chợ"
+    },
     "kunyomi": [],
     "onyomi": [
       "ハク",
@@ -300,7 +328,8 @@
         "example": "博",
         "reading": "ハク",
         "meaning": {
-          "vi": "doctor, PhD, exposition, fair, exhibition"
+          "vi": "doctor, PhD, exposition, fair, exhibition",
+          "en": "doctor, PhD, exposition, fair, exhibition"
         },
         "romaji": "haku"
       },
@@ -308,7 +337,8 @@
         "example": "博物",
         "reading": "ハクブツ",
         "meaning": {
-          "en": "natural history, wide learning, broad area of learning"
+          "en": "natural history, wide learning, broad area of learning",
+          "vi": "lịch sử tự nhiên, học vấn rộng, lĩnh vực học rộng"
         },
         "romaji": "hakubutsu"
       },
@@ -316,7 +346,8 @@
         "example": "文博",
         "reading": "ブンハク",
         "meaning": {
-          "en": "doctor of literature"
+          "en": "doctor of literature",
+          "vi": "tiến sĩ văn chương"
         },
         "romaji": "bunhaku"
       },
@@ -324,7 +355,8 @@
         "example": "医博",
         "reading": "イハク",
         "meaning": {
-          "en": "doctor of medicine, MD"
+          "en": "doctor of medicine, MD",
+          "vi": "bác sĩ y khoa, MD"
         },
         "romaji": "ihaku"
       },
@@ -332,7 +364,8 @@
         "example": "博",
         "reading": "ハク",
         "meaning": {
-          "vi": "doctor, PhD, exposition, fair, exhibition"
+          "vi": "doctor, PhD, exposition, fair, exhibition",
+          "en": "doctor, PhD, exposition, fair, exhibition"
         },
         "romaji": "haku"
       },
@@ -340,7 +373,8 @@
         "example": "博徒",
         "reading": "バクト",
         "meaning": {
-          "en": "gambler"
+          "en": "gambler",
+          "vi": "con bạc"
         },
         "romaji": "bakuto"
       },
@@ -348,7 +382,8 @@
         "example": "賭博",
         "reading": "トバク",
         "meaning": {
-          "en": "gambling"
+          "en": "gambling",
+          "vi": "cờ bạc"
         },
         "romaji": "tobaku"
       },
@@ -356,7 +391,8 @@
         "example": "伝助賭博",
         "reading": "デンスケトバク",
         "meaning": {
-          "vi": "deceptive betting game (such as the shell game), street fraud, trickery, densuke, roulette-like deceptive street gambling"
+          "vi": "deceptive betting game (such as the shell game), street fraud, trickery, densuke, roulette-like deceptive street gambling",
+          "en": "deceptive betting game (such as the shell game), street fraud, trickery, densuke, roulette-like deceptive street gambling"
         },
         "romaji": "densuketobaku"
       }
@@ -364,7 +400,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "mười, đầy đủ"
+      }
     },
     "parts": [
       "丶",
@@ -379,5 +418,7 @@
   },
   "hanViet": [
     "bác"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Kiến thức trải rộng trên nhiều mặt, nhớ nghĩa uyên bác, rộng lớn."
 }

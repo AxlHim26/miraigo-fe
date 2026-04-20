@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1404",
     "strokeCount": 3,
-    "meaning": "to be (classical)",
+    "meaning": {
+      "en": "to be (classical)",
+      "vi": "là (cổ điển)"
+    },
     "kunyomi": [
       "なり",
       "か",
@@ -22,7 +25,8 @@
         "example": "や行",
         "reading": "ヤギョウ",
         "meaning": {
-          "vi": "the \"ya\" column of the Japanese syllabary table (ya, yu, yo)"
+          "en": "the \"ya\" column of the Japanese syllabary table (ya, yu, yo)",
+          "vi": "cột \"ya\" trong bảng âm tiết tiếng nhật (ya, yu, yo)"
         },
         "meaningVN": "cột \"ya\" trong bảng âm tiết tiếng nhật (ya, yu, yo)",
         "hanViet": "や hàng",
@@ -35,7 +39,8 @@
         "example": "也",
         "reading": "なり",
         "meaning": {
-          "en": "to be, to be (at a location), sum of money"
+          "en": "to be, to be (at a location), sum of money",
+          "vi": "ở, ở (ở một địa điểm), số tiền"
         },
         "meaningVN": "ở, ở (ở một địa điểm), số tiền",
         "hanViet": "dã",
@@ -46,7 +51,8 @@
         "example": "弱き者よ汝の名は女なり",
         "reading": "よわきものよなんじのなはおんななり",
         "meaning": {
-          "en": "frailty, thy name is woman"
+          "en": "frailty, thy name is woman",
+          "vi": "yếu đuối, tên bạn là phụ nữ"
         },
         "meaningVN": "yếu đuối, tên bạn là phụ nữ",
         "hanViet": "nhược き giả よ nhữ の danh は nhữ な り",
@@ -57,7 +63,8 @@
         "example": "知らぬは亭主ばかりなり",
         "reading": "しらぬはていしゅばかりなり",
         "meaning": {
-          "en": "the husband is always the last to know, everyone knows of the wife's infidelity but the cuckolded husband"
+          "en": "the husband is always the last to know, everyone knows of the wife's infidelity but the cuckolded husband",
+          "vi": "chồng luôn là người biết cuối cùng, ai cũng biết chuyện vợ ngoại tình nhưng chồng cắm sừng"
         },
         "meaningVN": "chồng luôn là người biết cuối cùng, ai cũng biết chuyện vợ ngoại tình nhưng chồng cắm sừng",
         "hanViet": "tri ら ぬ は đình chúa ば か り な り",
@@ -72,7 +79,10 @@
         "⺄",
         "乚"
       ],
-      "meaning": "second"
+      "meaning": {
+        "en": "second",
+        "vi": "thứ hai"
+      }
     },
     "parts": [
       "乙",

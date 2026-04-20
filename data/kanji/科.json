@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "subject of study",
+    "meaning": {
+      "en": "subject of study",
+      "vi": "môn học"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "科学（かがく）",
         "meaning": {
-          "english": "science"
+          "en": "science",
+          "vi": "khoa học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "科目（かもく）",
         "meaning": {
-          "english": "(school) subject"
+          "en": "(school) subject",
+          "vi": "(school) subject"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "学科（がっか）",
         "meaning": {
-          "english": "course of study"
+          "en": "course of study",
+          "vi": "course of study"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "理科（りか）",
         "meaning": {
-          "english": "science"
+          "en": "science",
+          "vi": "khoa học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "百科事典（ひゃっかじてん）",
         "meaning": {
-          "english": "encyclopedia"
+          "en": "encyclopedia",
+          "vi": "encyclopedia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "内科（ないか）",
         "meaning": {
-          "english": "internal medicine"
+          "en": "internal medicine",
+          "vi": "internal medicine"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "外科（げか）",
         "meaning": {
-          "english": "surgical department"
+          "en": "surgical department",
+          "vi": "surgical department"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "歯科（しか）",
         "meaning": {
-          "english": "dentistry"
+          "en": "dentistry",
+          "vi": "dentistry"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "小児科（しょうにか）",
         "meaning": {
-          "english": "pediatrics"
+          "en": "pediatrics",
+          "vi": "pediatrics"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "前科（ぜんか）",
         "meaning": {
-          "english": "criminal record"
+          "en": "criminal record",
+          "vi": "criminal record"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nai)ka_06_j.opus",
@@ -259,7 +272,8 @@
     "kanji": {
       "character": "科",
       "meaning": {
-        "english": "subject of study"
+        "en": "subject of study",
+        "vi": "môn học"
       },
       "strokes": {
         "count": 9,
@@ -315,7 +329,8 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "en": "grain",
+        "vi": "grain"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -329,6 +344,8 @@
       "classic_nelson": "3272"
     }
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Hạt lúa 禾 được chia bằng cái đấu 斗 thành từng mục: giống các khoa, môn được phân chia rõ ràng.",
   "jishoData": {
     "query": "科",
     "found": true,
@@ -336,7 +353,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "531",
     "strokeCount": 9,
-    "meaning": "department, course, section",
+    "meaning": {
+      "en": "department, course, section",
+      "vi": "department, course, section"
+    },
     "kunyomi": [],
     "onyomi": [
       "カ"
@@ -346,6 +366,7 @@
         "example": "科",
         "reading": "カ",
         "meaning": {
+          "en": "department, section, faculty, school, arm, course (of study), branch of study, specialization, (taxonomical) family",
           "vi": "department, section, faculty, school, arm, course (of study), branch of study, specialization, (taxonomical) family"
         },
         "romaji": "ka"
@@ -354,7 +375,8 @@
         "example": "科学",
         "reading": "カガク",
         "meaning": {
-          "en": "science, to think about scientifically, to think in terms of science"
+          "en": "science, to think about scientifically, to think in terms of science",
+          "vi": "science, to think about scientifically, to think in terms of science"
         },
         "romaji": "kagaku"
       },
@@ -362,7 +384,8 @@
         "example": "工科",
         "reading": "コウカ",
         "meaning": {
-          "en": "engineering course"
+          "en": "engineering course",
+          "vi": "engineering course"
         },
         "romaji": "kouka"
       },
@@ -370,6 +393,7 @@
         "example": "医科",
         "reading": "イカ",
         "meaning": {
+          "en": "medical science, medical department",
           "vi": "medical science, medical department"
         },
         "romaji": "ika"
@@ -378,7 +402,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": {
+        "en": "grain",
+        "vi": "grain"
+      }
     },
     "parts": [
       "斗",

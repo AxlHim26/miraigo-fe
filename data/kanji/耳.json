@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mimi",
-    "meaning": "ear",
+    "meaning": {
+      "en": "ear",
+      "vi": "tai"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "耳鼻科（じびか）",
         "meaning": {
-          "english": "otolaryngology"
+          "english": "otolaryngology",
+          "en": "otolaryngology",
+          "vi": "tai mũi họng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mimi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "耳（みみ）",
         "meaning": {
-          "english": "ear"
+          "english": "ear",
+          "en": "ear",
+          "vi": "tai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mimi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "初耳（はつみみ）",
         "meaning": {
-          "english": "heard for the first time"
+          "english": "heard for the first time",
+          "en": "heard for the first time",
+          "vi": "nghe lần đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mimi_06_c.opus",
@@ -174,7 +183,9 @@
     "kanji": {
       "character": "耳",
       "meaning": {
-        "english": "ear"
+        "english": "ear",
+        "en": "ear",
+        "vi": "tai"
       },
       "strokes": {
         "count": 6,
@@ -224,7 +235,9 @@
         "romaji": "mimi"
       },
       "meaning": {
-        "english": "ear"
+        "english": "ear",
+        "en": "ear",
+        "vi": "tai"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mimi0.svg",
@@ -245,7 +258,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1328",
     "strokeCount": 6,
-    "meaning": "ear",
+    "meaning": {
+      "en": "ear",
+      "vi": "tai"
+    },
     "kunyomi": [
       "みみ"
     ],
@@ -257,7 +273,8 @@
         "example": "耳鼻科",
         "reading": "ジビカ",
         "meaning": {
-          "vi": "otolaryngology, ear, nose, and throat department"
+          "vi": "otolaryngology, ear, nose, and throat department",
+          "en": "otolaryngology, ear, nose, and throat department"
         },
         "romaji": "jibika"
       },
@@ -265,7 +282,8 @@
         "example": "耳鼻咽喉科",
         "reading": "ジビインコウカ",
         "meaning": {
-          "vi": "otorhinolaryngology, otolaryngology, ear, nose and throat department"
+          "vi": "otorhinolaryngology, otolaryngology, ear, nose and throat department",
+          "en": "otorhinolaryngology, otolaryngology, ear, nose and throat department"
         },
         "romaji": "jibiinkouka"
       },
@@ -273,7 +291,8 @@
         "example": "中耳",
         "reading": "チュウジ",
         "meaning": {
-          "vi": "middle ear, tympanum"
+          "vi": "middle ear, tympanum",
+          "en": "middle ear, tympanum"
         },
         "romaji": "chuuji"
       },
@@ -281,7 +300,8 @@
         "example": "外耳",
         "reading": "ガイジ",
         "meaning": {
-          "en": "external ear, concha"
+          "en": "external ear, concha",
+          "vi": "tai ngoài, vành tai"
         },
         "romaji": "gaiji"
       }
@@ -291,7 +311,8 @@
         "example": "耳",
         "reading": "みみ",
         "meaning": {
-          "vi": "ear, hearing, ear (for music, etc.), edge, crust, heel (of bread or cheese), selvedge (of woven fabric), selvage, ear (of a pot, jug, etc.), handle"
+          "vi": "ear, hearing, ear (for music, etc.), edge, crust, heel (of bread or cheese), selvedge (of woven fabric), selvage, ear (of a pot, jug, etc.), handle",
+          "en": "ear, hearing, ear (for music, etc.), edge, crust, heel (of bread or cheese), selvedge (of woven fabric), selvage, ear (of a pot, jug, etc.), handle"
         },
         "romaji": "mimi"
       },
@@ -299,7 +320,8 @@
         "example": "耳障り",
         "reading": "みみざわり",
         "meaning": {
-          "vi": "hard (on the ears), offensive (to the ear), rasping, rough, harsh, grating, jarring, cacophonous"
+          "vi": "hard (on the ears), offensive (to the ear), rasping, rough, harsh, grating, jarring, cacophonous",
+          "en": "hard (on the ears), offensive (to the ear), rasping, rough, harsh, grating, jarring, cacophonous"
         },
         "romaji": "mimizawari"
       },
@@ -307,7 +329,8 @@
         "example": "大耳",
         "reading": "おおみみ",
         "meaning": {
-          "vi": "big ears, listening without paying attention"
+          "vi": "big ears, listening without paying attention",
+          "en": "big ears, listening without paying attention"
         },
         "romaji": "oomimi"
       },
@@ -315,14 +338,18 @@
         "example": "遠耳",
         "reading": "とおみみ",
         "meaning": {
-          "vi": "sharp hearing"
+          "vi": "sharp hearing",
+          "en": "sharp hearing"
         },
         "romaji": "toomimi"
       }
     ],
     "radical": {
       "symbol": "耳",
-      "meaning": "ear"
+      "meaning": {
+        "en": "ear",
+        "vi": "tai"
+      }
     },
     "parts": [
       "耳"
@@ -332,6 +359,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8033.gif",
     "uri": "https://jisho.org/search/%E8%80%B3%23kanji"
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Các nét xếp như vành tai và phần tai trong.",
   "hanViet": [
     "nhĩ"
   ]

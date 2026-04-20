@@ -7,14 +7,19 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "yo, yon",
-    "meaning": "bốn",
+    "meaning": {
+      "en": "four",
+      "vi": "bốn"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "四月（しがつ）",
         "meaning": {
           "english": "April",
-          "vietnamese": "tháng Tư"
+          "vietnamese": "tháng Tư",
+          "en": "April",
+          "vi": "tháng Tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_a.opus",
@@ -27,7 +32,9 @@
         "japanese": "四角（しかく）",
         "meaning": {
           "english": "square",
-          "vietnamese": "hình vuông"
+          "vietnamese": "hình vuông",
+          "en": "square",
+          "vi": "hình vuông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_b.opus",
@@ -40,7 +47,9 @@
         "japanese": "四国（しこく）",
         "meaning": {
           "english": "Shikoku",
-          "vietnamese": "Shikoku"
+          "vietnamese": "Shikoku",
+          "en": "Shikoku",
+          "vi": "Shikoku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_c.opus",
@@ -53,7 +62,9 @@
         "japanese": "四季（しき）",
         "meaning": {
           "english": "four seasons",
-          "vietnamese": "bốn mùa"
+          "vietnamese": "bốn mùa",
+          "en": "four seasons",
+          "vi": "bốn mùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_d.opus",
@@ -66,7 +77,9 @@
         "japanese": "四時（よじ）",
         "meaning": {
           "english": "4 o'clock",
-          "vietnamese": "4 giờ"
+          "vietnamese": "4 giờ",
+          "en": "4 o'clock",
+          "vi": "4 giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_e.opus",
@@ -79,7 +92,9 @@
         "japanese": "四つ角（よつかど）",
         "meaning": {
           "english": "crossroads",
-          "vietnamese": "ngã tư"
+          "vietnamese": "ngã tư",
+          "en": "crossroads",
+          "vi": "ngã tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_f.opus",
@@ -92,7 +107,9 @@
         "japanese": "四つ（よっつ）",
         "meaning": {
           "english": "4 (objects)",
-          "vietnamese": "4 (đồ vật)"
+          "vietnamese": "4 (đồ vật)",
+          "en": "4 (objects)",
+          "vi": "4 (đồ vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_g.opus",
@@ -105,7 +122,9 @@
         "japanese": "四日（よっか）",
         "meaning": {
           "english": "4 days, 4th of the month",
-          "vietnamese": "4 ngày, ngày 4 trong tháng"
+          "vietnamese": "4 ngày, ngày 4 trong tháng",
+          "en": "4 days, 4th of the month",
+          "vi": "4 ngày, ngày 4 trong tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_h.opus",
@@ -118,7 +137,9 @@
         "japanese": "四回（よんかい）",
         "meaning": {
           "english": "4 times",
-          "vietnamese": "4 lần"
+          "vietnamese": "4 lần",
+          "en": "4 times",
+          "vi": "4 lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/4_06_i.opus",
@@ -275,7 +296,9 @@
       "character": "四",
       "meaning": {
         "english": "four",
-        "vietnamese": "bốn"
+        "vietnamese": "bốn",
+        "en": "four",
+        "vi": "bốn"
       },
       "strokes": {
         "count": 5,
@@ -324,7 +347,9 @@
       },
       "meaning": {
         "english": "border, territorial boundaries",
-        "vietnamese": "biên giới, ranh giới lãnh thổ"
+        "vietnamese": "biên giới, ranh giới lãnh thổ",
+        "en": "border, territorial boundaries",
+        "vi": "biên giới, ranh giới lãnh thổ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -345,7 +370,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "47",
     "strokeCount": 5,
-    "meaning": "bốn",
+    "meaning": {
+      "en": "four",
+      "vi": "bốn"
+    },
     "kunyomi": [
       "よ",
       "よ.つ",
@@ -360,7 +388,8 @@
         "example": "四",
         "reading": "シ",
         "meaning": {
-          "en": "four, 4"
+          "en": "four, 4",
+          "vi": "bốn, 4"
         },
         "romaji": "shi"
       },
@@ -368,7 +397,8 @@
         "example": "４月",
         "reading": "シガツ",
         "meaning": {
-          "vi": "April, fourth month in the lunar calendar"
+          "vi": "tháng Tư, tháng thứ tư âm lịch",
+          "en": "April, fourth month in the lunar calendar"
         },
         "romaji": "shigatsu"
       },
@@ -376,7 +406,8 @@
         "example": "十四",
         "reading": "ジュウシ",
         "meaning": {
-          "en": "fourteen, 14"
+          "en": "fourteen, 14",
+          "vi": "mười bốn, 14"
         },
         "romaji": "juushi"
       },
@@ -384,7 +415,8 @@
         "example": "炭素１４",
         "reading": "タンソジュウシ",
         "meaning": {
-          "en": "carbon-14"
+          "en": "carbon-14",
+          "vi": "cacbon-14"
         },
         "romaji": "tansojuushi"
       }
@@ -394,7 +426,8 @@
         "example": "四",
         "reading": "し",
         "meaning": {
-          "en": "four, 4"
+          "en": "four, 4",
+          "vi": "bốn, 4"
         },
         "romaji": "shi"
       },
@@ -402,7 +435,8 @@
         "example": "四畳半",
         "reading": "よじょうはん",
         "meaning": {
-          "vi": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations"
+          "vi": "bốn chiếu rưỡi, phòng bốn chiếu rưỡi, phòng nhỏ đặc biệt dùng để hẹn gặp",
+          "en": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations"
         },
         "romaji": "yojouhan"
       },
@@ -410,7 +444,8 @@
         "example": "四つ",
         "reading": "よっつ",
         "meaning": {
-          "vi": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips"
+          "vi": "bốn, 4, bốn tuổi, mười giờ theo cách tính giờ cũ, burakumin, thế khóa chéo",
+          "en": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips"
         },
         "romaji": "yottsu"
       },
@@ -418,7 +453,8 @@
         "example": "四つ角",
         "reading": "よつかど",
         "meaning": {
-          "en": "four corners, crossroads, intersecting street, street corner"
+          "en": "four corners, crossroads, intersecting street, street corner",
+          "vi": "bốn góc, ngã tư, đường giao nhau, góc phố"
         },
         "romaji": "yotsukado"
       },
@@ -426,7 +462,8 @@
         "example": "四つ",
         "reading": "よっつ",
         "meaning": {
-          "vi": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips"
+          "vi": "bốn, 4, bốn tuổi, mười giờ theo cách tính giờ cũ, burakumin, thế khóa chéo",
+          "en": "four, 4, four years of age, ten o'clock (in the old time system), burakumin, cross grips"
         },
         "romaji": "yottsu"
       },
@@ -434,7 +471,8 @@
         "example": "四つの自由",
         "reading": "よっつのじゆう",
         "meaning": {
-          "vi": "the Four Freedoms (as defined by Franklin D. Roosevelt: freedom of speech, freedom of worship, freedom from want, freedom from fear)"
+          "vi": "Bốn quyền tự do theo Franklin D. Roosevelt: tự do ngôn luận, tự do tín ngưỡng, không thiếu thốn, không sợ hãi",
+          "en": "the Four Freedoms (as defined by Franklin D. Roosevelt: freedom of speech, freedom of worship, freedom from want, freedom from fear)"
         },
         "romaji": "yottsunojiyuu"
       },
@@ -442,7 +480,8 @@
         "example": "四",
         "reading": "し",
         "meaning": {
-          "en": "four, 4"
+          "en": "four, 4",
+          "vi": "bốn, 4"
         },
         "romaji": "shi"
       },
@@ -450,7 +489,8 @@
         "example": "４０",
         "reading": "よんじゅう",
         "meaning": {
-          "en": "forty, 40"
+          "en": "forty, 40",
+          "vi": "bốn mươi, 40"
         },
         "romaji": "yonjuu"
       },
@@ -458,7 +498,8 @@
         "example": "十四",
         "reading": "じゅうし",
         "meaning": {
-          "en": "fourteen, 14"
+          "en": "fourteen, 14",
+          "vi": "mười bốn, 14"
         },
         "romaji": "juushi"
       },
@@ -466,14 +507,18 @@
         "example": "軽四",
         "reading": "けいよん",
         "meaning": {
-          "en": "four-wheeled light vehicle"
+          "en": "four-wheeled light vehicle",
+          "vi": "xe nhẹ bốn bánh"
         },
         "romaji": "keiyon"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": {
+        "en": "enclosure",
+        "vi": "vây quanh"
+      }
     },
     "parts": [
       "儿",
@@ -486,5 +531,7 @@
   },
   "hanViet": [
     "tứ"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: cái khung bao quanh phần bên trong như đang giữ số bốn ở giữa."
 }

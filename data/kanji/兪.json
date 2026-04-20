@@ -5,7 +5,10 @@
     "query": "兪",
     "found": true,
     "strokeCount": 9,
-    "meaning": "affirmative response, relaxed, at ease",
+    "meaning": {
+      "en": "affirmative response, relaxed, at ease",
+      "vi": "câu trả lời khẳng định, thư thái, thoải mái"
+    },
     "kunyomi": [
       "しかり"
     ],
@@ -16,7 +19,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "入",
-      "meaning": "enter"
+      "meaning": {
+        "en": "enter",
+        "vi": "đi vào"
+      }
     },
     "parts": [
       "一",

@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "hi",
-    "meaning": "fire",
+    "meaning": {
+      "en": "fire",
+      "vi": "lửa"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "火事（かじ）",
         "meaning": {
-          "english": "fire"
+          "english": "fire",
+          "en": "fire",
+          "vi": "lửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "火力（かりょく）",
         "meaning": {
-          "english": "thermal power"
+          "english": "thermal power",
+          "en": "thermal power",
+          "vi": "nhiệt điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "火曜日（かようび）",
         "meaning": {
-          "english": "Tuesday"
+          "english": "Tuesday",
+          "en": "Tuesday",
+          "vi": "thứ Ba"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "火（ひ）",
         "meaning": {
-          "english": "flame, fire"
+          "english": "flame, fire",
+          "en": "flame, fire",
+          "vi": "ngọn lửa, lửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "花火（はなび）",
         "meaning": {
-          "english": "fireworks"
+          "english": "fireworks",
+          "en": "fireworks",
+          "vi": "pháo hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-hi_06_e.opus",
@@ -211,7 +224,9 @@
     "kanji": {
       "character": "火",
       "meaning": {
-        "english": "fire"
+        "english": "fire",
+        "en": "fire",
+        "vi": "lửa"
       },
       "strokes": {
         "count": 4,
@@ -257,7 +272,9 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "fire"
+        "english": "fire",
+        "en": "fire",
+        "vi": "lửa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi-fire0.svg",
@@ -278,7 +295,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "574",
     "strokeCount": 4,
-    "meaning": "fire",
+    "meaning": {
+      "en": "fire",
+      "vi": "lửa"
+    },
     "kunyomi": [
       "ひ",
       "-び",
@@ -292,7 +312,8 @@
         "example": "火",
         "reading": "カ",
         "meaning": {
-          "en": "Tuesday, fire (second of the five elements)"
+          "en": "Tuesday, fire (second of the five elements)",
+          "vi": "Tuesday, fire (second of the five elements)"
         },
         "romaji": "ka"
       },
@@ -300,7 +321,8 @@
         "example": "火炎瓶",
         "reading": "カエンビン",
         "meaning": {
-          "vi": "Molotov cocktail, petrol bomb, gasoline bomb"
+          "vi": "Molotov cocktail, petrol bomb, gasoline bomb",
+          "en": "Molotov cocktail, petrol bomb, gasoline bomb"
         },
         "romaji": "kaenbin"
       },
@@ -308,7 +330,8 @@
         "example": "発火",
         "reading": "ハッカ",
         "meaning": {
-          "en": "ignition, combustion, catching fire, firing a blank cartridge, discharge of a gun without bullets, firing (of an event), triggering"
+          "en": "ignition, combustion, catching fire, firing a blank cartridge, discharge of a gun without bullets, firing (of an event), triggering",
+          "vi": "ignition, combustion, catching fire, firing a blank cartridge, discharge of a gun without bullets, firing (of an event), triggering"
         },
         "romaji": "hakka"
       },
@@ -316,7 +339,8 @@
         "example": "点火",
         "reading": "テンカ",
         "meaning": {
-          "en": "ignition, lighting, firing, setting off"
+          "en": "ignition, lighting, firing, setting off",
+          "vi": "ignition, lighting, firing, setting off"
         },
         "romaji": "tenka"
       }
@@ -326,7 +350,8 @@
         "example": "火",
         "reading": "ひ",
         "meaning": {
-          "en": "fire, flame, blaze"
+          "en": "fire, flame, blaze",
+          "vi": "fire, flame, blaze"
         },
         "romaji": "hi"
       },
@@ -334,7 +359,8 @@
         "example": "火口",
         "reading": "ひぐち",
         "meaning": {
-          "en": "burner, nozzle, origin of a fire"
+          "en": "burner, nozzle, origin of a fire",
+          "vi": "burner, nozzle, origin of a fire"
         },
         "romaji": "higuchi"
       },
@@ -342,7 +368,8 @@
         "example": "飛び火",
         "reading": "とびひ",
         "meaning": {
-          "vi": "leaping flames, flying sparks, spread of fire (due to leaping flames), repercussions in unanticipated areas, spilling over, effects of an incident spreading to those seemingly uninvolved, impetigo contagiosa"
+          "vi": "leaping flames, flying sparks, spread of fire (due to leaping flames), repercussions in unanticipated areas, spilling over, effects of an incident spreading to those seemingly uninvolved, impetigo contagiosa",
+          "en": "leaping flames, flying sparks, spread of fire (due to leaping flames), repercussions in unanticipated areas, spilling over, effects of an incident spreading to those seemingly uninvolved, impetigo contagiosa"
         },
         "romaji": "tobihi"
       },
@@ -350,7 +377,8 @@
         "example": "不知火",
         "reading": "しらぬい",
         "meaning": {
-          "vi": "phosphorescent light, mysterious lights on the sea, sea fire"
+          "vi": "phosphorescent light, mysterious lights on the sea, sea fire",
+          "en": "phosphorescent light, mysterious lights on the sea, sea fire"
         },
         "romaji": "shiranui"
       }
@@ -360,7 +388,10 @@
       "forms": [
         "灬"
       ],
-      "meaning": "fire"
+      "meaning": {
+        "en": "fire",
+        "vi": "lửa"
+      }
     },
     "parts": [
       "火"
@@ -370,6 +401,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/706b.gif",
     "uri": "https://jisho.org/search/%E7%81%AB%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: hai tia lửa bắn ra từ ngọn lửa ở giữa.",
   "hanViet": [
     "hoả"
   ]

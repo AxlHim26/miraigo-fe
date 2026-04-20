@@ -5,7 +5,10 @@
     "query": "按",
     "found": true,
     "strokeCount": 9,
-    "meaning": "hold, consider, investigate",
+    "meaning": {
+      "en": "hold, consider, investigate",
+      "vi": "giữ, cân nhắc, điều tra"
+    },
     "kunyomi": [
       "おさ.える",
       "しら.べる"
@@ -18,6 +21,7 @@
         "example": "塩梅",
         "reading": "アンバイ",
         "meaning": {
+          "en": "seasoning, flavour, flavor, taste, condition, state, situation, (state of) health, physical condition, arrangement, assignment, adjustment, handling, dealing with",
           "vi": "seasoning, flavour, flavor, taste, condition, state, situation, (state of) health, physical condition, arrangement, assignment, adjustment, handling, dealing with"
         },
         "romaji": "anbai"
@@ -26,6 +30,7 @@
         "example": "案じる",
         "reading": "アンジル",
         "meaning": {
+          "en": "to be anxious (about), to be concerned (about), to worry (about), to fear, to think out (e.g. a plan), to work out, to devise, to consider, to ponder, to investigate, to stroke, to rub, to pat, to grasp (the hilt of one's sword)",
           "vi": "to be anxious (about), to be concerned (about), to worry (about), to fear, to think out (e.g. a plan), to work out, to devise, to consider, to ponder, to investigate, to stroke, to rub, to pat, to grasp (the hilt of one's sword)"
         },
         "romaji": "anjiru"
@@ -37,7 +42,10 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": {
+        "en": "hand",
+        "vi": "tay"
+      }
     },
     "parts": [
       "女",

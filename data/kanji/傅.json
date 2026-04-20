@@ -5,7 +5,10 @@
     "query": "傅",
     "found": true,
     "strokeCount": 12,
-    "meaning": "tutor",
+    "meaning": {
+      "en": "tutor",
+      "vi": "gia sư, người chỉ dạy"
+    },
     "kunyomi": [
       "かしず.く",
       "つく",
@@ -19,7 +22,8 @@
         "example": "傅",
         "reading": "メノト",
         "meaning": {
-          "vi": "instructor, tutor (to a prince)"
+          "vi": "instructor, tutor (to a prince)",
+          "en": "instructor, tutor (to a prince)"
         },
         "romaji": "menoto"
       },
@@ -27,7 +31,8 @@
         "example": "傅育",
         "reading": "フイク",
         "meaning": {
-          "vi": "bringing up, tuition"
+          "vi": "bringing up, tuition",
+          "en": "bringing up, tuition"
         },
         "romaji": "fuiku"
       },
@@ -35,7 +40,8 @@
         "example": "太傅",
         "reading": "タイフ",
         "meaning": {
-          "vi": "Grand Tutor (second of the top three civil positions of the Zhou dynasty), Minister of the Left (official in Nara and Heian periods)"
+          "vi": "Grand Tutor (second of the top three civil positions of the Zhou dynasty), Minister of the Left (official in Nara and Heian periods)",
+          "en": "Grand Tutor (second of the top three civil positions of the Zhou dynasty), Minister of the Left (official in Nara and Heian periods)"
         },
         "romaji": "taifu"
       },
@@ -43,7 +49,8 @@
         "example": "師傅",
         "reading": "シフ",
         "meaning": {
-          "en": "guardian and tutor of a nobleman's child"
+          "en": "guardian and tutor of a nobleman's child",
+          "vi": "người giám hộ và dạy dỗ con của quý tộc"
         },
         "romaji": "shifu"
       }
@@ -53,7 +60,8 @@
         "example": "傅く",
         "reading": "かしずく",
         "meaning": {
-          "vi": "to wait upon, to serve"
+          "vi": "to wait upon, to serve",
+          "en": "to wait upon, to serve"
         },
         "romaji": "kashizuku"
       }
@@ -63,7 +71,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "丶",

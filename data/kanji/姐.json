@@ -5,7 +5,10 @@
     "query": "姐",
     "found": true,
     "strokeCount": 8,
-    "meaning": "elder sister, maidservant",
+    "meaning": {
+      "en": "elder sister, maidservant",
+      "vi": "chị, nữ hầu"
+    },
     "kunyomi": [
       "あね",
       "ねえさん"
@@ -20,7 +23,8 @@
         "example": "姉",
         "reading": "あね",
         "meaning": {
-          "en": "older sister, elder sister"
+          "en": "older sister, elder sister",
+          "vi": "chị gái, chị lớn"
         },
         "romaji": "ane"
       },
@@ -28,7 +32,8 @@
         "example": "姉さん",
         "reading": "ねえさん",
         "meaning": {
-          "en": "older sister, elder sister, young lady, miss, ma'am"
+          "en": "older sister, elder sister, young lady, miss, ma'am",
+          "vi": "chị gái, chị lớn, cô gái trẻ, cô, quý bà"
         },
         "romaji": "neesan"
       },
@@ -36,14 +41,18 @@
         "example": "姉さん",
         "reading": "ねえさん",
         "meaning": {
-          "en": "older sister, elder sister, young lady, miss, ma'am"
+          "en": "older sister, elder sister, young lady, miss, ma'am",
+          "vi": "chị gái, chị lớn, cô gái trẻ, cô, quý bà"
         },
         "romaji": "neesan"
       }
     ],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": {
+        "en": "woman, female",
+        "vi": "phụ nữ, giống cái"
+      }
     },
     "parts": [
       "女",

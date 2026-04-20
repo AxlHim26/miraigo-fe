@@ -5,7 +5,10 @@
     "query": "兢",
     "found": true,
     "strokeCount": 14,
-    "meaning": "discreet, careful",
+    "meaning": {
+      "en": "discreet, careful",
+      "vi": "thận trọng, cẩn thận"
+    },
     "kunyomi": [
       "おそ.れる",
       "つつ.しむ"
@@ -18,7 +21,8 @@
         "example": "戦々恐々",
         "reading": "センセンキョウキョウ",
         "meaning": {
-          "vi": "trembling with fear, in great fear, filled with trepidation, nervously, timidly"
+          "vi": "trembling with fear, in great fear, filled with trepidation, nervously, timidly",
+          "en": ""
         },
         "romaji": "sensenkyoukyou"
       }
@@ -26,7 +30,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "儿",

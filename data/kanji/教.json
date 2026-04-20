@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "oshi, oso, oshieru, osowaru",
-    "meaning": "teach, religion",
+    "meaning": {
+      "en": "teach, religion",
+      "vi": "day bao, ton giao"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "教育する（きょういくする）",
         "meaning": {
-          "english": "educate"
+          "english": "educate",
+          "en": "educate",
+          "vi": "giáo dục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "教授（きょうじゅ）",
         "meaning": {
-          "english": "teaching, professor"
+          "english": "teaching, professor",
+          "en": "teaching, professor",
+          "vi": "giang day, giao su"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "教師（きょうし）",
         "meaning": {
-          "english": "teacher"
+          "english": "teacher",
+          "en": "teacher",
+          "vi": "giao vien"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "教室（きょうしつ）",
         "meaning": {
-          "english": "classroom"
+          "english": "classroom",
+          "en": "classroom",
+          "vi": "phòng học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "教科書（きょうかしょ）",
         "meaning": {
-          "english": "text book"
+          "english": "text book",
+          "en": "text book",
+          "vi": "sach giao khoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "教養（きょうよう）",
         "meaning": {
-          "english": "cultivation, culture"
+          "english": "cultivation, culture",
+          "en": "cultivation, culture",
+          "vi": "vun trong, van hoa, giao duong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "教会（きょうかい）",
         "meaning": {
-          "english": "church"
+          "english": "church",
+          "en": "church",
+          "vi": "nha tho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "宗教（しゅうきょう）",
         "meaning": {
-          "english": "religion"
+          "english": "religion",
+          "en": "religion",
+          "vi": "ton giao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "仏教（ぶっきょう）",
         "meaning": {
-          "english": "Buddhism"
+          "english": "Buddhism",
+          "en": "Buddhism",
+          "vi": "Phật giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "教える（おしえる）",
         "meaning": {
-          "english": "teach, inform [v.t.]"
+          "english": "teach, inform [v.t.]",
+          "en": "teach, inform [v.t.]",
+          "vi": "chi day, thong bao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "教わる（おそわる）",
         "meaning": {
-          "english": "be taught [v.i.]"
+          "english": "be taught [v.i.]",
+          "en": "be taught [v.i.]",
+          "vi": "duoc day"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/oshi(eru)_06_k.opus",
@@ -310,7 +335,9 @@
     "kanji": {
       "character": "教",
       "meaning": {
-        "english": "teach, religion"
+        "english": "teach, religion",
+        "en": "teach, religion",
+        "vi": "day bao, ton giao"
       },
       "strokes": {
         "count": 11,
@@ -370,7 +397,9 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "english": "activity, to strike, hit",
+        "en": "activity, to strike, hit",
+        "vi": "activity, to strike, hit"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -391,7 +420,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "166",
     "strokeCount": 11,
-    "meaning": "teach, faith, doctrine",
+    "meaning": {
+      "en": "teach, faith, doctrine",
+      "vi": "giao ly, tin dieu, day bao"
+    },
     "kunyomi": [
       "おし.える",
       "おそ.わる"
@@ -404,7 +436,8 @@
         "example": "教育委員会",
         "reading": "キョウイクイインカイ",
         "meaning": {
-          "en": "Board of Education"
+          "en": "Board of Education",
+          "vi": "hoi dong giao duc"
         },
         "romaji": "kyouikuiinkai"
       },
@@ -412,7 +445,8 @@
         "example": "教育",
         "reading": "キョウイク",
         "meaning": {
-          "vi": "education, schooling, training, instruction, teaching, upbringing, culture, cultivation, education"
+          "vi": "education, schooling, training, instruction, teaching, upbringing, culture, cultivation, education",
+          "en": "education, schooling, training, instruction, teaching, upbringing, culture, cultivation, education"
         },
         "romaji": "kyouiku"
       },
@@ -420,7 +454,8 @@
         "example": "政教",
         "reading": "セイキョウ",
         "meaning": {
-          "vi": "religion and politics, church and state"
+          "vi": "religion and politics, church and state",
+          "en": "religion and politics, church and state"
         },
         "romaji": "seikyou"
       },
@@ -428,7 +463,8 @@
         "example": "正教",
         "reading": "セイキョウ",
         "meaning": {
-          "en": "orthodoxy, (Greek) orthodox church"
+          "en": "orthodoxy, (Greek) orthodox church",
+          "vi": "Chinh thong giao, nha tho Chinh thong"
         },
         "romaji": "seikyou"
       }
@@ -438,7 +474,8 @@
         "example": "教える",
         "reading": "おしえる",
         "meaning": {
-          "vi": "to teach, to instruct, to tell, to inform, to show, to preach"
+          "vi": "to teach, to instruct, to tell, to inform, to show, to preach",
+          "en": "to teach, to instruct, to tell, to inform, to show, to preach"
         },
         "romaji": "oshieru"
       },
@@ -446,7 +483,8 @@
         "example": "教わる",
         "reading": "おそわる",
         "meaning": {
-          "en": "to be taught, to learn, to take lessons in"
+          "en": "to be taught, to learn, to take lessons in",
+          "vi": "duoc day, hoc, theo hoc"
         },
         "romaji": "osowaru"
       }
@@ -456,7 +494,10 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": {
+        "en": "rap",
+        "vi": "rap"
+      }
     },
     "parts": [
       "乞",
@@ -472,5 +513,7 @@
   "hanViet": [
     "giao",
     "giáo"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Ben trai nhu dua tre duoc day, ben phai la tay cam roi chi bao. Vi vay 教 la day, giao duc."
 }

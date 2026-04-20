@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2293",
     "strokeCount": 12,
-    "meaning": "victory song",
+    "meaning": {
+      "en": "victory song",
+      "vi": "khúc khải hoàn"
+    },
     "kunyomi": [
       "かちどき",
       "やわらぐ"
@@ -21,7 +24,8 @@
         "example": "凱歌",
         "reading": "ガイカ",
         "meaning": {
-          "en": "victory song, victory"
+          "en": "victory song, victory",
+          "vi": "khúc khải hoàn, chiến thắng"
         },
         "romaji": "gaika"
       },
@@ -29,7 +33,8 @@
         "example": "凱旋",
         "reading": "ガイセン",
         "meaning": {
-          "vi": "triumphant return, returning in triumph"
+          "vi": "triumphant return, returning in triumph",
+          "en": "triumphant return, returning in triumph"
         },
         "romaji": "gaisen"
       }
@@ -37,7 +42,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "几",
-      "meaning": "table"
+      "meaning": {
+        "en": "table",
+        "vi": "bàn"
+      }
     },
     "parts": [
       "几",
@@ -53,5 +61,7 @@
   },
   "hanViet": [
     "khải"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: tiếng trống khải hoàn vang lên sau chiến thắng, đó là cảm giác của 凱.",
+  "jlpt": "N1"
 }

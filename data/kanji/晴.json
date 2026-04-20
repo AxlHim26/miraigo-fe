@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ha, hareru, hare, harasu",
-    "meaning": "fine weather, clear up",
+    "meaning": {
+      "en": "fine weather, clear up",
+      "vi": "trời quang, tạnh"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "晴天（せいてん）",
         "meaning": {
-          "english": "fine weather"
+          "english": "fine weather",
+          "en": "fine weather",
+          "vi": "trời đẹp, quang đãng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "晴れる（はれる）",
         "meaning": {
-          "english": "become sunny"
+          "english": "become sunny",
+          "en": "become sunny",
+          "vi": "trời trở nên nắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "五月晴れ（さつきばれ）",
         "meaning": {
-          "english": "early summer fine weather"
+          "english": "early summer fine weather",
+          "en": "early summer fine weather",
+          "vi": "trời đẹp đầu hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "晴らす（はらす）",
         "meaning": {
-          "english": "clear away"
+          "english": "clear away",
+          "en": "clear away",
+          "vi": "làm tan, xua đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "素晴らしい（すばらしい）",
         "meaning": {
-          "english": "wonderful"
+          "english": "wonderful",
+          "en": "wonderful",
+          "vi": "tuyệt vời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "気晴らし（きばらし）",
         "meaning": {
-          "english": "recreation"
+          "english": "recreation",
+          "en": "recreation",
+          "vi": "giải khuây, thư giãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-ha(reru)_06_f.opus",
@@ -402,5 +417,7 @@
   },
   "hanViet": [
     "tình"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: sau mưa trời hiện ra màu xanh trong trẻo, nên 晴 là trời quang và tạnh ráo."
 }

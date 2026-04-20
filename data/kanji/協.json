@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "cooperate",
+    "meaning": {
+      "en": "cooperate",
+      "vi": "hợp tác"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "協力する（きょうりょくする）",
         "meaning": {
-          "english": "cooperate"
+          "english": "cooperate",
+          "en": "cooperate",
+          "vi": "hợp tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(da)kyou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "協調する（きょうちょうする）",
         "meaning": {
-          "english": "cooperate"
+          "english": "cooperate",
+          "en": "cooperate",
+          "vi": "hợp tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(da)kyou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "協議する（きょうぎする）",
         "meaning": {
-          "english": "discuss, negotiate"
+          "english": "discuss, negotiate",
+          "en": "discuss, negotiate",
+          "vi": "thảo luận, đàm phán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(da)kyou_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "妥協する（だきょうする）",
         "meaning": {
-          "english": "compromise"
+          "english": "compromise",
+          "en": "compromise",
+          "vi": "thỏa hiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(da)kyou_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "協会（きょうかい）",
         "meaning": {
-          "english": "association"
+          "english": "association",
+          "en": "association",
+          "vi": "hiệp hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(da)kyou_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "協定（きょうてい）",
         "meaning": {
-          "english": "pact, agreement"
+          "english": "pact, agreement",
+          "en": "pact, agreement",
+          "vi": "hiệp ước, thỏa thuận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(da)kyou_06_f.opus",
@@ -184,7 +199,9 @@
     "kanji": {
       "character": "協",
       "meaning": {
-        "english": "cooperate"
+        "english": "cooperate",
+        "en": "cooperate",
+        "vi": "hợp tác"
       },
       "strokes": {
         "count": 8,
@@ -238,7 +255,9 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten",
+        "en": "ten",
+        "vi": "mười"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -259,7 +278,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "121",
     "strokeCount": 8,
-    "meaning": "co-, cooperation",
+    "meaning": {
+      "en": "co-, cooperation",
+      "vi": "hiệp, hợp tác"
+    },
     "kunyomi": [],
     "onyomi": [
       "キョウ"
@@ -269,7 +291,8 @@
         "example": "協議",
         "reading": "キョウギ",
         "meaning": {
-          "en": "conference, consultation, discussion, negotiation"
+          "en": "conference, consultation, discussion, negotiation",
+          "vi": "hội nghị, tham vấn, thảo luận, đàm phán"
         },
         "romaji": "kyougi"
       },
@@ -277,7 +300,8 @@
         "example": "協会",
         "reading": "キョウカイ",
         "meaning": {
-          "en": "association, society, organization, organisation"
+          "en": "association, society, organization, organisation",
+          "vi": "hiệp hội, hội đoàn, tổ chức"
         },
         "romaji": "kyoukai"
       },
@@ -285,7 +309,8 @@
         "example": "農協",
         "reading": "ノウキョウ",
         "meaning": {
-          "vi": "agricultural cooperative"
+          "vi": "agricultural cooperative",
+          "en": "agricultural cooperative"
         },
         "romaji": "noukyou"
       },
@@ -293,7 +318,8 @@
         "example": "経協",
         "reading": "ケイキョウ",
         "meaning": {
-          "en": "management association, management conference, management institute"
+          "en": "management association, management conference, management institute",
+          "vi": "hiệp hội quản lý, hội nghị quản lý, viện quản lý"
         },
         "romaji": "keikyou"
       }
@@ -301,7 +327,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "mười, đầy đủ"
+      }
     },
     "parts": [
       "力",
@@ -314,5 +343,7 @@
   },
   "hanViet": [
     "hiệp"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Ba sức lực cùng hợp lại, nhớ nghĩa hiệp lực, hợp tác."
 }

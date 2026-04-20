@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "sagacious, philosophy",
+    "meaning": {
+      "en": "sagacious, philosophy",
+      "vi": "minh triết, triết học"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "哲学（てつがく）",
         "meaning": {
-          "english": "philosophy"
+          "english": "philosophy",
+          "en": "philosophy",
+          "vi": "triết học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(gaku)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "哲理（てつり）",
         "meaning": {
-          "english": "philosophic principles"
+          "english": "philosophic principles",
+          "en": "philosophic principles",
+          "vi": "nguyên lý triết học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(gaku)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "哲学者（てつがくしゃ）",
         "meaning": {
-          "english": "philosopher"
+          "english": "philosopher",
+          "en": "philosopher",
+          "vi": "triết gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(gaku)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "哲学的な（てつがくてきな）",
         "meaning": {
-          "english": "philosophical"
+          "english": "philosophical",
+          "en": "philosophical",
+          "vi": "thuộc triết học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tetsu(gaku)_06_d.opus",
@@ -141,7 +152,9 @@
     "kanji": {
       "character": "哲",
       "meaning": {
-        "english": "sagacious, philosophy"
+        "english": "sagacious, philosophy",
+        "en": "sagacious, philosophy",
+        "vi": "minh triết, triết học"
       },
       "strokes": {
         "count": 10,
@@ -199,7 +212,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -220,7 +235,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1093",
     "strokeCount": 10,
-    "meaning": "philosophy, clear",
+    "meaning": {
+      "en": "philosophy, clear",
+      "vi": "triết học, sáng suốt"
+    },
     "kunyomi": [
       "さとい",
       "あきらか"
@@ -233,7 +251,8 @@
         "example": "哲",
         "reading": "テツ",
         "meaning": {
-          "vi": "sage, wise man, philosopher, disciple, sagacity, wisdom, intelligence"
+          "vi": "sage, wise man, philosopher, disciple, sagacity, wisdom, intelligence",
+          "en": "sage, wise man, philosopher, disciple, sagacity, wisdom, intelligence"
         },
         "romaji": "tetsu"
       },
@@ -241,7 +260,8 @@
         "example": "哲学",
         "reading": "テツガク",
         "meaning": {
-          "vi": "philosophy"
+          "vi": "philosophy",
+          "en": "philosophy"
         },
         "romaji": "tetsugaku"
       },
@@ -249,7 +269,8 @@
         "example": "変哲",
         "reading": "ヘンテツ",
         "meaning": {
-          "en": "something unusual, something odd, something out of the ordinary"
+          "en": "something unusual, something odd, something out of the ordinary",
+          "vi": "điều bất thường, điều kỳ lạ, thứ khác thường"
         },
         "romaji": "hentetsu"
       },
@@ -257,7 +278,8 @@
         "example": "西哲",
         "reading": "セイテツ",
         "meaning": {
-          "vi": "distinguished Western philosopher, great Western thinker, Western philosophy"
+          "vi": "distinguished Western philosopher, great Western thinker, Western philosophy",
+          "en": "distinguished Western philosopher, great Western thinker, Western philosophy"
         },
         "romaji": "seitetsu"
       }
@@ -265,7 +287,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -279,5 +304,7 @@
   },
   "hanViet": [
     "triết"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: dùng miệng 口 nói ra điều sắc bén như chẻ gỗ, nên 哲 là triết lý, sáng suốt."
 }

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1673",
     "strokeCount": 4,
-    "meaning": "villain, evil, bad luck, disaster",
+    "meaning": {
+      "en": "villain, evil, bad luck, disaster",
+      "vi": "hung ác, xấu xa, xui rủi, tai họa"
+    },
     "kunyomi": [],
     "onyomi": [
       "キョウ"
@@ -18,7 +21,8 @@
         "example": "凶",
         "reading": "キョウ",
         "meaning": {
-          "en": "bad luck, ill fortune, misfortune"
+          "en": "bad luck, ill fortune, misfortune",
+          "vi": "xui rủi, vận rủi, bất hạnh"
         },
         "romaji": "kyou"
       },
@@ -26,7 +30,8 @@
         "example": "凶悪",
         "reading": "キョウアク",
         "meaning": {
-          "en": "atrocious, heinous, fiendish, brutal, vicious"
+          "en": "atrocious, heinous, fiendish, brutal, vicious",
+          "vi": "tàn ác, ghê tởm, hung bạo, dã man, độc ác"
         },
         "romaji": "kyouaku"
       },
@@ -34,7 +39,8 @@
         "example": "元凶",
         "reading": "ゲンキョウ",
         "meaning": {
-          "vi": "ringleader, main culprit, main cause, source"
+          "vi": "ringleader, main culprit, main cause, source",
+          "en": "ringleader, main culprit, main cause, source"
         },
         "romaji": "genkyou"
       },
@@ -42,7 +48,8 @@
         "example": "大凶",
         "reading": "ダイキョウ",
         "meaning": {
-          "en": "terrible luck, very bad luck"
+          "en": "terrible luck, very bad luck",
+          "vi": "vận xui khủng khiếp, cực kỳ xui"
         },
         "romaji": "daikyou"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "凵",
-      "meaning": "container, open mouth"
+      "meaning": {
+        "en": "container, open mouth",
+        "vi": "đồ chứa, miệng mở"
+      }
     },
     "parts": [
       "ノ",
@@ -64,5 +74,7 @@
   },
   "hanViet": [
     "hung"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: trong chiếc khung mở có dấu chéo báo điềm xấu, nên 凶 là hung.",
+  "jlpt": "N1"
 }

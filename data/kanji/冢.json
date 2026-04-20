@@ -5,7 +5,10 @@
     "query": "冢",
     "found": true,
     "strokeCount": 10,
-    "meaning": "mound, hillock",
+    "meaning": {
+      "en": "mound, hillock",
+      "vi": "gò đất, mô đất"
+    },
     "kunyomi": [
       "つか",
       "おお.う"
@@ -18,7 +21,8 @@
         "example": "冢宰",
         "reading": "チョウサイ",
         "meaning": {
-          "en": "Minister of State (Zhou dynasty China)"
+          "en": "Minister of State (Zhou dynasty China)",
+          "vi": "đại thần chấp chính thời nhà Chu"
         },
         "romaji": "chousai"
       },
@@ -26,7 +30,8 @@
         "example": "陪塚",
         "reading": "バイチョウ",
         "meaning": {
-          "vi": "subsidiary burial mound (Kofun period), satellite burial mound"
+          "vi": "subsidiary burial mound (Kofun period), satellite burial mound",
+          "en": "subsidiary burial mound (Kofun period), satellite burial mound"
         },
         "romaji": "baichou"
       }
@@ -36,14 +41,18 @@
         "example": "塚",
         "reading": "つか",
         "meaning": {
-          "vi": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue"
+          "vi": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue",
+          "en": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue"
         },
         "romaji": "tsuka"
       }
     ],
     "radical": {
       "symbol": "冖",
-      "meaning": "cover"
+      "meaning": {
+        "en": "cover",
+        "vi": "che phủ"
+      }
     },
     "parts": [
       "丶",
@@ -53,10 +62,12 @@
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20898_frames.png",
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a2.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a2.gif",
-    "uri": "https://jisho.org/search/%E5%86%A2%23kanji"
+    "uri": "https://jisho.org/search/%E5%86%A2%23kanji",
+    "jlptLevel": null
   },
   "hanViet": [
     "trũng",
     "trủng"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: phần che bên trên đè lên khối lớn bên dưới như một gò mộ vun cao."
 }

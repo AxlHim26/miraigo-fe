@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1685",
     "strokeCount": 10,
-    "meaning": "large",
+    "meaning": {
+      "en": "large",
+      "vi": "rộng lớn"
+    },
     "kunyomi": [
       "おおづな",
       "つな",
@@ -21,7 +24,8 @@
         "example": "八紘",
         "reading": "ハッコウ",
         "meaning": {
-          "en": "the eight directions, the whole land, the whole world"
+          "en": "the eight directions, the whole land, the whole world",
+          "vi": "tám phương, khắp đất nước, toàn thế giới"
         },
         "romaji": "hakkou"
       }
@@ -32,7 +36,10 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": {
+        "en": "silk",
+        "vi": "tơ lụa"
+      }
     },
     "parts": [
       "ノ",
@@ -49,5 +56,7 @@
   },
   "hanViet": [
     "hoành"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Sợi tơ kéo dài khắp bốn phương gợi cảm giác rộng lớn, bao trùm."
 }

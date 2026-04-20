@@ -7,14 +7,19 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mu, mui, muttsu",
-    "meaning": "sáu",
+    "meaning": {
+      "en": "six",
+      "vi": "sáu"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "六時（ろくじ）",
         "meaning": {
           "english": "6 o'clock",
-          "vietnamese": "6 giờ"
+          "vietnamese": "6 giờ",
+          "en": "6 o'clock",
+          "vi": "6 giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/6_06_a.opus",
@@ -27,7 +32,9 @@
         "japanese": "六才（ろくさい）",
         "meaning": {
           "english": "6 years old",
-          "vietnamese": "6 tuổi"
+          "vietnamese": "6 tuổi",
+          "en": "6 years old",
+          "vi": "6 tuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/6_06_b.opus",
@@ -40,7 +47,9 @@
         "japanese": "六番目（ろくばんめ）",
         "meaning": {
           "english": "6th",
-          "vietnamese": "thứ sáu"
+          "vietnamese": "thứ sáu",
+          "en": "6th",
+          "vi": "thứ sáu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/6_06_c.opus",
@@ -53,7 +62,9 @@
         "japanese": "六月（ろくがつ）",
         "meaning": {
           "english": "June",
-          "vietnamese": "tháng Sáu"
+          "vietnamese": "tháng Sáu",
+          "en": "June",
+          "vi": "tháng Sáu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/6_06_d.opus",
@@ -66,7 +77,9 @@
         "japanese": "六本（ろっぽん）",
         "meaning": {
           "english": "6 (long cylindrical objects)",
-          "vietnamese": "6 (đồ vật dạng trụ dài)"
+          "vietnamese": "6 (đồ vật dạng trụ dài)",
+          "en": "6 (long cylindrical objects)",
+          "vi": "6 (đồ vật dạng trụ dài)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/6_06_e.opus",
@@ -79,7 +92,9 @@
         "japanese": "六百（ろっぴゃく）",
         "meaning": {
           "english": "600",
-          "vietnamese": "600"
+          "vietnamese": "600",
+          "en": "600",
+          "vi": "600"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/6_06_f.opus",
@@ -92,7 +107,9 @@
         "japanese": "六つ（むっつ）",
         "meaning": {
           "english": "6 (pieces)",
-          "vietnamese": "6 (cái)"
+          "vietnamese": "6 (cái)",
+          "en": "6 (pieces)",
+          "vi": "6 (cái)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/6_06_g.opus",
@@ -105,7 +122,9 @@
         "japanese": "六日（むいか）",
         "meaning": {
           "english": "6 days, 6th of the month",
-          "vietnamese": "6 ngày, ngày 6 trong tháng"
+          "vietnamese": "6 ngày, ngày 6 trong tháng",
+          "en": "6 days, 6th of the month",
+          "vi": "6 ngày, ngày 6 trong tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/6_06_h.opus",
@@ -256,7 +275,9 @@
       "character": "六",
       "meaning": {
         "english": "six",
-        "vietnamese": "sáu"
+        "vietnamese": "sáu",
+        "en": "six",
+        "vi": "sáu"
       },
       "strokes": {
         "count": 4,
@@ -303,7 +324,9 @@
       },
       "meaning": {
         "english": "eight",
-        "vietnamese": "tám"
+        "vietnamese": "tám",
+        "en": "eight",
+        "vi": "tám"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hachi0.svg",
@@ -324,7 +347,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "93",
     "strokeCount": 4,
-    "meaning": "sáu",
+    "meaning": {
+      "en": "six",
+      "vi": "sáu"
+    },
     "kunyomi": [
       "む",
       "む.つ",
@@ -340,7 +366,8 @@
         "example": "六",
         "reading": "ロク",
         "meaning": {
-          "en": "six, 6"
+          "en": "six, 6",
+          "vi": "sáu, 6"
         },
         "romaji": "roku"
       },
@@ -348,7 +375,8 @@
         "example": "６月",
         "reading": "ロクガツ",
         "meaning": {
-          "en": "June, sixth month of the lunar calendar"
+          "en": "June, sixth month of the lunar calendar",
+          "vi": "tháng Sáu, tháng thứ sáu âm lịch"
         },
         "romaji": "rokugatsu"
       },
@@ -356,7 +384,8 @@
         "example": "十六",
         "reading": "ジュウロク",
         "meaning": {
-          "en": "sixteen, 16"
+          "en": "sixteen, 16",
+          "vi": "mười sáu, 16"
         },
         "romaji": "juuroku"
       },
@@ -364,7 +393,8 @@
         "example": "才六",
         "reading": "サイロク",
         "meaning": {
-          "vi": "kid, brat, person from Kansai"
+          "vi": "nhóc con, thằng nhãi, người vùng Kansai",
+          "en": "kid, brat, person from Kansai"
         },
         "romaji": "sairoku"
       },
@@ -372,7 +402,8 @@
         "example": "六官",
         "reading": "リクカン",
         "meaning": {
-          "en": "six ministries (of Zhou dynasty China)"
+          "en": "six ministries (of Zhou dynasty China)",
+          "vi": "lục bộ của nhà Chu"
         },
         "romaji": "rikukan"
       },
@@ -380,7 +411,8 @@
         "example": "六気",
         "reading": "ロッキ",
         "meaning": {
-          "vi": "yin, yang, wind, rain, darkness, light, cold, heat, dryness, dampness, wind, fire, six emotions (joy, anger, sorrow, pleasure, love, hate)"
+          "vi": "âm dương, gió, mưa, tối, sáng, lạnh, nóng, khô, ẩm, gió, lửa, sáu cảm xúc vui giận buồn mừng yêu ghét",
+          "en": "yin, yang, wind, rain, darkness, light, cold, heat, dryness, dampness, wind, fire, six emotions (joy, anger, sorrow, pleasure, love, hate)"
         },
         "romaji": "rokki"
       }
@@ -390,7 +422,8 @@
         "example": "六",
         "reading": "ろく",
         "meaning": {
-          "en": "six, 6"
+          "en": "six, 6",
+          "vi": "sáu, 6"
         },
         "romaji": "roku"
       },
@@ -398,7 +431,8 @@
         "example": "難しい",
         "reading": "むずかしい",
         "meaning": {
-          "vi": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+          "vi": "khó, vất vả, phiền phức, phức tạp, nghiêm trọng, không thể, khó thực hiện, khó tính, kén chọn, không vừa lòng, u ám, cau có, bẩn, khó chịu, rờn rợn",
+          "en": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
         },
         "romaji": "muzukashii"
       },
@@ -406,7 +440,8 @@
         "example": "六つ",
         "reading": "むっつ",
         "meaning": {
-          "en": "six, six years of age, six o'clock (old time system)"
+          "en": "six, six years of age, six o'clock (old time system)",
+          "vi": "sáu, sáu tuổi, sáu giờ theo cách tính giờ cũ"
         },
         "romaji": "muttsu"
       },
@@ -414,7 +449,8 @@
         "example": "難しい",
         "reading": "むずかしい",
         "meaning": {
-          "vi": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
+          "vi": "khó, vất vả, phiền phức, phức tạp, nghiêm trọng, không thể, khó thực hiện, khó tính, kén chọn, không vừa lòng, u ám, cau có, bẩn, khó chịu, rờn rợn",
+          "en": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.), impossible, unfeasible, fussy, particular, fastidious, hard to please, displeased, gloomy, glum, sullen, serious (look), dirty, unclean, filthy, detestable, unpleasant, uncomfortable, creepy, spooky"
         },
         "romaji": "muzukashii"
       },
@@ -422,7 +458,8 @@
         "example": "六つ",
         "reading": "むっつ",
         "meaning": {
-          "en": "six, six years of age, six o'clock (old time system)"
+          "en": "six, six years of age, six o'clock (old time system)",
+          "vi": "sáu, sáu tuổi, sáu giờ theo cách tính giờ cũ"
         },
         "romaji": "muttsu"
       },
@@ -430,7 +467,8 @@
         "example": "６日",
         "reading": "むいか",
         "meaning": {
-          "en": "6th day of the month, six days"
+          "en": "6th day of the month, six days",
+          "vi": "ngày mùng sáu, sáu ngày"
         },
         "romaji": "muika"
       },
@@ -438,14 +476,18 @@
         "example": "六日間戦争",
         "reading": "むいかかんせんそう",
         "meaning": {
-          "en": "Six-Day War (June 5-10, 1967), Third Arab-Israeli War"
+          "en": "Six-Day War (June 5-10, 1967), Third Arab-Israeli War",
+          "vi": "Chiến tranh Sáu Ngày (5-10/6/1967), Chiến tranh Ả Rập-Israel lần thứ ba"
         },
         "romaji": "muikakansensou"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": {
+        "en": "eight",
+        "vi": "tám"
+      }
     },
     "parts": [
       "ハ",
@@ -458,5 +500,7 @@
   },
   "hanViet": [
     "lục"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: nét mái phía trên che phần dưới, liên tưởng đến số sáu."
 }

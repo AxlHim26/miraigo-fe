@@ -7,13 +7,17 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "mediate, be in between",
+    "meaning": {
+      "en": "mediate, be in between",
+      "vi": "làm trung gian, ở giữa"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "介入する（かいにゅうする）",
         "meaning": {
-          "english": "intervene, interfere"
+          "en": "intervene, interfere",
+          "vi": "can thiệp, xen vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "介抱する（かいほうする）",
         "meaning": {
-          "english": "nurse, look after"
+          "en": "nurse, look after",
+          "vi": "chăm sóc, trông nom"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "紹介する（しょうかいする）",
         "meaning": {
-          "english": "introduce"
+          "en": "introduce",
+          "vi": "giới thiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "媒介する（ばいかいする）",
         "meaning": {
-          "english": "mediate, transmit (disease)"
+          "en": "mediate, transmit (disease)",
+          "vi": "làm trung gian, truyền (bệnh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "仲介する（ちゅうかいする）",
         "meaning": {
-          "english": "mediate, act as go-between"
+          "en": "mediate, act as go-between",
+          "vi": "làm trung gian, làm người môi giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "厄介な（やっかいな）",
         "meaning": {
-          "english": "troublesome, annoying"
+          "en": "troublesome, annoying",
+          "vi": "phiền phức, khó chịu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bai)kai_06_f.opus",
@@ -185,7 +194,8 @@
     "kanji": {
       "character": "介",
       "meaning": {
-        "english": "mediate, be in between"
+        "en": "mediate, be in between",
+        "vi": "làm trung gian, ở giữa"
       },
       "strokes": {
         "count": 4,
@@ -231,7 +241,8 @@
         "romaji": "hitoyane"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
@@ -252,7 +263,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "617",
     "strokeCount": 4,
-    "meaning": "jammed in, shellfish, mediate, concern oneself with",
+    "meaning": {
+      "en": "jammed in, shellfish, mediate, concern oneself with",
+      "vi": "chen vào, động vật có vỏ, làm trung gian, can dự vào"
+    },
     "kunyomi": [],
     "onyomi": [
       "カイ"
@@ -262,7 +276,8 @@
         "example": "貝",
         "reading": "カイ",
         "meaning": {
-          "en": "shellfish, seashell, shell"
+          "en": "shellfish, seashell, shell",
+          "vi": "động vật có vỏ, vỏ sò, cái vỏ"
         },
         "romaji": "kai"
       },
@@ -270,7 +285,8 @@
         "example": "介護",
         "reading": "カイゴ",
         "meaning": {
-          "en": "nursing, care, caregiving, caring"
+          "en": "nursing, care, caregiving, caring",
+          "vi": "việc chăm sóc, sự chăm nom, chăm bệnh, quan tâm"
         },
         "romaji": "kaigo"
       },
@@ -278,6 +294,7 @@
         "example": "魚介",
         "reading": "ギョカイ",
         "meaning": {
+          "en": "marine products, seafood, fish and shellfish",
           "vi": "marine products, seafood, fish and shellfish"
         },
         "romaji": "gyokai"
@@ -286,7 +303,8 @@
         "example": "無媒介",
         "reading": "ムバイカイ",
         "meaning": {
-          "en": "immediacy"
+          "en": "immediacy",
+          "vi": "tính trực tiếp, sự cận kề"
         },
         "romaji": "mubaikai"
       }
@@ -297,7 +315,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

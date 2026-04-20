@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2362",
     "strokeCount": 7,
-    "meaning": "drink",
+    "meaning": {
+      "en": "drink",
+      "vi": "uống, nuốt"
+    },
     "kunyomi": [
       "の.む"
     ],
@@ -19,7 +22,8 @@
         "example": "呑酸",
         "reading": "ドンサン",
         "meaning": {
-          "en": "acid reflux, heart-burn"
+          "en": "acid reflux, heart-burn",
+          "vi": "trào ngược axit, ợ nóng"
         },
         "romaji": "donsan"
       },
@@ -27,7 +31,8 @@
         "example": "呑舟",
         "reading": "ドンシュウ",
         "meaning": {
-          "en": "swallowing a boat whole"
+          "en": "swallowing a boat whole",
+          "vi": "nuốt trọn cả con thuyền"
         },
         "romaji": "donshuu"
       },
@@ -35,7 +40,8 @@
         "example": "併呑",
         "reading": "ヘイドン",
         "meaning": {
-          "vi": "annexation, absorption, merger, swallowing up"
+          "vi": "sáp nhập, thôn tính, hấp thụ, nuốt trọn",
+          "en": "annexation, absorption, merger, swallowing up"
         },
         "romaji": "heidon"
       },
@@ -43,7 +49,8 @@
         "example": "清濁併呑",
         "reading": "セイダクヘイドン",
         "meaning": {
-          "vi": "being so broad-minded as to accept all sorts of things, both good and evil, being broad-minded enough to be tolerant of people of all shades"
+          "vi": "rộng lượng đến mức chấp nhận đủ hạng người và mọi điều tốt xấu",
+          "en": "being so broad-minded as to accept all sorts of things, both good and evil, being broad-minded enough to be tolerant of people of all shades"
         },
         "romaji": "seidakuheidon"
       }
@@ -53,14 +60,18 @@
         "example": "飲む",
         "reading": "のむ",
         "meaning": {
-          "vi": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+          "vi": "uống, nuốt, dùng thuốc, hút thuốc, nuốt chửng, cuốn trôi, nén cơn giận hay cay đắng, kìm lại, nuốt nước mắt, lấy lại hơi, chấp nhận điều kiện, đồng ý, xem nhẹ ai đó, không coi ra gì, áp đảo, làm khiếp sợ, mang vật giấu kín, giấu trong tay áo",
+          "en": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
         },
         "romaji": "nomu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "ノ",
@@ -74,5 +85,7 @@
   },
   "hanViet": [
     "thôn"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Miệng 口 há lớn để nuốt trọn vào trong nên 呑 là nuốt, uống."
 }

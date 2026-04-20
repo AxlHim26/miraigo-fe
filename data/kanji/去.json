@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "sa, saru",
-    "meaning": "go away, leave",
+    "meaning": {
+      "en": "go away, leave",
+      "vi": "rời đi, rời khỏi"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "去年（きょねん）",
         "meaning": {
-          "english": "last year"
+          "english": "last year",
+          "en": "last year",
+          "vi": "năm ngoái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "去来する（きょらいする）",
         "meaning": {
-          "english": "come and go"
+          "english": "come and go",
+          "en": "come and go",
+          "vi": "đến rồi đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "退去する（たいきょする）",
         "meaning": {
-          "english": "depart, leave"
+          "english": "depart, leave",
+          "en": "depart, leave",
+          "vi": "rời đi, rời khỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "死去する（しきょする）",
         "meaning": {
-          "english": "pass away, die"
+          "english": "pass away, die",
+          "en": "pass away, die",
+          "vi": "qua đời, chết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "過去（かこ）",
         "meaning": {
-          "english": "the past"
+          "english": "the past",
+          "en": "the past",
+          "vi": "quá khứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "去る（さる）",
         "meaning": {
-          "english": "leave, go away"
+          "english": "leave, go away",
+          "en": "leave, go away",
+          "vi": "rời đi, đi khỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyo-sa(ru)_06_f.opus",
@@ -230,7 +245,9 @@
     "kanji": {
       "character": "去",
       "meaning": {
-        "english": "go away, leave"
+        "english": "go away, leave",
+        "en": "go away, leave",
+        "vi": "rời đi, rời khỏi"
       },
       "strokes": {
         "count": 5,
@@ -278,7 +295,9 @@
         "romaji": "mu"
       },
       "meaning": {
-        "english": "private, Katakana Mu"
+        "english": "private, Katakana Mu",
+        "en": "private, Katakana Mu",
+        "vi": "riêng tư, chữ katakana Mu"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mu0.svg",
@@ -299,7 +318,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "440",
     "strokeCount": 5,
-    "meaning": "gone, past, quit, leave, elapse, eliminate, divorce",
+    "meaning": {
+      "en": "gone, past, quit, leave, elapse, eliminate, divorce",
+      "vi": "đã qua, quá khứ, bỏ, rời đi, trôi qua, loại bỏ, ly hôn"
+    },
     "kunyomi": [
       "さ.る",
       "-さ.る"
@@ -313,7 +335,8 @@
         "example": "去年",
         "reading": "キョネン",
         "meaning": {
-          "en": "last year"
+          "en": "last year",
+          "vi": "năm ngoái"
         },
         "romaji": "kyonen"
       },
@@ -321,7 +344,8 @@
         "example": "去就",
         "reading": "キョシュウ",
         "meaning": {
-          "vi": "leaving or staying, (one's) course of action, (one's) position, (one's) attitude"
+          "vi": "đi hay ở, cách hành động, lập trường, thái độ",
+          "en": "leaving or staying, (one's) course of action, (one's) position, (one's) attitude"
         },
         "romaji": "kyoshuu"
       },
@@ -329,7 +353,8 @@
         "example": "消去",
         "reading": "ショウキョ",
         "meaning": {
-          "en": "erasure, deletion, elimination, clearing, elimination (of variables), extinction"
+          "en": "erasure, deletion, elimination, clearing, elimination (of variables), extinction",
+          "vi": "xóa bỏ, loại bỏ, thanh trừ, triệt tiêu, tuyệt chủng"
         },
         "romaji": "shoukyo"
       },
@@ -337,7 +362,8 @@
         "example": "国外退去",
         "reading": "コクガイタイキョ",
         "meaning": {
-          "vi": "deportation"
+          "vi": "trục xuất",
+          "en": "deportation"
         },
         "romaji": "kokugaitaikyo"
       },
@@ -345,7 +371,8 @@
         "example": "去年",
         "reading": "キョネン",
         "meaning": {
-          "en": "last year"
+          "en": "last year",
+          "vi": "năm ngoái"
         },
         "romaji": "kyonen"
       },
@@ -353,7 +380,8 @@
         "example": "大過去",
         "reading": "ダイカコ",
         "meaning": {
-          "vi": "past perfect tense, pluperfect"
+          "vi": "thì quá khứ hoàn thành",
+          "en": "past perfect tense, pluperfect"
         },
         "romaji": "daikako"
       },
@@ -361,7 +389,8 @@
         "example": "不定過去",
         "reading": "フテイカコ",
         "meaning": {
-          "vi": "aorist tense (in Greek), past-perfective tense"
+          "vi": "thì aorist trong tiếng Hy Lạp, thì quá khứ hoàn thành thể",
+          "en": "aorist tense (in Greek), past-perfective tense"
         },
         "romaji": "futeikako"
       }
@@ -371,7 +400,8 @@
         "example": "去る",
         "reading": "さる",
         "meaning": {
-          "vi": "to leave, to go away, to pass, to elapse, to be distant, to send away, to drive off, to divorce, to (do) completely, last ... (e.g. \"last April\")"
+          "vi": "rời đi, đi khỏi, trôi qua, cách xa, đuổi đi, ly hôn, làm cho xong hẳn, vừa qua như tháng Tư vừa rồi",
+          "en": "to leave, to go away, to pass, to elapse, to be distant, to send away, to drive off, to divorce, to (do) completely, last ... (e.g. \"last April\")"
         },
         "romaji": "saru"
       },
@@ -379,14 +409,18 @@
         "example": "去る者追わず",
         "reading": "さるものおわず",
         "meaning": {
-          "en": "do not chase the one who leaves"
+          "en": "do not chase the one who leaves",
+          "vi": "đừng đuổi theo người đã rời đi"
         },
         "romaji": "sarumonoowazu"
       }
     ],
     "radical": {
       "symbol": "厶",
-      "meaning": "private"
+      "meaning": {
+        "en": "private",
+        "vi": "riêng tư"
+      }
     },
     "parts": [
       "厶",
@@ -397,6 +431,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53bb.gif",
     "uri": "https://jisho.org/search/%E5%8E%BB%23kanji"
   },
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: đất 土 phủ lên cái miệng 口 như thứ gì đó đã rời khỏi chỗ cũ, nên 去 là đi, rời đi.",
   "hanViet": [
     "khu",
     "khứ",

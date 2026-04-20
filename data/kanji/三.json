@@ -7,7 +7,10 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mi, mikka, mittsu",
-    "meaning": "ba",
+    "meaning": {
+      "en": "three",
+      "vi": "ba"
+    },
     "kstroke": 3,
     "examples": [
       {
@@ -279,7 +282,9 @@
       "character": "三",
       "meaning": {
         "english": "three",
-        "vietnamese": "ba"
+        "vietnamese": "ba",
+        "en": "three",
+        "vi": "ba"
       },
       "strokes": {
         "count": 3,
@@ -324,7 +329,9 @@
       },
       "meaning": {
         "english": "one, horizontal stroke",
-        "vietnamese": "một, nét ngang"
+        "vietnamese": "một, nét ngang",
+        "en": "one, horizontal stroke",
+        "vi": "một, nét ngang"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -345,7 +352,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "14",
     "strokeCount": 3,
-    "meaning": "ba",
+    "meaning": {
+      "en": "three",
+      "vi": "ba"
+    },
     "kunyomi": [
       "み",
       "み.つ",
@@ -543,7 +553,10 @@
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "một"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "一",
@@ -566,5 +579,7 @@
   "meaning": {
     "vi": "ba",
     "en": "three"
-  }
+  },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: ba nét ngang xếp song song, nhìn là nhớ số ba."
 }

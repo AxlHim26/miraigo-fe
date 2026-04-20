@@ -5,7 +5,10 @@
     "query": "乎",
     "found": true,
     "strokeCount": 5,
-    "meaning": "question mark, ?",
+    "meaning": {
+      "en": "question mark, ?",
+      "vi": "dấu chấm hỏi, ?"
+    },
     "kunyomi": [
       "か",
       "ああ",
@@ -23,7 +26,8 @@
         "example": "炳乎",
         "reading": "ヘイコ",
         "meaning": {
-          "en": "bright, shining, clear, evident"
+          "en": "bright, shining, clear, evident",
+          "vi": "sáng, rõ ràng, rõ ràng, hiển nhiên"
         },
         "meaningVN": "sáng, rõ ràng, rõ ràng, hiển nhiên",
         "hanViet": "bính hô",
@@ -34,7 +38,8 @@
         "example": "杳乎",
         "reading": "ヨウコ",
         "meaning": {
-          "vi": "deep and wide"
+          "en": "deep and wide",
+          "vi": "sâu và rộng"
         },
         "meaningVN": "sâu và rộng",
         "hanViet": "diểu hô",
@@ -45,7 +50,8 @@
         "example": "ヲコト点",
         "reading": "ヲコトテン",
         "meaning": {
-          "vi": "diacritical marks used for interpreting classical Chinese"
+          "en": "diacritical marks used for interpreting classical Chinese",
+          "vi": "dấu phụ dùng để giải thích tiếng trung cổ điển"
         },
         "meaningVN": "dấu phụ dùng để giải thích tiếng trung cổ điển",
         "hanViet": "ヲ コ ト điểm",
@@ -58,7 +64,8 @@
         "example": "ヲコト点",
         "reading": "ヲコトてん",
         "meaning": {
-          "en": "marks to aid in reading Chinese classics"
+          "en": "marks to aid in reading Chinese classics",
+          "vi": "dấu hiệu để hỗ trợ trong việc đọc kinh điển trung quốc"
         },
         "meaningVN": "dấu hiệu để hỗ trợ trong việc đọc kinh điển trung quốc",
         "hanViet": "ヲ コ ト điểm",
@@ -68,7 +75,10 @@
     ],
     "radical": {
       "symbol": "丿",
-      "meaning": "slash"
+      "meaning": {
+        "en": "slash",
+        "vi": "nét phẩy"
+      }
     },
     "parts": [
       "ノ",

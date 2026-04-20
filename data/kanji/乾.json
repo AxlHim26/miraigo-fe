@@ -7,13 +7,17 @@
     "grade": null,
     "hint_group": 50,
     "kunyomi": "kawa, kawaku, kawaki, kawakasu",
-    "meaning": "dry",
+    "meaning": {
+      "en": "dry",
+      "vi": "khô"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "乾季（かんき）",
         "meaning": {
-          "english": "dry season"
+          "en": "dry season",
+          "vi": "mùa khô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-kawa(ku)_06_a.opus",
@@ -28,7 +32,8 @@
       {
         "japanese": "乾物（かんぶつ）",
         "meaning": {
-          "english": "dry foods, dry goods"
+          "en": "dry foods, dry goods",
+          "vi": "thực phẩm khô, đồ khô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-kawa(ku)_06_b.opus",
@@ -43,7 +48,8 @@
       {
         "japanese": "乾電池（かんでんち）",
         "meaning": {
-          "english": "dry cell, battery"
+          "en": "dry cell, battery",
+          "vi": "pin khô, pin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-kawa(ku)_06_c.opus",
@@ -58,7 +64,8 @@
       {
         "japanese": "乾燥機（かんそうき）",
         "meaning": {
-          "english": "dryer, drying machine"
+          "en": "dryer, drying machine",
+          "vi": "máy sấy, máy sấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-kawa(ku)_06_d.opus",
@@ -73,7 +80,8 @@
       {
         "japanese": "乾燥する（かんそうする）",
         "meaning": {
-          "english": "dry, season, become parched"
+          "en": "dry, season, become parched",
+          "vi": "khô, mùa, trở nên khô cằn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-kawa(ku)_06_e.opus",
@@ -88,7 +96,8 @@
       {
         "japanese": "乾杯する（かんぱいする）",
         "meaning": {
-          "english": "make a toast"
+          "en": "make a toast",
+          "vi": "nâng ly chúc mừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-kawa(ku)_06_f.opus",
@@ -103,7 +112,8 @@
       {
         "japanese": "乾かす（かわかす）",
         "meaning": {
-          "english": "dry , desiccate [v.t.]"
+          "en": "dry , desiccate [v.t.]",
+          "vi": "làm khô, làm khô [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-kawa(ku)_06_g.opus",
@@ -118,7 +128,8 @@
       {
         "japanese": "乾く（かわく）",
         "meaning": {
-          "english": "dry [v.i.]"
+          "en": "dry [v.i.]",
+          "vi": "khô [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kan-kawa(ku)_06_h.opus",
@@ -229,7 +240,8 @@
     "kanji": {
       "character": "乾",
       "meaning": {
-        "english": "dry"
+        "en": "dry",
+        "vi": "khô"
       },
       "strokes": {
         "count": 11,
@@ -289,7 +301,8 @@
         "romaji": "otsu"
       },
       "meaning": {
-        "english": "the second "
+        "en": "the second ",
+        "vi": "thứ hai"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/otsu-nine0.svg",
@@ -310,7 +323,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1453",
     "strokeCount": 11,
-    "meaning": "drought, dry, desiccate, drink up, heaven, emperor",
+    "meaning": {
+      "en": "drought, dry, desiccate, drink up, heaven, emperor",
+      "vi": "hạn hán, khô, làm khô, uống cạn, trời, hoàng đế"
+    },
     "kunyomi": [
       "かわ.く",
       "かわ.かす",
@@ -327,7 +343,8 @@
         "example": "乾電池",
         "reading": "カンデンチ",
         "meaning": {
-          "en": "dry cell battery"
+          "en": "dry cell battery",
+          "vi": "pin khô"
         },
         "meaningVN": "pin khô",
         "hanViet": "can điện trì",
@@ -338,7 +355,8 @@
         "example": "乾燥",
         "reading": "カンソウ",
         "meaning": {
-          "vi": "dryness, aridity, drying (e.g. clothes), dehydration, desiccation, insipidity"
+          "en": "dryness, aridity, drying (e.g. clothes), dehydration, desiccation, insipidity",
+          "vi": "sự khô khan, sự khô cằn, sự khô héo (ví dụ như quần áo), sự mất nước, sự khô héo, sự nhạt nhẽo"
         },
         "meaningVN": "sự khô khan, sự khô cằn, sự khô héo (ví dụ như quần áo), sự mất nước, sự khô héo, sự nhạt nhẽo",
         "hanViet": "can táo",
@@ -349,7 +367,8 @@
         "example": "速乾",
         "reading": "ソッカン",
         "meaning": {
-          "en": "drying quickly"
+          "en": "drying quickly",
+          "vi": "khô nhanh"
         },
         "meaningVN": "khô nhanh",
         "hanViet": "tốc can",
@@ -360,7 +379,8 @@
         "example": "臘乾",
         "reading": "ラカン",
         "meaning": {
-          "en": "Chinese smoked and salted ham"
+          "en": "Chinese smoked and salted ham",
+          "vi": "thịt giăm bông hun khói và muối kiểu trung quốc"
         },
         "meaningVN": "thịt giăm bông hun khói và muối kiểu trung quốc",
         "hanViet": "lạp can",
@@ -371,7 +391,8 @@
         "example": "乾",
         "reading": "ケン",
         "meaning": {
-          "en": "qian (one of the trigrams of the I Ching: heaven, northwest)"
+          "en": "qian (one of the trigrams of the I Ching: heaven, northwest)",
+          "vi": "qian (một trong những bát quái của kinh dịch: trời, tây bắc)"
         },
         "meaningVN": "qian (một trong những bát quái của kinh dịch: trời, tây bắc)",
         "hanViet": "can",
@@ -382,7 +403,8 @@
         "example": "乾位",
         "reading": "ケンイ",
         "meaning": {
-          "en": "northwest"
+          "en": "northwest",
+          "vi": "tây bắc"
         },
         "meaningVN": "tây bắc",
         "hanViet": "can vị",
@@ -395,7 +417,8 @@
         "example": "乾く",
         "reading": "かわく",
         "meaning": {
-          "en": "to get dry"
+          "en": "to get dry",
+          "vi": "bị khô"
         },
         "meaningVN": "bị khô",
         "hanViet": "can く",
@@ -406,7 +429,8 @@
         "example": "乾かす",
         "reading": "かわかす",
         "meaning": {
-          "en": "to dry (clothes, etc.), to desiccate"
+          "en": "to dry (clothes, etc.), to desiccate",
+          "vi": "làm khô (quần áo, v.v.), làm khô"
         },
         "meaningVN": "làm khô (quần áo, v.v.), làm khô",
         "hanViet": "can か す",
@@ -417,7 +441,8 @@
         "example": "干す",
         "reading": "ほす",
         "meaning": {
-          "vi": "to air, to dry, to desiccate, to drain (off), to drink up, to deprive of a role, job, etc."
+          "en": "to air, to dry, to desiccate, to drain (off), to drink up, to deprive of a role, job, etc.",
+          "vi": "phơi khô, làm khô, làm khô, để ráo nước, uống hết, tước bỏ vai trò, công việc, v.v."
         },
         "meaningVN": "phơi khô, làm khô, làm khô, để ráo nước, uống hết, tước bỏ vai trò, công việc, v.v.",
         "hanViet": "can す",
@@ -428,7 +453,8 @@
         "example": "干る",
         "reading": "ひる",
         "meaning": {
-          "vi": "to dry (up), to become parched, to ebb, to recede"
+          "en": "to dry (up), to become parched, to ebb, to recede",
+          "vi": "khô (lên), trở nên khô cằn, suy sụp, rút ​​đi"
         },
         "meaningVN": "khô (lên), trở nên khô cằn, suy sụp, rút ​​đi",
         "hanViet": "can る",
@@ -439,7 +465,8 @@
         "example": "戌亥",
         "reading": "いぬい",
         "meaning": {
-          "en": "northwest"
+          "en": "northwest",
+          "vi": "tây bắc"
         },
         "meaningVN": "tây bắc",
         "hanViet": "tuất giai",
@@ -454,7 +481,10 @@
         "⺄",
         "乚"
       ],
-      "meaning": "second"
+      "meaning": {
+        "en": "second",
+        "vi": "thứ hai"
+      }
     },
     "parts": [
       "ノ",

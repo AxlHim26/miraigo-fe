@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2080",
     "strokeCount": 10,
-    "meaning": "martyrdom, follow by resigning",
+    "meaning": {
+      "en": "martyrdom, follow by resigning",
+      "vi": "sự tuẫn tiết, nối gót để chết theo"
+    },
     "kunyomi": [],
     "onyomi": [
       "ジュン"
@@ -18,7 +21,8 @@
         "example": "殉職",
         "reading": "ジュンショク",
         "meaning": {
-          "vi": "dying at one's post, being killed in the line of duty"
+          "vi": "chết khi đang làm nhiệm vụ, hy sinh khi thi hành công vụ",
+          "en": "dying at one's post, being killed in the line of duty"
         },
         "romaji": "junshoku"
       },
@@ -26,7 +30,8 @@
         "example": "殉教",
         "reading": "ジュンキョウ",
         "meaning": {
-          "en": "martyrdom"
+          "en": "martyrdom",
+          "vi": "sự tuẫn tiết, hy sinh"
         },
         "romaji": "junkyou"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "歺"
       ],
-      "meaning": "death, decay"
+      "meaning": {
+        "en": "death, decay",
+        "vi": "cái chết, sự suy tàn"
+      }
     },
     "parts": [
       "勹",
@@ -52,5 +60,7 @@
   "hanViet": [
     "tuẫn",
     "tuận"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: bộ xương bên trái đi cùng bên phải, như hy sinh để theo trọn đạo nghĩa."
 }

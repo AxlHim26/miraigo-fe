@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "umi",
-    "meaning": "sea, ocean",
+    "meaning": {
+      "en": "sea, ocean",
+      "vi": "bien, dai duong"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "日本海（にほんかい）",
         "meaning": {
-          "english": "Sea of Japan"
+          "english": "Sea of Japan",
+          "en": "Sea of Japan",
+          "vi": "Bien Nhat Ban"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "航海（こうかい）",
         "meaning": {
-          "english": "sailing"
+          "english": "sailing",
+          "en": "sailing",
+          "vi": "di bien, hang hai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "海岸（かいがん）",
         "meaning": {
-          "english": "coast"
+          "english": "coast",
+          "en": "coast",
+          "vi": "bo bien"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "海外（かいがい）",
         "meaning": {
-          "english": "abroad"
+          "english": "abroad",
+          "en": "abroad",
+          "vi": "nuoc ngoai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "海水浴（かいすいよく）",
         "meaning": {
-          "english": "sea bathing"
+          "english": "sea bathing",
+          "en": "sea bathing",
+          "vi": "tam bien"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "海（うみ）",
         "meaning": {
-          "english": "sea"
+          "english": "sea",
+          "en": "sea",
+          "vi": "bien"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "海辺（うみべ）",
         "meaning": {
-          "english": "beach"
+          "english": "beach",
+          "en": "beach",
+          "vi": "bai bien"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "*海老（えび）",
         "meaning": {
-          "english": "shrimp"
+          "english": "shrimp",
+          "en": "shrimp",
+          "vi": "tom"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "*海苔（のり）",
         "meaning": {
-          "english": "sea seed sheet"
+          "english": "sea seed sheet",
+          "en": "sea seed sheet",
+          "vi": "rong bien kho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-umi_06_i.opus",
@@ -259,7 +280,9 @@
     "kanji": {
       "character": "海",
       "meaning": {
-        "english": "sea, ocean"
+        "english": "sea, ocean",
+        "en": "sea, ocean",
+        "vi": "bien, dai duong"
       },
       "strokes": {
         "count": 9,
@@ -315,7 +338,9 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water",
+        "en": "water",
+        "vi": "nước"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -336,7 +361,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "200",
     "strokeCount": 9,
-    "meaning": "sea, ocean",
+    "meaning": {
+      "en": "sea, ocean",
+      "vi": "bien, dai duong"
+    },
     "kunyomi": [
       "うみ"
     ],
@@ -348,7 +376,8 @@
         "example": "海運",
         "reading": "カイウン",
         "meaning": {
-          "vi": "maritime transport, shipping"
+          "vi": "maritime transport, shipping",
+          "en": "maritime transport, shipping"
         },
         "romaji": "kaiun"
       },
@@ -356,7 +385,8 @@
         "example": "海域",
         "reading": "カイイキ",
         "meaning": {
-          "en": "area of sea, waters"
+          "en": "area of sea, waters",
+          "vi": "vung bien, vung nuoc"
         },
         "romaji": "kaiiki"
       },
@@ -364,7 +394,8 @@
         "example": "公海",
         "reading": "コウカイ",
         "meaning": {
-          "en": "high seas, international waters"
+          "en": "high seas, international waters",
+          "vi": "bien quoc te, bien khoi"
         },
         "romaji": "koukai"
       },
@@ -372,7 +403,8 @@
         "example": "内海",
         "reading": "ナイカイ",
         "meaning": {
-          "en": "inland sea, inlet, gulf, bay, lake"
+          "en": "inland sea, inlet, gulf, bay, lake",
+          "vi": "noi hai, cua bien, vinh, ho"
         },
         "romaji": "naikai"
       }
@@ -382,7 +414,8 @@
         "example": "海",
         "reading": "うみ",
         "meaning": {
-          "en": "sea, ocean, waters"
+          "en": "sea, ocean, waters",
+          "vi": "bien, dai duong, vung nuoc"
         },
         "romaji": "umi"
       },
@@ -390,7 +423,8 @@
         "example": "海辺",
         "reading": "うみべ",
         "meaning": {
-          "en": "beach, seashore, seaside, coast"
+          "en": "beach, seashore, seaside, coast",
+          "vi": "bai bien, bo bien"
         },
         "romaji": "umibe"
       },
@@ -398,7 +432,8 @@
         "example": "内海",
         "reading": "ないかい",
         "meaning": {
-          "en": "inland sea, inlet, gulf, bay, lake"
+          "en": "inland sea, inlet, gulf, bay, lake",
+          "vi": "noi hai, cua bien, vinh, ho"
         },
         "romaji": "naikai"
       },
@@ -406,7 +441,8 @@
         "example": "血の海",
         "reading": "ちのうみ",
         "meaning": {
-          "vi": "sea of blood, pool of blood"
+          "vi": "sea of blood, pool of blood",
+          "en": "sea of blood, pool of blood"
         },
         "romaji": "chinoumi"
       }
@@ -417,7 +453,10 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": {
+        "en": "water",
+        "vi": "nước"
+      }
     },
     "parts": [
       "乞",
@@ -432,5 +471,7 @@
   },
   "hanViet": [
     "hải"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Ben trai la nuoc, ben phai la moi nguoi. Cu nhu nguoi dang dung truoc bien lon nen nho 海 la bien, dai duong."
 }

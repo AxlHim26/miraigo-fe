@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "1842",
     "strokeCount": 10,
-    "meaning": "both, together, alike",
+    "meaning": {
+      "en": "both, together, alike",
+      "vi": "cả hai, cùng nhau, giống nhau"
+    },
     "kunyomi": [
       "とも.に"
     ],
@@ -19,7 +22,8 @@
         "example": "具す",
         "reading": "グス",
         "meaning": {
-          "vi": "to accompany, to follow, to assemble (necessary items), to prepare"
+          "vi": "to accompany, to follow, to assemble (necessary items), to prepare",
+          "en": "to accompany, to follow, to assemble (necessary items), to prepare"
         },
         "romaji": "gusu"
       },
@@ -27,7 +31,8 @@
         "example": "具する",
         "reading": "グスル",
         "meaning": {
-          "vi": "to accompany, to follow, to assemble (necessary items), to prepare"
+          "vi": "to accompany, to follow, to assemble (necessary items), to prepare",
+          "en": "to accompany, to follow, to assemble (necessary items), to prepare"
         },
         "romaji": "gusuru"
       },
@@ -35,7 +40,8 @@
         "example": "倶楽部",
         "reading": "クラブ",
         "meaning": {
-          "en": "club, fraternity, sorority, clubhouse"
+          "en": "club, fraternity, sorority, clubhouse",
+          "vi": "câu lạc bộ, hội đoàn, nữ sinh hội, nhà câu lạc bộ"
         },
         "romaji": "kurabu"
       },
@@ -43,7 +49,8 @@
         "example": "倶伎羅",
         "reading": "クキラ",
         "meaning": {
-          "vi": "Asian koel (Eudynamys scolopacea), lesser cuckoo (Cuculus poliocephalus)"
+          "vi": "Asian koel (Eudynamys scolopacea), lesser cuckoo (Cuculus poliocephalus)",
+          "en": "Asian koel (Eudynamys scolopacea), lesser cuckoo (Cuculus poliocephalus)"
         },
         "romaji": "kukira"
       }
@@ -53,7 +60,8 @@
         "example": "共に",
         "reading": "ともに",
         "meaning": {
-          "en": "together, jointly, at the same time, with, as ..., including, along with, both"
+          "en": "together, jointly, at the same time, with, as ..., including, along with, both",
+          "vi": "cùng nhau, chung, đồng thời, với, như..., bao gồm, cùng với, cả hai"
         },
         "romaji": "tomoni"
       }
@@ -63,7 +71,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

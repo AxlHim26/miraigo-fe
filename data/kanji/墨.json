@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1616",
     "strokeCount": 14,
-    "meaning": "black ink, India ink, ink stick, Mexico",
+    "meaning": {
+      "en": "black ink, India ink, ink stick, Mexico",
+      "vi": "mực đen, mực tàu, thỏi mực, Mễ Tây Cơ"
+    },
     "kunyomi": [
       "すみ"
     ],
@@ -20,7 +23,8 @@
         "example": "墨",
         "reading": "ボク",
         "meaning": {
-          "vi": "Mexico, Mohism, ink, tattooing (as a form of punishment in ancient China)"
+          "vi": "Mexico, Mohism, ink, tattooing (as a form of punishment in ancient China)",
+          "en": "sumi, India ink, Chinese ink, ink stick, ink-cake, squid ink, octopus ink, carpenter's inking string"
         },
         "romaji": "boku"
       },
@@ -28,7 +32,8 @@
         "example": "墨書",
         "reading": "ボクショ",
         "meaning": {
-          "en": "writing in India ink"
+          "en": "writing in India ink",
+          "vi": "chữ viết bằng mực tàu"
         },
         "romaji": "bokusho"
       },
@@ -36,7 +41,8 @@
         "example": "遺墨",
         "reading": "イボク",
         "meaning": {
-          "vi": "autographs (brushwork) of departed person"
+          "vi": "autographs (brushwork) of departed person",
+          "en": "autographs (brushwork) of departed person"
         },
         "romaji": "iboku"
       },
@@ -44,7 +50,8 @@
         "example": "水墨",
         "reading": "スイボク",
         "meaning": {
-          "vi": "water and ink, ink painting"
+          "vi": "water and ink, ink painting",
+          "en": "water and ink, ink painting"
         },
         "romaji": "suiboku"
       }
@@ -54,7 +61,8 @@
         "example": "墨",
         "reading": "すみ",
         "meaning": {
-          "vi": "sumi, India ink, Chinese ink, ink stick, ink-cake, squid ink, octopus ink, carpenter's inking string"
+          "vi": "sumi, India ink, Chinese ink, ink stick, ink-cake, squid ink, octopus ink, carpenter's inking string",
+          "en": "sumi, India ink, Chinese ink, ink stick, ink-cake, squid ink, octopus ink, carpenter's inking string"
         },
         "romaji": "sumi"
       },
@@ -62,7 +70,8 @@
         "example": "墨絵",
         "reading": "すみえ",
         "meaning": {
-          "vi": "ink painting"
+          "vi": "ink painting",
+          "en": "ink painting"
         },
         "romaji": "sumie"
       },
@@ -70,7 +79,8 @@
         "example": "イカ墨",
         "reading": "いかすみ",
         "meaning": {
-          "en": "squid ink"
+          "en": "squid ink",
+          "vi": "mực nang"
         },
         "romaji": "ikasumi"
       },
@@ -78,14 +88,18 @@
         "example": "雪と墨",
         "reading": "ゆきとすみ",
         "meaning": {
-          "vi": "diametric opposites, night and day, black and white, snow and ink"
+          "vi": "diametric opposites, night and day, black and white, snow and ink",
+          "en": "diametric opposites, night and day, black and white, snow and ink"
         },
         "romaji": "yukitosumi"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "土",
@@ -98,6 +112,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58a8.gif",
     "uri": "https://jisho.org/search/%E5%A2%A8%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: phần trên như màu đen tụ lại trên 土, gợi ngay thỏi mực đen dùng để viết vẽ.",
   "hanViet": [
     "mặc"
   ]

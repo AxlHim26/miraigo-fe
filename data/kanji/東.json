@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "higashi",
-    "meaning": "east",
+    "meaning": {
+      "en": "east",
+      "vi": "phía đông"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "東京（とうきょう）",
         "meaning": {
-          "english": "Tokyo"
+          "en": "Tokyo",
+          "vi": "Tokyo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "東部（とうぶ）",
         "meaning": {
-          "english": "eastern part"
+          "en": "eastern part",
+          "vi": "phía đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "東北（とうほく）",
         "meaning": {
-          "english": "Touhoku"
+          "en": "Touhoku",
+          "vi": "Tohoku"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "東洋（とうよう）",
         "meaning": {
-          "english": "East Asia"
+          "en": "East Asia",
+          "vi": "Đông Á"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "東西南北（とうざいなんぼく）",
         "meaning": {
-          "english": "east, west, south and north"
+          "en": "east, west, south and north",
+          "vi": "đông tây nam bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "関東（かんとう）",
         "meaning": {
-          "english": "Kantou"
+          "en": "Kantou",
+          "vi": "Kanto"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "中東（ちゅうとう）",
         "meaning": {
-          "english": "Middle East"
+          "en": "Middle East",
+          "vi": "Trung Đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "東（ひがし）",
         "meaning": {
-          "english": "east"
+          "en": "east",
+          "vi": "phía đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/higashi_06_h.opus",
@@ -244,7 +255,8 @@
     "kanji": {
       "character": "東",
       "meaning": {
-        "english": "east"
+        "en": "east",
+        "vi": "phía đông"
       },
       "strokes": {
         "count": 8,
@@ -297,7 +309,8 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "en": "tree, wood",
+        "vi": "cây, gỗ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -318,7 +331,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "37",
     "strokeCount": 8,
-    "meaning": "east",
+    "meaning": {
+      "en": "east",
+      "vi": "phía đông"
+    },
     "kunyomi": [
       "ひがし"
     ],
@@ -330,6 +346,7 @@
         "example": "東欧",
         "reading": "トウオウ",
         "meaning": {
+          "en": "Eastern Europe",
           "vi": "Eastern Europe"
         },
         "romaji": "touou"
@@ -338,7 +355,8 @@
         "example": "東亜",
         "reading": "トウア",
         "meaning": {
-          "en": "East Asia, the Orient"
+          "en": "East Asia, the Orient",
+          "vi": "Đông Á, phương Đông"
         },
         "romaji": "toua"
       },
@@ -346,7 +364,8 @@
         "example": "北北東",
         "reading": "ホクホクトウ",
         "meaning": {
-          "en": "north-northeast, north-north-east"
+          "en": "north-northeast, north-north-east",
+          "vi": "bắc đông bắc"
         },
         "romaji": "hokuhokutou"
       },
@@ -354,7 +373,8 @@
         "example": "東北東",
         "reading": "トウホクトウ",
         "meaning": {
-          "en": "east-northeast, ENE"
+          "en": "east-northeast, ENE",
+          "vi": "đông đông bắc"
         },
         "romaji": "touhokutou"
       }
@@ -364,7 +384,8 @@
         "example": "東",
         "reading": "ひがし",
         "meaning": {
-          "en": "east"
+          "en": "east",
+          "vi": "phía đông"
         },
         "romaji": "higashi"
       },
@@ -372,7 +393,8 @@
         "example": "東方",
         "reading": "とうほう",
         "meaning": {
-          "en": "eastern direction, the Orient, eastern fighter in a match (e.g. sumo wrestling)"
+          "en": "eastern direction, the Orient, eastern fighter in a match (e.g. sumo wrestling)",
+          "vi": "hướng đông, phương Đông, đấu thủ phía đông"
         },
         "romaji": "touhou"
       },
@@ -380,14 +402,18 @@
         "example": "犬が西向きゃ尾は東",
         "reading": "いぬがにしむきゃおはひがし",
         "meaning": {
-          "en": "that goes without saying, water is wet, when a dog turns west, its tail turns east"
+          "en": "that goes without saying, water is wet, when a dog turns west, its tail turns east",
+          "vi": "điều hiển nhiên, khỏi phải nói"
         },
         "romaji": "inuganishimukyaohahigashi"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "tree"
+      }
     },
     "parts": [
       "一",
@@ -403,5 +429,7 @@
   },
   "hanViet": [
     "đông"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: mặt trời mắc trong cây ở phía đông, nên 東 là hướng đông."
 }

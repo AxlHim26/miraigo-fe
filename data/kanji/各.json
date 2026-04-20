@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "onoono",
-    "meaning": "each",
+    "meaning": {
+      "en": "each",
+      "vi": "mỗi"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "各地（かくち）",
         "meaning": {
-          "english": "each place"
+          "english": "each place",
+          "en": "each place",
+          "vi": "mỗi nơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onoono_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "各国（かっこく）",
         "meaning": {
-          "english": "each nation"
+          "english": "each nation",
+          "en": "each nation",
+          "vi": "mỗi quốc gia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onoono_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "各種（かくしゅ）",
         "meaning": {
-          "english": "each type"
+          "english": "each type",
+          "en": "each type",
+          "vi": "mỗi loại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onoono_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "各大学（かくだいがく）",
         "meaning": {
-          "english": "each university"
+          "english": "each university",
+          "en": "each university",
+          "vi": "mỗi trường đại học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onoono_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "各々（おのおの）",
         "meaning": {
-          "english": "respectively"
+          "english": "respectively",
+          "en": "respectively",
+          "vi": "tương ứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onoono_06_e.opus",
@@ -174,7 +187,9 @@
     "kanji": {
       "character": "各",
       "meaning": {
-        "english": "each"
+        "english": "each",
+        "en": "each",
+        "vi": "mỗi"
       },
       "strokes": {
         "count": 6,
@@ -224,7 +239,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -245,7 +262,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "243",
     "strokeCount": 6,
-    "meaning": "each, every, either",
+    "meaning": {
+      "en": "each, every, either",
+      "vi": "mỗi, mọi, một trong hai"
+    },
     "kunyomi": [
       "おのおの"
     ],
@@ -257,7 +277,8 @@
         "example": "各",
         "reading": "カク",
         "meaning": {
-          "en": "each, every, all"
+          "en": "each, every, all",
+          "vi": "mỗi, mọi, tất cả"
         },
         "romaji": "kaku"
       },
@@ -265,7 +286,8 @@
         "example": "各自",
         "reading": "カクジ",
         "meaning": {
-          "vi": "each (person), everyone, individual, respective"
+          "vi": "mỗi người, mọi người, cá nhân, tương ứng",
+          "en": "each (person), everyone, individual, respective"
         },
         "romaji": "kakuji"
       }
@@ -275,7 +297,8 @@
         "example": "各々",
         "reading": "おのおの",
         "meaning": {
-          "vi": "each, you (plural)"
+          "vi": "mỗi, các bạn",
+          "en": "each, you (plural)"
         },
         "romaji": "onoono"
       },
@@ -283,14 +306,18 @@
         "example": "各々方",
         "reading": "おのおのがた",
         "meaning": {
-          "en": "all of you"
+          "en": "all of you",
+          "vi": "tất cả các bạn"
         },
         "romaji": "onoonogata"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -302,6 +329,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5404.gif",
     "uri": "https://jisho.org/search/%E5%90%84%23kanji"
   },
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: mỗi người đi theo một hướng rồi dừng ở cái miệng 口 riêng, nên 各 là mỗi, từng.",
   "hanViet": [
     "các"
   ]

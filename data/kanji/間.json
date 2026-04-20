@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "aida, ma",
-    "meaning": "interval, between",
+    "meaning": {
+      "en": "interval, between",
+      "vi": "khoang giua"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "一週間（いっしゅうかん）",
         "meaning": {
-          "english": "one week"
+          "english": "one week",
+          "en": "one week",
+          "vi": "mot tuan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "二時間（にじかん）",
         "meaning": {
-          "english": "two hours"
+          "english": "two hours",
+          "en": "two hours",
+          "vi": "hai giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "世間（せけん）",
         "meaning": {
-          "english": "society, the public, people"
+          "english": "society, the public, people",
+          "en": "society, the public, people",
+          "vi": "xa hoi, cong chung, moi nguoi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "人間（にんげん）",
         "meaning": {
-          "english": "human"
+          "english": "human",
+          "en": "human",
+          "vi": "con người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "この間（このあいだ）",
         "meaning": {
-          "english": "the other day"
+          "english": "the other day",
+          "en": "the other day",
+          "vi": "hôm nọ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "間に（あいだに）",
         "meaning": {
-          "english": "in between, while"
+          "english": "in between, while",
+          "en": "in between, while",
+          "vi": "giua luc, trong khi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "居間（いま）",
         "meaning": {
-          "english": "living room"
+          "english": "living room",
+          "en": "living room",
+          "vi": "phong khach"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "仲間（なかま）",
         "meaning": {
-          "english": "circle of friends"
+          "english": "circle of friends",
+          "en": "circle of friends",
+          "vi": "vong ban be"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "間違い（まちがい）",
         "meaning": {
-          "english": "mistake"
+          "english": "mistake",
+          "en": "mistake",
+          "vi": "sai lam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "間違える（まちがえる）",
         "meaning": {
-          "english": "make a mistake"
+          "english": "make a mistake",
+          "en": "make a mistake",
+          "vi": "pham loi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "間に合う（まにあう）",
         "meaning": {
-          "english": "be in time, be enough"
+          "english": "be in time, be enough",
+          "en": "be in time, be enough",
+          "vi": "kip gio, du dung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "昼間（ひるま）",
         "meaning": {
-          "english": "day time"
+          "english": "day time",
+          "en": "day time",
+          "vi": "ban ngay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aida_06_l.opus",
@@ -320,7 +347,9 @@
     "kanji": {
       "character": "間",
       "meaning": {
-        "english": "interval, between"
+        "english": "interval, between",
+        "en": "interval, between",
+        "vi": "khoang giua"
       },
       "strokes": {
         "count": 12,
@@ -382,7 +411,9 @@
         "romaji": "mongamae"
       },
       "meaning": {
-        "english": "gate, door"
+        "english": "gate, door",
+        "en": "gate, door",
+        "vi": "cổng, cửa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mongamae0.svg",
@@ -403,7 +434,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "33",
     "strokeCount": 12,
-    "meaning": "interval, space",
+    "meaning": {
+      "en": "interval, space",
+      "vi": "khoang cach, khoang trong"
+    },
     "kunyomi": [
       "あいだ",
       "ま",
@@ -418,7 +452,8 @@
         "example": "間",
         "reading": "カン",
         "meaning": {
-          "vi": "interval, period of time, among, between, inter-, good opportunity, chance, estrangement, discord, alienation, spy, secret agent"
+          "vi": "interval, period of time, among, between, inter-, good opportunity, chance, estrangement, discord, alienation, spy, secret agent",
+          "en": "interval, period of time, among, between, inter-, good opportunity, chance, estrangement, discord, alienation, spy, secret agent"
         },
         "romaji": "kan"
       },
@@ -426,7 +461,8 @@
         "example": "間隔",
         "reading": "カンカク",
         "meaning": {
-          "vi": "space, interval, space character, whitespace"
+          "vi": "space, interval, space character, whitespace",
+          "en": "space, interval, space character, whitespace"
         },
         "romaji": "kankaku"
       },
@@ -434,7 +470,8 @@
         "example": "短期間",
         "reading": "タンキカン",
         "meaning": {
-          "en": "short term, short time"
+          "en": "short term, short time",
+          "vi": "ngan han, thoi gian ngan"
         },
         "romaji": "tankikan"
       },
@@ -442,7 +479,8 @@
         "example": "右中間",
         "reading": "ウチュウカン",
         "meaning": {
-          "en": "between right and center fielders (centre)"
+          "en": "between right and center fielders (centre)",
+          "vi": "khoảng giữa hậu vệ phải và trung tâm"
         },
         "romaji": "uchuukan"
       },
@@ -450,7 +488,8 @@
         "example": "間",
         "reading": "ケン",
         "meaning": {
-          "vi": "ken (6 shaku, approx. 1.818 m), counter used to number the gaps between pillars"
+          "vi": "ken (6 shaku, approx. 1.818 m), counter used to number the gaps between pillars",
+          "en": "ken (6 shaku, approx. 1.818 m), counter used to number the gaps between pillars"
         },
         "romaji": "ken"
       },
@@ -458,7 +497,8 @@
         "example": "間数",
         "reading": "ケンスウ",
         "meaning": {
-          "en": "number of ken (in length or breadth)"
+          "en": "number of ken (in length or breadth)",
+          "vi": "so gian ken"
         },
         "romaji": "kensuu"
       },
@@ -466,7 +506,8 @@
         "example": "世間",
         "reading": "セケン",
         "meaning": {
-          "vi": "world, society, people, the public"
+          "vi": "world, society, people, the public",
+          "en": "world, society, people, the public"
         },
         "romaji": "seken"
       },
@@ -474,7 +515,8 @@
         "example": "六百間",
         "reading": "ロッピャッケン",
         "meaning": {
-          "vi": "roppyakken (type of game)"
+          "vi": "roppyakken (type of game)",
+          "en": "roppyakken (type of game)"
         },
         "romaji": "roppyakken"
       }
@@ -484,7 +526,8 @@
         "example": "間",
         "reading": "あいだ",
         "meaning": {
-          "vi": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
+          "vi": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of",
+          "en": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
         },
         "romaji": "aida"
       },
@@ -492,7 +535,8 @@
         "example": "間中",
         "reading": "あいだじゅう",
         "meaning": {
-          "en": "during"
+          "en": "during",
+          "vi": "trong luc, trong khoang"
         },
         "romaji": "aidajuu"
       },
@@ -500,7 +544,8 @@
         "example": "候間",
         "reading": "そうろうあいだ",
         "meaning": {
-          "en": "as ..."
+          "en": "as ...",
+          "vi": "với tư cách ..."
         },
         "romaji": "sourouaida"
       },
@@ -508,7 +553,8 @@
         "example": "ついこの間",
         "reading": "ついこのあいだ",
         "meaning": {
-          "en": "just the other day, quite recently"
+          "en": "just the other day, quite recently",
+          "vi": "moi hom truoc, gan day"
         },
         "romaji": "tsuikonoaida"
       },
@@ -516,7 +562,8 @@
         "example": "間",
         "reading": "ま",
         "meaning": {
-          "vi": "time, pause, space, room"
+          "vi": "time, pause, space, room",
+          "en": "time, pause, space, room"
         },
         "romaji": "ma"
       },
@@ -524,7 +571,8 @@
         "example": "間際",
         "reading": "まぎわ",
         "meaning": {
-          "vi": "the point just before ..., the point of (doing), the verge (of), the eve (of), (just before the) edge"
+          "vi": "the point just before ..., the point of (doing), the verge (of), the eve (of), (just before the) edge",
+          "en": "the point just before ..., the point of (doing), the verge (of), the eve (of), (just before the) edge"
         },
         "romaji": "magiwa"
       },
@@ -532,7 +580,8 @@
         "example": "茶の間",
         "reading": "ちゃのま",
         "meaning": {
-          "vi": "(Japanese-style) living room"
+          "vi": "(Japanese-style) living room",
+          "en": "(Japanese-style) living room"
         },
         "romaji": "chanoma"
       },
@@ -540,7 +589,8 @@
         "example": "床の間",
         "reading": "とこのま",
         "meaning": {
-          "vi": "tokonoma (alcove where art or flowers are displayed)"
+          "vi": "tokonoma (alcove where art or flowers are displayed)",
+          "en": "tokonoma (alcove where art or flowers are displayed)"
         },
         "romaji": "tokonoma"
       },
@@ -548,7 +598,8 @@
         "example": "間",
         "reading": "あいだ",
         "meaning": {
-          "vi": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
+          "vi": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of",
+          "en": "space (between), gap, interval, distance, stretch, period of time (during, while), duration, interval, between (two parties or things), among (a group), relations (between), relationship, midpoint, average, halfway, middle ground, due to, because of"
         },
         "romaji": "aida"
       },
@@ -556,7 +607,8 @@
         "example": "間中",
         "reading": "あいだじゅう",
         "meaning": {
-          "en": "during"
+          "en": "during",
+          "vi": "trong luc, trong khoang"
         },
         "romaji": "aidajuu"
       },
@@ -564,7 +616,8 @@
         "example": "波間",
         "reading": "なみま",
         "meaning": {
-          "vi": "interval between the waves, gap between waves"
+          "vi": "interval between the waves, gap between waves",
+          "en": "interval between the waves, gap between waves"
         },
         "romaji": "namima"
       },
@@ -572,14 +625,18 @@
         "example": "幕間",
         "reading": "まくあい",
         "meaning": {
-          "en": "intermission (between acts), interlude"
+          "en": "intermission (between acts), interlude",
+          "vi": "gioi nghi giua man, khuc chen"
         },
         "romaji": "makuai"
       }
     ],
     "radical": {
       "symbol": "門",
-      "meaning": "gate"
+      "meaning": {
+        "en": "gate",
+        "vi": "cong"
+      }
     },
     "parts": [
       "日",
@@ -594,5 +651,7 @@
     "gian",
     "gián",
     "nhàn"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Mat troi nam giua hai canh cua, tao ra khoang sang o giua. Vi vay 間 la khoang, o giua, thoi gian."
 }

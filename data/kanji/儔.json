@@ -5,7 +5,10 @@
     "query": "儔",
     "found": true,
     "strokeCount": 16,
-    "meaning": "companion, similar kind",
+    "meaning": {
+      "en": "companion, similar kind",
+      "vi": "bạn đồng hành, cùng loại"
+    },
     "kunyomi": [
       "ともがら"
     ],
@@ -18,7 +21,8 @@
         "example": "匹儔",
         "reading": "ヒッチュウ",
         "meaning": {
-          "en": "equal, match"
+          "en": "equal, match",
+          "vi": "ngang hàng, tương xứng"
         },
         "romaji": "hitchuu"
       }
@@ -29,7 +33,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

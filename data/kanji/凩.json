@@ -5,7 +5,10 @@
     "query": "凩",
     "found": true,
     "strokeCount": 6,
-    "meaning": "wintry wind, (kokuji)",
+    "meaning": {
+      "en": "wintry wind, (kokuji)",
+      "vi": "gió mùa đông, chữ quốc tự"
+    },
     "kunyomi": [
       "こがらし"
     ],
@@ -16,14 +19,18 @@
         "example": "木枯らし",
         "reading": "こがらし",
         "meaning": {
-          "en": "cold wintry wind"
+          "en": "cold wintry wind",
+          "vi": "gió lạnh mùa đông"
         },
         "romaji": "kogarashi"
       }
     ],
     "radical": {
       "symbol": "几",
-      "meaning": "table"
+      "meaning": {
+        "en": "table",
+        "vi": "bàn"
+      }
     },
     "parts": [
       "几",
@@ -35,5 +42,6 @@
     "uri": "https://jisho.org/search/%E5%87%A9%23kanji"
   },
   "hanViet": null,
-  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu",
+  "mnemonic_vi": "Gợi ý cách nhớ: gió lạnh thổi qua rừng cây, ghép vài nét thành 凩 để nhớ gió mùa đông."
 }

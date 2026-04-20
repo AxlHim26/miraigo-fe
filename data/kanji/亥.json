@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 6,
-    "meaning": "sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac",
+    "meaning": {
+      "en": "sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac",
+      "vi": "chi Hợi, khung giờ 9-11 giờ tối, con giáp thứ mười hai"
+    },
     "kunyomi": [
       "い"
     ],
@@ -19,7 +22,8 @@
         "example": "亥月",
         "reading": "ガイゲツ",
         "meaning": {
-          "en": "tenth month of the lunar calendar"
+          "en": "tenth month of the lunar calendar",
+          "vi": "tháng mười âm lịch"
         },
         "romaji": "gaigetsu"
       },
@@ -27,7 +31,8 @@
         "example": "丁亥",
         "reading": "テイガイ",
         "meaning": {
-          "en": "Fire Boar (24th term of the sexagenary cycle, e.g. 1947, 2007, 2067)"
+          "en": "Fire Boar (24th term of the sexagenary cycle, e.g. 1947, 2007, 2067)",
+          "vi": "Đinh Hợi (mục thứ 24 của lục thập hoa giáp, ví dụ 1947, 2007, 2067)"
         },
         "romaji": "teigai"
       },
@@ -35,7 +40,8 @@
         "example": "己亥",
         "reading": "ツチノトイ",
         "meaning": {
-          "en": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+          "en": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)",
+          "vi": "Kỷ Hợi (mục thứ 36 của lục thập hoa giáp, ví dụ 1959, 2019, 2079)"
         },
         "romaji": "tsuchinotoi"
       }
@@ -45,7 +51,8 @@
         "example": "亥",
         "reading": "い",
         "meaning": {
-          "vi": "the Boar (twelfth sign of the Chinese zodiac), the Pig, hour of the Boar (around 10pm, 9-11pm, or 10pm to 12 midnight), north-northwest, tenth month of the lunar calendar"
+          "vi": "Hợi, con lợn, giờ Hợi (khoảng 9-11 giờ tối hoặc 10 giờ đêm đến nửa đêm), hướng bắc tây bắc, tháng mười âm lịch",
+          "en": "the Boar (twelfth sign of the Chinese zodiac), the Pig, hour of the Boar (around 10pm, 9-11pm, or 10pm to 12 midnight), north-northwest, tenth month of the lunar calendar"
         },
         "romaji": "i"
       },
@@ -53,7 +60,8 @@
         "example": "亥年",
         "reading": "いどし",
         "meaning": {
-          "vi": "year of the Boar, year of the Pig"
+          "vi": "năm Hợi, năm con lợn",
+          "en": "year of the Boar, year of the Pig"
         },
         "romaji": "idoshi"
       },
@@ -61,7 +69,8 @@
         "example": "丁亥",
         "reading": "ていがい",
         "meaning": {
-          "en": "Fire Boar (24th term of the sexagenary cycle, e.g. 1947, 2007, 2067)"
+          "en": "Fire Boar (24th term of the sexagenary cycle, e.g. 1947, 2007, 2067)",
+          "vi": "Đinh Hợi (mục thứ 24 của lục thập hoa giáp, ví dụ 1947, 2007, 2067)"
         },
         "romaji": "teigai"
       },
@@ -69,14 +78,18 @@
         "example": "己亥",
         "reading": "つちのとい",
         "meaning": {
-          "en": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+          "en": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)",
+          "vi": "Kỷ Hợi (mục thứ 36 của lục thập hoa giáp, ví dụ 1959, 2019, 2079)"
         },
         "romaji": "tsuchinotoi"
       }
     ],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "ノ",
@@ -92,5 +105,7 @@
   "hanViet": [
     "giai",
     "hợi"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Nét chữ gợi con giáp ở chặng cuối vòng 12 chi, nên nhớ là Hợi."
 }

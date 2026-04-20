@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "haru",
-    "meaning": "spring",
+    "meaning": {
+      "en": "spring",
+      "vi": "mùa xuân"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "春分の日（しゅんぶんのひ）",
         "meaning": {
-          "english": "vernal equinox"
+          "english": "vernal equinox",
+          "en": "vernal equinox",
+          "vi": "xuân phân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "青春（せいしゅん）",
         "meaning": {
-          "english": "springtime of life"
+          "english": "springtime of life",
+          "en": "springtime of life",
+          "vi": "tuổi xuân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "立春（りっしゅん）",
         "meaning": {
-          "english": "1st day of spring"
+          "english": "1st day of spring",
+          "en": "1st day of spring",
+          "vi": "ngày đầu mùa xuân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "春（はる）",
         "meaning": {
-          "english": "spring"
+          "english": "spring",
+          "en": "spring",
+          "vi": "mùa xuân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haru_06_d.opus",
@@ -192,7 +203,9 @@
     "kanji": {
       "character": "春",
       "meaning": {
-        "english": "spring"
+        "english": "spring",
+        "en": "spring",
+        "vi": "mùa xuân"
       },
       "strokes": {
         "count": 9,
@@ -248,7 +261,9 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time",
+        "en": "sun, day, time",
+        "vi": "mặt trời, ngày, thời gian"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -269,7 +284,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "579",
     "strokeCount": 9,
-    "meaning": "springtime, spring (season)",
+    "meaning": {
+      "en": "springtime, spring (season)",
+      "vi": "mùa xuân"
+    },
     "kunyomi": [
       "はる"
     ],
@@ -281,7 +299,8 @@
         "example": "春秋",
         "reading": "シュンジュウ",
         "meaning": {
-          "vi": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+          "vi": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu",
+          "en": "spring and autumn, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu"
         },
         "romaji": "shunjuu"
       },
@@ -289,7 +308,8 @@
         "example": "春季",
         "reading": "シュンキ",
         "meaning": {
-          "vi": "spring season"
+          "vi": "spring season",
+          "en": "spring season"
         },
         "romaji": "shunki"
       },
@@ -297,7 +317,8 @@
         "example": "昨春",
         "reading": "サクシュン",
         "meaning": {
-          "vi": "last spring, the spring of last year"
+          "vi": "last spring, the spring of last year",
+          "en": "last spring, the spring of last year"
         },
         "romaji": "sakushun"
       },
@@ -305,7 +326,8 @@
         "example": "売春",
         "reading": "バイシュン",
         "meaning": {
-          "vi": "prostitution"
+          "vi": "prostitution",
+          "en": "prostitution"
         },
         "romaji": "baishun"
       }
@@ -315,7 +337,8 @@
         "example": "春",
         "reading": "はる",
         "meaning": {
-          "vi": "spring, springtime, New Year, prime (of life), height (of one's prosperity), heyday, adolescence, puberty, sexuality, sexual desire"
+          "vi": "spring, springtime, New Year, prime (of life), height (of one's prosperity), heyday, adolescence, puberty, sexuality, sexual desire",
+          "en": "spring, springtime, New Year, prime of life, height of prosperity, heyday, adolescence, puberty, sexuality, sexual desire"
         },
         "romaji": "haru"
       },
@@ -323,7 +346,8 @@
         "example": "春秋",
         "reading": "しゅんじゅう",
         "meaning": {
-          "vi": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+          "vi": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu",
+          "en": "spring and autumn, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu"
         },
         "romaji": "shunjuu"
       },
@@ -331,7 +355,8 @@
         "example": "小春",
         "reading": "こはる",
         "meaning": {
-          "vi": "10th month of the lunisolar calendar (traditional first month of winter, approx. November), late autumn, late fall"
+          "vi": "10th month of the lunisolar calendar (traditional first month of winter, approx. November), late autumn, late fall",
+          "en": "10th month of the lunisolar calendar (traditional first month of winter, approx. November), late autumn, late fall"
         },
         "romaji": "koharu"
       },
@@ -339,14 +364,18 @@
         "example": "毎春",
         "reading": "まいしゅん",
         "meaning": {
-          "vi": "every spring"
+          "vi": "every spring",
+          "en": "every spring"
         },
         "romaji": "maishun"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "sun, day"
+      }
     },
     "parts": [
       "一",
@@ -362,5 +391,7 @@
   },
   "hanViet": [
     "xuân"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: Ba người đón mặt trời ấm lên sau đông, nên 春 là mùa xuân."
 }

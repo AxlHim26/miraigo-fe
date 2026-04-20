@@ -7,13 +7,17 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": " - able, approve",
+    "meaning": {
+      "en": "- able, approve",
+      "vi": "co the, chap thuan"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "可能性（かのうせい）",
         "meaning": {
-          "english": "potentiality, possibility"
+          "en": "potentiality, possibility",
+          "vi": "tinh tiem nang, kha nang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "可燃物（かねんぶつ）",
         "meaning": {
-          "english": "flammable materials"
+          "en": "flammable materials",
+          "vi": "vat lieu de chay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "可愛らしい（かわいらしい）",
         "meaning": {
-          "english": "lovely, sweet"
+          "en": "lovely, sweet",
+          "vi": "dang yeu, ngot ngao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "可能な（かのうな）",
         "meaning": {
-          "english": "possible"
+          "en": "possible",
+          "vi": "co the"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "不可能な（ふかのうな）",
         "meaning": {
-          "english": "impossible"
+          "en": "impossible",
+          "vi": "khong the"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "不可分な（ふかぶんな）",
         "meaning": {
-          "english": "indivisible"
+          "en": "indivisible",
+          "vi": "khong the chia tach"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "不可解な（ふかかいな）",
         "meaning": {
-          "english": "mysterious, baffling"
+          "en": "mysterious, baffling",
+          "vi": "bi an, kho hieu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "可決する（かけつする）",
         "meaning": {
-          "english": "approve"
+          "en": "approve",
+          "vi": "chap thuan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "許可する（きょかする）",
         "meaning": {
-          "english": "permit [v.t.]"
+          "en": "permit [v.t.]",
+          "vi": "cho phep"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(nousei)_06_i.opus",
@@ -212,7 +224,8 @@
     "kanji": {
       "character": "可",
       "meaning": {
-        "english": " - able, approve"
+        "en": "- able, approve",
+        "vi": "co the, chap thuan"
       },
       "strokes": {
         "count": 5,
@@ -260,7 +273,8 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "en": "mouth",
+        "vi": "mieng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -274,13 +288,18 @@
       "classic_nelson": "24"
     }
   },
+  "jlpt": "N2",
+  "mnemonic_vi": "口 là cái miệng và 丁 như cái đinh chốt lại: được chốt miệng tức là cho phép, chấp thuận.",
   "jishoData": {
     "query": "可",
     "found": true,
     "taughtIn": "grade 5",
     "newspaperFrequencyRank": "314",
     "strokeCount": 5,
-    "meaning": "can, passable, approval",
+    "meaning": {
+      "en": "can, passable, approval",
+      "vi": "co the, chap nhan duoc, su chap thuan"
+    },
     "kunyomi": [
       "-べ.き",
       "-べ.し"
@@ -294,7 +313,8 @@
         "example": "可",
         "reading": "カ",
         "meaning": {
-          "vi": "acceptable, satisfactory, allowed, permitted, approval, being in favour, (a) vote in favour, aye, Pass (grade), Fair, C, D"
+          "en": "acceptable, satisfactory, allowed, permitted, approval, being in favour, (a) vote in favour, aye, Pass (grade), Fair, C, D",
+          "vi": "chap nhan duoc, thoa dang, duoc phep, su chap thuan, tan thanh, phieu thuan, dat muc trung binh"
         },
         "romaji": "ka"
       },
@@ -302,7 +322,8 @@
         "example": "可決",
         "reading": "カケツ",
         "meaning": {
-          "vi": "approval, adoption (of a motion, bill, etc.), passage"
+          "en": "approval, adoption (of a motion, bill, etc.), passage",
+          "vi": "su phe chuan, thong qua (nghi quyet, du luat, v.v.)"
         },
         "romaji": "kaketsu"
       },
@@ -310,7 +331,8 @@
         "example": "裁可",
         "reading": "サイカ",
         "meaning": {
-          "vi": "sanction, approval"
+          "en": "sanction, approval",
+          "vi": "su chap thuan, phe chuan"
         },
         "romaji": "saika"
       },
@@ -318,7 +340,8 @@
         "example": "不裁可",
         "reading": "フサイカ",
         "meaning": {
-          "en": "veto, rejection"
+          "en": "veto, rejection",
+          "vi": "phu quyet, bac bo"
         },
         "romaji": "fusaika"
       }
@@ -326,7 +349,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "mieng, lo mo"
+      }
     },
     "parts": [
       "一",

@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mi, miru, mieru, miseru",
-    "meaning": "see",
+    "meaning": {
+      "en": "see",
+      "vi": "nhìn"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "見学する（けんがくする）",
         "meaning": {
-          "english": "study, take a research trip"
+          "english": "study, take a research trip",
+          "en": "study, take a research trip",
+          "vi": "tham quan học tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "発見する（はっけんする）",
         "meaning": {
-          "english": "discover"
+          "english": "discover",
+          "en": "discover",
+          "vi": "phát hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "拝見する（はいけんする）",
         "meaning": {
-          "english": "take a look at [hum.]"
+          "english": "take a look at [hum.]",
+          "en": "take a look at [hum.]",
+          "vi": "xem qua [kính ngữ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "意見（いけん）",
         "meaning": {
-          "english": "opinion"
+          "english": "opinion",
+          "en": "opinion",
+          "vi": "ý kiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "偏見（へんけん）",
         "meaning": {
-          "english": "prejudice"
+          "english": "prejudice",
+          "en": "prejudice",
+          "vi": "thành kiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "見る（みる）",
         "meaning": {
-          "english": "see"
+          "english": "see",
+          "en": "see",
+          "vi": "nhìn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "見つかる（みつかる）",
         "meaning": {
-          "english": "be found [v.i.]"
+          "english": "be found [v.i.]",
+          "en": "be found [v.i.]",
+          "vi": "được tìm thấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "見つける（みつける）",
         "meaning": {
-          "english": "find [v.t.]"
+          "english": "find [v.t.]",
+          "en": "find [v.t.]",
+          "vi": "tìm thấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "見える（みえる）",
         "meaning": {
-          "english": "be seen, seem"
+          "english": "be seen, seem",
+          "en": "be seen, seem",
+          "vi": "được thấy, có vẻ như"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "見せる（みせる）",
         "meaning": {
-          "english": "show"
+          "english": "show",
+          "en": "show",
+          "vi": "cho xem"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "花見（はなみ）",
         "meaning": {
-          "english": "cherry-blossom viewing"
+          "english": "cherry-blossom viewing",
+          "en": "cherry-blossom viewing",
+          "vi": "ngắm hoa anh đào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-mi(ru)_06_k.opus",
@@ -304,7 +329,9 @@
     "kanji": {
       "character": "見",
       "meaning": {
-        "english": "see"
+        "english": "see",
+        "en": "see",
+        "vi": "nhìn"
       },
       "strokes": {
         "count": 7,
@@ -356,7 +383,9 @@
         "romaji": "miru"
       },
       "meaning": {
-        "english": "to see"
+        "english": "to see",
+        "en": "to see",
+        "vi": "nhìn"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/miru0.svg",
@@ -377,7 +406,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "22",
     "strokeCount": 7,
-    "meaning": "see, hopes, chances, idea, opinion, look at, visible",
+    "meaning": {
+      "en": "see, hopes, chances, idea, opinion, look at, visible",
+      "vi": "nhìn, hy vọng, khả năng, ý tưởng, ý kiến, nhìn vào, có thể thấy"
+    },
     "kunyomi": [
       "み.る",
       "み.える",
@@ -391,7 +423,8 @@
         "example": "見",
         "reading": "ケン",
         "meaning": {
-          "en": "view (of life, etc.), outlook"
+          "en": "view (of life, etc.), outlook",
+          "vi": "quan điểm, cách nhìn"
         },
         "romaji": "ken"
       },
@@ -399,7 +432,8 @@
         "example": "見解",
         "reading": "ケンカイ",
         "meaning": {
-          "vi": "opinion, point of view"
+          "vi": "opinion, point of view",
+          "en": ""
         },
         "romaji": "kenkai"
       },
@@ -407,7 +441,8 @@
         "example": "後見",
         "reading": "コウケン",
         "meaning": {
-          "vi": "guardianship, guardian, (theatrical) assistant, prompter"
+          "vi": "guardianship, guardian, (theatrical) assistant, prompter",
+          "en": ""
         },
         "romaji": "kouken"
       },
@@ -415,7 +450,8 @@
         "example": "政見",
         "reading": "セイケン",
         "meaning": {
-          "vi": "political views"
+          "vi": "political views",
+          "en": ""
         },
         "romaji": "seiken"
       }
@@ -425,7 +461,8 @@
         "example": "見る",
         "reading": "みる",
         "meaning": {
-          "vi": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ..."
+          "vi": "to see, to look, to watch, to view, to observe, to examine, to look over, to assess, to check, to judge, to look after, to attend to, to take care of, to keep an eye on, to experience, to meet with (misfortune, success, etc.), to try ..., to have a go at ..., to give ... a try, to see (that) ..., to find (that) ...",
+          "en": ""
         },
         "romaji": "miru"
       },
@@ -433,7 +470,8 @@
         "example": "見る見る",
         "reading": "みるみる",
         "meaning": {
-          "en": "very fast, in a twinkle, before one's eyes"
+          "en": "very fast, in a twinkle, before one's eyes",
+          "vi": "rất nhanh, trong chớp mắt, ngay trước mắt"
         },
         "romaji": "mirumiru"
       },
@@ -441,7 +479,8 @@
         "example": "見える",
         "reading": "みえる",
         "meaning": {
-          "vi": "to be seen, to be visible, to be in sight, to look, to seem, to appear, to come"
+          "vi": "to be seen, to be visible, to be in sight, to look, to seem, to appear, to come",
+          "en": ""
         },
         "romaji": "mieru"
       },
@@ -449,7 +488,8 @@
         "example": "見える化",
         "reading": "みえるか",
         "meaning": {
-          "vi": "visualization, rendering visible (e.g. a problem), digitization"
+          "vi": "visualization, rendering visible (e.g. a problem), digitization",
+          "en": ""
         },
         "romaji": "mieruka"
       },
@@ -457,14 +497,18 @@
         "example": "見せる",
         "reading": "みせる",
         "meaning": {
-          "vi": "to show, to display, to make (something or someone) look ..., to present an appearance of ..., to make (something) worth watching, to be entertaining, to have (something) looked at (by a specialist), to have (an antique, etc.) appraised, to have (an injury, person, etc.) looked at (by a doctor), to take (someone) to a doctor, to make a show of (doing), to do in a conspicuous manner, to do in view of others, to resolve to do, to do at any cost, to show others that one will ..."
+          "vi": "to show, to display, to make (something or someone) look ..., to present an appearance of ..., to make (something) worth watching, to be entertaining, to have (something) looked at (by a specialist), to have (an antique, etc.) appraised, to have (an injury, person, etc.) looked at (by a doctor), to take (someone) to a doctor, to make a show of (doing), to do in a conspicuous manner, to do in view of others, to resolve to do, to do at any cost, to show others that one will ...",
+          "en": ""
         },
         "romaji": "miseru"
       }
     ],
     "radical": {
       "symbol": "見",
-      "meaning": "see"
+      "meaning": {
+        "en": "see",
+        "vi": "nhìn"
+      }
     },
     "parts": [
       "儿",
@@ -479,5 +523,6 @@
   "hanViet": [
     "hiện",
     "kiến"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: đôi mắt đặt trên chân, nhìn thấy rồi bước tới."
 }

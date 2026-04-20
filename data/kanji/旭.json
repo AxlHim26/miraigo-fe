@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1417",
     "strokeCount": 6,
-    "meaning": "rising sun, morning sun",
+    "meaning": {
+      "en": "rising sun, morning sun",
+      "vi": "mặt trời mọc, nắng sớm"
+    },
     "kunyomi": [
       "あさひ"
     ],
@@ -19,7 +22,8 @@
         "example": "旭日",
         "reading": "キョクジツ",
         "meaning": {
-          "en": "rising sun"
+          "en": "rising sun",
+          "vi": "mặt trời mọc"
         },
         "romaji": "kyokujitsu"
       },
@@ -27,6 +31,7 @@
         "example": "旭日旗",
         "reading": "キョクジツキ",
         "meaning": {
+          "en": "Rising Sun flag, naval ensign of Japan",
           "vi": "Rising Sun flag, naval ensign of Japan"
         },
         "romaji": "kyokujitsuki"
@@ -37,7 +42,8 @@
         "example": "朝日",
         "reading": "あさひ",
         "meaning": {
-          "en": "morning sun"
+          "en": "morning sun",
+          "vi": "nắng sớm"
         },
         "romaji": "asahi"
       },
@@ -45,6 +51,7 @@
         "example": "旭",
         "reading": "あさひ",
         "meaning": {
+          "en": "McIntosh (apple), McIntosh red",
           "vi": "McIntosh (apple), McIntosh red"
         },
         "romaji": "asahi"
@@ -52,7 +59,10 @@
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "mặt trời, ngày"
+      }
     },
     "parts": [
       "九",

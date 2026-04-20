@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1835",
     "strokeCount": 9,
-    "meaning": "rin, 1/10 sen, 1/10 bu",
+    "meaning": {
+      "en": "rin, 1/10 sen, 1/10 bu",
+      "vi": "rin, 1/10 sen, 1/10 bu"
+    },
     "kunyomi": [],
     "onyomi": [
       "リン"
@@ -18,7 +21,8 @@
         "example": "厘",
         "reading": "リン",
         "meaning": {
-          "vi": "one-hundredth, 0.3 mm (one-hundredth of a sun), 0.1 percent (one-hundredth of a wari), 0.0375 grams (one-hundredth of a monme), rin (monetary unit; 0.001 yen)"
+          "vi": "một phần trăm, 0,3 mm, 0,1 phần trăm, 0,0375 gram, rin (đơn vị tiền tệ; 0,001 yên)",
+          "en": "one-hundredth, 0.3 mm (one-hundredth of a sun), 0.1 percent (one-hundredth of a wari), 0.0375 grams (one-hundredth of a monme), rin (monetary unit; 0.001 yen)"
         },
         "romaji": "rin"
       },
@@ -26,7 +30,8 @@
         "example": "厘毛",
         "reading": "リンモウ",
         "meaning": {
-          "en": "farthing, trifle"
+          "en": "farthing, trifle",
+          "vi": "vật nhỏ mọn, món rẻ tiền"
         },
         "romaji": "rinmou"
       },
@@ -34,7 +39,8 @@
         "example": "毫釐",
         "reading": "ゴウリ",
         "meaning": {
-          "en": "very small quantity"
+          "en": "very small quantity",
+          "vi": "lượng rất nhỏ"
         },
         "romaji": "gouri"
       },
@@ -42,7 +48,8 @@
         "example": "九分九厘",
         "reading": "クブクリン",
         "meaning": {
-          "vi": "almost certainly, in all probability, ten to one, in ninety-nine cases out of a hundred, near-completeness, near-perfection, ninety-nine percent (finished, etc.)"
+          "vi": "gần như chắc chắn, hầu như hoàn toàn, mười phần thì chín, chín mươi chín phần trăm",
+          "en": "almost certainly, in all probability, ten to one, in ninety-nine cases out of a hundred, near-completeness, near-perfection, ninety-nine percent (finished, etc.)"
         },
         "romaji": "kubukurin"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "厂",
-      "meaning": "cliff"
+      "meaning": {
+        "en": "cliff",
+        "vi": "vách đá"
+      }
     },
     "parts": [
       "厂",
@@ -66,5 +76,6 @@
     "li",
     "ly",
     "triền"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: dưới mái 厂 là phần rất nhỏ được chia li ti, nên nhớ nghĩa đơn vị nhỏ."
 }

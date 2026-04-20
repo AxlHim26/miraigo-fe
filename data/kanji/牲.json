@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1274",
     "strokeCount": 9,
-    "meaning": "animal sacrifice, offering",
+    "meaning": {
+      "en": "animal sacrifice, offering",
+      "vi": "vật hiến tế, lễ vật"
+    },
     "kunyomi": [],
     "onyomi": [
       "セイ"
@@ -20,7 +23,10 @@
       "forms": [
         "牜"
       ],
-      "meaning": "cow"
+      "meaning": {
+        "en": "cow",
+        "vi": "bò"
+      }
     },
     "parts": [
       "牛",
@@ -33,5 +39,7 @@
   },
   "hanViet": [
     "sinh"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Con vật được dâng lên bàn lễ nên là vật hiến tế."
 }

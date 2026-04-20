@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2003",
     "strokeCount": 9,
-    "meaning": "lowly, base, vile, vulgar, despise",
+    "meaning": {
+      "en": "lowly, base, vile, vulgar, despise",
+      "vi": "thấp hèn, tầm thường, đê tiện, thô tục, khinh bỉ"
+    },
     "kunyomi": [
       "いや.しい",
       "いや.しむ",
@@ -22,7 +25,8 @@
         "example": "卑劣",
         "reading": "ヒレツ",
         "meaning": {
-          "vi": "mean, contemptible, despicable, dirty, foul, cowardly, base"
+          "vi": "hèn hạ, đáng khinh, đê tiện, bẩn thỉu, bỉ ổi, nhút nhát, thấp kém",
+          "en": "mean, contemptible, despicable, dirty, foul, cowardly, base"
         },
         "romaji": "hiretsu"
       },
@@ -30,7 +34,8 @@
         "example": "卑怯",
         "reading": "ヒキョウ",
         "meaning": {
-          "en": "cowardly, craven, unfair, mean, sneaky, dirty, dastardly"
+          "en": "cowardly, craven, unfair, mean, sneaky, dirty, dastardly",
+          "vi": "hèn nhát, bạc nhược, bất công, hèn hạ, lén lút, bẩn thỉu, bỉ ổi"
         },
         "romaji": "hikyou"
       },
@@ -38,7 +43,8 @@
         "example": "男尊女卑",
         "reading": "ダンソンジョヒ",
         "meaning": {
-          "en": "male domination of women, male chauvinism, subjection of women"
+          "en": "male domination of women, male chauvinism, subjection of women",
+          "vi": "sự thống trị của nam giới đối với phụ nữ, tư tưởng trọng nam khinh nữ, sự lệ thuộc của phụ nữ"
         },
         "romaji": "dansonjohi"
       },
@@ -46,7 +52,8 @@
         "example": "野卑",
         "reading": "ヤヒ",
         "meaning": {
-          "en": "vulgar, coarse, crude, boorish, ill-mannered, mean, base"
+          "en": "vulgar, coarse, crude, boorish, ill-mannered, mean, base",
+          "vi": "thô tục, cục cằn, thô lỗ, quê kệch, vô lễ, hèn hạ, thấp kém"
         },
         "romaji": "yahi"
       }
@@ -56,7 +63,8 @@
         "example": "卑しい",
         "reading": "いやしい",
         "meaning": {
-          "vi": "lowborn, humble, lowly, vulgar, coarse, crude, mean, base, vile, despicable, dirty, unfair, shabby, poor-looking, greedy, gluttonous, avaricious"
+          "vi": "thấp hèn, khiêm mọn, thấp kém, thô tục, cục cằn, thô lỗ, hèn hạ, đê tiện, đáng khinh, bẩn thỉu, bất công, xộc xệch, tướng mạo tồi, tham lam, háu ăn, tham lợi",
+          "en": "lowborn, humble, lowly, vulgar, coarse, crude, mean, base, vile, despicable, dirty, unfair, shabby, poor-looking, greedy, gluttonous, avaricious"
         },
         "romaji": "iyashii"
       },
@@ -64,7 +72,8 @@
         "example": "卑しい生まれ",
         "reading": "いやしいうまれ",
         "meaning": {
-          "en": "lowborn, of humble birth"
+          "en": "lowborn, of humble birth",
+          "vi": "sinh ra thấp kém, xuất thân hèn mọn"
         },
         "romaji": "iyashiiumare"
       },
@@ -72,7 +81,8 @@
         "example": "卑しむ",
         "reading": "いやしむ",
         "meaning": {
-          "vi": "to despise, to disdain, to scorn, to hold in contempt, to look down on"
+          "vi": "khinh bỉ, coi thường, khinh rẻ",
+          "en": "to despise, to disdain, to scorn, to hold in contempt, to look down on"
         },
         "romaji": "iyashimu"
       },
@@ -80,7 +90,8 @@
         "example": "卑しむべき",
         "reading": "いやしむべき",
         "meaning": {
-          "vi": "despicable"
+          "vi": "đáng khinh",
+          "en": "despicable"
         },
         "romaji": "iyashimubeki"
       },
@@ -88,14 +99,18 @@
         "example": "卑しめる",
         "reading": "いやしめる",
         "meaning": {
-          "vi": "to demean, to despise, to treat with contempt, to abase"
+          "vi": "hạ nhục, khinh bỉ, đối xử bằng sự khinh miệt, hạ thấp",
+          "en": "to demean, to despise, to treat with contempt, to abase"
         },
         "romaji": "iyashimeru"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "mười, trọn vẹn"
+      }
     },
     "parts": [
       "十",
@@ -109,5 +124,6 @@
   "hanViet": [
     "ti",
     "ty"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: hình như người cúi thấp mình dưới vật nặng, gợi cảm giác thấp hèn, ti tiện."
 }

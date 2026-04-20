@@ -5,7 +5,10 @@
     "query": "僻",
     "found": true,
     "strokeCount": 15,
-    "meaning": "prejudice, bias, rural area",
+    "meaning": {
+      "en": "prejudice, bias, rural area",
+      "vi": "thành kiến, thiên vị, vùng hẻo lánh"
+    },
     "kunyomi": [
       "へき.する",
       "ひが.む"
@@ -20,7 +23,8 @@
         "example": "僻",
         "reading": "ヘキ",
         "meaning": {
-          "en": "secluded, leaning to one side"
+          "en": "secluded, leaning to one side",
+          "vi": "hẻo lánh, nghiêng về một phía"
         },
         "romaji": "heki"
       },
@@ -28,7 +32,8 @@
         "example": "僻遠",
         "reading": "ヘキエン",
         "meaning": {
-          "en": "remote, outlying"
+          "en": "remote, outlying",
+          "vi": "xa xôi, hẻo lánh"
         },
         "romaji": "hekien"
       },
@@ -36,7 +41,8 @@
         "example": "僻",
         "reading": "ヒガ",
         "meaning": {
-          "en": "evil, untrue, erroneous"
+          "en": "evil, untrue, erroneous",
+          "vi": "xấu xa, sai sự thật, sai lầm"
         },
         "romaji": "higa"
       },
@@ -44,7 +50,8 @@
         "example": "僻み",
         "reading": "ヒガミ",
         "meaning": {
-          "vi": "prejudice, bias, warped view, jealousy, inferiority complex"
+          "vi": "thành kiến, thiên vị, quan điểm lệch lạc, ghen tị, mặc cảm tự ti",
+          "en": "prejudice, bias, warped view, jealousy, inferiority complex"
         },
         "romaji": "higami"
       }
@@ -54,7 +61,8 @@
         "example": "僻する",
         "reading": "へきする",
         "meaning": {
-          "vi": "to lean to one side, to be warped"
+          "vi": "nghiêng về một phía, bị lệch lạc",
+          "en": "to lean to one side, to be warped"
         },
         "romaji": "hekisuru"
       },
@@ -62,7 +70,8 @@
         "example": "僻む",
         "reading": "ひがむ",
         "meaning": {
-          "vi": "to have a warped view, to be jaundiced, to be prejudiced, to feel that one has been unfairly treated, to be jealous, to be envious, to have an inferiority complex"
+          "vi": "có cái nhìn lệch lạc, nhìn đời méo mó, mang thành kiến, cảm thấy bị đối xử bất công, ghen tị, đố kỵ, mặc cảm tự ti",
+          "en": "to have a warped view, to be jaundiced, to be prejudiced, to feel that one has been unfairly treated, to be jealous, to be envious, to have an inferiority complex"
         },
         "romaji": "higamu"
       }
@@ -72,7 +81,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

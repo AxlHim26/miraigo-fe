@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "wa, waru, wari, wareru, sa, saku",
-    "meaning": "divide, split",
+    "meaning": {
+      "en": "divide, split",
+      "vi": "chia, tách"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "割愛する（かつあいする）",
         "meaning": {
-          "english": "omit, leave out, spare"
+          "english": "omit, leave out, spare",
+          "en": "omit, leave out, spare",
+          "vi": "bỏ qua, chừa ra, để dành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "分割する（ぶんかつする）",
         "meaning": {
-          "english": "partition, divide, separate"
+          "english": "partition, divide, separate",
+          "en": "partition, divide, separate",
+          "vi": "phân chia, chia tách, tách riêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "割る（わる）",
         "meaning": {
-          "english": "divide, break, crack [v.t.]"
+          "english": "divide, break, crack [v.t.]",
+          "en": "divide, break, crack [v.t.]",
+          "vi": "chia, bẻ, làm nứt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "割れる（われる）",
         "meaning": {
-          "english": "break, split, crack [v.i.]"
+          "english": "break, split, crack [v.i.]",
+          "en": "break, split, crack [v.i.]",
+          "vi": "bị vỡ, bị tách, bị nứt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "割り勘（わりかん）",
         "meaning": {
-          "english": "shared expenses"
+          "english": "shared expenses",
+          "en": "shared expenses",
+          "vi": "chi phí chia chung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "割り算（わりざん）",
         "meaning": {
-          "english": "division"
+          "english": "division",
+          "en": "division",
+          "vi": "sự phân chia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "割り引く（わりびく）",
         "meaning": {
-          "english": "discount [v.t.]"
+          "english": "discount [v.t.]",
+          "en": "discount [v.t.]",
+          "vi": "giảm giá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "割合（わりあい）",
         "meaning": {
-          "english": "rate, ratio, proportion"
+          "english": "rate, ratio, proportion",
+          "en": "rate, ratio, proportion",
+          "vi": "tỷ lệ, tỉ số, phần trăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "一割（いちわり）",
         "meaning": {
-          "english": "ten percent"
+          "english": "ten percent",
+          "en": "ten percent",
+          "vi": "mười phần trăm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "役割（やくわり）",
         "meaning": {
-          "english": "part, role, duties"
+          "english": "part, role, duties",
+          "en": "part, role, duties",
+          "vi": "phần việc, vai trò, nhiệm vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "割と（わりと）",
         "meaning": {
-          "english": "relatively, comparatively"
+          "english": "relatively, comparatively",
+          "en": "relatively, comparatively",
+          "vi": "tương đối, khá là"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "割く（さく）",
         "meaning": {
-          "english": "split, rend, cut, spare (time)"
+          "english": "split, rend, cut, spare (time)",
+          "en": "split, rend, cut, spare (time)",
+          "vi": "xé tách, cắt ra, dành ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/wa(ru)_06_l.opus",
@@ -260,7 +287,9 @@
     "kanji": {
       "character": "割",
       "meaning": {
-        "english": "divide, split"
+        "english": "divide, split",
+        "en": "divide, split",
+        "vi": "chia, tách"
       },
       "strokes": {
         "count": 12,
@@ -322,7 +351,9 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -343,7 +374,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "318",
     "strokeCount": 12,
-    "meaning": "proportion, comparatively, divide, cut, separate, split",
+    "meaning": {
+      "en": "proportion, comparatively, divide, cut, separate, split",
+      "vi": "tỷ lệ, tương đối, chia, cắt, tách ra"
+    },
     "kunyomi": [
       "わ.る",
       "わり",
@@ -359,7 +393,8 @@
         "example": "割愛",
         "reading": "カツアイ",
         "meaning": {
-          "vi": "omitting (reluctantly), leaving out, dropping, giving up (reluctantly), parting with, sharing, sparing"
+          "vi": "omitting (reluctantly), leaving out, dropping, giving up (reluctantly), parting with, sharing, sparing",
+          "en": "omitting (reluctantly), leaving out, dropping, giving up (reluctantly), parting with, sharing, sparing"
         },
         "romaji": "katsuai"
       },
@@ -367,7 +402,8 @@
         "example": "割譲",
         "reading": "カツジョウ",
         "meaning": {
-          "en": "cession (of territory)"
+          "en": "cession (of territory)",
+          "vi": "nhượng đất"
         },
         "romaji": "katsujou"
       },
@@ -375,7 +411,8 @@
         "example": "正割",
         "reading": "セイカツ",
         "meaning": {
-          "en": "secant (trigonometric function)"
+          "en": "secant (trigonometric function)",
+          "vi": "hàm sec"
         },
         "romaji": "seikatsu"
       },
@@ -383,7 +420,8 @@
         "example": "等割",
         "reading": "トウカツ",
         "meaning": {
-          "en": "equal cleavage (embryology)"
+          "en": "equal cleavage (embryology)",
+          "vi": "phân cắt đều"
         },
         "romaji": "toukatsu"
       }
@@ -393,7 +431,8 @@
         "example": "割る",
         "reading": "わる",
         "meaning": {
-          "vi": "to divide, to cut, to halve, to separate, to split, to rip, to break, to crack, to smash, to dilute, to fall below, to discount, to step over (a line, etc.)"
+          "vi": "to divide, to cut, to halve, to separate, to split, to rip, to break, to crack, to smash, to dilute, to fall below, to discount, to step over (a line, etc.)",
+          "en": "to divide, to cut, to halve, to separate, to split, to rip, to break, to crack, to smash, to dilute, to fall below, to discount, to step over (a line, etc.)"
         },
         "romaji": "waru"
       },
@@ -401,7 +440,8 @@
         "example": "割り",
         "reading": "わり",
         "meaning": {
-          "vi": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"
+          "vi": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate",
+          "en": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"
         },
         "romaji": "wari"
       },
@@ -409,7 +449,8 @@
         "example": "割合",
         "reading": "わりあい",
         "meaning": {
-          "vi": "rate, ratio, percentage, proportion, comparatively, contrary to expectations"
+          "vi": "rate, ratio, percentage, proportion, comparatively, contrary to expectations",
+          "en": "rate, ratio, percentage, proportion, comparatively, contrary to expectations"
         },
         "romaji": "wariai"
       },
@@ -417,7 +458,8 @@
         "example": "学割",
         "reading": "がくわり",
         "meaning": {
-          "en": "student discount"
+          "en": "student discount",
+          "vi": "giảm giá cho học sinh sinh viên"
         },
         "romaji": "gakuwari"
       },
@@ -425,7 +467,8 @@
         "example": "手合割",
         "reading": "てあいわり",
         "meaning": {
-          "vi": "handicap (go, shogi)"
+          "vi": "handicap (go, shogi)",
+          "en": "handicap (go, shogi)"
         },
         "romaji": "teaiwari"
       },
@@ -433,7 +476,8 @@
         "example": "割り",
         "reading": "わり",
         "meaning": {
-          "vi": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"
+          "vi": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate",
+          "en": "rate, ratio, proportion, one tenth, ten percent, (comparative) profit, gain, assignment, allotment, allocation, match, schedule of matches, diluted with (of drinks), mixed with, discount, rebate"
         },
         "romaji": "wari"
       },
@@ -441,7 +485,8 @@
         "example": "割合",
         "reading": "わりあい",
         "meaning": {
-          "vi": "rate, ratio, percentage, proportion, comparatively, contrary to expectations"
+          "vi": "rate, ratio, percentage, proportion, comparatively, contrary to expectations",
+          "en": "rate, ratio, percentage, proportion, comparatively, contrary to expectations"
         },
         "romaji": "wariai"
       },
@@ -449,7 +494,8 @@
         "example": "学割",
         "reading": "がくわり",
         "meaning": {
-          "en": "student discount"
+          "en": "student discount",
+          "vi": "giảm giá cho học sinh sinh viên"
         },
         "romaji": "gakuwari"
       },
@@ -457,7 +503,8 @@
         "example": "手合割",
         "reading": "てあいわり",
         "meaning": {
-          "vi": "handicap (go, shogi)"
+          "vi": "handicap (go, shogi)",
+          "en": "handicap (go, shogi)"
         },
         "romaji": "teaiwari"
       },
@@ -465,7 +512,8 @@
         "example": "割れる",
         "reading": "われる",
         "meaning": {
-          "vi": "to break, to be smashed, to split, to crack, to fissure, to be torn, to be divided (opinion, vote, etc.), to split (e.g. of a party), to come to light, to become clear, to be identified, to be revealed, to become distorted (of sound), to clip, to be divisible (without a remainder), to drop below a minimum"
+          "vi": "to break, to be smashed, to split, to crack, to fissure, to be torn, to be divided (opinion, vote, etc.), to split (e.g. of a party), to come to light, to become clear, to be identified, to be revealed, to become distorted (of sound), to clip, to be divisible (without a remainder), to drop below a minimum",
+          "en": "to break, to be smashed, to split, to crack, to fissure, to be torn, to be divided (opinion, vote, etc.), to split (e.g. of a party), to come to light, to become clear, to be identified, to be revealed, to become distorted (of sound), to clip, to be divisible (without a remainder), to drop below a minimum"
         },
         "romaji": "wareru"
       },
@@ -473,7 +521,8 @@
         "example": "裂く",
         "reading": "さく",
         "meaning": {
-          "vi": "to tear, to rip up, to cut up, to cleave, to cut open (esp. the abdomen), to forcibly separate (e.g. two lovers), to spare (time, money, etc.), to use part of something, to have a tattoo in the corner of one's eye"
+          "vi": "to tear, to rip up, to cut up, to cleave, to cut open (esp. the abdomen), to forcibly separate (e.g. two lovers), to spare (time, money, etc.), to use part of something, to have a tattoo in the corner of one's eye",
+          "en": "to tear, to rip up, to cut up, to cleave, to cut open (esp. the abdomen), to forcibly separate (e.g. two lovers), to spare (time, money, etc.), to use part of something, to have a tattoo in the corner of one's eye"
         },
         "romaji": "saku"
       }
@@ -483,7 +532,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "二",
@@ -500,5 +552,6 @@
   },
   "hanViet": [
     "cát"
-  ]
+  ],
+  "mnemonic_vi": "Dùng dao chia ra từng phần, nên nhớ là cắt chia hoặc tỷ lệ."
 }

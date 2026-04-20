@@ -27,10 +27,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <head>
-        <ThemeScript />
-      </head>
       <body className={`${roboto.variable} antialiased`} suppressHydrationWarning>
+        <ThemeScript />
         <Providers>{children}</Providers>
       </body>
     </html>

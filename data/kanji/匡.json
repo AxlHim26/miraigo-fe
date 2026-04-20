@@ -50,5 +50,11 @@
   },
   "hanViet": [
     "khuông"
-  ]
+  ],
+  "meaning": {
+    "en": "correct, save, assist",
+    "vi": "chỉnh cho đúng, cứu giúp, hỗ trợ"
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 匡 như một khung nắn lại vật lệch, nên mang nghĩa sửa đúng và giúp đỡ."
 }

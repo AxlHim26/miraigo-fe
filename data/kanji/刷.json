@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "su, suru",
-    "meaning": "print",
+    "meaning": {
+      "en": "print",
+      "vi": "in"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "刷新する（さっしんする）",
         "meaning": {
-          "english": "reform, renovate"
+          "english": "reform, renovate",
+          "en": "reform, renovate",
+          "vi": "reform, renovate"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "印刷する（いんさつする）",
         "meaning": {
-          "english": "print"
+          "english": "print",
+          "en": "print",
+          "vi": "in"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "縮刷する（しゅくさつする）",
         "meaning": {
-          "english": "print in reduced size"
+          "english": "print in reduced size",
+          "en": "print in reduced size",
+          "vi": "print in reduced size"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "増刷する（ぞうさつする）",
         "meaning": {
-          "english": "reprint"
+          "english": "reprint",
+          "en": "reprint",
+          "vi": "reprint"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "刷る（する）",
         "meaning": {
-          "english": "print [v.t.]"
+          "english": "print [v.t.]",
+          "en": "print [v.t.]",
+          "vi": "print [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(in)satsu_06_e.opus",
@@ -156,7 +169,9 @@
     "kanji": {
       "character": "刷",
       "meaning": {
-        "english": "print"
+        "english": "print",
+        "en": "print",
+        "vi": "in"
       },
       "strokes": {
         "count": 8,
@@ -210,7 +225,9 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiem"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -231,7 +248,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1352",
     "strokeCount": 8,
-    "meaning": "printing, print, brush",
+    "meaning": {
+      "en": "printing, print, brush",
+      "vi": "in an, ban in, quet"
+    },
     "kunyomi": [
       "す.る",
       "-ず.り",
@@ -246,7 +266,8 @@
         "example": "刷",
         "reading": "サツ",
         "meaning": {
-          "vi": "printing, impression, issue"
+          "vi": "printing, impression, issue",
+          "en": "printing, impression, issue"
         },
         "romaji": "satsu"
       },
@@ -254,7 +275,8 @@
         "example": "刷数",
         "reading": "サツスウ",
         "meaning": {
-          "vi": "number (of books) printed"
+          "vi": "number (of books) printed",
+          "en": "number (of books) printed"
         },
         "romaji": "satsusuu"
       },
@@ -262,7 +284,8 @@
         "example": "凸版印刷",
         "reading": "トッパンインサツ",
         "meaning": {
-          "vi": "letterpress, relief printing"
+          "vi": "letterpress, relief printing",
+          "en": "letterpress, relief printing"
         },
         "romaji": "toppan'insatsu"
       },
@@ -270,7 +293,8 @@
         "example": "増刷",
         "reading": "ゾウサツ",
         "meaning": {
-          "vi": "additional printing (esp. of books, etc.), additional run"
+          "vi": "additional printing (esp. of books, etc.), additional run",
+          "en": "additional printing (esp. of books, etc.), additional run"
         },
         "romaji": "zousatsu"
       }
@@ -280,7 +304,8 @@
         "example": "刷る",
         "reading": "する",
         "meaning": {
-          "vi": "to print, to color or pattern fabric using a wooden mold"
+          "vi": "to print, to color or pattern fabric using a wooden mold",
+          "en": "to print, to color or pattern fabric using a wooden mold"
         },
         "romaji": "suru"
       },
@@ -288,7 +313,8 @@
         "example": "刷く",
         "reading": "はく",
         "meaning": {
-          "vi": "to daub, to brush, to touch up"
+          "vi": "to daub, to brush, to touch up",
+          "en": "to daub, to brush, to touch up"
         },
         "romaji": "haku"
       }
@@ -298,7 +324,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiem"
+      }
     },
     "parts": [
       "刈",
@@ -310,8 +339,10 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5237.gif",
     "uri": "https://jisho.org/search/%E5%88%B7%23kanji"
   },
+  "jlpt": "N2",
   "hanViet": [
     "loát",
     "xoát"
-  ]
+  ],
+  "mnemonic_vi": "Goi y cach nho: Tam vai va dao 刂 quet mot luot la in ra, do la 刷."
 }

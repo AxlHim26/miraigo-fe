@@ -7,14 +7,19 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "te, ta",
-    "meaning": "tay",
+    "meaning": {
+      "en": "hand",
+      "vi": "tay"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "握手する（あくしゅする）",
         "meaning": {
           "english": "shake hands",
-          "vietnamese": "bắt tay"
+          "vietnamese": "bắt tay",
+          "en": "shake hands",
+          "vi": "bắt tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_a.opus",
@@ -27,7 +32,9 @@
         "japanese": "選手（せんしゅ）",
         "meaning": {
           "english": "player (in game)",
-          "vietnamese": "vận động viên, cầu thủ"
+          "vietnamese": "vận động viên, cầu thủ",
+          "en": "player (in game)",
+          "vi": "vận động viên, cầu thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_b.opus",
@@ -40,7 +47,9 @@
         "japanese": "手話（しゅわ）",
         "meaning": {
           "english": "sign language",
-          "vietnamese": "ngôn ngữ ký hiệu"
+          "vietnamese": "ngôn ngữ ký hiệu",
+          "en": "sign language",
+          "vi": "ngôn ngữ ký hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_c.opus",
@@ -53,7 +62,9 @@
         "japanese": "上手な（じょうずな）",
         "meaning": {
           "english": "skillful",
-          "vietnamese": "giỏi, khéo léo"
+          "vietnamese": "giỏi, khéo léo",
+          "en": "skillful",
+          "vi": "giỏi, khéo léo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_d.opus",
@@ -66,7 +77,9 @@
         "japanese": "手紙（てがみ）",
         "meaning": {
           "english": "letter",
-          "vietnamese": "thư"
+          "vietnamese": "thư",
+          "en": "letter",
+          "vi": "thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_e.opus",
@@ -79,7 +92,9 @@
         "japanese": "手帳（てちょう）",
         "meaning": {
           "english": "notebook",
-          "vietnamese": "sổ tay"
+          "vietnamese": "sổ tay",
+          "en": "notebook",
+          "vi": "sổ tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_f.opus",
@@ -92,7 +107,9 @@
         "japanese": "手伝う（てつだう）",
         "meaning": {
           "english": "help",
-          "vietnamese": "giúp đỡ"
+          "vietnamese": "giúp đỡ",
+          "en": "help",
+          "vi": "giúp đỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_g.opus",
@@ -105,7 +122,9 @@
         "japanese": "手前（てまえ）",
         "meaning": {
           "english": "in front of oneself, this side",
-          "vietnamese": "phía trước mình, bên này"
+          "vietnamese": "phía trước mình, bên này",
+          "en": "in front of oneself, this side",
+          "vi": "phía trước mình, bên này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_h.opus",
@@ -118,7 +137,9 @@
         "japanese": "お手洗い（おてあらい）",
         "meaning": {
           "english": "toilet",
-          "vietnamese": "nhà vệ sinh"
+          "vietnamese": "nhà vệ sinh",
+          "en": "toilet",
+          "vi": "nhà vệ sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_i.opus",
@@ -131,7 +152,9 @@
         "japanese": "手綱（たづな）",
         "meaning": {
           "english": "bridle",
-          "vietnamese": "dây cương"
+          "vietnamese": "dây cương",
+          "en": "bridle",
+          "vi": "dây cương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_j.opus",
@@ -144,7 +167,9 @@
         "japanese": "下手な（へたな）",
         "meaning": {
           "english": "unskillful",
-          "vietnamese": "vụng về, kém"
+          "vietnamese": "vụng về, kém",
+          "en": "unskillful",
+          "vi": "vụng về, kém"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/te_06_k.opus",
@@ -306,7 +331,9 @@
       "character": "手",
       "meaning": {
         "english": "hand",
-        "vietnamese": "tay"
+        "vietnamese": "tay",
+        "en": "hand",
+        "vi": "tay"
       },
       "strokes": {
         "count": 4,
@@ -353,7 +380,9 @@
       },
       "meaning": {
         "english": "hand",
-        "vietnamese": "tay"
+        "vietnamese": "tay",
+        "en": "hand",
+        "vi": "tay"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/te0.svg",
@@ -374,7 +403,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "60",
     "strokeCount": 4,
-    "meaning": "tay",
+    "meaning": {
+      "en": "hand",
+      "vi": "tay"
+    },
     "kunyomi": [
       "て",
       "て-",
@@ -390,7 +422,8 @@
         "example": "手術",
         "reading": "シュジュツ",
         "meaning": {
-          "vi": "phẫu thuật, ca mổ, kỹ năng tay, ảo thuật"
+          "vi": "phẫu thuật, ca mổ, kỹ năng tay, ảo thuật",
+          "en": "phẫu thuật, ca mổ, kỹ năng tay, ảo thuật"
         },
         "romaji": "shujutsu"
       },
@@ -398,7 +431,8 @@
         "example": "手記",
         "reading": "シュキ",
         "meaning": {
-          "vi": "ghi chú, bản ghi nhớ, hồi ký, tự truyện"
+          "vi": "ghi chú, bản ghi nhớ, hồi ký, tự truyện",
+          "en": "ghi chú, bản ghi nhớ, hồi ký, tự truyện"
         },
         "romaji": "shuki"
       },
@@ -406,7 +440,8 @@
         "example": "二塁手",
         "reading": "ニルイシュ",
         "meaning": {
-          "vi": "cầu thủ chốt hai"
+          "vi": "cầu thủ chốt hai",
+          "en": "cầu thủ chốt hai"
         },
         "romaji": "niruishu"
       },
@@ -414,7 +449,8 @@
         "example": "名手",
         "reading": "メイシュ",
         "meaning": {
-          "vi": "bậc thầy, chuyên gia, nước đi xuất sắc (trong cờ vây, shogi)"
+          "vi": "bậc thầy, chuyên gia, nước đi xuất sắc (trong cờ vây, shogi)",
+          "en": "bậc thầy, chuyên gia, nước đi xuất sắc (trong cờ vây, shogi)"
         },
         "romaji": "meishu"
       },
@@ -422,7 +458,8 @@
         "example": "交際上手",
         "reading": "コウサイジョウズ",
         "meaning": {
-          "vi": "giỏi giao tiếp xã hội, khả năng xã giao"
+          "vi": "giỏi giao tiếp xã hội, khả năng xã giao",
+          "en": "giỏi giao tiếp xã hội, khả năng xã giao"
         },
         "romaji": "kousaijouzu"
       },
@@ -430,7 +467,8 @@
         "example": "処世上手",
         "reading": "ショセイジョウズ",
         "meaning": {
-          "vi": "biết cách xử thế, biết bí quyết thành công trong cuộc sống"
+          "vi": "biết cách xử thế, biết bí quyết thành công trong cuộc sống",
+          "en": "biết cách xử thế, biết bí quyết thành công trong cuộc sống"
         },
         "romaji": "shoseijouzu"
       }
@@ -440,7 +478,8 @@
         "example": "手",
         "reading": "て",
         "meaning": {
-          "vi": "tay, cánh tay, chân trước, tay cầm, người làm, sự giúp đỡ, phiền phức, cách, mẹo, nước đi, kỹ thuật, chữ viết tay, loại, sở hữu, khả năng xử lý, quân bài, hướng, nước cờ (trong cờ vây, shogi)"
+          "vi": "tay, cánh tay, chân trước, tay cầm, người làm, sự giúp đỡ, phiền phức, cách, mẹo, nước đi, kỹ thuật, chữ viết tay, loại, sở hữu, khả năng xử lý, quân bài, hướng, nước cờ (trong cờ vây, shogi)",
+          "en": "tay, cánh tay, chân trước, tay cầm, người làm, sự giúp đỡ, phiền phức, cách, mẹo, nước đi, kỹ thuật, chữ viết tay, loại, sở hữu, khả năng xử lý, quân bài, hướng, nước cờ (trong cờ vây, shogi)"
         },
         "romaji": "te"
       },
@@ -448,7 +487,8 @@
         "example": "手足",
         "reading": "てあし",
         "meaning": {
-          "vi": "tay chân, tứ chi, người sai vặt, người đáng tin cậy"
+          "vi": "tay chân, tứ chi, người sai vặt, người đáng tin cậy",
+          "en": "tay chân, tứ chi, người sai vặt, người đáng tin cậy"
         },
         "romaji": "teashi"
       },
@@ -456,7 +496,8 @@
         "example": "逆手",
         "reading": "さかて",
         "meaning": {
-          "vi": "cầm ngược (trong thể dục), cầm chéo tay (trong golf), dùng tay ngược, cầm kiếm ngược, xoay chuyển tình thế, khóa tay ngược (trong judo), mẹo gian"
+          "vi": "cầm ngược (trong thể dục), cầm chéo tay (trong golf), dùng tay ngược, cầm kiếm ngược, xoay chuyển tình thế, khóa tay ngược (trong judo), mẹo gian",
+          "en": "cầm ngược (trong thể dục), cầm chéo tay (trong golf), dùng tay ngược, cầm kiếm ngược, xoay chuyển tình thế, khóa tay ngược (trong judo), mẹo gian"
         },
         "romaji": "sakate"
       },
@@ -464,7 +505,8 @@
         "example": "担い手",
         "reading": "にないて",
         "meaning": {
-          "vi": "người gánh vác, người chịu trách nhiệm, người phụ trách, người ủng hộ"
+          "vi": "người gánh vác, người chịu trách nhiệm, người phụ trách, người ủng hộ",
+          "en": "người gánh vác, người chịu trách nhiệm, người phụ trách, người ủng hộ"
         },
         "romaji": "ninaite"
       }
@@ -474,7 +516,10 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "tay"
+      "meaning": {
+        "en": "hand",
+        "vi": "tay"
+      }
     },
     "parts": [
       "手"
@@ -486,5 +531,7 @@
   },
   "hanViet": [
     "thủ"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: các nét xòe ra như bàn tay và những ngón tay."
 }

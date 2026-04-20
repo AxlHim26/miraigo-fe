@@ -16,6 +16,7 @@ import * as wanakana from "wanakana";
 
 import KanjiStrokeOrder from "@/features/kanji/components/kanji-stroke-order";
 import type { KanjiInfo, KanjiSummary } from "@/features/kanji/types/kanji-info";
+import { getMeaningText } from "@/features/kanji/utils/meaning";
 import { cn } from "@/shared/utils/cn";
 
 type KanjiDetailDialogProps = {
@@ -50,10 +51,7 @@ export default function KanjiDetailDialog({
     kanjiInfo?.kanjialiveData?.meaning ||
     kanjiInfo?.jishoData?.meaning ||
     "";
-  const meaning =
-    typeof rawMeaning === "string"
-      ? rawMeaning
-      : rawMeaning[lang] || rawMeaning["en"] || rawMeaning["vi"] || "";
+  const meaning = getMeaningText(rawMeaning, lang);
   const onyomi =
     kanjiInfo?.kanjialiveData?.onyomi_ja ||
     (kanjiInfo?.jishoData?.onyomi ?? []).join("、") ||

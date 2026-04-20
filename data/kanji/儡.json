@@ -5,7 +5,10 @@
     "query": "儡",
     "found": true,
     "strokeCount": 17,
-    "meaning": "defeat",
+    "meaning": {
+      "en": "defeat",
+      "vi": "đánh bại"
+    },
     "kunyomi": [],
     "onyomi": [
       "ライ"
@@ -15,7 +18,8 @@
         "example": "傀儡",
         "reading": "カイライ",
         "meaning": {
-          "vi": "puppet, marionette, dummy, puppeteer, prostitute"
+          "en": "puppet, marionette, dummy, puppeteer, prostitute",
+          "vi": "con rối, bù nhìn, người điều khiển rối, gái mại dâm"
         },
         "romaji": "kairai"
       }
@@ -26,7 +30,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ke",
-    "meaning": "hair, fur, feather, down",
+    "meaning": {
+      "en": "hair, fur, feather, down",
+      "vi": "tóc, lông, lông vũ, lông tơ"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "毛布（もうふ）",
         "meaning": {
-          "english": "blanket"
+          "english": "blanket",
+          "en": "blanket",
+          "vi": "blanket"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "毛筆（もうひつ）",
         "meaning": {
-          "english": "(writing) brush"
+          "english": "(writing) brush",
+          "en": "(writing) brush",
+          "vi": "(writing) brush"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "羽毛（うもう）",
         "meaning": {
-          "english": "feathers, plumage, down,"
+          "english": "feathers, plumage, down,",
+          "en": "feathers, plumage, down,",
+          "vi": "feathers, plumage, down,"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "羊毛（ようもう）",
         "meaning": {
-          "english": "wool,"
+          "english": "wool,",
+          "en": "wool,",
+          "vi": "wool,"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "純毛（じゅんもう）",
         "meaning": {
-          "english": "100 % wool"
+          "english": "100 % wool",
+          "en": "100 % wool",
+          "vi": "100 % wool"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "不毛（ふもう）",
         "meaning": {
-          "english": "sterile, barren, unproductive [n.]"
+          "english": "sterile, barren, unproductive [n.]",
+          "en": "sterile, barren, unproductive [n.]",
+          "vi": "sterile, barren, unproductive [n.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "毛（け）",
         "meaning": {
-          "english": "hair, fur"
+          "english": "hair, fur",
+          "en": "hair, fur",
+          "vi": "hair, fur"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "毛糸（けいと）",
         "meaning": {
-          "english": "knitting wool"
+          "english": "knitting wool",
+          "en": "knitting wool",
+          "vi": "knitting wool"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "髪の毛（かみのけ）",
         "meaning": {
-          "english": "hair (on the head)"
+          "english": "hair (on the head)",
+          "en": "hair (on the head)",
+          "vi": "hair (on the head)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "鼻毛（はなげ）",
         "meaning": {
-          "english": "nose hair"
+          "english": "nose hair",
+          "en": "nose hair",
+          "vi": "nose hair"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "赤毛（あかげ）",
         "meaning": {
-          "english": "red hair"
+          "english": "red hair",
+          "en": "red hair",
+          "vi": "red hair"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mou(fu)_06_k.opus",
@@ -236,7 +261,9 @@
     "kanji": {
       "character": "毛",
       "meaning": {
-        "english": "hair, fur, feather, down"
+        "english": "hair, fur, feather, down",
+        "en": "hair, fur, feather, down",
+        "vi": "tóc, lông, lông vũ, lông tơ"
       },
       "strokes": {
         "count": 4,
@@ -282,7 +309,9 @@
         "romaji": "ke"
       },
       "meaning": {
-        "english": "hair"
+        "english": "hair",
+        "en": "hair",
+        "vi": "hair"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ke0.svg",
@@ -303,7 +332,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1179",
     "strokeCount": 4,
-    "meaning": "fur, hair, feather, down",
+    "meaning": {
+      "en": "fur, hair, feather, down",
+      "vi": "lông, tóc, lông vũ, lông tơ"
+    },
     "kunyomi": [
       "け"
     ],
@@ -315,7 +347,8 @@
         "example": "毛",
         "reading": "モウ",
         "meaning": {
-          "vi": "one-thousandth, 0.03 mm (one-thousandth of a sun), 0.01 percent (one-thousandth of a wari), 3.75 milligrams (one-thousandth of a monme), old monetary unit (0.0001 yen)"
+          "vi": "one-thousandth, 0.03 mm (one-thousandth of a sun), 0.01 percent (one-thousandth of a wari), 3.75 milligrams (one-thousandth of a monme), old monetary unit (0.0001 yen)",
+          "en": "one-thousandth, 0.03 mm (one-thousandth of a sun), 0.01 percent (one-thousandth of a wari), 3.75 milligrams (one-thousandth of a monme), old monetary unit (0.0001 yen)"
         },
         "romaji": "mou"
       },
@@ -323,7 +356,8 @@
         "example": "毛皮",
         "reading": "ケガワ",
         "meaning": {
-          "vi": "fur, skin, pelt, kanji \"fur\" radical"
+          "vi": "fur, skin, pelt, kanji \"fur\" radical",
+          "en": "fur, skin, pelt, kanji \"fur\" radical"
         },
         "romaji": "kegawa"
       },
@@ -331,7 +365,8 @@
         "example": "不毛",
         "reading": "フモウ",
         "meaning": {
-          "vi": "barren, sterile, infertile, unproductive (e.g. discussion), fruitless"
+          "vi": "barren, sterile, infertile, unproductive (e.g. discussion), fruitless",
+          "en": "barren, sterile, infertile, unproductive (e.g. discussion), fruitless"
         },
         "romaji": "fumou"
       },
@@ -339,7 +374,8 @@
         "example": "再生毛",
         "reading": "サイセイモウ",
         "meaning": {
-          "en": "recycled wool, reclaimed wool"
+          "en": "recycled wool, reclaimed wool",
+          "vi": "recycled wool, reclaimed wool"
         },
         "romaji": "saiseimou"
       }
@@ -349,7 +385,8 @@
         "example": "毛",
         "reading": "け",
         "meaning": {
-          "vi": "hair, fur, wool, down, plumage, feathers"
+          "vi": "hair, fur, wool, down, plumage, feathers",
+          "en": "hair, fur, wool, down, plumage, feathers"
         },
         "romaji": "ke"
       },
@@ -357,7 +394,8 @@
         "example": "毛皮",
         "reading": "けがわ",
         "meaning": {
-          "vi": "fur, skin, pelt, kanji \"fur\" radical"
+          "vi": "fur, skin, pelt, kanji \"fur\" radical",
+          "en": "fur, skin, pelt, kanji \"fur\" radical"
         },
         "romaji": "kegawa"
       },
@@ -365,7 +403,8 @@
         "example": "お毛毛",
         "reading": "おけけ",
         "meaning": {
-          "vi": "pubic hair"
+          "vi": "pubic hair",
+          "en": "pubic hair"
         },
         "romaji": "okeke"
       },
@@ -373,14 +412,18 @@
         "example": "猫っ毛",
         "reading": "ねこっけ",
         "meaning": {
-          "en": "fine, soft hair"
+          "en": "fine, soft hair",
+          "vi": "fine, soft hair"
         },
         "romaji": "nekokke"
       }
     ],
     "radical": {
       "symbol": "毛",
-      "meaning": "fur, hair"
+      "meaning": {
+        "en": "fur, hair",
+        "vi": "lông, tóc"
+      }
     },
     "parts": [
       "毛"
@@ -393,5 +436,7 @@
   "hanViet": [
     "mao",
     "mô"
-  ]
+  ],
+  "jlpt_level": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: 毛 có nhiều nét nhỏ chĩa ra như sợi lông đang xù lên."
 }

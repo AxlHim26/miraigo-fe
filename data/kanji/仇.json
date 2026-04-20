@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2322",
     "strokeCount": 4,
-    "meaning": "foe, enemy, revenge, grudge, feud",
+    "meaning": {
+      "en": "foe, enemy, revenge, grudge, feud",
+      "vi": "kẻ thù, địch thủ, sự trả thù, mối hận, hiềm khích"
+    },
     "kunyomi": [
       "あだ",
       "あた",
@@ -22,7 +25,8 @@
         "example": "仇讎",
         "reading": "キュウシュウ",
         "meaning": {
-          "en": "revenge, bitter enemy"
+          "en": "revenge, bitter enemy",
+          "vi": "sự trả thù, kẻ thù cay nghiệt"
         },
         "romaji": "kyuushuu"
       },
@@ -30,7 +34,8 @@
         "example": "仇敵",
         "reading": "キュウテキ",
         "meaning": {
-          "en": "bitter enemy"
+          "en": "bitter enemy",
+          "vi": "kẻ thù cay nghiệt"
         },
         "romaji": "kyuuteki"
       },
@@ -38,7 +43,8 @@
         "example": "報仇",
         "reading": "ホウキュウ",
         "meaning": {
-          "en": "retaliation, revenge"
+          "en": "retaliation, revenge",
+          "vi": "sự trả đũa, trả thù"
         },
         "romaji": "houkyuu"
       },
@@ -46,6 +52,7 @@
         "example": "復仇",
         "reading": "フッキュウ",
         "meaning": {
+          "en": "reprisal, revenge",
           "vi": "reprisal, revenge"
         },
         "romaji": "fukkyuu"
@@ -56,7 +63,8 @@
         "example": "仇",
         "reading": "あだ",
         "meaning": {
-          "en": "foe, enemy, rival, resentment, enmity, grudge, harm, injury"
+          "en": "foe, enemy, rival, resentment, enmity, grudge, harm, injury",
+          "vi": "kẻ thù, địch thủ, đối thủ, sự oán giận, thù địch, mối hận, tổn hại, thương tổn"
         },
         "romaji": "ada"
       },
@@ -64,7 +72,8 @@
         "example": "あだ名",
         "reading": "あだな",
         "meaning": {
-          "en": "nickname"
+          "en": "nickname",
+          "vi": "biệt danh"
         },
         "romaji": "adana"
       },
@@ -72,6 +81,7 @@
         "example": "情けが仇",
         "reading": "なさけがあだ",
         "meaning": {
+          "en": "Pardon makes offenders",
           "vi": "Pardon makes offenders"
         },
         "romaji": "nasakegaada"
@@ -80,7 +90,8 @@
         "example": "仇",
         "reading": "あだ",
         "meaning": {
-          "en": "foe, enemy, rival, resentment, enmity, grudge, harm, injury"
+          "en": "foe, enemy, rival, resentment, enmity, grudge, harm, injury",
+          "vi": "kẻ thù, địch thủ, đối thủ, sự oán giận, thù địch, mối hận, tổn hại, thương tổn"
         },
         "romaji": "ada"
       },
@@ -88,6 +99,7 @@
         "example": "仇する",
         "reading": "あだする",
         "meaning": {
+          "en": "to harm, to injure, to damage, to invade, to raid, to oppose, to rise against",
           "vi": "to harm, to injure, to damage, to invade, to raid, to oppose, to rise against"
         },
         "romaji": "adasuru"
@@ -96,6 +108,7 @@
         "example": "敵",
         "reading": "かたき",
         "meaning": {
+          "en": "rival, opponent, adversary, competitor, enemy (esp. one with which there is longstanding enmity), foe, revenge, spouse",
           "vi": "rival, opponent, adversary, competitor, enemy (esp. one with which there is longstanding enmity), foe, revenge, spouse"
         },
         "romaji": "kataki"
@@ -104,7 +117,8 @@
         "example": "敵討ち",
         "reading": "かたきうち",
         "meaning": {
-          "en": "vengeance, revenge, retaliation"
+          "en": "vengeance, revenge, retaliation",
+          "vi": "sự báo thù, trả thù, trả đũa"
         },
         "romaji": "katakiuchi"
       }
@@ -114,7 +128,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "九",

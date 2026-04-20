@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "2258",
     "strokeCount": 10,
-    "meaning": "approach, draw near, push open",
+    "meaning": {
+      "en": "approach, draw near, push open",
+      "vi": "tiếp cận, lại gần, đẩy mở"
+    },
     "kunyomi": [
       "ひら.く"
     ],
@@ -19,6 +22,7 @@
         "example": "挨拶",
         "reading": "アイサツ",
         "meaning": {
+          "en": "greeting, greetings, salutation, salute, polite set phrase used when meeting or parting from someone, speech (congratulatory or appreciative), address, reply, response, courtesy visit (to offer condolences, say congratulations, pay respect, introduce oneself, etc.), revenge, retaliation, a fine thing to say, dialoging (with another Zen practitioner to ascertain their level of enlightenment), relationship (between people), connection, intervention, mediation, mediator",
           "vi": "greeting, greetings, salutation, salute, polite set phrase used when meeting or parting from someone, speech (congratulatory or appreciative), address, reply, response, courtesy visit (to offer condolences, say congratulations, pay respect, introduce oneself, etc.), revenge, retaliation, a fine thing to say, dialoging (with another Zen practitioner to ascertain their level of enlightenment), relationship (between people), connection, intervention, mediation, mediator"
         },
         "romaji": "aisatsu"
@@ -27,6 +31,7 @@
         "example": "挨拶代わり",
         "reading": "アイサツガワリ",
         "meaning": {
+          "en": "substitute for a proper greeting (e.g. gift)",
           "vi": "substitute for a proper greeting (e.g. gift)"
         },
         "romaji": "aisatsugawari"
@@ -38,7 +43,10 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": {
+        "en": "hand",
+        "vi": "tay"
+      }
     },
     "parts": [
       "乞",

@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2466",
     "strokeCount": 11,
-    "meaning": "together",
+    "meaning": {
+      "en": "together",
+      "vi": "cùng nhau"
+    },
     "kunyomi": [
       "ともに"
     ],
@@ -18,7 +21,8 @@
         "example": "偕成",
         "reading": "カイセイ",
         "meaning": {
-          "vi": "Kaisei (publisher)"
+          "vi": "Kaisei (publisher)",
+          "en": "Kaisei (publisher)"
         },
         "romaji": "kaisei"
       },
@@ -26,7 +30,8 @@
         "example": "偕楽",
         "reading": "カイラク",
         "meaning": {
-          "en": "enjoying oneself with others"
+          "en": "enjoying oneself with others",
+          "vi": "vui chơi cùng người khác"
         },
         "romaji": "kairaku"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

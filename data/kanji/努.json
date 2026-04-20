@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tsuto, tsutomeru, tsutomete",
-    "meaning": "exert, make efforts, strive",
+    "meaning": {
+      "en": "exert, make efforts, strive",
+      "vi": "no luc, co gang, phan dau"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "努力家（どりょくか）",
         "meaning": {
-          "english": "hard worker"
+          "english": "hard worker",
+          "en": "hard worker",
+          "vi": "hard worker"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "努力賞（どりょくしょう）",
         "meaning": {
-          "english": "awarded for a person's effort"
+          "english": "awarded for a person's effort",
+          "en": "awarded for a person's effort",
+          "vi": "awarded for a person's effort"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "努力する（どりょくする）",
         "meaning": {
-          "english": "exert oneself, strive"
+          "english": "exert oneself, strive",
+          "en": "exert oneself, strive",
+          "vi": "exert oneself, strive"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "努める（つとめる）",
         "meaning": {
-          "english": "work, strive, exert oneself"
+          "english": "work, strive, exert oneself",
+          "en": "work, strive, exert oneself",
+          "vi": "work, strive, exert oneself"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/do-tsuto(meru)_06_d.opus",
@@ -153,7 +164,9 @@
     "kanji": {
       "character": "努",
       "meaning": {
-        "english": "exert, make efforts, strive"
+        "english": "exert, make efforts, strive",
+        "en": "exert, make efforts, strive",
+        "vi": "no luc, co gang, phan dau"
       },
       "strokes": {
         "count": 7,
@@ -205,7 +218,9 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power",
+        "en": "power",
+        "vi": "power"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -226,7 +241,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "749",
     "strokeCount": 7,
-    "meaning": "toil, diligent, as much as possible",
+    "meaning": {
+      "en": "toil, diligent, as much as possible",
+      "vi": "lao luc, cham chi, het suc co the"
+    },
     "kunyomi": [
       "つと.める"
     ],
@@ -238,7 +256,8 @@
         "example": "努",
         "reading": "ド",
         "meaning": {
-          "vi": "third principle of the Eight Principles of Yong, downward stroke"
+          "vi": "third principle of the Eight Principles of Yong, downward stroke",
+          "en": "third principle of the Eight Principles of Yong, downward stroke"
         },
         "romaji": "do"
       },
@@ -246,7 +265,8 @@
         "example": "努力",
         "reading": "ドリョク",
         "meaning": {
-          "en": "effort, exertion, endeavour, endeavor, hard work, striving"
+          "en": "effort, exertion, endeavour, endeavor, hard work, striving",
+          "vi": "effort, exertion, endeavour, endeavor, hard work, striving"
         },
         "romaji": "doryoku"
       }
@@ -256,14 +276,18 @@
         "example": "努める",
         "reading": "つとめる",
         "meaning": {
-          "en": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing)"
+          "en": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing)",
+          "vi": "co gang, no luc, lam viec cham chi, phan dau, tan tam"
         },
         "romaji": "tsutomeru"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "suc manh, luc"
+      }
     },
     "parts": [
       "力",
@@ -275,7 +299,9 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52aa.gif",
     "uri": "https://jisho.org/search/%E5%8A%AA%23kanji"
   },
+  "jlpt": "N3",
   "hanViet": [
     "nỗ"
-  ]
+  ],
+  "mnemonic_vi": "Goi y cach nho: Co no luc dung suc 力 de co gang la 努."
 }

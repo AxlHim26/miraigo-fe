@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "jlptLevel": "N1",
     "strokeCount": 6,
-    "meaning": "deed, skill",
+    "meaning": {
+      "en": "deed, skill",
+      "vi": "hành vi, kỹ năng"
+    },
     "kunyomi": [
       "わざ",
       "わざおぎ"
@@ -21,7 +24,8 @@
         "example": "技",
         "reading": "ワザ",
         "meaning": {
-          "en": "technique, art, skill, move"
+          "en": "technique, art, skill, move",
+          "vi": "kỹ thuật, nghệ thuật, kỹ năng, ngón nghề"
         },
         "romaji": "waza"
       },
@@ -29,7 +33,8 @@
         "example": "技能",
         "reading": "ギノウ",
         "meaning": {
-          "vi": "technical skill, ability, capacity"
+          "vi": "technical skill, ability, capacity",
+          "en": "kỹ năng chuyên môn, năng lực, khả năng"
         },
         "romaji": "ginou"
       },
@@ -37,7 +42,8 @@
         "example": "雑技",
         "reading": "ザツギ",
         "meaning": {
-          "vi": "performing arts, acrobatics"
+          "vi": "performing arts, acrobatics",
+          "en": "nghệ thuật biểu diễn, nhào lộn"
         },
         "romaji": "zatsugi"
       },
@@ -45,7 +51,8 @@
         "example": "地歌舞伎",
         "reading": "ジカブキ",
         "meaning": {
-          "vi": "amateur kabuki performed at local festivals"
+          "vi": "amateur kabuki performed at local festivals",
+          "en": "kabuki nghiệp dư biểu diễn tại lễ hội địa phương"
         },
         "romaji": "jikabuki"
       },
@@ -53,7 +60,8 @@
         "example": "上方歌舞伎",
         "reading": "カミガタカブキ",
         "meaning": {
-          "en": "kabuki in the Kyoto-Osaka style"
+          "en": "kabuki in the Kyoto-Osaka style",
+          "vi": "kabuki theo phong cách Kyoto-Osaka"
         },
         "romaji": "kamigatakabuki"
       }
@@ -63,7 +71,8 @@
         "example": "技",
         "reading": "わざ",
         "meaning": {
-          "en": "technique, art, skill, move"
+          "en": "technique, art, skill, move",
+          "vi": "kỹ thuật, nghệ thuật, kỹ năng, ngón nghề"
         },
         "romaji": "waza"
       }
@@ -73,7 +82,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

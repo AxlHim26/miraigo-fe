@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "take",
-    "meaning": "bamboo",
+    "meaning": {
+      "en": "bamboo",
+      "vi": "tre"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "竹林（ちくりん）",
         "meaning": {
-          "english": "bamboo thicket"
+          "english": "bamboo thicket",
+          "en": "bamboo thicket",
+          "vi": "bụi tre"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chiku-take_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "竹馬の友（ちくばのとも）",
         "meaning": {
-          "english": "childhood friend"
+          "english": "childhood friend",
+          "en": "childhood friend",
+          "vi": "bạn thuở nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chiku-take_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "竹（たけ）",
         "meaning": {
-          "english": "bamboo"
+          "english": "bamboo",
+          "en": "bamboo",
+          "vi": "tre"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chiku-take_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "竹の子（たけのこ）",
         "meaning": {
-          "english": "bamboo shoot"
+          "english": "bamboo shoot",
+          "en": "bamboo shoot",
+          "vi": "măng tre"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chiku-take_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "竹馬（たけうま）",
         "meaning": {
-          "english": "stilts, bamboo horse"
+          "english": "stilts, bamboo horse",
+          "en": "stilts, bamboo horse",
+          "vi": "cà kheo, ngựa tre"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chiku-take_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "竹細工（たけざいく）",
         "meaning": {
-          "english": "bamboo working/crafting"
+          "english": "bamboo working/crafting",
+          "en": "bamboo working/crafting",
+          "vi": "nghề đan lát, chế tác tre"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chiku-take_06_f.opus",
@@ -185,7 +200,9 @@
     "kanji": {
       "character": "竹",
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo",
+        "en": "bamboo",
+        "vi": "tre"
       },
       "strokes": {
         "count": 6,
@@ -235,7 +252,9 @@
         "romaji": "take"
       },
       "meaning": {
-        "english": "bamboo"
+        "english": "bamboo",
+        "en": "bamboo",
+        "vi": "tre"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/take0.svg",
@@ -256,7 +275,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "593",
     "strokeCount": 6,
-    "meaning": "bamboo",
+    "meaning": {
+      "en": "bamboo",
+      "vi": "tre"
+    },
     "kunyomi": [
       "たけ"
     ],
@@ -268,7 +290,8 @@
         "example": "竹馬",
         "reading": "タケウマ",
         "meaning": {
-          "en": "stilts (for walking), hobby horse"
+          "en": "stilts (for walking), hobby horse",
+          "vi": "cà kheo, ngựa tre đồ chơi"
         },
         "romaji": "takeuma"
       },
@@ -276,7 +299,8 @@
         "example": "竹刀",
         "reading": "シナイ",
         "meaning": {
-          "en": "bamboo sword (for kendo), bamboo fencing stick, bamboo sword"
+          "en": "bamboo sword (for kendo), bamboo fencing stick, bamboo sword",
+          "vi": "kiếm tre (dùng trong kendo), gậy đấu kiếm bằng tre, kiếm tre"
         },
         "romaji": "shinai"
       },
@@ -284,7 +308,8 @@
         "example": "爆竹",
         "reading": "バクチク",
         "meaning": {
-          "en": "firecracker"
+          "en": "firecracker",
+          "vi": "pháo nổ"
         },
         "romaji": "bakuchiku"
       },
@@ -292,7 +317,8 @@
         "example": "破竹",
         "reading": "ハチク",
         "meaning": {
-          "en": "breaking bamboo"
+          "en": "breaking bamboo",
+          "vi": "chẻ tre"
         },
         "romaji": "hachiku"
       }
@@ -302,7 +328,8 @@
         "example": "竹",
         "reading": "たけ",
         "meaning": {
-          "en": "bamboo (any grass of subfamily Bambusoideae), middle (of a three-tier ranking system)"
+          "en": "bamboo (any grass of subfamily Bambusoideae), middle (of a three-tier ranking system)",
+          "vi": "tre (mọi loài thuộc phân họ Bambusoideae), hạng giữa (trong hệ ba bậc)"
         },
         "romaji": "take"
       },
@@ -310,7 +337,8 @@
         "example": "竹馬",
         "reading": "たけうま",
         "meaning": {
-          "en": "stilts (for walking), hobby horse"
+          "en": "stilts (for walking), hobby horse",
+          "vi": "cà kheo, ngựa tre đồ chơi"
         },
         "romaji": "takeuma"
       },
@@ -318,7 +346,8 @@
         "example": "笛竹",
         "reading": "ふえたけ",
         "meaning": {
-          "en": "bamboo flute, bamboo for making flutes, wind and string instruments"
+          "en": "bamboo flute, bamboo for making flutes, wind and string instruments",
+          "vi": "sáo tre, tre làm sáo, nhạc cụ hơi và dây"
         },
         "romaji": "fuetake"
       },
@@ -326,7 +355,8 @@
         "example": "苦竹",
         "reading": "にがたけ",
         "meaning": {
-          "vi": "Japanese timber bamboo (Phyllostachys bambusoides), giant timber bamboo, madake, Simon bamboo (Pleioblastus simonii)"
+          "vi": "Japanese timber bamboo (Phyllostachys bambusoides), giant timber bamboo, madake, Simon bamboo (Pleioblastus simonii)",
+          "en": "Japanese timber bamboo (Phyllostachys bambusoides), giant timber bamboo, madake, Simon bamboo (Pleioblastus simonii)"
         },
         "romaji": "nigatake"
       }
@@ -336,7 +366,10 @@
       "forms": [
         "⺮"
       ],
-      "meaning": "bamboo"
+      "meaning": {
+        "en": "bamboo",
+        "vi": "tre"
+      }
     },
     "parts": [
       "乞",
@@ -349,5 +382,7 @@
   },
   "hanViet": [
     "trúc"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: Hai ngọn lá tre ở trên và thân ở dưới, nhìn là nhớ ngay cây tre."
 }

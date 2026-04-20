@@ -5,7 +5,10 @@
     "query": "佝",
     "found": true,
     "strokeCount": 7,
-    "meaning": "foolish, stooped over",
+    "meaning": {
+      "en": "foolish, stooped over",
+      "vi": "ngu ngốc, còng lưng"
+    },
     "kunyomi": [
       "せむし"
     ],
@@ -18,7 +21,8 @@
         "example": "佝僂",
         "reading": "クル",
         "meaning": {
-          "vi": "rickets, person with rickets, hunchback"
+          "en": "rickets, person with rickets, hunchback",
+          "vi": "còi xương, người bị còi xương, người gù"
         },
         "romaji": "kuru"
       },
@@ -26,7 +30,8 @@
         "example": "くる病",
         "reading": "クルビョウ",
         "meaning": {
-          "en": "rickets, rachitis"
+          "en": "rickets, rachitis",
+          "vi": "bệnh còi xương"
         },
         "romaji": "kurubyou"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "勹",

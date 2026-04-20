@@ -4,8 +4,12 @@
   "jishoData": {
     "query": "凛",
     "found": true,
+    "jlptLevel": null,
     "strokeCount": 15,
-    "meaning": "cold, strict, severe",
+    "meaning": {
+      "en": "cold, strict, severe",
+      "vi": "lạnh lùng, nghiêm khắc, nghiêm nghị"
+    },
     "kunyomi": [
       "きびし.い"
     ],
@@ -17,7 +21,8 @@
         "example": "凛",
         "reading": "リン",
         "meaning": {
-          "vi": "cold, frigid, bracing, dignified, distinguished, refined, elegant, (of an atmosphere) tense, nerve-racking, (of voice, sound, etc) clear, ringing"
+          "vi": "lạnh, giá buốt, nghiêm nghị, đường hoàng, cao quý, thanh nhã, căng thẳng, vang rõ",
+          "en": "cold, frigid, bracing, dignified, distinguished, refined, elegant, (of an atmosphere) tense, nerve-racking, (of voice, sound, etc) clear, ringing"
         },
         "romaji": "rin"
       },
@@ -25,7 +30,8 @@
         "example": "凛乎",
         "reading": "リンコ",
         "meaning": {
-          "vi": "commanding, awe-inspiring"
+          "vi": "oai nghiêm, khiến người khác kính sợ",
+          "en": "commanding, awe-inspiring"
         },
         "romaji": "rinko"
       },
@@ -33,7 +39,8 @@
         "example": "凛々",
         "reading": "リンリン",
         "meaning": {
-          "vi": "severe, intense, awe-inspiring, commanding, biting, bitter (cold), piercing, frigid"
+          "vi": "dữ dội, mãnh liệt, oai nghiêm, rét cắt da, buốt giá",
+          "en": "severe, intense, awe-inspiring, commanding, biting, bitter (cold), piercing, frigid"
         },
         "romaji": "rinrin"
       },
@@ -41,7 +48,8 @@
         "example": "威風凛々",
         "reading": "イフウリンリン",
         "meaning": {
-          "vi": "awe-inspiring, majestic, commanding, stately, with an imposing air, in a stately (dignified) manner"
+          "vi": "oai phong, uy nghi, đường bệ, đầy khí thế",
+          "en": "awe-inspiring, majestic, commanding, stately, with an imposing air, in a stately (dignified) manner"
         },
         "romaji": "ifuurinrin"
       }
@@ -49,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "二",
@@ -67,5 +78,6 @@
   },
   "hanViet": [
     "lẫm"
-  ]
+  ],
+  "mnemonic_vi": "Nhiều nét bao kín với bộ băng 冫 ở trái, gợi khí lạnh nghiêm nghị và dáng vẻ lẫm liệt."
 }

@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2181",
     "strokeCount": 12,
-    "meaning": "respect, revere, long for",
+    "meaning": {
+      "en": "respect, revere, long for",
+      "vi": "kính trọng, tôn sùng, khao khát"
+    },
     "kunyomi": [
       "つつし.む"
     ],
@@ -20,7 +23,8 @@
         "example": "欽仰",
         "reading": "キンギョウ",
         "meaning": {
-          "en": "reverence, adoration, veneration"
+          "en": "reverence, adoration, veneration",
+          "vi": "sự tôn kính, sự sùng mộ, sự tôn sùng"
         },
         "romaji": "kingyou"
       },
@@ -28,7 +32,8 @@
         "example": "欽定",
         "reading": "キンテイ",
         "meaning": {
-          "vi": "authorized (by imperial or royal order), authorised, appointed, enacted, established"
+          "vi": "được ủy quyền theo lệnh vua, được bổ nhiệm, được ban hành, được thiết lập",
+          "en": "authorized (by imperial or royal order), authorised, appointed, enacted, established"
         },
         "romaji": "kintei"
       }
@@ -36,7 +41,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "欠",
-      "meaning": "lack, yawn"
+      "meaning": {
+        "en": "lack, yawn",
+        "vi": "thiếu, ngáp dài"
+      }
     },
     "parts": [
       "欠",
@@ -50,5 +58,7 @@
   "hanViet": [
     "khâm",
     "khấm"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: thấy người cúi mình như thiếu một hơi thở, biểu lộ sự kính trọng và tôn sùng."
 }

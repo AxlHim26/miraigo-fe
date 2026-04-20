@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1674",
     "strokeCount": 6,
-    "meaning": "spit, vomit, belch, confess, tell (lies)",
+    "meaning": {
+      "en": "spit, vomit, belch, confess, tell (lies)",
+      "vi": "nhổ, nôn, ợ, thú nhận, buột miệng nói"
+    },
     "kunyomi": [
       "は.く",
       "つ.く"
@@ -21,7 +24,8 @@
         "example": "吐露",
         "reading": "トロ",
         "meaning": {
-          "vi": "expressing one's mind, speaking out"
+          "vi": "bộc lộ suy nghĩ, nói ra",
+          "en": "expressing one's mind, speaking out"
         },
         "romaji": "toro"
       },
@@ -29,7 +33,8 @@
         "example": "吐息",
         "reading": "トイキ",
         "meaning": {
-          "en": "sigh, long breath"
+          "en": "sigh, long breath",
+          "vi": "tiếng thở dài, hơi thở dài"
         },
         "romaji": "toiki"
       },
@@ -37,7 +42,8 @@
         "example": "嘔吐",
         "reading": "オウト",
         "meaning": {
-          "en": "Nausea (novel by Sartre)"
+          "en": "Nausea (novel by Sartre)",
+          "vi": "Buồn nôn (tiểu thuyết của Sartre)"
         },
         "romaji": "outo"
       },
@@ -45,7 +51,8 @@
         "example": "噴出性嘔吐",
         "reading": "フンシュツセイオウト",
         "meaning": {
-          "vi": "projectile vomiting"
+          "vi": "nôn vọt mạnh",
+          "en": "projectile vomiting"
         },
         "romaji": "funshutsuseiouto"
       }
@@ -55,7 +62,8 @@
         "example": "吐く",
         "reading": "はく",
         "meaning": {
-          "vi": "to vomit, to throw up, to spit up, to emit, to send forth, to breathe out, to give (an opinion), to make (a comment), to express, to tell, to confess"
+          "vi": "nôn, ói, trớ ra, phát ra, thốt ra, thở ra, nêu ý kiến, phát biểu, bày tỏ, kể ra, thú nhận",
+          "en": "to vomit, to throw up, to spit up, to emit, to send forth, to breathe out, to give (an opinion), to make (a comment), to express, to tell, to confess"
         },
         "romaji": "haku"
       },
@@ -63,14 +71,18 @@
         "example": "吐く",
         "reading": "つく",
         "meaning": {
-          "vi": "to breathe out, to breathe, to tell (a lie), to use (foul language), to vomit, to throw up, to spit up"
+          "vi": "thở ra, thở, buột miệng nói (dối), buông lời tục tĩu, nôn, ói, trớ ra",
+          "en": "to breathe out, to breathe, to tell (a lie), to use (foul language), to vomit, to throw up, to spit up"
         },
         "romaji": "tsuku"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -83,5 +95,6 @@
   },
   "hanViet": [
     "thổ"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng 口 đẩy vật ra ngoài như đất 土 bật ra, nên là nhổ hay nôn ra."
 }

@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "fu, fuku",
-    "meaning": "blow",
+    "meaning": {
+      "en": "blow",
+      "vi": "thổi"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "吹奏楽（すいそうがく）",
         "meaning": {
-          "english": "music for wind instruments"
+          "english": "music for wind instruments",
+          "en": "music for wind instruments",
+          "vi": "nhạc cho nhạc cụ hơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-fu(ku)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "吹く（ふく）",
         "meaning": {
-          "english": "blow, emit, spout"
+          "english": "blow, emit, spout",
+          "en": "blow, emit, spout",
+          "vi": "thổi, phát ra, phun ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-fu(ku)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "笛吹き（ふえふき）",
         "meaning": {
-          "english": "flute player"
+          "english": "flute player",
+          "en": "flute player",
+          "vi": "người thổi sáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-fu(ku)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "吹きだまり（ふきだまり）",
         "meaning": {
-          "english": "drift"
+          "english": "drift",
+          "en": "drift",
+          "vi": "đống tuyết dạt, chỗ tụ lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-fu(ku)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "吹き出物（ふきでもの）",
         "meaning": {
-          "english": "pimple, acne"
+          "english": "pimple, acne",
+          "en": "pimple, acne",
+          "vi": "mụn, mụn trứng cá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-fu(ku)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "吹き出す（ふきだす）",
         "meaning": {
-          "english": "spurt, burst in laughter"
+          "english": "spurt, burst in laughter",
+          "en": "spurt, burst in laughter",
+          "vi": "phun mạnh, bật cười thành tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-fu(ku)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "*息吹（いぶき）",
         "meaning": {
-          "english": "breath"
+          "english": "breath",
+          "en": "breath",
+          "vi": "hơi thở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-fu(ku)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "*吹雪（ふぶき）",
         "meaning": {
-          "english": "driving snow, blizzard"
+          "english": "driving snow, blizzard",
+          "en": "driving snow, blizzard",
+          "vi": "tuyết thổi mạnh, bão tuyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-fu(ku)_06_h.opus",
@@ -190,7 +209,9 @@
     "kanji": {
       "character": "吹",
       "meaning": {
-        "english": "blow"
+        "english": "blow",
+        "en": "blow",
+        "vi": "thổi"
       },
       "strokes": {
         "count": 7,
@@ -242,7 +263,9 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -263,7 +286,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1133",
     "strokeCount": 7,
-    "meaning": "blow, breathe, puff, emit, smoke",
+    "meaning": {
+      "en": "blow, breathe, puff, emit, smoke",
+      "vi": "thổi, hít thở, phả, phát ra, bốc khói"
+    },
     "kunyomi": [
       "ふ.く"
     ],
@@ -275,7 +301,8 @@
         "example": "吹奏楽",
         "reading": "スイソウガク",
         "meaning": {
-          "en": "wind music, wind instrument music"
+          "en": "wind music, wind instrument music",
+          "vi": "nhạc hơi, nhạc cho nhạc cụ hơi"
         },
         "romaji": "suisougaku"
       },
@@ -283,7 +310,8 @@
         "example": "推挙",
         "reading": "スイキョ",
         "meaning": {
-          "vi": "recommendation (of a person for a position), nomination"
+          "vi": "recommendation (of a person for a position), nomination",
+          "en": "recommendation (of a person for a position), nomination"
         },
         "romaji": "suikyo"
       },
@@ -291,7 +319,8 @@
         "example": "鼓吹",
         "reading": "コスイ",
         "meaning": {
-          "vi": "rousing (courage, morale, etc.), encouragement, advocacy, promotion (of a belief), encouragement, inspiring (someone with an idea)"
+          "vi": "rousing (courage, morale, etc.), encouragement, advocacy, promotion (of a belief), encouragement, inspiring (someone with an idea)",
+          "en": "rousing (courage, morale, etc.), encouragement, advocacy, promotion (of a belief), encouragement, inspiring (someone with an idea)"
         },
         "romaji": "kosui"
       }
@@ -301,14 +330,18 @@
         "example": "吹く",
         "reading": "ふく",
         "meaning": {
-          "vi": "to blow (of the wind), to blow (one's breath), to breathe out, to blow on (hot tea, candles, etc.), to puff, to play (a wind instrument), to blow (a whistle, trumpet, etc.), to whistle (a tune), to emit (smoke, fire, etc.), to spout, to spew, to puff out, to sprout, to put forth (buds), to appear (on the surface), to form, to be coated with (powder, rust, etc.), to burst out laughing, to burst into laughter, to brag, to talk big, to smelt, to mint"
+          "vi": "to blow (of the wind), to blow (one's breath), to breathe out, to blow on (hot tea, candles, etc.), to puff, to play (a wind instrument), to blow (a whistle, trumpet, etc.), to whistle (a tune), to emit (smoke, fire, etc.), to spout, to spew, to puff out, to sprout, to put forth (buds), to appear (on the surface), to form, to be coated with (powder, rust, etc.), to burst out laughing, to burst into laughter, to brag, to talk big, to smelt, to mint",
+          "en": "to blow (of the wind), to blow (one's breath), to breathe out, to blow on (hot tea, candles, etc.), to puff, to play (a wind instrument), to blow (a whistle, trumpet, etc.), to whistle (a tune), to emit (smoke, fire, etc.), to spout, to spew, to puff out, to sprout, to put forth (buds), to appear (on the surface), to form, to be coated with (powder, rust, etc.), to burst out laughing, to burst into laughter, to brag, to talk big, to smelt, to mint"
         },
         "romaji": "fuku"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -322,5 +355,7 @@
   "hanViet": [
     "xuy",
     "xuý"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng 口 thổi ra hơi, nên 吹 là thổi."
 }

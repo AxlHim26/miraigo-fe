@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "maka, makaseru, makasu",
-    "meaning": "office, duty, responsibility, leave to, entrust",
+    "meaning": {
+      "en": "office, duty, responsibility, leave to, entrust",
+      "vi": "chức vụ, nhiệm vụ, trách nhiệm, giao cho, ủy thác"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "任期（にんき）",
         "meaning": {
-          "english": "term of appointment"
+          "english": "term of appointment",
+          "en": "term of appointment",
+          "vi": "nhiệm kỳ bổ nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "任務（にんむ）",
         "meaning": {
-          "english": "duty, task"
+          "english": "duty, task",
+          "en": "duty, task",
+          "vi": "nhiệm vụ, công việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "任意（にんい）",
         "meaning": {
-          "english": "optional, voluntary"
+          "english": "optional, voluntary",
+          "en": "optional, voluntary",
+          "vi": "tùy chọn, tự nguyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "責任（せきにん）",
         "meaning": {
-          "english": "responsibility"
+          "english": "responsibility",
+          "en": "responsibility",
+          "vi": "trách nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "主任（しゅにん）",
         "meaning": {
-          "english": "chief, manager"
+          "english": "chief, manager",
+          "en": "chief, manager",
+          "vi": "trưởng, quản lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "任命する（にんめいする）",
         "meaning": {
-          "english": "appoint"
+          "english": "appoint",
+          "en": "appoint",
+          "vi": "bổ nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "就任する（しゅうにんする）",
         "meaning": {
-          "english": "be inaugurated, take office [v.i.]"
+          "english": "be inaugurated, take office [v.i.]",
+          "en": "be inaugurated, take office [v.i.]",
+          "vi": "nhậm chức, nhận chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "赴任する（ふにんする）",
         "meaning": {
-          "english": "transfer to a new post [v.i.]"
+          "english": "transfer to a new post [v.i.]",
+          "en": "transfer to a new post [v.i.]",
+          "vi": "chuyển sang chức vụ mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "担任する（たんにんする）",
         "meaning": {
-          "english": "be in charge (class) [v.t.]"
+          "english": "be in charge (class) [v.t.]",
+          "en": "be in charge (class) [v.t.]",
+          "vi": "phụ trách (lớp học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "辞任する（じにんする）",
         "meaning": {
-          "english": "resign"
+          "english": "resign",
+          "en": "resign",
+          "vi": "từ chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "任せる（まかせる）",
         "meaning": {
-          "english": "entrust to another [v.t.]"
+          "english": "entrust to another [v.t.]",
+          "en": "entrust to another [v.t.]",
+          "vi": "giao phó cho người khác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "任す（まかす）",
         "meaning": {
-          "english": "entrust [v.t.]"
+          "english": "entrust [v.t.]",
+          "en": "entrust [v.t.]",
+          "vi": "ủy thác, giao phó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nin-maka(su)_06_l.opus",
@@ -277,7 +304,9 @@
     "kanji": {
       "character": "任",
       "meaning": {
-        "english": "office, duty, responsibility, leave to, entrust"
+        "english": "office, duty, responsibility, leave to, entrust",
+        "en": "office, duty, responsibility, leave to, entrust",
+        "vi": "chức vụ, nhiệm vụ, trách nhiệm, giao cho, ủy thác"
       },
       "strokes": {
         "count": 6,
@@ -327,7 +356,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -348,7 +379,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "217",
     "strokeCount": 6,
-    "meaning": "responsibility, duty, term, entrust to, appoint",
+    "meaning": {
+      "en": "responsibility, duty, term, entrust to, appoint",
+      "vi": "trách nhiệm, nhiệm vụ, nhiệm kỳ, giao phó cho, bổ nhiệm"
+    },
     "kunyomi": [
       "まか.せる",
       "まか.す"
@@ -361,7 +395,8 @@
         "example": "任",
         "reading": "ニン",
         "meaning": {
-          "vi": "obligation, duty, charge, responsibility"
+          "vi": "obligation, duty, charge, responsibility",
+          "en": "nghĩa vụ, nhiệm vụ, trách nhiệm"
         },
         "romaji": "nin"
       },
@@ -369,7 +404,8 @@
         "example": "任意",
         "reading": "ニンイ",
         "meaning": {
-          "vi": "optional, voluntary, arbitrary, random, discretionary, facultative, spontaneous, any, arbitrary"
+          "vi": "optional, voluntary, arbitrary, random, discretionary, facultative, spontaneous, any, arbitrary",
+          "en": "tùy chọn, tự nguyện, tùy ý, ngẫu nhiên, theo quyền quyết định, không bắt buộc, tự phát, bất kỳ"
         },
         "romaji": "nin'i"
       },
@@ -377,7 +413,8 @@
         "example": "再任",
         "reading": "サイニン",
         "meaning": {
-          "vi": "reappointment"
+          "vi": "reappointment",
+          "en": "bổ nhiệm lại"
         },
         "romaji": "sainin"
       },
@@ -385,7 +422,8 @@
         "example": "在任",
         "reading": "ザイニン",
         "meaning": {
-          "en": "being in office"
+          "en": "being in office",
+          "vi": "đang tại chức"
         },
         "romaji": "zainin"
       }
@@ -395,7 +433,8 @@
         "example": "任せる",
         "reading": "まかせる",
         "meaning": {
-          "vi": "to leave (a matter, decision, etc. to someone), to entrust (to someone), to entrust (someone) with, to leave (to chance, one's imagination, etc.), to let (take its own course), to let (happen), to give (oneself to something), to use (money, strength, spare time, etc.) to the full, to use freely, to use without reserve"
+          "vi": "to leave (a matter, decision, etc. to someone), to entrust (to someone), to entrust (someone) with, to leave (to chance, one's imagination, etc.), to let (take its own course), to let (happen), to give (oneself to something), to use (money, strength, spare time, etc.) to the full, to use freely, to use without reserve",
+          "en": "giao (một việc, quyết định, v.v. cho ai đó), ủy thác, giao cho ai đó phụ trách, phó mặc cho cơ may hay trí tưởng tượng, để mặc diễn ra theo tự nhiên, để cho xảy ra, dốc hết mình vào việc gì đó, dùng hết tiền/sức lực/thời gian rảnh, sử dụng thoải mái, dùng không dè sẻn"
         },
         "romaji": "makaseru"
       },
@@ -403,7 +442,8 @@
         "example": "任す",
         "reading": "まかす",
         "meaning": {
-          "en": "to entrust (to someone), to leave (in someone's hands)"
+          "en": "to entrust (to someone), to leave (in someone's hands)",
+          "vi": "giao phó cho ai đó, để trong tay ai đó"
         },
         "romaji": "makasu"
       }
@@ -413,7 +453,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

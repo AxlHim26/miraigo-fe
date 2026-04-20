@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "643",
     "strokeCount": 14,
-    "meaning": "fiber, tie, rope",
+    "meaning": {
+      "en": "fiber, tie, rope",
+      "vi": "sợi, dây buộc, dây thừng"
+    },
     "kunyomi": [],
     "onyomi": [
       "イ"
@@ -18,7 +21,8 @@
         "example": "維持",
         "reading": "イジ",
         "meaning": {
-          "vi": "maintenance, preservation, improvement"
+          "vi": "maintenance, preservation, improvement",
+          "en": "maintenance, preservation, improvement"
         },
         "romaji": "iji"
       },
@@ -26,7 +30,8 @@
         "example": "維新",
         "reading": "イシン",
         "meaning": {
-          "vi": "reformation, revolution, renewal, Meiji Restoration, Nippon Ishin no Kai, Japan Innovation Party"
+          "vi": "reformation, revolution, renewal, Meiji Restoration, Nippon Ishin no Kai, Japan Innovation Party",
+          "en": "reformation, revolution, renewal, Meiji Restoration, Nippon Ishin no Kai, Japan Innovation Party"
         },
         "romaji": "ishin"
       },
@@ -34,7 +39,8 @@
         "example": "化学繊維",
         "reading": "カガクセンイ",
         "meaning": {
-          "en": "synthetic fiber, synthetic fibre, chemical fiber, chemical fibre"
+          "en": "synthetic fiber, synthetic fibre, chemical fiber, chemical fibre",
+          "vi": "sợi tổng hợp, sợi hóa học"
         },
         "romaji": "kagakusen'i"
       },
@@ -42,7 +48,8 @@
         "example": "合成繊維",
         "reading": "ゴウセイセンイ",
         "meaning": {
-          "en": "synthetic fibre, synthetic fiber"
+          "en": "synthetic fibre, synthetic fiber",
+          "vi": "sợi tổng hợp"
         },
         "romaji": "gouseisen'i"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": {
+        "en": "silk",
+        "vi": "tơ lụa"
+      }
     },
     "parts": [
       "小",

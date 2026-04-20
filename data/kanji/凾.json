@@ -5,7 +5,10 @@
     "query": "凾",
     "found": true,
     "strokeCount": 9,
-    "meaning": "box",
+    "meaning": {
+      "en": "box",
+      "vi": "hộp"
+    },
     "kunyomi": [
       "はこ",
       "い.れる"
@@ -26,7 +29,10 @@
     ],
     "radical": {
       "symbol": "凵",
-      "meaning": "container, open mouth"
+      "meaning": {
+        "en": "container, open mouth",
+        "vi": "đồ chứa, miệng mở"
+      }
     },
     "parts": [
       "凵",
@@ -40,5 +46,6 @@
   },
   "hanViet": [
     "hàm"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: 凾 là dạng cũ của 函, nhìn như chiếc hộp đóng kín để chứa đồ."
 }

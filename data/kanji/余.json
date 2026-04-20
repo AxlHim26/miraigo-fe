@@ -7,13 +7,17 @@
     "grade": 5,
     "hint_group": 2,
     "kunyomi": "ama, amari, amaru, amasu",
-    "meaning": "remaining, excess",
+    "meaning": {
+      "en": "remaining, excess",
+      "vi": "còn lại, dư thừa"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "余地（よち）",
         "meaning": {
-          "english": "space, room, margin"
+          "en": "space, room, margin",
+          "vi": "không gian, chỗ trống, khoảng dư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "余暇（よか）",
         "meaning": {
-          "english": "leisure, leisure time, spare time"
+          "en": "leisure, leisure time, spare time",
+          "vi": "thời gian nhàn rỗi, lúc rảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "余波（よは）",
         "meaning": {
-          "english": "secondary effect, aftermath"
+          "en": "secondary effect, aftermath",
+          "vi": "ảnh hưởng thứ cấp, hậu quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "余韻（よいん）",
         "meaning": {
-          "english": "reverberation, lingering memory"
+          "en": "reverberation, lingering memory",
+          "vi": "âm vang, ký ức còn đọng lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "余剰（よじょう）",
         "meaning": {
-          "english": "surplus, residue"
+          "en": "surplus, residue",
+          "vi": "phần dư, phần còn sót lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "余談（よだん）",
         "meaning": {
-          "english": "digression, sequel"
+          "en": "digression, sequel",
+          "vi": "sự lạc đề, phần tiếp theo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "余命（よめい）",
         "meaning": {
-          "english": "one's remaining years"
+          "en": "one's remaining years",
+          "vi": "những năm tháng còn lại của đời người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "余程（よほど）",
         "meaning": {
-          "english": "very, to a large extent, greatly"
+          "en": "very, to a large extent, greatly",
+          "vi": "rất, ở mức độ lớn, nhiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "余計な（よけいな）",
         "meaning": {
-          "english": "extra, excessive"
+          "en": "extra, excessive",
+          "vi": "thêm, quá mức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "余分な（よぶんな）",
         "meaning": {
-          "english": "extra, excessive"
+          "en": "extra, excessive",
+          "vi": "thêm, quá mức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "余す（あます）",
         "meaning": {
-          "english": "save, leave over"
+          "en": "save, leave over",
+          "vi": "để dành, chừa lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_k.opus",
@@ -145,7 +159,8 @@
       {
         "japanese": "余る（あまる）",
         "meaning": {
-          "english": "remain, be left over [v.i.]"
+          "en": "remain, be left over [v.i.]",
+          "vi": "còn lại, bị để lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yo(keina)_06_l.opus",
@@ -234,7 +249,8 @@
     "kanji": {
       "character": "余",
       "meaning": {
-        "english": "remaining, excess"
+        "en": "remaining, excess",
+        "vi": "còn lại, dư thừa"
       },
       "strokes": {
         "count": 7,
@@ -286,7 +302,8 @@
         "romaji": "hitoyane"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
@@ -307,7 +324,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "680",
     "strokeCount": 7,
-    "meaning": "too much, myself, surplus, other, remainder",
+    "meaning": {
+      "en": "too much, myself, surplus, other, remainder",
+      "vi": "quá nhiều, bản thân tôi, phần dư, cái khác, phần còn lại"
+    },
     "kunyomi": [
       "あま.る",
       "あま.り",
@@ -322,7 +342,8 @@
         "example": "余",
         "reading": "ヨ",
         "meaning": {
-          "en": "other, another, remaining, leftover, over, more than, I, me"
+          "en": "other, another, remaining, leftover, over, more than, I, me",
+          "vi": "khác, một cái khác, còn lại, đồ thừa, vượt quá, hơn, tôi, ta"
         },
         "romaji": "yo"
       },
@@ -330,7 +351,8 @@
         "example": "余韻",
         "reading": "ヨイン",
         "meaning": {
-          "vi": "reverberation, swelling (of a hymn), trailing note, lingering memory, aftertaste, suggestiveness (of a book, poem, etc.)"
+          "en": "reverberation, swelling (of a hymn), trailing note, lingering memory, aftertaste, suggestiveness (of a book, poem, etc.)",
+          "vi": "âm vang, sự ngân lên (của thánh ca), âm kéo dài, ký ức đọng lại, dư vị, tính gợi mở (của sách, thơ, v.v.)"
         },
         "romaji": "yoin"
       },
@@ -338,7 +360,8 @@
         "example": "残余",
         "reading": "ザンヨ",
         "meaning": {
-          "en": "remainder, the rest, residue"
+          "en": "remainder, the rest, residue",
+          "vi": "phần còn lại, phần còn dư, tàn dư"
         },
         "romaji": "zan'yo"
       },
@@ -346,7 +369,8 @@
         "example": "窮余",
         "reading": "キュウヨ",
         "meaning": {
-          "vi": "extremity, desperation"
+          "en": "extremity, desperation",
+          "vi": "bước đường cùng, tuyệt vọng"
         },
         "romaji": "kyuuyo"
       }
@@ -356,7 +380,8 @@
         "example": "余る",
         "reading": "あまる",
         "meaning": {
-          "en": "to remain, to be left over, to be in excess, to be too many"
+          "en": "to remain, to be left over, to be in excess, to be too many",
+          "vi": "còn lại, bị thừa ra, dư thừa, quá nhiều"
         },
         "romaji": "amaru"
       },
@@ -364,7 +389,8 @@
         "example": "余り",
         "reading": "あまり",
         "meaning": {
-          "vi": "remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers, (not) very, (not) much, too much, excessively, overly, extreme, great, severe, tremendous, terrible, not very good, so-so, mediocre, more than, over"
+          "en": "remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers, (not) very, (not) much, too much, excessively, overly, extreme, great, severe, tremendous, terrible, not very good, so-so, mediocre, more than, over",
+          "vi": "phần còn lại, tàn dư, số dư, phần dư, thức ăn thừa, đồ còn lại, không quá, không nhiều, quá nhiều, quá mức, cực độ, lớn, nghiêm trọng, ghê gớm, không được tốt lắm, tàm tạm, trung bình, hơn, vượt quá"
         },
         "romaji": "amari"
       },
@@ -372,7 +398,8 @@
         "example": "余りに",
         "reading": "あまりに",
         "meaning": {
-          "en": "too (much), overly, excessively"
+          "en": "too (much), overly, excessively",
+          "vi": "quá, quá mức, thái quá"
         },
         "romaji": "amarini"
       },
@@ -380,7 +407,8 @@
         "example": "余す",
         "reading": "あます",
         "meaning": {
-          "vi": "to save, to leave over, to spare"
+          "en": "to save, to leave over, to spare",
+          "vi": "để dành, chừa lại, dành ra"
         },
         "romaji": "amasu"
       },
@@ -388,7 +416,8 @@
         "example": "余すことなく",
         "reading": "あますことなく",
         "meaning": {
-          "en": "fully, thoroughly"
+          "en": "fully, thoroughly",
+          "vi": "đầy đủ, hoàn toàn"
         },
         "romaji": "amasukotonaku"
       },
@@ -396,7 +425,8 @@
         "example": "余り",
         "reading": "あまり",
         "meaning": {
-          "vi": "remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers, (not) very, (not) much, too much, excessively, overly, extreme, great, severe, tremendous, terrible, not very good, so-so, mediocre, more than, over"
+          "en": "remainder, remnant, rest, balance, surplus, remains (of a meal), leftovers, (not) very, (not) much, too much, excessively, overly, extreme, great, severe, tremendous, terrible, not very good, so-so, mediocre, more than, over",
+          "vi": "phần còn lại, tàn dư, số dư, phần dư, thức ăn thừa, đồ còn lại, không quá, không nhiều, quá nhiều, quá mức, cực độ, lớn, nghiêm trọng, ghê gớm, không được tốt lắm, tàm tạm, trung bình, hơn, vượt quá"
         },
         "romaji": "amari"
       },
@@ -404,7 +434,8 @@
         "example": "余りに",
         "reading": "あまりに",
         "meaning": {
-          "en": "too (much), overly, excessively"
+          "en": "too (much), overly, excessively",
+          "vi": "quá, quá mức, thái quá"
         },
         "romaji": "amarini"
       }
@@ -414,7 +445,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

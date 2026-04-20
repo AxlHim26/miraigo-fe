@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ooyake",
-    "meaning": "public, official",
+    "meaning": {
+      "en": "public, official",
+      "vi": "công cộng, chính thức"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "公園（こうえん）",
         "meaning": {
-          "english": "park"
+          "english": "park",
+          "en": "park",
+          "vi": "công viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "公害（こうがい）",
         "meaning": {
-          "english": "public nuisance, pollution"
+          "english": "public nuisance, pollution",
+          "en": "public nuisance, pollution",
+          "vi": "ô nhiễm, tác hại công cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "公判（こうはん）",
         "meaning": {
-          "english": "public hearing, trial"
+          "english": "public hearing, trial",
+          "en": "public hearing, trial",
+          "vi": "phiên điều trần công khai, phiên tòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "公式（こうしき）",
         "meaning": {
-          "english": "formula, formal, official"
+          "english": "formula, formal, official",
+          "en": "formula, formal, official",
+          "vi": "công thức, chính thức, công vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "公立（こうりつ）",
         "meaning": {
-          "english": "public"
+          "english": "public",
+          "en": "public",
+          "vi": "công cộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "公務員（こうむいん）",
         "meaning": {
-          "english": "public employee"
+          "english": "public employee",
+          "en": "public employee",
+          "vi": "công chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "主人公（しゅじんこう）",
         "meaning": {
-          "english": "main character, hero"
+          "english": "main character, hero",
+          "en": "main character, hero",
+          "vi": "nhân vật chính, anh hùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "公平な（こうへいな）",
         "meaning": {
-          "english": "fair, impartial"
+          "english": "fair, impartial",
+          "en": "fair, impartial",
+          "vi": "công bằng, vô tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "公認する（こうにんする）",
         "meaning": {
-          "english": "recognize officially, authorize"
+          "english": "recognize officially, authorize",
+          "en": "recognize officially, authorize",
+          "vi": "công nhận chính thức, cho phép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "公表する（こうひょうする）",
         "meaning": {
-          "english": "announce publicly"
+          "english": "announce publicly",
+          "en": "announce publicly",
+          "vi": "công bố công khai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "公開する（こうかいする）",
         "meaning": {
-          "english": "present to the public"
+          "english": "present to the public",
+          "en": "present to the public",
+          "vi": "công khai với công chúng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "公（おおやけ）",
         "meaning": {
-          "english": "official, public, formal [n.]"
+          "english": "official, public, formal [n.]",
+          "en": "official, public, formal [n.]",
+          "vi": "điều chính thức, công khai, mang tính nghi thức [danh từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ooyake_06_l.opus",
@@ -293,7 +320,9 @@
     "kanji": {
       "character": "公",
       "meaning": {
-        "english": "public, official"
+        "english": "public, official",
+        "en": "public, official",
+        "vi": "công cộng, chính thức"
       },
       "strokes": {
         "count": 4,
@@ -339,7 +368,9 @@
         "romaji": "hachigashira"
       },
       "meaning": {
-        "english": "eight"
+        "english": "eight",
+        "en": "eight",
+        "vi": "tám"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hachigashira0.svg",
@@ -360,7 +391,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "118",
     "strokeCount": 4,
-    "meaning": "public, prince, official, governmental",
+    "meaning": {
+      "en": "public, prince, official, governmental",
+      "vi": "công cộng, công tước, chính thức, thuộc chính phủ"
+    },
     "kunyomi": [
       "おおやけ"
     ],
@@ -373,7 +407,8 @@
         "example": "公",
         "reading": "コウ",
         "meaning": {
-          "vi": "public affair, government matter, the state, the government, the public, duke, prince, Sir, Lord, familiar or derogatory suffix"
+          "vi": "public affair, government matter, the state, the government, the public, duke, prince, Sir, Lord, familiar or derogatory suffix",
+          "en": "public affair, government matter, the state, the government, the public, duke, prince, Sir, Lord, familiar or derogatory suffix"
         },
         "romaji": "kou"
       },
@@ -381,7 +416,8 @@
         "example": "公安",
         "reading": "コウアン",
         "meaning": {
-          "vi": "public peace, public safety, public security, peace and order, security police"
+          "vi": "public peace, public safety, public security, peace and order, security police",
+          "en": "public peace, public safety, public security, peace and order, security police"
         },
         "romaji": "kouan"
       },
@@ -389,7 +425,8 @@
         "example": "大公",
         "reading": "タイコウ",
         "meaning": {
-          "en": "archduke"
+          "en": "archduke",
+          "vi": "đại công tước"
         },
         "romaji": "taikou"
       },
@@ -397,7 +434,8 @@
         "example": "乃公",
         "reading": "ダイコウ",
         "meaning": {
-          "en": "I, me"
+          "en": "I, me",
+          "vi": "ta, tôi"
         },
         "romaji": "daikou"
       },
@@ -405,7 +443,8 @@
         "example": "公家",
         "reading": "クゲ",
         "meaning": {
-          "vi": "court noble, nobility, kuge, Imperial Court"
+          "vi": "court noble, nobility, kuge, Imperial Court",
+          "en": "court noble, nobility, kuge, Imperial Court"
         },
         "romaji": "kuge"
       },
@@ -413,7 +452,8 @@
         "example": "公廨",
         "reading": "クガイ",
         "meaning": {
-          "en": "government office"
+          "en": "government office",
+          "vi": "cơ quan nhà nước"
         },
         "romaji": "kugai"
       },
@@ -421,7 +461,8 @@
         "example": "夙",
         "reading": "シュク",
         "meaning": {
-          "vi": "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
+          "vi": "outcasts common around the Kyoto region from the Kamakura period to the Edo period",
+          "en": "outcasts common around the Kyoto region from the Kamakura period to the Edo period"
         },
         "romaji": "shuku"
       }
@@ -431,7 +472,8 @@
         "example": "公",
         "reading": "おおやけ",
         "meaning": {
-          "vi": "official, governmental, formal, public (use, matter, forum, etc.), common, being public knowledge, being out in the open, exposure to public view"
+          "vi": "official, governmental, formal, public (use, matter, forum, etc.), common, being public knowledge, being out in the open, exposure to public view",
+          "en": "official, governmental, formal, public (use, matter, forum, etc.), common, being public knowledge, being out in the open, exposure to public view"
         },
         "romaji": "ooyake"
       },
@@ -439,14 +481,18 @@
         "example": "公所",
         "reading": "おおやけどころ",
         "meaning": {
-          "vi": "imperial court, government office, imperial land, government land"
+          "vi": "imperial court, government office, imperial land, government land",
+          "en": "imperial court, government office, imperial land, government land"
         },
         "romaji": "ooyakedokoro"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": {
+        "en": "eight",
+        "vi": "tám"
+      }
     },
     "parts": [
       "ハ",
@@ -459,5 +505,7 @@
   },
   "hanViet": [
     "công"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Tách phần riêng ra để thành chung, nên nhớ là công, công cộng."
 }

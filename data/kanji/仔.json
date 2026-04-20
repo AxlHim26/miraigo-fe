@@ -5,7 +5,10 @@
     "query": "仔",
     "found": true,
     "strokeCount": 5,
-    "meaning": "offspring (animal), detailed, fine",
+    "meaning": {
+      "en": "offspring (animal), detailed, fine",
+      "vi": "con non (động vật), chi tiết, tỉ mỉ"
+    },
     "kunyomi": [
       "こ",
       "た.える"
@@ -18,6 +21,7 @@
         "example": "子細",
         "reading": "シサイ",
         "meaning": {
+          "en": "reasons, circumstances, details, particulars, significance, meaning, hindrance, inconvenience, objection",
           "vi": "reasons, circumstances, details, particulars, significance, meaning, hindrance, inconvenience, objection"
         },
         "romaji": "shisai"
@@ -26,7 +30,8 @@
         "example": "仔魚",
         "reading": "シギョ",
         "meaning": {
-          "en": "larva of fish, larval fish"
+          "en": "larva of fish, larval fish",
+          "vi": "ấu trùng cá, cá con ở giai đoạn ấu trùng"
         },
         "romaji": "shigyo"
       },
@@ -34,7 +39,8 @@
         "example": "同腹子",
         "reading": "ドウフクシ",
         "meaning": {
-          "en": "litter (of animals), littermate"
+          "en": "litter (of animals), littermate",
+          "vi": "một lứa con (động vật), con cùng lứa"
         },
         "romaji": "doufukushi"
       }
@@ -44,7 +50,8 @@
         "example": "仔",
         "reading": "こ",
         "meaning": {
-          "en": "young (animal)"
+          "en": "young (animal)",
+          "vi": "con non (động vật)"
         },
         "romaji": "ko"
       },
@@ -52,7 +59,8 @@
         "example": "子牛",
         "reading": "こうし",
         "meaning": {
-          "en": "calf, small cow"
+          "en": "calf, small cow",
+          "vi": "bê con, bò nhỏ"
         },
         "romaji": "koushi"
       }
@@ -62,7 +70,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

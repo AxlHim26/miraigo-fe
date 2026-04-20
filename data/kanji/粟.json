@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2146",
     "strokeCount": 12,
-    "meaning": "millet",
+    "meaning": {
+      "en": "millet",
+      "vi": "kê"
+    },
     "kunyomi": [
       "あわ",
       "もみ"
@@ -21,7 +24,8 @@
         "example": "粟",
         "reading": "ゾク",
         "meaning": {
-          "vi": "millet, grain, stipend in rice, 10,000th of a shaku"
+          "vi": "kê, hạt ngũ cốc, bổng lộc bằng gạo, một phần mười nghìn của thước shaku",
+          "en": "millet, grain, stipend in rice, 10,000th of a shaku"
         },
         "romaji": "zoku"
       },
@@ -29,7 +33,8 @@
         "example": "粟粒",
         "reading": "アワツブ",
         "meaning": {
-          "en": "millet grain, something extremely tiny"
+          "en": "millet grain, something extremely tiny",
+          "vi": "hạt kê, thứ cực kỳ nhỏ bé"
         },
         "romaji": "awatsubu"
       },
@@ -37,7 +42,8 @@
         "example": "稲粟",
         "reading": "トウゾク",
         "meaning": {
-          "en": "rice and millet"
+          "en": "rice and millet",
+          "vi": "lúa gạo và kê"
         },
         "romaji": "touzoku"
       },
@@ -45,7 +51,8 @@
         "example": "滄海の一粟",
         "reading": "ソウカイノイチゾク",
         "meaning": {
-          "vi": "drop in the bucket, drop in the ocean, one grain of millet in a vast ocean"
+          "vi": "muối bỏ bể, một giọt trong đại dương, một hạt kê trong biển lớn",
+          "en": "drop in the bucket, drop in the ocean, one grain of millet in a vast ocean"
         },
         "romaji": "soukainoichizoku"
       }
@@ -55,7 +62,8 @@
         "example": "粟",
         "reading": "あわ",
         "meaning": {
-          "en": "foxtail millet (Setaria italica), Italian millet (also Hungarian, German)"
+          "en": "foxtail millet (Setaria italica), Italian millet (also Hungarian, German)",
+          "vi": "kê đuôi chồn (Setaria italica), kê Ý"
         },
         "romaji": "awa"
       },
@@ -63,7 +71,8 @@
         "example": "粟おこし",
         "reading": "あわおこし",
         "meaning": {
-          "en": "millet brittle"
+          "en": "millet brittle",
+          "vi": "kẹo giòn làm từ kê"
         },
         "romaji": "awaokoshi"
       },
@@ -71,7 +80,8 @@
         "example": "糯粟",
         "reading": "もちあわ",
         "meaning": {
-          "vi": "glutinous millet (for making mochi and certain types of alcohol)"
+          "vi": "kê nếp (dùng làm mochi và một số loại rượu)",
+          "en": "glutinous millet (for making mochi and certain types of alcohol)"
         },
         "romaji": "mochiawa"
       },
@@ -79,14 +89,18 @@
         "example": "濡れ手で粟",
         "reading": "ぬれてであわ",
         "meaning": {
-          "vi": "easy profit"
+          "vi": "lợi lộc dễ dàng",
+          "en": "easy profit"
         },
         "romaji": "nuretedeawa"
       }
     ],
     "radical": {
       "symbol": "米",
-      "meaning": "rice"
+      "meaning": {
+        "en": "rice",
+        "vi": "gạo"
+      }
     },
     "parts": [
       "米",

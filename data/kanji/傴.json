@@ -5,7 +5,10 @@
     "query": "傴",
     "found": true,
     "strokeCount": 13,
-    "meaning": "bend over, stoop, bow",
+    "meaning": {
+      "en": "bend over, stoop, bow",
+      "vi": "khom lưng, cúi xuống, cúi chào"
+    },
     "kunyomi": [
       "かが.む",
       "せむし"
@@ -20,7 +23,8 @@
         "example": "傴僂",
         "reading": "せむし",
         "meaning": {
-          "vi": "hunchback, humpback, crookback, rickets"
+          "vi": "gù lưng, lưng còng, lưng cong, còi xương",
+          "en": "hunchback, humpback, crookback, rickets"
         },
         "romaji": "semushi"
       }
@@ -30,7 +34,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

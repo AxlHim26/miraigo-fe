@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2312",
     "strokeCount": 5,
-    "meaning": "grant, answer",
+    "meaning": {
+      "en": "grant, answer",
+      "vi": "ban cho, đáp ứng"
+    },
     "kunyomi": [
       "かな.える",
       "かな.う"
@@ -21,7 +24,8 @@
         "example": "叶える",
         "reading": "かなえる",
         "meaning": {
-          "vi": "to grant (request, wish), to answer (prayer), to fulfill (conditions), to meet (requirements)"
+          "vi": "ban cho (điều cầu xin, ước nguyện), đáp lời (lời cầu nguyện), đáp ứng (điều kiện), thỏa (yêu cầu)",
+          "en": "to grant (request, wish), to answer (prayer), to fulfill (conditions), to meet (requirements)"
         },
         "romaji": "kanaeru"
       },
@@ -29,7 +33,8 @@
         "example": "叶う",
         "reading": "かなう",
         "meaning": {
-          "vi": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat)"
+          "vi": "trở thành hiện thực (với ước nguyện, lời cầu), được thực hiện, được hoàn thành, phù hợp, đáp ứng, tuân theo, nhất quán với, ngang sức, chịu đựng được",
+          "en": "to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with, to match (implies competition), to rival, to bear (e.g. the heat)"
         },
         "romaji": "kanau"
       },
@@ -37,14 +42,18 @@
         "example": "叶うことなら",
         "reading": "かなうことなら",
         "meaning": {
-          "vi": "if possible, if it is in my power, if it was realistic"
+          "vi": "nếu có thể, nếu trong khả năng, nếu thực tế",
+          "en": "if possible, if it is in my power, if it was realistic"
         },
         "romaji": "kanaukotonara"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "十",
@@ -58,5 +67,6 @@
   "hanViet": [
     "diệp",
     "hiệp"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng 口 nói ra điều ước và được đáp lại, nên nghĩa là được toại nguyện."
 }

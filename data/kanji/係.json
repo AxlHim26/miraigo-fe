@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "kaka, kakaru, kakari, kakawaru, kakawari",
-    "meaning": "connect, person in charge",
+    "meaning": {
+      "en": "connect, person in charge",
+      "vi": "kết nối, người phụ trách"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "関係する（かんけいする）",
         "meaning": {
-          "english": "be related to"
+          "english": "be related to",
+          "en": "be related to",
+          "vi": "có liên quan đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "連係する（れんけいする）",
         "meaning": {
-          "english": "work in a team"
+          "english": "work in a team",
+          "en": "work in a team",
+          "vi": "phối hợp làm việc theo nhóm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "係る（かかる）",
         "meaning": {
-          "english": "affect, concern, depend on"
+          "english": "affect, concern, depend on",
+          "en": "affect, concern, depend on",
+          "vi": "ảnh hưởng, liên quan, phụ thuộc vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "係わる（かかわる）",
         "meaning": {
-          "english": "be involved"
+          "english": "be involved",
+          "en": "be involved",
+          "vi": "có liên quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "係（かかり）",
         "meaning": {
-          "english": "person in charge"
+          "english": "person in charge",
+          "en": "person in charge",
+          "vi": "người phụ trách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "案内係（あんないがかり）",
         "meaning": {
-          "english": "clerk at the information desk"
+          "english": "clerk at the information desk",
+          "en": "clerk at the information desk",
+          "vi": "nhân viên quầy thông tin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-kaka(ri)_06_f.opus",
@@ -222,7 +237,9 @@
     "kanji": {
       "character": "係",
       "meaning": {
-        "english": "connect, person in charge"
+        "english": "connect, person in charge",
+        "en": "connect, person in charge",
+        "vi": "kết nối, người phụ trách"
       },
       "strokes": {
         "count": 9,
@@ -278,7 +295,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -299,7 +318,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "232",
     "strokeCount": 9,
-    "meaning": "person in charge, connection, duty, concern oneself",
+    "meaning": {
+      "en": "person in charge, connection, duty, concern oneself",
+      "vi": "người phụ trách, sự liên kết, nhiệm vụ, tự mình quan tâm"
+    },
     "kunyomi": [
       "かか.る",
       "かかり",
@@ -314,7 +336,8 @@
         "example": "係争",
         "reading": "ケイソウ",
         "meaning": {
-          "vi": "dispute, contention, conflict, controversy"
+          "vi": "tranh chấp, xung đột, mâu thuẫn, tranh cãi",
+          "en": "dispute, contention, conflict, controversy"
         },
         "romaji": "keisou"
       },
@@ -322,7 +345,8 @@
         "example": "係数",
         "reading": "ケイスウ",
         "meaning": {
-          "vi": "coefficient, factor, proportional constant"
+          "vi": "hệ số, nhân tố, hằng số tỉ lệ",
+          "en": "coefficient, factor, proportional constant"
         },
         "romaji": "keisuu"
       },
@@ -330,7 +354,8 @@
         "example": "相関関係",
         "reading": "ソウカンカンケイ",
         "meaning": {
-          "en": "correlation, interrelation, intertwining"
+          "en": "correlation, interrelation, intertwining",
+          "vi": "mối tương quan, sự liên hệ qua lại, sự đan xen"
         },
         "romaji": "soukankankei"
       },
@@ -338,7 +363,8 @@
         "example": "三角関係",
         "reading": "サンカクカンケイ",
         "meaning": {
-          "en": "love triangle, eternal triangle"
+          "en": "love triangle, eternal triangle",
+          "vi": "tam giác tình yêu, tình tay ba"
         },
         "romaji": "sankakukankei"
       }
@@ -348,7 +374,8 @@
         "example": "係る",
         "reading": "かかる",
         "meaning": {
-          "en": "to be the work of, to be the result of, to be done by, to concern, to affect, to involve, to relate to"
+          "en": "to be the work of, to be the result of, to be done by, to concern, to affect, to involve, to relate to",
+          "vi": "là công việc của, là kết quả của, được thực hiện bởi, liên quan đến, ảnh hưởng đến, bao hàm, có liên hệ với"
         },
         "romaji": "kakaru"
       },
@@ -356,7 +383,8 @@
         "example": "係",
         "reading": "かかり",
         "meaning": {
-          "vi": "charge, duty, person in charge, official, clerk, connection, linking"
+          "vi": "nhiệm vụ, trách nhiệm, người phụ trách, viên chức, nhân viên, sự liên kết, sự kết nối",
+          "en": "charge, duty, person in charge, official, clerk, connection, linking"
         },
         "romaji": "kakari"
       },
@@ -364,7 +392,8 @@
         "example": "係員",
         "reading": "かかりいん",
         "meaning": {
-          "vi": "person in charge, official, attendant"
+          "vi": "người phụ trách, viên chức, người hầu cận",
+          "en": "person in charge, official, attendant"
         },
         "romaji": "kakariin"
       },
@@ -372,7 +401,8 @@
         "example": "口座係",
         "reading": "こうざかかり",
         "meaning": {
-          "en": "teller (in bank)"
+          "en": "teller (in bank)",
+          "vi": "giao dịch viên ngân hàng"
         },
         "romaji": "kouzakakari"
       },
@@ -380,7 +410,8 @@
         "example": "応接係",
         "reading": "おうせつかかり",
         "meaning": {
-          "vi": "receptionist, desk clerk"
+          "vi": "lễ tân, nhân viên quầy",
+          "en": "receptionist, desk clerk"
         },
         "romaji": "ousetsukakari"
       },
@@ -388,7 +419,8 @@
         "example": "関わる",
         "reading": "かかわる",
         "meaning": {
-          "vi": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about)"
+          "vi": "có liên quan, dính líu, tự mình quan tâm, tham gia, can thiệp, liên quan đến (một vấn đề), thuộc về, có dính dáng đến, ảnh hưởng nghiêm trọng, bám vào, tuân theo, để tâm đến",
+          "en": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in), to relate to (a matter), to pertain to, to concern, to have to do with, to (seriously) affect, to concern, to have a serious bearing (on), to stick (to), to adhere (to), to be particular (about)"
         },
         "romaji": "kakawaru"
       }
@@ -398,7 +430,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

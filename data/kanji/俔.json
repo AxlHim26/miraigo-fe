@@ -5,7 +5,10 @@
     "query": "俔",
     "found": true,
     "strokeCount": 9,
-    "meaning": "compare, spy on",
+    "meaning": {
+      "en": "compare, spy on",
+      "vi": "so sánh, do thám"
+    },
     "kunyomi": [
       "たと.える",
       "うかが.う"
@@ -20,7 +23,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

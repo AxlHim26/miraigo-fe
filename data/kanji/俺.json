@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "1946",
     "strokeCount": 10,
-    "meaning": "I, myself",
+    "meaning": {
+      "en": "I, myself",
+      "vi": "tao, tôi"
+    },
     "kunyomi": [
       "おれ",
       "われ"
@@ -21,7 +24,8 @@
         "example": "俺",
         "reading": "おれ",
         "meaning": {
-          "en": "I, me"
+          "en": "I, me",
+          "vi": "tao, tôi"
         },
         "romaji": "ore"
       },
@@ -29,7 +33,8 @@
         "example": "オレオレ詐欺",
         "reading": "おれおれさぎ",
         "meaning": {
-          "vi": "phone scam involving calls from pretended relatives in distress"
+          "vi": "trò lừa đảo qua điện thoại giả làm người thân đang gặp nạn",
+          "en": "phone scam involving calls from pretended relatives in distress"
         },
         "romaji": "oreoresagi"
       }
@@ -39,7 +44,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "乙",

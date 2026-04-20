@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1658",
     "strokeCount": 12,
-    "meaning": "dike, bank, embankment",
+    "meaning": {
+      "en": "dike, bank, embankment",
+      "vi": "đê, bờ, đê chắn"
+    },
     "kunyomi": [
       "つつみ"
     ],
@@ -20,7 +23,8 @@
         "example": "堤防",
         "reading": "テイボウ",
         "meaning": {
-          "en": "bank, weir, embankment, levee"
+          "en": "bank, weir, embankment, levee",
+          "vi": "bờ đê, đập tràn, đê chắn, đê bao"
         },
         "romaji": "teibou"
       },
@@ -28,7 +32,8 @@
         "example": "提出",
         "reading": "テイシュツ",
         "meaning": {
-          "vi": "presentation (of documents), submission (of an application, report, etc.), production (e.g. of evidence), introduction (e.g. of a bill), filing, turning in"
+          "vi": "presentation (of documents), submission (of an application, report, etc.), production (e.g. of evidence), introduction (e.g. of a bill), filing, turning in",
+          "en": "presentation (of documents), submission (of an application, report, etc.), production (e.g. of evidence), introduction (e.g. of a bill), filing, turning in"
         },
         "romaji": "teishutsu"
       },
@@ -36,7 +41,8 @@
         "example": "突堤",
         "reading": "トッテイ",
         "meaning": {
-          "vi": "jetty, breakwater, pier"
+          "vi": "jetty, breakwater, pier",
+          "en": "jetty, breakwater, pier"
         },
         "romaji": "tottei"
       },
@@ -44,7 +50,8 @@
         "example": "神経堤",
         "reading": "シンケイテイ",
         "meaning": {
-          "en": "neural crest"
+          "en": "neural crest",
+          "vi": "mào thần kinh"
         },
         "romaji": "shinkeitei"
       }
@@ -54,7 +61,8 @@
         "example": "堤",
         "reading": "つつみ",
         "meaning": {
-          "en": "bank, embankment, dike"
+          "en": "bank, embankment, dike",
+          "vi": "bờ, đê, bờ đắp"
         },
         "romaji": "tsutsumi"
       },
@@ -62,14 +70,18 @@
         "example": "堤を築く",
         "reading": "つつみをきずく",
         "meaning": {
-          "en": "to build an embankment"
+          "en": "to build an embankment",
+          "vi": "đắp đê"
         },
         "romaji": "tsutsumiwokizuku"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "土",
@@ -81,6 +93,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5824.gif",
     "uri": "https://jisho.org/search/%E5%A0%A4%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là đất, 是 như phần đắp cao lên đúng chỗ, thành con đê giữ nước.",
   "hanViet": [
     "đê",
     "đề"

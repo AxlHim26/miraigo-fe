@@ -5,7 +5,10 @@
     "query": "傚",
     "found": true,
     "strokeCount": 12,
-    "meaning": "imitate, follow, emulate",
+    "meaning": {
+      "en": "imitate, follow, emulate",
+      "vi": "bắt chước, noi theo, mô phỏng"
+    },
     "kunyomi": [
       "なら.う"
     ],
@@ -18,7 +21,8 @@
         "example": "倣う",
         "reading": "ならう",
         "meaning": {
-          "vi": "to imitate, to follow, to copy, to emulate"
+          "vi": "to imitate, to follow, to copy, to emulate",
+          "en": "to imitate, to follow, to copy, to emulate"
         },
         "romaji": "narau"
       }
@@ -28,7 +32,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "乞",

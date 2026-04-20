@@ -5,7 +5,10 @@
     "query": "僥",
     "found": true,
     "strokeCount": 14,
-    "meaning": "luck, seek, desire",
+    "meaning": {
+      "en": "luck, seek, desire",
+      "vi": "may mắn, cầu tìm, khao khát"
+    },
     "kunyomi": [],
     "onyomi": [
       "ギョウ",
@@ -16,7 +19,8 @@
         "example": "僥倖",
         "reading": "ギョウコウ",
         "meaning": {
-          "en": "luck, windfall, godsend, good fortune"
+          "en": "luck, windfall, godsend, good fortune",
+          "vi": "vận may, của trời cho, may mắn bất ngờ, phúc lành"
         },
         "romaji": "gyoukou"
       }
@@ -27,7 +31,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "儿",

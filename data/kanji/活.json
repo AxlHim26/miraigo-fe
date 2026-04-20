@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "active, live",
+    "meaning": {
+      "en": "active, live",
+      "vi": "song dong, dang song"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "活気（かっき）",
         "meaning": {
-          "english": "liveliness"
+          "english": "liveliness",
+          "en": "liveliness",
+          "vi": "su song dong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)katsu_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "活字（かつじ）",
         "meaning": {
-          "english": "moveable type"
+          "english": "moveable type",
+          "en": "moveable type",
+          "vi": "chu in roi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)katsu_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "活火山（かっかざん）",
         "meaning": {
-          "english": "active volcano"
+          "english": "active volcano",
+          "en": "active volcano",
+          "vi": "nui lua dang hoat dong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)katsu_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "活発な（かっぱつな）",
         "meaning": {
-          "english": "active"
+          "english": "active",
+          "en": "active",
+          "vi": "nang dong, tich cuc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)katsu_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "活動する（かつどうする）",
         "meaning": {
-          "english": "act [v.i.]"
+          "english": "act [v.i.]",
+          "en": "act [v.i.]",
+          "vi": "hanh dong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)katsu_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "活躍する（かつやくする）",
         "meaning": {
-          "english": "be in full activity"
+          "english": "be in full activity",
+          "en": "be in full activity",
+          "vi": "hoat dong het cong suat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)katsu_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "生活する（せいかつする）",
         "meaning": {
-          "english": "live"
+          "english": "live",
+          "en": "live",
+          "vi": "sống, cư trú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)katsu_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "復活する（ふっかつする）",
         "meaning": {
-          "english": "revive [v.i.]"
+          "english": "revive [v.i.]",
+          "en": "revive [v.i.]",
+          "vi": "hoi lai, song lai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)katsu_06_h.opus",
@@ -251,7 +270,9 @@
     "kanji": {
       "character": "活",
       "meaning": {
-        "english": "active, live"
+        "english": "active, live",
+        "en": "active, live",
+        "vi": "song dong, dang song"
       },
       "strokes": {
         "count": 9,
@@ -307,7 +328,9 @@
         "romaji": "sanzui"
       },
       "meaning": {
-        "english": "water"
+        "english": "water",
+        "en": "water",
+        "vi": "nước"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzui0.svg",
@@ -328,7 +351,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "171",
     "strokeCount": 9,
-    "meaning": "lively, resuscitation, being helped, living",
+    "meaning": {
+      "en": "lively, resuscitation, being helped, living",
+      "vi": "song dong, hoi suc, duoc cuu, dang song"
+    },
     "kunyomi": [
       "い.きる",
       "い.かす",
@@ -342,7 +368,8 @@
         "example": "活",
         "reading": "カツ",
         "meaning": {
-          "en": "living, life, judo art of resuscitation, action, activity"
+          "en": "living, life, judo art of resuscitation, action, activity",
+          "vi": "cuoc song, sinh menh, hoi suc, hoat dong"
         },
         "romaji": "katsu"
       },
@@ -350,7 +377,8 @@
         "example": "活字",
         "reading": "カツジ",
         "meaning": {
-          "vi": "printing type, movable type, printed text, print"
+          "vi": "printing type, movable type, printed text, print",
+          "en": "printing type, movable type, printed text, print"
         },
         "romaji": "katsuji"
       },
@@ -358,7 +386,8 @@
         "example": "死活",
         "reading": "シカツ",
         "meaning": {
-          "en": "life and death, life or death"
+          "en": "life and death, life or death",
+          "vi": "song chet, sinh tu"
         },
         "romaji": "shikatsu"
       },
@@ -366,7 +395,8 @@
         "example": "就活",
         "reading": "シュウカツ",
         "meaning": {
-          "en": "job hunting, job searching"
+          "en": "job hunting, job searching",
+          "vi": "tim viec"
         },
         "romaji": "shuukatsu"
       }
@@ -376,7 +406,8 @@
         "example": "生きる",
         "reading": "いきる",
         "meaning": {
-          "en": "to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)"
+          "en": "to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)",
+          "vi": "to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)"
         },
         "romaji": "ikiru"
       },
@@ -384,7 +415,8 @@
         "example": "生かす",
         "reading": "いかす",
         "meaning": {
-          "vi": "to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.), to let live, to keep alive, to revive, to resuscitate, to bring back to life, to restore (a deleted passage; in proofreading)"
+          "vi": "to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.), to let live, to keep alive, to revive, to resuscitate, to bring back to life, to restore (a deleted passage; in proofreading)",
+          "en": "to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.), to let live, to keep alive, to revive, to resuscitate, to bring back to life, to restore (a deleted passage; in proofreading)"
         },
         "romaji": "ikasu"
       },
@@ -392,7 +424,8 @@
         "example": "生ける",
         "reading": "いける",
         "meaning": {
-          "vi": "to arrange (flowers), to plant, living, live"
+          "vi": "to arrange (flowers), to plant, living, live",
+          "en": "to arrange (flowers), to plant, living, live"
         },
         "romaji": "ikeru"
       }
@@ -403,7 +436,10 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": {
+        "en": "water",
+        "vi": "nước"
+      }
     },
     "parts": [
       "ノ",
@@ -420,5 +456,7 @@
   "hanViet": [
     "hoạt",
     "quạt"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Nuoc ben trai va luoi ben phai tao cam giac dong, song. Nho 活 la hoat dong, song dong."
 }

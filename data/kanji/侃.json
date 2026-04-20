@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 8,
-    "meaning": "strong, just, righteous, peace-loving",
+    "meaning": {
+      "en": "strong, just, righteous, peace-loving",
+      "vi": "mạnh mẽ, công chính, chính trực, yêu hòa bình"
+    },
     "kunyomi": [
       "つよ.い"
     ],
@@ -18,7 +21,8 @@
         "example": "侃侃諤諤",
         "reading": "カンカンガクガク",
         "meaning": {
-          "vi": "outspoken, arguing (heatedly) what one believes in, insisting on something without restraint"
+          "vi": "thẳng thắn, tranh luận quyết liệt về điều mình tin tưởng, khăng khăng không kiềm chế",
+          "en": "outspoken, arguing (heatedly) what one believes in, insisting on something without restraint"
         },
         "romaji": "kankangakugaku"
       },
@@ -26,7 +30,8 @@
         "example": "侃直",
         "reading": "カンチョク",
         "meaning": {
-          "vi": "firm and upright (character)"
+          "vi": "tính cách cứng cỏi và ngay thẳng",
+          "en": "firm and upright (character)"
         },
         "romaji": "kanchoku"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tona, tonaeru",
-    "meaning": "sing",
+    "meaning": {
+      "en": "sing",
+      "vi": "hát"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "万歳三唱（ばんざいさんしょう）",
         "meaning": {
-          "english": "three cheers"
+          "english": "three cheers",
+          "en": "three cheers",
+          "vi": "ba tiếng hoan hô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "唱和する（しょうわする）",
         "meaning": {
-          "english": "sing/cheer in chorus"
+          "english": "sing/cheer in chorus",
+          "en": "sing/cheer in chorus",
+          "vi": "hát hoặc hô đồng thanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "合唱する（がっしょうする）",
         "meaning": {
-          "english": "sing in chorus"
+          "english": "sing in chorus",
+          "en": "sing in chorus",
+          "vi": "hát đồng ca"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "独唱する（どくしょうする）",
         "meaning": {
-          "english": "sing a solo"
+          "english": "sing a solo",
+          "en": "sing a solo",
+          "vi": "hát đơn ca"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "暗唱する（あんしょうする）",
         "meaning": {
-          "english": "recite (from memory)"
+          "english": "recite (from memory)",
+          "en": "recite (from memory)",
+          "vi": "đọc thuộc lòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "提唱する（ていしょうする）",
         "meaning": {
-          "english": "propose, advocate"
+          "english": "propose, advocate",
+          "en": "propose, advocate",
+          "vi": "đề xướng, cổ xúy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "唱える（となえる）",
         "meaning": {
-          "english": "recite, chant, call upon"
+          "english": "recite, chant, call upon",
+          "en": "recite, chant, call upon",
+          "vi": "xướng, tụng, kêu gọi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(banzaisan)shou_06_g.opus",
@@ -182,7 +199,9 @@
     "kanji": {
       "character": "唱",
       "meaning": {
-        "english": "sing"
+        "english": "sing",
+        "en": "sing",
+        "vi": "hát"
       },
       "strokes": {
         "count": 11,
@@ -242,7 +261,9 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -263,7 +284,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1123",
     "strokeCount": 11,
-    "meaning": "chant, recite, call upon, yell",
+    "meaning": {
+      "en": "chant, recite, call upon, yell",
+      "vi": "xướng, tụng, kêu gọi, hét lên"
+    },
     "kunyomi": [
       "とな.える"
     ],
@@ -275,7 +299,8 @@
         "example": "唱和",
         "reading": "ショウワ",
         "meaning": {
-          "en": "cheering in chorus, saying in unison"
+          "en": "cheering in chorus, saying in unison",
+          "vi": "hò reo đồng thanh, nói cùng một lúc"
         },
         "romaji": "shouwa"
       },
@@ -283,7 +308,8 @@
         "example": "唱歌",
         "reading": "ショウカ",
         "meaning": {
-          "vi": "singing, song, music class (at pre-WWII schools), song for music classes"
+          "vi": "singing, song, music class (at pre-WWII schools), song for music classes",
+          "en": "singing, song, music class (at pre-WWII schools), song for music classes"
         },
         "romaji": "shouka"
       },
@@ -291,7 +317,8 @@
         "example": "斉唱",
         "reading": "セイショウ",
         "meaning": {
-          "en": "singing in unison, chanting in unison"
+          "en": "singing in unison, chanting in unison",
+          "vi": "hát đồng thanh, tụng đồng thanh"
         },
         "romaji": "seishou"
       },
@@ -299,7 +326,8 @@
         "example": "主唱",
         "reading": "シュショウ",
         "meaning": {
-          "vi": "advocacy, promotion"
+          "vi": "advocacy, promotion",
+          "en": "advocacy, promotion"
         },
         "romaji": "shushou"
       }
@@ -309,14 +337,18 @@
         "example": "唱える",
         "reading": "となえる",
         "meaning": {
-          "vi": "to recite, to chant, to cry, to yell, to shout, to advocate, to advance, to preach, to insist"
+          "vi": "to recite, to chant, to cry, to yell, to shout, to advocate, to advance, to preach, to insist",
+          "en": "to recite, to chant, to cry, to yell, to shout, to advocate, to advance, to preach, to insist"
         },
         "romaji": "tonaeru"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -329,5 +361,7 @@
   },
   "hanViet": [
     "xướng"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng 口 cất tiếng nhiều lần như hát theo nhịp, nên 唱 là xướng, hát, hô."
 }

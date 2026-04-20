@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "1781",
     "strokeCount": 8,
-    "meaning": "box (archaic)",
+    "meaning": {
+      "en": "box (archaic)",
+      "vi": "hộp, nghĩa cổ"
+    },
     "kunyomi": [
       "はこ",
       "い.れる"
@@ -19,7 +22,8 @@
         "example": "函蓋",
         "reading": "カンガイ",
         "meaning": {
-          "en": "box and cover"
+          "en": "box and cover",
+          "vi": "hộp và nắp"
         },
         "romaji": "kangai"
       },
@@ -27,7 +31,8 @@
         "example": "函渠",
         "reading": "カンキョ",
         "meaning": {
-          "en": "drain with an oblong cross-section"
+          "en": "drain with an oblong cross-section",
+          "vi": "cống có tiết diện hình chữ nhật"
         },
         "romaji": "kankyo"
       },
@@ -35,7 +40,8 @@
         "example": "製函",
         "reading": "セイカン",
         "meaning": {
-          "en": "(cardboard) box manufacture"
+          "en": "(cardboard) box manufacture",
+          "vi": "sản xuất hộp carton"
         },
         "romaji": "seikan"
       },
@@ -43,7 +49,8 @@
         "example": "経函",
         "reading": "キョウカン",
         "meaning": {
-          "en": "sutra box"
+          "en": "sutra box",
+          "vi": "hộp đựng kinh"
         },
         "romaji": "kyoukan"
       }
@@ -53,7 +60,8 @@
         "example": "箱",
         "reading": "はこ",
         "meaning": {
-          "vi": "box, case, chest, package, pack, crate, car (of a train, etc.), shamisen case, shamisen, public building, community building, man who carries a geisha's shamisen, receptacle for human waste, feces (faeces), counter for boxes (or boxed objects)"
+          "vi": "hộp, thùng, rương, kiện hàng, toa xe, hộp đàn shamisen, đàn shamisen, nhà công cộng, nhà cộng đồng, người mang đàn shamisen cho geisha, thùng chứa chất thải, phân, từ đếm cho hộp",
+          "en": "box, case, chest, package, pack, crate, car (of a train, etc.), shamisen case, shamisen, public building, community building, man who carries a geisha's shamisen, receptacle for human waste, feces (faeces), counter for boxes (or boxed objects)"
         },
         "romaji": "hako"
       },
@@ -61,7 +69,8 @@
         "example": "函館",
         "reading": "はこだて",
         "meaning": {
-          "en": "Hakodate (city in Hokkaido)"
+          "en": "Hakodate (city in Hokkaido)",
+          "vi": "Hakodate, thành phố ở Hokkaido"
         },
         "romaji": "hakodate"
       },
@@ -69,14 +78,18 @@
         "example": "入れる",
         "reading": "いれる",
         "meaning": {
-          "vi": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"
+          "vi": "cho vào, để vào, đưa vào, mang vào, chèn vào, cài đặt, nạm vào, xăm mực, cho nhập, chấp nhận, tuyển dụng, nghe theo, lưu ý, bao gồm, nộp tiền, bỏ phiếu, pha trà cà phê, bật công tắc, gửi fax, gọi điện",
+          "en": "to put in, to let in, to take in, to bring in, to insert, to install (e.g. software), to set (a jewel, etc.), to ink in (e.g. tattoo), to admit, to accept, to employ, to hire, to accept, to comply, to grant, to adopt (a policy, etc.), to take (advice, etc.), to listen to, to pay attention to, to include, to pay (one's rent, etc.), to cast (a vote), to make (tea, coffee, etc.), to turn on (a switch, etc.), to send (a fax), to call"
         },
         "romaji": "ireru"
       }
     ],
     "radical": {
       "symbol": "凵",
-      "meaning": "container, open mouth"
+      "meaning": {
+        "en": "container, open mouth",
+        "vi": "đồ chứa, miệng mở"
+      }
     },
     "parts": [
       "一",
@@ -90,5 +103,7 @@
   },
   "hanViet": [
     "hàm"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: vật được bỏ vào chiếc hộp có nắp, nên 函 gợi nghĩa hộp đựng.",
+  "jlpt": "N1"
 }

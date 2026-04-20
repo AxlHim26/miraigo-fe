@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 2,
     "kunyomi": "saki",
-    "meaning": "ahead",
+    "meaning": {
+      "en": "ahead",
+      "vi": "phía trước"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "先生（せんせい）",
         "meaning": {
-          "english": "teacher, master, doctor"
+          "english": "teacher, master, doctor",
+          "en": "teacher, master, doctor",
+          "vi": "giáo viên, bậc thầy, bác sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "先週（せんしゅう）",
         "meaning": {
-          "english": "last week"
+          "english": "last week",
+          "en": "last week",
+          "vi": "tuần trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "先月（せんげつ）",
         "meaning": {
-          "english": "last month"
+          "english": "last month",
+          "en": "last month",
+          "vi": "tháng trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "先学期（せんがっき）",
         "meaning": {
-          "english": "last semester"
+          "english": "last semester",
+          "en": "last semester",
+          "vi": "học kỳ trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "先輩（せんぱい）",
         "meaning": {
-          "english": "senior (at work or school)"
+          "english": "senior (at work or school)",
+          "en": "senior (at work or school)",
+          "vi": "đàn anh, đàn chị (ở nơi làm việc hoặc trường học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "先（さき）",
         "meaning": {
-          "english": "point, end, front, lead, former"
+          "english": "point, end, front, lead, former",
+          "en": "point, end, front, lead, former",
+          "vi": "điểm, đầu mút, phía trước, dẫn đầu, trước đây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "店先（みせさき）",
         "meaning": {
-          "english": "store front"
+          "english": "store front",
+          "en": "store front",
+          "vi": "mặt tiền cửa hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "*先ず（まず）",
         "meaning": {
-          "english": "first (of all)"
+          "english": "first (of all)",
+          "en": "first (of all)",
+          "vi": "trước tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_h.opus",
@@ -249,7 +268,9 @@
     "kanji": {
       "character": "先",
       "meaning": {
-        "english": "ahead"
+        "english": "ahead",
+        "en": "ahead",
+        "vi": "phía trước"
       },
       "strokes": {
         "count": 6,
@@ -299,7 +320,9 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs",
+        "en": "human legs",
+        "vi": "chân người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -320,7 +343,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "173",
     "strokeCount": 6,
-    "meaning": "before, ahead, previous, future, precedence",
+    "meaning": {
+      "en": "before, ahead, previous, future, precedence",
+      "vi": "trước, phía trước, trước đó, tương lai, sự ưu tiên"
+    },
     "kunyomi": [
       "さき",
       "ま.ず"
@@ -333,7 +359,8 @@
         "example": "先",
         "reading": "セン",
         "meaning": {
-          "vi": "former, previous, old, first move (in go, shogi, etc.), opening move"
+          "vi": "former, previous, old, first move (in go, shogi, etc.), opening move",
+          "en": "former, previous, old, first move (in go, shogi, etc.), opening move"
         },
         "romaji": "sen"
       },
@@ -341,7 +368,8 @@
         "example": "先駆",
         "reading": "センク",
         "meaning": {
-          "vi": "forerunner, precursor, pioneer, leader, outrider, outriding"
+          "vi": "forerunner, precursor, pioneer, leader, outrider, outriding",
+          "en": "forerunner, precursor, pioneer, leader, outrider, outriding"
         },
         "romaji": "senku"
       },
@@ -349,7 +377,8 @@
         "example": "機先",
         "reading": "キセン",
         "meaning": {
-          "en": "forestall"
+          "en": "forestall",
+          "vi": "đón trước"
         },
         "romaji": "kisen"
       },
@@ -357,7 +386,8 @@
         "example": "互先",
         "reading": "タガイセン",
         "meaning": {
-          "vi": "even game (esp. in go)"
+          "vi": "even game (esp. in go)",
+          "en": "even game (esp. in go)"
         },
         "romaji": "tagaisen"
       }
@@ -367,7 +397,8 @@
         "example": "先",
         "reading": "さき",
         "meaning": {
-          "vi": "point, tip, end, nozzle, head (of a line), front, first, before, ahead (of), (the way) ahead, beyond, future, previous, prior, former, recent, last, destination, address, place where you do something, rest (e.g. of a story), continuation, remaining part, the other party"
+          "vi": "point, tip, end, nozzle, head (of a line), front, first, before, ahead (of), (the way) ahead, beyond, future, previous, prior, former, recent, last, destination, address, place where you do something, rest (e.g. of a story), continuation, remaining part, the other party",
+          "en": "point, tip, end, nozzle, head (of a line), front, first, before, ahead (of), (the way) ahead, beyond, future, previous, prior, former, recent, last, destination, address, place where you do something, rest (e.g. of a story), continuation, remaining part, the other party"
         },
         "romaji": "saki"
       },
@@ -375,7 +406,8 @@
         "example": "先行き",
         "reading": "さきゆき",
         "meaning": {
-          "vi": "the future, future prospects"
+          "vi": "the future, future prospects",
+          "en": "the future, future prospects"
         },
         "romaji": "sakiyuki"
       },
@@ -383,7 +415,8 @@
         "example": "口先",
         "reading": "くちさき",
         "meaning": {
-          "vi": "lip service, mere words, professions, lips, mouth, snout, proboscis"
+          "vi": "lip service, mere words, professions, lips, mouth, snout, proboscis",
+          "en": "lip service, mere words, professions, lips, mouth, snout, proboscis"
         },
         "romaji": "kuchisaki"
       },
@@ -391,7 +424,8 @@
         "example": "矛先",
         "reading": "ほこさき",
         "meaning": {
-          "vi": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"
+          "vi": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge",
+          "en": "point of a spear, spearhead, focus (of one's attack, criticism, etc.), aim, target, brunt, force (of an argument), edge"
         },
         "romaji": "hokosaki"
       },
@@ -399,7 +433,8 @@
         "example": "先ず",
         "reading": "まず",
         "meaning": {
-          "vi": "first (of all), firstly, to begin with, before anything else, probably, most likely, almost certainly, virtually, more or less (satisfactory), on the whole, reasonably, anyway, at any rate, for now (at least), for the time being"
+          "vi": "first (of all), firstly, to begin with, before anything else, probably, most likely, almost certainly, virtually, more or less (satisfactory), on the whole, reasonably, anyway, at any rate, for now (at least), for the time being",
+          "en": "first (of all), firstly, to begin with, before anything else, probably, most likely, almost certainly, virtually, more or less (satisfactory), on the whole, reasonably, anyway, at any rate, for now (at least), for the time being"
         },
         "romaji": "mazu"
       },
@@ -407,14 +442,18 @@
         "example": "先ず隗より始めよ",
         "reading": "まずかいよりはじめよ",
         "meaning": {
-          "vi": "start with the first step, when embarking on a great project, start with immediate steps, he who first suggests it should be the first to do it"
+          "vi": "start with the first step, when embarking on a great project, start with immediate steps, he who first suggests it should be the first to do it",
+          "en": "start with the first step, when embarking on a great project, start with immediate steps, he who first suggests it should be the first to do it"
         },
         "romaji": "mazukaiyorihajimeyo"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "ノ",
@@ -426,6 +465,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5148.gif",
     "uri": "https://jisho.org/search/%E5%85%88%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: người ở phía dưới bước lên phía trước, nên 先 là trước.",
   "hanViet": [
     "tiên",
     "tiến"

@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "taoreru, taosu, tao",
-    "meaning": "topple, collapse, fall over",
+    "meaning": {
+      "en": "topple, collapse, fall over",
+      "vi": "đổ, sụp đổ, ngã nhào"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "倒産する（とうさんする）",
         "meaning": {
-          "english": "go bankrupt (corporate)"
+          "english": "go bankrupt (corporate)",
+          "en": "go bankrupt (corporate)",
+          "vi": "phá sản (doanh nghiệp)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tao(su)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "転倒する（てんとうする）",
         "meaning": {
-          "english": "tumble, fall down, be upset"
+          "english": "tumble, fall down, be upset",
+          "en": "tumble, fall down, be upset",
+          "vi": "ngã nhào, ngã xuống, bị lật đổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tao(su)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "卒倒する（そっとうする）",
         "meaning": {
-          "english": "faint [v.i.]"
+          "english": "faint [v.i.]",
+          "en": "faint [v.i.]",
+          "vi": "ngất xỉu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tao(su)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "打倒する（だとうする）",
         "meaning": {
-          "english": "knockdown, overthrow"
+          "english": "knockdown, overthrow",
+          "en": "knockdown, overthrow",
+          "vi": "đánh ngã, lật đổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tao(su)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "圧倒する（あっとうする）",
         "meaning": {
-          "english": "overwhelm"
+          "english": "overwhelm",
+          "en": "overwhelm",
+          "vi": "áp đảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tao(su)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "面倒な（めんどうな）",
         "meaning": {
-          "english": "tiresome"
+          "english": "tiresome",
+          "en": "tiresome",
+          "vi": "phiền toái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tao(su)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "面倒臭い（めんどうくさい）",
         "meaning": {
-          "english": "tiresome"
+          "english": "tiresome",
+          "en": "tiresome",
+          "vi": "phiền toái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tao(su)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "倒れる（たおれる）",
         "meaning": {
-          "english": "collapse, fall down [v.i.]"
+          "english": "collapse, fall down [v.i.]",
+          "en": "collapse, fall down [v.i.]",
+          "vi": "sụp đổ, ngã xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tao(su)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "倒す（たおす）",
         "meaning": {
-          "english": "beat, knock down [v.t.]"
+          "english": "beat, knock down [v.t.]",
+          "en": "beat, knock down [v.t.]",
+          "vi": "đánh ngã, hạ gục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tao(su)_06_i.opus",
@@ -218,7 +239,9 @@
     "kanji": {
       "character": "倒",
       "meaning": {
-        "english": "topple, collapse, fall over"
+        "english": "topple, collapse, fall over",
+        "en": "topple, collapse, fall over",
+        "vi": "đổ, sụp đổ, ngã nhào"
       },
       "strokes": {
         "count": 10,
@@ -276,7 +299,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -297,7 +322,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "791",
     "strokeCount": 10,
-    "meaning": "overthrow, fall, collapse, drop, break down",
+    "meaning": {
+      "en": "overthrow, fall, collapse, drop, break down",
+      "vi": "lật đổ, ngã, sụp đổ, rơi xuống, suy sụp"
+    },
     "kunyomi": [
       "たお.れる",
       "-だお.れ",
@@ -314,7 +342,8 @@
         "example": "倒産",
         "reading": "トウサン",
         "meaning": {
-          "vi": "(corporate) bankruptcy, insolvency, commercial failure, failed business"
+          "vi": "phá sản (doanh nghiệp), mất khả năng thanh toán, thất bại thương mại, kinh doanh thất bại",
+          "en": "(corporate) bankruptcy, insolvency, commercial failure, failed business"
         },
         "romaji": "tousan"
       },
@@ -322,7 +351,8 @@
         "example": "倒閣",
         "reading": "トウカク",
         "meaning": {
-          "en": "overthrow of government"
+          "en": "overthrow of government",
+          "vi": "lật đổ chính phủ"
         },
         "romaji": "toukaku"
       },
@@ -330,7 +360,8 @@
         "example": "傾倒",
         "reading": "ケイトウ",
         "meaning": {
-          "vi": "devoting oneself to, concentrating on, being an ardent admirer of, having great esteem for, tipping over and collapsing"
+          "vi": "dốc lòng vào, tập trung vào, hết sức ngưỡng mộ, hết sức coi trọng, bị lật và sụp xuống",
+          "en": "devoting oneself to, concentrating on, being an ardent admirer of, having great esteem for, tipping over and collapsing"
         },
         "romaji": "keitou"
       },
@@ -338,7 +369,8 @@
         "example": "風倒",
         "reading": "フウトウ",
         "meaning": {
-          "vi": "falling due to a strong wind, being toppled by the wind"
+          "vi": "đổ do gió mạnh, bị gió quật ngã",
+          "en": "falling due to a strong wind, being toppled by the wind"
         },
         "romaji": "fuutou"
       }
@@ -348,7 +380,8 @@
         "example": "倒れる",
         "reading": "たおれる",
         "meaning": {
-          "vi": "to fall (over, down), to collapse, to take a fall, to topple, to be destroyed (in a collapse), to collapse, to cave in, to crumble, to give away, to be confined to bed (with an illness), to come down with, to break down (e.g. from overwork), to die, to be killed, to go bankrupt (of a company, bank, etc.), to fail, to collapse, to go under, to be defeated (in a game), to lose, to fall (of a government, dictator, etc.), to be overthrown"
+          "vi": "ngã xuống, sụp đổ, bị ngã, đổ nhào, bị phá hủy do sập, sập xuống, lõm xuống, tan vỡ, nhượng bộ, nằm liệt giường vì bệnh, mắc bệnh, suy sụp (ví dụ do làm việc quá sức), chết, bị giết, phá sản (công ty, ngân hàng, v.v.), thất bại, sụp đổ, đi đến chỗ tiêu vong, bị đánh bại (trong trò chơi), thua, sụp đổ (chính phủ, nhà độc tài, v.v.), bị lật đổ",
+          "en": "to fall (over, down), to collapse, to take a fall, to topple, to be destroyed (in a collapse), to collapse, to cave in, to crumble, to give away, to be confined to bed (with an illness), to come down with, to break down (e.g. from overwork), to die, to be killed, to go bankrupt (of a company, bank, etc.), to fail, to collapse, to go under, to be defeated (in a game), to lose, to fall (of a government, dictator, etc.), to be overthrown"
         },
         "romaji": "taoreru"
       },
@@ -356,7 +389,8 @@
         "example": "倒す",
         "reading": "たおす",
         "meaning": {
-          "vi": "to throw down, to bring down, to blow down, to fell, to knock down, to set (something) down on its side, to turn (something) on its side, to recline (e.g. a seat), to kill, to defeat, to beat, to overthrow, to trip up, to ruin, to leave unpaid, to cheat, to do completely, to do thoroughly, to do to the fullest"
+          "vi": "quật ngã, làm đổ xuống, thổi đổ, đốn ngã, đánh ngã, đặt vật gì nằm nghiêng, xoay vật gì nằm nghiêng, ngả ra (ví dụ ghế), giết, đánh bại, hạ gục, lật đổ, làm vấp ngã, làm hỏng, để chưa thanh toán, lừa gạt, làm trọn vẹn, làm kỹ lưỡng, làm hết mức",
+          "en": "to throw down, to bring down, to blow down, to fell, to knock down, to set (something) down on its side, to turn (something) on its side, to recline (e.g. a seat), to kill, to defeat, to beat, to overthrow, to trip up, to ruin, to leave unpaid, to cheat, to do completely, to do thoroughly, to do to the fullest"
         },
         "romaji": "taosu"
       },
@@ -364,7 +398,8 @@
         "example": "逆さま",
         "reading": "さかさま",
         "meaning": {
-          "vi": "inverted, upside down, reversed, back to front, wrong way round"
+          "vi": "bị lộn ngược, úp ngược, đảo ngược, trước sau đảo lộn, sai chiều",
+          "en": "inverted, upside down, reversed, back to front, wrong way round"
         },
         "romaji": "sakasama"
       },
@@ -372,7 +407,8 @@
         "example": "逆様事",
         "reading": "さかさまごと",
         "meaning": {
-          "vi": "child dying before parents, occurrence out of sequence, wrong order"
+          "vi": "con chết trước cha mẹ, sự việc xảy ra trái thứ tự, sai trật tự",
+          "en": "child dying before parents, occurrence out of sequence, wrong order"
         },
         "romaji": "sakasamagoto"
       },
@@ -380,7 +416,8 @@
         "example": "逆さま",
         "reading": "さかさま",
         "meaning": {
-          "vi": "inverted, upside down, reversed, back to front, wrong way round"
+          "vi": "bị lộn ngược, úp ngược, đảo ngược, trước sau đảo lộn, sai chiều",
+          "en": "inverted, upside down, reversed, back to front, wrong way round"
         },
         "romaji": "sakasama"
       },
@@ -388,7 +425,8 @@
         "example": "逆さ",
         "reading": "さかさ",
         "meaning": {
-          "vi": "inverted, upside down, reversed, back to front"
+          "vi": "bị lộn ngược, úp ngược, đảo ngược, trước sau đảo lộn",
+          "en": "inverted, upside down, reversed, back to front"
         },
         "romaji": "sakasa"
       },
@@ -396,7 +434,8 @@
         "example": "逆しま",
         "reading": "さかしま",
         "meaning": {
-          "vi": "reverse, inversion, upside down, unreasonable, absurd, wrong"
+          "vi": "sự đảo ngược, đảo lộn, lộn ngược, vô lý, phi lý, sai",
+          "en": "reverse, inversion, upside down, unreasonable, absurd, wrong"
         },
         "romaji": "sakashima"
       }
@@ -406,7 +445,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "刈",

@@ -6,7 +6,10 @@
     "found": true,
     "taughtIn": "junior high",
     "strokeCount": 11,
-    "meaning": "wither, droop, lame",
+    "meaning": {
+      "en": "wither, droop, lame",
+      "vi": "héo úa, rũ xuống, suy nhược"
+    },
     "kunyomi": [
       "な",
       "しお.れる",
@@ -22,7 +25,8 @@
         "example": "萎縮",
         "reading": "イシュク",
         "meaning": {
-          "vi": "withering, shrivelling, shrinking, contraction, atrophy"
+          "vi": "withering, shrivelling, shrinking, contraction, atrophy",
+          "en": "withering, shrivelling, shrinking, contraction, atrophy"
         },
         "romaji": "ishuku"
       },
@@ -30,7 +34,8 @@
         "example": "萎黄病",
         "reading": "イオウビョウ",
         "meaning": {
-          "en": "chlorosis, greensickness"
+          "en": "chlorosis, greensickness",
+          "vi": "chứng xanh xao thiếu máu"
         },
         "romaji": "ioubyou"
       },
@@ -38,7 +43,8 @@
         "example": "陰萎",
         "reading": "インイ",
         "meaning": {
-          "vi": "impotence (sexual), erectile impotence"
+          "vi": "impotence (sexual), erectile impotence",
+          "en": "impotence (sexual), erectile impotence"
         },
         "romaji": "in'i"
       }
@@ -48,7 +54,8 @@
         "example": "萎える",
         "reading": "なえる",
         "meaning": {
-          "vi": "to lose strength, to become weak, to disappear (of energy, drive, etc.), to wither, to droop, to wilt, to feel demotivated, to lose interest, to become disappointed"
+          "vi": "to lose strength, to become weak, to disappear (of energy, drive, etc.), to wither, to droop, to wilt, to feel demotivated, to lose interest, to become disappointed",
+          "en": "to lose strength, to become weak, to disappear (of energy, drive, etc.), to wither, to droop, to wilt, to feel demotivated, to lose interest, to become disappointed"
         },
         "romaji": "naeru"
       },
@@ -56,7 +63,8 @@
         "example": "萎え",
         "reading": "なえ",
         "meaning": {
-          "vi": "weakening, loss of strength, disappointment, loss of interest, letdown feeling"
+          "vi": "weakening, loss of strength, disappointment, loss of interest, letdown feeling",
+          "en": "weakening, loss of strength, disappointment, loss of interest, letdown feeling"
         },
         "romaji": "nae"
       },
@@ -64,7 +72,8 @@
         "example": "萎れる",
         "reading": "しおれる",
         "meaning": {
-          "vi": "to wither, to wilt, to droop, to fade, to be dejected, to be disheartened, to be depressed, to be crestfallen"
+          "vi": "to wither, to wilt, to droop, to fade, to be dejected, to be disheartened, to be depressed, to be crestfallen",
+          "en": "to wither, to wilt, to droop, to fade, to be dejected, to be disheartened, to be depressed, to be crestfallen"
         },
         "romaji": "shioreru"
       },
@@ -72,7 +81,8 @@
         "example": "萎びる",
         "reading": "しなびる",
         "meaning": {
-          "en": "to shrivel (e.g. cut vegetables, skin), to wilt, to fade, to wither, to be wizened"
+          "en": "to shrivel (e.g. cut vegetables, skin), to wilt, to fade, to wither, to be wizened",
+          "vi": "co quắt lại (như rau cắt sẵn, da), héo, phai, tàn úa, nhăn nheo"
         },
         "romaji": "shinabiru"
       },
@@ -80,7 +90,8 @@
         "example": "萎む",
         "reading": "しぼむ",
         "meaning": {
-          "vi": "to wither (of flowers, dreams, etc.), to wilt, to droop, to shrivel, to fade (away), to sag, to deflate"
+          "vi": "to wither (of flowers, dreams, etc.), to wilt, to droop, to shrivel, to fade (away), to sag, to deflate",
+          "en": "to wither (of flowers, dreams, etc.), to wilt, to droop, to shrivel, to fade (away), to sag, to deflate"
         },
         "romaji": "shibomu"
       },
@@ -88,7 +99,8 @@
         "example": "萎える",
         "reading": "なえる",
         "meaning": {
-          "vi": "to lose strength, to become weak, to disappear (of energy, drive, etc.), to wither, to droop, to wilt, to feel demotivated, to lose interest, to become disappointed"
+          "vi": "to lose strength, to become weak, to disappear (of energy, drive, etc.), to wither, to droop, to wilt, to feel demotivated, to lose interest, to become disappointed",
+          "en": "to lose strength, to become weak, to disappear (of energy, drive, etc.), to wither, to droop, to wilt, to feel demotivated, to lose interest, to become disappointed"
         },
         "romaji": "naeru"
       }
@@ -98,7 +110,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [
       "女",

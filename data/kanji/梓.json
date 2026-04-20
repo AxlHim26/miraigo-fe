@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2301",
     "strokeCount": 11,
-    "meaning": "catalpa tree, woodblock printing",
+    "meaning": {
+      "en": "catalpa tree, woodblock printing",
+      "vi": "cây tử, in khắc gỗ"
+    },
     "kunyomi": [
       "あずさ"
     ],
@@ -19,7 +22,8 @@
         "example": "梓",
         "reading": "アズサ",
         "meaning": {
-          "vi": "Japanese cherry birch (Betula grossa), yellow catalpa (Catalpa ovata), Japanese mallotus (Mallotus japonicus), printing block, catalpa bow, catalpa medium"
+          "vi": "Japanese cherry birch (Betula grossa), yellow catalpa (Catalpa ovata), Japanese mallotus (Mallotus japonicus), printing block, catalpa bow, catalpa medium",
+          "en": "Japanese cherry birch (Betula grossa), yellow catalpa (Catalpa ovata), Japanese mallotus (Mallotus japonicus), printing block, catalpa bow, catalpa medium"
         },
         "romaji": "azusa"
       },
@@ -27,7 +31,8 @@
         "example": "梓宮",
         "reading": "シキュウ",
         "meaning": {
-          "vi": "Emperor's coffin (made of catalpa wood)"
+          "vi": "Emperor's coffin (made of catalpa wood)",
+          "en": "Emperor's coffin (made of catalpa wood)"
         },
         "romaji": "shikyuu"
       },
@@ -35,7 +40,8 @@
         "example": "上梓",
         "reading": "ジョウシ",
         "meaning": {
-          "vi": "wood-block printing, publication"
+          "vi": "wood-block printing, publication",
+          "en": "wood-block printing, publication"
         },
         "romaji": "joushi"
       }
@@ -45,7 +51,8 @@
         "example": "梓",
         "reading": "あずさ",
         "meaning": {
-          "vi": "Japanese cherry birch (Betula grossa), yellow catalpa (Catalpa ovata), Japanese mallotus (Mallotus japonicus), printing block, catalpa bow, catalpa medium"
+          "vi": "Japanese cherry birch (Betula grossa), yellow catalpa (Catalpa ovata), Japanese mallotus (Mallotus japonicus), printing block, catalpa bow, catalpa medium",
+          "en": "Japanese cherry birch (Betula grossa), yellow catalpa (Catalpa ovata), Japanese mallotus (Mallotus japonicus), printing block, catalpa bow, catalpa medium"
         },
         "romaji": "azusa"
       },
@@ -53,14 +60,18 @@
         "example": "梓巫女",
         "reading": "あずさみこ",
         "meaning": {
-          "vi": "female medium who summons spirits by sounding the string of a catalpa bow"
+          "vi": "female medium who summons spirits by sounding the string of a catalpa bow",
+          "en": "female medium who summons spirits by sounding the string of a catalpa bow"
         },
         "romaji": "azusamiko"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "cây"
+      }
     },
     "parts": [
       "十",
