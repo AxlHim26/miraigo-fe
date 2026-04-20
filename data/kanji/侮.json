@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "anado, anadoru",
-    "meaning": "insult, despise, scorn",
+    "meaning": {
+      "en": "insult, despise, scorn",
+      "vi": "xúc phạm, khinh miệt, coi thường"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "侮辱する（ぶじょくする）",
         "meaning": {
-          "english": "treat with contempt, insult"
+          "english": "treat with contempt, insult",
+          "en": "treat with contempt, insult",
+          "vi": "đối xử bằng sự khinh miệt, xúc phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "侮蔑する（ぶべつする）",
         "meaning": {
-          "english": "scorn, disdain"
+          "english": "scorn, disdain",
+          "en": "scorn, disdain",
+          "vi": "khinh bỉ, coi thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "軽侮する（けいぶする）",
         "meaning": {
-          "english": "scorn"
+          "english": "scorn",
+          "en": "scorn",
+          "vi": "sự khinh miệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "侮る（あなどる）",
         "meaning": {
-          "english": "despise, disdain, make light of"
+          "english": "despise, disdain, make light of",
+          "en": "despise, disdain, make light of",
+          "vi": "khinh thường, coi rẻ, xem nhẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/anado(ru)_06_d.opus",
@@ -145,7 +156,9 @@
     "kanji": {
       "character": "侮",
       "meaning": {
-        "english": "insult, despise, scorn"
+        "english": "insult, despise, scorn",
+        "en": "insult, despise, scorn",
+        "vi": "xúc phạm, khinh miệt, coi thường"
       },
       "strokes": {
         "count": 8,
@@ -199,7 +212,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -220,7 +235,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2004",
     "strokeCount": 8,
-    "meaning": "scorn, despise, make light of, contempt",
+    "meaning": {
+      "en": "scorn, despise, make light of, contempt",
+      "vi": "khinh miệt, coi thường, xem nhẹ, sự khinh thị"
+    },
     "kunyomi": [
       "あなど.る",
       "あなず.る"
@@ -233,7 +251,8 @@
         "example": "侮",
         "reading": "ブ",
         "meaning": {
-          "vi": "(something) despised, (something) made light of"
+          "vi": "điều bị khinh thường, điều bị xem nhẹ",
+          "en": "(something) despised, (something) made light of"
         },
         "romaji": "bu"
       },
@@ -241,7 +260,8 @@
         "example": "侮辱",
         "reading": "ブジョク",
         "meaning": {
-          "vi": "insult, affront, slight, contempt (e.g. of court)"
+          "vi": "sự xúc phạm, sự lăng nhục, sự khinh suất, sự khinh miệt (ví dụ với triều đình)",
+          "en": "insult, affront, slight, contempt (e.g. of court)"
         },
         "romaji": "bujoku"
       },
@@ -249,7 +269,8 @@
         "example": "軽侮",
         "reading": "ケイブ",
         "meaning": {
-          "vi": "contempt, scorn"
+          "vi": "sự khinh miệt, sự coi thường",
+          "en": "contempt, scorn"
         },
         "romaji": "keibu"
       }
@@ -259,7 +280,8 @@
         "example": "侮る",
         "reading": "あなどる",
         "meaning": {
-          "vi": "to disdain, to look down on, to make light of, to hold in contempt, to scorn, to despise"
+          "vi": "khinh thường, coi xuống, xem nhẹ, ôm lòng khinh miệt, coi rẻ, khinh bỉ",
+          "en": "to disdain, to look down on, to make light of, to hold in contempt, to scorn, to despise"
         },
         "romaji": "anadoru"
       }
@@ -269,7 +291,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "乞",

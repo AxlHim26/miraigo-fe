@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1278",
     "strokeCount": 10,
-    "meaning": "tempt, seduce, instigate, promote",
+    "meaning": {
+      "en": "tempt, seduce, instigate, promote",
+      "vi": "cám dỗ, xúi giục, kích động, thúc đẩy"
+    },
     "kunyomi": [
       "そそ.る",
       "そそのか.す"
@@ -21,7 +24,8 @@
         "example": "教唆",
         "reading": "キョウサ",
         "meaning": {
-          "en": "instigation, incitement"
+          "en": "instigation, incitement",
+          "vi": "sự xúi giục, kích động"
         },
         "romaji": "kyousa"
       }
@@ -31,7 +35,8 @@
         "example": "唆る",
         "reading": "そそる",
         "meaning": {
-          "vi": "to excite, to incite, to stimulate, to arouse, to tempt, to stir up"
+          "vi": "to excite, to incite, to stimulate, to arouse, to tempt, to stir up",
+          "en": "to excite, to incite, to stimulate, to arouse, to tempt, to stir up"
         },
         "romaji": "sosoru"
       },
@@ -39,14 +44,18 @@
         "example": "唆す",
         "reading": "そそのかす",
         "meaning": {
-          "vi": "to instigate, to tempt, to entice, to incite"
+          "vi": "to instigate, to tempt, to entice, to incite",
+          "en": "to instigate, to tempt, to entice, to incite"
         },
         "romaji": "sosonokasu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "儿",
@@ -61,5 +70,7 @@
   },
   "hanViet": [
     "toa"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Lời nói từ miệng 口 có thể xúi người khác làm việc, đó là 唆."
 }

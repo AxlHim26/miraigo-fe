@@ -5,7 +5,10 @@
     "query": "儿",
     "found": true,
     "strokeCount": 2,
-    "meaning": "legs radical (no. 10)",
+    "meaning": {
+      "en": "legs radical (no. 10)",
+      "vi": "bộ chân (bộ thủ số 10)"
+    },
     "kunyomi": [
       "がい"
     ],
@@ -17,7 +20,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "儿"

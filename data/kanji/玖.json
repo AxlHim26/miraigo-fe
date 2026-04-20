@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 7,
-    "meaning": "beautiful black jewel, nine",
+    "meaning": {
+      "en": "beautiful black jewel, nine",
+      "vi": "ngọc đen đẹp, số chín"
+    },
     "kunyomi": [],
     "onyomi": [
       "キュウ",
@@ -17,7 +20,8 @@
         "example": "九",
         "reading": "キュウ",
         "meaning": {
-          "en": "nine, 9"
+          "en": "nine, 9",
+          "vi": "chín, 9"
         },
         "romaji": "kyuu"
       },
@@ -25,7 +29,8 @@
         "example": "九",
         "reading": "キュウ",
         "meaning": {
-          "en": "nine, 9"
+          "en": "nine, 9",
+          "vi": "chín, 9"
         },
         "romaji": "kyuu"
       }
@@ -36,7 +41,10 @@
       "forms": [
         "王"
       ],
-      "meaning": "jade (king)"
+      "meaning": {
+        "en": "jade (king)",
+        "vi": "ngọc"
+      }
     },
     "parts": [
       "久",
@@ -49,5 +57,7 @@
   },
   "hanViet": [
     "cửu"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: viên ngọc bên trái ghép số chín bên phải, nhớ là viên ngọc đen quý như số 9."
 }

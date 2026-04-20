@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 50,
     "kunyomi": "katayo, katayoru, katayori",
-    "meaning": "one-sided, lean, incline, partial",
+    "meaning": {
+      "en": "one-sided, lean, incline, partial",
+      "vi": "phiến diện, nghiêng, thiên về, thiên vị"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "偏（へん）",
         "meaning": {
-          "english": "radical on the left side of kanji"
+          "english": "radical on the left side of kanji",
+          "en": "radical on the left side of kanji",
+          "vi": "bộ thủ đứng bên trái của chữ kanji"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "偏見（へんけん）",
         "meaning": {
-          "english": "prejudice, narrow view"
+          "english": "prejudice, narrow view",
+          "en": "prejudice, narrow view",
+          "vi": "thành kiến, cái nhìn hẹp hòi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "偏食（へんしょく）",
         "meaning": {
-          "english": "unbalanced diet"
+          "english": "unbalanced diet",
+          "en": "unbalanced diet",
+          "vi": "chế độ ăn mất cân bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "偏頭痛（へんずつう）",
         "meaning": {
-          "english": "migraine headache"
+          "english": "migraine headache",
+          "en": "migraine headache",
+          "vi": "đau nửa đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "偏差値（へんさち）",
         "meaning": {
-          "english": "deviation value"
+          "english": "deviation value",
+          "en": "deviation value",
+          "vi": "giá trị độ lệch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "偏屈な（へんくつな）",
         "meaning": {
-          "english": "narrow-minded, perverse"
+          "english": "narrow-minded, perverse",
+          "en": "narrow-minded, perverse",
+          "vi": "hẹp hòi, cố chấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "偏狭な（へんきょうな）",
         "meaning": {
-          "english": "narrow-minded, intolerant"
+          "english": "narrow-minded, intolerant",
+          "en": "narrow-minded, intolerant",
+          "vi": "hẹp hòi, không khoan dung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "偏重する（へんちょうする）",
         "meaning": {
-          "english": "overemphasize"
+          "english": "overemphasize",
+          "en": "overemphasize",
+          "vi": "nhấn mạnh quá mức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "偏愛する（へんあいする）",
         "meaning": {
-          "english": "be partial, show favoritism"
+          "english": "be partial, show favoritism",
+          "en": "be partial, show favoritism",
+          "vi": "thiên vị, tỏ ra ưu ái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "偏る（かたよる）",
         "meaning": {
-          "english": "incline towards, be biased"
+          "english": "incline towards, be biased",
+          "en": "incline towards, be biased",
+          "vi": "nghiêng về, thiên lệch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katayo(ru)_06_j.opus",
@@ -230,7 +253,9 @@
     "kanji": {
       "character": "偏",
       "meaning": {
-        "english": "one-sided, lean, incline, partial"
+        "english": "one-sided, lean, incline, partial",
+        "en": "one-sided, lean, incline, partial",
+        "vi": "phiến diện, nghiêng, thiên về, thiên vị"
       },
       "strokes": {
         "count": 11,
@@ -290,7 +315,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -311,7 +338,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1340",
     "strokeCount": 11,
-    "meaning": "partial, side, left-side radical, inclining, biased",
+    "meaning": {
+      "en": "partial, side, left-side radical, inclining, biased",
+      "vi": "một phía, bên, bộ đứng bên trái, nghiêng, thiên lệch"
+    },
     "kunyomi": [
       "かたよ.る"
     ],
@@ -323,7 +353,8 @@
         "example": "偏",
         "reading": "ヘン",
         "meaning": {
-          "en": "left-hand radical of a character"
+          "en": "left-hand radical of a character",
+          "vi": "bộ thủ bên trái của một chữ"
         },
         "romaji": "hen"
       },
@@ -331,7 +362,8 @@
         "example": "偏見",
         "reading": "ヘンケン",
         "meaning": {
-          "vi": "prejudice, bias, distorted view"
+          "vi": "prejudice, bias, distorted view",
+          "en": "prejudice, bias, distorted view"
         },
         "romaji": "henken"
       },
@@ -339,7 +371,8 @@
         "example": "普遍",
         "reading": "フヘン",
         "meaning": {
-          "vi": "universal, general, ubiquitous, omnipresent"
+          "vi": "universal, general, ubiquitous, omnipresent",
+          "en": "universal, general, ubiquitous, omnipresent"
         },
         "romaji": "fuhen"
       },
@@ -347,7 +380,8 @@
         "example": "貝偏",
         "reading": "カイヘン",
         "meaning": {
-          "en": "kanji \"shell\" radical at left"
+          "en": "kanji \"shell\" radical at left",
+          "vi": "bộ \"vỏ sò\" của kanji ở bên trái"
         },
         "romaji": "kaihen"
       }
@@ -357,7 +391,8 @@
         "example": "偏る",
         "reading": "かたよる",
         "meaning": {
-          "vi": "to lean (to one side), to incline, to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on, to be partial, to be biased, to be prejudiced"
+          "vi": "to lean (to one side), to incline, to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on, to be partial, to be biased, to be prejudiced",
+          "en": "to lean (to one side), to incline, to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on, to be partial, to be biased, to be prejudiced"
         },
         "romaji": "katayoru"
       }
@@ -367,7 +402,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

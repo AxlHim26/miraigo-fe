@@ -5,7 +5,10 @@
     "query": "仟",
     "found": true,
     "strokeCount": 5,
-    "meaning": "thousand",
+    "meaning": {
+      "en": "thousand",
+      "vi": "nghìn"
+    },
     "kunyomi": [
       "ち",
       "かしら"
@@ -18,7 +21,8 @@
         "example": "千",
         "reading": "セン",
         "meaning": {
-          "en": "thousand, 1,000"
+          "en": "thousand, 1,000",
+          "vi": "nghìn, 1.000"
         },
         "romaji": "sen"
       }
@@ -28,7 +32,8 @@
         "example": "千",
         "reading": "せん",
         "meaning": {
-          "en": "thousand, 1,000"
+          "en": "thousand, 1,000",
+          "vi": "nghìn, 1.000"
         },
         "romaji": "sen"
       }
@@ -38,7 +43,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

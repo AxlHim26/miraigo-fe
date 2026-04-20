@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1956",
     "strokeCount": 7,
-    "meaning": "versify, singing, recital",
+    "meaning": {
+      "en": "versify, singing, recital",
+      "vi": "ngâm thơ, ca ngâm, xướng tụng"
+    },
     "kunyomi": [],
     "onyomi": [
       "ギン"
@@ -18,7 +21,8 @@
         "example": "吟",
         "reading": "ギン",
         "meaning": {
-          "vi": "recitation (of a poem), chanting, singing, composition (of a poem), composed poem, classical Chinese poetry form, stress of sound in noh song"
+          "vi": "ngâm thơ, ngâm xướng, ca hát, sáng tác thơ, bài thơ đã làm, thể thơ Hán cổ, nhấn âm trong hát Noh",
+          "en": "recitation (of a poem), chanting, singing, composition (of a poem), composed poem, classical Chinese poetry form, stress of sound in noh song"
         },
         "romaji": "gin"
       },
@@ -26,7 +30,8 @@
         "example": "吟味",
         "reading": "ギンミ",
         "meaning": {
-          "vi": "close examination, careful investigation, close inspection, careful selection, inquiry, enquiry, scrutiny, testing, investigation of a crime, inquiry into someone's guilt, winner (of the most rounds, i.e. a full game), reciting and appreciating traditional poetry"
+          "vi": "xem xét kỹ, điều tra cẩn thận, kiểm tra sát, chọn lọc kỹ, truy vấn, thẩm tra, thử nghiệm, điều tra tội phạm, tra xét tội trạng, người thắng nhiều hiệp, ngâm và thưởng thức thơ ca cổ truyền",
+          "en": "close examination, careful investigation, close inspection, careful selection, inquiry, enquiry, scrutiny, testing, investigation of a crime, inquiry into someone's guilt, winner (of the most rounds, i.e. a full game), reciting and appreciating traditional poetry"
         },
         "romaji": "ginmi"
       },
@@ -34,7 +39,8 @@
         "example": "愛吟",
         "reading": "アイギン",
         "meaning": {
-          "vi": "love of reciting or singing favourite poems or songs"
+          "vi": "niềm yêu thích ngâm hoặc hát những bài thơ, bài ca ưa thích",
+          "en": "love of reciting or singing favourite poems or songs"
         },
         "romaji": "aigin"
       },
@@ -42,7 +48,8 @@
         "example": "詠吟",
         "reading": "エイギン",
         "meaning": {
-          "vi": "reciting poetry"
+          "vi": "ngâm thơ",
+          "en": "reciting poetry"
         },
         "romaji": "eigin"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "一",
@@ -64,5 +74,6 @@
   },
   "hanViet": [
     "ngâm"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng 口 ngân dài thành tiếng thơ ca, nên nhớ nghĩa ngâm, xướng."
 }

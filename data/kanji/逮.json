@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "766",
     "strokeCount": 11,
-    "meaning": "apprehend, chase",
+    "meaning": {
+      "en": "apprehend, chase",
+      "vi": "bắt giữ, truy đuổi"
+    },
     "kunyomi": [],
     "onyomi": [
       "タイ"
@@ -18,7 +21,8 @@
         "example": "逮捕",
         "reading": "タイホ",
         "meaning": {
-          "vi": "arrest, apprehension, capture"
+          "vi": "arrest, apprehension, capture",
+          "en": ""
         },
         "romaji": "taiho"
       },
@@ -26,7 +30,8 @@
         "example": "逮捕及び監禁罪",
         "reading": "タイホオヨビカンキンザイ",
         "meaning": {
-          "vi": "false arrest and imprisonment, illegal arrest and confinement"
+          "vi": "false arrest and imprisonment, illegal arrest and confinement",
+          "en": ""
         },
         "romaji": "taihooyobikankinzai"
       }
@@ -39,7 +44,10 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": {
+        "en": "walk",
+        "vi": "đi, bước"
+      }
     },
     "parts": [
       "ヨ",
@@ -55,5 +63,7 @@
   "hanViet": [
     "đãi",
     "đệ"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: bước chân đuổi sát để bắt kịp ai đó, nên 逮 là bắt giữ, truy đuổi."
 }

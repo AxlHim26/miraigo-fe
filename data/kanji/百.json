@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "hundred",
+    "meaning": {
+      "en": "hundred",
+      "vi": "trăm"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "百（ひゃく）",
         "meaning": {
-          "english": "100"
+          "english": "100",
+          "en": "100",
+          "vi": "100"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyaku-momo_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "百倍（ひゃくばい）",
         "meaning": {
-          "english": "hundredfold"
+          "english": "hundredfold",
+          "en": "hundredfold",
+          "vi": "gấp trăm lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyaku-momo_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "百姓（ひゃくしょう）",
         "meaning": {
-          "english": "farmer"
+          "english": "farmer",
+          "en": "farmer",
+          "vi": "nông dân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyaku-momo_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "三百（さんびゃく）",
         "meaning": {
-          "english": "300"
+          "english": "300",
+          "en": "300",
+          "vi": "300"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyaku-momo_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "六百（ろっぴゃく）",
         "meaning": {
-          "english": "600"
+          "english": "600",
+          "en": "600",
+          "vi": "600"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyaku-momo_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "八百（はっぴゃく）",
         "meaning": {
-          "english": "800"
+          "english": "800",
+          "en": "800",
+          "vi": "800"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyaku-momo_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "*八百屋（やおや）",
         "meaning": {
-          "english": "greengrocer"
+          "english": "greengrocer",
+          "en": "greengrocer",
+          "vi": "người bán rau quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hyaku-momo_06_g.opus",
@@ -232,7 +249,9 @@
     "kanji": {
       "character": "百",
       "meaning": {
-        "english": "hundred"
+        "english": "hundred",
+        "en": "hundred",
+        "vi": "trăm"
       },
       "strokes": {
         "count": 6,
@@ -282,7 +301,9 @@
         "romaji": "shiro"
       },
       "meaning": {
-        "english": "white"
+        "english": "white",
+        "en": "white",
+        "vi": "trắng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shiro0.svg",
@@ -303,7 +324,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "163",
     "strokeCount": 6,
-    "meaning": "hundred",
+    "meaning": {
+      "en": "hundred",
+      "vi": "trăm"
+    },
     "kunyomi": [
       "もも"
     ],
@@ -316,7 +340,8 @@
         "example": "百",
         "reading": "ヒャク",
         "meaning": {
-          "en": "hundred, 100"
+          "en": "hundred, 100",
+          "vi": "trăm, 100"
         },
         "romaji": "hyaku"
       },
@@ -324,7 +349,8 @@
         "example": "１００億",
         "reading": "ヒャクオク",
         "meaning": {
-          "en": "10,000,000,000, ten billion"
+          "en": "10,000,000,000, ten billion",
+          "vi": "10.000.000.000, mười tỷ"
         },
         "romaji": "hyakuoku"
       },
@@ -332,7 +358,8 @@
         "example": "９００",
         "reading": "キュウヒャク",
         "meaning": {
-          "en": "900, nine hundred, fool, idiot"
+          "en": "900, nine hundred, fool, idiot",
+          "vi": "900, chín trăm, kẻ ngốc, đồ ngốc"
         },
         "romaji": "kyuuhyaku"
       },
@@ -340,7 +367,8 @@
         "example": "５００",
         "reading": "ゴヒャク",
         "meaning": {
-          "en": "500, five hundred, many"
+          "en": "500, five hundred, many",
+          "vi": "500, năm trăm, nhiều"
         },
         "romaji": "gohyaku"
       },
@@ -348,7 +376,8 @@
         "example": "百合",
         "reading": "ビャクゴウ",
         "meaning": {
-          "en": "lily (as an ingredient in traditional Chinese medicine)"
+          "en": "lily (as an ingredient in traditional Chinese medicine)",
+          "vi": "hoa loa kèn bách hợp (dùng làm vị thuốc Đông y)"
         },
         "romaji": "byakugou"
       },
@@ -356,7 +385,8 @@
         "example": "凡百",
         "reading": "ボンピャク",
         "meaning": {
-          "en": "various, many, all kinds of"
+          "en": "various, many, all kinds of",
+          "vi": "đa dạng, nhiều, đủ loại"
         },
         "romaji": "bonpyaku"
       }
@@ -366,7 +396,8 @@
         "example": "百",
         "reading": "もも",
         "meaning": {
-          "en": "hundred, 100, (a great) many"
+          "en": "hundred, 100, (a great) many",
+          "vi": "trăm, 100, rất nhiều"
         },
         "romaji": "momo"
       },
@@ -374,14 +405,18 @@
         "example": "百重",
         "reading": "ももえ",
         "meaning": {
-          "vi": "piling up highly, becoming a large pile"
+          "vi": "piling up highly, becoming a large pile",
+          "en": "becoming a large pile"
         },
         "romaji": "momoe"
       }
     ],
     "radical": {
       "symbol": "白",
-      "meaning": "white"
+      "meaning": {
+        "en": "white",
+        "vi": "trắng"
+      }
     },
     "parts": [
       "一",
@@ -396,5 +431,7 @@
     "bá",
     "bách",
     "mạch"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: số 1 đặt trên chữ trắng 白, tưởng tượng gom rất nhiều hạt lại thành một trăm."
 }

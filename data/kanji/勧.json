@@ -275,5 +275,11 @@
   },
   "hanViet": [
     "cần"
-  ]
+  ],
+  "meaning": {
+    "en": "persuade, recommend, advise, encourage, offer",
+    "vi": "khuyên nhủ, đề nghị, góp ý, khích lệ, mời"
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 勧 như dùng lời và sức để khuyên người khác làm điều nên làm."
 }

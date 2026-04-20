@@ -1,9 +1,13 @@
 export type KanjiExample = {
   japanese: string;
-  meaning: {
-    english?: string;
-    vietnamese?: string;
-  };
+  meaning:
+    | string
+    | {
+        en?: string;
+        vi?: string;
+        english?: string;
+        vietnamese?: string;
+      };
   audio?: {
     mp3?: string;
     ogg?: string;
@@ -15,7 +19,14 @@ export type KanjiExample = {
 export type KanjiInfo = {
   id: string;
   kanjialiveData?: {
-    meaning?: string;
+    meaning?:
+      | string
+      | {
+          en?: string;
+          vi?: string;
+          english?: string;
+          vietnamese?: string;
+        };
     onyomi_ja?: string;
     kunyomi_ja?: string;
     kunyomi?: string;
@@ -41,7 +52,14 @@ export type KanjiInfo = {
     };
   };
   jishoData?: {
-    meaning?: string;
+    meaning?:
+      | string
+      | {
+          en?: string;
+          vi?: string;
+          english?: string;
+          vietnamese?: string;
+        };
     onyomi?: string[];
     kunyomi?: string[];
     // eslint-disable-next-line @typescript-eslint/no-explicit-any

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1437",
     "strokeCount": 8,
-    "meaning": "pluck, pull, extract, excel",
+    "meaning": {
+      "en": "pluck, pull, extract, excel",
+      "vi": "rút ra, kéo ra, chiết xuất, nổi trội"
+    },
     "kunyomi": [
       "ひき-"
     ],
@@ -20,7 +23,8 @@
         "example": "抽象",
         "reading": "チュウショウ",
         "meaning": {
-          "en": "abstraction"
+          "en": "abstraction",
+          "vi": "sự trừu tượng, sự khái quát hóa"
         },
         "romaji": "chuushou"
       },
@@ -28,7 +32,8 @@
         "example": "抽出",
         "reading": "チュウシュツ",
         "meaning": {
-          "vi": "extraction, abstraction, selection (from a group), sampling"
+          "vi": "extraction, abstraction, selection (from a group), sampling",
+          "en": ""
         },
         "romaji": "chuushutsu"
       }
@@ -39,7 +44,10 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": {
+        "en": "hand",
+        "vi": "tay"
+      }
     },
     "parts": [
       "扎",
@@ -54,5 +62,7 @@
   },
   "hanViet": [
     "trừu"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: dùng tay rút một vật từ trong ra, nên 抽 là kéo ra, trích ra."
 }

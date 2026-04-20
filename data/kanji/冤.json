@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2382",
     "strokeCount": 10,
-    "meaning": "false charge, hatred",
+    "meaning": {
+      "en": "false charge, hatred",
+      "vi": "oan sai, oán hận"
+    },
     "kunyomi": [],
     "onyomi": [
       "エン"
@@ -16,7 +19,8 @@
         "example": "冤",
         "reading": "エン",
         "meaning": {
-          "en": "false charge, false accusation"
+          "en": "false charge, false accusation",
+          "vi": "cáo buộc oan, vu cáo"
         },
         "romaji": "en"
       },
@@ -24,7 +28,8 @@
         "example": "冤罪",
         "reading": "エンザイ",
         "meaning": {
-          "vi": "false charge, false accusation, misrepresentation"
+          "vi": "false charge, false accusation, misrepresentation",
+          "en": "false charge, false accusation, misrepresentation"
         },
         "romaji": "enzai"
       },
@@ -32,7 +37,8 @@
         "example": "雪冤",
         "reading": "セツエン",
         "meaning": {
-          "vi": "exoneration, exculpation"
+          "vi": "exoneration, exculpation",
+          "en": "exoneration, exculpation"
         },
         "romaji": "setsuen"
       }
@@ -40,7 +46,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冖",
-      "meaning": "cover"
+      "meaning": {
+        "en": "cover",
+        "vi": "che phủ"
+      }
     },
     "parts": [
       "丶",
@@ -52,9 +61,11 @@
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20900_frames.png",
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a4.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a4.gif",
-    "uri": "https://jisho.org/search/%E5%86%A4%23kanji"
+    "uri": "https://jisho.org/search/%E5%86%A4%23kanji",
+    "jlptLevel": null
   },
   "hanViet": [
     "oan"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: bị che kín và mắc uất ức bên trong, nên gợi ra cảm giác oan khuất."
 }

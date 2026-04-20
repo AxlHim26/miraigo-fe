@@ -17,6 +17,7 @@ import KanjiSearch from "@/features/kanji/components/kanji-search";
 import RadicalRelationMap from "@/features/kanji/components/radical-relation-map";
 import { kanjiGroupLabel, type KanjiSearchEntry } from "@/features/kanji/data/kanji-search";
 import type { KanjiExample, KanjiInfo } from "@/features/kanji/types/kanji-info";
+import { getMeaningText } from "@/features/kanji/utils/meaning";
 import EmptyState from "@/shared/components/ui/empty-state";
 import { cn } from "@/shared/utils/cn";
 
@@ -51,7 +52,8 @@ const extractMeanings = (kanjiInfo: KanjiInfo | null) => {
   if (!kanjiInfo) return [] as string[];
   const meanings = new Set<string>();
   const mainMeaning = kanjiInfo.kanjialiveData?.meaning || kanjiInfo.jishoData?.meaning;
-  if (mainMeaning) meanings.add(mainMeaning);
+  const mainMeaningText = getMeaningText(mainMeaning, "vi");
+  if (mainMeaningText) meanings.add(mainMeaningText);
 
   const radicalMeaning =
     kanjiInfo.kanjialiveData?.radical?.meaning?.vietnamese ||
@@ -60,7 +62,7 @@ const extractMeanings = (kanjiInfo: KanjiInfo | null) => {
   if (radicalMeaning) meanings.add(radicalMeaning);
 
   (kanjiInfo.kanjialiveData?.examples ?? []).forEach((example) => {
-    const meaning = example.meaning?.vietnamese ?? example.meaning?.english;
+    const meaning = getMeaningText(example.meaning, "vi") || getMeaningText(example.meaning, "en");
     if (meaning) meanings.add(meaning);
   });
 
@@ -172,15 +174,9 @@ export default function KanjiMapView() {
   const mainMeaning = useMemo(() => {
     const rawMeaning =
       kanjiInfo?.meaning || kanjiInfo?.kanjialiveData?.meaning || kanjiInfo?.jishoData?.meaning;
-    const meaning =
-      typeof rawMeaning === "string"
-        ? rawMeaning
-        : rawMeaning?.[lang] || rawMeaning?.["en"] || rawMeaning?.["vi"] || undefined;
+    const meaning = getMeaningText(rawMeaning, lang);
     return (
-      meaning ||
-      translate(
-        typeof rawMeaning === "string" ? rawMeaning : rawMeaning?.["en"] || rawMeaning?.["vi"],
-      )
+      meaning || translate(getMeaningText(rawMeaning, "en") || getMeaningText(rawMeaning, "vi"))
     );
   }, [kanjiInfo, translate, lang]);
 
@@ -210,10 +206,10 @@ export default function KanjiMapView() {
     <Stack spacing={4}>
       <Stack spacing={1}>
         <Typography variant="h4" fontWeight={700}>
-          Kanji map
+          Tra cứu Hán tự
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Tra cứu, luyện viết và theo dõi tiến độ ghi nhớ kanji theo cấp độ JLPT
+          Tìm nhanh Hán tự, xem nghĩa, dùng bảng vẽ tay và kiểm tra nét viết khi cần
         </Typography>
       </Stack>
 
@@ -432,18 +428,10 @@ const KanjiExampleRow = React.memo(function KanjiExampleRow({
 
   if (typeof rawMeaning === "object" && rawMeaning !== null) {
     const raw = rawMeaning as Record<string, string>;
-    if (lang === "vi") {
-      meaningFallback =
-        raw["vi"] ||
-        raw["vietnamese"] ||
-        translate(raw["en"] || raw["english"]) ||
-        raw["en"] ||
-        raw["english"] ||
-        "Chưa có nghĩa";
-    } else {
-      meaningFallback =
-        raw["en"] || raw["english"] || raw["vi"] || raw["vietnamese"] || "Chưa có nghĩa";
-    }
+    meaningFallback =
+      getMeaningText(raw, lang) ||
+      translate(getMeaningText(raw, "en") || getMeaningText(raw, "vi")) ||
+      "Chưa có nghĩa";
   } else if (typeof rawMeaning === "string") {
     meaningFallback = rawMeaning;
   }

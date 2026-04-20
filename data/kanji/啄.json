@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2463",
     "strokeCount": 10,
-    "meaning": "peck, pick up",
+    "meaning": {
+      "en": "peck, pick up",
+      "vi": "mổ, nhặt lên"
+    },
     "kunyomi": [
       "ついば.む",
       "つつ.く"
@@ -22,7 +25,8 @@
         "example": "啄",
         "reading": "タク",
         "meaning": {
-          "vi": "seventh principle of the Eight Principles of Yong, stroke that falls leftwards with slight curve"
+          "vi": "seventh principle of the Eight Principles of Yong, stroke that falls leftwards with slight curve",
+          "en": "seventh principle of the Eight Principles of Yong, a left-falling stroke with a slight curve"
         },
         "romaji": "taku"
       },
@@ -30,7 +34,8 @@
         "example": "啄木",
         "reading": "タクボク",
         "meaning": {
-          "vi": "woodpecker"
+          "vi": "woodpecker",
+          "en": "woodpecker"
         },
         "romaji": "takuboku"
       },
@@ -38,7 +43,8 @@
         "example": "啐啄",
         "reading": "ソッタク",
         "meaning": {
-          "vi": "once-in-a-lifetime opportunity, golden opportunity, being completely in sync (of a Zen master and apprentice)"
+          "vi": "once-in-a-lifetime opportunity, golden opportunity, being completely in sync (of a Zen master and apprentice)",
+          "en": "once-in-a-lifetime opportunity, golden opportunity, being completely in sync (of a Zen master and apprentice)"
         },
         "romaji": "sottaku"
       }
@@ -48,14 +54,18 @@
         "example": "啄ばむ",
         "reading": "ついばむ",
         "meaning": {
-          "vi": "to pick at, to peck at"
+          "vi": "to pick at, to peck at",
+          "en": "to pick at, to peck at"
         },
         "romaji": "tsuibamu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -69,5 +79,7 @@
   "hanViet": [
     "trác",
     "trụ"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Chim dùng mỏ như miệng 口 để mổ nhặt từng hạt, đó là 啄."
 }

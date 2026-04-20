@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1821",
     "strokeCount": 9,
-    "meaning": "clear, help",
+    "meaning": {
+      "en": "clear, help",
+      "vi": "sáng rõ, giúp đỡ"
+    },
     "kunyomi": [
       "あきらか"
     ],
@@ -19,7 +22,8 @@
         "example": "諒闇",
         "reading": "リョウアン",
         "meaning": {
-          "vi": "court mourning (for the late emperor or empress), national mourning"
+          "vi": "quốc tang trong triều (cho cố hoàng đế hoặc hoàng hậu), quốc tang",
+          "en": "court mourning (for the late emperor or empress), national mourning"
         },
         "romaji": "ryouan"
       },
@@ -27,7 +31,8 @@
         "example": "亮月",
         "reading": "リョウゲツ",
         "meaning": {
-          "en": "bright moonlight"
+          "en": "bright moonlight",
+          "vi": "ánh trăng sáng"
         },
         "romaji": "ryougetsu"
       },
@@ -35,7 +40,8 @@
         "example": "嚠喨",
         "reading": "リュウリョウ",
         "meaning": {
-          "en": "clear and resounding (as a voice or musical instrument)"
+          "en": "clear and resounding (as a voice or musical instrument)",
+          "vi": "trong trẻo và vang vọng (như giọng nói hoặc nhạc cụ)"
         },
         "romaji": "ryuuryou"
       }
@@ -43,7 +49,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "亠",

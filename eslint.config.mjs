@@ -1,3 +1,5 @@
+import { fileURLToPath } from "node:url";
+
 import { defineConfig, globalIgnores } from "eslint/config";
 import tsPlugin from "@typescript-eslint/eslint-plugin";
 import nextVitals from "eslint-config-next/core-web-vitals";
@@ -6,6 +8,8 @@ import prettier from "eslint-config-prettier";
 import simpleImportSort from "eslint-plugin-simple-import-sort";
 import tailwindcss from "eslint-plugin-tailwindcss";
 import unusedImports from "eslint-plugin-unused-imports";
+
+const tailwindConfigPath = fileURLToPath(new URL("./tailwind.config.js", import.meta.url));
 
 const eslintConfig = defineConfig([
   ...nextVitals,
@@ -21,7 +25,7 @@ const eslintConfig = defineConfig([
     settings: {
       tailwindcss: {
         callees: ["clsx", "cn", "cva"],
-        config: "tailwind.config.js",
+        config: tailwindConfigPath,
       },
     },
     rules: {

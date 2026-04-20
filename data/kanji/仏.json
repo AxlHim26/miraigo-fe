@@ -7,13 +7,17 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "hotoke",
-    "meaning": "buddha, France",
+    "meaning": {
+      "en": "buddha, France",
+      "vi": "Phật, Pháp"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "仏像（ぶつぞう）",
         "meaning": {
-          "english": "Buddhist image or statue"
+          "en": "Buddhist image or statue",
+          "vi": "tượng Phật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "仏壇（ぶつだん）",
         "meaning": {
-          "english": "Buddhist altar"
+          "en": "Buddhist altar",
+          "vi": "bàn thờ Phật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "仏陀（ぶっだ）",
         "meaning": {
-          "english": "Buddha"
+          "en": "Buddha",
+          "vi": "Phật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "仏教（ぶっきょう）",
         "meaning": {
-          "english": "Buddhism"
+          "en": "Buddhism",
+          "vi": "Phật giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "仏文（ふつぶん）",
         "meaning": {
-          "english": "French literature"
+          "en": "French literature",
+          "vi": "văn học Pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "大仏（だいぶつ）",
         "meaning": {
-          "english": "large statue of Buddha"
+          "en": "large statue of Buddha",
+          "vi": "đại Phật, tượng Phật lớn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "神仏（しんぶつ）",
         "meaning": {
-          "english": "(Shinto) deities and Buddhas"
+          "en": "(Shinto) deities and Buddhas",
+          "vi": "các thần linh (Thần đạo) và chư Phật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "念仏（ねんぶつ）",
         "meaning": {
-          "english": "Buddhist prayer"
+          "en": "Buddhist prayer",
+          "vi": "lời cầu nguyện Phật giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "石仏（せきぶつ）",
         "meaning": {
-          "english": "stone statue of Buddha"
+          "en": "stone statue of Buddha",
+          "vi": "tượng Phật bằng đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "仏（ほとけ）",
         "meaning": {
-          "english": "Buddha"
+          "en": "Buddha",
+          "vi": "Phật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "喉仏（のどぼとけ）",
         "meaning": {
-          "english": "Adam's apple"
+          "en": "Adam's apple",
+          "vi": "trái cổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hotoke_06_k.opus",
@@ -250,7 +264,8 @@
     "kanji": {
       "character": "仏",
       "meaning": {
-        "english": "buddha, France"
+        "en": "buddha, France",
+        "vi": "Phật, Pháp"
       },
       "strokes": {
         "count": 4,
@@ -296,7 +311,8 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -317,7 +333,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "819",
     "strokeCount": 4,
-    "meaning": "Buddha, the dead, France",
+    "meaning": {
+      "en": "Buddha, the dead, France",
+      "vi": "Phật, người đã khuất, Pháp"
+    },
     "kunyomi": [
       "ほとけ"
     ],
@@ -330,7 +349,8 @@
         "example": "仏",
         "reading": "ブツ",
         "meaning": {
-          "en": "Buddha, Buddhism"
+          "en": "Buddha, Buddhism",
+          "vi": "Phật, Phật giáo"
         },
         "romaji": "butsu"
       },
@@ -338,7 +358,8 @@
         "example": "仏像",
         "reading": "ブツゾウ",
         "meaning": {
-          "en": "statue of Buddha, image of Buddha, Buddhist statue, Buddhist image"
+          "en": "statue of Buddha, image of Buddha, Buddhist statue, Buddhist image",
+          "vi": "tượng Phật, hình tượng Phật, tượng Phật giáo, hình tượng Phật giáo"
         },
         "romaji": "butsuzou"
       },
@@ -346,6 +367,7 @@
         "example": "石仏",
         "reading": "セキブツ",
         "meaning": {
+          "en": "stone Buddhist image, unemotional person, taciturn person",
           "vi": "stone Buddhist image, unemotional person, taciturn person"
         },
         "romaji": "sekibutsu"
@@ -354,6 +376,7 @@
         "example": "成仏",
         "reading": "ジョウブツ",
         "meaning": {
+          "en": "attaining Buddhahood, becoming a Buddha, entering Nirvana, going to heaven, resting in peace, dying (peacefully)",
           "vi": "attaining Buddhahood, becoming a Buddha, entering Nirvana, going to heaven, resting in peace, dying (peacefully)"
         },
         "romaji": "joubutsu"
@@ -362,7 +385,8 @@
         "example": "仏",
         "reading": "フツ",
         "meaning": {
-          "en": "France"
+          "en": "France",
+          "vi": "Pháp"
         },
         "romaji": "futsu"
       },
@@ -370,7 +394,8 @@
         "example": "仏語",
         "reading": "フツゴ",
         "meaning": {
-          "en": "French (language)"
+          "en": "French (language)",
+          "vi": "tiếng Pháp"
         },
         "romaji": "futsugo"
       },
@@ -378,7 +403,8 @@
         "example": "渡仏",
         "reading": "トフツ",
         "meaning": {
-          "en": "going to France"
+          "en": "going to France",
+          "vi": "đi Pháp"
         },
         "romaji": "tofutsu"
       },
@@ -386,7 +412,8 @@
         "example": "滞仏",
         "reading": "タイフツ",
         "meaning": {
-          "en": "staying in France"
+          "en": "staying in France",
+          "vi": "ở lại Pháp"
         },
         "romaji": "taifutsu"
       }
@@ -396,6 +423,7 @@
         "example": "仏",
         "reading": "ほとけ",
         "meaning": {
+          "en": "Buddha, Shakyamuni, Buddhist image, figure of Buddha, the dead, dead person, departed soul, merciful person",
           "vi": "Buddha, Shakyamuni, Buddhist image, figure of Buddha, the dead, dead person, departed soul, merciful person"
         },
         "romaji": "hotoke"
@@ -404,7 +432,8 @@
         "example": "仏顔",
         "reading": "ほとけがお",
         "meaning": {
-          "en": "gentle face"
+          "en": "gentle face",
+          "vi": "gương mặt hiền từ"
         },
         "romaji": "hotokegao"
       },
@@ -412,7 +441,8 @@
         "example": "神仏",
         "reading": "しんぶつ",
         "meaning": {
-          "en": "gods and Buddha, Shinto and Buddhism"
+          "en": "gods and Buddha, Shinto and Buddhism",
+          "vi": "thần linh và Phật, Thần đạo và Phật giáo"
         },
         "romaji": "shinbutsu"
       },
@@ -420,7 +450,8 @@
         "example": "吾が仏",
         "reading": "あがほとけ",
         "meaning": {
-          "en": "my dear, my Buddha"
+          "en": "my dear, my Buddha",
+          "vi": "trời ơi, ôi Phật ơi"
         },
         "romaji": "agahotoke"
       }
@@ -430,7 +461,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

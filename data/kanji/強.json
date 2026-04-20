@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "tsuyo, tsuyoi, tsuyomeru, tsuyomaru, shi, shiiru",
-    "meaning": "strong",
+    "meaning": {
+      "en": "strong",
+      "vi": "mạnh"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "勉強する（べんきょうする）",
         "meaning": {
-          "english": "study"
+          "en": "study",
+          "vi": "học tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "強化する（きょうかする）",
         "meaning": {
-          "english": "strengthen"
+          "en": "strengthen",
+          "vi": "tăng cường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "強力な（きょうりょくな）",
         "meaning": {
-          "english": "powerful"
+          "en": "powerful",
+          "vi": "mạnh mẽ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "強情な（ごうじょうな）",
         "meaning": {
-          "english": "obstinate"
+          "en": "obstinate",
+          "vi": "cứng đầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "強引な（ごういんな）",
         "meaning": {
-          "english": "coercive"
+          "en": "coercive",
+          "vi": "mang tính cưỡng ép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "強盗（ごうとう）",
         "meaning": {
-          "english": "robbery"
+          "en": "robbery",
+          "vi": "cướp bóc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "強い（つよい）",
         "meaning": {
-          "english": "strong"
+          "en": "strong",
+          "vi": "mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "強まる（つよまる）",
         "meaning": {
-          "english": "get strong [v.i.]"
+          "en": "get strong [v.i.]",
+          "vi": "trở nên mạnh hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "強める（つよめる）",
         "meaning": {
-          "english": "strengthen [v.t.]"
+          "en": "strengthen [v.t.]",
+          "vi": "làm cho mạnh hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "強いる（しいる）",
         "meaning": {
-          "english": "force, compel"
+          "en": "force, compel",
+          "vi": "ép buộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuyo(i)_06_j.opus",
@@ -280,7 +293,8 @@
     "kanji": {
       "character": "強",
       "meaning": {
-        "english": "strong"
+        "en": "strong",
+        "vi": "mạnh"
       },
       "strokes": {
         "count": 11,
@@ -340,7 +354,8 @@
         "romaji": "yumihen"
       },
       "meaning": {
-        "english": "bow（in archery）"
+        "en": "bow（in archery）",
+        "vi": "cung"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yumihen0.svg",
@@ -361,7 +376,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "112",
     "strokeCount": 11,
-    "meaning": "strong",
+    "meaning": {
+      "en": "strong",
+      "vi": "mạnh"
+    },
     "kunyomi": [
       "つよ.い",
       "つよ.まる",
@@ -378,6 +396,7 @@
         "example": "強",
         "reading": "キョウ",
         "meaning": {
+          "en": "a little over, a little more than, strength, the strong, powerhouse, one of the biggest, one of the most powerful, -upper (seismic intensity)",
           "vi": "a little over, a little more than, strength, the strong, powerhouse, one of the biggest, one of the most powerful, -upper (seismic intensity)"
         },
         "romaji": "kyou"
@@ -386,7 +405,8 @@
         "example": "強化",
         "reading": "キョウカ",
         "meaning": {
-          "en": "strengthening, intensifying, reinforcement, enhancement, solidification, reinforcement"
+          "en": "strengthening, intensifying, reinforcement, enhancement, solidification, reinforcement",
+          "vi": "sự tăng cường, làm mạnh lên, củng cố"
         },
         "romaji": "kyouka"
       },
@@ -394,6 +414,7 @@
         "example": "列強",
         "reading": "レッキョウ",
         "meaning": {
+          "en": "major powers of the world, great powers",
           "vi": "major powers of the world, great powers"
         },
         "romaji": "rekkyou"
@@ -402,7 +423,8 @@
         "example": "屈強",
         "reading": "クッキョウ",
         "meaning": {
-          "en": "robust, brawny, muscular, strong, sturdy"
+          "en": "robust, brawny, muscular, strong, sturdy",
+          "vi": "vạm vỡ, cường tráng, khỏe, chắc chắn"
         },
         "romaji": "kukkyou"
       },
@@ -410,7 +432,8 @@
         "example": "強盗",
         "reading": "ゴウトウ",
         "meaning": {
-          "en": "robber, mugger, robbery, burglary"
+          "en": "robber, mugger, robbery, burglary",
+          "vi": "kẻ cướp, cướp giật, vụ cướp, đột nhập trộm"
         },
         "romaji": "goutou"
       },
@@ -418,6 +441,7 @@
         "example": "強引",
         "reading": "ゴウイン",
         "meaning": {
+          "en": "overbearing, coercive, pushy, forcible, high-handed",
           "vi": "overbearing, coercive, pushy, forcible, high-handed"
         },
         "romaji": "gouin"
@@ -428,6 +452,7 @@
         "example": "強い",
         "reading": "つよい",
         "meaning": {
+          "en": "strong, potent, competent, domineering, tough, strong, brawny, powerful, healthy, rugged, good (at), skilled, knowledgeable, being able to handle, know how to deal (with), durable (against), resistant (to), resilient, firm, rigid, solid, intense, strong, fierce, high, dependable, trustworthy",
           "vi": "strong, potent, competent, domineering, tough, strong, brawny, powerful, healthy, rugged, good (at), skilled, knowledgeable, being able to handle, know how to deal (with), durable (against), resistant (to), resilient, firm, rigid, solid, intense, strong, fierce, high, dependable, trustworthy"
         },
         "romaji": "tsuyoi"
@@ -436,6 +461,7 @@
         "example": "強い雨",
         "reading": "つよいあめ",
         "meaning": {
+          "en": "heavy rain (specifically 20-29 mm per hour in JMA use)",
           "vi": "heavy rain (specifically 20-29 mm per hour in JMA use)"
         },
         "romaji": "tsuyoiame"
@@ -444,7 +470,8 @@
         "example": "強まる",
         "reading": "つよまる",
         "meaning": {
-          "en": "to get strong, to gain strength"
+          "en": "to get strong, to gain strength",
+          "vi": "mạnh lên, có thêm sức"
         },
         "romaji": "tsuyomaru"
       },
@@ -452,6 +479,7 @@
         "example": "強める",
         "reading": "つよめる",
         "meaning": {
+          "en": "to strengthen, to emphasize, to emphasise",
           "vi": "to strengthen, to emphasize, to emphasise"
         },
         "romaji": "tsuyomeru"
@@ -460,6 +488,7 @@
         "example": "強いる",
         "reading": "しいる",
         "meaning": {
+          "en": "to force, to compel, to coerce, to press, to impose",
           "vi": "to force, to compel, to coerce, to press, to impose"
         },
         "romaji": "shiiru"
@@ -468,7 +497,8 @@
         "example": "強い",
         "reading": "こわい",
         "meaning": {
-          "en": "tough, stiff, hard, inflexible, obstinate, stubborn, tired, worn out"
+          "en": "tough, stiff, hard, inflexible, obstinate, stubborn, tired, worn out",
+          "vi": "cứng, rắn, khó uốn, bướng bỉnh, mệt rã"
         },
         "romaji": "kowai"
       },
@@ -476,14 +506,18 @@
         "example": "強飯",
         "reading": "こわめし",
         "meaning": {
-          "en": "glutinous rice with red beans (eaten on celebratory occasions), mochi rice with red beans"
+          "en": "glutinous rice with red beans (eaten on celebratory occasions), mochi rice with red beans",
+          "vi": "xôi đậu đỏ"
         },
         "romaji": "kowameshi"
       }
     ],
     "radical": {
       "symbol": "弓",
-      "meaning": "bow"
+      "meaning": {
+        "en": "bow",
+        "vi": "cung"
+      }
     },
     "parts": [
       "厶",
@@ -498,5 +532,7 @@
   "hanViet": [
     "cường",
     "cưỡng"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: cây cung 弓 và sức lực căng lên, nên 強 là mạnh."
 }

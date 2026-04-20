@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1660",
     "strokeCount": 12,
-    "meaning": "bystander, side, besides, while, nearby, third person",
+    "meaning": {
+      "en": "bystander, side, besides, while, nearby, third person",
+      "vi": "người ngoài cuộc, bên cạnh, ngoài ra, trong khi, ở gần, ngôi thứ ba"
+    },
     "kunyomi": [
       "かたわ.ら",
       "わき",
@@ -24,7 +27,8 @@
         "example": "傍聴",
         "reading": "ボウチョウ",
         "meaning": {
-          "vi": "listening (to a lecture, hearing, parliament session, etc.), attending (without participating), sitting in (e.g. on a meeting), observing"
+          "vi": "listening (to a lecture, hearing, parliament session, etc.), attending (without participating), sitting in (e.g. on a meeting), observing",
+          "en": "listening (to a lecture, hearing, parliament session, etc.), attending (without participating), sitting in (e.g. on a meeting), observing"
         },
         "romaji": "bouchou"
       },
@@ -32,7 +36,8 @@
         "example": "脇見",
         "reading": "ワキミ",
         "meaning": {
-          "en": "looking from the side, looking aside"
+          "en": "looking from the side, looking aside",
+          "vi": "nhìn nghiêng, liếc sang bên"
         },
         "romaji": "wakimi"
       },
@@ -40,7 +45,8 @@
         "example": "路傍",
         "reading": "ロボウ",
         "meaning": {
-          "en": "roadside"
+          "en": "roadside",
+          "vi": "ven đường"
         },
         "romaji": "robou"
       },
@@ -48,7 +54,8 @@
         "example": "道傍",
         "reading": "ドウボウ",
         "meaning": {
-          "en": "side of the road, roadside"
+          "en": "side of the road, roadside",
+          "vi": "bên đường, ven đường"
         },
         "romaji": "doubou"
       }
@@ -58,7 +65,8 @@
         "example": "傍ら",
         "reading": "かたわら",
         "meaning": {
-          "en": "side, edge, beside, besides, nearby, while (doing), in addition to, at the same time"
+          "en": "side, edge, beside, besides, nearby, while (doing), in addition to, at the same time",
+          "vi": "bên, mép, bên cạnh, ngoài ra, ở gần, trong khi làm, thêm vào đó, đồng thời"
         },
         "romaji": "katawara"
       },
@@ -66,7 +74,8 @@
         "example": "傍らに",
         "reading": "かたわらに",
         "meaning": {
-          "en": "beside, nearby"
+          "en": "beside, nearby",
+          "vi": "bên cạnh, gần đó"
         },
         "romaji": "katawarani"
       },
@@ -74,7 +83,8 @@
         "example": "脇役",
         "reading": "わきやく",
         "meaning": {
-          "vi": "supporting role (actor), minor role"
+          "vi": "supporting role (actor), minor role",
+          "en": "supporting role (actor), minor role"
         },
         "romaji": "wakiyaku"
       },
@@ -82,7 +92,8 @@
         "example": "脇見",
         "reading": "わきみ",
         "meaning": {
-          "en": "looking from the side, looking aside"
+          "en": "looking from the side, looking aside",
+          "vi": "nhìn nghiêng, liếc sang bên"
         },
         "romaji": "wakimi"
       },
@@ -90,7 +101,8 @@
         "example": "側",
         "reading": "そば",
         "meaning": {
-          "vi": "near, close, beside, vicinity, proximity, besides, while, third person"
+          "vi": "near, close, beside, vicinity, proximity, besides, while, third person",
+          "en": "near, close, beside, vicinity, proximity, besides, while, third person"
         },
         "romaji": "soba"
       },
@@ -98,7 +110,8 @@
         "example": "端から",
         "reading": "はたから",
         "meaning": {
-          "en": "from outside, from the side"
+          "en": "from outside, from the side",
+          "vi": "từ bên ngoài, từ bên cạnh"
         },
         "romaji": "hatakara"
       },
@@ -106,7 +119,8 @@
         "example": "側",
         "reading": "そば",
         "meaning": {
-          "vi": "near, close, beside, vicinity, proximity, besides, while, third person"
+          "vi": "near, close, beside, vicinity, proximity, besides, while, third person",
+          "en": "near, close, beside, vicinity, proximity, besides, while, third person"
         },
         "romaji": "soba"
       },
@@ -114,7 +128,8 @@
         "example": "側から",
         "reading": "そばから",
         "meaning": {
-          "en": "as soon as, right after"
+          "en": "as soon as, right after",
+          "vi": "ngay khi, ngay sau đó"
         },
         "romaji": "sobakara"
       },
@@ -122,7 +137,8 @@
         "example": "お側",
         "reading": "おそば",
         "meaning": {
-          "vi": "near, close, beside, vicinity, proximity, besides, while, attendant, retainer, vassal"
+          "vi": "near, close, beside, vicinity, proximity, besides, while, attendant, retainer, vassal",
+          "en": "near, close, beside, vicinity, proximity, besides, while, attendant, retainer, vassal"
         },
         "romaji": "osoba"
       }
@@ -132,7 +148,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "亠",

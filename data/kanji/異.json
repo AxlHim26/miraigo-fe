@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": null,
     "kunyomi": "koto, kotonaru",
-    "meaning": "different",
+    "meaning": {
+      "en": "different",
+      "vi": "khác biệt"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "異質（いしつ）",
         "meaning": {
-          "english": "heterogeneous"
+          "english": "heterogeneous",
+          "en": "heterogeneous",
+          "vi": "không đồng nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koto(naru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "異国（いこく）",
         "meaning": {
-          "english": "foreign country"
+          "english": "foreign country",
+          "en": "foreign country",
+          "vi": "nước ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koto(naru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "異議（いぎ）",
         "meaning": {
-          "english": "objection"
+          "english": "objection",
+          "en": "objection",
+          "vi": "phản đối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koto(naru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "異性（いせい）",
         "meaning": {
-          "english": "the opposite sex"
+          "english": "the opposite sex",
+          "en": "the opposite sex",
+          "vi": "người khác giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koto(naru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "異色（いしょく）",
         "meaning": {
-          "english": "unique"
+          "english": "unique",
+          "en": "unique",
+          "vi": "độc đáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koto(naru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "異文化（いぶんか）",
         "meaning": {
-          "english": "foreign culture"
+          "english": "foreign culture",
+          "en": "foreign culture",
+          "vi": "văn hóa nước ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koto(naru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "異常な（いじょうな）",
         "meaning": {
-          "english": "abnormal"
+          "english": "abnormal",
+          "en": "abnormal",
+          "vi": "bất thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koto(naru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "異様な（いような）",
         "meaning": {
-          "english": "bizarre"
+          "english": "bizarre",
+          "en": "bizarre",
+          "vi": "kỳ quái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koto(naru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "異なる（ことなる）",
         "meaning": {
-          "english": "differ"
+          "english": "differ",
+          "en": "differ",
+          "vi": "khác biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koto(naru)_06_i.opus",
@@ -213,7 +234,9 @@
     "kanji": {
       "character": "異",
       "meaning": {
-        "english": "different"
+        "english": "different",
+        "en": "different",
+        "vi": "khác biệt"
       },
       "strokes": {
         "count": 11,
@@ -273,7 +296,9 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy",
+        "en": "rice paddy",
+        "vi": "ruộng lúa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -294,7 +319,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "631",
     "strokeCount": 11,
-    "meaning": "uncommon, different, queerness, strangeness, wonderful, curious, unusual",
+    "meaning": {
+      "en": "uncommon, different, queerness, strangeness, wonderful, curious, unusual",
+      "vi": "không phổ biến, khác biệt, sự kỳ lạ, lạ thường, tuyệt diệu, hiếu kỳ, khác thường"
+    },
     "kunyomi": [
       "こと",
       "こと.なる",
@@ -308,7 +336,8 @@
         "example": "異",
         "reading": "イ",
         "meaning": {
-          "vi": "difference (of opinion), strange, odd, unusual, different"
+          "vi": "difference (of opinion), strange, odd, unusual, different",
+          "en": "difference (of opinion), strange, odd, unusual, different"
         },
         "romaji": "i"
       },
@@ -316,7 +345,8 @@
         "example": "異議",
         "reading": "イギ",
         "meaning": {
-          "vi": "objection, dissent, protest"
+          "vi": "objection, dissent, protest",
+          "en": "objection, dissent, protest"
         },
         "romaji": "igi"
       },
@@ -324,7 +354,8 @@
         "example": "天変地異",
         "reading": "テンペンチイ",
         "meaning": {
-          "en": "natural disaster, cataclysm"
+          "en": "natural disaster, cataclysm",
+          "vi": "thiên tai, đại họa"
         },
         "romaji": "tenpenchii"
       },
@@ -332,7 +363,8 @@
         "example": "小異",
         "reading": "ショウイ",
         "meaning": {
-          "en": "minor difference"
+          "en": "minor difference",
+          "vi": "khác biệt nhỏ"
         },
         "romaji": "shoui"
       }
@@ -342,7 +374,8 @@
         "example": "異",
         "reading": "こと",
         "meaning": {
-          "en": "difference (from one another), different thing, other, unusual, extraordinary"
+          "en": "difference (from one another), different thing, other, unusual, extraordinary",
+          "vi": "sự khác nhau, vật khác, khác, khác thường, phi thường"
         },
         "romaji": "koto"
       },
@@ -350,7 +383,8 @@
         "example": "異なる",
         "reading": "ことなる",
         "meaning": {
-          "en": "to differ, to be different, to disagree, to vary, to diverge"
+          "en": "to differ, to be different, to disagree, to vary, to diverge",
+          "vi": "khác nhau, khác biệt, không đồng ý, thay đổi, phân kỳ"
         },
         "romaji": "kotonaru"
       },
@@ -358,7 +392,8 @@
         "example": "異なる",
         "reading": "ことなる",
         "meaning": {
-          "en": "to differ, to be different, to disagree, to vary, to diverge"
+          "en": "to differ, to be different, to disagree, to vary, to diverge",
+          "vi": "khác nhau, khác biệt, không đồng ý, thay đổi, phân kỳ"
         },
         "romaji": "kotonaru"
       },
@@ -366,7 +401,8 @@
         "example": "異",
         "reading": "こと",
         "meaning": {
-          "en": "difference (from one another), different thing, other, unusual, extraordinary"
+          "en": "difference (from one another), different thing, other, unusual, extraordinary",
+          "vi": "sự khác nhau, vật khác, khác, khác thường, phi thường"
         },
         "romaji": "koto"
       },
@@ -374,14 +410,18 @@
         "example": "異な",
         "reading": "けな",
         "meaning": {
-          "vi": "exceptional, praiseworthy, laudable"
+          "vi": "exceptional, praiseworthy, laudable",
+          "en": "exceptional, praiseworthy, laudable"
         },
         "romaji": "kena"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": {
+        "en": "field",
+        "vi": "cánh đồng"
+      }
     },
     "parts": [
       "ハ",

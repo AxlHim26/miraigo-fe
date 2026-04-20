@@ -5,7 +5,10 @@
     "query": "儁",
     "found": true,
     "strokeCount": 14,
-    "meaning": "excellence, talented person",
+    "meaning": {
+      "en": "excellence, talented person",
+      "vi": "sự xuất chúng, người tài"
+    },
     "kunyomi": [
       "すぐ.れる"
     ],
@@ -17,7 +20,8 @@
         "example": "俊",
         "reading": "シュン",
         "meaning": {
-          "en": "excellence, genius"
+          "en": "excellence, genius",
+          "vi": "sự xuất chúng, thiên tài"
         },
         "romaji": "shun"
       },
@@ -25,7 +29,8 @@
         "example": "俊才",
         "reading": "シュンサイ",
         "meaning": {
-          "vi": "prodigy, talented person, person of exceptional talent, genius"
+          "vi": "thần đồng, người tài, người có tài năng xuất chúng, thiên tài",
+          "en": "prodigy, talented person, person of exceptional talent, genius"
         },
         "romaji": "shunsai"
       }
@@ -36,7 +41,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

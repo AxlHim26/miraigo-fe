@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "ground, place, base, earth, land",
+    "meaning": {
+      "en": "ground, place, base, earth, land",
+      "vi": "mặt đất, nơi chốn, nền tảng, trái đất, đất đai"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "地下（ちか）",
         "meaning": {
-          "english": "underground"
+          "english": "underground",
+          "en": "underground",
+          "vi": "dưới mặt đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "地下鉄（ちかてつ）",
         "meaning": {
-          "english": "subway"
+          "english": "subway",
+          "en": "subway",
+          "vi": "tàu điện ngầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "地図（ちず）",
         "meaning": {
-          "english": "map"
+          "english": "map",
+          "en": "map",
+          "vi": "bản đồ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "地球（ちきゅう）",
         "meaning": {
-          "english": "the earth"
+          "english": "the earth",
+          "en": "the earth",
+          "vi": "trái đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "地平線（ちへいせん）",
         "meaning": {
-          "english": "horizon"
+          "english": "horizon",
+          "en": "horizon",
+          "vi": "đường chân trời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "目的地（もくてきち）",
         "meaning": {
-          "english": "destination"
+          "english": "destination",
+          "en": "destination",
+          "vi": "điểm đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "土地（とち）",
         "meaning": {
-          "english": "plot of land"
+          "english": "plot of land",
+          "en": "plot of land",
+          "vi": "mảnh đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "各地（かくち）",
         "meaning": {
-          "english": "various places"
+          "english": "various places",
+          "en": "various places",
+          "vi": "nhiều nơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "現地（げんち）",
         "meaning": {
-          "english": "actual place"
+          "english": "actual place",
+          "en": "actual place",
+          "vi": "địa điểm thực tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "地震（じしん）",
         "meaning": {
-          "english": "earthquake"
+          "english": "earthquake",
+          "en": "earthquake",
+          "vi": "động đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "地獄（じごく）",
         "meaning": {
-          "english": "hell"
+          "english": "hell",
+          "en": "hell",
+          "vi": "địa ngục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(kyuu)_06_k.opus",
@@ -303,7 +328,9 @@
     "kanji": {
       "character": "地",
       "meaning": {
-        "english": "ground, place, base, earth, land"
+        "english": "ground, place, base, earth, land",
+        "en": "ground, place, base, earth, land",
+        "vi": "mặt đất, nơi chốn, nền tảng, trái đất, đất đai"
       },
       "strokes": {
         "count": 6,
@@ -353,7 +380,9 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -374,7 +403,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "40",
     "strokeCount": 6,
-    "meaning": "ground, earth",
+    "meaning": {
+      "en": "ground, earth",
+      "vi": "mặt đất, đất"
+    },
     "kunyomi": [],
     "onyomi": [
       "チ",
@@ -385,7 +417,8 @@
         "example": "地",
         "reading": "チ",
         "meaning": {
-          "vi": "earth, ground, land, soil, place, territory, bottom (of a package, book, etc.), earth (one of the five elements)"
+          "vi": "earth, ground, land, soil, place, territory, bottom (of a package, book, etc.), earth (one of the five elements)",
+          "en": "earth, ground, land, soil, place, territory, bottom (of a package, book, etc.), earth (one of the five elements)"
         },
         "romaji": "chi"
       },
@@ -393,7 +426,8 @@
         "example": "地位",
         "reading": "チイ",
         "meaning": {
-          "vi": "(social) position, status, standing, position (in a company, organization, etc.), post, rank"
+          "vi": "(social) position, status, standing, position (in a company, organization, etc.), post, rank",
+          "en": "social position, status, standing, position (in a company, organization, etc.), post, rank"
         },
         "romaji": "chii"
       },
@@ -401,7 +435,8 @@
         "example": "奥地",
         "reading": "オクチ",
         "meaning": {
-          "en": "interior, backwoods, hinterland, back regions"
+          "en": "interior, backwoods, hinterland, back regions",
+          "vi": "vùng nội địa, vùng hẻo lánh, hậu phương, vùng sâu"
         },
         "romaji": "okuchi"
       },
@@ -409,7 +444,8 @@
         "example": "対地",
         "reading": "タイチ",
         "meaning": {
-          "vi": "towards the ground, with respect to the ground, ground (speed, attack, etc.)"
+          "vi": "towards the ground, with respect to the ground, ground (speed, attack, etc.)",
+          "en": "towards the ground, with respect to the ground, ground (speed, attack, etc.)"
         },
         "romaji": "taichi"
       },
@@ -417,7 +453,8 @@
         "example": "地",
         "reading": "ジ",
         "meaning": {
-          "vi": "ground, land, earth, soil, the region in question, the local area, skin, texture, fabric, material, weave, base, background, one's true nature, narrative (i.e. descriptive part of a story), real life, actuality, captured territory, noh chorus, accompaniment music (in Japanese dance), basic phrase (in Japanese music; usu. repetitive), base part (of multiple shamisens)"
+          "vi": "ground, land, earth, soil, the region in question, the local area, skin, texture, fabric, material, weave, base, background, one's true nature, narrative (i.e. descriptive part of a story), real life, actuality, captured territory, noh chorus, accompaniment music (in Japanese dance), basic phrase (in Japanese music; usu. repetitive), base part (of multiple shamisens)",
+          "en": "ground, land, earth, soil, the region in question, the local area, skin, texture, fabric, material, weave, base, background, one's true nature, narrative (i.e. descriptive part of a story), real life, actuality, captured territory, noh chorus, accompaniment music (in Japanese dance), basic phrase (in Japanese music; usu. repetitive), base part (of multiple shamisens)"
         },
         "romaji": "ji"
       },
@@ -425,7 +462,8 @@
         "example": "地合い",
         "reading": "ジアイ",
         "meaning": {
-          "vi": "texture (cloth, fabric, paper), market tone, undertone, balance between the position of white and black stones"
+          "vi": "texture (cloth, fabric, paper), market tone, undertone, balance between the position of white and black stones",
+          "en": "texture (cloth, fabric, paper), market tone, undertone, balance between the position of white and black stones"
         },
         "romaji": "jiai"
       },
@@ -433,7 +471,8 @@
         "example": "下地",
         "reading": "シタジ",
         "meaning": {
-          "vi": "groundwork, foundation, inclination, aptitude, elementary knowledge (of), grounding (in), undercoat, first coat, soy sauce"
+          "vi": "groundwork, foundation, inclination, aptitude, elementary knowledge (of), grounding (in), undercoat, first coat, soy sauce",
+          "en": "groundwork, foundation, inclination, aptitude, elementary knowledge (of), grounding (in), undercoat, first coat, soy sauce"
         },
         "romaji": "shitaji"
       },
@@ -441,7 +480,8 @@
         "example": "築地",
         "reading": "ツイジ",
         "meaning": {
-          "en": "mud wall with a roof, roofed mud wall"
+          "en": "mud wall with a roof, roofed mud wall",
+          "vi": "tường đất có mái, tường bùn có mái che"
         },
         "romaji": "tsuiji"
       }
@@ -449,7 +489,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "也",
@@ -460,6 +503,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5730.gif",
     "uri": "https://jisho.org/search/%E5%9C%B0%23kanji"
   },
+  "mnemonic_vi": "Đất đi cùng cũng tạo thành mặt đất, nơi chốn.",
   "hanViet": [
     "địa"
   ]

@@ -7,13 +7,17 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "kari, karini",
-    "meaning": "temporary, tentative",
+    "meaning": {
+      "en": "temporary, tentative",
+      "vi": "tạm thời, có tính tạm"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "仮名（かな）",
         "meaning": {
-          "english": "kana (hiragana, katakana)"
+          "en": "kana (hiragana, katakana)",
+          "vi": "kana (hiragana, katakana)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "仮名（かめい）",
         "meaning": {
-          "english": "pseudonym"
+          "en": "pseudonym",
+          "vi": "bút danh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "仮面（かめん）",
         "meaning": {
-          "english": "mask, disguise"
+          "en": "mask, disguise",
+          "vi": "mặt nạ, cải trang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "仮説（かせつ）",
         "meaning": {
-          "english": "hypothesis, supposition"
+          "en": "hypothesis, supposition",
+          "vi": "giả thuyết, giả định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "仮装（かそう）",
         "meaning": {
-          "english": "fancy dress, masquerade"
+          "en": "fancy dress, masquerade",
+          "vi": "trang phục hóa trang, dạ hội hóa trang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "仮眠する（かみんする）",
         "meaning": {
-          "english": "nap, doze [v.i.]"
+          "en": "nap, doze [v.i.]",
+          "vi": "chợp mắt, ngủ gà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "仮定する（かていする）",
         "meaning": {
-          "english": "assume, suppose, presume"
+          "en": "assume, suppose, presume",
+          "vi": "giả định, cho rằng, suy đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "仮病（けびょう）",
         "meaning": {
-          "english": "feigned illness"
+          "en": "feigned illness",
+          "vi": "giả bệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "仮に（かりに）",
         "meaning": {
-          "english": "temporarily, provisionally"
+          "en": "temporarily, provisionally",
+          "vi": "tạm thời, tạm dùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "仮住まい（かりずまい）",
         "meaning": {
-          "english": "temporary residence"
+          "en": "temporary residence",
+          "vi": "nơi ở tạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "仮契約（かりけいやく）",
         "meaning": {
-          "english": "provisional contract"
+          "en": "provisional contract",
+          "vi": "hợp đồng tạm thời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(men)_06_k.opus",
@@ -228,7 +242,8 @@
     "kanji": {
       "character": "仮",
       "meaning": {
-        "english": "temporary, tentative"
+        "en": "temporary, tentative",
+        "vi": "tạm thời, có tính tạm"
       },
       "strokes": {
         "count": 6,
@@ -278,7 +293,8 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -299,7 +315,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1039",
     "strokeCount": 6,
-    "meaning": "sham, temporary, interim, assumed (name), informal",
+    "meaning": {
+      "en": "sham, temporary, interim, assumed (name), informal",
+      "vi": "giả, tạm thời, lâm thời, tên giả, không chính thức"
+    },
     "kunyomi": [
       "かり",
       "かり-"
@@ -313,6 +332,7 @@
         "example": "仮",
         "reading": "カリ",
         "meaning": {
+          "en": "temporary, provisional, interim, tentative, fictitious, assumed (name), alias, hypothetical, theoretical",
           "vi": "temporary, provisional, interim, tentative, fictitious, assumed (name), alias, hypothetical, theoretical"
         },
         "romaji": "kari"
@@ -321,6 +341,7 @@
         "example": "仮称",
         "reading": "カショウ",
         "meaning": {
+          "en": "temporary name, provisional name",
           "vi": "temporary name, provisional name"
         },
         "romaji": "kashou"
@@ -329,7 +350,8 @@
         "example": "仮",
         "reading": "ケ",
         "meaning": {
-          "en": "lacking substance and existing in name only, something without substance"
+          "en": "lacking substance and existing in name only, something without substance",
+          "vi": "chỉ có danh mà không có thực, thứ không có thực chất"
         },
         "romaji": "ke"
       },
@@ -337,6 +359,7 @@
         "example": "化粧",
         "reading": "ケショウ",
         "meaning": {
+          "en": "make-up, makeup, cosmetics, decoration, dressing, veneer",
           "vi": "make-up, makeup, cosmetics, decoration, dressing, veneer"
         },
         "romaji": "keshou"
@@ -345,7 +368,8 @@
         "example": "虚仮",
         "reading": "コケ",
         "meaning": {
-          "en": "folly, fool"
+          "en": "folly, fool",
+          "vi": "sự ngốc nghếch, kẻ ngốc"
         },
         "romaji": "koke"
       }
@@ -355,6 +379,7 @@
         "example": "仮",
         "reading": "かり",
         "meaning": {
+          "en": "temporary, provisional, interim, tentative, fictitious, assumed (name), alias, hypothetical, theoretical",
           "vi": "temporary, provisional, interim, tentative, fictitious, assumed (name), alias, hypothetical, theoretical"
         },
         "romaji": "kari"
@@ -363,6 +388,7 @@
         "example": "仮処分",
         "reading": "かりしょぶん",
         "meaning": {
+          "en": "provisional disposition, temporary injunction",
           "vi": "provisional disposition, temporary injunction"
         },
         "romaji": "karishobun"
@@ -373,7 +399,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

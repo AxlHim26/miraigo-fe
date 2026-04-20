@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2265",
     "strokeCount": 11,
-    "meaning": "sincere, kind, considerate",
+    "meaning": {
+      "en": "sincere, kind, considerate",
+      "vi": "chân thành, tử tế, chu đáo"
+    },
     "kunyomi": [
       "あつ.い"
     ],
@@ -21,7 +24,8 @@
         "example": "敦厚",
         "reading": "トンコウ",
         "meaning": {
-          "vi": "sincerity and kindheartedness, honesty and simplicity"
+          "vi": "sự chân thành và nhân hậu, thật thà và giản dị",
+          "en": "sincerity and kindheartedness, honesty and simplicity"
         },
         "romaji": "tonkou"
       },
@@ -29,7 +33,8 @@
         "example": "敦朴",
         "reading": "トンボク",
         "meaning": {
-          "vi": "honest and homely, simple"
+          "vi": "thật thà, mộc mạc, giản dị",
+          "en": "honest and homely, simple"
         },
         "romaji": "tonboku"
       }
@@ -41,7 +46,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "tim"
+      }
     },
     "parts": [
       "亠",
@@ -56,5 +64,7 @@
   },
   "hanViet": [
     "đôn"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: bên trái là tim, bên phải như hình đối xử đầy đặn, nhắc mình sống chân thành và nhân hậu."
 }

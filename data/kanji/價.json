@@ -5,7 +5,10 @@
     "query": "價",
     "found": true,
     "strokeCount": 15,
-    "meaning": "price, value",
+    "meaning": {
+      "en": "price, value",
+      "vi": "giá cả, giá trị"
+    },
     "kunyomi": [
       "あたい"
     ],
@@ -19,7 +22,8 @@
         "example": "値",
         "reading": "あたい",
         "meaning": {
-          "vi": "price, cost, value, worth, merit, value"
+          "vi": "giá cả, chi phí, giá trị, giá trị đáng kể, công lao, giá trị",
+          "en": "price, cost, value, worth, merit, value"
         },
         "romaji": "atai"
       }
@@ -29,7 +33,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

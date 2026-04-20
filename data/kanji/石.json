@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ishi",
-    "meaning": "stone",
+    "meaning": {
+      "en": "stone",
+      "vi": "đá"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "石像（せきぞう）",
         "meaning": {
-          "english": "stone statue"
+          "english": "stone statue",
+          "en": "stone statue",
+          "vi": "stone statue"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "石炭（せきたん）",
         "meaning": {
-          "english": "coal"
+          "english": "coal",
+          "en": "coal",
+          "vi": "coal"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "石油（せきゆ）",
         "meaning": {
-          "english": "petroleum"
+          "english": "petroleum",
+          "en": "petroleum",
+          "vi": "petroleum"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "石鹸（せっけん）",
         "meaning": {
-          "english": "soap"
+          "english": "soap",
+          "en": "soap",
+          "vi": "soap"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "宝石（ほうせき）",
         "meaning": {
-          "english": "gem"
+          "english": "gem",
+          "en": "gem",
+          "vi": "gem"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "磁石（じしゃく）",
         "meaning": {
-          "english": "magnet"
+          "english": "magnet",
+          "en": "magnet",
+          "vi": "magnet"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "石（こく）",
         "meaning": {
-          "english": "unit of measurement"
+          "english": "unit of measurement",
+          "en": "unit of measurement",
+          "vi": "unit of measurement"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "石（いし）",
         "meaning": {
-          "english": "stone"
+          "english": "stone",
+          "en": "stone",
+          "vi": "đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ishi_06_h.opus",
@@ -245,7 +264,9 @@
     "kanji": {
       "character": "石",
       "meaning": {
-        "english": "stone"
+        "english": "stone",
+        "en": "stone",
+        "vi": "đá"
       },
       "strokes": {
         "count": 5,
@@ -293,7 +314,9 @@
         "romaji": "ishi"
       },
       "meaning": {
-        "english": "stone"
+        "english": "stone",
+        "en": "stone",
+        "vi": "đá"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ishi0.svg",
@@ -314,7 +337,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "342",
     "strokeCount": 5,
-    "meaning": "stone",
+    "meaning": {
+      "en": "stone",
+      "vi": "đá"
+    },
     "kunyomi": [
       "いし"
     ],
@@ -328,7 +354,8 @@
         "example": "石",
         "reading": "セキ",
         "meaning": {
-          "vi": "counter for jewels in a watch, counter for transistors, diodes, etc. in an electronic product"
+          "vi": "counter for jewels in a watch, counter for transistors, diodes, etc. in an electronic product",
+          "en": "counter for jewels in a watch, counter for transistors, diodes, etc. in an electronic product"
         },
         "romaji": "seki"
       },
@@ -336,7 +363,8 @@
         "example": "石材",
         "reading": "セキザイ",
         "meaning": {
-          "en": "(building) stone"
+          "en": "(building) stone",
+          "vi": "(building) stone"
         },
         "romaji": "sekizai"
       },
@@ -344,7 +372,8 @@
         "example": "一石",
         "reading": "イッセキ",
         "meaning": {
-          "en": "one game (of go)"
+          "en": "one game (of go)",
+          "vi": "one game (of go)"
         },
         "romaji": "isseki"
       },
@@ -352,7 +381,8 @@
         "example": "投石",
         "reading": "トウセキ",
         "meaning": {
-          "en": "stone throwing"
+          "en": "stone throwing",
+          "vi": "stone throwing"
         },
         "romaji": "touseki"
       },
@@ -360,7 +390,8 @@
         "example": "石神",
         "reading": "シャクジン",
         "meaning": {
-          "vi": "stone which is worshipped, image of a god in stone"
+          "vi": "stone which is worshipped, image of a god in stone",
+          "en": "stone which is worshipped, image of a god in stone"
         },
         "romaji": "shakujin"
       },
@@ -368,7 +399,8 @@
         "example": "石南花",
         "reading": "シャクナゲ",
         "meaning": {
-          "en": "rhododendron"
+          "en": "rhododendron",
+          "vi": "rhododendron"
         },
         "romaji": "shakunage"
       },
@@ -376,7 +408,8 @@
         "example": "電磁石",
         "reading": "デンジシャク",
         "meaning": {
-          "en": "electromagnet"
+          "en": "electromagnet",
+          "vi": "electromagnet"
         },
         "romaji": "denjishaku"
       },
@@ -384,7 +417,8 @@
         "example": "界磁石",
         "reading": "カイジシャク",
         "meaning": {
-          "en": "field magnet"
+          "en": "field magnet",
+          "vi": "field magnet"
         },
         "romaji": "kaijishaku"
       },
@@ -392,7 +426,8 @@
         "example": "石",
         "reading": "コク",
         "meaning": {
-          "vi": "koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)"
+          "vi": "koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)",
+          "en": "koku, traditional unit of volume, approx. 180.4 litres, measure of a Japanese-style boat's loading capacity (approx. 278.26 liters)"
         },
         "romaji": "koku"
       },
@@ -400,7 +435,8 @@
         "example": "石高",
         "reading": "コクダカ",
         "meaning": {
-          "vi": "(crop) yield, stipend (orig. assessed on the basis of a crop), salary"
+          "vi": "(crop) yield, stipend (orig. assessed on the basis of a crop), salary",
+          "en": "(crop) yield, stipend (orig. assessed on the basis of a crop), salary"
         },
         "romaji": "kokudaka"
       },
@@ -408,7 +444,8 @@
         "example": "一石",
         "reading": "イッコク",
         "meaning": {
-          "en": "one koku (measure)"
+          "en": "one koku (measure)",
+          "vi": "one koku (measure)"
         },
         "romaji": "ikkoku"
       }
@@ -418,7 +455,8 @@
         "example": "石",
         "reading": "いし",
         "meaning": {
-          "vi": "stone, jewel, precious stone, flint (in a lighter), stone, stone (in the bladder, kidney etc.), calculus"
+          "vi": "stone, jewel, precious stone, flint (in a lighter), stone, stone (in the bladder, kidney etc.), calculus",
+          "en": "stone, jewel, precious stone, flint (in a lighter), stone, stone (in the bladder, kidney etc.), calculus"
         },
         "romaji": "ishi"
       },
@@ -426,7 +464,8 @@
         "example": "石垣",
         "reading": "いしがき",
         "meaning": {
-          "en": "stone wall"
+          "en": "stone wall",
+          "vi": "stone wall"
         },
         "romaji": "ishigaki"
       },
@@ -434,7 +473,8 @@
         "example": "墓石",
         "reading": "ぼせき",
         "meaning": {
-          "en": "tombstone, gravestone"
+          "en": "tombstone, gravestone",
+          "vi": "tombstone, gravestone"
         },
         "romaji": "boseki"
       },
@@ -442,14 +482,18 @@
         "example": "敷石",
         "reading": "しきいし",
         "meaning": {
-          "vi": "paving stone, pavement"
+          "vi": "paving stone, pavement",
+          "en": "paving stone, pavement"
         },
         "romaji": "shikiishi"
       }
     ],
     "radical": {
       "symbol": "石",
-      "meaning": "stone"
+      "meaning": {
+        "en": "stone",
+        "vi": "đá"
+      }
     },
     "parts": [
       "口",
@@ -463,5 +507,7 @@
   "hanViet": [
     "thạch",
     "đạn"
-  ]
+  ],
+  "jlpt_level": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: 石 giống tảng đá với phần mỏm nhô ra, nên nhớ là đá."
 }

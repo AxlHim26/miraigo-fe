@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "number, designation, sign",
+    "meaning": {
+      "en": "number, designation, sign",
+      "vi": "số, ký hiệu, dấu hiệu"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "番号（ばんごう）",
         "meaning": {
-          "english": "number"
+          "english": "number",
+          "en": "number",
+          "vi": "số"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "信号（しんごう）",
         "meaning": {
-          "english": "traffic lights, signal"
+          "english": "traffic lights, signal",
+          "en": "traffic lights, signal",
+          "vi": "đèn giao thông, tín hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "年号（ねんごう）",
         "meaning": {
-          "english": "name of an era"
+          "english": "name of an era",
+          "en": "name of an era",
+          "vi": "niên hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "記号（きごう）",
         "meaning": {
-          "english": "symbol"
+          "english": "symbol",
+          "en": "symbol",
+          "vi": "ký hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "暗号（あんごう）",
         "meaning": {
-          "english": "password"
+          "english": "password",
+          "en": "password",
+          "vi": "mật khẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "3号車（さんごうしゃ）",
         "meaning": {
-          "english": "3rd compartment (e.g. train)"
+          "english": "3rd compartment (e.g. train)",
+          "en": "3rd compartment (e.g. train)",
+          "vi": "toa số 3"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ban)gou_06_f.opus",
@@ -212,7 +227,9 @@
     "kanji": {
       "character": "号",
       "meaning": {
-        "english": "number, designation, sign"
+        "english": "number, designation, sign",
+        "en": "number, designation, sign",
+        "vi": "số, ký hiệu, dấu hiệu"
       },
       "strokes": {
         "count": 5,
@@ -260,7 +277,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -281,7 +300,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "585",
     "strokeCount": 5,
-    "meaning": "nickname, number, item, title, pseudonym, name, call",
+    "meaning": {
+      "en": "nickname, number, item, title, pseudonym, name, call",
+      "vi": "biệt danh, số, mục, tiêu đề, bút danh, tên gọi"
+    },
     "kunyomi": [
       "さけ.ぶ",
       "よびな"
@@ -294,7 +316,8 @@
         "example": "号",
         "reading": "ゴウ",
         "meaning": {
-          "vi": "number, edition, make, model, issue, part of that group, sobriquet, pen-name, size (of printing types, canvases, knitting needles, etc.), suffix attached to names of ships, trains, airplanes, etc."
+          "vi": "số, ấn bản, kiểu, mẫu, kỳ phát hành, phần thuộc nhóm đó, biệt hiệu, bút danh, cỡ in/vải/kim đan..., hậu tố gắn sau tên tàu hỏa, máy bay...",
+          "en": "number, edition, make, model, issue, part of that group, sobriquet, pen-name, size (of printing types, canvases, knitting needles, etc.), suffix attached to names of ships, trains, airplanes, etc."
         },
         "romaji": "gou"
       },
@@ -302,7 +325,8 @@
         "example": "号車",
         "reading": "ゴウシャ",
         "meaning": {
-          "en": "suffix for train car numbers"
+          "en": "suffix for train car numbers",
+          "vi": "hậu tố cho số toa tàu"
         },
         "romaji": "gousha"
       },
@@ -310,7 +334,8 @@
         "example": "二号",
         "reading": "ニゴウ",
         "meaning": {
-          "en": "number two, mistress, concubine"
+          "en": "number two, mistress, concubine",
+          "vi": "người phụ nữ số hai, nhân tình, vợ lẽ"
         },
         "romaji": "nigou"
       },
@@ -318,7 +343,8 @@
         "example": "符号",
         "reading": "フゴウ",
         "meaning": {
-          "vi": "sign, mark, symbol, code, sign (e.g. positive, negative)"
+          "vi": "dấu hiệu, dấu, ký hiệu, mã, dấu như dương/âm",
+          "en": "sign, mark, symbol, code, sign (e.g. positive, negative)"
         },
         "romaji": "fugou"
       }
@@ -326,7 +352,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "一",
@@ -338,6 +367,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f7.gif",
     "uri": "https://jisho.org/search/%E5%8F%B7%23kanji"
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng 口 phát ra tiếng gọi thành ký hiệu hay số hiệu, nên 号 là số hiệu, tên gọi.",
   "hanViet": [
     "hiệu",
     "hào"

@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 4,
     "kunyomi": "shirushi",
-    "meaning": "mark, seal, stamp",
+    "meaning": {
+      "en": "mark, seal, stamp",
+      "vi": "dấu, con dấu, đóng dấu"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "印象（いんしょう）",
         "meaning": {
-          "english": "impression"
+          "english": "impression",
+          "en": "impression",
+          "vi": "dấu ấn, ấn tượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "印鑑（いんかん）",
         "meaning": {
-          "english": "stamp [n.]"
+          "english": "stamp [n.]",
+          "en": "stamp [n.]",
+          "vi": "con dấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "印税（いんぜい）",
         "meaning": {
-          "english": "royalty (on book)"
+          "english": "royalty (on book)",
+          "en": "royalty (on book)",
+          "vi": "tiền nhuận bút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "消印（けしいん）",
         "meaning": {
-          "english": "postmark"
+          "english": "postmark",
+          "en": "postmark",
+          "vi": "dấu bưu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "印刷する（いんさつする）",
         "meaning": {
-          "english": "print [v.t.]"
+          "english": "print [v.t.]",
+          "en": "print [v.t.]",
+          "vi": "in, đóng dấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "印（しるし）",
         "meaning": {
-          "english": "mark [n.]"
+          "english": "mark [n.]",
+          "en": "mark [n.]",
+          "vi": "dấu hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "目印（めじるし）",
         "meaning": {
-          "english": "mark, landmark"
+          "english": "mark, landmark",
+          "en": "mark, landmark",
+          "vi": "dấu mốc, mốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "矢印（やじるし）",
         "meaning": {
-          "english": "arrow mark, signpost"
+          "english": "arrow mark, signpost",
+          "en": "arrow mark, signpost",
+          "vi": "dấu mũi tên, biển chỉ dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-shirushi_06_h.opus",
@@ -223,7 +242,9 @@
     "kanji": {
       "character": "印",
       "meaning": {
-        "english": "mark, seal, stamp"
+        "english": "mark, seal, stamp",
+        "en": "mark, seal, stamp",
+        "vi": "dấu, con dấu, đóng dấu"
       },
       "strokes": {
         "count": 6,
@@ -273,7 +294,9 @@
         "romaji": "fushizukuri"
       },
       "meaning": {
-        "english": "stamp, seal"
+        "english": "stamp, seal",
+        "en": "stamp, seal",
+        "vi": "con dấu, ấn"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/fushizukuri0.svg",
@@ -294,7 +317,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "682",
     "strokeCount": 6,
-    "meaning": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+    "meaning": {
+      "en": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India",
+      "vi": "con dấu, ấn, dấu, dấu in, biểu tượng, huy hiệu, nhãn hiệu, bằng chứng, kỷ niệm, Ấn Độ"
+    },
     "kunyomi": [
       "しるし",
       "-じるし",
@@ -308,7 +334,8 @@
         "example": "印",
         "reading": "イン",
         "meaning": {
-          "vi": "stamp, seal, chop, seal impression, seal, sealing, stamp, mark, print, mudra (symbolic hand gesture), ninja hand sign, India"
+          "vi": "stamp, seal, chop, seal impression, seal, sealing, stamp, mark, print, mudra (symbolic hand gesture), ninja hand sign, India",
+          "en": "stamp, seal, chop, seal impression, seal, sealing, stamp, mark, print, mudra (symbolic hand gesture), ninja hand sign, India"
         },
         "romaji": "in"
       },
@@ -316,7 +343,8 @@
         "example": "印鑑",
         "reading": "インカン",
         "meaning": {
-          "vi": "stamp, seal"
+          "vi": "stamp, seal",
+          "en": "stamp, seal"
         },
         "romaji": "inkan"
       },
@@ -324,7 +352,8 @@
         "example": "消印",
         "reading": "ケシイン",
         "meaning": {
-          "vi": "postmark, (postal) cancellation mark"
+          "vi": "postmark, (postal) cancellation mark",
+          "en": "postmark, (postal) cancellation mark"
         },
         "romaji": "keshiin"
       },
@@ -332,7 +361,8 @@
         "example": "認め印",
         "reading": "ミトメイン",
         "meaning": {
-          "vi": "private seal, personal seal, unregistered seal, informal seal, signet"
+          "vi": "private seal, personal seal, unregistered seal, informal seal, signet",
+          "en": "private seal, personal seal, unregistered seal, informal seal, signet"
         },
         "romaji": "mitomein"
       }
@@ -342,7 +372,8 @@
         "example": "印",
         "reading": "しるし",
         "meaning": {
-          "vi": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.)"
+          "vi": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.)",
+          "en": "mark, sign, symbol, emblem, badge, crest, flag, evidence, proof, token (of gratitude, affection, etc.)"
         },
         "romaji": "shirushi"
       },
@@ -350,7 +381,8 @@
         "example": "印半纏",
         "reading": "しるしばんてん",
         "meaning": {
-          "en": "livery coat"
+          "en": "livery coat",
+          "vi": "áo đồng phục gia huy"
         },
         "romaji": "shirushibanten"
       },
@@ -358,7 +390,8 @@
         "example": "感謝の印",
         "reading": "かんしゃのしるし",
         "meaning": {
-          "vi": "token of appreciation"
+          "vi": "token of appreciation",
+          "en": "token of appreciation"
         },
         "romaji": "kanshanoshirushi"
       },
@@ -366,14 +399,18 @@
         "example": "印す",
         "reading": "しるす",
         "meaning": {
-          "vi": "to leave (a mark, trace, etc.), to print, to stamp, to be a sign of, to be an omen for"
+          "vi": "to leave (a mark, trace, etc.), to print, to stamp, to be a sign of, to be an omen for",
+          "en": "to leave (a mark, trace, etc.), to print, to stamp, to be a sign of, to be an omen for"
         },
         "romaji": "shirusu"
       }
     ],
     "radical": {
       "symbol": "卩",
-      "meaning": "kneel"
+      "meaning": {
+        "en": "kneel",
+        "vi": "quỳ"
+      }
     },
     "parts": [
       "卩",
@@ -386,5 +423,7 @@
   },
   "hanViet": [
     "ấn"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Một bên như bàn tay, một bên như con dấu, ghép lại thành dấu ấn."
 }

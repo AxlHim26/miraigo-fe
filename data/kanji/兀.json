@@ -5,7 +5,10 @@
     "query": "兀",
     "found": true,
     "strokeCount": 3,
-    "meaning": "high & level, lofty, bald, dangerous",
+    "meaning": {
+      "en": "high & level, lofty, bald, dangerous",
+      "vi": "cao và bằng, cao vút, trọc, nguy hiểm"
+    },
     "kunyomi": [],
     "onyomi": [
       "コツ"
@@ -15,7 +18,8 @@
         "example": "兀然",
         "reading": "コツゼン",
         "meaning": {
-          "en": "towering, standing motionlessly, still"
+          "en": "towering, standing motionlessly, still",
+          "vi": "cao sừng sững, đứng bất động, tĩnh tại"
         },
         "romaji": "kotsuzen"
       },
@@ -23,7 +27,8 @@
         "example": "兀立",
         "reading": "コツリツ",
         "meaning": {
-          "en": "towering, standing motionlessly"
+          "en": "towering, standing motionlessly",
+          "vi": "cao sừng sững, đứng bất động"
         },
         "romaji": "kotsuritsu"
       },
@@ -31,7 +36,8 @@
         "example": "突兀",
         "reading": "トッコツ",
         "meaning": {
-          "vi": "lofty, soaring, towering, precipitous, high and steep, sharply sticking out, jutting upward"
+          "en": "lofty, soaring, towering, precipitous, high and steep, sharply sticking out, jutting upward",
+          "vi": "cao vút, vươn cao, sừng sững, dốc đứng, cao và hiểm, nhô ra sắc nét, chĩa lên trên"
         },
         "romaji": "tokkotsu"
       }
@@ -39,7 +45,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "一",

@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ugo, ugoku, ugokasu, ugoki",
-    "meaning": "move",
+    "meaning": {
+      "en": "move",
+      "vi": "di chuyển"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "行動する（こうどうする）",
         "meaning": {
-          "english": "act, conduct,"
+          "english": "act, conduct,",
+          "en": "act, conduct,",
+          "vi": "hành động, cư xử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "運動する（うんどうする）",
         "meaning": {
-          "english": "exercise"
+          "english": "exercise",
+          "en": "exercise",
+          "vi": "vận động, tập thể dục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "感動する（かんどうする）",
         "meaning": {
-          "english": "be deeply moved"
+          "english": "be deeply moved",
+          "en": "be deeply moved",
+          "vi": "rất cảm động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "移動する（いどうする）",
         "meaning": {
-          "english": "move [v.t.]"
+          "english": "move [v.t.]",
+          "en": "move [v.t.]",
+          "vi": "di chuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "自動車（じどうしゃ）",
         "meaning": {
-          "english": "automobile"
+          "english": "automobile",
+          "en": "automobile",
+          "vi": "ô tô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "動物園（どうぶつえん）",
         "meaning": {
-          "english": "zoo"
+          "english": "zoo",
+          "en": "zoo",
+          "vi": "sở thú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "運動靴（うんどうぐつ）",
         "meaning": {
-          "english": "sneakers"
+          "english": "sneakers",
+          "en": "sneakers",
+          "vi": "giày thể thao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "自動ドア（じどうドア）",
         "meaning": {
-          "english": "automatic door"
+          "english": "automatic door",
+          "en": "automatic door",
+          "vi": "cửa tự động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "不動産（ふどうさん）",
         "meaning": {
-          "english": "real estate"
+          "english": "real estate",
+          "en": "real estate",
+          "vi": "bất động sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "活動（かつどう）",
         "meaning": {
-          "english": "activity"
+          "english": "activity",
+          "en": "activity",
+          "vi": "hoạt động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "動く（うごく）",
         "meaning": {
-          "english": "move [v.i.]"
+          "english": "move [v.i.]",
+          "en": "move [v.i.]",
+          "vi": "chuyển động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "動かす（うごかす）",
         "meaning": {
-          "english": "move [v.t.]"
+          "english": "move [v.t.]",
+          "en": "move [v.t.]",
+          "vi": "di chuyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ugo(ku)_06_l.opus",
@@ -315,7 +342,9 @@
     "kanji": {
       "character": "動",
       "meaning": {
-        "english": "move"
+        "english": "move",
+        "en": "move",
+        "vi": "di chuyển"
       },
       "strokes": {
         "count": 11,
@@ -375,7 +404,9 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power",
+        "en": "power",
+        "vi": "sức mạnh"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -396,7 +427,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "73",
     "strokeCount": 11,
-    "meaning": "move, motion, change, confusion, shift, shake",
+    "meaning": {
+      "en": "move, motion, change, confusion, shift, shake",
+      "vi": "di chuyển, chuyển động, thay đổi, xáo trộn, dịch chuyển, rung lắc"
+    },
     "kunyomi": [
       "うご.く",
       "うご.かす"
@@ -409,7 +443,8 @@
         "example": "動",
         "reading": "ドウ",
         "meaning": {
-          "en": "motion"
+          "en": "motion",
+          "vi": "chuyển động"
         },
         "romaji": "dou"
       },
@@ -417,7 +452,8 @@
         "example": "動員",
         "reading": "ドウイン",
         "meaning": {
-          "en": "mobilization, mobilisation"
+          "en": "mobilization, mobilisation",
+          "vi": "sự huy động"
         },
         "romaji": "douin"
       },
@@ -425,7 +461,8 @@
         "example": "人事異動",
         "reading": "ジンジイドウ",
         "meaning": {
-          "vi": "personnel change, personnel shift, reshuffle, (annual) staff reassignment"
+          "vi": "thay đổi nhân sự, điều chuyển nhân sự, xáo trộn, tái phân công nhân viên hằng năm",
+          "en": "personnel change, personnel shift, reshuffle, (annual) staff reassignment"
         },
         "romaji": "jinjiidou"
       },
@@ -433,7 +470,8 @@
         "example": "異動",
         "reading": "イドウ",
         "meaning": {
-          "vi": "(personnel) change, transfer, relocation, reassignment, reshuffle"
+          "vi": "thay đổi (nhân sự), điều chuyển, dời chỗ, phân công lại, xáo trộn",
+          "en": "(personnel) change, transfer, relocation, reassignment, reshuffle"
         },
         "romaji": "idou"
       }
@@ -443,7 +481,8 @@
         "example": "動く",
         "reading": "うごく",
         "meaning": {
-          "vi": "to move, to stir, to shift, to shake, to swing, to operate, to run, to go, to work, to make a move, to take action, to act, to go into action, to be touched, to be influenced, to change, to vary, to fluctuate, to waver, to be transferred"
+          "vi": "di chuyển, lay động, dịch chuyển, rung, đung đưa, vận hành, chạy, hoạt động, ra tay, hành động, bị tác động, thay đổi, dao động, được điều chuyển",
+          "en": "to move, to stir, to shift, to shake, to swing, to operate, to run, to go, to work, to make a move, to take action, to act, to go into action, to be touched, to be influenced, to change, to vary, to fluctuate, to waver, to be transferred"
         },
         "romaji": "ugoku"
       },
@@ -451,7 +490,8 @@
         "example": "動く歩道",
         "reading": "うごくほどう",
         "meaning": {
-          "en": "moving walkway, moving sidewalk, travelator"
+          "en": "moving walkway, moving sidewalk, travelator",
+          "vi": "lối đi bộ tự động, băng chuyền đi bộ"
         },
         "romaji": "ugokuhodou"
       },
@@ -459,14 +499,18 @@
         "example": "動かす",
         "reading": "うごかす",
         "meaning": {
-          "vi": "to move, to shift, to stir, to budge, to change position, to inspire, to rouse, to move (e.g. feeling), to influence, to change, to alter, to deny, to operate, to set in motion, to get going, to mobilize (e.g. troops), to mobilise, to deploy, to manage (e.g. funds)"
+          "vi": "làm di chuyển, dịch chuyển, lay động, làm nhúc nhích, đổi vị trí, truyền cảm hứng, khơi dậy, làm xúc động, gây ảnh hưởng, thay đổi, phủ nhận, vận hành, khởi động, huy động, triển khai, điều hành",
+          "en": "to move, to shift, to stir, to budge, to change position, to inspire, to rouse, to move (e.g. feeling), to influence, to change, to alter, to deny, to operate, to set in motion, to get going, to mobilize (e.g. troops), to mobilise, to deploy, to manage (e.g. funds)"
         },
         "romaji": "ugokasu"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "sức mạnh, lực"
+      }
     },
     "parts": [
       "ノ",
@@ -483,5 +527,7 @@
   },
   "hanViet": [
     "động"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: dùng sức lực để làm vật nặng chuyển dịch, nên 動 là chuyển động."
 }

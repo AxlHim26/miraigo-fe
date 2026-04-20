@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "otoko",
-    "meaning": "man",
+    "meaning": {
+      "en": "man",
+      "vi": "đàn ông"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "男子学生（だんしがくせい）",
         "meaning": {
-          "english": "male student"
+          "english": "male student",
+          "en": "male student",
+          "vi": "nam sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otoko_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "男性（だんせい）",
         "meaning": {
-          "english": "male"
+          "english": "male",
+          "en": "male",
+          "vi": "nam, nam giới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otoko_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "長男（ちょうなん）",
         "meaning": {
-          "english": "eldest son"
+          "english": "eldest son",
+          "en": "eldest son",
+          "vi": "trưởng nam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otoko_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "男（おとこ）",
         "meaning": {
-          "english": "man"
+          "english": "man",
+          "en": "man",
+          "vi": "đàn ông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/otoko_06_d.opus",
@@ -206,7 +217,9 @@
     "kanji": {
       "character": "男",
       "meaning": {
-        "english": "man"
+        "english": "man",
+        "en": "man",
+        "vi": "đàn ông"
       },
       "strokes": {
         "count": 7,
@@ -258,7 +271,9 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy",
+        "en": "rice paddy",
+        "vi": "ruộng lúa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -279,7 +294,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "240",
     "strokeCount": 7,
-    "meaning": "male",
+    "meaning": {
+      "en": "male",
+      "vi": "nam, nam giới"
+    },
     "kunyomi": [
       "おとこ",
       "お"
@@ -293,7 +311,8 @@
         "example": "男",
         "reading": "ダン",
         "meaning": {
-          "en": "masculine noun, son, baron, man, male"
+          "en": "masculine noun, son, baron, man, male",
+          "vi": "danh từ giống đực, con trai, nam tước, đàn ông, nam giới"
         },
         "romaji": "dan"
       },
@@ -301,7 +320,8 @@
         "example": "男子",
         "reading": "ダンシ",
         "meaning": {
-          "en": "boy, man, male"
+          "en": "boy, man, male",
+          "vi": "con trai, đàn ông, nam giới"
         },
         "romaji": "danshi"
       },
@@ -309,7 +329,8 @@
         "example": "既男",
         "reading": "キダン",
         "meaning": {
-          "en": "married man"
+          "en": "married man",
+          "vi": "người đàn ông đã kết hôn"
         },
         "romaji": "kidan"
       },
@@ -317,7 +338,8 @@
         "example": "公侯伯子男",
         "reading": "コウコウハクシダン",
         "meaning": {
-          "vi": "duke, marquis, count, viscount and baron (five ranks of nobility in Japan; 1869-1947)"
+          "vi": "duke, marquis, count, viscount and baron (five ranks of nobility in Japan; 1869-1947)",
+          "en": "duke, marquis, count, viscount and baron (five ranks of nobility in Japan; 1869-1947)"
         },
         "romaji": "koukouhakushidan"
       },
@@ -325,7 +347,8 @@
         "example": "男",
         "reading": "ナン",
         "meaning": {
-          "en": "son"
+          "en": "son",
+          "vi": "con trai"
         },
         "romaji": "nan"
       },
@@ -333,7 +356,8 @@
         "example": "男女",
         "reading": "ダンジョ",
         "meaning": {
-          "en": "men and women, man and woman, both sexes, both genders"
+          "en": "men and women, man and woman, both sexes, both genders",
+          "vi": "nam nữ, đàn ông và phụ nữ, cả hai giới"
         },
         "romaji": "danjo"
       },
@@ -341,7 +365,8 @@
         "example": "一男",
         "reading": "イチナン",
         "meaning": {
-          "en": "boy, eldest son"
+          "en": "boy, eldest son",
+          "vi": "con trai, trưởng nam"
         },
         "romaji": "ichinan"
       },
@@ -349,7 +374,8 @@
         "example": "次男",
         "reading": "ジナン",
         "meaning": {
-          "en": "second son"
+          "en": "second son",
+          "vi": "con trai thứ"
         },
         "romaji": "jinan"
       }
@@ -359,7 +385,8 @@
         "example": "男",
         "reading": "おとこ",
         "meaning": {
-          "vi": "man, male, fellow, guy, chap, bloke, male lover, boyfriend, man, manliness, manly honor, manly honour, manly reputation"
+          "vi": "man, male, fellow, guy, chap, bloke, male lover, boyfriend, man, manliness, manly honor, manly honour, manly reputation",
+          "en": "man, male, fellow, guy, chap, bloke, male lover, boyfriend, man, manliness, manly honor, manly honour, manly reputation"
         },
         "romaji": "otoko"
       },
@@ -367,7 +394,8 @@
         "example": "男の子",
         "reading": "おとこのこ",
         "meaning": {
-          "en": "boy, son, baby boy, young man"
+          "en": "boy, son, baby boy, young man",
+          "vi": "bé trai, con trai, con trai nhỏ, thanh niên"
         },
         "romaji": "otokonoko"
       },
@@ -375,7 +403,8 @@
         "example": "年男",
         "reading": "としおとこ",
         "meaning": {
-          "en": "man born in a year with the same Chinese zodiac sign as the current year"
+          "en": "man born in a year with the same Chinese zodiac sign as the current year",
+          "vi": "người đàn ông sinh vào năm cùng con giáp với năm hiện tại"
         },
         "romaji": "toshiotoko"
       },
@@ -383,7 +412,8 @@
         "example": "山男",
         "reading": "やまおとこ",
         "meaning": {
-          "vi": "giant, woodsman, alpinist"
+          "vi": "giant, woodsman, alpinist",
+          "en": "giant, woodsman, alpinist"
         },
         "romaji": "yamaotoko"
       },
@@ -391,7 +421,8 @@
         "example": "雄",
         "reading": "お",
         "meaning": {
-          "en": "male, manly, brave, heroic, larger (of the two), greater, man, husband"
+          "en": "male, manly, brave, heroic, larger (of the two), greater, man, husband",
+          "vi": "nam giới, nam tính, dũng cảm, anh hùng, lớn hơn trong hai bên, lớn hơn, đàn ông, chồng"
         },
         "romaji": "o"
       },
@@ -399,7 +430,8 @@
         "example": "男",
         "reading": "おとこ",
         "meaning": {
-          "vi": "man, male, fellow, guy, chap, bloke, male lover, boyfriend, man, manliness, manly honor, manly honour, manly reputation"
+          "vi": "man, male, fellow, guy, chap, bloke, male lover, boyfriend, man, manliness, manly honor, manly honour, manly reputation",
+          "en": "man, male, fellow, guy, chap, bloke, male lover, boyfriend, man, manliness, manly honor, manly honour, manly reputation"
         },
         "romaji": "otoko"
       },
@@ -407,7 +439,8 @@
         "example": "愛上男",
         "reading": "あいうえお",
         "meaning": {
-          "en": "skilled male lover"
+          "en": "skilled male lover",
+          "vi": "người tình nam lão luyện"
         },
         "romaji": "aiueo"
       },
@@ -415,14 +448,18 @@
         "example": "毒男",
         "reading": "どくお",
         "meaning": {
-          "en": "lonely heart, male virgin, loser, geek"
+          "en": "lonely heart, male virgin, loser, geek",
+          "vi": "kẻ cô đơn, trai tân, người thất bại, mọt sách"
         },
         "romaji": "dokuo"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": {
+        "en": "field",
+        "vi": "field"
+      }
     },
     "parts": [
       "力",
@@ -433,6 +470,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7537.gif",
     "uri": "https://jisho.org/search/%E7%94%B7%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Ruộng 田 cộng sức 力, hình ảnh người đàn ông lao động ngoài đồng.",
   "hanViet": [
     "nam"
   ]

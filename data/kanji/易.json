@@ -7,13 +7,17 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "yasa, yasashii, yasui",
-    "meaning": "easy, exchange",
+    "meaning": {
+      "en": "easy, exchange",
+      "vi": "dễ, trao đổi"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "易者（えきしゃ）",
         "meaning": {
-          "english": "fortuneteller"
+          "en": "fortuneteller",
+          "vi": "thầy bói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki-yasa(shii)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "貿易（ぼうえき）",
         "meaning": {
-          "english": "trade [n.]"
+          "en": "trade [n.]",
+          "vi": "trao đổi, giao dịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki-yasa(shii)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "容易な（よういな）",
         "meaning": {
-          "english": "easy"
+          "en": "easy",
+          "vi": "dễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki-yasa(shii)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "安易な（あんいな）",
         "meaning": {
-          "english": "easy-going"
+          "en": "easy-going",
+          "vi": "dễ tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki-yasa(shii)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "難易度（なんいど）",
         "meaning": {
-          "english": "degree of difficulty"
+          "en": "degree of difficulty",
+          "vi": "mức độ khó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki-yasa(shii)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "易しい（やさしい）",
         "meaning": {
-          "english": "easy"
+          "en": "easy",
+          "vi": "dễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki-yasa(shii)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "壊れ易い（こわれやすい）",
         "meaning": {
-          "english": "fragile"
+          "en": "fragile",
+          "vi": "mong manh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/eki-yasa(shii)_06_g.opus",
@@ -191,7 +201,8 @@
     "kanji": {
       "character": "易",
       "meaning": {
-        "english": "easy, exchange"
+        "en": "easy, exchange",
+        "vi": "dễ, trao đổi"
       },
       "strokes": {
         "count": 8,
@@ -245,7 +256,8 @@
         "romaji": "hi"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "en": "sun, day, time",
+        "vi": "mặt trời, ngày, thời gian"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hi0.svg",
@@ -266,7 +278,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "571",
     "strokeCount": 8,
-    "meaning": "easy, ready to, simple, fortune-telling, divination",
+    "meaning": {
+      "en": "easy, ready to, simple, fortune-telling, divination",
+      "vi": "dễ, sẵn sàng, đơn giản, bói toán, chiêm bốc"
+    },
     "kunyomi": [
       "やさ.しい",
       "やす.い"
@@ -280,6 +295,7 @@
         "example": "易",
         "reading": "エキ",
         "meaning": {
+          "en": "type of cleromancy divination (described in the Book of Changes) performed with long sticks, The Book of Changes, Yijing, I Ching",
           "vi": "type of cleromancy divination (described in the Book of Changes) performed with long sticks, The Book of Changes, Yijing, I Ching"
         },
         "romaji": "eki"
@@ -288,7 +304,8 @@
         "example": "易学",
         "reading": "エキガク",
         "meaning": {
-          "en": "study of divination"
+          "en": "study of divination",
+          "vi": "nghiên cứu thuật bói toán"
         },
         "romaji": "ekigaku"
       },
@@ -296,6 +313,7 @@
         "example": "改易",
         "reading": "カイエキ",
         "meaning": {
+          "en": "loss of samurai status and confiscation of territory and property (Edo-period punishment)",
           "vi": "loss of samurai status and confiscation of territory and property (Edo-period punishment)"
         },
         "romaji": "kaieki"
@@ -304,6 +322,7 @@
         "example": "加工交易",
         "reading": "カコウコウエキ",
         "meaning": {
+          "en": "processing trade (importing all or part of raw and auxiliary materials, parts, components, accessories, and packaging materials in bond from a foreign company, and re-exporting the finished products after processing or assembly for distribution and sale by that foreign company)",
           "vi": "processing trade (importing all or part of raw and auxiliary materials, parts, components, accessories, and packaging materials in bond from a foreign company, and re-exporting the finished products after processing or assembly for distribution and sale by that foreign company)"
         },
         "romaji": "kakoukoueki"
@@ -312,7 +331,8 @@
         "example": "易",
         "reading": "イ",
         "meaning": {
-          "en": "easiness"
+          "en": "easiness",
+          "vi": "sự dễ dàng"
         },
         "romaji": "i"
       },
@@ -320,6 +340,7 @@
         "example": "易々",
         "reading": "イイ",
         "meaning": {
+          "en": "easy, simple, plain",
           "vi": "easy, simple, plain"
         },
         "romaji": "ii"
@@ -328,6 +349,7 @@
         "example": "簡易",
         "reading": "カンイ",
         "meaning": {
+          "en": "simple, simplified, easy, plain",
           "vi": "simple, simplified, easy, plain"
         },
         "romaji": "kan'i"
@@ -336,7 +358,8 @@
         "example": "難易",
         "reading": "ナンイ",
         "meaning": {
-          "en": "(relative) difficulty"
+          "en": "(relative) difficulty",
+          "vi": "mức độ khó"
         },
         "romaji": "nan'i"
       }
@@ -346,6 +369,7 @@
         "example": "易しい",
         "reading": "やさしい",
         "meaning": {
+          "en": "easy, plain, simple",
           "vi": "easy, plain, simple"
         },
         "romaji": "yasashii"
@@ -354,6 +378,7 @@
         "example": "やさしい日本語",
         "reading": "やさしいにほんご",
         "meaning": {
+          "en": "easy Japanese (that is easily understood by non-native speakers, children, etc.)",
           "vi": "easy Japanese (that is easily understood by non-native speakers, children, etc.)"
         },
         "romaji": "yasashiinihongo"
@@ -362,14 +387,18 @@
         "example": "易い",
         "reading": "やすい",
         "meaning": {
-          "en": "easy, likely to ..., have a tendency to ..., easy to ..."
+          "en": "easy, likely to ..., have a tendency to ..., easy to ...",
+          "vi": "dễ, có xu hướng..., dễ để..."
         },
         "romaji": "yasui"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "mặt trời, ngày"
+      }
     },
     "parts": [
       "ノ",

@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1553",
     "strokeCount": 14,
-    "meaning": "applaud, praise, esteem, happy, auspicious",
+    "meaning": {
+      "en": "applaud, praise, esteem, happy, auspicious",
+      "vi": "tán thưởng, ca ngợi, trọng vọng, hạnh phúc, cát tường"
+    },
     "kunyomi": [
       "よみ.する",
       "よい"
@@ -20,7 +23,8 @@
         "example": "歌留多",
         "reading": "カルタ",
         "meaning": {
-          "vi": "karuta, traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta"
+          "vi": "karuta, traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta",
+          "en": "karuta, traditional Japanese playing cards, especially hyakunin isshu karuta or iroha karuta"
         },
         "romaji": "karuta"
       },
@@ -28,7 +32,8 @@
         "example": "嘉納",
         "reading": "カノウ",
         "meaning": {
-          "vi": "accepting with pleasure"
+          "vi": "accepting with pleasure",
+          "en": "accepting with pleasure"
         },
         "romaji": "kanou"
       },
@@ -36,7 +41,8 @@
         "example": "正嘉",
         "reading": "ショウカ",
         "meaning": {
-          "en": "Shōka era (1257.3.14-1259.3.26)"
+          "en": "Shōka era (1257.3.14-1259.3.26)",
+          "vi": "niên hiệu Shoka (14/3/1257-26/3/1259)"
         },
         "romaji": "shouka"
       }
@@ -46,14 +52,18 @@
         "example": "嘉する",
         "reading": "よみする",
         "meaning": {
-          "vi": "to praise (someone of lower status), to extol, to applaud, to esteem"
+          "vi": "to praise (someone of lower status), to extol, to applaud, to esteem",
+          "en": "to praise (someone of lower status), to extol, to applaud, to esteem"
         },
         "romaji": "yomisuru"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "力",
@@ -67,5 +77,7 @@
   },
   "hanViet": [
     "gia"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Lời khen đẹp cất ra từ miệng 口, nên 嘉 mang nghĩa tốt đẹp, đáng khen."
 }

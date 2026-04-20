@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ayama, ayamaru, ayamari",
-    "meaning": "mistake, err",
+    "meaning": {
+      "en": "mistake, err",
+      "vi": "sai lầm, phạm lỗi"
+    },
     "kstroke": 14,
     "examples": [
       {
         "japanese": "誤字（ごじ）",
         "meaning": {
-          "english": "misprint"
+          "english": "misprint",
+          "en": "misprint",
+          "vi": "lỗi in sai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "誤算（ごさん）",
         "meaning": {
-          "english": "miscalculation"
+          "english": "miscalculation",
+          "en": "miscalculation",
+          "vi": "tính sai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "誤差（ごさ）",
         "meaning": {
-          "english": "error"
+          "english": "error",
+          "en": "error",
+          "vi": "lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "誤報（ごほう）",
         "meaning": {
-          "english": "misinformation"
+          "english": "misinformation",
+          "en": "misinformation",
+          "vi": "thông tin sai lệch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "誤解する（ごかいする）",
         "meaning": {
-          "english": "misunderstand"
+          "english": "misunderstand",
+          "en": "misunderstand",
+          "vi": "hiểu lầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "誤る（あやまる）",
         "meaning": {
-          "english": "make a mistake"
+          "english": "make a mistake",
+          "en": "make a mistake",
+          "vi": "mắc lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go(sa)_06_f.opus",
@@ -187,7 +202,9 @@
     "kanji": {
       "character": "誤",
       "meaning": {
-        "english": "mistake, err"
+        "english": "mistake, err",
+        "en": "mistake, err",
+        "vi": "sai lầm, phạm lỗi"
       },
       "strokes": {
         "count": 14,
@@ -253,7 +270,9 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say",
+        "en": "words, to speak, say",
+        "vi": "lời lẽ, nói, phát biểu"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -274,7 +293,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1150",
     "strokeCount": 14,
-    "meaning": "mistake, err, do wrong, mislead",
+    "meaning": {
+      "en": "mistake, err, do wrong, mislead",
+      "vi": "sai lầm, mắc lỗi, làm sai, dẫn sai"
+    },
     "kunyomi": [
       "あやま.る",
       "-あやま.る"
@@ -287,7 +309,8 @@
         "example": "誤",
         "reading": "ゴ",
         "meaning": {
-          "en": "mistake, error"
+          "en": "mistake, error",
+          "vi": "lỗi, sai sót"
         },
         "romaji": "go"
       },
@@ -295,7 +318,8 @@
         "example": "誤解",
         "reading": "ゴカイ",
         "meaning": {
-          "en": "misunderstanding"
+          "en": "misunderstanding",
+          "vi": "sự hiểu lầm"
         },
         "romaji": "gokai"
       },
@@ -303,7 +327,8 @@
         "example": "時代錯誤",
         "reading": "ジダイサクゴ",
         "meaning": {
-          "en": "anachronism"
+          "en": "anachronism",
+          "vi": "sự lạc thời"
         },
         "romaji": "jidaisakugo"
       },
@@ -311,7 +336,8 @@
         "example": "錯誤",
         "reading": "サクゴ",
         "meaning": {
-          "vi": "mistake, error, discrepancy, discrepancy between one's actions and intentions"
+          "vi": "lỗi lầm, sai sót, độ lệch, sự lệch giữa hành động và ý định",
+          "en": "mistake, error, discrepancy, discrepancy between one's actions and intentions"
         },
         "romaji": "sakugo"
       }
@@ -321,7 +347,8 @@
         "example": "誤る",
         "reading": "あやまる",
         "meaning": {
-          "en": "to make a mistake (in), to commit an error, to do incorrectly, to err, to be wrong, to be incorrect, to be false, to be mistaken, to mislead, to misguide, to lead astray"
+          "en": "to make a mistake (in), to commit an error, to do incorrectly, to err, to be wrong, to be incorrect, to be false, to be mistaken, to mislead, to misguide, to lead astray",
+          "vi": "mắc lỗi, phạm sai lầm, làm sai, sai, không đúng, giả dối, nhầm lẫn, khiến hiểu sai, dẫn lạc hướng"
         },
         "romaji": "ayamaru"
       }
@@ -331,7 +358,10 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": {
+        "en": "speech",
+        "vi": "lời nói"
+      }
     },
     "parts": [
       "ハ",
@@ -345,5 +375,7 @@
   },
   "hanViet": [
     "ngộ"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: Lời nói 言 mà kèm chữ 吳 dễ thành lệch ý, nên 誤 là sai lầm, nhầm lẫn."
 }

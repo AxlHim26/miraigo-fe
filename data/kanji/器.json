@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "utsuwa",
-    "meaning": "vessel, instrument, container, capacity",
+    "meaning": {
+      "en": "vessel, instrument, container, capacity",
+      "vi": "đồ chứa, dụng cụ, vật chứa, năng lực"
+    },
     "kstroke": 15,
     "examples": [
       {
         "japanese": "器械（きかい）",
         "meaning": {
-          "english": "instrument"
+          "english": "instrument",
+          "en": "instrument",
+          "vi": "dụng cụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "容器（ようき）",
         "meaning": {
-          "english": "container, vessel"
+          "english": "container, vessel",
+          "en": "container, vessel",
+          "vi": "vật chứa, đồ đựng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "陶器（とうき）",
         "meaning": {
-          "english": "pottery, ceramics"
+          "english": "pottery, ceramics",
+          "en": "pottery, ceramics",
+          "vi": "đồ gốm, gốm sứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "便器（べんき）",
         "meaning": {
-          "english": "bedpan, chamber pot, urinal"
+          "english": "bedpan, chamber pot, urinal",
+          "en": "bedpan, chamber pot, urinal",
+          "vi": "bô, ống tiểu, đồ đựng chất thải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "食器（しょっき）",
         "meaning": {
-          "english": "tableware"
+          "english": "tableware",
+          "en": "tableware",
+          "vi": "đồ dùng bàn ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "楽器（がっき）",
         "meaning": {
-          "english": "musical instrument"
+          "english": "musical instrument",
+          "en": "musical instrument",
+          "vi": "nhạc cụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "兵器（へいき）",
         "meaning": {
-          "english": "arms, weapons, ordinance"
+          "english": "arms, weapons, ordinance",
+          "en": "arms, weapons, ordinance",
+          "vi": "vũ khí, binh khí, vũ trang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "臓器（ぞうき）",
         "meaning": {
-          "english": "viscera, internal organs"
+          "english": "viscera, internal organs",
+          "en": "viscera, internal organs",
+          "vi": "nội tạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "消化器（しょうかき）",
         "meaning": {
-          "english": "digestive organs"
+          "english": "digestive organs",
+          "en": "digestive organs",
+          "vi": "cơ quan tiêu hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "器用な（きような）",
         "meaning": {
-          "english": "skillful, handy"
+          "english": "skillful, handy",
+          "en": "skillful, handy",
+          "vi": "khéo léo, thành thạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "不器用な（ぶきような）",
         "meaning": {
-          "english": "clumsy, unskillful"
+          "english": "clumsy, unskillful",
+          "en": "clumsy, unskillful",
+          "vi": "vụng về, không khéo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "器（うつわ）",
         "meaning": {
-          "english": "bowl, vessel, container"
+          "english": "bowl, vessel, container",
+          "en": "bowl, vessel, container",
+          "vi": "bát, đồ chứa, vật chứa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/utsuwa_06_l.opus",
@@ -256,7 +283,9 @@
     "kanji": {
       "character": "器",
       "meaning": {
-        "english": "vessel, instrument, container, capacity"
+        "english": "vessel, instrument, container, capacity",
+        "en": "vessel, instrument, container, capacity",
+        "vi": "đồ chứa, dụng cụ, vật chứa, năng lực"
       },
       "strokes": {
         "count": 15,
@@ -324,7 +353,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -345,7 +376,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "525",
     "strokeCount": 15,
-    "meaning": "utensil, vessel, receptacle, implement, instrument, ability, container, tool, set",
+    "meaning": {
+      "en": "utensil, vessel, receptacle, implement, instrument, ability, container, tool, set",
+      "vi": "đồ dùng, vật chứa, đồ đựng, công cụ, dụng cụ, năng lực, vật chứa, đồ nghề, bộ"
+    },
     "kunyomi": [
       "うつわ"
     ],
@@ -357,7 +391,8 @@
         "example": "器",
         "reading": "キ",
         "meaning": {
-          "vi": "device, instrument, vessel, container, ability, capacity, calibre, caliber"
+          "vi": "device, instrument, vessel, container, ability, capacity, calibre, caliber",
+          "en": "device, instrument, vessel, container, ability, capacity, calibre, caliber"
         },
         "romaji": "ki"
       },
@@ -365,7 +400,8 @@
         "example": "機械",
         "reading": "キカイ",
         "meaning": {
-          "vi": "machine, mechanism, instrument, appliance, apparatus"
+          "vi": "machine, mechanism, instrument, appliance, apparatus",
+          "en": "machine, mechanism, instrument, appliance, apparatus"
         },
         "romaji": "kikai"
       },
@@ -373,7 +409,8 @@
         "example": "呼吸器",
         "reading": "コキュウキ",
         "meaning": {
-          "vi": "respiratory organs"
+          "vi": "respiratory organs",
+          "en": "respiratory organs"
         },
         "romaji": "kokyuuki"
       },
@@ -381,7 +418,8 @@
         "example": "化学兵器",
         "reading": "カガクヘイキ",
         "meaning": {
-          "vi": "chemical weapon"
+          "vi": "chemical weapon",
+          "en": "chemical weapon"
         },
         "romaji": "kagakuheiki"
       }
@@ -391,7 +429,8 @@
         "example": "器",
         "reading": "うつわ",
         "meaning": {
-          "vi": "bowl, vessel, container, ability, capacity, calibre, caliber"
+          "vi": "bowl, vessel, container, ability, capacity, calibre, caliber",
+          "en": "bowl, vessel, container, ability, capacity, calibre, caliber"
         },
         "romaji": "utsuwa"
       },
@@ -399,7 +438,8 @@
         "example": "器物",
         "reading": "きぶつ",
         "meaning": {
-          "vi": "receptacle, container, vessel, utensil, implement, furniture, personal property, calibre, talent, ability"
+          "vi": "receptacle, container, vessel, utensil, implement, furniture, personal property, calibre, talent, ability",
+          "en": "receptacle, container, vessel, utensil, implement, furniture, personal property, calibre, talent, ability"
         },
         "romaji": "kibutsu"
       },
@@ -407,14 +447,18 @@
         "example": "横綱の器",
         "reading": "よこづなのうつわ",
         "meaning": {
-          "vi": "mental characteristics expected of a grand champion"
+          "vi": "mental characteristics expected of a grand champion",
+          "en": "mental characteristics expected of a grand champion"
         },
         "romaji": "yokozunanoutsuwa"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -427,5 +471,7 @@
   },
   "hanViet": [
     "khí"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: bốn cái miệng 口 như nhiều đồ đựng ghép lại, nên 器 là đồ chứa, công cụ."
 }

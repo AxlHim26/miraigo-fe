@@ -5,7 +5,10 @@
     "query": "凵",
     "found": true,
     "strokeCount": 2,
-    "meaning": "open box enclosure, open box radical (no. 17)",
+    "meaning": {
+      "en": "open box enclosure, open box radical (no. 17)",
+      "vi": "bộ hộp mở, bộ khảm số 17"
+    },
     "kunyomi": [],
     "onyomi": [
       "カン"
@@ -15,7 +18,8 @@
         "example": "凵繞",
         "reading": "カンニョウ",
         "meaning": {
-          "en": "kanji \"box\" radical (radical 17)"
+          "en": "kanji \"box\" radical (radical 17)",
+          "vi": "bộ 'hộp' trong kanji, bộ số 17"
         },
         "romaji": "kannyou"
       }
@@ -23,7 +27,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "凵",
-      "meaning": "container, open mouth"
+      "meaning": {
+        "en": "container, open mouth",
+        "vi": "đồ chứa, miệng mở"
+      }
     },
     "parts": [
       "凵"
@@ -35,5 +42,6 @@
   },
   "hanViet": [
     "khảm"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: 凵 giống một chiếc hộp mở miệng lên trên."
 }

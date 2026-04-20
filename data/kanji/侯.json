@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2363",
     "strokeCount": 9,
-    "meaning": "marquis, lord, daimyo",
+    "meaning": {
+      "en": "marquis, lord, daimyo",
+      "vi": "hầu tước, lãnh chúa, daimyo"
+    },
     "kunyomi": [],
     "onyomi": [
       "コウ"
@@ -18,7 +21,8 @@
         "example": "侯",
         "reading": "コウ",
         "meaning": {
-          "en": "marquis, second highest rank of the five ranks of nobility, daimyo"
+          "en": "marquis, second highest rank of the five ranks of nobility, daimyo",
+          "vi": "hầu tước, cấp bậc cao thứ hai trong năm tước vị quý tộc, daimyo"
         },
         "romaji": "kou"
       },
@@ -26,7 +30,8 @@
         "example": "候補",
         "reading": "コウホ",
         "meaning": {
-          "vi": "candidate, contender, prospect, pick, choice, list, candidacy, candidature, nomination"
+          "vi": "ứng cử viên, người được đề cử, triển vọng, lựa chọn, danh sách, sự ứng cử, sự đề cử",
+          "en": "candidate, contender, prospect, pick, choice, list, candidacy, candidature, nomination"
         },
         "romaji": "kouho"
       },
@@ -34,7 +39,8 @@
         "example": "王侯",
         "reading": "オウコウ",
         "meaning": {
-          "en": "the king and his feudal lords"
+          "en": "the king and his feudal lords",
+          "vi": "nhà vua và các chư hầu"
         },
         "romaji": "oukou"
       },
@@ -42,7 +48,8 @@
         "example": "仙台侯",
         "reading": "センダイコウ",
         "meaning": {
-          "en": "Lord of Sendai"
+          "en": "Lord of Sendai",
+          "vi": "lãnh chúa của Sendai"
         },
         "romaji": "sendaikou"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ユ",

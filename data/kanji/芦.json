@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "1733",
     "strokeCount": 7,
-    "meaning": "reed, bullrush",
+    "meaning": {
+      "en": "reed, bullrush",
+      "vi": "cây sậy, cỏ bấc"
+    },
     "kunyomi": [
       "あし",
       "よし"
@@ -19,7 +22,8 @@
         "example": "蘆薈",
         "reading": "ロカイ",
         "meaning": {
-          "en": "aloe"
+          "en": "aloe",
+          "vi": "nha đam"
         },
         "romaji": "rokai"
       },
@@ -27,7 +31,8 @@
         "example": "蘆荻",
         "reading": "ロテキ",
         "meaning": {
-          "en": "reeds, reed and silver grass"
+          "en": "reeds, reed and silver grass",
+          "vi": "các loại sậy, sậy và cỏ lau bạc"
         },
         "romaji": "roteki"
       }
@@ -37,7 +42,8 @@
         "example": "葦",
         "reading": "あし",
         "meaning": {
-          "vi": "common reed (Phragmites australis)"
+          "vi": "common reed (Phragmites australis)",
+          "en": "common reed (Phragmites australis)"
         },
         "romaji": "ashi"
       },
@@ -45,7 +51,8 @@
         "example": "芦毛",
         "reading": "あしげ",
         "meaning": {
-          "vi": "dapple-grey (gray) (horse coat colour)"
+          "vi": "dapple-grey (gray) (horse coat colour)",
+          "en": "dapple-grey (gray) (horse coat colour)"
         },
         "romaji": "ashige"
       },
@@ -53,7 +60,8 @@
         "example": "葦",
         "reading": "あし",
         "meaning": {
-          "vi": "common reed (Phragmites australis)"
+          "vi": "common reed (Phragmites australis)",
+          "en": "common reed (Phragmites australis)"
         },
         "romaji": "ashi"
       },
@@ -61,7 +69,8 @@
         "example": "葦笛",
         "reading": "あしぶえ",
         "meaning": {
-          "vi": "reed pipe, reed flute"
+          "vi": "reed pipe, reed flute",
+          "en": "reed pipe, reed flute"
         },
         "romaji": "ashibue"
       }
@@ -71,7 +80,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [
       "一",

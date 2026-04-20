@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "yasu, yasumu, yasumi, yasumeru",
-    "meaning": "rest",
+    "meaning": {
+      "en": "rest",
+      "vi": "nghỉ ngơi"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "休日（きゅうじつ）",
         "meaning": {
-          "english": "holiday"
+          "english": "holiday",
+          "en": "holiday",
+          "vi": "ngày nghỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(mi)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "週休（しゅうきゅう）",
         "meaning": {
-          "english": "weekly holiday"
+          "english": "weekly holiday",
+          "en": "weekly holiday",
+          "vi": "ngày nghỉ hằng tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(mi)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "休講（きゅうこう）",
         "meaning": {
-          "english": "a cancelled lecture"
+          "english": "a cancelled lecture",
+          "en": "a cancelled lecture",
+          "vi": "buổi học bị hủy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(mi)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "休暇（きゅうか）",
         "meaning": {
-          "english": "vacation"
+          "english": "vacation",
+          "en": "vacation",
+          "vi": "kỳ nghỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(mi)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "休み（やすみ）",
         "meaning": {
-          "english": "rest, absence, break, recess"
+          "english": "rest, absence, break, recess",
+          "en": "rest, absence, break, recess",
+          "vi": "nghỉ ngơi, vắng mặt, giờ giải lao, giờ ra chơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(mi)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "休む（やすむ）",
         "meaning": {
-          "english": "rest [v.i.]"
+          "english": "rest [v.i.]",
+          "en": "rest [v.i.]",
+          "vi": "nghỉ ngơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(mi)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "休める（やすめる）",
         "meaning": {
-          "english": "put to rest [v.t.]"
+          "english": "put to rest [v.t.]",
+          "en": "put to rest [v.t.]",
+          "vi": "cho nghỉ, làm cho nghỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yasu(mi)_06_g.opus",
@@ -241,7 +258,9 @@
     "kanji": {
       "character": "休",
       "meaning": {
-        "english": "rest"
+        "english": "rest",
+        "en": "rest",
+        "vi": "nghỉ ngơi"
       },
       "strokes": {
         "count": 6,
@@ -291,7 +310,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -312,7 +333,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "642",
     "strokeCount": 6,
-    "meaning": "rest, day off, retire, sleep",
+    "meaning": {
+      "en": "rest, day off, retire, sleep",
+      "vi": "nghỉ ngơi, ngày nghỉ, nghỉ hưu, ngủ"
+    },
     "kunyomi": [
       "やす.む",
       "やす.まる",
@@ -326,7 +350,8 @@
         "example": "休館",
         "reading": "キュウカン",
         "meaning": {
-          "en": "closure (of a library, museum, etc.)"
+          "en": "closure (of a library, museum, etc.)",
+          "vi": "việc đóng cửa (thư viện, bảo tàng, v.v.)"
         },
         "romaji": "kyuukan"
       },
@@ -334,7 +359,8 @@
         "example": "休暇",
         "reading": "キュウカ",
         "meaning": {
-          "en": "holiday, vacation, day off, time off, leave, furlough"
+          "en": "holiday, vacation, day off, time off, leave, furlough",
+          "vi": "ngày nghỉ, kỳ nghỉ, ngày nghỉ phép, thời gian nghỉ, nghỉ phép, nghỉ tạm thời"
         },
         "romaji": "kyuuka"
       },
@@ -342,7 +368,8 @@
         "example": "帰休",
         "reading": "キキュウ",
         "meaning": {
-          "vi": "leave, furlough, temporary layoff"
+          "vi": "leave, furlough, temporary layoff",
+          "en": "nghỉ phép, nghỉ tạm thời, cho nghỉ tạm thời"
         },
         "romaji": "kikyuu"
       },
@@ -350,7 +377,8 @@
         "example": "定休",
         "reading": "テイキュウ",
         "meaning": {
-          "en": "regular holiday, fixed day off, regular closing day"
+          "en": "regular holiday, fixed day off, regular closing day",
+          "vi": "ngày nghỉ cố định, ngày nghỉ thường kỳ, ngày đóng cửa định kỳ"
         },
         "romaji": "teikyuu"
       }
@@ -360,7 +388,8 @@
         "example": "休む",
         "reading": "やすむ",
         "meaning": {
-          "vi": "to be absent, to take a day off, to rest, to have a break, to go to bed, to (lie down to) sleep, to turn in, to retire, to stop doing some ongoing activity for a time, to suspend business"
+          "vi": "to be absent, to take a day off, to rest, to have a break, to go to bed, to (lie down to) sleep, to turn in, to retire, to stop doing some ongoing activity for a time, to suspend business",
+          "en": "vắng mặt, nghỉ một ngày, nghỉ ngơi, giải lao, đi ngủ, nằm ngủ, lui về nghỉ, nghỉ hưu, tạm ngừng một hoạt động đang diễn ra, đình chỉ kinh doanh"
         },
         "romaji": "yasumu"
       },
@@ -368,7 +397,8 @@
         "example": "休まる",
         "reading": "やすまる",
         "meaning": {
-          "vi": "to be rested, to feel at ease, to repose, to be relieved"
+          "vi": "to be rested, to feel at ease, to repose, to be relieved",
+          "en": "được nghỉ ngơi, cảm thấy nhẹ nhõm, an tâm, được khuây khỏa"
         },
         "romaji": "yasumaru"
       },
@@ -376,7 +406,8 @@
         "example": "休める",
         "reading": "やすめる",
         "meaning": {
-          "vi": "to rest, to suspend, to give relief"
+          "vi": "to rest, to suspend, to give relief",
+          "en": "nghỉ ngơi, tạm dừng, làm dịu bớt"
         },
         "romaji": "yasumeru"
       }
@@ -386,7 +417,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

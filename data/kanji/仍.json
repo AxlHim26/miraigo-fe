@@ -5,7 +5,10 @@
     "query": "仍",
     "found": true,
     "strokeCount": 4,
-    "meaning": "therefore, consequently",
+    "meaning": {
+      "en": "therefore, consequently",
+      "vi": "vì vậy, do đó"
+    },
     "kunyomi": [
       "よ.って",
       "しきりに",
@@ -21,7 +24,8 @@
         "example": "仍孫",
         "reading": "ジョウソン",
         "meaning": {
-          "en": "seventh-generation descendant, great-great-great-great-great-grandchild"
+          "en": "seventh-generation descendant, great-great-great-great-great-grandchild",
+          "vi": "hậu duệ đời thứ bảy, chít nhiều đời"
         },
         "romaji": "jouson"
       }
@@ -31,7 +35,8 @@
         "example": "因って",
         "reading": "よって",
         "meaning": {
-          "en": "therefore, consequently, accordingly, for that reason"
+          "en": "therefore, consequently, accordingly, for that reason",
+          "vi": "vì vậy, do đó, theo đó, vì lý do đó"
         },
         "romaji": "yotte"
       }
@@ -41,7 +46,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

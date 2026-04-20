@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1539",
     "strokeCount": 9,
-    "meaning": "hedge, fence, wall",
+    "meaning": {
+      "en": "hedge, fence, wall",
+      "vi": "hàng rào, bờ rào, tường"
+    },
     "kunyomi": [
       "かき"
     ],
@@ -20,7 +23,8 @@
         "example": "垣牆",
         "reading": "エンショウ",
         "meaning": {
-          "en": "hedge, fence"
+          "en": "hedge, fence",
+          "vi": "hàng rào, bờ rào"
         },
         "romaji": "enshou"
       },
@@ -28,7 +32,8 @@
         "example": "紫微垣",
         "reading": "シビエン",
         "meaning": {
-          "vi": "Purple Forbidden Enclosure (group of constellations in the northern sky associated with the emperor)"
+          "vi": "Purple Forbidden Enclosure (group of constellations in the northern sky associated with the emperor)",
+          "en": "Purple Forbidden Enclosure (group of constellations in the northern sky associated with the emperor)"
         },
         "romaji": "shibien"
       }
@@ -38,7 +43,8 @@
         "example": "垣",
         "reading": "かき",
         "meaning": {
-          "en": "fence, hedge, railing, barrier, wall"
+          "en": "fence, hedge, railing, barrier, wall",
+          "vi": "hàng rào, bờ rào, lan can, vật chắn, tường"
         },
         "romaji": "kaki"
       },
@@ -46,7 +52,8 @@
         "example": "垣根",
         "reading": "かきね",
         "meaning": {
-          "en": "hedge, fence, border, limit"
+          "en": "hedge, fence, border, limit",
+          "vi": "hàng rào, bờ rào, ranh giới, giới hạn"
         },
         "romaji": "kakine"
       },
@@ -54,7 +61,8 @@
         "example": "斎垣",
         "reading": "いがき",
         "meaning": {
-          "en": "fence around a shrine (or other sacred area)"
+          "en": "fence around a shrine (or other sacred area)",
+          "vi": "hàng rào quanh đền thờ hoặc khu vực linh thiêng"
         },
         "romaji": "igaki"
       },
@@ -62,14 +70,18 @@
         "example": "築垣",
         "reading": "ついがき",
         "meaning": {
-          "en": "mud wall with a roof"
+          "en": "mud wall with a roof",
+          "vi": "tường đất có mái che"
         },
         "romaji": "tsuigaki"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "一",
@@ -81,6 +93,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57a3.gif",
     "uri": "https://jisho.org/search/%E5%9E%A3%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là đất dựng thành hàng, thêm 亘 như kéo dài ngang, thành bờ rào chạy dài quanh nhà.",
   "hanViet": [
     "viên"
   ]

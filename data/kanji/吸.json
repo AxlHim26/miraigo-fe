@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "su, suu",
-    "meaning": "suck, breathe in, inhale, smoke",
+    "meaning": {
+      "en": "suck, breathe in, inhale, smoke",
+      "vi": "hut, hit vao, tho vao, hut thuoc"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "吸水性（きゅうすいせい）",
         "meaning": {
-          "english": "water absorbency"
+          "english": "water absorbency",
+          "en": "water absorbency",
+          "vi": "do hut nuoc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "吸血鬼（きゅうけつき）",
         "meaning": {
-          "english": "vampire, bloodsucker"
+          "english": "vampire, bloodsucker",
+          "en": "vampire, bloodsucker",
+          "vi": "ma ca rong, ke hut mau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "吸盤（きゅうばん）",
         "meaning": {
-          "english": "suction pad, suction cup"
+          "english": "suction pad, suction cup",
+          "en": "suction pad, suction cup",
+          "vi": "mieng hut, giac hut"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "深呼吸（しんこきゅう）",
         "meaning": {
-          "english": "deep breath"
+          "english": "deep breath",
+          "en": "deep breath",
+          "vi": "hoi tho sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "吸収する（きゅうしゅうする）",
         "meaning": {
-          "english": "absorb, assimilate, suck in"
+          "english": "absorb, assimilate, suck in",
+          "en": "absorb, assimilate, suck in",
+          "vi": "hap thu, dong hoa, hut vao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "吸引する（きゅういんする）",
         "meaning": {
-          "english": "absorb, suck in, attract"
+          "english": "absorb, suck in, attract",
+          "en": "absorb, suck in, attract",
+          "vi": "hap thu, hut vao, thu hut"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "呼吸する（こきゅうする）",
         "meaning": {
-          "english": "breathe"
+          "english": "breathe",
+          "en": "breathe",
+          "vi": "tho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "吸う（すう）",
         "meaning": {
-          "english": "breathe, smoke, suck in"
+          "english": "breathe, smoke, suck in",
+          "en": "breathe, smoke, suck in",
+          "vi": "tho, hut thuoc, hit vao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "吸い殻（すいがら）",
         "meaning": {
-          "english": "cigarette end , tobacco ashes"
+          "english": "cigarette end , tobacco ashes",
+          "en": "cigarette end , tobacco ashes",
+          "vi": "dau mau thuoc la, tro thuoc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su(u)_06_i.opus",
@@ -213,7 +234,9 @@
     "kanji": {
       "character": "吸",
       "meaning": {
-        "english": "suck, breathe in, inhale, smoke"
+        "english": "suck, breathe in, inhale, smoke",
+        "en": "suck, breathe in, inhale, smoke",
+        "vi": "hut, hit vao, tho vao, hut thuoc"
       },
       "strokes": {
         "count": 6,
@@ -263,7 +286,9 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "mieng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -284,7 +309,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1054",
     "strokeCount": 6,
-    "meaning": "suck, imbibe, inhale, sip",
+    "meaning": {
+      "en": "suck, imbibe, inhale, sip",
+      "vi": "hut, hap thu, hit vao, nhap tung ngum"
+    },
     "kunyomi": [
       "す.う"
     ],
@@ -296,7 +324,8 @@
         "example": "吸収",
         "reading": "キュウシュウ",
         "meaning": {
-          "vi": "absorption, suction, attraction"
+          "vi": "su hap thu, suc hut, su thu hut",
+          "en": "absorption, suction, attraction"
         },
         "romaji": "kyuushuu"
       },
@@ -304,7 +333,8 @@
         "example": "吸血鬼",
         "reading": "キュウケツキ",
         "meaning": {
-          "vi": "vampire, bloodsucker"
+          "vi": "vampire, bloodsucker",
+          "en": "vampire, bloodsucker"
         },
         "romaji": "kyuuketsuki"
       },
@@ -312,7 +342,8 @@
         "example": "腹式呼吸",
         "reading": "フクシキコキュウ",
         "meaning": {
-          "vi": "diaphragmatic breathing, abdominal breathing"
+          "vi": "tho bang co hoanh, tho bung",
+          "en": "diaphragmatic breathing, abdominal breathing"
         },
         "romaji": "fukushikikokyuu"
       },
@@ -320,7 +351,8 @@
         "example": "外呼吸",
         "reading": "ガイコキュウ",
         "meaning": {
-          "vi": "external respiration"
+          "vi": "ho hap ngoai",
+          "en": "external respiration"
         },
         "romaji": "gaikokyuu"
       }
@@ -330,14 +362,18 @@
         "example": "吸う",
         "reading": "すう",
         "meaning": {
-          "vi": "to smoke, to breathe in, to inhale, to suck, to sip, to slurp, to absorb, to soak up, to kiss"
+          "vi": "to smoke, to breathe in, to inhale, to suck, to sip, to slurp, to absorb, to soak up, to kiss",
+          "en": "to smoke, to breathe in, to inhale, to suck, to sip, to slurp, to absorb, to soak up, to kiss"
         },
         "romaji": "suu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "mieng, lo mo"
+      }
     },
     "parts": [
       "ノ",
@@ -351,5 +387,7 @@
   },
   "hanViet": [
     "hấp"
-  ]
+  ],
+  "jlpt_level": "N3",
+  "mnemonic_vi": "Miệng đi cùng nét kéo vào, nhớ là hít vào và hấp thụ."
 }

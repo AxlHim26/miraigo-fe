@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 6,
-    "meaning": "help",
+    "meaning": {
+      "en": "help",
+      "vi": "giúp đỡ"
+    },
     "kunyomi": [
       "すく.う",
       "たす.ける"
@@ -37,7 +40,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "ノ",

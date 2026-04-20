@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "jlptLevel": "N1",
     "strokeCount": 5,
-    "meaning": "third class, 3rd, 3rd calendar sign",
+    "meaning": {
+      "en": "third class, 3rd, 3rd calendar sign",
+      "vi": "hạng ba, thứ ba, dấu lịch thứ ba"
+    },
     "kunyomi": [
       "ひのえ"
     ],
@@ -104,7 +107,10 @@
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "一",
@@ -126,5 +132,7 @@
   "meaning": {
     "vi": "bảng lịch hạng ba, hạng 3, hạng 3",
     "en": "third class, 3rd, 3rd calendar sign"
-  }
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Khung mở ở dưới như vị trí thứ ba mở ra, nhớ Bính là can thứ ba."
 }

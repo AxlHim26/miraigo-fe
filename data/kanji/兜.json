@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2034",
     "strokeCount": 11,
-    "meaning": "helmet, head piece",
+    "meaning": {
+      "en": "helmet, head piece",
+      "vi": "mũ giáp, đồ đội đầu"
+    },
     "kunyomi": [
       "かぶと"
     ],
@@ -19,7 +22,8 @@
         "example": "兜巾",
         "reading": "トキン",
         "meaning": {
-          "en": "tokin, small black headgear worn by yamabushi"
+          "en": "tokin, small black headgear worn by yamabushi",
+          "vi": "tokin, mũ đen nhỏ do yamabushi đội"
         },
         "romaji": "tokin"
       },
@@ -27,21 +31,26 @@
         "example": "兜率",
         "reading": "トソツ",
         "meaning": {
-          "vi": "Tusita (heaven, pure land)"
+          "vi": "Tusita (heaven, pure land)",
+          "en": ""
         },
         "romaji": "tosotsu"
       },
       {
         "example": "【ヘラクレスオオカブト】",
         "reading": "Hercules beetle (Dynastes hercules)",
-        "meaning": "",
+        "meaning": {
+          "en": "",
+          "vi": ""
+        },
         "romaji": "Hercules beetle (Dynastes hercules)"
       },
       {
         "example": "内兜",
         "reading": "ウチカブト",
         "meaning": {
-          "en": "inside of a helmet, hidden circumstances"
+          "en": "inside of a helmet, hidden circumstances",
+          "vi": "mặt trong của mũ giáp, tình hình ẩn khuất"
         },
         "romaji": "uchikabuto"
       }
@@ -51,7 +60,8 @@
         "example": "兜",
         "reading": "かぶと",
         "meaning": {
-          "vi": "helmet (of a warrior), headpiece"
+          "vi": "helmet (of a warrior), headpiece",
+          "en": ""
         },
         "romaji": "kabuto"
       },
@@ -59,28 +69,36 @@
         "example": "兜合わせ",
         "reading": "かぶとあわせ",
         "meaning": {
-          "en": "frot (sex act)"
+          "en": "frot (sex act)",
+          "vi": "cọ xát cơ thể (hành vi tình dục)"
         },
         "romaji": "kabutoawase"
       },
       {
         "example": "【ヘラクレスオオカブト】",
         "reading": "Hercules beetle (Dynastes hercules)",
-        "meaning": "",
+        "meaning": {
+          "en": "",
+          "vi": ""
+        },
         "romaji": "Hercules beetle (Dynastes hercules)"
       },
       {
         "example": "内兜",
         "reading": "うちかぶと",
         "meaning": {
-          "en": "inside of a helmet, hidden circumstances"
+          "en": "inside of a helmet, hidden circumstances",
+          "vi": "mặt trong của mũ giáp, tình hình ẩn khuất"
         },
         "romaji": "uchikabuto"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "儿",

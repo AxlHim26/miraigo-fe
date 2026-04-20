@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 3,
     "kunyomi": "waka, wakare, wakareru",
-    "meaning": "separate, another",
+    "meaning": {
+      "en": "separate, another",
+      "vi": "tách riêng, khác"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "特別な（とくべつな）",
         "meaning": {
-          "english": "special"
+          "english": "special",
+          "en": "special",
+          "vi": "đặc biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "別な（べつな）",
         "meaning": {
-          "english": "different, another"
+          "english": "different, another",
+          "en": "different, another",
+          "vi": "khác, một cái khác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "別々に（べつべつに）",
         "meaning": {
-          "english": "separately"
+          "english": "separately",
+          "en": "separately",
+          "vi": "riêng biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "個別に（こべつに）",
         "meaning": {
-          "english": "individually"
+          "english": "individually",
+          "en": "individually",
+          "vi": "từng cái một, riêng lẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "別離（べつり）",
         "meaning": {
-          "english": "parting"
+          "english": "parting",
+          "en": "parting",
+          "vi": "chia ly"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "別荘（べっそう）",
         "meaning": {
-          "english": "summer home"
+          "english": "summer home",
+          "en": "summer home",
+          "vi": "nhà nghỉ mùa hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "別世界（べっせかい）",
         "meaning": {
-          "english": "another world"
+          "english": "another world",
+          "en": "another world",
+          "vi": "thế giới khác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "差別する（さべつする）",
         "meaning": {
-          "english": "discriminate"
+          "english": "discriminate",
+          "en": "discriminate",
+          "vi": "phân biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "区別する（くべつする）",
         "meaning": {
-          "english": "differentiate"
+          "english": "differentiate",
+          "en": "differentiate",
+          "vi": "phân biệt, làm khác đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "別居する（べっきょする）",
         "meaning": {
-          "english": "separate (i.e. a married couple)"
+          "english": "separate (i.e. a married couple)",
+          "en": "separate (i.e. a married couple)",
+          "vi": "chia tay, ly thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "別れる（わかれる）",
         "meaning": {
-          "english": "be divided, part from"
+          "english": "be divided, part from",
+          "en": "be divided, part from",
+          "vi": "bị chia tách, rời xa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/betsu-waka(re)_06_k.opus",
@@ -295,7 +320,9 @@
     "kanji": {
       "character": "別",
       "meaning": {
-        "english": "separate, another"
+        "english": "separate, another",
+        "en": "separate, another",
+        "vi": "tách riêng, khác"
       },
       "strokes": {
         "count": 7,
@@ -347,7 +374,9 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -368,7 +397,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "214",
     "strokeCount": 7,
-    "meaning": "separate, branch off, diverge, fork, another, extra, specially",
+    "meaning": {
+      "en": "separate, branch off, diverge, fork, another, extra, specially",
+      "vi": "tách ra, rẽ nhánh, phân kỳ, chia nhánh, khác, thêm, đặc biệt"
+    },
     "kunyomi": [
       "わか.れる",
       "わ.ける"
@@ -381,7 +413,8 @@
         "example": "別",
         "reading": "ベツ",
         "meaning": {
-          "vi": "distinction, difference, discrimination, separate, different, another, extra, exception, exclusion, classified by, ranked by, according to"
+          "vi": "sự phân biệt, khác biệt, tách riêng, khác, cái khác, thêm, ngoại lệ, loại trừ, phân loại theo, xếp hạng theo, theo",
+          "en": "distinction, difference, discrimination, separate, different, another, extra, exception, exclusion, classified by, ranked by, according to"
         },
         "romaji": "betsu"
       },
@@ -389,7 +422,8 @@
         "example": "別院",
         "reading": "ベツイン",
         "meaning": {
-          "vi": "branch temple"
+          "vi": "chùa nhánh",
+          "en": "branch temple"
         },
         "romaji": "betsuin"
       },
@@ -397,7 +431,8 @@
         "example": "無差別",
         "reading": "ムサベツ",
         "meaning": {
-          "en": "indiscrimination, without discrimination, indiscriminate"
+          "en": "indiscrimination, without discrimination, indiscriminate",
+          "vi": "không phân biệt, không phân biệt đối xử, bừa bãi"
         },
         "romaji": "musabetsu"
       },
@@ -405,7 +440,8 @@
         "example": "告別",
         "reading": "コクベツ",
         "meaning": {
-          "en": "farewell, leave-taking"
+          "en": "farewell, leave-taking",
+          "vi": "chia tay, từ biệt"
         },
         "romaji": "kokubetsu"
       }
@@ -415,7 +451,8 @@
         "example": "別れる",
         "reading": "わかれる",
         "meaning": {
-          "vi": "to part (usu. of people), to part from, to part with, to be apart from, to separate (of a couple), to break up, to divorce, to lose (e.g. one's mother), to be bereaved"
+          "vi": "chia tay (thường nói về người), rời xa, ly thân, chia lìa, tan vỡ, ly hôn, mất (như mất mẹ), chịu cảnh tang tóc",
+          "en": "to part (usu. of people), to part from, to part with, to be apart from, to separate (of a couple), to break up, to divorce, to lose (e.g. one's mother), to be bereaved"
         },
         "romaji": "wakareru"
       },
@@ -423,7 +460,8 @@
         "example": "分ける",
         "reading": "わける",
         "meaning": {
-          "vi": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
+          "vi": "chia ra, tách ra, chia phần, phân loại, sắp riêng, phân phát, chia sẻ, phân biệt, dàn xếp, xử hòa, chen qua (đám đông), bán",
+          "en": "to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell"
         },
         "romaji": "wakeru"
       }
@@ -433,7 +471,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "刈",
@@ -448,5 +489,7 @@
   },
   "hanViet": [
     "biệt"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: dùng dao tách riêng từng phần, nên 別 là riêng, khác biệt."
 }

@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 50,
     "kunyomi": "naka, nakaba",
-    "meaning": "half",
+    "meaning": {
+      "en": "half",
+      "vi": "một nửa"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "半分（はんぶん）",
         "meaning": {
-          "english": "half"
+          "english": "half",
+          "en": "half",
+          "vi": "một nửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "半額（はんがく）",
         "meaning": {
-          "english": "half price"
+          "english": "half price",
+          "en": "half price",
+          "vi": "giá một nửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "半導体（はんどうたい）",
         "meaning": {
-          "english": "semiconductor"
+          "english": "semiconductor",
+          "en": "semiconductor",
+          "vi": "chất bán dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "半熟（はんじゅく）",
         "meaning": {
-          "english": "soft-boiled"
+          "english": "soft-boiled",
+          "en": "soft-boiled",
+          "vi": "lòng đào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "一時半（いちじはん）",
         "meaning": {
-          "english": "half past one"
+          "english": "half past one",
+          "en": "half past one",
+          "vi": "một giờ rưỡi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "二年半（にねんはん）",
         "meaning": {
-          "english": "two and a half years"
+          "english": "two and a half years",
+          "en": "two and a half years",
+          "vi": "hai năm rưỡi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "月半ば（つきなかば）",
         "meaning": {
-          "english": "middle of the month"
+          "english": "middle of the month",
+          "en": "middle of the month",
+          "vi": "giữa tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han-naka(ba)_06_g.opus",
@@ -224,7 +241,9 @@
     "kanji": {
       "character": "半",
       "meaning": {
-        "english": "half"
+        "english": "half",
+        "en": "half",
+        "vi": "một nửa"
       },
       "strokes": {
         "count": 5,
@@ -272,7 +291,9 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten",
+        "en": "ten",
+        "vi": "mười"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -293,7 +314,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "224",
     "strokeCount": 5,
-    "meaning": "half, middle, odd number, semi-, part-",
+    "meaning": {
+      "en": "half, middle, odd number, semi-, part-",
+      "vi": "một nửa, ở giữa, số lẻ, bán-, phần-"
+    },
     "kunyomi": [
       "なか.ば"
     ],
@@ -305,7 +329,8 @@
         "example": "半",
         "reading": "ハン",
         "meaning": {
-          "vi": "half, semi-, partial, half-past, odd number, han (unit of land area, approx. 595.8 m^2)"
+          "vi": "half, semi-, partial, half-past, odd number, han (unit of land area, approx. 595.8 m^2)",
+          "en": "half, semi-, partial, half-past, odd number, han (unit of land area, approx. 595.8 m^2)"
         },
         "romaji": "han"
       },
@@ -313,7 +338,8 @@
         "example": "半額",
         "reading": "ハンガク",
         "meaning": {
-          "vi": "half the amount (of money), half price, half fare"
+          "vi": "half the amount (of money), half price, half fare",
+          "en": "half the amount (of money), half price, half fare"
         },
         "romaji": "hangaku"
       },
@@ -321,7 +347,8 @@
         "example": "四畳半",
         "reading": "ヨジョウハン",
         "meaning": {
-          "vi": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations"
+          "vi": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations",
+          "en": "four and a half tatami mats, four-and-a-half-mat room, small room esp. for assignations"
         },
         "romaji": "yojouhan"
       },
@@ -329,7 +356,8 @@
         "example": "過半",
         "reading": "カハン",
         "meaning": {
-          "vi": "the greater part"
+          "vi": "the greater part",
+          "en": "the greater part"
         },
         "romaji": "kahan"
       }
@@ -339,7 +367,8 @@
         "example": "半ば",
         "reading": "なかば",
         "meaning": {
-          "vi": "middle, halfway, midway, half (of), one half, half (e.g. done, jokingly), partly, in part, partially, mostly, almost, nearly"
+          "vi": "middle, halfway, midway, half (of), one half, half (e.g. done, jokingly), partly, in part, partially, mostly, almost, nearly",
+          "en": "middle, halfway, midway, half (of), one half, half (e.g. done, jokingly), partly, in part, partially, mostly, almost, nearly"
         },
         "romaji": "nakaba"
       },
@@ -347,14 +376,18 @@
         "example": "半ば過ぎ",
         "reading": "なかばすぎ",
         "meaning": {
-          "en": "beyond the middle"
+          "en": "beyond the middle",
+          "vi": "qua khỏi điểm giữa"
         },
         "romaji": "nakabasugi"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "mười, đầy đủ"
+      }
     },
     "parts": [
       "二",
@@ -369,5 +402,7 @@
   },
   "hanViet": [
     "bán"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Hình chữ như bị chia đôi ở giữa, rất dễ nhớ nghĩa là một nửa."
 }

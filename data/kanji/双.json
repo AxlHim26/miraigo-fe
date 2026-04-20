@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "futa",
-    "meaning": "set of two, pair, both",
+    "meaning": {
+      "en": "set of two, pair, both",
+      "vi": "bo hai, cap doi, ca hai"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "双方（そうほう）",
         "meaning": {
-          "english": "both parties, bilateral"
+          "english": "both parties, bilateral",
+          "en": "both parties, bilateral",
+          "vi": "hai ben, song phuong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "双肩（そうけん）",
         "meaning": {
-          "english": "shoulders"
+          "english": "shoulders",
+          "en": "shoulders",
+          "vi": "vai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "双眼鏡（そうがんきょう）",
         "meaning": {
-          "english": "binoculars, field glasses"
+          "english": "binoculars, field glasses",
+          "en": "binoculars, field glasses",
+          "vi": "ong nhom, kinh nhin xa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "双生児（そうせいじ）",
         "meaning": {
-          "english": "twins"
+          "english": "twins",
+          "en": "twins",
+          "vi": "song sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "双子（ふたご）",
         "meaning": {
-          "english": "twins, a twin"
+          "english": "twins, a twin",
+          "en": "twins, a twin",
+          "vi": "doi song sinh, mot nguoi trong cap song sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "双葉（ふたば）",
         "meaning": {
-          "english": "seed leaf, cotyledon"
+          "english": "seed leaf, cotyledon",
+          "en": "seed leaf, cotyledon",
+          "vi": "la mam, tu diep"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futa(go)_06_f.opus",
@@ -158,7 +173,9 @@
     "kanji": {
       "character": "双",
       "meaning": {
-        "english": "set of two, pair, both"
+        "english": "set of two, pair, both",
+        "en": "set of two, pair, both",
+        "vi": "bo hai, cap doi, ca hai"
       },
       "strokes": {
         "count": 4,
@@ -204,7 +221,9 @@
         "romaji": "mata"
       },
       "meaning": {
-        "english": "again, right hand"
+        "english": "again, right hand",
+        "en": "again, right hand",
+        "vi": "lai nua, ban tay phai"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mata0.svg",
@@ -225,7 +244,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1029",
     "strokeCount": 4,
-    "meaning": "pair, set, comparison, counter for pairs",
+    "meaning": {
+      "en": "pair, set, comparison, counter for pairs",
+      "vi": "cap, bo doi, doi chieu, tu dem cho cap"
+    },
     "kunyomi": [
       "ふた",
       "たぐい",
@@ -240,7 +262,8 @@
         "example": "双",
         "reading": "ソウ",
         "meaning": {
-          "vi": "pair"
+          "vi": "mot cap",
+          "en": "pair"
         },
         "romaji": "sou"
       },
@@ -248,7 +271,8 @@
         "example": "双子",
         "reading": "フタゴ",
         "meaning": {
-          "en": "twins, twin"
+          "en": "twins, twin",
+          "vi": "song sinh, cap doi"
         },
         "romaji": "futago"
       },
@@ -256,7 +280,8 @@
         "example": "一双",
         "reading": "イッソウ",
         "meaning": {
-          "vi": "pair (esp. of folding screens)"
+          "vi": "mot cap, dac biet la binh phong doi",
+          "en": "pair (esp. of folding screens)"
         },
         "romaji": "issou"
       },
@@ -264,7 +289,8 @@
         "example": "八双",
         "reading": "ハッソウ",
         "meaning": {
-          "en": "style of sword fighting"
+          "en": "style of sword fighting",
+          "vi": "truong phai kiem thuat"
         },
         "romaji": "hassou"
       }
@@ -274,7 +300,8 @@
         "example": "二つ",
         "reading": "ふたつ",
         "meaning": {
-          "en": "two"
+          "en": "two",
+          "vi": "hai"
         },
         "romaji": "futatsu"
       },
@@ -282,7 +309,8 @@
         "example": "双子",
         "reading": "ふたご",
         "meaning": {
-          "en": "twins, twin"
+          "en": "twins, twin",
+          "vi": "song sinh, cap doi"
         },
         "romaji": "futago"
       },
@@ -290,7 +318,8 @@
         "example": "並ぶ",
         "reading": "ならぶ",
         "meaning": {
-          "vi": "to line up, to stand in a line, to rival, to match, to equal"
+          "vi": "xep hang, dung thanh hang, canh tranh, ngang hang, bang nhau",
+          "en": "to line up, to stand in a line, to rival, to match, to equal"
         },
         "romaji": "narabu"
       },
@@ -298,14 +327,18 @@
         "example": "二つ",
         "reading": "ふたつ",
         "meaning": {
-          "en": "two"
+          "en": "two",
+          "vi": "hai"
         },
         "romaji": "futatsu"
       }
     ],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": {
+        "en": "right hand",
+        "vi": "tay phai"
+      }
     },
     "parts": [
       "丶",
@@ -318,5 +351,7 @@
   },
   "hanViet": [
     "song"
-  ]
+  ],
+  "jlpt_level": "N2",
+  "mnemonic_vi": "Hai bàn tay đặt cạnh nhau, nhớ là song đôi và cặp hai."
 }

@@ -5,14 +5,20 @@
     "query": "关",
     "found": true,
     "strokeCount": 6,
-    "meaning": "frontier pass, close, relation",
+    "meaning": {
+      "en": "frontier pass, close, relation",
+      "vi": "cửa ải biên giới, đóng lại, quan hệ"
+    },
     "kunyomi": [],
     "onyomi": [],
     "onyomiExamples": [],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": {
+        "en": "eight",
+        "vi": "tám"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20851_frames.png",

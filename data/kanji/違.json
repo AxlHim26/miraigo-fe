@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "chiga, chigau, chigaeru",
-    "meaning": "differ, violate, different, be mistaken",
+    "meaning": {
+      "en": "differ, violate, different, be mistaken",
+      "vi": "khác, vi phạm, khác biệt, nhầm lẫn"
+    },
     "kstroke": 13,
     "examples": [
       {
         "japanese": "違憲（いけん）",
         "meaning": {
-          "english": "unconstitutionality"
+          "english": "unconstitutionality",
+          "en": "unconstitutionality",
+          "vi": "tính vi hiến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-chiga(u)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "違和感（いわかん）",
         "meaning": {
-          "english": "feeling that something is wrong"
+          "english": "feeling that something is wrong",
+          "en": "feeling that something is wrong",
+          "vi": "cảm giác có gì đó không ổn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-chiga(u)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "違法な（いほうな）",
         "meaning": {
-          "english": "illegal"
+          "english": "illegal",
+          "en": "illegal",
+          "vi": "bất hợp pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-chiga(u)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "違反する（いはんする）",
         "meaning": {
-          "english": "violate, transgress"
+          "english": "violate, transgress",
+          "en": "violate, transgress",
+          "vi": "vi phạm, phạm luật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-chiga(u)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "相違する（そういする）",
         "meaning": {
-          "english": "be different, vary, disagree"
+          "english": "be different, vary, disagree",
+          "en": "be different, vary, disagree",
+          "vi": "khác nhau, biến đổi, không đồng ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-chiga(u)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "違う（ちがう）",
         "meaning": {
-          "english": "differ"
+          "english": "differ",
+          "en": "differ",
+          "vi": "khác biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-chiga(u)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "食い違う（くいちがう）",
         "meaning": {
-          "english": "clash, run counter to"
+          "english": "clash, run counter to",
+          "en": "clash, run counter to",
+          "vi": "xung đột, trái ngược với"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-chiga(u)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "間違い（まちがい）",
         "meaning": {
-          "english": "mistake [n.]"
+          "english": "mistake [n.]",
+          "en": "mistake [n.]",
+          "vi": "lỗi, sai sót"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-chiga(u)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "勘違い（かんちがい）",
         "meaning": {
-          "english": "misunderstanding, wrong guess"
+          "english": "misunderstanding, wrong guess",
+          "en": "misunderstanding, wrong guess",
+          "vi": "hiểu lầm, đoán sai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-chiga(u)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "間違える（まちがえる）",
         "meaning": {
-          "english": "err, make a mistake"
+          "english": "err, make a mistake",
+          "en": "err, make a mistake",
+          "vi": "mắc lỗi, phạm sai lầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-chiga(u)_06_j.opus",
@@ -267,7 +290,9 @@
     "kanji": {
       "character": "違",
       "meaning": {
-        "english": "differ, violate, different, be mistaken"
+        "english": "differ, violate, different, be mistaken",
+        "en": "differ, violate, different, be mistaken",
+        "vi": "khác, vi phạm, khác biệt, nhầm lẫn"
       },
       "strokes": {
         "count": 13,
@@ -331,7 +356,9 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance",
+        "en": "road, walk, to advance",
+        "vi": "đường đi, bước đi, tiến lên"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -352,7 +379,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "344",
     "strokeCount": 13,
-    "meaning": "difference, differ",
+    "meaning": {
+      "en": "difference, differ",
+      "vi": "sự khác biệt, khác nhau"
+    },
     "kunyomi": [
       "ちが.う",
       "ちが.い",
@@ -369,7 +399,8 @@
         "example": "違反",
         "reading": "イハン",
         "meaning": {
-          "en": "violation, offense, offence, breach, transgression, infringement, contravention"
+          "en": "violation, offense, offence, breach, transgression, infringement, contravention",
+          "vi": "sự vi phạm, hành vi phạm lỗi, sự xâm phạm, trái quy định"
         },
         "romaji": "ihan"
       },
@@ -377,7 +408,8 @@
         "example": "違憲",
         "reading": "イケン",
         "meaning": {
-          "en": "unconstitutionality"
+          "en": "unconstitutionality",
+          "vi": "tính vi hiến"
         },
         "romaji": "iken"
       },
@@ -385,7 +417,8 @@
         "example": "格段の相違",
         "reading": "カクダンノソウイ",
         "meaning": {
-          "en": "marked difference"
+          "en": "marked difference",
+          "vi": "sự khác biệt rõ rệt"
         },
         "romaji": "kakudannosoui"
       },
@@ -393,7 +426,8 @@
         "example": "非違",
         "reading": "ヒイ",
         "meaning": {
-          "vi": "illegality, police and judicial chief (Heian and Kamakura periods)"
+          "vi": "illegality, police and judicial chief (Heian and Kamakura periods)",
+          "en": "illegality, police and judicial chief (Heian and Kamakura periods)"
         },
         "romaji": "hii"
       }
@@ -403,7 +437,8 @@
         "example": "違う",
         "reading": "ちがう",
         "meaning": {
-          "en": "to differ (from), to be different, to be distinct, to be unlike, to vary, to disagree (with), to be wrong, to be incorrect, to be mistaken, to become abnormal, to go wrong, isn't it?, wasn't it?"
+          "en": "to differ (from), to be different, to be distinct, to be unlike, to vary, to disagree (with), to be wrong, to be incorrect, to be mistaken, to become abnormal, to go wrong, isn't it?, wasn't it?",
+          "vi": "khác với, khác biệt, riêng biệt, không giống, biến đổi, không đồng ý, sai, không chính xác, nhầm lẫn, trở nên bất thường, xảy ra sai sót, chẳng phải sao?, không phải sao?"
         },
         "romaji": "chigau"
       },
@@ -411,7 +446,8 @@
         "example": "違くて",
         "reading": "ちがくて",
         "meaning": {
-          "en": "different (from), not the same (as)"
+          "en": "different (from), not the same (as)",
+          "vi": "khác (với), không giống (như)"
         },
         "romaji": "chigakute"
       },
@@ -419,7 +455,8 @@
         "example": "違い",
         "reading": "ちがい",
         "meaning": {
-          "vi": "difference, distinction, discrepancy, mistake, error"
+          "vi": "difference, distinction, discrepancy, mistake, error",
+          "en": "difference, distinction, discrepancy, mistake, error"
         },
         "romaji": "chigai"
       },
@@ -427,7 +464,8 @@
         "example": "違いない",
         "reading": "ちがいない",
         "meaning": {
-          "en": "sure, no mistaking it, for certain, without doubt"
+          "en": "sure, no mistaking it, for certain, without doubt",
+          "vi": "chắc chắn, không nhầm được, không nghi ngờ"
         },
         "romaji": "chigainai"
       },
@@ -435,7 +473,8 @@
         "example": "違える",
         "reading": "ちがえる",
         "meaning": {
-          "vi": "to change, to alter, to mistake, to make a mistake, to fail to keep (e.g. one's promise), to sprain (a muscle), to dislocate (e.g. one's neck)"
+          "vi": "to change, to alter, to mistake, to make a mistake, to fail to keep (e.g. one's promise), to sprain (a muscle), to dislocate (e.g. one's neck)",
+          "en": "to change, to alter, to mistake, to make a mistake, to fail to keep (e.g. one's promise), to sprain (a muscle), to dislocate (e.g. one's neck)"
         },
         "romaji": "chigaeru"
       },
@@ -443,7 +482,8 @@
         "example": "違う",
         "reading": "たがう",
         "meaning": {
-          "en": "to differ, to be different, to run counter to, to change (into something out of the ordinary)"
+          "en": "to differ, to be different, to run counter to, to change (into something out of the ordinary)",
+          "vi": "khác đi, trở nên khác, trái với, biến thành điều khác thường"
         },
         "romaji": "tagau"
       },
@@ -451,7 +491,8 @@
         "example": "違える",
         "reading": "たがえる",
         "meaning": {
-          "en": "to change, to alter, to run counter to, to go against, to break (one's word), to make a mistake (in), to err"
+          "en": "to change, to alter, to run counter to, to go against, to break (one's word), to make a mistake (in), to err",
+          "vi": "thay đổi, sửa đổi, trái với, chống lại, thất hứa, làm sai, phạm lỗi"
         },
         "romaji": "tagaeru"
       }
@@ -463,7 +504,10 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": {
+        "en": "walk",
+        "vi": "đi bộ"
+      }
     },
     "parts": [
       "口",

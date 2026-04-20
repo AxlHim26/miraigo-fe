@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ta",
-    "meaning": "rice field",
+    "meaning": {
+      "en": "rice field",
+      "vi": "ruộng lúa"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "水田（すいでん）",
         "meaning": {
-          "english": "rice field"
+          "english": "rice field",
+          "en": "rice field",
+          "vi": "ruộng lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den-ta_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "田園（でんえん）",
         "meaning": {
-          "english": "rural area"
+          "english": "rural area",
+          "en": "rural area",
+          "vi": "vùng nông thôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den-ta_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "田んぼ（たんぼ）",
         "meaning": {
-          "english": "rice field"
+          "english": "rice field",
+          "en": "rice field",
+          "vi": "ruộng lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den-ta_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "田植え（たうえ）",
         "meaning": {
-          "english": "rice planting"
+          "english": "rice planting",
+          "en": "rice planting",
+          "vi": "cấy lúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den-ta_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "松田（まつだ）",
         "meaning": {
-          "english": "Matsuda (surname)"
+          "english": "Matsuda (surname)",
+          "en": "Matsuda (surname)",
+          "vi": "Matsuda (surname)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den-ta_06_e.opus",
@@ -212,7 +225,9 @@
     "kanji": {
       "character": "田",
       "meaning": {
-        "english": "rice field"
+        "english": "rice field",
+        "en": "rice field",
+        "vi": "ruộng lúa"
       },
       "strokes": {
         "count": 5,
@@ -260,7 +275,9 @@
         "romaji": "ta"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy",
+        "en": "rice paddy",
+        "vi": "ruộng lúa nước"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ta0.svg",
@@ -281,7 +298,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "90",
     "strokeCount": 5,
-    "meaning": "rice field, rice paddy",
+    "meaning": {
+      "en": "rice field, rice paddy",
+      "vi": "rice field, rice paddy"
+    },
     "kunyomi": [
       "た"
     ],
@@ -293,7 +313,8 @@
         "example": "田畑",
         "reading": "タハタ",
         "meaning": {
-          "vi": "fields (of rice and other crops)"
+          "vi": "fields (of rice and other crops)",
+          "en": "fields (of rice and other crops)"
         },
         "romaji": "tahata"
       },
@@ -301,7 +322,8 @@
         "example": "田園",
         "reading": "デンエン",
         "meaning": {
-          "en": "the country, countryside, rural districts, cultivated land, fields"
+          "en": "the country, countryside, rural districts, cultivated land, fields",
+          "vi": "the country, countryside, rural districts, cultivated land, fields"
         },
         "romaji": "den'en"
       },
@@ -309,7 +331,8 @@
         "example": "桑田",
         "reading": "ソウデン",
         "meaning": {
-          "vi": "mulberry plantation"
+          "vi": "mulberry plantation",
+          "en": "mulberry plantation"
         },
         "romaji": "souden"
       },
@@ -317,7 +340,8 @@
         "example": "水田",
         "reading": "スイデン",
         "meaning": {
-          "vi": "(water-filled) paddy field"
+          "vi": "(water-filled) paddy field",
+          "en": "(water-filled) paddy field"
         },
         "romaji": "suiden"
       }
@@ -327,7 +351,8 @@
         "example": "田",
         "reading": "た",
         "meaning": {
-          "en": "rice field"
+          "en": "rice field",
+          "vi": "ruộng lúa"
         },
         "romaji": "ta"
       },
@@ -335,7 +360,8 @@
         "example": "田植え",
         "reading": "たうえ",
         "meaning": {
-          "vi": "rice planting"
+          "vi": "rice planting",
+          "en": "rice planting"
         },
         "romaji": "taue"
       },
@@ -343,7 +369,8 @@
         "example": "新田",
         "reading": "しんでん",
         "meaning": {
-          "vi": "new rice field, newly developed rice field, wasteland or marshland newly reclaimed as a rice field (Edo period)"
+          "vi": "new rice field, newly developed rice field, wasteland or marshland newly reclaimed as a rice field (Edo period)",
+          "en": "new rice field, newly developed rice field, wasteland or marshland newly reclaimed as a rice field (Edo period)"
         },
         "romaji": "shinden"
       },
@@ -351,14 +378,18 @@
         "example": "塩田",
         "reading": "えんでん",
         "meaning": {
-          "vi": "saltpan, field for drying salt"
+          "vi": "saltpan, field for drying salt",
+          "en": "saltpan, field for drying salt"
         },
         "romaji": "enden"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": {
+        "en": "field",
+        "vi": "field"
+      }
     },
     "parts": [
       "田"
@@ -370,5 +401,7 @@
   },
   "hanViet": [
     "điền"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: ô vuông chia làm bốn như thửa ruộng nhìn từ trên cao."
 }

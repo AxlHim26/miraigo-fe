@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1682",
     "strokeCount": 16,
-    "meaning": "remorse, regret, be sorry",
+    "meaning": {
+      "en": "remorse, regret, be sorry",
+      "vi": "hối hận, tiếc nuối, cảm thấy có lỗi"
+    },
     "kunyomi": [
       "うら.む"
     ],
@@ -21,7 +24,8 @@
         "example": "憾む",
         "reading": "うらむ",
         "meaning": {
-          "en": "to regret"
+          "en": "to regret",
+          "vi": "hối hận"
         },
         "romaji": "uramu"
       },
@@ -29,7 +33,8 @@
         "example": "恨むらくは",
         "reading": "うらむらくは",
         "meaning": {
-          "en": "I regret that, I feel terrible but, I'm sorry but"
+          "en": "I regret that, I feel terrible but, I'm sorry but",
+          "vi": "thật tiếc là, tôi rất áy náy nhưng, xin lỗi nhưng"
         },
         "romaji": "uramurakuha"
       }
@@ -40,7 +45,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "tim"
+      }
     },
     "parts": [
       "ノ",
@@ -57,5 +65,7 @@
   "hanViet": [
     "hám",
     "đảm"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: tim đầy vướng mắc nên để lại hối hận, cảm giác có lỗi trong lòng."
 }

@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "ka, katsu, kachi, masa, masaru",
-    "meaning": "win, excel, be superior",
+    "meaning": {
+      "en": "win, excel, be superior",
+      "vi": "thang, vuot troi, hon han"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "勝者（しょうしゃ）",
         "meaning": {
-          "english": "winner, victor"
+          "english": "winner, victor",
+          "en": "winner, victor",
+          "vi": "winner, victor"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "勝利（しょうり）",
         "meaning": {
-          "english": "victory, triumph"
+          "english": "victory, triumph",
+          "en": "victory, triumph",
+          "vi": "victory, triumph"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "勝敗（しょうはい）",
         "meaning": {
-          "english": "victory or defeat"
+          "english": "victory or defeat",
+          "en": "victory or defeat",
+          "vi": "victory or defeat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "決勝戦（けっしょうせん）",
         "meaning": {
-          "english": "finals game of a tournament"
+          "english": "finals game of a tournament",
+          "en": "finals game of a tournament",
+          "vi": "finals game of a tournament"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "二勝三敗（にしょうさんぱい）",
         "meaning": {
-          "english": "two victories & three defeats"
+          "english": "two victories & three defeats",
+          "en": "two victories & three defeats",
+          "vi": "two victories & three defeats"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "勝負する（しょうぶする）",
         "meaning": {
-          "english": "play, fight, contest [v.i.]"
+          "english": "play, fight, contest [v.i.]",
+          "en": "play, fight, contest [v.i.]",
+          "vi": "play, fight, contest [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "優勝する（ゆうしょうする）",
         "meaning": {
-          "english": "win a championship [v.i.]"
+          "english": "win a championship [v.i.]",
+          "en": "win a championship [v.i.]",
+          "vi": "win a championship [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "連勝する（れんしょうする）",
         "meaning": {
-          "english": "win consecutively [v.i.]"
+          "english": "win consecutively [v.i.]",
+          "en": "win consecutively [v.i.]",
+          "vi": "win consecutively [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "勝つ（かつ）",
         "meaning": {
-          "english": "win, gain victory [v.i.]"
+          "english": "win, gain victory [v.i.]",
+          "en": "win, gain victory [v.i.]",
+          "vi": "win, gain victory [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "勝手な（かってな）",
         "meaning": {
-          "english": "selfish"
+          "english": "selfish",
+          "en": "selfish",
+          "vi": "selfish"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "勝る（まさる）",
         "meaning": {
-          "english": "excel, surpass, outrival"
+          "english": "excel, surpass, outrival",
+          "en": "excel, surpass, outrival",
+          "vi": "excel, surpass, outrival"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "男勝り（おとこまさり）",
         "meaning": {
-          "english": "strong-minded, manly"
+          "english": "strong-minded, manly",
+          "en": "strong-minded, manly",
+          "vi": "strong-minded, manly"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-masa(ru)_06_l.opus",
@@ -269,7 +296,9 @@
     "kanji": {
       "character": "勝",
       "meaning": {
-        "english": "win, excel, be superior"
+        "english": "win, excel, be superior",
+        "en": "win, excel, be superior",
+        "vi": "thang, vuot troi, hon han"
       },
       "strokes": {
         "count": 12,
@@ -331,7 +360,9 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power",
+        "en": "power",
+        "vi": "power"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -352,7 +383,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "185",
     "strokeCount": 12,
-    "meaning": "victory, win, prevail, excel",
+    "meaning": {
+      "en": "victory, win, prevail, excel",
+      "vi": "chien thang, thang, ap dao, vuot troi"
+    },
     "kunyomi": [
       "か.つ",
       "-が.ち",
@@ -368,7 +402,8 @@
         "example": "勝",
         "reading": "ショウ",
         "meaning": {
-          "vi": "win, victory, beautiful scenery, scenic spot, counter for wins"
+          "vi": "win, victory, beautiful scenery, scenic spot, counter for wins",
+          "en": "win, victory, beautiful scenery, scenic spot, counter for wins"
         },
         "romaji": "shou"
       },
@@ -376,7 +411,8 @@
         "example": "勝因",
         "reading": "ショウイン",
         "meaning": {
-          "en": "cause of victory, reason for (one's) success"
+          "en": "cause of victory, reason for (one's) success",
+          "vi": "cause of victory, reason for (one's) success"
         },
         "romaji": "shouin"
       },
@@ -384,7 +420,8 @@
         "example": "必勝",
         "reading": "ヒッショウ",
         "meaning": {
-          "en": "certain victory"
+          "en": "certain victory",
+          "vi": "certain victory"
         },
         "romaji": "hisshou"
       },
@@ -392,7 +429,8 @@
         "example": "快勝",
         "reading": "カイショウ",
         "meaning": {
-          "vi": "sweeping victory, easy victory"
+          "vi": "sweeping victory, easy victory",
+          "en": "sweeping victory, easy victory"
         },
         "romaji": "kaishou"
       }
@@ -402,7 +440,8 @@
         "example": "勝つ",
         "reading": "かつ",
         "meaning": {
-          "en": "to win, to gain victory"
+          "en": "to win, to gain victory",
+          "vi": "chien thang, gianh chien thang"
         },
         "romaji": "katsu"
       },
@@ -410,7 +449,8 @@
         "example": "褐色",
         "reading": "かちいろ",
         "meaning": {
-          "en": "dark indigo (almost black)"
+          "en": "dark indigo (almost black)",
+          "vi": "dark indigo (almost black)"
         },
         "romaji": "kachiiro"
       },
@@ -418,7 +458,8 @@
         "example": "勝る",
         "reading": "まさる",
         "meaning": {
-          "vi": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate"
+          "vi": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate",
+          "en": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate"
         },
         "romaji": "masaru"
       },
@@ -426,7 +467,8 @@
         "example": "優るとも劣らない",
         "reading": "まさるともおとらない",
         "meaning": {
-          "vi": "not at all inferior to, rival or surpass, compare favorably (with)"
+          "vi": "not at all inferior to, rival or surpass, compare favorably (with)",
+          "en": "not at all inferior to, rival or surpass, compare favorably (with)"
         },
         "romaji": "masarutomootoranai"
       },
@@ -434,7 +476,8 @@
         "example": "優れる",
         "reading": "すぐれる",
         "meaning": {
-          "vi": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+          "vi": "to be better (than), to be superior, to surpass, to excel, to be excellent",
+          "en": "to be better (than), to be superior, to surpass, to excel, to be excellent"
         },
         "romaji": "sugureru"
       },
@@ -442,7 +485,8 @@
         "example": "勝つ",
         "reading": "かつ",
         "meaning": {
-          "en": "to win, to gain victory"
+          "en": "to win, to gain victory",
+          "vi": "chien thang, gianh chien thang"
         },
         "romaji": "katsu"
       },
@@ -450,14 +494,18 @@
         "example": "褐色",
         "reading": "かちいろ",
         "meaning": {
-          "en": "dark indigo (almost black)"
+          "en": "dark indigo (almost black)",
+          "vi": "dark indigo (almost black)"
         },
         "romaji": "kachiiro"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "suc manh, luc"
+      }
     },
     "parts": [
       "二",
@@ -472,8 +520,10 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52dd.gif",
     "uri": "https://jisho.org/search/%E5%8B%9D%23kanji"
   },
+  "jlpt": "N3",
   "hanViet": [
     "thăng",
     "thắng"
-  ]
+  ],
+  "mnemonic_vi": "Goi y cach nho: Co suc luc va chien luoc hon doi thu thi thang, do la 勝."
 }

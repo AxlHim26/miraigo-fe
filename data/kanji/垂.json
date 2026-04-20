@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "ta, tareru, tarasu, tare",
-    "meaning": "hang down, drip",
+    "meaning": {
+      "en": "hang down, drip",
+      "vi": "rủ xuống, nhỏ giọt"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "垂線（すいせん）",
         "meaning": {
-          "english": "perpendicular line"
+          "english": "perpendicular line",
+          "en": "perpendicular line",
+          "vi": "đường vuông góc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "懸垂（けんすい）",
         "meaning": {
-          "english": "pull-up, chinning exercise"
+          "english": "pull-up, chinning exercise",
+          "en": "pull-up, chinning exercise",
+          "vi": "động tác hít xà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "虫垂炎（ちゅうすいえん）",
         "meaning": {
-          "english": "appendicitis"
+          "english": "appendicitis",
+          "en": "appendicitis",
+          "vi": "viêm ruột thừa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "垂直な（すいちょくな）",
         "meaning": {
-          "english": "vertical, perpendicular"
+          "english": "vertical, perpendicular",
+          "en": "vertical, perpendicular",
+          "vi": "thẳng đứng, vuông góc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "垂らす（たらす）",
         "meaning": {
-          "english": "hang, dangle, spill [v.t.]"
+          "english": "hang, dangle, spill [v.t.]",
+          "en": "hang, dangle, spill [v.t.]",
+          "vi": "treo xuống, thả xuống, làm đổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "垂れる（たれる）",
         "meaning": {
-          "english": "hang, dangle, droop [v.i]"
+          "english": "hang, dangle, droop [v.i]",
+          "en": "hang, dangle, droop [v.i]",
+          "vi": "treo lủng lẳng, rủ xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "垂れ（たれ）",
         "meaning": {
-          "english": "sauce, gravy, hanging"
+          "english": "sauce, gravy, hanging",
+          "en": "sauce, gravy, hanging",
+          "vi": "nước xốt, nước thịt, vật rủ xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "雨垂れ（あまだれ）",
         "meaning": {
-          "english": "raindrops"
+          "english": "raindrops",
+          "en": "raindrops",
+          "vi": "giọt mưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_h.opus",
@@ -187,7 +206,9 @@
     "kanji": {
       "character": "垂",
       "meaning": {
-        "english": "hang down, drip"
+        "english": "hang down, drip",
+        "en": "hang down, drip",
+        "vi": "rủ xuống, nhỏ giọt"
       },
       "strokes": {
         "count": 8,
@@ -241,7 +262,9 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -262,7 +285,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1720",
     "strokeCount": 8,
-    "meaning": "droop, suspend, hang, slouch",
+    "meaning": {
+      "en": "droop, suspend, hang, slouch",
+      "vi": "rủ xuống, treo, buông thõng, khom xuống"
+    },
     "kunyomi": [
       "た.れる",
       "た.らす",
@@ -278,7 +304,8 @@
         "example": "垂直",
         "reading": "スイチョク",
         "meaning": {
-          "vi": "vertical, perpendicular"
+          "vi": "vertical, perpendicular",
+          "en": "vertical, perpendicular"
         },
         "romaji": "suichoku"
       },
@@ -286,7 +313,8 @@
         "example": "垂纓",
         "reading": "スイエイ",
         "meaning": {
-          "vi": "hanging tail (of a traditional Japanese hat), drooping tail"
+          "vi": "hanging tail (of a traditional Japanese hat), drooping tail",
+          "en": "hanging tail (of a traditional Japanese hat), drooping tail"
         },
         "romaji": "suiei"
       },
@@ -294,7 +322,8 @@
         "example": "口蓋垂",
         "reading": "コウガイスイ",
         "meaning": {
-          "en": "uvula"
+          "en": "uvula",
+          "vi": "lưỡi gà"
         },
         "romaji": "kougaisui"
       },
@@ -302,7 +331,8 @@
         "example": "虫垂",
         "reading": "チュウスイ",
         "meaning": {
-          "vi": "(vermiform) appendix"
+          "vi": "(vermiform) appendix",
+          "en": "vermiform appendix"
         },
         "romaji": "chuusui"
       }
@@ -312,7 +342,8 @@
         "example": "垂れる",
         "reading": "たれる",
         "meaning": {
-          "vi": "to hang, to droop, to dangle, to sag, to lower, to pull down, to give (e.g. lesson, instruction, scolding) (to someone of lower status), to confer, to grant, to bestow, to drip, to ooze, to trickle, to drop, to leave behind (at death), to say, to utter, to excrete (urine, feces, etc.), to let out (a fart)"
+          "vi": "to hang, to droop, to dangle, to sag, to lower, to pull down, to give (e.g. lesson, instruction, scolding) (to someone of lower status), to confer, to grant, to bestow, to drip, to ooze, to trickle, to drop, to leave behind (at death), to say, to utter, to excrete (urine, feces, etc.), to let out (a fart)",
+          "en": "to hang, to droop, to dangle, to sag, to lower, to pull down, to give (e.g. lesson, instruction, scolding) (to someone of lower status), to confer, to grant, to bestow, to drip, to ooze, to trickle, to drop, to leave behind (at death), to say, to utter, to excrete (urine, feces, etc.), to let out (a fart)"
         },
         "romaji": "tareru"
       },
@@ -320,7 +351,8 @@
         "example": "垂らす",
         "reading": "たらす",
         "meaning": {
-          "vi": "to dribble, to spill, to suspend, to hang down, to slouch, to dangle"
+          "vi": "to dribble, to spill, to suspend, to hang down, to slouch, to dangle",
+          "en": "to dribble, to spill, to suspend, to hang down, to slouch, to dangle"
         },
         "romaji": "tarasu"
       },
@@ -328,7 +360,8 @@
         "example": "垂れ",
         "reading": "たれ",
         "meaning": {
-          "vi": "sauce (esp. soy or mirin-based dipping sauce), hanging, something hanging (flap, lappet, etc.), (kendo) loin guard, kanji radical enclosing the top-left corner of a character, woman, -ass, -head"
+          "vi": "sauce (esp. soy or mirin-based dipping sauce), hanging, something hanging (flap, lappet, etc.), (kendo) loin guard, kanji radical enclosing the top-left corner of a character, woman, -ass, -head",
+          "en": "sauce (esp. soy or mirin-based dipping sauce), hanging, something hanging (flap, lappet, etc.), kendo loin guard, kanji radical enclosing the top-left corner of a character, woman, ass, head"
         },
         "romaji": "tare"
       },
@@ -336,7 +369,8 @@
         "example": "垂れ幕",
         "reading": "たれまく",
         "meaning": {
-          "en": "hanging banner, hanging screen, curtain"
+          "en": "hanging banner, hanging screen, curtain",
+          "vi": "biểu ngữ treo, mành treo, rèm"
         },
         "romaji": "taremaku"
       },
@@ -344,7 +378,8 @@
         "example": "直垂",
         "reading": "ひたたれ",
         "meaning": {
-          "en": "ancient ceremonial court robe"
+          "en": "ancient ceremonial court robe",
+          "vi": "triều phục nghi lễ cổ"
         },
         "romaji": "hitatare"
       },
@@ -352,7 +387,8 @@
         "example": "垂んとす",
         "reading": "なりなんとす",
         "meaning": {
-          "vi": "to close in on (a certain age, etc.), to approach, to get close to"
+          "vi": "to close in on (a certain age, etc.), to approach, to get close to",
+          "en": "to close in on (a certain age, etc.), to approach, to get close to"
         },
         "romaji": "narinantosu"
       },
@@ -360,14 +396,18 @@
         "example": "垂んとする",
         "reading": "なんなんとする",
         "meaning": {
-          "vi": "to close in on (30 years of age, etc.), to approach, to get close to"
+          "vi": "to close in on (30 years of age, etc.), to approach, to get close to",
+          "en": "to close in on (30 years of age, etc.), to approach, to get close to"
         },
         "romaji": "nannantosuru"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "ノ",
@@ -379,6 +419,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5782.gif",
     "uri": "https://jisho.org/search/%E5%9E%82%23kanji"
   },
+  "mnemonic_vi": "Nét trên rủ xuống từng tầng, nhớ nghĩa rủ xuống hay treo xuống.",
   "hanViet": [
     "thuỳ"
   ]

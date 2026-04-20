@@ -7,13 +7,17 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "niru, ni",
-    "meaning": "resemble, be similar",
+    "meaning": {
+      "en": "resemble, be similar",
+      "vi": "giống, tương tự"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "類似する（るいじする）",
         "meaning": {
-          "english": "be analogous to [v.i.]"
+          "en": "be analogous to [v.i.]",
+          "vi": "be analogous to [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "酷似する（こくじする）",
         "meaning": {
-          "english": "have a striking resemblance [v.i.]"
+          "en": "have a striking resemblance [v.i.]",
+          "vi": "rất giống nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "近似値（きんじち）",
         "meaning": {
-          "english": "approximate value"
+          "en": "approximate value",
+          "vi": "approximate value"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "似ている（にている）",
         "meaning": {
-          "english": "be similar [v.i.]"
+          "en": "be similar [v.i.]",
+          "vi": "be similar [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "似顔絵（にがおえ）",
         "meaning": {
-          "english": "portrait"
+          "en": "portrait",
+          "vi": "chân dung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "似合う（にあう）",
         "meaning": {
-          "english": "suit, match"
+          "en": "suit, match",
+          "vi": "phù hợp, tương xứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "空似（そらに）",
         "meaning": {
-          "english": "chance resemblance"
+          "en": "chance resemblance",
+          "vi": "chance resemblance"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "*真似（まね）",
         "meaning": {
-          "english": "imitation, mimicry"
+          "en": "imitation, mimicry",
+          "vi": "sự bắt chước, mô phỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-ni(ru)_06_h.opus",
@@ -221,7 +232,8 @@
     "kanji": {
       "character": "似",
       "meaning": {
-        "english": "resemble, be similar"
+        "en": "resemble, be similar",
+        "vi": "giống, tương tự"
       },
       "strokes": {
         "count": 7,
@@ -273,7 +285,8 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -294,7 +307,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "923",
     "strokeCount": 7,
-    "meaning": "becoming, resemble, counterfeit, imitate, suitable",
+    "meaning": {
+      "en": "becoming, resemble, counterfeit, imitate, suitable",
+      "vi": "trở thành, giống, giả mạo, bắt chước, phù hợp"
+    },
     "kunyomi": [
       "に.る",
       "ひ.る"
@@ -306,14 +322,18 @@
       {
         "example": "【ジガバチ】",
         "reading": "red-banded sand wasp (Ammophila sabulosa), thread-waisted wasp (any wasp of family Sphecidae, incl. digger wasps and mud daubers)",
-        "meaning": "",
+        "meaning": {
+          "en": "",
+          "vi": ""
+        },
         "romaji": "red-banded sand wasp (Ammophila sabulosa), thread-waisted wasp (any wasp of family Sphecidae, incl. digger wasps and mud daubers)"
       },
       {
         "example": "酷似",
         "reading": "コクジ",
         "meaning": {
-          "en": "resembling closely, being strikingly similar, bearing a strong likeness"
+          "en": "resembling closely, being strikingly similar, bearing a strong likeness",
+          "vi": "rất giống, có nét tương đồng rõ rệt"
         },
         "romaji": "kokuji"
       },
@@ -321,6 +341,7 @@
         "example": "疑似",
         "reading": "ギジ",
         "meaning": {
+          "en": "pseudo, quasi, false, para-, mock, sham, suspected (case, e.g. of disease)",
           "vi": "pseudo, quasi, false, para-, mock, sham, suspected (case, e.g. of disease)"
         },
         "romaji": "giji"
@@ -331,7 +352,8 @@
         "example": "似る",
         "reading": "にる",
         "meaning": {
-          "en": "to resemble, to look like, to be like, to be alike, to be similar, to take after"
+          "en": "to resemble, to look like, to be like, to be alike, to be similar, to take after",
+          "vi": "giống, trông như, tương tự, giống ai đó"
         },
         "romaji": "niru"
       }
@@ -341,7 +363,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "丶",

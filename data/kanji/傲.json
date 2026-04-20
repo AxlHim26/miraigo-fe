@@ -6,7 +6,10 @@
     "found": true,
     "taughtIn": "junior high",
     "strokeCount": 13,
-    "meaning": "be proud",
+    "meaning": {
+      "en": "be proud",
+      "vi": "kiêu hãnh"
+    },
     "kunyomi": [
       "おご.る",
       "あなど.る"
@@ -19,7 +22,8 @@
         "example": "傲慢",
         "reading": "ゴウマン",
         "meaning": {
-          "vi": "haughty, arrogant, insolent, proud, overbearing"
+          "vi": "kiêu ngạo, ngạo mạn, xấc xược, tự phụ, kẻ cả",
+          "en": "haughty, arrogant, insolent, proud, overbearing"
         },
         "romaji": "gouman"
       },
@@ -27,7 +31,8 @@
         "example": "傲岸",
         "reading": "ゴウガン",
         "meaning": {
-          "vi": "haughty, arrogant, supercilious"
+          "vi": "kiêu ngạo, ngạo mạn, khinh khỉnh",
+          "en": "haughty, arrogant, supercilious"
         },
         "romaji": "gougan"
       },
@@ -35,7 +40,8 @@
         "example": "驕傲",
         "reading": "キョウゴウ",
         "meaning": {
-          "vi": "pride, arrogance"
+          "vi": "niềm kiêu hãnh, sự kiêu ngạo",
+          "en": "pride, arrogance"
         },
         "romaji": "kyougou"
       },
@@ -43,7 +49,8 @@
         "example": "倨傲",
         "reading": "キョゴウ",
         "meaning": {
-          "vi": "haughty, arrogant, insolent, proud"
+          "vi": "kiêu ngạo, ngạo mạn, xấc xược, tự phụ",
+          "en": "haughty, arrogant, insolent, proud"
         },
         "romaji": "kyogou"
       }
@@ -53,7 +60,8 @@
         "example": "驕る",
         "reading": "おごる",
         "meaning": {
-          "vi": "to be proud, to be haughty, to be arrogant, to be conceited, to brag, to show off"
+          "vi": "kiêu hãnh, kiêu ngạo, ngạo mạn, tự cao, khoe khoang, phô trương",
+          "en": "to be proud, to be haughty, to be arrogant, to be conceited, to brag, to show off"
         },
         "romaji": "ogoru"
       }
@@ -63,7 +71,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "乞",

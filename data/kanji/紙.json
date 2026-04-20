@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kami",
-    "meaning": "paper",
+    "meaning": {
+      "en": "paper",
+      "vi": "giấy"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "白紙（はくし）",
         "meaning": {
-          "english": "white paper"
+          "english": "white paper",
+          "en": "white paper",
+          "vi": "giấy trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "用紙（ようし）",
         "meaning": {
-          "english": "blank form"
+          "english": "blank form",
+          "en": "blank form",
+          "vi": "mẫu giấy, giấy biểu mẫu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "表紙（ひょうし）",
         "meaning": {
-          "english": "front cover"
+          "english": "front cover",
+          "en": "front cover",
+          "vi": "bìa trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "新聞紙（しんぶんし）",
         "meaning": {
-          "english": "newspaper"
+          "english": "newspaper",
+          "en": "newspaper",
+          "vi": "giấy báo, báo giấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "紙（かみ）",
         "meaning": {
-          "english": "paper"
+          "english": "paper",
+          "en": "paper",
+          "vi": "giấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "手紙（てがみ）",
         "meaning": {
-          "english": "letter"
+          "english": "letter",
+          "en": "letter",
+          "vi": "thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-kami_06_f.opus",
@@ -398,5 +413,7 @@
   },
   "hanViet": [
     "chỉ"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: sợi 糸 được làm mỏng và ép lại thành giấy, nên 紙 là giấy."
 }

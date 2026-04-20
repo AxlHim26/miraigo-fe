@@ -5,7 +5,10 @@
     "query": "僭",
     "found": true,
     "strokeCount": 14,
-    "meaning": "boastfully usurp",
+    "meaning": {
+      "en": "boastfully usurp",
+      "vi": "ngông cuồng tiếm đoạt"
+    },
     "kunyomi": [
       "せん.する",
       "おご.る"
@@ -19,7 +22,8 @@
         "example": "僭位",
         "reading": "センイ",
         "meaning": {
-          "vi": "usurpation of a throne"
+          "vi": "sự tiếm ngôi",
+          "en": "usurpation of a throne"
         },
         "romaji": "sen'i"
       },
@@ -27,7 +31,8 @@
         "example": "僭越",
         "reading": "センエツ",
         "meaning": {
-          "vi": "presumptuous, arrogant, audacious, forward, insolent"
+          "vi": "ngạo mạn, kiêu căng, táo tợn, xấc xược, hỗn láo",
+          "en": "presumptuous, arrogant, audacious, forward, insolent"
         },
         "romaji": "sen'etsu"
       }
@@ -37,7 +42,8 @@
         "example": "僭する",
         "reading": "せんする",
         "meaning": {
-          "vi": "to usurp boastfully"
+          "vi": "ngông cuồng tiếm đoạt",
+          "en": "to usurp boastfully"
         },
         "romaji": "sensuru"
       }
@@ -47,7 +53,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "亠",

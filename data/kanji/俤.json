@@ -5,7 +5,10 @@
     "query": "俤",
     "found": true,
     "strokeCount": 9,
-    "meaning": "visage, face, trace, shadow, memory, (kokuji)",
+    "meaning": {
+      "en": "visage, face, trace, shadow, memory, (kokuji)",
+      "vi": "dung mạo, khuôn mặt, dấu vết, bóng dáng, ký ức, (quốc tự)"
+    },
     "kunyomi": [
       "おもかげ"
     ],
@@ -16,7 +19,8 @@
         "example": "面影",
         "reading": "おもかげ",
         "meaning": {
-          "en": "face, looks, countenance, vestige, trace, reminder"
+          "en": "face, looks, countenance, vestige, trace, reminder",
+          "vi": "khuôn mặt, diện mạo, nét mặt, dấu tích, dấu vết, vật gợi nhớ"
         },
         "romaji": "omokage"
       }
@@ -26,7 +30,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

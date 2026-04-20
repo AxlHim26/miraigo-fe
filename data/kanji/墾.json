@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "jlptLevel": "N1",
     "strokeCount": 16,
-    "meaning": "ground-breaking, open up farmland",
+    "meaning": {
+      "en": "ground-breaking, open up farmland",
+      "vi": "khai khẩn, mở đất canh tác"
+    },
     "kunyomi": [
       "は.る",
       "ひら.く"
@@ -20,7 +23,8 @@
         "example": "墾田",
         "reading": "コンデン",
         "meaning": {
-          "en": "new rice field"
+          "en": "new rice field",
+          "vi": "ruộng lúa mới khai khẩn"
         },
         "romaji": "konden"
       },
@@ -28,7 +32,8 @@
         "example": "未開墾",
         "reading": "ミカイコン",
         "meaning": {
-          "en": "uncultivated, wild"
+          "en": "uncultivated, wild",
+          "vi": "chưa khai khẩn, hoang dại"
         },
         "romaji": "mikaikon"
       },
@@ -36,7 +41,8 @@
         "example": "未墾",
         "reading": "ミコン",
         "meaning": {
-          "en": "uncultivated, wild"
+          "en": "uncultivated, wild",
+          "vi": "chưa khai khẩn, hoang dại"
         },
         "romaji": "mikon"
       }
@@ -46,14 +52,18 @@
         "example": "墾く",
         "reading": "ひらく",
         "meaning": {
-          "en": "to cultivate (land), to clear (land)"
+          "en": "to cultivate (land), to clear (land)",
+          "vi": "khai khẩn đất, phát hoang đất"
         },
         "romaji": "hiraku"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "土",
@@ -69,5 +79,7 @@
   },
   "hanViet": [
     "khẩn"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: khai phá mảnh đất hoang thành ruộng, nên 墾 là khai khẩn."
 }

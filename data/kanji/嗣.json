@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2310",
     "strokeCount": 13,
-    "meaning": "heir, succeed",
+    "meaning": {
+      "en": "heir, succeed",
+      "vi": "người kế vị, kế thừa"
+    },
     "kunyomi": [],
     "onyomi": [
       "シ"
@@ -18,7 +21,8 @@
         "example": "嗣",
         "reading": "シ",
         "meaning": {
-          "en": "succession, successor"
+          "en": "succession, successor",
+          "vi": "sự kế vị, người kế vị"
         },
         "romaji": "shi"
       },
@@ -26,7 +30,8 @@
         "example": "嗣業",
         "reading": "シギョウ",
         "meaning": {
-          "en": "succeeding to a business"
+          "en": "succeeding to a business",
+          "vi": "kế nghiệp, nối nghiệp kinh doanh"
         },
         "romaji": "shigyou"
       },
@@ -34,7 +39,8 @@
         "example": "継嗣",
         "reading": "ケイシ",
         "meaning": {
-          "en": "successor, heir, heiress"
+          "en": "successor, heir, heiress",
+          "vi": "người kế nhiệm, người thừa kế"
         },
         "romaji": "keishi"
       },
@@ -42,7 +48,8 @@
         "example": "世子",
         "reading": "セイシ",
         "meaning": {
-          "en": "heir, successor"
+          "en": "heir, successor",
+          "vi": "người thừa kế, người kế nhiệm"
         },
         "romaji": "seishi"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "一",
@@ -66,5 +76,7 @@
   },
   "hanViet": [
     "tự"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Người nối tiếp tiếng nói và dòng dõi gia đình, nên 嗣 là người kế vị."
 }

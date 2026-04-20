@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "leave behind",
+    "meaning": {
+      "en": "leave behind",
+      "vi": "để lại"
+    },
     "kstroke": 15,
     "examples": [
       {
         "japanese": "遺産（いさん）",
         "meaning": {
-          "english": "inheritance, bequest"
+          "english": "inheritance, bequest",
+          "en": "inheritance, bequest",
+          "vi": "di sản, vật thừa kế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yui(gon)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "遺族（いぞく）",
         "meaning": {
-          "english": "bereaved family"
+          "english": "bereaved family",
+          "en": "bereaved family",
+          "vi": "gia quyến của người đã mất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yui(gon)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "遺骨（いこつ）",
         "meaning": {
-          "english": "remains, ashes of deceased"
+          "english": "remains, ashes of deceased",
+          "en": "remains, ashes of deceased",
+          "vi": "di cốt, tro cốt của người đã khuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yui(gon)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "遺伝（いでん）",
         "meaning": {
-          "english": "hereditary, genetic [n.]"
+          "english": "hereditary, genetic [n.]",
+          "en": "hereditary, genetic [n.]",
+          "vi": "di truyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yui(gon)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "遺品（いひん）",
         "meaning": {
-          "english": "articles of the deceased"
+          "english": "articles of the deceased",
+          "en": "articles of the deceased",
+          "vi": "di vật của người đã khuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yui(gon)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "遺憾な（いかんな）",
         "meaning": {
-          "english": "regrettable, unsatisfactory"
+          "english": "regrettable, unsatisfactory",
+          "en": "regrettable, unsatisfactory",
+          "vi": "đáng tiếc, không thỏa đáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yui(gon)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "遺失物（いしつぶつ）",
         "meaning": {
-          "english": "lost article"
+          "english": "lost article",
+          "en": "lost article",
+          "vi": "đồ thất lạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yui(gon)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "後遺症（こういしょう）",
         "meaning": {
-          "english": "after-effect (of illness)"
+          "english": "after-effect (of illness)",
+          "en": "after-effect (of illness)",
+          "vi": "di chứng (của bệnh tật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yui(gon)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "遺言（ゆいごん）",
         "meaning": {
-          "english": "will, testament, last request"
+          "english": "will, testament, last request",
+          "en": "will, testament, last request",
+          "vi": "di chúc, lời trăng trối cuối cùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yui(gon)_06_i.opus",
@@ -215,7 +236,9 @@
     "kanji": {
       "character": "遺",
       "meaning": {
-        "english": "leave behind"
+        "english": "leave behind",
+        "en": "leave behind",
+        "vi": "để lại"
       },
       "strokes": {
         "count": 15,
@@ -283,7 +306,9 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance",
+        "en": "road, walk, to advance",
+        "vi": "đường đi, bước đi, tiến lên"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -304,7 +329,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "647",
     "strokeCount": 15,
-    "meaning": "bequeath, leave behind, reserve",
+    "meaning": {
+      "en": "bequeath, leave behind, reserve",
+      "vi": "để lại, di tặng, dành lại"
+    },
     "kunyomi": [
       "のこ.す"
     ],
@@ -317,7 +345,8 @@
         "example": "遺憾",
         "reading": "イカン",
         "meaning": {
-          "vi": "regrettable, unsatisfactory, deplorable, lamentable"
+          "vi": "regrettable, unsatisfactory, deplorable, lamentable",
+          "en": "regrettable, unsatisfactory, deplorable, lamentable"
         },
         "romaji": "ikan"
       },
@@ -325,7 +354,8 @@
         "example": "遺影",
         "reading": "イエイ",
         "meaning": {
-          "vi": "portrait of a deceased person"
+          "vi": "portrait of a deceased person",
+          "en": "portrait of a deceased person"
         },
         "romaji": "iei"
       },
@@ -333,7 +363,8 @@
         "example": "拾遺",
         "reading": "シュウイ",
         "meaning": {
-          "en": "gleaning, gleanings"
+          "en": "gleaning, gleanings",
+          "vi": "nhặt nhạnh, điều góp nhặt được"
         },
         "romaji": "shuui"
       },
@@ -341,7 +372,8 @@
         "example": "古語拾遺",
         "reading": "コゴシュウイ",
         "meaning": {
-          "en": "Gleanings from Ancient Stories (Inbe no Hironari, 807 CE), historical record from the Inbe clan"
+          "en": "Gleanings from Ancient Stories (Inbe no Hironari, 807 CE), historical record from the Inbe clan",
+          "vi": "\"Gleanings from Ancient Stories\" (Inbe no Hironari, năm 807), ghi chép lịch sử của dòng họ Inbe"
         },
         "romaji": "kogoshuui"
       },
@@ -349,7 +381,8 @@
         "example": "遺言",
         "reading": "ユイゴン",
         "meaning": {
-          "en": "will, testament, one's dying wish, one's last words"
+          "en": "will, testament, one's dying wish, one's last words",
+          "vi": "di chúc, tâm nguyện trước khi chết, lời trăng trối"
         },
         "romaji": "yuigon"
       },
@@ -357,7 +390,8 @@
         "example": "遺骸",
         "reading": "イガイ",
         "meaning": {
-          "vi": "remains, corpse, body"
+          "vi": "remains, corpse, body",
+          "en": "remains, corpse, body"
         },
         "romaji": "igai"
       }
@@ -367,7 +401,8 @@
         "example": "遺す",
         "reading": "のこす",
         "meaning": {
-          "vi": "to leave (to someone, esp. after one's death), to bequeath"
+          "vi": "to leave (to someone, esp. after one's death), to bequeath",
+          "en": "to leave (to someone, esp. after one's death), to bequeath"
         },
         "romaji": "nokosu"
       }
@@ -379,7 +414,10 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": {
+        "en": "walk",
+        "vi": "đi bộ"
+      }
     },
     "parts": [
       "ハ",

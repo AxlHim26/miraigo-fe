@@ -5,7 +5,10 @@
     "query": "伜",
     "found": true,
     "strokeCount": 6,
-    "meaning": "son, my son",
+    "meaning": {
+      "en": "son, my son",
+      "vi": "con trai, con trai tôi"
+    },
     "kunyomi": [
       "せがれ"
     ],
@@ -20,7 +23,8 @@
         "example": "倅",
         "reading": "せがれ",
         "meaning": {
-          "vi": "son, punk, brat, penis"
+          "vi": "son, punk, brat, penis",
+          "en": "con trai, thằng nhóc, nhóc ranh, dương vật"
         },
         "romaji": "segare"
       }
@@ -30,7 +34,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "九",

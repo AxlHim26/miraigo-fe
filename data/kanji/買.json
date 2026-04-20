@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ka, kau",
-    "meaning": "buy",
+    "meaning": {
+      "en": "buy",
+      "vi": "mua"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "買収する（ばいしゅうする）",
         "meaning": {
-          "english": "purchase, buy, bribe"
+          "english": "purchase, buy, bribe",
+          "en": "purchase, buy, bribe",
+          "vi": "mua bán, mua, hối lộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "売買する（ばいばいする）",
         "meaning": {
-          "english": "trade"
+          "english": "trade",
+          "en": "trade",
+          "vi": "thương mại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "購買（こうばい）",
         "meaning": {
-          "english": "purchasing"
+          "english": "purchasing",
+          "en": "purchasing",
+          "vi": "việc mua sắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "買う（かう）",
         "meaning": {
-          "english": "buy"
+          "english": "buy",
+          "en": "buy",
+          "vi": "mua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "買い物（かいもの）",
         "meaning": {
-          "english": "shopping"
+          "english": "shopping",
+          "en": "shopping",
+          "vi": "mua sắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "買い手（かいて）",
         "meaning": {
-          "english": "buyer"
+          "english": "buyer",
+          "en": "buyer",
+          "vi": "người mua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bai-ka(u)_06_f.opus",
@@ -221,7 +236,9 @@
     "kanji": {
       "character": "買",
       "meaning": {
-        "english": "buy"
+        "english": "buy",
+        "en": "buy",
+        "vi": "mua"
       },
       "strokes": {
         "count": 12,
@@ -283,7 +300,9 @@
         "romaji": "kai"
       },
       "meaning": {
-        "english": "shell, property, wealth"
+        "english": "shell, property, wealth",
+        "en": "shell, property, wealth",
+        "vi": "vỏ sò, tài sản, của cải"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kai0.svg",
@@ -304,7 +323,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "520",
     "strokeCount": 12,
-    "meaning": "buy",
+    "meaning": {
+      "en": "buy",
+      "vi": "mua"
+    },
     "kunyomi": [
       "か.う"
     ],
@@ -316,7 +338,8 @@
         "example": "買収",
         "reading": "バイシュウ",
         "meaning": {
-          "vi": "acquisition (esp. corporate), buy-out, takeover, purchase, bribery, buying off, corruption"
+          "vi": "acquisition (esp. corporate), buy-out, takeover, purchase, bribery, buying off, corruption",
+          "en": "acquisition (especially corporate), buy-out, takeover, purchase, bribery, buying off, corruption"
         },
         "romaji": "baishuu"
       },
@@ -324,7 +347,8 @@
         "example": "買収計画",
         "reading": "バイシュウケイカク",
         "meaning": {
-          "vi": "purchasing plan, acquisition plan"
+          "vi": "purchasing plan, acquisition plan",
+          "en": "purchasing plan, acquisition plan"
         },
         "romaji": "baishuukeikaku"
       },
@@ -332,7 +356,8 @@
         "example": "不買",
         "reading": "フバイ",
         "meaning": {
-          "en": "not buying"
+          "en": "not buying",
+          "vi": "không mua"
         },
         "romaji": "fubai"
       },
@@ -340,7 +365,8 @@
         "example": "人身売買",
         "reading": "ジンシンバイバイ",
         "meaning": {
-          "en": "slave trade, white-slave trade, human trafficking"
+          "en": "slave trade, white-slave trade, human trafficking",
+          "vi": "buôn nô lệ, buôn người, mua bán người"
         },
         "romaji": "jinshinbaibai"
       }
@@ -350,14 +376,18 @@
         "example": "買う",
         "reading": "かう",
         "meaning": {
-          "vi": "to buy, to purchase, to value (highly), to think highly of, to have a high opinion of, to appreciate, to recognize, to incur (someone's anger, displeasure, etc.), to elicit (e.g. sneers), to invite (e.g. scorn), to evoke, to arouse, to win (someone's favour), to accept, to take on, to take up, to pay for (a prostitute, geisha, etc.)"
+          "vi": "to buy, to purchase, to value (highly), to think highly of, to have a high opinion of, to appreciate, to recognize, to incur (someone's anger, displeasure, etc.), to elicit (e.g. sneers), to invite (e.g. scorn), to evoke, to arouse, to win (someone's favour), to accept, to take on, to take up, to pay for (a prostitute, geisha, etc.)",
+          "en": "to buy, to purchase, to value highly, to think highly of, to appreciate, to recognize, to incur someone's anger or displeasure, to elicit sneers, to invite scorn, to evoke, to arouse, to win someone's favour, to accept, to take on, to take up, to pay for (a prostitute, geisha, etc.)"
         },
         "romaji": "kau"
       }
     ],
     "radical": {
       "symbol": "貝",
-      "meaning": "shell"
+      "meaning": {
+        "en": "shell",
+        "vi": "vỏ sò"
+      }
     },
     "parts": [
       "ハ",
@@ -372,5 +402,7 @@
   },
   "hanViet": [
     "mãi"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: Có tiền từ vỏ sò 貝 và đội mũ để mang về, nên 買 là mua."
 }

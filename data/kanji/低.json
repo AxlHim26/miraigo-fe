@@ -7,13 +7,17 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "hiku, hikui, hikumaru, hikumeru",
-    "meaning": "low",
+    "meaning": {
+      "en": "low",
+      "vi": "thấp"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "低下する（ていかする）",
         "meaning": {
-          "english": "decline [v.i.]"
+          "en": "decline [v.i.]",
+          "vi": "decline [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "低温（ていおん）",
         "meaning": {
-          "english": "low temperature"
+          "en": "low temperature",
+          "vi": "nhiệt độ thấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "低気圧（ていきあつ）",
         "meaning": {
-          "english": "low (atmospheric) pressure"
+          "en": "low (atmospheric) pressure",
+          "vi": "áp suất thấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "最低（さいてい）",
         "meaning": {
-          "english": "lowest, worst"
+          "en": "lowest, worst",
+          "vi": "thấp nhất, tệ nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "低い（ひくい）",
         "meaning": {
-          "english": "low"
+          "en": "low",
+          "vi": "thấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "低まる（ひくまる）",
         "meaning": {
-          "english": "lower [v.i.]"
+          "en": "lower [v.i.]",
+          "vi": "hạ xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "低める（ひくめる）",
         "meaning": {
-          "english": "lower [v.t.]"
+          "en": "lower [v.t.]",
+          "vi": "làm hạ xuống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hiku(i)_06_g.opus",
@@ -225,7 +235,8 @@
     "kanji": {
       "character": "低",
       "meaning": {
-        "english": "low"
+        "en": "low",
+        "vi": "thấp"
       },
       "strokes": {
         "count": 7,
@@ -277,7 +288,8 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -298,7 +310,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "435",
     "strokeCount": 7,
-    "meaning": "lower, short, humble",
+    "meaning": {
+      "en": "lower, short, humble",
+      "vi": "thấp, thấp bé, khiêm nhường"
+    },
     "kunyomi": [
       "ひく.い",
       "ひく.める",
@@ -312,6 +327,7 @@
         "example": "低",
         "reading": "テイ",
         "meaning": {
+          "en": "low (level, value, price, etc.)",
           "vi": "low (level, value, price, etc.)"
         },
         "romaji": "tei"
@@ -320,6 +336,7 @@
         "example": "低温",
         "reading": "テイオン",
         "meaning": {
+          "en": "low temperature",
           "vi": "low temperature"
         },
         "romaji": "teion"
@@ -328,7 +345,8 @@
         "example": "高低",
         "reading": "コウテイ",
         "meaning": {
-          "en": "high and low, rise and fall"
+          "en": "high and low, rise and fall",
+          "vi": "cao và thấp, lên và xuống"
         },
         "romaji": "koutei"
       },
@@ -336,6 +354,7 @@
         "example": "西高東低",
         "reading": "セイコウトウテイ",
         "meaning": {
+          "en": "high barometric pressure to the west, low pressure to the east",
           "vi": "high barometric pressure to the west, low pressure to the east"
         },
         "romaji": "seikoutoutei"
@@ -346,6 +365,7 @@
         "example": "低い",
         "reading": "ひくい",
         "meaning": {
+          "en": "low (rank, degree, value, content, quality, etc.), low (position), close to the ground, short (height), deep (voice), in a low key, low (volume)",
           "vi": "low (rank, degree, value, content, quality, etc.), low (position), close to the ground, short (height), deep (voice), in a low key, low (volume)"
         },
         "romaji": "hikui"
@@ -354,6 +374,7 @@
         "example": "低い優先順位",
         "reading": "ひくいゆうせんじゅんい",
         "meaning": {
+          "en": "low priority (e.g. cell)",
           "vi": "low priority (e.g. cell)"
         },
         "romaji": "hikuiyuusenjun'i"
@@ -362,7 +383,8 @@
         "example": "低める",
         "reading": "ひくめる",
         "meaning": {
-          "en": "to lower, to be lowered"
+          "en": "to lower, to be lowered",
+          "vi": "hạ xuống, bị hạ xuống"
         },
         "romaji": "hikumeru"
       },
@@ -370,7 +392,8 @@
         "example": "低まる",
         "reading": "ひくまる",
         "meaning": {
-          "en": "to lower, to be lowered"
+          "en": "to lower, to be lowered",
+          "vi": "hạ xuống, bị hạ xuống"
         },
         "romaji": "hikumaru"
       }
@@ -380,7 +403,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

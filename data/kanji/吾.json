@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "1828",
     "strokeCount": 7,
-    "meaning": "I, my, our, one's own",
+    "meaning": {
+      "en": "I, my, our, one's own",
+      "vi": "ta, tôi, của ta, của chúng ta, của chính mình"
+    },
     "kunyomi": [
       "われ",
       "わが-",
@@ -20,7 +23,8 @@
         "example": "吾兄",
         "reading": "アセ",
         "meaning": {
-          "en": "you (referring to a male)"
+          "en": "you (referring to a male)",
+          "vi": "anh, ông, ngươi, cách gọi nam giới"
         },
         "romaji": "ase"
       },
@@ -28,7 +32,8 @@
         "example": "吾人",
         "reading": "ゴジン",
         "meaning": {
-          "en": "we"
+          "en": "we",
+          "vi": "chúng ta"
         },
         "romaji": "gojin"
       },
@@ -36,7 +41,8 @@
         "example": "故吾",
         "reading": "コゴ",
         "meaning": {
-          "en": "one's former self"
+          "en": "one's former self",
+          "vi": "bản thân trước đây của mình"
         },
         "romaji": "kogo"
       },
@@ -44,7 +50,8 @@
         "example": "金吾",
         "reading": "キンゴ",
         "meaning": {
-          "en": "kingo (game similar to blackjack)"
+          "en": "kingo (game similar to blackjack)",
+          "vi": "kingo, trò chơi giống blackjack"
         },
         "romaji": "kingo"
       }
@@ -54,7 +61,8 @@
         "example": "我",
         "reading": "われ",
         "meaning": {
-          "vi": "I, me, oneself, you, prefix indicating familiarity or contempt"
+          "vi": "tôi, ta, bản thân, ngươi; tiền tố chỉ sự thân quen hoặc khinh miệt",
+          "en": "I, me, oneself, you, prefix indicating familiarity or contempt"
         },
         "romaji": "ware"
       },
@@ -62,14 +70,18 @@
         "example": "我々",
         "reading": "われわれ",
         "meaning": {
-          "en": "we"
+          "en": "we",
+          "vi": "chúng ta"
         },
         "romaji": "wareware"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "五",
@@ -82,5 +94,7 @@
   },
   "hanViet": [
     "ngô"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 五 ở trên như đánh dấu số thứ tự, 口 là miệng tự xưng, ghép lại thành 吾 là ta, tôi."
 }

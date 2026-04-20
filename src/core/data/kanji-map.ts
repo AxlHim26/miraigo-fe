@@ -34,3 +34,8 @@ export const kanjiClusters: KanjiCluster[] = [
     progress: 4,
   },
 ];
+
+export const getCurrentKanjiCluster = (): KanjiCluster | null =>
+  kanjiClusters.find((cluster) => cluster.progress > 0 && cluster.progress < 100) ??
+  kanjiClusters[0] ??
+  null;

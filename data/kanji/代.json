@@ -7,13 +7,17 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "kawaru, kawari, kaeru, yo, shiro, ka",
-    "meaning": "substitute, generation, charge",
+    "meaning": {
+      "en": "substitute, generation, charge",
+      "vi": "thay thế, thế hệ, phí"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "時代（じだい）",
         "meaning": {
-          "english": "era"
+          "en": "era",
+          "vi": "thời đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "現代（げんだい）",
         "meaning": {
-          "english": "modern times"
+          "en": "modern times",
+          "vi": "thời hiện đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "世代（せだい）",
         "meaning": {
-          "english": "generation"
+          "en": "generation",
+          "vi": "thế hệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "10代（じゅうだい）",
         "meaning": {
-          "english": "years between age 10 and 19"
+          "en": "years between age 10 and 19",
+          "vi": "độ tuổi từ 10 đến 19"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "70年代（ななじゅうねんだい）",
         "meaning": {
-          "english": "seventies"
+          "en": "seventies",
+          "vi": "thập niên bảy mươi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "電気代（でんきだい）",
         "meaning": {
-          "english": "electric utility expenses"
+          "en": "electric utility expenses",
+          "vi": "tiền điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "代表する（だいひょうする）",
         "meaning": {
-          "english": "represent"
+          "en": "represent",
+          "vi": "đại diện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "交代する（こうたいする）",
         "meaning": {
-          "english": "take turns, alternate"
+          "en": "take turns, alternate",
+          "vi": "thay phiên, luân phiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "代わる（かわる）",
         "meaning": {
-          "english": "take the place of [v.i.]"
+          "en": "take the place of [v.i.]",
+          "vi": "thay chỗ, thay thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "代える（かえる）",
         "meaning": {
-          "english": "exchange, replace [v.t.]"
+          "en": "exchange, replace [v.t.]",
+          "vi": "đổi, thay thế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "明治の代（めいじのよ）",
         "meaning": {
-          "english": "Meiji era"
+          "en": "Meiji era",
+          "vi": "thời Minh Trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_k.opus",
@@ -145,7 +159,8 @@
       {
         "japanese": "身代金（みのしろきん）",
         "meaning": {
-          "english": "ransom"
+          "en": "ransom",
+          "vi": "tiền chuộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/dai-ka(waru)_06_l.opus",
@@ -316,7 +331,8 @@
     "kanji": {
       "character": "代",
       "meaning": {
-        "english": "substitute, generation, charge"
+        "en": "substitute, generation, charge",
+        "vi": "thay thế, thế hệ, phí"
       },
       "strokes": {
         "count": 5,
@@ -364,7 +380,8 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -385,7 +402,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "66",
     "strokeCount": 5,
-    "meaning": "substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee",
+    "meaning": {
+      "en": "substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee",
+      "vi": "thay thế, thay đổi, chuyển đổi, thế chỗ, thời kỳ, tuổi tác, từ đếm cho các thập niên tuổi và niên đại, thế hệ, khoản phí, mức giá, lệ phí"
+    },
     "kunyomi": [
       "か.わる",
       "かわ.る",
@@ -406,6 +426,7 @@
         "example": "代",
         "reading": "ダイ",
         "meaning": {
+          "en": "charge, cost, price, generation, age, (school) year, cohort, reign, era, a representative of, on behalf of, for (someone), switchboard number, counter for decades of ages, eras, etc., counter for generations (of inheritors to a throne, etc.), proxy application company, pronoun",
           "vi": "charge, cost, price, generation, age, (school) year, cohort, reign, era, a representative of, on behalf of, for (someone), switchboard number, counter for decades of ages, eras, etc., counter for generations (of inheritors to a throne, etc.), proxy application company, pronoun"
         },
         "romaji": "dai"
@@ -414,6 +435,7 @@
         "example": "代官",
         "reading": "ダイカン",
         "meaning": {
+          "en": "local governor (Edo period), local magistrate, bailiff, deputy official (Middle Ages), acting administrator",
           "vi": "local governor (Edo period), local magistrate, bailiff, deputy official (Middle Ages), acting administrator"
         },
         "romaji": "daikan"
@@ -422,7 +444,8 @@
         "example": "大時代",
         "reading": "オオジダイ",
         "meaning": {
-          "en": "old-fashioned, antiquated, anachronistic"
+          "en": "old-fashioned, antiquated, anachronistic",
+          "vi": "cổ hủ, lỗi thời, lạc hậu"
         },
         "romaji": "oojidai"
       },
@@ -430,7 +453,8 @@
         "example": "次代",
         "reading": "ジダイ",
         "meaning": {
-          "en": "the next era"
+          "en": "the next era",
+          "vi": "thời đại tiếp theo"
         },
         "romaji": "jidai"
       },
@@ -438,6 +462,7 @@
         "example": "代謝",
         "reading": "タイシャ",
         "meaning": {
+          "en": "metabolism, renewal, regeneration, replacing the old with the new",
           "vi": "metabolism, renewal, regeneration, replacing the old with the new"
         },
         "romaji": "taisha"
@@ -446,7 +471,8 @@
         "example": "代赭",
         "reading": "タイシャ",
         "meaning": {
-          "en": "red ocher (ochre)"
+          "en": "red ocher (ochre)",
+          "vi": "đất son đỏ"
         },
         "romaji": "taisha"
       },
@@ -454,6 +480,7 @@
         "example": "永代",
         "reading": "エイタイ",
         "meaning": {
+          "en": "permanence, eternity",
           "vi": "permanence, eternity"
         },
         "romaji": "eitai"
@@ -462,7 +489,8 @@
         "example": "希代",
         "reading": "キタイ",
         "meaning": {
-          "en": "uncommon, rare, extraordinary, matchless"
+          "en": "uncommon, rare, extraordinary, matchless",
+          "vi": "không phổ biến, hiếm, phi thường, vô song"
         },
         "romaji": "kitai"
       }
@@ -472,6 +500,7 @@
         "example": "替わる",
         "reading": "かわる",
         "meaning": {
+          "en": "to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to hand over (telephone), to be exchanged, to change (places with), to switch",
           "vi": "to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to hand over (telephone), to be exchanged, to change (places with), to switch"
         },
         "romaji": "kawaru"
@@ -480,7 +509,8 @@
         "example": "代わる代わる",
         "reading": "かわるがわる",
         "meaning": {
-          "en": "alternately, by turns"
+          "en": "alternately, by turns",
+          "vi": "luân phiên, thay phiên"
         },
         "romaji": "kawarugawaru"
       },
@@ -488,6 +518,7 @@
         "example": "替わる",
         "reading": "かわる",
         "meaning": {
+          "en": "to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to hand over (telephone), to be exchanged, to change (places with), to switch",
           "vi": "to succeed, to relieve, to replace, to take the place of, to substitute for, to take over for, to represent, to hand over (telephone), to be exchanged, to change (places with), to switch"
         },
         "romaji": "kawaru"
@@ -496,7 +527,8 @@
         "example": "代わる代わる",
         "reading": "かわるがわる",
         "meaning": {
-          "en": "alternately, by turns"
+          "en": "alternately, by turns",
+          "vi": "luân phiên, thay phiên"
         },
         "romaji": "kawarugawaru"
       },
@@ -504,6 +536,7 @@
         "example": "代わり",
         "reading": "かわり",
         "meaning": {
+          "en": "substitute, replacement, substituting, replacing, stand-in, proxy, alternate, deputy, relief, successor, compensation, exchange, return, another helping, second helping, seconds, refill, upcoming program, upcoming programme",
           "vi": "substitute, replacement, substituting, replacing, stand-in, proxy, alternate, deputy, relief, successor, compensation, exchange, return, another helping, second helping, seconds, refill, upcoming program, upcoming programme"
         },
         "romaji": "kawari"
@@ -512,6 +545,7 @@
         "example": "変わり目",
         "reading": "かわりめ",
         "meaning": {
+          "en": "turning point, change, transition, turn (of the tide, century, etc.), point of difference",
           "vi": "turning point, change, transition, turn (of the tide, century, etc.), point of difference"
         },
         "romaji": "kawarime"
@@ -520,6 +554,7 @@
         "example": "代わり",
         "reading": "かわり",
         "meaning": {
+          "en": "substitute, replacement, substituting, replacing, stand-in, proxy, alternate, deputy, relief, successor, compensation, exchange, return, another helping, second helping, seconds, refill, upcoming program, upcoming programme",
           "vi": "substitute, replacement, substituting, replacing, stand-in, proxy, alternate, deputy, relief, successor, compensation, exchange, return, another helping, second helping, seconds, refill, upcoming program, upcoming programme"
         },
         "romaji": "kawari"
@@ -528,6 +563,7 @@
         "example": "変わり目",
         "reading": "かわりめ",
         "meaning": {
+          "en": "turning point, change, transition, turn (of the tide, century, etc.), point of difference",
           "vi": "turning point, change, transition, turn (of the tide, century, etc.), point of difference"
         },
         "romaji": "kawarime"
@@ -536,6 +572,7 @@
         "example": "替える",
         "reading": "かえる",
         "meaning": {
+          "en": "to replace, to convert, to change, to exchange, to interchange, to renew, to substitute (person, staff member, player, etc.)",
           "vi": "to replace, to convert, to change, to exchange, to interchange, to renew, to substitute (person, staff member, player, etc.)"
         },
         "romaji": "kaeru"
@@ -544,6 +581,7 @@
         "example": "世",
         "reading": "よ",
         "meaning": {
+          "en": "world, society, public, life, lifetime, age, era, period, epoch, generation, reign, rule, the times, world (of existence)",
           "vi": "world, society, public, life, lifetime, age, era, period, epoch, generation, reign, rule, the times, world (of existence)"
         },
         "romaji": "yo"
@@ -552,7 +590,8 @@
         "example": "代々",
         "reading": "よよ",
         "meaning": {
-          "en": "for generations, from generation to generation, generation after generation, through the ages"
+          "en": "for generations, from generation to generation, generation after generation, through the ages",
+          "vi": "đời đời, từ thế hệ này sang thế hệ khác, qua bao thời đại"
         },
         "romaji": "yoyo"
       },
@@ -560,6 +599,7 @@
         "example": "千代",
         "reading": "ちよ",
         "meaning": {
+          "en": "thousand years, very long period, forever",
           "vi": "thousand years, very long period, forever"
         },
         "romaji": "chiyo"
@@ -568,6 +608,7 @@
         "example": "君が代",
         "reading": "きみがよ",
         "meaning": {
+          "en": "Imperial reign, Kimigayo (Japanese national anthem)",
           "vi": "Imperial reign, Kimigayo (Japanese national anthem)"
         },
         "romaji": "kimigayo"
@@ -576,6 +617,7 @@
         "example": "代",
         "reading": "しろ",
         "meaning": {
+          "en": "substitution, material, price, margin (e.g. for stapling, etc.), area required for something, shiro (unit of land area equal to one-fiftieth of a tan; approx. 19.83 m.sq.)",
           "vi": "substitution, material, price, margin (e.g. for stapling, etc.), area required for something, shiro (unit of land area equal to one-fiftieth of a tan; approx. 19.83 m.sq.)"
         },
         "romaji": "shiro"
@@ -584,6 +626,7 @@
         "example": "代物",
         "reading": "しろもの",
         "meaning": {
+          "en": "article, goods, product, fine thing, fellow, affair, stuff, prostitute, price, cost, money",
           "vi": "article, goods, product, fine thing, fellow, affair, stuff, prostitute, price, cost, money"
         },
         "romaji": "shiromono"
@@ -592,7 +635,8 @@
         "example": "地代",
         "reading": "ちだい",
         "meaning": {
-          "en": "land rent"
+          "en": "land rent",
+          "vi": "địa tô, tiền thuê đất"
         },
         "romaji": "chidai"
       },
@@ -600,6 +644,7 @@
         "example": "阿代",
         "reading": "あしろ",
         "meaning": {
+          "en": "Ophidion asiro (species of cusk eel)",
           "vi": "Ophidion asiro (species of cusk eel)"
         },
         "romaji": "ashiro"
@@ -610,7 +655,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

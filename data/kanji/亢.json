@@ -5,7 +5,10 @@
     "query": "亢",
     "found": true,
     "strokeCount": 4,
-    "meaning": "high spirits",
+    "meaning": {
+      "en": "high spirits",
+      "vi": "tinh thần phấn chấn"
+    },
     "kunyomi": [
       "たかぶる"
     ],
@@ -17,7 +20,8 @@
         "example": "亢",
         "reading": "コウ",
         "meaning": {
-          "en": "Chinese \"Neck\" constellation (one of the 28 mansions)"
+          "en": "Chinese \"Neck\" constellation (one of the 28 mansions)",
+          "vi": "chòm sao \"cổ\" trung quốc (một trong 28 dinh thự)"
         },
         "meaningVN": "chòm sao \"cổ\" trung quốc (một trong 28 dinh thự)",
         "hanViet": "cang",
@@ -28,7 +32,8 @@
         "example": "興奮",
         "reading": "コウフン",
         "meaning": {
-          "en": "excitement, stimulation, agitation, arousal"
+          "en": "excitement, stimulation, agitation, arousal",
+          "vi": "sự phấn khích, sự kích động, sự kích động, sự kích động"
         },
         "meaningVN": "sự phấn khích, sự kích động, sự kích động, sự kích động",
         "hanViet": "hưng phấn",
@@ -39,7 +44,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "亠",

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1893",
     "strokeCount": 8,
-    "meaning": "enjoy, receive, undergo, answer (phone), take, get, catch",
+    "meaning": {
+      "en": "enjoy, receive, undergo, answer (phone), take, get, catch",
+      "vi": "hưởng, nhận, chịu, trả lời (điện thoại), lấy, đạt được, bắt"
+    },
     "kunyomi": [
       "う.ける"
     ],
@@ -21,7 +24,8 @@
         "example": "享受",
         "reading": "キョウジュ",
         "meaning": {
-          "vi": "enjoyment (of freedom, beauty, etc.), reception (of a right, privilege, rank, etc.), having"
+          "vi": "sự tận hưởng (tự do, vẻ đẹp, v.v.), sự thụ hưởng (quyền, đặc quyền, địa vị, v.v.), việc có được",
+          "en": "enjoyment (of freedom, beauty, etc.), reception (of a right, privilege, rank, etc.), having"
         },
         "romaji": "kyouju"
       },
@@ -29,7 +33,8 @@
         "example": "饗宴",
         "reading": "キョウエン",
         "meaning": {
-          "en": "feast, banquet"
+          "en": "feast, banquet",
+          "vi": "yến tiệc, tiệc lớn"
         },
         "romaji": "kyouen"
       },
@@ -37,7 +42,8 @@
         "example": "永享",
         "reading": "エイキョウ",
         "meaning": {
-          "en": "Eikyō era (1429.9.5-1441.2.17)"
+          "en": "Eikyō era (1429.9.5-1441.2.17)",
+          "vi": "niên hiệu Eikyō (5/9/1429-17/2/1441)"
         },
         "romaji": "eikyou"
       },
@@ -45,7 +51,8 @@
         "example": "貞享",
         "reading": "ジョウキョウ",
         "meaning": {
-          "en": "Jōkyō era (1684.2.21-1688.9.30)"
+          "en": "Jōkyō era (1684.2.21-1688.9.30)",
+          "vi": "niên hiệu Jōkyō (21/2/1684-30/9/1688)"
         },
         "romaji": "joukyou"
       }
@@ -55,14 +62,18 @@
         "example": "受ける",
         "reading": "うける",
         "meaning": {
-          "vi": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+          "vi": "nhận, lấy, bắt (ví dụ bóng), bị tác động bởi (gió, sóng, ánh nắng, v.v.), chịu thiệt hại, gánh tổn thất, bị thương, cảm nhận ảnh hưởng, trải qua (ví dụ phẫu thuật), dự (kỳ thi), chấp nhận (thử thách), được ban cho (sự sống, tài năng), thấy buồn cười, bị chọc cười, tiếp nối, kế thừa, có nguồn gốc từ, hướng về (phía nam, v.v.), bị điều chỉnh bởi, chuộc lại bằng cách trả phí, được đón nhận tốt, trở nên phổ biến",
+          "en": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
         },
         "romaji": "ukeru"
       }
     ],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "亠",

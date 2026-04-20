@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "publish",
+    "meaning": {
+      "en": "publish",
+      "vi": "xuat ban"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "朝刊（ちょうかん）",
         "meaning": {
-          "english": "morning newspaper"
+          "english": "morning newspaper",
+          "en": "morning newspaper",
+          "vi": "bao sang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "夕刊（ゆうかん）",
         "meaning": {
-          "english": "evening paper"
+          "english": "evening paper",
+          "en": "evening paper",
+          "vi": "bao chieu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "新刊書（しんかんしょ）",
         "meaning": {
-          "english": "new book, new publication"
+          "english": "new book, new publication",
+          "en": "new book, new publication",
+          "vi": "sach moi, an pham moi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "創刊号（そうかんごう）",
         "meaning": {
-          "english": "first edition, first printing"
+          "english": "first edition, first printing",
+          "en": "first edition, first printing",
+          "vi": "an ban dau tien, lan in dau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "週刊誌（しゅうかんし）",
         "meaning": {
-          "english": "weekly publication"
+          "english": "weekly publication",
+          "en": "weekly publication",
+          "vi": "an pham hang tuan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "月刊誌（げっかんし）",
         "meaning": {
-          "english": "monthly publication"
+          "english": "monthly publication",
+          "en": "monthly publication",
+          "vi": "an pham hang thang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "季刊誌（きかんし）",
         "meaning": {
-          "english": "quarterly publication"
+          "english": "quarterly publication",
+          "en": "quarterly publication",
+          "vi": "an pham hang quy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "刊行する（かんこうする）",
         "meaning": {
-          "english": "publish, issue"
+          "english": "publish, issue",
+          "en": "publish, issue",
+          "vi": "xuat ban, phat hanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sou)kan(gou)_06_h.opus",
@@ -177,7 +196,9 @@
     "kanji": {
       "character": "刊",
       "meaning": {
-        "english": "publish"
+        "english": "publish",
+        "en": "publish",
+        "vi": "xuat ban"
       },
       "strokes": {
         "count": 5,
@@ -225,7 +246,9 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiem"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -246,7 +269,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "855",
     "strokeCount": 5,
-    "meaning": "publish, carve, engrave",
+    "meaning": {
+      "en": "publish, carve, engrave",
+      "vi": "xuat ban, khac, cham"
+    },
     "kunyomi": [],
     "onyomi": [
       "カン"
@@ -256,7 +282,8 @@
         "example": "刊",
         "reading": "カン",
         "meaning": {
-          "vi": "publication, edition (e.g. morning, evening, special), published in (year), publication frequency (e.g. daily, monthly)"
+          "vi": "publication, edition (e.g. morning, evening, special), published in (year), publication frequency (e.g. daily, monthly)",
+          "en": "publication, edition (e.g. morning, evening, special), published in (year), publication frequency (e.g. daily, monthly)"
         },
         "romaji": "kan"
       },
@@ -264,7 +291,8 @@
         "example": "刊行",
         "reading": "カンコウ",
         "meaning": {
-          "vi": "publication, issue"
+          "vi": "publication, issue",
+          "en": "publication, issue"
         },
         "romaji": "kankou"
       },
@@ -272,7 +300,8 @@
         "example": "週刊",
         "reading": "シュウカン",
         "meaning": {
-          "vi": "weekly publication"
+          "vi": "weekly publication",
+          "en": "weekly publication"
         },
         "romaji": "shuukan"
       },
@@ -280,7 +309,8 @@
         "example": "休刊",
         "reading": "キュウカン",
         "meaning": {
-          "vi": "suspension of publication"
+          "vi": "suspension of publication",
+          "en": "suspension of publication"
         },
         "romaji": "kyuukan"
       }
@@ -291,7 +321,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiem"
+      }
     },
     "parts": [
       "刈",
@@ -302,8 +335,10 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/520a.gif",
     "uri": "https://jisho.org/search/%E5%88%8A%23kanji"
   },
+  "jlpt": "N2",
   "hanViet": [
     "khan",
     "san"
-  ]
+  ],
+  "mnemonic_vi": "Goi y cach nho: Dao 刂 khac vao can 干 de in an, xuat ban thanh 刊."
 }

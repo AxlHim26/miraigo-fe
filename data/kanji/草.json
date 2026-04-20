@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 6,
     "kunyomi": "kusa",
-    "meaning": "grass",
+    "meaning": {
+      "en": "grass",
+      "vi": "cỏ"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "草原（そうげん）",
         "meaning": {
-          "english": "grass-covered plain, grasslands"
+          "english": "grass-covered plain, grasslands",
+          "en": "grass-covered plain, grasslands",
+          "vi": "đồng cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "草食（そうしょく）",
         "meaning": {
-          "english": "herbivorous"
+          "english": "herbivorous",
+          "en": "herbivorous",
+          "vi": "ăn cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "草稿（そうこう）",
         "meaning": {
-          "english": "notes, draft, manuscript"
+          "english": "notes, draft, manuscript",
+          "en": "notes, draft, manuscript",
+          "vi": "ghi chép, bản nháp, bản thảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "草案（そうあん）",
         "meaning": {
-          "english": "draft"
+          "english": "draft",
+          "en": "draft",
+          "vi": "bản nháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "雑草（ざっそう）",
         "meaning": {
-          "english": "weed"
+          "english": "weed",
+          "en": "weed",
+          "vi": "cỏ dại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "野草（やそう）",
         "meaning": {
-          "english": "wild grasses, wildflowers"
+          "english": "wild grasses, wildflowers",
+          "en": "wild grasses, wildflowers",
+          "vi": "cỏ dại và hoa dại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "海草（かいそう）",
         "meaning": {
-          "english": "seaweed"
+          "english": "seaweed",
+          "en": "seaweed",
+          "vi": "rong biển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "除草剤（じょそうざい）",
         "meaning": {
-          "english": "herbicide"
+          "english": "herbicide",
+          "en": "herbicide",
+          "vi": "thuốc diệt cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "草（くさ）",
         "meaning": {
-          "english": "grass"
+          "english": "grass",
+          "en": "grass",
+          "vi": "cỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "草分け（くさわけ）",
         "meaning": {
-          "english": "pioneer, trailblazer"
+          "english": "pioneer, trailblazer",
+          "en": "pioneer, trailblazer",
+          "vi": "người tiên phong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "*草履（ぞうり）",
         "meaning": {
-          "english": "zori, straw sandals"
+          "english": "zori, straw sandals",
+          "en": "zori, straw sandals",
+          "vi": "dép rơm zori"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "*煙草（たばこ）",
         "meaning": {
-          "english": "tobacco"
+          "english": "tobacco",
+          "en": "tobacco",
+          "vi": "thuốc lá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kusa(ki)_06_l.opus",
@@ -256,7 +283,9 @@
     "kanji": {
       "character": "草",
       "meaning": {
-        "english": "grass"
+        "english": "grass",
+        "en": "grass",
+        "vi": "cỏ"
       },
       "strokes": {
         "count": 9,
@@ -312,7 +341,9 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass",
+        "en": "grass",
+        "vi": "cỏ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -333,7 +364,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "967",
     "strokeCount": 9,
-    "meaning": "grass, weeds, herbs, pasture, write, draft",
+    "meaning": {
+      "en": "grass, weeds, herbs, pasture, write, draft",
+      "vi": "cỏ, cỏ dại, thảo mộc, đồng cỏ, viết, bản nháp"
+    },
     "kunyomi": [
       "くさ",
       "くさ-",
@@ -347,7 +381,8 @@
         "example": "草",
         "reading": "ソウ",
         "meaning": {
-          "vi": "draft, rough copy, highly cursive style (of writing Chinese characters), grass style"
+          "vi": "draft, rough copy, highly cursive style (of writing Chinese characters), grass style",
+          "en": ""
         },
         "romaji": "sou"
       },
@@ -355,7 +390,8 @@
         "example": "壮",
         "reading": "ソウ",
         "meaning": {
-          "vi": "vibrancy, strength, bravery, manliness, one's prime (around age 30; esp. of a man), counter for cones or sticks of moxa burned on the skin (in moxibustion)"
+          "vi": "vibrancy, strength, bravery, manliness, one's prime (around age 30; esp. of a man), counter for cones or sticks of moxa burned on the skin (in moxibustion)",
+          "en": ""
         },
         "romaji": "sou"
       },
@@ -363,7 +399,8 @@
         "example": "除草",
         "reading": "ジョソウ",
         "meaning": {
-          "en": "weeding"
+          "en": "weeding",
+          "vi": "nhổ cỏ"
         },
         "romaji": "josou"
       },
@@ -371,7 +408,8 @@
         "example": "起草",
         "reading": "キソウ",
         "meaning": {
-          "vi": "drafting (e.g. a bill), drawing up"
+          "vi": "drafting (e.g. a bill), drawing up",
+          "en": ""
         },
         "romaji": "kisou"
       }
@@ -381,7 +419,8 @@
         "example": "草",
         "reading": "くさ",
         "meaning": {
-          "en": "grass, weed, herb, thatch, ninja, marijuana, cannabis, not genuine, substandard, LOL, haha"
+          "en": "grass, weed, herb, thatch, ninja, marijuana, cannabis, not genuine, substandard, LOL, haha",
+          "vi": "cỏ, cỏ dại, thảo mộc, mái tranh, ninja, cần sa, hàng không chính hiệu, loại kém, haha"
         },
         "romaji": "kusa"
       },
@@ -389,7 +428,8 @@
         "example": "草刈り",
         "reading": "くさかり",
         "meaning": {
-          "en": "mowing, mower"
+          "en": "mowing, mower",
+          "vi": "việc cắt cỏ, máy cắt cỏ"
         },
         "romaji": "kusakari"
       },
@@ -397,7 +437,8 @@
         "example": "水草",
         "reading": "みずくさ",
         "meaning": {
-          "vi": "water plant, aquatic plant, waterweed, hydrophyte"
+          "vi": "water plant, aquatic plant, waterweed, hydrophyte",
+          "en": ""
         },
         "romaji": "mizukusa"
       },
@@ -405,7 +446,8 @@
         "example": "若草",
         "reading": "わかくさ",
         "meaning": {
-          "en": "green grass, young (fresh) grass"
+          "en": "green grass, young (fresh) grass",
+          "vi": "cỏ xanh, cỏ non"
         },
         "romaji": "wakakusa"
       }
@@ -415,7 +457,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [
       "十",
@@ -430,5 +475,6 @@
   "hanViet": [
     "thảo",
     "tạo"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: hai bụi cỏ mọc dày trên mặt đất thành thảm cỏ."
 }

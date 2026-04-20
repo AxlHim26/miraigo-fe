@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1164",
     "strokeCount": 10,
-    "meaning": "concurrently, and, beforehand, in advance",
+    "meaning": {
+      "en": "concurrently, and, beforehand, in advance",
+      "vi": "đồng thời, và, từ trước, trước đó"
+    },
     "kunyomi": [
       "か.ねる",
       "-か.ねる"
@@ -21,7 +24,8 @@
         "example": "兼",
         "reading": "ケン",
         "meaning": {
-          "en": "cum (e.g. bedroom-cum-study), and (concurrently; e.g. chauffeur and secretary), in addition to, at the same time"
+          "en": "cum (e.g. bedroom-cum-study), and (concurrently; e.g. chauffeur and secretary), in addition to, at the same time",
+          "vi": "kiêm (ví dụ phòng ngủ kiêm phòng làm việc), và (đồng thời; ví dụ tài xế kiêm thư ký), ngoài ra, cùng một lúc"
         },
         "romaji": "ken"
       },
@@ -29,7 +33,8 @@
         "example": "兼任",
         "reading": "ケンニン",
         "meaning": {
-          "vi": "serving concurrently as, holding the additional post of"
+          "vi": "serving concurrently as, holding the additional post of",
+          "en": "serving concurrently as, holding the additional post of"
         },
         "romaji": "kennin"
       }
@@ -39,14 +44,18 @@
         "example": "兼ねる",
         "reading": "かねる",
         "meaning": {
-          "vi": "to be unable to, to find difficult (unpleasant, awkward, painful) to do, to serve two or more functions or roles simultaneously, to contain (or combine) two or more features, to work in two or more jobs simultaneously (positions, etc.), to do alongside, to hesitate to do something (out of consideration for others), to think of the future (as well as the present)"
+          "vi": "to be unable to, to find difficult (unpleasant, awkward, painful) to do, to serve two or more functions or roles simultaneously, to contain (or combine) two or more features, to work in two or more jobs simultaneously (positions, etc.), to do alongside, to hesitate to do something (out of consideration for others), to think of the future (as well as the present)",
+          "en": "to be unable to, to find difficult (unpleasant, awkward, painful) to do, to serve two or more functions or roles simultaneously, to contain (or combine) two or more features, to work in two or more jobs simultaneously (positions, etc.), to do alongside, to hesitate to do something (out of consideration for others), to think of the future (as well as the present)"
         },
         "romaji": "kaneru"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": {
+        "en": "eight",
+        "vi": "tám"
+      }
     },
     "parts": [
       "ハ",

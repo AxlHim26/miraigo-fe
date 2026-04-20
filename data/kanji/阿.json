@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1126",
     "strokeCount": 8,
-    "meaning": "Africa, flatter, fawn upon, corner, nook, recess",
+    "meaning": {
+      "en": "Africa, flatter, fawn upon, corner, nook, recess",
+      "vi": "châu Phi, nịnh bợ, ve vãn, góc, ngóc ngách, chỗ lõm"
+    },
     "kunyomi": [
       "おもね.る",
       "くま"
@@ -21,6 +24,7 @@
         "example": "阿",
         "reading": "ア",
         "meaning": {
+          "en": "first Sanskrit alphabet letter, Africa, Awa (old province of Japan), prefixed to names to show intimacy",
           "vi": "first Sanskrit alphabet letter, Africa, Awa (old province of Japan), prefixed to names to show intimacy"
         },
         "romaji": "a"
@@ -28,14 +32,18 @@
       {
         "example": "【アホ】",
         "reading": "fool, idiot, simpleton",
-        "meaning": "",
+        "meaning": {
+          "en": "",
+          "vi": ""
+        },
         "romaji": "fool, idiot, simpleton"
       },
       {
         "example": "南ア",
         "reading": "ナンア",
         "meaning": {
-          "en": "South Africa"
+          "en": "South Africa",
+          "vi": "Nam Phi"
         },
         "romaji": "nan'a"
       },
@@ -43,7 +51,8 @@
         "example": "阿蘭陀",
         "reading": "オランダ",
         "meaning": {
-          "en": "Netherlands, Holland"
+          "en": "Netherlands, Holland",
+          "vi": "Hà Lan"
         },
         "romaji": "oranda"
       },
@@ -51,6 +60,7 @@
         "example": "お亀",
         "reading": "オカメ",
         "meaning": {
+          "en": "homely woman (esp. one with a small low nose, high flat forehead, and bulging cheeks), plain woman, soba in soup with slices of boiled fish paste, shiitake mushrooms, greens, seaweed, etc.",
           "vi": "homely woman (esp. one with a small low nose, high flat forehead, and bulging cheeks), plain woman, soba in soup with slices of boiled fish paste, shiitake mushrooms, greens, seaweed, etc."
         },
         "romaji": "okame"
@@ -59,7 +69,8 @@
         "example": "加加阿",
         "reading": "カカオ",
         "meaning": {
-          "en": "cacao tree (Theobroma cacao), cocoa tree"
+          "en": "cacao tree (Theobroma cacao), cocoa tree",
+          "vi": "cây ca cao (Theobroma cacao)"
         },
         "romaji": "kakao"
       }
@@ -69,6 +80,7 @@
         "example": "阿る",
         "reading": "おもねる",
         "meaning": {
+          "en": "to flatter, to play up (to), to curry favor (with), to fawn (on), to cater (to)",
           "vi": "to flatter, to play up (to), to curry favor (with), to fawn (on), to cater (to)"
         },
         "romaji": "omoneru"
@@ -77,6 +89,7 @@
         "example": "隈",
         "reading": "くま",
         "meaning": {
+          "en": "corner, nook, recess, shade, shadow, dark area, dark circles (under the eyes), dark rings, bend (in a road, river, etc.), shading, gradation, kumadori, style of kabuki makeup used for violent roles",
           "vi": "corner, nook, recess, shade, shadow, dark area, dark circles (under the eyes), dark rings, bend (in a road, river, etc.), shading, gradation, kumadori, style of kabuki makeup used for violent roles"
         },
         "romaji": "kuma"
@@ -87,7 +100,10 @@
       "forms": [
         "阝"
       ],
-      "meaning": "mound, dam (阝 left)"
+      "meaning": {
+        "en": "mound, dam (阝 left)",
+        "vi": "gò đất, đập nước (bộ 阝 bên trái)"
+      }
     },
     "parts": [
       "一",

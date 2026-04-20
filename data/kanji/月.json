@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "tsuki",
-    "meaning": "moon, month",
+    "meaning": {
+      "en": "moon, month",
+      "vi": "mặt trăng, tháng"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "来月（らいげつ）",
         "meaning": {
-          "english": "next month"
+          "english": "next month",
+          "en": "next month",
+          "vi": "tháng sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "月曜日（げつようび）",
         "meaning": {
-          "english": "Monday"
+          "english": "Monday",
+          "en": "Monday",
+          "vi": "thứ Hai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "先月（せんげつ）",
         "meaning": {
-          "english": "last month"
+          "english": "last month",
+          "en": "last month",
+          "vi": "tháng trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "今月（こんげつ）",
         "meaning": {
-          "english": "this month"
+          "english": "this month",
+          "en": "this month",
+          "vi": "tháng này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "満月（まんげつ）",
         "meaning": {
-          "english": "full moon"
+          "english": "full moon",
+          "en": "full moon",
+          "vi": "trăng tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "正月（しょうがつ）",
         "meaning": {
-          "english": "New Year"
+          "english": "New Year",
+          "en": "New Year",
+          "vi": "Năm Mới"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "生年月日（せいねんがっぴ）",
         "meaning": {
-          "english": "birth date"
+          "english": "birth date",
+          "en": "birth date",
+          "vi": "ngày sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "月見（つきみ）",
         "meaning": {
-          "english": "moon viewing"
+          "english": "moon viewing",
+          "en": "moon viewing",
+          "vi": "ngắm trăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "毎月（まいつき/まいげつ）",
         "meaning": {
-          "english": "every month"
+          "english": "every month",
+          "en": "every month",
+          "vi": "hàng tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/getsu-tsuki_06_i.opus",
@@ -260,7 +281,9 @@
     "kanji": {
       "character": "月",
       "meaning": {
-        "english": "moon, month"
+        "english": "moon, month",
+        "en": "moon, month",
+        "vi": "mặt trăng, tháng"
       },
       "strokes": {
         "count": 4,
@@ -306,7 +329,9 @@
         "romaji": "tsuki"
       },
       "meaning": {
-        "english": "moon, month, period"
+        "english": "moon, month, period",
+        "en": "moon, month, period",
+        "vi": "mặt trăng, tháng, kỳ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuki0.svg",
@@ -327,7 +352,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "23",
     "strokeCount": 4,
-    "meaning": "month, moon",
+    "meaning": {
+      "en": "month, moon",
+      "vi": "tháng, mặt trăng"
+    },
     "kunyomi": [
       "つき"
     ],
@@ -340,7 +368,8 @@
         "example": "月",
         "reading": "ゲツ",
         "meaning": {
-          "en": "Monday"
+          "en": "Monday",
+          "vi": "thứ Hai"
         },
         "romaji": "getsu"
       },
@@ -348,7 +377,8 @@
         "example": "月額",
         "reading": "ゲツガク",
         "meaning": {
-          "en": "monthly amount (sum)"
+          "en": "monthly amount (sum)",
+          "vi": "monthly amount (sum)"
         },
         "romaji": "getsugaku"
       },
@@ -356,7 +386,8 @@
         "example": "隔月",
         "reading": "カクゲツ",
         "meaning": {
-          "en": "every second month, every other month"
+          "en": "every second month, every other month",
+          "vi": "every second month, every other month"
         },
         "romaji": "kakugetsu"
       },
@@ -364,7 +395,8 @@
         "example": "望月",
         "reading": "モチヅキ",
         "meaning": {
-          "en": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month"
+          "en": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month",
+          "vi": "full moon, moon on the 15th day of the month (by the lunar calendar), full moon of the eighth lunar month"
         },
         "romaji": "mochizuki"
       },
@@ -372,7 +404,8 @@
         "example": "月輪",
         "reading": "ゲツリン",
         "meaning": {
-          "en": "(full) moon, moon when it's round"
+          "en": "(full) moon, moon when it's round",
+          "vi": "(full) moon, moon when it's round"
         },
         "romaji": "getsurin"
       },
@@ -380,7 +413,8 @@
         "example": "旧正月",
         "reading": "キュウショウガツ",
         "meaning": {
-          "vi": "lunar New Year (esp. the Chinese New Year)"
+          "vi": "lunar New Year (esp. the Chinese New Year)",
+          "en": "lunar New Year (esp. the Chinese New Year)"
         },
         "romaji": "kyuushougatsu"
       },
@@ -388,7 +422,8 @@
         "example": "お正月",
         "reading": "オショウガツ",
         "meaning": {
-          "vi": "New Year (esp. first three days), first month of the year, January"
+          "vi": "New Year (esp. first three days), first month of the year, January",
+          "en": "New Year (esp. first three days), first month of the year, January"
         },
         "romaji": "oshougatsu"
       }
@@ -398,7 +433,8 @@
         "example": "月",
         "reading": "つき",
         "meaning": {
-          "en": "Moon, month, moonlight, (a) moon, natural satellite"
+          "en": "Moon, month, moonlight, (a) moon, natural satellite",
+          "vi": "Moon, month, moonlight, (a) moon, natural satellite"
         },
         "romaji": "tsuki"
       },
@@ -406,7 +442,8 @@
         "example": "月末",
         "reading": "げつまつ",
         "meaning": {
-          "en": "end of the month"
+          "en": "end of the month",
+          "vi": "end of the month"
         },
         "romaji": "getsumatsu"
       },
@@ -414,7 +451,8 @@
         "example": "卯月",
         "reading": "うづき",
         "meaning": {
-          "en": "fourth month of the lunar calendar"
+          "en": "fourth month of the lunar calendar",
+          "vi": "fourth month of the lunar calendar"
         },
         "romaji": "uzuki"
       },
@@ -422,14 +460,18 @@
         "example": "祥月",
         "reading": "しょうつき",
         "meaning": {
-          "vi": "month of a person's death"
+          "vi": "month of a person's death",
+          "en": "month of a person's death"
         },
         "romaji": "shoutsuki"
       }
     ],
     "radical": {
       "symbol": "月",
-      "meaning": "moon, month"
+      "meaning": {
+        "en": "moon, month",
+        "vi": "mặt trăng, tháng"
+      }
     },
     "parts": [
       "月"
@@ -439,6 +481,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6708.gif",
     "uri": "https://jisho.org/search/%E6%9C%88%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: nét cong như trăng lưỡi liềm, nên 月 là trăng và cũng là tháng.",
   "hanViet": [
     "nguyệt"
   ]

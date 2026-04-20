@@ -5,7 +5,10 @@
     "query": "傳",
     "found": true,
     "strokeCount": 13,
-    "meaning": "summon, propagate, transmit",
+    "meaning": {
+      "en": "summon, propagate, transmit",
+      "vi": "triệu gọi, truyền bá, truyền đạt"
+    },
     "kunyomi": [
       "つた.わる",
       "つた.える",
@@ -21,7 +24,8 @@
         "example": "伝承",
         "reading": "デンショウ",
         "meaning": {
-          "en": "handing down (information), legend, tradition, folklore, transmission"
+          "en": "handing down (information), legend, tradition, folklore, transmission",
+          "vi": "sự truyền lại (thông tin), truyền thuyết, truyền thống, dân gian, truyền đạt"
         },
         "romaji": "denshou"
       },
@@ -29,7 +33,8 @@
         "example": "伝播",
         "reading": "デンパ",
         "meaning": {
-          "vi": "transmission, propagation, spread, circulation, diffusion, dissemination"
+          "vi": "sự truyền đạt, truyền bá, lan truyền, lưu hành, khuếch tán, phổ biến",
+          "en": "transmission, propagation, spread, circulation, diffusion, dissemination"
         },
         "romaji": "denpa"
       },
@@ -37,7 +42,8 @@
         "example": "先哲像伝",
         "reading": "センテツゾウデン",
         "meaning": {
-          "vi": "pictures of ancient wise men (name of a book)"
+          "vi": "Tranh các bậc hiền triết thời xưa (tên sách)",
+          "en": "pictures of ancient wise men (name of a book)"
         },
         "romaji": "sentetsuzouden"
       },
@@ -45,7 +51,8 @@
         "example": "先哲像伝",
         "reading": "センテツゾウデン",
         "meaning": {
-          "vi": "Pictures of Ancient Wise Men"
+          "vi": "Tranh các bậc hiền triết thời xưa",
+          "en": "Pictures of Ancient Wise Men"
         },
         "romaji": "sentetsuzouden"
       }
@@ -56,7 +63,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

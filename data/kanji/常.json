@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "tsune, toko",
-    "meaning": "normal, regular, ever-, always",
+    "meaning": {
+      "en": "normal, regular, ever-, always",
+      "vi": "bình thường, đều đặn, thường xuyên, luôn luôn"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "常識（じょうしき）",
         "meaning": {
-          "english": "common sense"
+          "english": "common sense",
+          "en": "common sense",
+          "vi": "thường thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "常緑樹（じょうりょくじゅ）",
         "meaning": {
-          "english": "evergreen tree"
+          "english": "evergreen tree",
+          "en": "evergreen tree",
+          "vi": "cây thường xanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "常用漢字（じょうようかんじ）",
         "meaning": {
-          "english": "common use kanji"
+          "english": "common use kanji",
+          "en": "common use kanji",
+          "vi": "kanji thông dụng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "非常識（ひじょうしき）",
         "meaning": {
-          "english": "lack of common sense"
+          "english": "lack of common sense",
+          "en": "lack of common sense",
+          "vi": "thiếu thường thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "非常口（ひじょうぐち）",
         "meaning": {
-          "english": "emergency exit"
+          "english": "emergency exit",
+          "en": "emergency exit",
+          "vi": "lối thoát hiểm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "正常な（せいじょうな）",
         "meaning": {
-          "english": "normal"
+          "english": "normal",
+          "en": "normal",
+          "vi": "bình thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "異常な（いじょうな）",
         "meaning": {
-          "english": "abnormal"
+          "english": "abnormal",
+          "en": "abnormal",
+          "vi": "bất thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "日常（にちじょう）",
         "meaning": {
-          "english": "daily, everyday"
+          "english": "daily, everyday",
+          "en": "daily, everyday",
+          "vi": "hằng ngày, mỗi ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "常に（つねに）",
         "meaning": {
-          "english": "always, customarily"
+          "english": "always, customarily",
+          "en": "always, customarily",
+          "vi": "luôn luôn, theo lệ thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "常夏（とこなつ）",
         "meaning": {
-          "english": "everlasting summer"
+          "english": "everlasting summer",
+          "en": "everlasting summer",
+          "vi": "mùa hè bất tận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou-tsune_06_j.opus",
@@ -244,7 +267,9 @@
     "kanji": {
       "character": "常",
       "meaning": {
-        "english": "normal, regular, ever-, always"
+        "english": "normal, regular, ever-, always",
+        "en": "normal, regular, ever-, always",
+        "vi": "bình thường, đều đặn, thường xuyên, luôn luôn"
       },
       "strokes": {
         "count": 11,
@@ -304,7 +329,9 @@
         "romaji": "haba"
       },
       "meaning": {
-        "english": "cloth"
+        "english": "cloth",
+        "en": "cloth",
+        "vi": "tấm vải"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/haba0.svg",
@@ -325,7 +352,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "293",
     "strokeCount": 11,
-    "meaning": "usual, ordinary, normal, common, regular, continually, always, long-lasting",
+    "meaning": {
+      "en": "usual, ordinary, normal, common, regular, continually, always, long-lasting",
+      "vi": "thường lệ, bình thường, thông thường, phổ biến, đều đặn, liên tục, luôn luôn, lâu dài"
+    },
     "kunyomi": [
       "つね",
       "とこ-"
@@ -338,7 +368,8 @@
         "example": "常識",
         "reading": "ジョウシキ",
         "meaning": {
-          "vi": "common sense, good sense, common knowledge, general knowledge, common practice, accepted practice, social etiquette"
+          "vi": "thường thức, hiểu biết chung, lẽ thường, tập quán được chấp nhận, phép xã giao",
+          "en": "common sense, good sense, common knowledge, general knowledge, common practice, accepted practice, social etiquette"
         },
         "romaji": "joushiki"
       },
@@ -346,7 +377,8 @@
         "example": "常勤",
         "reading": "ジョウキン",
         "meaning": {
-          "vi": "full-time employment"
+          "vi": "việc làm toàn thời gian",
+          "en": "full-time employment"
         },
         "romaji": "joukin"
       },
@@ -354,7 +386,8 @@
         "example": "平常",
         "reading": "ヘイジョウ",
         "meaning": {
-          "en": "normal, usual, ordinary, everyday"
+          "en": "normal, usual, ordinary, everyday",
+          "vi": "bình thường, thường lệ, thông thường, thường ngày"
         },
         "romaji": "heijou"
       },
@@ -362,7 +395,8 @@
         "example": "経常",
         "reading": "ケイジョウ",
         "meaning": {
-          "en": "ordinary"
+          "en": "ordinary",
+          "vi": "thông thường"
         },
         "romaji": "keijou"
       }
@@ -372,7 +406,8 @@
         "example": "常",
         "reading": "つね",
         "meaning": {
-          "en": "usual state of things"
+          "en": "usual state of things",
+          "vi": "trạng thái thường thấy"
         },
         "romaji": "tsune"
       },
@@ -380,7 +415,8 @@
         "example": "常に",
         "reading": "つねに",
         "meaning": {
-          "en": "always, constantly"
+          "en": "always, constantly",
+          "vi": "luôn luôn, liên tục"
         },
         "romaji": "tsuneni"
       },
@@ -388,7 +424,8 @@
         "example": "経常",
         "reading": "けいじょう",
         "meaning": {
-          "en": "ordinary"
+          "en": "ordinary",
+          "vi": "thông thường"
         },
         "romaji": "keijou"
       },
@@ -396,14 +433,18 @@
         "example": "人の常",
         "reading": "ひとのつね",
         "meaning": {
-          "en": "human nature"
+          "en": "human nature",
+          "vi": "bản tính con người"
         },
         "romaji": "hitonotsune"
       }
     ],
     "radical": {
       "symbol": "巾",
-      "meaning": "turban, scarf"
+      "meaning": {
+        "en": "turban, scarf",
+        "vi": "khăn quấn đầu, khăn choàng"
+      }
     },
     "parts": [
       "冖",
@@ -418,5 +459,7 @@
   },
   "hanViet": [
     "thường"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: Chiếc khăn 巾 treo ở nơi vẫn dùng mỗi ngày, gợi điều quen thuộc lặp lại, nên 常 là thường, bình thường."
 }

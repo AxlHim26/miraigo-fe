@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 11,
-    "meaning": "mountains towering in a row",
+    "meaning": {
+      "en": "mountains towering in a row",
+      "vi": "núi nối nhau sừng sững"
+    },
     "kunyomi": [],
     "onyomi": [
       "リョウ"
@@ -15,7 +18,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "山",
-      "meaning": "mountain"
+      "meaning": {
+        "en": "mountain",
+        "vi": "núi"
+      }
     },
     "parts": [
       "儿",
@@ -30,5 +36,7 @@
   },
   "hanViet": [
     "lăng"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Nhiều núi nối tiếp vươn cao thành dãy núi chót vót."
 }

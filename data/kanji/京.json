@@ -7,14 +7,19 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "thủ đô",
+    "meaning": {
+      "en": "capital",
+      "vi": "thủ đô"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "東京（とうきょう）",
         "meaning": {
           "english": "Tokyo",
-          "vietnamese": "Tokyo"
+          "vietnamese": "Tokyo",
+          "en": "Tokyo",
+          "vi": "Tokyo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou(to)_06_a.opus",
@@ -27,7 +32,9 @@
         "japanese": "京都（きょうと）",
         "meaning": {
           "english": "Kyoto",
-          "vietnamese": "Kyoto"
+          "vietnamese": "Kyoto",
+          "en": "Kyoto",
+          "vi": "Kyoto"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou(to)_06_b.opus",
@@ -40,7 +47,9 @@
         "japanese": "上京する（じょうきょうする）",
         "meaning": {
           "english": "travel to the capital",
-          "vietnamese": "đi lên thủ đô"
+          "vietnamese": "đi lên thủ đô",
+          "en": "travel to the capital",
+          "vi": "đi lên thủ đô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou(to)_06_c.opus",
@@ -53,7 +62,9 @@
         "japanese": "京浜（けいひん）",
         "meaning": {
           "english": "Tokyo and Yokohama",
-          "vietnamese": "Tokyo và Yokohama"
+          "vietnamese": "Tokyo và Yokohama",
+          "en": "Tokyo and Yokohama",
+          "vi": "Tokyo và Yokohama"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou(to)_06_d.opus",
@@ -66,7 +77,9 @@
         "japanese": "京阪神（けいはんしん）",
         "meaning": {
           "english": "Kyoto-Osaka-Kobe",
-          "vietnamese": "Kyoto-Osaka-Kobe"
+          "vietnamese": "Kyoto-Osaka-Kobe",
+          "en": "Kyoto-Osaka-Kobe",
+          "vi": "Kyoto-Osaka-Kobe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou(to)_06_e.opus",
@@ -79,7 +92,9 @@
         "japanese": "北京（ぺきん）",
         "meaning": {
           "english": "Beijing",
-          "vietnamese": "Bắc Kinh"
+          "vietnamese": "Bắc Kinh",
+          "en": "Beijing",
+          "vi": "Bắc Kinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou(to)_06_f.opus",
@@ -92,7 +107,9 @@
         "japanese": "南京（なんきん）",
         "meaning": {
           "english": "Nanjing",
-          "vietnamese": "Nam Kinh"
+          "vietnamese": "Nam Kinh",
+          "en": "Nanjing",
+          "vi": "Nam Kinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyou(to)_06_g.opus",
@@ -238,7 +255,9 @@
       "character": "京",
       "meaning": {
         "english": "capital",
-        "vietnamese": "thủ đô"
+        "vietnamese": "thủ đô",
+        "en": "capital",
+        "vi": "thủ đô"
       },
       "strokes": {
         "count": 8,
@@ -293,7 +312,9 @@
       },
       "meaning": {
         "english": "lid, top",
-        "vietnamese": "nắp, đỉnh"
+        "vietnamese": "nắp, đỉnh",
+        "en": "lid, top",
+        "vi": "nắp, đỉnh"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nabebuta0.svg",
@@ -314,7 +335,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "74",
     "strokeCount": 8,
-    "meaning": "thủ đô, 10^16",
+    "meaning": {
+      "en": "capital, 10^16",
+      "vi": "thủ đô, 10^16"
+    },
     "kunyomi": [
       "みやこ"
     ],
@@ -328,6 +352,7 @@
         "example": "京",
         "reading": "キョウ",
         "meaning": {
+          "en": "capital (especially Kyoto), final word in the iroha poem, 10^16, ten quadrillion",
           "vi": "kinh đô (đặc biệt là Kyoto), từ cuối cùng trong bài thơ iroha, 10^16, mười triệu tỷ"
         },
         "romaji": "kyou"
@@ -336,6 +361,7 @@
         "example": "京都",
         "reading": "キョウト",
         "meaning": {
+          "en": "Kyoto (city, prefecture)",
           "vi": "Kyoto (thành phố, tỉnh)"
         },
         "romaji": "kyouto"
@@ -344,7 +370,8 @@
         "example": "中京",
         "reading": "チュウキョウ",
         "meaning": {
-          "en": "Nagoya"
+          "en": "Nagoya",
+          "vi": "Nagoya"
         },
         "romaji": "chuukyou"
       },
@@ -352,6 +379,7 @@
         "example": "在京",
         "reading": "ザイキョウ",
         "meaning": {
+          "en": "being in the capital (Tokyo, formerly Kyoto)",
           "vi": "ở thủ đô (tức Tokyo, hoặc trước đây là Kyoto)"
         },
         "romaji": "zaikyou"
@@ -360,6 +388,7 @@
         "example": "京",
         "reading": "キョウ",
         "meaning": {
+          "en": "capital (especially Kyoto), final word in the iroha poem, 10^16, ten quadrillion",
           "vi": "kinh đô (đặc biệt là Kyoto), từ cuối cùng trong bài thơ iroha, 10^16, mười triệu tỷ"
         },
         "romaji": "kyou"
@@ -368,6 +397,7 @@
         "example": "京阪",
         "reading": "ケイハン",
         "meaning": {
+          "en": "Kyoto and Osaka, Kyoto-Osaka area",
           "vi": "Kyoto và Osaka, vùng Kyoto-Osaka"
         },
         "romaji": "keihan"
@@ -376,6 +406,7 @@
         "example": "英京",
         "reading": "エイキョウ",
         "meaning": {
+          "en": "British capital, London",
           "vi": "thủ đô Anh, London"
         },
         "romaji": "eikyou"
@@ -384,6 +415,7 @@
         "example": "キン族",
         "reading": "キンゾク",
         "meaning": {
+          "en": "Kinh people, Vietnamese people",
           "vi": "người Kinh, người Việt Nam"
         },
         "romaji": "kinzoku"
@@ -392,6 +424,7 @@
         "example": "南京",
         "reading": "ナンキン",
         "meaning": {
+          "en": "Nanjing (China), pumpkin, squash, China, Southeast Asia, foreign, rare, precious, cute",
           "vi": "Nam Kinh (Trung Quốc), bí đỏ, bí ngô, Trung Quốc, Đông Nam Á, nước ngoài, hiếm, quý, dễ thương"
         },
         "romaji": "nankin"
@@ -402,6 +435,7 @@
         "example": "都",
         "reading": "みやこ",
         "meaning": {
+          "en": "capital (especially Kyoto, Japan's ancient capital), seat of government, metropolis, city, place of the Imperial Palace",
           "vi": "thủ đô (đặc biệt là Kyoto, cố đô Nhật Bản), trụ sở chính phủ, thủ phủ (của âm nhạc, thời trang, v.v.), thành phố (ví dụ thành phố ánh sáng), vị trí của Hoàng cung"
         },
         "romaji": "miyako"
@@ -410,6 +444,7 @@
         "example": "長岡京",
         "reading": "ながおかきょう",
         "meaning": {
+          "en": "Nagaoka-kyo (capital of Japan from 784 to 794), Nagaokakyo (city)",
           "vi": "Nagaoka-kyō (thủ đô Nhật Bản 784-794), Nagaokakyō (thành phố)"
         },
         "romaji": "nagaokakyou"
@@ -417,7 +452,10 @@
     ],
     "radical": {
       "symbol": "亠",
-      "meaning": "nắp"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "亠",
@@ -432,5 +470,7 @@
   "hanViet": [
     "kinh",
     "nguyên"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Mái nhà trên vùng đất lớn gợi kinh đô, nên nhớ là thủ đô."
 }

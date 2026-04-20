@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "inu",
-    "meaning": "dog",
+    "meaning": {
+      "en": "dog",
+      "vi": "chó"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "番犬（ばんけん）",
         "meaning": {
-          "english": "watchdog"
+          "english": "watchdog",
+          "en": "watchdog",
+          "vi": "chó canh nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "盲導犬（もうどうけん）",
         "meaning": {
-          "english": "seeing eye dog"
+          "english": "seeing eye dog",
+          "en": "seeing eye dog",
+          "vi": "chó dẫn đường cho người mù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "犬（いぬ）",
         "meaning": {
-          "english": "dog"
+          "english": "dog",
+          "en": "dog",
+          "vi": "chó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "飼い犬（かいいぬ）",
         "meaning": {
-          "english": "pet dog"
+          "english": "pet dog",
+          "en": "pet dog",
+          "vi": "pet dog"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "子犬（こいぬ）",
         "meaning": {
-          "english": "puppy"
+          "english": "puppy",
+          "en": "puppy",
+          "vi": "puppy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/inu_06_e.opus",
@@ -190,7 +203,9 @@
     "kanji": {
       "character": "犬",
       "meaning": {
-        "english": "dog"
+        "english": "dog",
+        "en": "dog",
+        "vi": "chó"
       },
       "strokes": {
         "count": 4,
@@ -236,7 +251,9 @@
         "romaji": "inu"
       },
       "meaning": {
-        "english": "dog"
+        "english": "dog",
+        "en": "dog",
+        "vi": "chó"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/inu0.svg",
@@ -257,7 +274,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1326",
     "strokeCount": 4,
-    "meaning": "dog",
+    "meaning": {
+      "en": "dog",
+      "vi": "chó"
+    },
     "kunyomi": [
       "いぬ",
       "いぬ-"
@@ -270,7 +290,8 @@
         "example": "犬猿の仲",
         "reading": "ケンエンノナカ",
         "meaning": {
-          "vi": "like cats and dogs, (on) very bad terms, relationship of dogs and monkeys"
+          "vi": "like cats and dogs, (on) very bad terms, relationship of dogs and monkeys",
+          "en": "like cats and dogs, (on) very bad terms, relationship of dogs and monkeys"
         },
         "romaji": "ken'ennonaka"
       },
@@ -278,7 +299,8 @@
         "example": "犬猿",
         "reading": "ケンエン",
         "meaning": {
-          "vi": "cats and dogs (as an example of a bad relationship), dogs and monkeys"
+          "vi": "cats and dogs (as an example of a bad relationship), dogs and monkeys",
+          "en": "cats and dogs (as an example of a bad relationship), dogs and monkeys"
         },
         "romaji": "ken'en"
       },
@@ -286,7 +308,8 @@
         "example": "柴犬",
         "reading": "シバイヌ",
         "meaning": {
-          "en": "shiba inu (dog breed), shiba, brushwood dog"
+          "en": "shiba inu (dog breed), shiba, brushwood dog",
+          "vi": "shiba inu (dog breed), shiba, brushwood dog"
         },
         "romaji": "shibainu"
       },
@@ -294,7 +317,8 @@
         "example": "ポメラニア犬",
         "reading": "ポメラニアケン",
         "meaning": {
-          "vi": "Pomeranian (dog)"
+          "vi": "Pomeranian (dog)",
+          "en": "Pomeranian (dog)"
         },
         "romaji": "pomeraniaken"
       }
@@ -304,7 +328,8 @@
         "example": "犬",
         "reading": "いぬ",
         "meaning": {
-          "vi": "dog (Canis (lupus) familiaris), squealer, rat, snitch, informer, informant, spy, loser, asshole, counterfeit, inferior, useless, wasteful"
+          "vi": "dog (Canis (lupus) familiaris), squealer, rat, snitch, informer, informant, spy, loser, asshole, counterfeit, inferior, useless, wasteful",
+          "en": "dog (Canis (lupus) familiaris), squealer, rat, snitch, informer, informant, spy, loser, asshole, counterfeit, inferior, useless, wasteful"
         },
         "romaji": "inu"
       },
@@ -312,7 +337,8 @@
         "example": "犬合わせ",
         "reading": "いぬあわせ",
         "meaning": {
-          "en": "dogfighting"
+          "en": "dogfighting",
+          "vi": "dogfighting"
         },
         "romaji": "inuawase"
       },
@@ -320,7 +346,8 @@
         "example": "野良犬",
         "reading": "のらいぬ",
         "meaning": {
-          "en": "stray dog"
+          "en": "stray dog",
+          "vi": "stray dog"
         },
         "romaji": "norainu"
       },
@@ -328,7 +355,8 @@
         "example": "柴犬",
         "reading": "しばいぬ",
         "meaning": {
-          "en": "shiba inu (dog breed), shiba, brushwood dog"
+          "en": "shiba inu (dog breed), shiba, brushwood dog",
+          "vi": "shiba inu (dog breed), shiba, brushwood dog"
         },
         "romaji": "shibainu"
       }
@@ -338,7 +366,10 @@
       "forms": [
         "犭"
       ],
-      "meaning": "dog"
+      "meaning": {
+        "en": "dog",
+        "vi": "chó"
+      }
     },
     "parts": [
       "丶",
@@ -352,5 +383,7 @@
   },
   "hanViet": [
     "khuyển"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: giống chữ 大 nhưng có chấm nhỏ như cái đuôi của con chó."
 }

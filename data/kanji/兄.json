@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ani",
-    "meaning": "older brother",
+    "meaning": {
+      "en": "older brother",
+      "vi": "anh trai"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "父兄（ふけい）",
         "meaning": {
-          "english": "guardians"
+          "english": "guardians",
+          "en": "guardians",
+          "vi": "người giám hộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ani_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "兄弟（きょうだい）",
         "meaning": {
-          "english": "siblings"
+          "english": "siblings",
+          "en": "siblings",
+          "vi": "anh chị em"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ani_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "兄（あに）",
         "meaning": {
-          "english": "one's own older brother"
+          "english": "one's own older brother",
+          "en": "one's own older brother",
+          "vi": "anh trai ruột của mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ani_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "*お兄さん（おにいさん）",
         "meaning": {
-          "english": "older brother [hon.]"
+          "english": "older brother [hon.]",
+          "en": "older brother [hon.]",
+          "vi": "anh trai [kính ngữ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ani_06_d.opus",
@@ -194,7 +205,9 @@
     "kanji": {
       "character": "兄",
       "meaning": {
-        "english": "older brother"
+        "english": "older brother",
+        "en": "older brother",
+        "vi": "anh trai"
       },
       "strokes": {
         "count": 5,
@@ -242,7 +255,9 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs",
+        "en": "human legs",
+        "vi": "chân người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -263,7 +278,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1219",
     "strokeCount": 5,
-    "meaning": "elder brother, big brother",
+    "meaning": {
+      "en": "elder brother, big brother",
+      "vi": "anh trai, anh cả"
+    },
     "kunyomi": [
       "あに"
     ],
@@ -276,7 +294,8 @@
         "example": "兄",
         "reading": "ケイ",
         "meaning": {
-          "en": "you, Mr, Mister, older brother, elder brother"
+          "en": "you, Mr, Mister, older brother, elder brother",
+          "vi": "anh, ông, ngài, anh trai, anh cả"
         },
         "romaji": "kei"
       },
@@ -284,7 +303,8 @@
         "example": "兄弟",
         "reading": "キョウダイ",
         "meaning": {
-          "en": "siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend"
+          "en": "siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend",
+          "vi": ""
         },
         "romaji": "kyoudai"
       },
@@ -292,7 +312,8 @@
         "example": "実兄",
         "reading": "ジッケイ",
         "meaning": {
-          "en": "biological older brother"
+          "en": "biological older brother",
+          "vi": ""
         },
         "romaji": "jikkei"
       },
@@ -300,7 +321,8 @@
         "example": "父兄",
         "reading": "フケイ",
         "meaning": {
-          "vi": "guardians, parents, father and older brother"
+          "vi": "guardians, parents, father and older brother",
+          "en": ""
         },
         "romaji": "fukei"
       },
@@ -308,7 +330,8 @@
         "example": "兄弟",
         "reading": "キョウダイ",
         "meaning": {
-          "en": "siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend"
+          "en": "siblings, brothers and sisters, brothers, siblings-in-law, brothers-in-law, sisters-in-law, mate, friend",
+          "vi": ""
         },
         "romaji": "kyoudai"
       },
@@ -316,7 +339,8 @@
         "example": "兄姉",
         "reading": "ケイシ",
         "meaning": {
-          "en": "older brother and older sister"
+          "en": "older brother and older sister",
+          "vi": "anh trai và chị gái"
         },
         "romaji": "keishi"
       }
@@ -326,7 +350,8 @@
         "example": "兄",
         "reading": "あに",
         "meaning": {
-          "vi": "older brother, elder brother, brother-in-law (spouse's older brother or older sister's husband)"
+          "vi": "older brother, elder brother, brother-in-law (spouse's older brother or older sister's husband)",
+          "en": ""
         },
         "romaji": "ani"
       },
@@ -334,7 +359,8 @@
         "example": "兄貴",
         "reading": "あにき",
         "meaning": {
-          "en": "elder brother, one's senior, older man, man older than oneself"
+          "en": "elder brother, one's senior, older man, man older than oneself",
+          "vi": "anh trai, người bề trên, người đàn ông lớn tuổi hơn mình"
         },
         "romaji": "aniki"
       },
@@ -342,7 +368,8 @@
         "example": "中の兄",
         "reading": "なかのあに",
         "meaning": {
-          "en": "middle brother"
+          "en": "middle brother",
+          "vi": "anh trai thứ"
         },
         "romaji": "nakanoani"
       },
@@ -350,14 +377,18 @@
         "example": "義理の兄",
         "reading": "ぎりのあに",
         "meaning": {
-          "vi": "one's brother-in-law, stepbrother (elder)"
+          "vi": "one's brother-in-law, stepbrother (elder)",
+          "en": ""
         },
         "romaji": "girinoani"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "儿",

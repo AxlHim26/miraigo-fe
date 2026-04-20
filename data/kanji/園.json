@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "sono",
-    "meaning": "garden",
+    "meaning": {
+      "en": "garden",
+      "vi": "vuon"
+    },
     "kstroke": 13,
     "examples": [
       {
         "japanese": "園芸（えんげい）",
         "meaning": {
-          "english": "horticulture, gardening"
+          "english": "horticulture, gardening",
+          "en": "horticulture, gardening",
+          "vi": "lam vuon, nghe lam vuon"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "園児（えんじ）",
         "meaning": {
-          "english": "kindergarten pupil"
+          "english": "kindergarten pupil",
+          "en": "kindergarten pupil",
+          "vi": "học sinh mẫu giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "公園（こうえん）",
         "meaning": {
-          "english": "park [n.]"
+          "english": "park [n.]",
+          "en": "park [n.]",
+          "vi": "cong vien"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "庭園（ていえん）",
         "meaning": {
-          "english": "garden, park"
+          "english": "garden, park",
+          "en": "garden, park",
+          "vi": "vuon, cong vien"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "楽園（らくえん）",
         "meaning": {
-          "english": "pleasure garden, paradise"
+          "english": "pleasure garden, paradise",
+          "en": "pleasure garden, paradise",
+          "vi": "vuon vui choi, thien duong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "遊園地（ゆうえんち）",
         "meaning": {
-          "english": "amusement park"
+          "english": "amusement park",
+          "en": "amusement park",
+          "vi": "cong vien giai tri"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "動物園（どうぶつえん）",
         "meaning": {
-          "english": "zoo, zoological gardens"
+          "english": "zoo, zoological gardens",
+          "en": "zoo, zoological gardens",
+          "vi": "vuon bach thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "果樹園（かじゅえん）",
         "meaning": {
-          "english": "orchard"
+          "english": "orchard",
+          "en": "orchard",
+          "vi": "vườn cây ăn quả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "幼稚園（ようちえん）",
         "meaning": {
-          "english": "kindergarten"
+          "english": "kindergarten",
+          "en": "kindergarten",
+          "vi": "truong mau giao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "園（その）",
         "meaning": {
-          "english": "garden, park, plantation"
+          "english": "garden, park, plantation",
+          "en": "garden, park, plantation",
+          "vi": "vuon, cong vien, khu trong trot"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "花園（はなぞの）",
         "meaning": {
-          "english": "flower garden"
+          "english": "flower garden",
+          "en": "flower garden",
+          "vi": "vườn hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(tei)en_06_k.opus",
@@ -282,7 +307,9 @@
     "kanji": {
       "character": "園",
       "meaning": {
-        "english": "garden"
+        "english": "garden",
+        "en": "garden",
+        "vi": "vuon"
       },
       "strokes": {
         "count": 13,
@@ -346,7 +373,9 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries",
+        "en": "border, territorial boundaries",
+        "vi": "biên giới, ranh giới lãnh thổ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -367,7 +396,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "628",
     "strokeCount": 13,
-    "meaning": "park, garden, yard, farm",
+    "meaning": {
+      "en": "park, garden, yard, farm",
+      "vi": "cong vien, vuon, san, trang trai"
+    },
     "kunyomi": [
       "その"
     ],
@@ -379,7 +411,8 @@
         "example": "園",
         "reading": "エン",
         "meaning": {
-          "vi": "garden, orchard, park, plantation, kindergarten, nursery school, preschool"
+          "vi": "garden, orchard, park, plantation, kindergarten, nursery school, preschool",
+          "en": "garden, orchard, park, plantation, kindergarten, nursery school, preschool"
         },
         "romaji": "en"
       },
@@ -387,7 +420,8 @@
         "example": "園芸",
         "reading": "エンゲイ",
         "meaning": {
-          "en": "horticulture, gardening"
+          "en": "horticulture, gardening",
+          "vi": "lam vuon, nghe lam vuon"
         },
         "romaji": "engei"
       },
@@ -395,7 +429,8 @@
         "example": "花園",
         "reading": "ハナゾノ",
         "meaning": {
-          "en": "flower garden"
+          "en": "flower garden",
+          "vi": "vườn hoa"
         },
         "romaji": "hanazono"
       },
@@ -403,7 +438,8 @@
         "example": "霊園",
         "reading": "レイエン",
         "meaning": {
-          "vi": "(garden) cemetery, park-style cemetery, memorial park"
+          "vi": "(garden) cemetery, park-style cemetery, memorial park",
+          "en": "(garden) cemetery, park-style cemetery, memorial park"
         },
         "romaji": "reien"
       }
@@ -413,7 +449,8 @@
         "example": "園",
         "reading": "その",
         "meaning": {
-          "vi": "garden, orchard, park, place, world, environment"
+          "vi": "garden, orchard, park, place, world, environment",
+          "en": "garden, orchard, park, place, world, environment"
         },
         "romaji": "sono"
       },
@@ -421,7 +458,8 @@
         "example": "園生",
         "reading": "えんせい",
         "meaning": {
-          "vi": "garden (esp. with trees), park"
+          "vi": "garden (esp. with trees), park",
+          "en": "garden (esp. with trees), park"
         },
         "romaji": "ensei"
       },
@@ -429,7 +467,8 @@
         "example": "竹の園",
         "reading": "たけのその",
         "meaning": {
-          "vi": "bamboo garden, Imperial family"
+          "vi": "bamboo garden, Imperial family",
+          "en": "bamboo garden, Imperial family"
         },
         "romaji": "takenosono"
       },
@@ -437,14 +476,18 @@
         "example": "女の園",
         "reading": "おんなのその",
         "meaning": {
-          "en": "woman's world, feminine environment"
+          "en": "woman's world, feminine environment",
+          "vi": "the gioi phu nu, moi truong nu tinh"
         },
         "romaji": "onnanosono"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": {
+        "en": "enclosure",
+        "vi": "vòng bao, khu bao quanh"
+      }
     },
     "parts": [
       "口",
@@ -459,5 +502,7 @@
   },
   "hanViet": [
     "viên"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Khung vien bao quanh ben ngoai, ben trong la dat va cay coi. Nhin vao de nho 園 la vuon, cong vien."
 }

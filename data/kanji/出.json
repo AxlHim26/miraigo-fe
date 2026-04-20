@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 50,
     "kunyomi": "de, da, deru, dasu",
-    "meaning": "go out, put out",
+    "meaning": {
+      "en": "go out, put out",
+      "vi": "đi ra, đưa ra"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "出身（しゅっしん）",
         "meaning": {
-          "english": "birth place, alma mater"
+          "english": "birth place, alma mater",
+          "en": "birth place, alma mater",
+          "vi": "quê quán, trường mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "出版社（しゅっぱんしゃ）",
         "meaning": {
-          "english": "publisher"
+          "english": "publisher",
+          "en": "publisher",
+          "vi": "nhà xuất bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "出席する（しゅっせきする）",
         "meaning": {
-          "english": "attend"
+          "english": "attend",
+          "en": "attend",
+          "vi": "tham dự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "出発する（しゅっぱつする）",
         "meaning": {
-          "english": "depart"
+          "english": "depart",
+          "en": "depart",
+          "vi": "khởi hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "輸出する（ゆしゅつする）",
         "meaning": {
-          "english": "export"
+          "english": "export",
+          "en": "export",
+          "vi": "xuất khẩu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "外出する（がいしゅつする）",
         "meaning": {
-          "english": "go out"
+          "english": "go out",
+          "en": "go out",
+          "vi": "đi ra ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "出納（すいとう）",
         "meaning": {
-          "english": "receipts and expenditure"
+          "english": "receipts and expenditure",
+          "en": "receipts and expenditure",
+          "vi": "thu chi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "出る（でる）",
         "meaning": {
-          "english": "come out [v.i.]"
+          "english": "come out [v.i.]",
+          "en": "come out [v.i.]",
+          "vi": "đi ra, xuất hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "出かける（でかける）",
         "meaning": {
-          "english": "go out"
+          "english": "go out",
+          "en": "go out",
+          "vi": "đi ra ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "出す（だす）",
         "meaning": {
-          "english": "put out, send [v.t.]"
+          "english": "put out, send [v.t.]",
+          "en": "put out, send [v.t.]",
+          "vi": "đưa ra, gửi đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "引き出し（ひきだし）",
         "meaning": {
-          "english": "drawer"
+          "english": "drawer",
+          "en": "drawer",
+          "vi": "ngăn kéo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/de(ru)_06_k.opus",
@@ -302,7 +327,9 @@
     "kanji": {
       "character": "出",
       "meaning": {
-        "english": "go out, put out"
+        "english": "go out, put out",
+        "en": "go out, put out",
+        "vi": "đi ra, đưa ra"
       },
       "strokes": {
         "count": 5,
@@ -350,7 +377,9 @@
         "romaji": "kannyou"
       },
       "meaning": {
-        "english": "container, open box"
+        "english": "container, open box",
+        "en": "container, open box",
+        "vi": "hộp chứa, hộp mở"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kannyou0.svg",
@@ -371,7 +400,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "13",
     "strokeCount": 5,
-    "meaning": "exit, leave, go out, come out, put out, protrude",
+    "meaning": {
+      "en": "exit, leave, go out, come out, put out, protrude",
+      "vi": "ra, rời đi, đi ra, xuất hiện, đưa ra, nhô ra"
+    },
     "kunyomi": [
       "で.る",
       "-で",
@@ -389,7 +421,8 @@
         "example": "出",
         "reading": "シュツ",
         "meaning": {
-          "vi": "coming out, emerging, being born into (a certain family), being a native of (a particular place)"
+          "vi": "sự đi ra, xuất hiện, sinh ra trong (một gia đình nào đó), là người gốc ở (một nơi nào đó)",
+          "en": "coming out, emerging, being born into (a certain family), being a native of (a particular place)"
         },
         "romaji": "shutsu"
       },
@@ -397,7 +430,8 @@
         "example": "出演",
         "reading": "シュツエン",
         "meaning": {
-          "vi": "appearance (in a film, play, TV show, etc.), performance"
+          "vi": "sự xuất hiện (trong phim, kịch, chương trình TV...), phần biểu diễn",
+          "en": "appearance (in a film, play, TV show, etc.), performance"
         },
         "romaji": "shutsuen"
       },
@@ -405,7 +439,8 @@
         "example": "輩出",
         "reading": "ハイシュツ",
         "meaning": {
-          "vi": "producing (people) in great numbers, appearing one after the other"
+          "vi": "sản sinh nhiều người, xuất hiện nối tiếp nhau",
+          "en": "producing (people) in great numbers, appearing one after the other"
         },
         "romaji": "haishutsu"
       },
@@ -413,7 +448,8 @@
         "example": "歳出",
         "reading": "サイシュツ",
         "meaning": {
-          "vi": "annual expenditure"
+          "vi": "chi tiêu hằng năm",
+          "en": "annual expenditure"
         },
         "romaji": "saishutsu"
       },
@@ -421,7 +457,8 @@
         "example": "出納",
         "reading": "スイトウ",
         "meaning": {
-          "vi": "receipts and expenditure (disbursements)"
+          "vi": "thu và chi (các khoản giải ngân)",
+          "en": "receipts and expenditure (disbursements)"
         },
         "romaji": "suitou"
       },
@@ -429,7 +466,8 @@
         "example": "出納簿",
         "reading": "スイトウボ",
         "meaning": {
-          "en": "cashbook"
+          "en": "cashbook",
+          "vi": "sổ thu chi"
         },
         "romaji": "suitoubo"
       }
@@ -439,7 +477,8 @@
         "example": "出る",
         "reading": "でる",
         "meaning": {
-          "vi": "to leave, to exit, to go out, to come out, to get out, to leave (on a journey), to depart, to start out, to set out, to move forward, to come to, to get to, to lead to, to reach, to appear, to come out, to emerge, to surface, to come forth, to turn up, to be found, to be detected, to be discovered, to be exposed, to show, to be exhibited, to be on display, to appear (in print), to be published, to be announced, to be issued, to be listed, to come out, to attend, to participate, to take part, to enter (an event), to play in, to perform, to be stated, to be expressed, to come up, to be brought up, to be raised, to sell, to exceed, to go over, to stick out, to protrude, to break out, to occur, to start, to originate, to be produced, to come from, to be derived from, to be given, to get, to receive, to be offered, to be provided, to be presented, to be submitted, to be handed in, to be turned in, to be paid, to answer (phone, door, etc.), to get, to assume (an attitude), to act, to behave, to pick up (speed, etc.), to gain, to flow (e.g. tears), to run, to bleed, to graduate, to ejaculate, to cum"
+          "vi": "rời đi, thoát ra, đi ra, xuất hiện, đi khỏi, lên đường, khởi hành, bắt đầu đi, tiến lên, đến nơi, dẫn đến, đạt tới, lộ ra, nổi lên, được tìm thấy, bị phát hiện, được công bố, được trưng bày, được xuất bản, được thông báo, được phát hành, được liệt kê, tham dự, tham gia, góp mặt, xuất hiện trong sự kiện, biểu diễn, được nêu ra, được diễn đạt, được đưa lên, được nuôi dạy, bán ra, vượt quá, nhô ra, bùng phát, xảy ra, bắt đầu, bắt nguồn, được sản xuất, đến từ, bắt nguồn từ, được đưa cho, nhận được, được cung cấp, được trình bày, được nộp, được thanh toán, trả lời (điện thoại, cửa...), mang thái độ, hành xử, tăng lên, đạt được, chảy ra (như nước mắt), chảy, chảy máu, tốt nghiệp, xuất tinh",
+          "en": "to leave, to exit, to go out, to come out, to get out, to leave (on a journey), to depart, to start out, to set out, to move forward, to come to, to get to, to lead to, to reach, to appear, to come out, to emerge, to surface, to come forth, to turn up, to be found, to be detected, to be discovered, to be exposed, to show, to be exhibited, to be on display, to appear (in print), to be published, to be announced, to be issued, to be listed, to come out, to attend, to participate, to take part, to enter (an event), to play in, to perform, to be stated, to be expressed, to come up, to be brought up, to be raised, to sell, to exceed, to go over, to stick out, to protrude, to break out, to occur, to start, to originate, to be produced, to come from, to be derived from, to be given, to get, to receive, to be offered, to be provided, to be presented, to be submitted, to be handed in, to be turned in, to be paid, to answer (phone, door, etc.), to get, to assume (an attitude), to act, to behave, to pick up (speed, etc.), to gain, to flow (e.g. tears), to run, to bleed, to graduate, to ejaculate, to cum"
         },
         "romaji": "deru"
       },
@@ -447,7 +486,8 @@
         "example": "出る杭は打たれる",
         "reading": "でるくいはうたれる",
         "meaning": {
-          "vi": "the nail that sticks out gets hammered down, people that stick out too much get punished, tall trees catch much wind, people that excel at something become disliked"
+          "vi": "cái đinh nhô lên sẽ bị đóng xuống, người quá nổi bật sẽ bị trừng phạt, cây cao đón nhiều gió, người quá xuất sắc dễ bị ghét",
+          "en": "the nail that sticks out gets hammered down, people that stick out too much get punished, tall trees catch much wind, people that excel at something become disliked"
         },
         "romaji": "derukuihautareru"
       },
@@ -455,7 +495,8 @@
         "example": "出す",
         "reading": "だす",
         "meaning": {
-          "vi": "to take out, to get out, to put out, to reveal, to show, to submit (e.g. thesis), to turn in, to publish, to make public, to send (e.g. letter), to produce (a sound), to start (fire), to serve (food), ... out (e.g. to jump out, to carry out), to begin ..., to start to ..., to burst into ..."
+          "vi": "lấy ra, đưa ra, cho ra, tiết lộ, cho thấy, nộp (như luận văn), giao nộp, xuất bản, công khai, gửi đi (như thư), phát ra (âm thanh), nhóm lên (lửa), dọn ra (đồ ăn), ... ra, bắt đầu..., chợt bùng lên...",
+          "en": "to take out, to get out, to put out, to reveal, to show, to submit (e.g. thesis), to turn in, to publish, to make public, to send (e.g. letter), to produce (a sound), to start (fire), to serve (food), ... out (e.g. to jump out, to carry out), to begin ..., to start to ..., to burst into ..."
         },
         "romaji": "dasu"
       },
@@ -463,7 +504,8 @@
         "example": "出すことは舌を出すも嫌い",
         "reading": "だすことはしたをだすもきらい",
         "meaning": {
-          "vi": "being exceptionally stingy"
+          "vi": "cực kỳ keo kiệt",
+          "en": "being exceptionally stingy"
         },
         "romaji": "dasukotohashitawodasumokirai"
       },
@@ -471,14 +513,18 @@
         "example": "出でる",
         "reading": "いでる",
         "meaning": {
-          "en": "to go, to come"
+          "en": "to go, to come",
+          "vi": "đi, đến"
         },
         "romaji": "ideru"
       }
     ],
     "radical": {
       "symbol": "凵",
-      "meaning": "container, open mouth"
+      "meaning": {
+        "en": "container, open mouth",
+        "vi": "đồ chứa, miệng mở"
+      }
     },
     "parts": [
       "凵",
@@ -494,5 +540,7 @@
     "xuý",
     "xuất",
     "xích"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: hai ngọn núi chồng lên nhau nhô ra ngoài, nên 出 là đi ra.",
+  "jlpt": "N5"
 }

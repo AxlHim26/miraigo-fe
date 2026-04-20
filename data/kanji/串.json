@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "2139",
     "strokeCount": 7,
-    "meaning": "spit, skewer",
+    "meaning": {
+      "en": "spit, skewer",
+      "vi": "xiên, que xiên"
+    },
     "kunyomi": [
       "くし",
       "つらぬ.く"
@@ -23,7 +26,8 @@
         "example": "串",
         "reading": "くし",
         "meaning": {
-          "vi": "spit, skewer, proxy (computer server)"
+          "vi": "spit, skewer, proxy (computer server)",
+          "en": "spit, skewer, proxy (computer server)"
         },
         "meaningVN": "nhổ, xiên, proxy (máy chủ máy tính)",
         "hanViet": "quán",
@@ -34,7 +38,8 @@
         "example": "串揚げ",
         "reading": "くしあげ",
         "meaning": {
-          "vi": "kushiage, deep-fried skewered meat and vegetables"
+          "vi": "kushiage, deep-fried skewered meat and vegetables",
+          "en": "kushiage, deep-fried skewered meat and vegetables"
         },
         "meaningVN": "kushiage, thịt xiên và rau chiên giòn",
         "hanViet": "quán dương げ",
@@ -45,7 +50,8 @@
         "example": "牛串",
         "reading": "ぎゅうくし",
         "meaning": {
-          "en": "skewered beef"
+          "en": "skewered beef",
+          "vi": "thịt bò xiên"
         },
         "meaningVN": "thịt bò xiên",
         "hanViet": "ngưu quán",
@@ -56,7 +62,8 @@
         "example": "魚串",
         "reading": "うおぐし",
         "meaning": {
-          "en": "fish skewer, skewered fish"
+          "en": "fish skewer, skewered fish",
+          "vi": "cá xiên, cá xiên"
         },
         "meaningVN": "cá xiên, cá xiên",
         "hanViet": "ngư quán",
@@ -66,7 +73,10 @@
     ],
     "radical": {
       "symbol": "丨",
-      "meaning": "line"
+      "meaning": {
+        "en": "line",
+        "vi": "nét dọc"
+      }
     },
     "parts": [
       "口",

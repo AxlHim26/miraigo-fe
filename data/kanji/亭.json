@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1627",
     "strokeCount": 9,
-    "meaning": "pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name",
+    "meaning": {
+      "en": "pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name",
+      "vi": "đình, nhà hàng, dinh thự, vọng lâu, nhà nhỏ, tạp kỹ, nhạc sảnh, nghệ danh"
+    },
     "kunyomi": [],
     "onyomi": [
       "テイ",
@@ -19,7 +22,8 @@
         "example": "亭",
         "reading": "テイ",
         "meaning": {
-          "vi": "arbor, arbour, bower, pavilion, suffix forming the final part of the pseudonyms of some writers and performers, suffix forming the final part of the name of a restaurant"
+          "vi": "vọng lâu, chòi nghỉ, đình; hậu tố ở cuối bút danh của một số tác giả và nghệ sĩ; hậu tố ở cuối tên nhà hàng",
+          "en": "arbor, arbour, bower, pavilion, suffix forming the final part of the pseudonyms of some writers and performers, suffix forming the final part of the name of a restaurant"
         },
         "romaji": "tei"
       },
@@ -27,7 +31,8 @@
         "example": "亭主",
         "reading": "テイシュ",
         "meaning": {
-          "vi": "household head, master, host (e.g. of a tea gathering), innkeeper, owner (e.g. of a hotel), husband"
+          "vi": "chủ gia đình, chủ nhân, chủ tiệc (ví dụ trà hội), chủ quán trọ, chủ sở hữu (ví dụ khách sạn), người chồng",
+          "en": "household head, master, host (e.g. of a tea gathering), innkeeper, owner (e.g. of a hotel), husband"
         },
         "romaji": "teishu"
       },
@@ -35,7 +40,8 @@
         "example": "料亭",
         "reading": "リョウテイ",
         "meaning": {
-          "vi": "ryotei, traditional Japanese restaurant (esp. a luxurious one)"
+          "vi": "ryotei, nhà hàng truyền thống Nhật Bản (đặc biệt là loại cao cấp)",
+          "en": "ryotei, traditional Japanese restaurant (esp. a luxurious one)"
         },
         "romaji": "ryoutei"
       },
@@ -43,7 +49,8 @@
         "example": "亭々",
         "reading": "テイテイ",
         "meaning": {
-          "en": "lofty (tree)"
+          "en": "lofty (tree)",
+          "vi": "cao vút (cây)"
         },
         "romaji": "teitei"
       },
@@ -51,7 +58,8 @@
         "example": "亭",
         "reading": "テイ",
         "meaning": {
-          "vi": "arbor, arbour, bower, pavilion, suffix forming the final part of the pseudonyms of some writers and performers, suffix forming the final part of the name of a restaurant"
+          "vi": "vọng lâu, chòi nghỉ, đình; hậu tố ở cuối bút danh của một số tác giả và nghệ sĩ; hậu tố ở cuối tên nhà hàng",
+          "en": "arbor, arbour, bower, pavilion, suffix forming the final part of the pseudonyms of some writers and performers, suffix forming the final part of the name of a restaurant"
         },
         "romaji": "tei"
       }
@@ -59,7 +67,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "亅",

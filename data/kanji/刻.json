@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "kiza, kizamu, kizami",
-    "meaning": "engrave, carve, chop up, point of time",
+    "meaning": {
+      "en": "engrave, carve, chop up, point of time",
+      "vi": "engrave, carve, chop up, point of time"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "刻印（こくいん）",
         "meaning": {
-          "english": "carved seal"
+          "english": "carved seal",
+          "en": "carved seal",
+          "vi": "carved seal"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "刻一刻（こくいっこく）",
         "meaning": {
-          "english": "moment by moment"
+          "english": "moment by moment",
+          "en": "moment by moment",
+          "vi": "moment by moment"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "彫刻（ちょうこく）",
         "meaning": {
-          "english": "carving, engraving, sculpture"
+          "english": "carving, engraving, sculpture",
+          "en": "carving, engraving, sculpture",
+          "vi": "carving, engraving, sculpture"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "時刻（じこく）",
         "meaning": {
-          "english": "time, moment"
+          "english": "time, moment",
+          "en": "time, moment",
+          "vi": "time, moment"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "定刻（ていこく）",
         "meaning": {
-          "english": "appointed time"
+          "english": "appointed time",
+          "en": "appointed time",
+          "vi": "appointed time"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "即刻（そっこく）",
         "meaning": {
-          "english": "immediately, at once, instantly"
+          "english": "immediately, at once, instantly",
+          "en": "immediately, at once, instantly",
+          "vi": "immediately, at once, instantly"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "夕刻（ゆうこく）",
         "meaning": {
-          "english": "evening, evening hour"
+          "english": "evening, evening hour",
+          "en": "evening, evening hour",
+          "vi": "evening, evening hour"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "深刻な（しんこくな）",
         "meaning": {
-          "english": "serious"
+          "english": "serious",
+          "en": "serious",
+          "vi": "serious"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "遅刻する（ちこくする）",
         "meaning": {
-          "english": "be late [v.i.]"
+          "english": "be late [v.i.]",
+          "en": "be late [v.i.]",
+          "vi": "be late [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "刻む（きざむ）",
         "meaning": {
-          "english": "mince, carve, chop up, hash"
+          "english": "mince, carve, chop up, hash",
+          "en": "mince, carve, chop up, hash",
+          "vi": "mince, carve, chop up, hash"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "小刻みに（こきざみに）",
         "meaning": {
-          "english": "bit by bit"
+          "english": "bit by bit",
+          "en": "bit by bit",
+          "vi": "bit by bit"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "五分刻みに（ごふんきざみに）",
         "meaning": {
-          "english": "every 5 minutes"
+          "english": "every 5 minutes",
+          "en": "every 5 minutes",
+          "vi": "every 5 minutes"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kiza(mu)_06_l.opus",
@@ -265,7 +292,9 @@
     "kanji": {
       "character": "刻",
       "meaning": {
-        "english": "engrave, carve, chop up, point of time"
+        "english": "engrave, carve, chop up, point of time",
+        "en": "engrave, carve, chop up, point of time",
+        "vi": "engrave, carve, chop up, point of time"
       },
       "strokes": {
         "count": 8,
@@ -319,7 +348,9 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiem"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -340,7 +371,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "866",
     "strokeCount": 8,
-    "meaning": "engrave, cut fine, chop, hash, mince, time, carving",
+    "meaning": {
+      "en": "engrave, cut fine, chop, hash, mince, time, carving",
+      "vi": "khac, cat nho, bam, thai nho, thoi gian, su khac"
+    },
     "kunyomi": [
       "きざ.む",
       "きざ.み"
@@ -353,7 +387,8 @@
         "example": "刻",
         "reading": "コク",
         "meaning": {
-          "vi": "period of time (usu. a period of approx. two hours corresponding to one of the signs of the Chinese zodiac), carving, engraving, cutting, mincing, victory, strictness, cruelty"
+          "vi": "period of time (usu. a period of approx. two hours corresponding to one of the signs of the Chinese zodiac), carving, engraving, cutting, mincing, victory, strictness, cruelty",
+          "en": "period of time (usu. a period of approx. two hours corresponding to one of the signs of the Chinese zodiac), carving, engraving, cutting, mincing, victory, strictness, cruelty"
         },
         "romaji": "koku"
       },
@@ -361,7 +396,8 @@
         "example": "刻々",
         "reading": "コッコク",
         "meaning": {
-          "en": "moment by moment, hour by hour"
+          "en": "moment by moment, hour by hour",
+          "vi": "moment by moment, hour by hour"
         },
         "romaji": "kokkoku"
       },
@@ -369,7 +405,8 @@
         "example": "復刻",
         "reading": "フッコク",
         "meaning": {
-          "vi": "republication, reissue, reprinting, reproduction"
+          "vi": "republication, reissue, reprinting, reproduction",
+          "en": "republication, reissue, reprinting, reproduction"
         },
         "romaji": "fukkoku"
       },
@@ -377,7 +414,8 @@
         "example": "刻一刻",
         "reading": "コクイッコク",
         "meaning": {
-          "en": "moment by moment, hour by hour"
+          "en": "moment by moment, hour by hour",
+          "vi": "moment by moment, hour by hour"
         },
         "romaji": "kokuikkoku"
       }
@@ -387,7 +425,8 @@
         "example": "刻む",
         "reading": "きざむ",
         "meaning": {
-          "vi": "to mince, to cut fine, to chop up, to hash, to shred, to carve, to engrave, to chisel, to notch, to tick away (time), to beat out (e.g. rhythm), to record the passing moments, to etch (into one's mind), to remember distinctly, to have tattooed, to torment"
+          "vi": "to mince, to cut fine, to chop up, to hash, to shred, to carve, to engrave, to chisel, to notch, to tick away (time), to beat out (e.g. rhythm), to record the passing moments, to etch (into one's mind), to remember distinctly, to have tattooed, to torment",
+          "en": "to mince, to cut fine, to chop up, to hash, to shred, to carve, to engrave, to chisel, to notch, to tick away (time), to beat out (e.g. rhythm), to record the passing moments, to etch (into one's mind), to remember distinctly, to have tattooed, to torment"
         },
         "romaji": "kizamu"
       },
@@ -395,7 +434,8 @@
         "example": "刻み",
         "reading": "きざみ",
         "meaning": {
-          "vi": "mincing, cutting, chopping, notch, nick, rapping (a percussion instrument), beating, shredded tobacco, interval"
+          "vi": "mincing, cutting, chopping, notch, nick, rapping (a percussion instrument), beating, shredded tobacco, interval",
+          "en": "mincing, cutting, chopping, notch, nick, rapping (a percussion instrument), beating, shredded tobacco, interval"
         },
         "romaji": "kizami"
       },
@@ -403,7 +443,8 @@
         "example": "刻み足",
         "reading": "きざみあし",
         "meaning": {
-          "vi": "mincing steps"
+          "vi": "mincing steps",
+          "en": "mincing steps"
         },
         "romaji": "kizamiashi"
       }
@@ -413,7 +454,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiem"
+      }
     },
     "parts": [
       "ノ",
@@ -427,8 +471,10 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/523b.gif",
     "uri": "https://jisho.org/search/%E5%88%BB%23kanji"
   },
+  "jlpt": "N3",
   "hanViet": [
     "hặc",
     "khắc"
-  ]
+  ],
+  "mnemonic_vi": "Goi y cach nho: Dao 刂 khac tung net vao nen dat thanh dau moc thoi gian 刻."
 }

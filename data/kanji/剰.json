@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1448",
     "strokeCount": 11,
-    "meaning": "surplus, besides",
+    "meaning": {
+      "en": "surplus, besides",
+      "vi": "dư thừa, ngoài ra"
+    },
     "kunyomi": [
       "あまつさえ",
       "あま.り",
@@ -22,7 +25,8 @@
         "example": "剰余金",
         "reading": "ジョウヨキン",
         "meaning": {
-          "vi": "surplus, balance"
+          "vi": "surplus, balance",
+          "en": "surplus, balance"
         },
         "romaji": "jouyokin"
       },
@@ -30,7 +34,8 @@
         "example": "冗員",
         "reading": "ジョウイン",
         "meaning": {
-          "vi": "supernumerary, superfluous staff, excess personnel, useless staff"
+          "vi": "supernumerary, superfluous staff, excess personnel, useless staff",
+          "en": "supernumerary, superfluous staff, excess personnel, useless staff"
         },
         "romaji": "jouin"
       },
@@ -38,7 +43,8 @@
         "example": "余剰",
         "reading": "ヨジョウ",
         "meaning": {
-          "vi": "surplus, remainder, residue, margin, balance"
+          "vi": "surplus, remainder, residue, margin, balance",
+          "en": "surplus, remainder, residue, margin, balance"
         },
         "romaji": "yojou"
       },
@@ -46,7 +52,8 @@
         "example": "出生過剰",
         "reading": "シュッショウカジョウ",
         "meaning": {
-          "en": "excessive birth (rate)"
+          "en": "excessive birth (rate)",
+          "vi": "tỷ lệ sinh quá mức"
         },
         "romaji": "shusshoukajou"
       }
@@ -56,7 +63,8 @@
         "example": "剰え",
         "reading": "あまつさえ",
         "meaning": {
-          "en": "besides, moreover, in addition"
+          "en": "besides, moreover, in addition",
+          "vi": "ngoài ra, hơn nữa, thêm vào đó"
         },
         "romaji": "amatsusae"
       }
@@ -66,7 +74,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "ノ",
@@ -82,5 +93,6 @@
   "hanViet": [
     "thặng",
     "thừa"
-  ]
+  ],
+  "mnemonic_vi": "Sau khi chia xong vẫn còn phần dư, nên nhớ là thừa."
 }

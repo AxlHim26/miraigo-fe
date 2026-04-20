@@ -72,5 +72,11 @@
   "hanViet": [
     "lạng",
     "lưỡng"
-  ]
+  ],
+  "meaning": {
+    "en": "monme, 3.75 grams, (kokuji)",
+    "vi": "đơn vị monme, 3.75 gam"
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 匁 là chữ dùng cho đơn vị cân nhỏ, hãy nhớ như một quả cân tí hon."
 }

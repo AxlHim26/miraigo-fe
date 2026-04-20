@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "ba, bakeru, bakasu",
-    "meaning": "change into",
+    "meaning": {
+      "en": "change into",
+      "vi": "biến thành"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "変化する（へんかする）",
         "meaning": {
-          "english": "change [v.i.]"
+          "english": "change [v.i.]",
+          "en": "change [v.i.]",
+          "vi": "thay đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "強化する（きょうかする）",
         "meaning": {
-          "english": "strengthen"
+          "english": "strengthen",
+          "en": "strengthen",
+          "vi": "tăng cường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "悪化する（あっかする）",
         "meaning": {
-          "english": "grow worse"
+          "english": "grow worse",
+          "en": "grow worse",
+          "vi": "trở nên tệ hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "消化する（しょうかする）",
         "meaning": {
-          "english": "digest"
+          "english": "digest",
+          "en": "digest",
+          "vi": "tiêu hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "近代化する（きんだいかする）",
         "meaning": {
-          "english": "modernize"
+          "english": "modernize",
+          "en": "modernize",
+          "vi": "hiện đại hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "映画化する（えいがかする）",
         "meaning": {
-          "english": "adapt (a book) to film"
+          "english": "adapt (a book) to film",
+          "en": "adapt (a book) to film",
+          "vi": "chuyển thể (sách) thành phim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "化学（かがく）",
         "meaning": {
-          "english": "chemistry"
+          "english": "chemistry",
+          "en": "chemistry",
+          "vi": "hóa học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "化粧品（けしょうひん）",
         "meaning": {
-          "english": "cosmetics"
+          "english": "cosmetics",
+          "en": "cosmetics",
+          "vi": "mỹ phẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "化ける（ばける）",
         "meaning": {
-          "english": "appear in disguise [v.i.]"
+          "english": "appear in disguise [v.i.]",
+          "en": "appear in disguise [v.i.]",
+          "vi": "cải trang xuất hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "お化け（おばけ）",
         "meaning": {
-          "english": "ghost"
+          "english": "ghost",
+          "en": "ghost",
+          "vi": "ma quỷ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "化かす（ばかす）",
         "meaning": {
-          "english": "bewitch [v.t.]"
+          "english": "bewitch [v.t.]",
+          "en": "bewitch [v.t.]",
+          "vi": "mê hoặc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ba(keru)_06_k.opus",
@@ -285,7 +310,9 @@
     "kanji": {
       "character": "化",
       "meaning": {
-        "english": "change into"
+        "english": "change into",
+        "en": "change into",
+        "vi": "biến thành"
       },
       "strokes": {
         "count": 4,
@@ -331,7 +358,9 @@
         "romaji": "saji"
       },
       "meaning": {
-        "english": "spoon"
+        "english": "spoon",
+        "en": "spoon",
+        "vi": "cái thìa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/saji0.svg",
@@ -352,7 +381,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "89",
     "strokeCount": 4,
-    "meaning": "change, take the form of, influence, enchant, delude, -ization",
+    "meaning": {
+      "en": "change, take the form of, influence, enchant, delude, -ization",
+      "vi": "thay đổi, hóa thành, tác động, mê hoặc, đánh lừa, sự - hóa"
+    },
     "kunyomi": [
       "ば.ける",
       "ば.かす",
@@ -368,7 +400,8 @@
         "example": "化",
         "reading": "カ",
         "meaning": {
-          "en": "change to ..., becoming ..., making into ..., -ization, -ification"
+          "en": "change to ..., becoming ..., making into ..., -ization, -ification",
+          "vi": "biến thành..., trở thành..., làm thành..., sự - hóa"
         },
         "romaji": "ka"
       },
@@ -376,7 +409,8 @@
         "example": "化学",
         "reading": "カガク",
         "meaning": {
-          "en": "chemistry"
+          "en": "chemistry",
+          "vi": "hóa học"
         },
         "romaji": "kagaku"
       },
@@ -384,7 +418,8 @@
         "example": "機械化",
         "reading": "キカイカ",
         "meaning": {
-          "en": "mechanization, mechanisation"
+          "en": "mechanization, mechanisation",
+          "vi": "cơ giới hóa"
         },
         "romaji": "kikaika"
       },
@@ -392,7 +427,8 @@
         "example": "民営化",
         "reading": "ミンエイカ",
         "meaning": {
-          "vi": "privatization, privatisation"
+          "vi": "privatization, privatisation",
+          "en": "privatization, privatisation"
         },
         "romaji": "min'eika"
       },
@@ -400,7 +436,8 @@
         "example": "化粧",
         "reading": "ケショウ",
         "meaning": {
-          "vi": "make-up, makeup, cosmetics, decoration, dressing, veneer"
+          "vi": "make-up, makeup, cosmetics, decoration, dressing, veneer",
+          "en": "make-up, makeup, cosmetics, decoration, dressing, veneer"
         },
         "romaji": "keshou"
       },
@@ -408,7 +445,8 @@
         "example": "化粧水",
         "reading": "ケショウスイ",
         "meaning": {
-          "en": "skin lotion, face lotion"
+          "en": "skin lotion, face lotion",
+          "vi": "nước dưỡng da, lotion cho mặt"
         },
         "romaji": "keshousui"
       },
@@ -416,7 +454,8 @@
         "example": "応化",
         "reading": "オウゲ",
         "meaning": {
-          "vi": "assumption of a suitable form (by a buddha or bodhisattva)"
+          "vi": "assumption of a suitable form (by a buddha or bodhisattva)",
+          "en": "assumption of a suitable form (by a buddha or bodhisattva)"
         },
         "romaji": "ouge"
       },
@@ -424,7 +463,8 @@
         "example": "教化",
         "reading": "キョウケ",
         "meaning": {
-          "vi": "guidance, teaching people and leading them to Buddhism"
+          "vi": "guidance, teaching people and leading them to Buddhism",
+          "en": "guidance, teaching people and leading them to Buddhism"
         },
         "romaji": "kyouke"
       }
@@ -434,7 +474,8 @@
         "example": "化ける",
         "reading": "ばける",
         "meaning": {
-          "vi": "to take the form of (esp. in ref. to a spirit, fox, raccoon dog, etc.), to assume the shape of, to turn oneself into, to transform oneself into, to disguise oneself as, to change radically, to metamorphose, to improve unexpectedly and dramatically (esp. of an actor, artist, rikishi, etc.)"
+          "vi": "to take the form of (esp. in ref. to a spirit, fox, raccoon dog, etc.), to assume the shape of, to turn oneself into, to transform oneself into, to disguise oneself as, to change radically, to metamorphose, to improve unexpectedly and dramatically (esp. of an actor, artist, rikishi, etc.)",
+          "en": "to take the form of (esp. in ref. to a spirit, fox, raccoon dog, etc.), to assume the shape of, to turn oneself into, to transform oneself into, to disguise oneself as, to change radically, to metamorphose, to improve unexpectedly and dramatically (esp. of an actor, artist, rikishi, etc.)"
         },
         "romaji": "bakeru"
       },
@@ -442,7 +483,8 @@
         "example": "化かす",
         "reading": "ばかす",
         "meaning": {
-          "en": "to bewitch, to confuse, to enchant, to delude"
+          "en": "to bewitch, to confuse, to enchant, to delude",
+          "vi": "mê hoặc, làm rối trí, bỏ bùa, đánh lừa"
         },
         "romaji": "bakasu"
       },
@@ -450,14 +492,18 @@
         "example": "老ける",
         "reading": "ふける",
         "meaning": {
-          "vi": "to age, to grow old (esp. in appearance), to show marks of age"
+          "vi": "to age, to grow old (esp. in appearance), to show marks of age",
+          "en": "to age, to grow old (esp. in appearance), to show marks of age"
         },
         "romaji": "fukeru"
       }
     ],
     "radical": {
       "symbol": "匕",
-      "meaning": "spoon"
+      "meaning": {
+        "en": "spoon",
+        "vi": "cái thìa"
+      }
     },
     "parts": [
       "匕",
@@ -471,5 +517,7 @@
   "hanViet": [
     "hoa",
     "hoá"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Người 亻 đổi thành nét cong 匕, nhìn là nhớ sự biến hóa, thay đổi hình dạng."
 }

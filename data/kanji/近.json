@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "chika, chikai, chikaku",
-    "meaning": "near, recent",
+    "meaning": {
+      "en": "near, recent",
+      "vi": "gan day"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "近視（きんし）",
         "meaning": {
-          "english": "shortsightedness"
+          "english": "shortsightedness",
+          "en": "shortsightedness",
+          "vi": "can thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "近所（きんじょ）",
         "meaning": {
-          "english": "neighborhood"
+          "english": "neighborhood",
+          "en": "neighborhood",
+          "vi": "khu lan can"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "最近（さいきん）",
         "meaning": {
-          "english": "recently"
+          "english": "recently",
+          "en": "recently",
+          "vi": "gan day"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "近代（きんだい）",
         "meaning": {
-          "english": "modern"
+          "english": "modern",
+          "en": "modern",
+          "vi": "hien dai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "接近する（せっきんする）",
         "meaning": {
-          "english": "approach"
+          "english": "approach",
+          "en": "approach",
+          "vi": "tien lai gan, tiep can"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "近く（ちかく）",
         "meaning": {
-          "english": "nearby [n.]"
+          "english": "nearby [n.]",
+          "en": "nearby [n.]",
+          "vi": "vung lan can"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "近い（ちかい）",
         "meaning": {
-          "english": "nearby [adj.]"
+          "english": "nearby [adj.]",
+          "en": "nearby [adj.]",
+          "vi": "o gan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "近付く（ちかづく）",
         "meaning": {
-          "english": "come near, approach"
+          "english": "come near, approach",
+          "en": "come near, approach",
+          "vi": "den gan, tiep can"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "近道（ちかみち）",
         "meaning": {
-          "english": "shortcut"
+          "english": "shortcut",
+          "en": "shortcut",
+          "vi": "duong tat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "身近な（みぢかな）",
         "meaning": {
-          "english": "close, familiar"
+          "english": "close, familiar",
+          "en": "close, familiar",
+          "vi": "than can, quen thuoc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chika(ku)_06_j.opus",
@@ -278,7 +301,9 @@
     "kanji": {
       "character": "近",
       "meaning": {
-        "english": "near, recent"
+        "english": "near, recent",
+        "en": "near, recent",
+        "vi": "gan day"
       },
       "strokes": {
         "count": 7,
@@ -330,7 +355,9 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance",
+        "en": "road, walk, to advance",
+        "vi": "đường, đi, tiến lên"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -351,7 +378,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "194",
     "strokeCount": 7,
-    "meaning": "near, early, akin, tantamount",
+    "meaning": {
+      "en": "near, early, akin, tantamount",
+      "vi": "gan, som, tuong tu, xem nhu"
+    },
     "kunyomi": [
       "ちか.い"
     ],
@@ -364,7 +394,8 @@
         "example": "近畿",
         "reading": "キンキ",
         "meaning": {
-          "en": "Kinki (region around Osaka, Kyoto, Nara)"
+          "en": "Kinki (region around Osaka, Kyoto, Nara)",
+          "vi": "vung Kinki (quanh Osaka, Kyoto, Nara)"
         },
         "romaji": "kinki"
       },
@@ -372,7 +403,8 @@
         "example": "近海",
         "reading": "キンカイ",
         "meaning": {
-          "en": "coastal waters, adjacent seas"
+          "en": "coastal waters, adjacent seas",
+          "vi": "vung bien ven bo"
         },
         "romaji": "kinkai"
       },
@@ -380,7 +412,8 @@
         "example": "ごく最近",
         "reading": "ゴクサイキン",
         "meaning": {
-          "vi": "very recently, in the very recent past"
+          "vi": "very recently, in the very recent past",
+          "en": "very recently, in the very recent past"
         },
         "romaji": "gokusaikin"
       },
@@ -388,7 +421,8 @@
         "example": "至近",
         "reading": "シキン",
         "meaning": {
-          "en": "very near"
+          "en": "very near",
+          "vi": "rat gan"
         },
         "romaji": "shikin"
       },
@@ -396,7 +430,8 @@
         "example": "近流",
         "reading": "コンル",
         "meaning": {
-          "vi": "banishment (to a nearby province), the least severe of the three banishment punishments under the ritsuryō system"
+          "vi": "banishment (to a nearby province), the least severe of the three banishment punishments under the ritsuryō system",
+          "en": "banishment (to a nearby province), the least severe of the three banishment punishments under the ritsuryō system"
         },
         "romaji": "konru"
       }
@@ -406,7 +441,8 @@
         "example": "近い",
         "reading": "ちかい",
         "meaning": {
-          "vi": "near, close, short (distance), close (in time), soon, close (relationship), friendly, intimate, closely related, similar, almost the same, close to, nearly"
+          "vi": "near, close, short (distance), close (in time), soon, close (relationship), friendly, intimate, closely related, similar, almost the same, close to, nearly",
+          "en": "near, close, short (distance), close (in time), soon, close (relationship), friendly, intimate, closely related, similar, almost the same, close to, nearly"
         },
         "romaji": "chikai"
       },
@@ -414,7 +450,8 @@
         "example": "近いうちに",
         "reading": "ちかいうちに",
         "meaning": {
-          "en": "soon, shortly, before long"
+          "en": "soon, shortly, before long",
+          "vi": "som, chang bao lau nua"
         },
         "romaji": "chikaiuchini"
       }
@@ -426,7 +463,10 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": {
+        "en": "walk",
+        "vi": "đi bộ"
+      }
     },
     "parts": [
       "斤",
@@ -441,5 +481,7 @@
     "cấn",
     "cận",
     "ký"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Bo suoc la di chuyen, ben trong la cai riu gan sat ben minh. Nho 近 la gan, o gan."
 }

@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2315",
     "strokeCount": 12,
-    "meaning": "brilliant fabric design",
+    "meaning": {
+      "en": "brilliant fabric design",
+      "vi": "hoa văn vải rực rỡ"
+    },
     "kunyomi": [],
     "onyomi": [
       "ケン"
@@ -17,7 +20,8 @@
         "example": "絢爛",
         "reading": "ケンラン",
         "meaning": {
-          "en": "gorgeous, brilliant, dazzling, ornate, gaudy, flowery"
+          "en": "gorgeous, brilliant, dazzling, ornate, gaudy, flowery",
+          "vi": "lộng lẫy, rực rỡ, chói lọi, cầu kỳ, sặc sỡ, hoa mỹ"
         },
         "romaji": "kenran"
       },
@@ -25,7 +29,8 @@
         "example": "絢文",
         "reading": "ケンブン",
         "meaning": {
-          "vi": "colorful pattern, colourful pattern"
+          "vi": "hoa văn sặc sỡ",
+          "en": "colorful pattern, colourful pattern"
         },
         "romaji": "kenbun"
       }
@@ -36,7 +41,10 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": {
+        "en": "silk",
+        "vi": "lụa"
+      }
     },
     "parts": [
       "勹",

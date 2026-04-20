@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "utsu, utsusu, utsuru",
-    "meaning": "shift, move, transfer",
+    "meaning": {
+      "en": "shift, move, transfer",
+      "vi": "dịch chuyển, di chuyển, chuyển giao"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "移民（いみん）",
         "meaning": {
-          "english": "immigrant"
+          "english": "immigrant",
+          "en": "immigrant",
+          "vi": "người nhập cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "移動する（いどうする）",
         "meaning": {
-          "english": "move, transfer, migrate"
+          "english": "move, transfer, migrate",
+          "en": "move, transfer, migrate",
+          "vi": "di chuyển, chuyển giao, di cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "移転する（いてんする）",
         "meaning": {
-          "english": "move, move house"
+          "english": "move, move house",
+          "en": "move, move house",
+          "vi": "chuyển đi, chuyển nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "移植する（いしょくする）",
         "meaning": {
-          "english": "transplant, graft [v.t.]"
+          "english": "transplant, graft [v.t.]",
+          "en": "transplant, graft [v.t.]",
+          "vi": "cấy ghép, ghép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "移籍する（いせきする）",
         "meaning": {
-          "english": "change family or team"
+          "english": "change family or team",
+          "en": "change family or team",
+          "vi": "chuyển sang gia đình hoặc đội khác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "移住する（いじゅうする）",
         "meaning": {
-          "english": "migrate, immigrate, emigrate"
+          "english": "migrate, immigrate, emigrate",
+          "en": "migrate, immigrate, emigrate",
+          "vi": "di cư, nhập cư, xuất cư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "転移する（てんいする）",
         "meaning": {
-          "english": "spread, metastasize"
+          "english": "spread, metastasize",
+          "en": "spread, metastasize",
+          "vi": "lan rộng, di căn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "移る（うつる）",
         "meaning": {
-          "english": "move, spread, transfer [v.i.]"
+          "english": "move, spread, transfer [v.i.]",
+          "en": "move, spread, transfer [v.i.]",
+          "vi": "di chuyển, lan rộng, chuyển dịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "移す（うつす）",
         "meaning": {
-          "english": "move, spread, transfer [v.t.]"
+          "english": "move, spread, transfer [v.t.]",
+          "en": "move, spread, transfer [v.t.]",
+          "vi": "di chuyển, lan truyền, chuyển đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i-utsu(su)_06_i.opus",
@@ -217,7 +238,9 @@
     "kanji": {
       "character": "移",
       "meaning": {
-        "english": "shift, move, transfer"
+        "english": "shift, move, transfer",
+        "en": "shift, move, transfer",
+        "vi": "dịch chuyển, di chuyển, chuyển giao"
       },
       "strokes": {
         "count": 11,
@@ -277,7 +300,9 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain",
+        "en": "grain",
+        "vi": "hạt, ngũ cốc"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -298,7 +323,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "448",
     "strokeCount": 11,
-    "meaning": "shift, move, change, drift, catch (cold, fire), pass into",
+    "meaning": {
+      "en": "shift, move, change, drift, catch (cold, fire), pass into",
+      "vi": "dịch chuyển, di chuyển, thay đổi, trôi dạt, lây (cảm, lửa), chuyển sang"
+    },
     "kunyomi": [
       "うつ.る",
       "うつ.す"
@@ -311,7 +339,8 @@
         "example": "移行",
         "reading": "イコウ",
         "meaning": {
-          "vi": "transition, changeover, switchover, shift, transfer (of powers, weight, etc.), shift (e.g. of centre of gravity)"
+          "vi": "transition, changeover, switchover, shift, transfer (of powers, weight, etc.), shift (e.g. of centre of gravity)",
+          "en": "transition, changeover, switchover, shift, transfer (of powers, weight, etc.), shift (e.g. of centre of gravity)"
         },
         "romaji": "ikou"
       },
@@ -319,7 +348,8 @@
         "example": "移管",
         "reading": "イカン",
         "meaning": {
-          "en": "transfer of control"
+          "en": "transfer of control",
+          "vi": "chuyển giao quyền kiểm soát"
         },
         "romaji": "ikan"
       },
@@ -327,7 +357,8 @@
         "example": "転移",
         "reading": "テンイ",
         "meaning": {
-          "vi": "moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis)"
+          "vi": "moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis)",
+          "en": "moving (location, with the times, etc.), change, transition, metastasis, spread, transition (e.g. phase transition), transfer (of learning), transference (in psychoanalysis)"
         },
         "romaji": "ten'i"
       },
@@ -335,7 +366,8 @@
         "example": "変移",
         "reading": "ヘンイ",
         "meaning": {
-          "en": "change, alteration, transmutation, mutation"
+          "en": "change, alteration, transmutation, mutation",
+          "vi": "thay đổi, biến đổi, chuyển hóa, đột biến"
         },
         "romaji": "hen'i"
       }
@@ -345,7 +377,8 @@
         "example": "移る",
         "reading": "うつる",
         "meaning": {
-          "vi": "to move (house), to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a colour or scent, to be infected, to be contagious, to spread (as in fire)"
+          "vi": "to move (house), to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a colour or scent, to be infected, to be contagious, to spread (as in fire)",
+          "en": "to move (house), to transfer (department), to change the target of interest or concern, to elapse (passage of time), to be permeated by a colour or scent, to be infected, to be contagious, to spread (as in fire)"
         },
         "romaji": "utsuru"
       },
@@ -353,14 +386,18 @@
         "example": "移す",
         "reading": "うつす",
         "meaning": {
-          "vi": "to transfer (to a different place, group, etc.), to change, to swap, to substitute, to move to the next stage (of a plan, etc.), to divert (one's attention) to, to spend (time), to let (time) pass, to infect, to permeate something (with a color, smell, etc.)"
+          "vi": "to transfer (to a different place, group, etc.), to change, to swap, to substitute, to move to the next stage (of a plan, etc.), to divert (one's attention) to, to spend (time), to let (time) pass, to infect, to permeate something (with a color, smell, etc.)",
+          "en": "to transfer (to a different place, group, etc.), to change, to swap, to substitute, to move to the next stage (of a plan, etc.), to divert (one's attention) to, to spend (time), to let (time) pass, to infect, to permeate something (with a color, smell, etc.)"
         },
         "romaji": "utsusu"
       }
     ],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": {
+        "en": "grain",
+        "vi": "hạt, ngũ cốc"
+      }
     },
     "parts": [
       "夕",

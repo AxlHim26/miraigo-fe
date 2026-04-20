@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "picture",
+    "meaning": {
+      "en": "picture",
+      "vi": "hinh anh, buc tranh"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "映画（えいが）",
         "meaning": {
-          "english": "movie"
+          "english": "movie",
+          "en": "movie",
+          "vi": "phim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "漫画（まんが）",
         "meaning": {
-          "english": "comic"
+          "english": "comic",
+          "en": "comic",
+          "vi": "truyen hai, truyen tranh vui"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "絵画（かいが）",
         "meaning": {
-          "english": "painting"
+          "english": "painting",
+          "en": "painting",
+          "vi": "hoi hoa, tranh ve"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "画面（がめん）",
         "meaning": {
-          "english": "screen"
+          "english": "screen",
+          "en": "screen",
+          "vi": "man hinh, tam che"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "計画する（けいかくする）",
         "meaning": {
-          "english": "plan"
+          "english": "plan",
+          "en": "plan",
+          "vi": "ke hoach"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "企画する（きかくする）",
         "meaning": {
-          "english": "plan (e.g. project)"
+          "english": "plan (e.g. project)",
+          "en": "plan (e.g. project)",
+          "vi": "ke hoach, du an"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "画数（かくすう）",
         "meaning": {
-          "english": "stroke count"
+          "english": "stroke count",
+          "en": "stroke count",
+          "vi": "so net"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "画期的（かっきてき）",
         "meaning": {
-          "english": "epoch-making"
+          "english": "epoch-making",
+          "en": "epoch-making",
+          "vi": "mang tinh buoc ngoat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ei)ga_06_h.opus",
@@ -250,7 +269,9 @@
     "kanji": {
       "character": "画",
       "meaning": {
-        "english": "picture"
+        "english": "picture",
+        "en": "picture",
+        "vi": "hinh anh, buc tranh"
       },
       "strokes": {
         "count": 8,
@@ -304,7 +325,9 @@
         "romaji": "kannyou"
       },
       "meaning": {
-        "english": "container, open box"
+        "english": "container, open box",
+        "en": "container, open box",
+        "vi": "hộp chứa, hộp mở"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kannyou0.svg",
@@ -325,7 +348,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "199",
     "strokeCount": 8,
-    "meaning": "brush-stroke, picture",
+    "meaning": {
+      "en": "brush-stroke, picture",
+      "vi": "net but, buc tranh"
+    },
     "kunyomi": [
       "えが.く",
       "かく.する",
@@ -344,7 +370,8 @@
         "example": "絵",
         "reading": "エ",
         "meaning": {
-          "vi": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage"
+          "vi": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage",
+          "en": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage"
         },
         "romaji": "e"
       },
@@ -352,7 +379,8 @@
         "example": "画家",
         "reading": "ガカ",
         "meaning": {
-          "vi": "painter, artist"
+          "vi": "painter, artist",
+          "en": "painter, artist"
         },
         "romaji": "gaka"
       },
@@ -360,7 +388,8 @@
         "example": "洋画",
         "reading": "ヨウガ",
         "meaning": {
-          "vi": "Western painting, Western film, Western movie"
+          "vi": "Western painting, Western film, Western movie",
+          "en": "Western painting, Western film, Western movie"
         },
         "romaji": "youga"
       },
@@ -368,7 +397,8 @@
         "example": "邦画",
         "reading": "ホウガ",
         "meaning": {
-          "vi": "Japanese film, Japanese painting"
+          "vi": "Japanese film, Japanese painting",
+          "en": "Japanese film, Japanese painting"
         },
         "romaji": "houga"
       },
@@ -376,7 +406,8 @@
         "example": "画",
         "reading": "カク",
         "meaning": {
-          "en": "stroke (of a kanji)"
+          "en": "stroke (of a kanji)",
+          "vi": "net but, net chu"
         },
         "romaji": "kaku"
       },
@@ -384,7 +415,8 @@
         "example": "描く",
         "reading": "エガク",
         "meaning": {
-          "vi": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+          "vi": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)",
+          "en": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
         },
         "romaji": "egaku"
       },
@@ -392,7 +424,8 @@
         "example": "参画",
         "reading": "サンカク",
         "meaning": {
-          "vi": "taking part (in planning), participation"
+          "vi": "taking part (in planning), participation",
+          "en": "taking part (in planning), participation"
         },
         "romaji": "sankaku"
       },
@@ -400,7 +433,8 @@
         "example": "家族計画",
         "reading": "カゾクケイカク",
         "meaning": {
-          "vi": "family planning"
+          "vi": "family planning",
+          "en": "family planning"
         },
         "romaji": "kazokukeikaku"
       },
@@ -408,7 +442,8 @@
         "example": "絵",
         "reading": "エ",
         "meaning": {
-          "vi": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage"
+          "vi": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage",
+          "en": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage"
         },
         "romaji": "e"
       },
@@ -416,7 +451,8 @@
         "example": "描く",
         "reading": "エガク",
         "meaning": {
-          "vi": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+          "vi": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)",
+          "en": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
         },
         "romaji": "egaku"
       },
@@ -424,7 +460,8 @@
         "example": "似顔絵",
         "reading": "ニガオエ",
         "meaning": {
-          "vi": "portrait, likeness, sketch (of a face)"
+          "vi": "portrait, likeness, sketch (of a face)",
+          "en": "portrait, likeness, sketch (of a face)"
         },
         "romaji": "nigaoe"
       },
@@ -432,7 +469,8 @@
         "example": "影絵",
         "reading": "カゲエ",
         "meaning": {
-          "vi": "shadow picture, silhouette, shadowgraph"
+          "vi": "shadow picture, silhouette, shadowgraph",
+          "en": "shadow picture, silhouette, shadowgraph"
         },
         "romaji": "kagee"
       }
@@ -442,7 +480,8 @@
         "example": "描く",
         "reading": "えがく",
         "meaning": {
-          "vi": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
+          "vi": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)",
+          "en": "to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)"
         },
         "romaji": "egaku"
       },
@@ -450,14 +489,18 @@
         "example": "画する",
         "reading": "かくする",
         "meaning": {
-          "vi": "to draw (a line), to demarcate, to mark, to divide, to map out, to plan"
+          "vi": "to draw (a line), to demarcate, to mark, to divide, to map out, to plan",
+          "en": "to draw (a line), to demarcate, to mark, to divide, to map out, to plan"
         },
         "romaji": "kakusuru"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": {
+        "en": "field",
+        "vi": "field"
+      }
     },
     "parts": [
       "一",
@@ -472,5 +515,7 @@
   "hanViet": [
     "hoạ",
     "hoạch"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Khung duong net nhu chia mat phang thanh tung o. Rat de lien tuong 画 la ve tranh, do hoa."
 }

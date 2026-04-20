@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2055",
     "strokeCount": 7,
-    "meaning": "spine, backbone",
+    "meaning": {
+      "en": "spine, backbone",
+      "vi": "xương sống, cột sống"
+    },
     "kunyomi": [
       "せぼね"
     ],
@@ -21,7 +24,8 @@
         "example": "蝋色漆",
         "reading": "ロイロウルシ",
         "meaning": {
-          "en": "black lacquer"
+          "en": "black lacquer",
+          "vi": "sơn đen"
         },
         "romaji": "roirourushi"
       },
@@ -29,7 +33,8 @@
         "example": "呂律",
         "reading": "ロレツ",
         "meaning": {
-          "en": "articulation"
+          "en": "articulation",
+          "vi": "sự phát âm rõ, khớp nối"
         },
         "romaji": "roretsu"
       },
@@ -37,7 +42,8 @@
         "example": "大呂",
         "reading": "タイリョ",
         "meaning": {
-          "vi": "second note of the ancient Chinese chromatic scale (approx. D sharp), twelfth lunar month"
+          "vi": "âm thứ hai của thang âm Trung Hoa cổ (xấp xỉ Rê thăng), tháng Chạp âm lịch",
+          "en": "second note of the ancient Chinese chromatic scale (approx. D sharp), twelfth lunar month"
         },
         "romaji": "tairyo"
       },
@@ -45,7 +51,8 @@
         "example": "仲呂",
         "reading": "チュウリョ",
         "meaning": {
-          "vi": "(in China) 6th note of the ancient chromatic scale (approx. G), fourth lunar month"
+          "vi": "(ở Trung Quốc) âm thứ sáu của thang âm cổ (xấp xỉ Sol), tháng tư âm lịch",
+          "en": "(in China) 6th note of the ancient chromatic scale (approx. G), fourth lunar month"
         },
         "romaji": "chuuryo"
       },
@@ -53,7 +60,8 @@
         "example": "呂",
         "reading": "リョ",
         "meaning": {
-          "vi": "bass range (in Japanese music), six even-numbered notes of the ancient chromatic scale, Japanese seven-tone gagaku scale similar to Mixolydian mode (corresp. to: re, mi, fa, so, la, ti, do)"
+          "vi": "âm vực trầm (trong nhạc Nhật), sáu âm chẵn của thang âm cổ, thang bảy âm gagaku của Nhật gần với điệu Mixolydian",
+          "en": "bass range (in Japanese music), six even-numbered notes of the ancient chromatic scale, Japanese seven-tone gagaku scale similar to Mixolydian mode (corresp. to: re, mi, fa, so, la, ti, do)"
         },
         "romaji": "ryo"
       },
@@ -61,7 +69,8 @@
         "example": "呂旋",
         "reading": "リョセン",
         "meaning": {
-          "vi": "Japanese seven-tone gagaku scale (corresponding to: so, la, ti, do, re, mi, fa), similar to Mixolydian mode"
+          "vi": "thang bảy âm gagaku của Nhật (tương ứng so, la, ti, do, re, mi, fa), gần với điệu Mixolydian",
+          "en": "Japanese seven-tone gagaku scale (corresponding to: so, la, ti, do, re, mi, fa), similar to Mixolydian mode"
         },
         "romaji": "ryosen"
       },
@@ -69,7 +78,8 @@
         "example": "大呂",
         "reading": "タイリョ",
         "meaning": {
-          "vi": "second note of the ancient Chinese chromatic scale (approx. D sharp), twelfth lunar month"
+          "vi": "âm thứ hai của thang âm Trung Hoa cổ (xấp xỉ Rê thăng), tháng Chạp âm lịch",
+          "en": "second note of the ancient Chinese chromatic scale (approx. D sharp), twelfth lunar month"
         },
         "romaji": "tairyo"
       },
@@ -77,7 +87,8 @@
         "example": "仲呂",
         "reading": "チュウリョ",
         "meaning": {
-          "vi": "(in China) 6th note of the ancient chromatic scale (approx. G), fourth lunar month"
+          "vi": "(ở Trung Quốc) âm thứ sáu của thang âm cổ (xấp xỉ Sol), tháng tư âm lịch",
+          "en": "(in China) 6th note of the ancient chromatic scale (approx. G), fourth lunar month"
         },
         "romaji": "chuuryo"
       }
@@ -85,7 +96,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "ノ",
@@ -99,5 +113,6 @@
   "hanViet": [
     "lã",
     "lữ"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: hai cái miệng xếp dọc như các đốt xương sống, nên gợi nghĩa cột sống."
 }

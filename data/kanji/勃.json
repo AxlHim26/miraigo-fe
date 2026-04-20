@@ -6,7 +6,10 @@
     "found": true,
     "taughtIn": "junior high",
     "strokeCount": 9,
-    "meaning": "suddenness, rise",
+    "meaning": {
+      "en": "suddenness, rise",
+      "vi": "sự đột ngột, sự trỗi dậy"
+    },
     "kunyomi": [
       "おこ.る",
       "にわかに"
@@ -20,7 +23,8 @@
         "example": "勃",
         "reading": "ボツ",
         "meaning": {
-          "vi": "Bulgaria, spirited, rising, energetic, sudden, abrupt"
+          "vi": "Bulgaria, hăng hái, bốc lên, trỗi dậy, đầy sinh khí, đột ngột",
+          "en": "Bulgaria, spirited, rising, energetic, sudden, abrupt"
         },
         "romaji": "botsu"
       },
@@ -28,7 +32,8 @@
         "example": "勃然",
         "reading": "ボツゼン",
         "meaning": {
-          "vi": "suddenly, all at once, flaring up (in anger), in a flare"
+          "vi": "đột nhiên, bỗng chốc, bùng lên vì giận",
+          "en": "suddenly, all at once, flaring up (in anger), in a flare"
         },
         "romaji": "botsuzen"
       },
@@ -36,7 +41,8 @@
         "example": "鬱勃",
         "reading": "ウツボツ",
         "meaning": {
-          "vi": "pent-up (energy, enthusiasm, etc.), burning (e.g. ambition), irrepressible (e.g. desire)"
+          "vi": "dồn nén, cháy bỏng như tham vọng, không kìm nén nổi",
+          "en": "pent-up (energy, enthusiasm, etc.), burning (e.g. ambition), irrepressible (e.g. desire)"
         },
         "romaji": "utsubotsu"
       },
@@ -44,7 +50,8 @@
         "example": "勃々",
         "reading": "ボツボツ",
         "meaning": {
-          "vi": "spirited, rising, energetic"
+          "vi": "sôi nổi, dâng lên, đầy sinh lực",
+          "en": "spirited, rising, energetic"
         },
         "romaji": "botsubotsu"
       }
@@ -52,7 +59,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "sức mạnh, lực"
+      }
     },
     "parts": [
       "冖",
@@ -67,5 +77,7 @@
   },
   "hanViet": [
     "bột"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Sức lực 力 bùng lên đột ngột nên 勃 mang ý bốc lên, trỗi dậy."
 }

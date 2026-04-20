@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1776",
     "strokeCount": 11,
-    "meaning": "plug up, obstruct",
+    "meaning": {
+      "en": "plug up, obstruct",
+      "vi": "bịt kín, ngăn trở"
+    },
     "kunyomi": [],
     "onyomi": [
       "チツ"
@@ -18,7 +21,8 @@
         "example": "脱窒",
         "reading": "ダッチツ",
         "meaning": {
-          "en": "denitrification, denitration"
+          "en": "denitrification, denitration",
+          "vi": "khử nitrat, khử đạm"
         },
         "romaji": "datchitsu"
       }
@@ -26,7 +30,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "穴",
-      "meaning": "cave"
+      "meaning": {
+        "en": "cave",
+        "vi": "hang"
+      }
     },
     "parts": [
       "一",
@@ -45,5 +52,7 @@
   "hanViet": [
     "chất",
     "trất"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Trong mái hang có vật chặn kín lối, nên nhớ là bịt lại và làm tắc nghẽn."
 }

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2141",
     "strokeCount": 17,
-    "meaning": "menacing, dignity, majesty, threaten",
+    "meaning": {
+      "en": "menacing, dignity, majesty, threaten",
+      "vi": "đe dọa, uy nghi, oai nghiêm, hăm dọa"
+    },
     "kunyomi": [
       "おど.す"
     ],
@@ -20,7 +23,8 @@
         "example": "赫々",
         "reading": "カクカク",
         "meaning": {
-          "en": "brilliant, bright, glorious"
+          "en": "brilliant, bright, glorious",
+          "vi": "rực rỡ, sáng chói, vẻ vang"
         },
         "romaji": "kakukaku"
       },
@@ -28,7 +32,8 @@
         "example": "嚇す",
         "reading": "カクス",
         "meaning": {
-          "en": "to threaten, to menace"
+          "en": "to threaten, to menace",
+          "vi": "đe dọa, hăm dọa"
         },
         "romaji": "kakusu"
       },
@@ -36,7 +41,8 @@
         "example": "威嚇",
         "reading": "イカク",
         "meaning": {
-          "en": "threat, intimidation, menace"
+          "en": "threat, intimidation, menace",
+          "vi": "sự đe dọa, sự uy hiếp, mối đe dọa"
         },
         "romaji": "ikaku"
       },
@@ -44,7 +50,8 @@
         "example": "恐嚇",
         "reading": "キョウカク",
         "meaning": {
-          "en": "intimidation, threat"
+          "en": "intimidation, threat",
+          "vi": "sự uy hiếp, sự đe dọa"
         },
         "romaji": "kyoukaku"
       }
@@ -54,14 +61,18 @@
         "example": "脅す",
         "reading": "おどす",
         "meaning": {
-          "en": "to threaten, to menace, to frighten (into doing)"
+          "en": "to threaten, to menace, to frighten (into doing)",
+          "vi": "đe dọa, hăm dọa, dọa cho phải làm"
         },
         "romaji": "odosu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -75,5 +86,7 @@
   },
   "hanViet": [
     "hách"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng 口 phát ra lời dữ dằn làm người khác sợ, nên 嚇 là hăm dọa."
 }

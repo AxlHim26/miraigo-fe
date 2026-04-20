@@ -7,13 +7,17 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "arasou, arasoi, araso",
-    "meaning": "contend, dispute, argue",
+    "meaning": {
+      "en": "contend, dispute, argue",
+      "vi": "tranh giành, tranh chấp, cãi vã"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "競争する（きょうそうする）",
         "meaning": {
-          "english": "compete"
+          "en": "compete",
+          "vi": "hoàn thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-araso(u)_06_a.opus",
@@ -28,7 +32,8 @@
       {
         "japanese": "戦争（せんそう）",
         "meaning": {
-          "english": "war"
+          "en": "war",
+          "vi": "chiến tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-araso(u)_06_b.opus",
@@ -43,7 +48,8 @@
       {
         "japanese": "紛争（ふんそう）",
         "meaning": {
-          "english": "dispute"
+          "en": "dispute",
+          "vi": "tranh luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-araso(u)_06_c.opus",
@@ -58,7 +64,8 @@
       {
         "japanese": "論争（ろんそう）",
         "meaning": {
-          "english": "controversy, dispute"
+          "en": "controversy, dispute",
+          "vi": "tranh cãi, tranh chấp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-araso(u)_06_d.opus",
@@ -73,7 +80,8 @@
       {
         "japanese": "闘争（とうそう）",
         "meaning": {
-          "english": "strife, conflict"
+          "en": "strife, conflict",
+          "vi": "xung đột, xung đột"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-araso(u)_06_e.opus",
@@ -88,7 +96,8 @@
       {
         "japanese": "争点（そうてん）",
         "meaning": {
-          "english": "point at issue"
+          "en": "point at issue",
+          "vi": "điểm vào vấn đề"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-araso(u)_06_f.opus",
@@ -103,7 +112,8 @@
       {
         "japanese": "争う（あらそう）",
         "meaning": {
-          "english": "dispute, argue, compete"
+          "en": "dispute, argue, compete",
+          "vi": "tranh luận, tranh luận, cạnh tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-araso(u)_06_g.opus",
@@ -258,7 +268,8 @@
     "kanji": {
       "character": "争",
       "meaning": {
-        "english": "contend, dispute, argue"
+        "en": "contend, dispute, argue",
+        "vi": "tranh giành, tranh chấp, cãi vã"
       },
       "strokes": {
         "count": 6,
@@ -308,7 +319,8 @@
         "romaji": "hanebou"
       },
       "meaning": {
-        "english": "vertical stroke with a hook"
+        "en": "vertical stroke with a hook",
+        "vi": "nét sổ có móc"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hanebou0.svg",
@@ -329,7 +341,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "271",
     "strokeCount": 6,
-    "meaning": "contend, dispute, argue",
+    "meaning": {
+      "en": "contend, dispute, argue",
+      "vi": "tranh giành, tranh chấp, cãi vã"
+    },
     "kunyomi": [
       "あらそ.う",
       "いか.でか"
@@ -342,7 +357,8 @@
         "example": "争奪",
         "reading": "ソウダツ",
         "meaning": {
-          "en": "struggle (for), scramble, contest"
+          "en": "struggle (for), scramble, contest",
+          "vi": "đấu tranh (vì), tranh giành, tranh giành"
         },
         "meaningVN": "đấu tranh (vì), tranh giành, tranh giành",
         "hanViet": "tranh đoạt",
@@ -353,7 +369,8 @@
         "example": "争議",
         "reading": "ソウギ",
         "meaning": {
-          "vi": "dispute, quarrel, strike"
+          "en": "dispute, quarrel, strike",
+          "vi": "tranh chấp, cãi vã, đình công"
         },
         "meaningVN": "tranh chấp, cãi vã, đình công",
         "hanViet": "tranh nghị",
@@ -364,7 +381,8 @@
         "example": "係争",
         "reading": "ケイソウ",
         "meaning": {
-          "vi": "dispute, contention, conflict, controversy"
+          "en": "dispute, contention, conflict, controversy",
+          "vi": "sự tranh cãi, sự tranh cãi, sự xung đột, sự tranh cãi"
         },
         "meaningVN": "sự tranh cãi, sự tranh cãi, sự xung đột, sự tranh cãi",
         "hanViet": "hệ tranh",
@@ -375,7 +393,8 @@
         "example": "政争",
         "reading": "セイソウ",
         "meaning": {
-          "vi": "political strife"
+          "en": "political strife",
+          "vi": "xung đột chính trị"
         },
         "meaningVN": "xung đột chính trị",
         "hanViet": "chinh tranh",
@@ -388,7 +407,8 @@
         "example": "争う",
         "reading": "あらそう",
         "meaning": {
-          "vi": "to compete, to contest, to contend, to quarrel, to argue, to dispute, to be at variance, to oppose, to deny (e.g. evidence)"
+          "en": "to compete, to contest, to contend, to quarrel, to argue, to dispute, to be at variance, to oppose, to deny (e.g. evidence)",
+          "vi": "cạnh tranh, tranh cãi, tranh luận, cãi vã, tranh luận, tranh luận, không đồng tình, phản đối, phủ nhận (ví dụ: bằng chứng)"
         },
         "meaningVN": "cạnh tranh, tranh cãi, tranh luận, cãi vã, tranh luận, tranh luận, không đồng tình, phản đối, phủ nhận (ví dụ: bằng chứng)",
         "hanViet": "tranh う",
@@ -399,7 +419,8 @@
         "example": "争うべからざる",
         "reading": "あらそうべからざる",
         "meaning": {
-          "vi": "indisputable"
+          "en": "indisputable",
+          "vi": "không thể chối cãi"
         },
         "meaningVN": "không thể chối cãi",
         "hanViet": "tranh う べ か ら ざ る",
@@ -409,7 +430,10 @@
     ],
     "radical": {
       "symbol": "亅",
-      "meaning": "hook"
+      "meaning": {
+        "en": "hook",
+        "vi": "móc"
+      }
     },
     "parts": [
       "ヨ",

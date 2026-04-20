@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1620",
     "strokeCount": 6,
-    "meaning": "inferiority, be inferior to, be worse",
+    "meaning": {
+      "en": "inferiority, be inferior to, be worse",
+      "vi": "su kem coi, kem hon, te hon"
+    },
     "kunyomi": [
       "おと.る"
     ],
@@ -20,7 +23,8 @@
         "example": "劣",
         "reading": "レツ",
         "meaning": {
-          "en": "sub-, inferior, minor"
+          "en": "sub-, inferior, minor",
+          "vi": "sub-, inferior, minor"
         },
         "romaji": "retsu"
       },
@@ -28,7 +32,8 @@
         "example": "劣悪",
         "reading": "レツアク",
         "meaning": {
-          "vi": "poor (quality, conditions, etc.), bad, inferior, poor-quality"
+          "vi": "poor (quality, conditions, etc.), bad, inferior, poor-quality",
+          "en": "poor (quality, conditions, etc.), bad, inferior, poor-quality"
         },
         "romaji": "retsuaku"
       },
@@ -36,7 +41,8 @@
         "example": "卑劣",
         "reading": "ヒレツ",
         "meaning": {
-          "vi": "mean, contemptible, despicable, dirty, foul, cowardly, base"
+          "vi": "mean, contemptible, despicable, dirty, foul, cowardly, base",
+          "en": "mean, contemptible, despicable, dirty, foul, cowardly, base"
         },
         "romaji": "hiretsu"
       },
@@ -44,7 +50,8 @@
         "example": "拙劣",
         "reading": "セツレツ",
         "meaning": {
-          "en": "clumsy, unskillful"
+          "en": "clumsy, unskillful",
+          "vi": "clumsy, unskillful"
         },
         "romaji": "setsuretsu"
       }
@@ -54,14 +61,18 @@
         "example": "劣る",
         "reading": "おとる",
         "meaning": {
-          "en": "to be inferior to, to be less good at, to fall behind"
+          "en": "to be inferior to, to be less good at, to fall behind",
+          "vi": "thua kem, kem hon, bi tut lai"
         },
         "romaji": "otoru"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "suc manh, luc"
+      }
     },
     "parts": [
       "ノ",
@@ -73,7 +84,9 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52a3.gif",
     "uri": "https://jisho.org/search/%E5%8A%A3%23kanji"
   },
+  "jlpt": "N1",
   "hanViet": [
     "liệt"
-  ]
+  ],
+  "mnemonic_vi": "Goi y cach nho: It suc hon nguoi khac nen kem hon, do la 劣."
 }

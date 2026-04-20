@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 3,
     "kunyomi": "sona, sonaeru, sonawaru",
-    "meaning": "provide, furnish",
+    "meaning": {
+      "en": "provide, furnish",
+      "vi": "cung cấp, trang bị"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "準備（じゅんび）",
         "meaning": {
-          "english": "preparation"
+          "english": "preparation",
+          "en": "preparation",
+          "vi": "sự chuẩn bị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-sona(eru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "予備（よび）",
         "meaning": {
-          "english": "spare"
+          "english": "spare",
+          "en": "spare",
+          "vi": "dự phòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-sona(eru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "軍備（ぐんび）",
         "meaning": {
-          "english": "armament"
+          "english": "armament",
+          "en": "armament",
+          "vi": "vũ trang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-sona(eru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "設備（せつび）",
         "meaning": {
-          "english": "facilities"
+          "english": "facilities",
+          "en": "facilities",
+          "vi": "cơ sở vật chất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-sona(eru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "防備（ぼうび）",
         "meaning": {
-          "english": "defensive preparation"
+          "english": "defensive preparation",
+          "en": "defensive preparation",
+          "vi": "sự chuẩn bị phòng thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-sona(eru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "準備する（じゅんびする）",
         "meaning": {
-          "english": "prepare"
+          "english": "prepare",
+          "en": "prepare",
+          "vi": "chuẩn bị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-sona(eru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "警備する（けいびする）",
         "meaning": {
-          "english": "guard"
+          "english": "guard",
+          "en": "guard",
+          "vi": "canh gác, bảo vệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-sona(eru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "備える（そなえる）",
         "meaning": {
-          "english": "get equipped, get ready"
+          "english": "get equipped, get ready",
+          "en": "get equipped, get ready",
+          "vi": "chuẩn bị sẵn sàng, tự trang bị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-sona(eru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "備わる（そなわる）",
         "meaning": {
-          "english": "be equipped"
+          "english": "be equipped",
+          "en": "be equipped",
+          "vi": "được trang bị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bi-sona(eru)_06_i.opus",
@@ -239,7 +260,9 @@
     "kanji": {
       "character": "備",
       "meaning": {
-        "english": "provide, furnish"
+        "english": "provide, furnish",
+        "en": "provide, furnish",
+        "vi": "cung cấp, trang bị"
       },
       "strokes": {
         "count": 12,
@@ -301,7 +324,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -322,7 +347,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "356",
     "strokeCount": 12,
-    "meaning": "equip, provision, preparation",
+    "meaning": {
+      "en": "equip, provision, preparation",
+      "vi": "trang bị, sự cung ứng, sự chuẩn bị"
+    },
     "kunyomi": [
       "そな.える",
       "そな.わる",
@@ -336,7 +364,8 @@
         "example": "備蓄",
         "reading": "ビチク",
         "meaning": {
-          "vi": "stocking up (in case of emergency), stockpile, reserves, storing, laying in (supplies)"
+          "vi": "stocking up (in case of emergency), stockpile, reserves, storing, laying in (supplies)",
+          "en": "stocking up (in case of emergency), stockpile, reserves, storing, laying in (supplies)"
         },
         "romaji": "bichiku"
       },
@@ -344,7 +373,8 @@
         "example": "備考",
         "reading": "ビコウ",
         "meaning": {
-          "en": "note (for reference), remarks, N.B."
+          "en": "note (for reference), remarks, N.B.",
+          "vi": "ghi chú (để tham khảo), lời chú thích, lưu ý"
         },
         "romaji": "bikou"
       },
@@ -352,7 +382,8 @@
         "example": "配備",
         "reading": "ハイビ",
         "meaning": {
-          "vi": "deployment, disposition, posting, stationing"
+          "vi": "deployment, disposition, posting, stationing",
+          "en": "deployment, disposition, posting, stationing"
         },
         "romaji": "haibi"
       },
@@ -360,7 +391,8 @@
         "example": "無防備",
         "reading": "ムボウビ",
         "meaning": {
-          "vi": "defenseless, defenceless, unprotected, vulnerable"
+          "vi": "defenseless, defenceless, unprotected, vulnerable",
+          "en": "defenseless, defenceless, unprotected, vulnerable"
         },
         "romaji": "muboubi"
       }
@@ -370,7 +402,8 @@
         "example": "備える",
         "reading": "そなえる",
         "meaning": {
-          "vi": "to furnish with, to equip with, to provide, to install, to prepare for, to make preparations for, to make provision for, to possess (all that is needed), to be endowed with, to be equipped with, to be born with, to have since birth"
+          "vi": "to furnish with, to equip with, to provide, to install, to prepare for, to make preparations for, to make provision for, to possess (all that is needed), to be endowed with, to be equipped with, to be born with, to have since birth",
+          "en": "to furnish with, to equip with, to provide, to install, to prepare for, to make preparations for, to make provision for, to possess (all that is needed), to be endowed with, to be equipped with, to be born with, to have since birth"
         },
         "romaji": "sonaeru"
       },
@@ -378,7 +411,8 @@
         "example": "備わる",
         "reading": "そなわる",
         "meaning": {
-          "vi": "to be furnished with, to be provided with, to be equipped with, to be possessed of, to be endowed with, to be gifted with, to be among, to be one of"
+          "vi": "to be furnished with, to be provided with, to be equipped with, to be possessed of, to be endowed with, to be gifted with, to be among, to be one of",
+          "en": "to be furnished with, to be provided with, to be equipped with, to be possessed of, to be endowed with, to be gifted with, to be among, to be one of"
         },
         "romaji": "sonawaru"
       },
@@ -386,7 +420,8 @@
         "example": "具に",
         "reading": "つぶさに",
         "meaning": {
-          "vi": "in detail, with great care, completely, fully"
+          "vi": "in detail, with great care, completely, fully",
+          "en": "in detail, with great care, completely, fully"
         },
         "romaji": "tsubusani"
       }
@@ -396,7 +431,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

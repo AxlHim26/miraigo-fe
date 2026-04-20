@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 4,
     "kunyomi": "manuka, manukareru",
-    "meaning": "exempt, escape, avoid",
+    "meaning": {
+      "en": "exempt, escape, avoid",
+      "vi": "miễn trừ, thoát khỏi, tránh"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "免許（めんきょ）",
         "meaning": {
-          "english": "license, certificate"
+          "english": "license, certificate",
+          "en": "license, certificate",
+          "vi": "giấy phép, chứng chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/manuga(reru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "免税（めんぜい）",
         "meaning": {
-          "english": "tax exemption"
+          "english": "tax exemption",
+          "en": "tax exemption",
+          "vi": "miễn thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/manuga(reru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "免疫（めんえき）",
         "meaning": {
-          "english": "immunity"
+          "english": "immunity",
+          "en": "immunity",
+          "vi": "miễn dịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/manuga(reru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "免責する（めんせきする）",
         "meaning": {
-          "english": "exempt from responsibility"
+          "english": "exempt from responsibility",
+          "en": "exempt from responsibility",
+          "vi": "miễn trách nhiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/manuga(reru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "免職する（めんしょくする）",
         "meaning": {
-          "english": "dismiss from office"
+          "english": "dismiss from office",
+          "en": "dismiss from office",
+          "vi": "bãi nhiệm khỏi chức vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/manuga(reru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "免除する（めんじょする）",
         "meaning": {
-          "english": "discharge"
+          "english": "discharge",
+          "en": "discharge",
+          "vi": "giải ngũ, cho xuất viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/manuga(reru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "御免なさい（ごめんなさい）",
         "meaning": {
-          "english": "I am sorry, excuse me"
+          "english": "I am sorry, excuse me",
+          "en": "I am sorry, excuse me",
+          "vi": "xin lỗi, thứ lỗi cho tôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/manuga(reru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "免れる（まぬかれる）",
         "meaning": {
-          "english": "escape from"
+          "english": "escape from",
+          "en": "escape from",
+          "vi": "thoát khỏi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/manuga(reru)_06_h.opus",
@@ -199,7 +218,9 @@
     "kanji": {
       "character": "免",
       "meaning": {
-        "english": "exempt, escape, avoid"
+        "english": "exempt, escape, avoid",
+        "en": "exempt, escape, avoid",
+        "vi": "miễn trừ, thoát khỏi, tránh"
       },
       "strokes": {
         "count": 8,
@@ -253,7 +274,9 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs",
+        "en": "human legs",
+        "vi": "chân người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -274,7 +297,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1080",
     "strokeCount": 8,
-    "meaning": "excuse, dismissal",
+    "meaning": {
+      "en": "excuse, dismissal",
+      "vi": "sự miễn trừ, sự bãi miễn"
+    },
     "kunyomi": [
       "まぬか.れる",
       "まぬが.れる"
@@ -287,7 +313,8 @@
         "example": "免",
         "reading": "メン",
         "meaning": {
-          "en": "dismissal, discharge"
+          "en": "dismissal, discharge",
+          "vi": "sự bãi nhiệm, sự cho thôi"
         },
         "romaji": "men"
       },
@@ -295,7 +322,8 @@
         "example": "免疫",
         "reading": "メンエキ",
         "meaning": {
-          "en": "immunity, immunization, immunisation, being hardened (to), being unaffected (by), being accustomed (to)"
+          "en": "immunity, immunization, immunisation, being hardened (to), being unaffected (by), being accustomed (to)",
+          "vi": "miễn dịch, sự chủng ngừa, sự trở nên chai lì (với), không bị ảnh hưởng (bởi), quen với"
         },
         "romaji": "men'eki"
       },
@@ -303,7 +331,8 @@
         "example": "任免",
         "reading": "ニンメン",
         "meaning": {
-          "vi": "appointments and dismissal"
+          "vi": "appointments and dismissal",
+          "en": ""
         },
         "romaji": "ninmen"
       },
@@ -311,7 +340,8 @@
         "example": "懲戒免",
         "reading": "チョウカイメン",
         "meaning": {
-          "vi": "disciplinary dismissal, disciplinary discharge"
+          "vi": "disciplinary dismissal, disciplinary discharge",
+          "en": ""
         },
         "romaji": "choukaimen"
       }
@@ -321,7 +351,8 @@
         "example": "免れる",
         "reading": "まぬがれる",
         "meaning": {
-          "vi": "to escape (disaster, death, etc.), to be saved from, to be rescued from, to avoid (e.g. punishment), to evade (e.g. responsibility), to avert, to elude, to be exempted from"
+          "vi": "to escape (disaster, death, etc.), to be saved from, to be rescued from, to avoid (e.g. punishment), to evade (e.g. responsibility), to avert, to elude, to be exempted from",
+          "en": ""
         },
         "romaji": "manugareru"
       },
@@ -329,14 +360,18 @@
         "example": "免れる",
         "reading": "まぬがれる",
         "meaning": {
-          "vi": "to escape (disaster, death, etc.), to be saved from, to be rescued from, to avoid (e.g. punishment), to evade (e.g. responsibility), to avert, to elude, to be exempted from"
+          "vi": "to escape (disaster, death, etc.), to be saved from, to be rescued from, to avoid (e.g. punishment), to evade (e.g. responsibility), to avert, to elude, to be exempted from",
+          "en": ""
         },
         "romaji": "manugareru"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "一",

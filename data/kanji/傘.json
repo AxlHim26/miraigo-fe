@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1694",
     "strokeCount": 12,
-    "meaning": "umbrella",
+    "meaning": {
+      "en": "umbrella",
+      "vi": "ô, dù"
+    },
     "kunyomi": [
       "かさ"
     ],
@@ -20,7 +23,8 @@
         "example": "傘下",
         "reading": "サンカ",
         "meaning": {
-          "en": "affiliated with, under jurisdiction of, under the umbrella"
+          "en": "affiliated with, under jurisdiction of, under the umbrella",
+          "vi": "trực thuộc, dưới thẩm quyền, nằm dưới ô bảo trợ"
         },
         "romaji": "sanka"
       },
@@ -28,7 +32,8 @@
         "example": "傘寿",
         "reading": "サンジュ",
         "meaning": {
-          "en": "80th birthday"
+          "en": "80th birthday",
+          "vi": "lễ mừng thọ 80 tuổi"
         },
         "romaji": "sanju"
       },
@@ -36,7 +41,8 @@
         "example": "落下傘",
         "reading": "ラッカサン",
         "meaning": {
-          "vi": "parachute"
+          "vi": "parachute",
+          "en": "parachute"
         },
         "romaji": "rakkasan"
       },
@@ -44,7 +50,8 @@
         "example": "開傘",
         "reading": "カイサン",
         "meaning": {
-          "vi": "opening of a parachute"
+          "vi": "opening of a parachute",
+          "en": "opening of a parachute"
         },
         "romaji": "kaisan"
       }
@@ -54,7 +61,8 @@
         "example": "傘",
         "reading": "かさ",
         "meaning": {
-          "vi": "umbrella, parasol, something shaped like an umbrella or a conical hat, shade (of a lamp), mushroom cap, pileus"
+          "vi": "umbrella, parasol, something shaped like an umbrella or a conical hat, shade (of a lamp), mushroom cap, pileus",
+          "en": "umbrella, parasol, something shaped like an umbrella or a conical hat, shade (of a lamp), mushroom cap, pileus"
         },
         "romaji": "kasa"
       },
@@ -62,7 +70,8 @@
         "example": "笠貝",
         "reading": "かさがい",
         "meaning": {
-          "vi": "limpet (esp. species Cellana mazatlandica)"
+          "vi": "limpet (esp. species Cellana mazatlandica)",
+          "en": "limpet (esp. species Cellana mazatlandica)"
         },
         "romaji": "kasagai"
       },
@@ -70,7 +79,8 @@
         "example": "核の傘",
         "reading": "かくのかさ",
         "meaning": {
-          "en": "nuclear umbrella"
+          "en": "nuclear umbrella",
+          "vi": "ô hạt nhân"
         },
         "romaji": "kakunokasa"
       },
@@ -78,7 +88,8 @@
         "example": "から傘",
         "reading": "からかさ",
         "meaning": {
-          "vi": "paper umbrella, bamboo-and-oiled-paper umbrella"
+          "vi": "paper umbrella, bamboo-and-oiled-paper umbrella",
+          "en": "paper umbrella, bamboo-and-oiled-paper umbrella"
         },
         "romaji": "karakasa"
       }
@@ -88,7 +99,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "个",

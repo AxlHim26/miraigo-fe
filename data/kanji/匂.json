@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "2213",
     "strokeCount": 4,
-    "meaning": "fragrant, stink, glow, insinuate, (kokuji)",
+    "meaning": {
+      "en": "fragrant, stink, glow, insinuate, (kokuji)",
+      "vi": "thơm, bốc mùi, tỏa sáng, ám chỉ, chữ quốc tự"
+    },
     "kunyomi": [
       "にお.う",
       "にお.い",
@@ -20,7 +23,8 @@
         "example": "匂う",
         "reading": "におう",
         "meaning": {
-          "en": "to be fragrant, to smell (good), to stink, to smell (bad), to glow, to be bright, to smack of, to show hints of"
+          "en": "to be fragrant, to smell (good), to stink, to smell (bad), to glow, to be bright, to smack of, to show hints of",
+          "vi": "tỏa hương, có mùi thơm, bốc mùi, có mùi khó chịu, phát sáng, rực lên, phảng phất, gợi hàm ý"
         },
         "romaji": "niou"
       },
@@ -28,7 +32,8 @@
         "example": "匂い",
         "reading": "におい",
         "meaning": {
-          "vi": "smell, scent, odour, odor, stench, aura, whiff, smack, flavour, flavor, mood, faint, mist-like pattern along the temper line of a Japanese sword"
+          "vi": "mùi, hương, mùi hôi, mùi thoảng, khí vị, sắc thái, dư vị, tâm trạng, vệt mờ như sương trên đường tôi của kiếm Nhật",
+          "en": "smell, scent, odour, odor, stench, aura, whiff, smack, flavour, flavor, mood, faint, mist-like pattern along the temper line of a Japanese sword"
         },
         "romaji": "nioi"
       },
@@ -36,7 +41,8 @@
         "example": "匂い油",
         "reading": "においあぶら",
         "meaning": {
-          "vi": "perfumed hair oil"
+          "vi": "dầu thơm xức tóc",
+          "en": "perfumed hair oil"
         },
         "romaji": "nioiabura"
       },
@@ -44,14 +50,18 @@
         "example": "匂わせる",
         "reading": "におわせる",
         "meaning": {
-          "vi": "to give off (a smell, scent, aroma), to smell of, to perfume (a room, etc.), to hint at, to suggest, to insinuate"
+          "vi": "tỏa ra mùi hương, có mùi của, ướp hương cho phòng, gợi ý, ám chỉ",
+          "en": "to give off (a smell, scent, aroma), to smell of, to perfume (a room, etc.), to hint at, to suggest, to insinuate"
         },
         "romaji": "niowaseru"
       }
     ],
     "radical": {
       "symbol": "勹",
-      "meaning": "wrap, embrace"
+      "meaning": {
+        "en": "wrap, embrace",
+        "vi": "bao bọc, ôm lấy"
+      }
     },
     "parts": [
       "勹",
@@ -64,5 +74,7 @@
   },
   "hanViet": [
     "cái"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Mùi hương 匂 lan ra từ gói hương được bọc lại nên nhìn như mùi đang thoảng ra."
 }

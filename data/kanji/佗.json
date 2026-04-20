@@ -5,7 +5,10 @@
     "query": "佗",
     "found": true,
     "strokeCount": 7,
-    "meaning": "proud, lonely",
+    "meaning": {
+      "en": "proud, lonely",
+      "vi": "kiêu hãnh, cô đơn"
+    },
     "kunyomi": [
       "わび.しい",
       "わび",
@@ -22,7 +25,8 @@
         "example": "侘しい",
         "reading": "わびしい",
         "meaning": {
-          "en": "miserable, wretched, lonely, dreary, shabby, comfortless"
+          "en": "miserable, wretched, lonely, dreary, shabby, comfortless",
+          "vi": "khốn khổ, tồi tệ, cô đơn, ảm đạm, xơ xác, không nơi nương tựa"
         },
         "romaji": "wabishii"
       },
@@ -30,7 +34,8 @@
         "example": "侘び",
         "reading": "わび",
         "meaning": {
-          "vi": "taste for the simple and quiet, rustic simplicity, austere refinement, wabi, enjoyment of a quiet life"
+          "en": "taste for the simple and quiet, rustic simplicity, austere refinement, wabi, enjoyment of a quiet life",
+          "vi": "gu thưởng thức sự giản dị và yên tĩnh, nét mộc mạc, sự tinh tế khắc khổ, wabi, niềm vui của cuộc sống thanh đạm"
         },
         "romaji": "wabi"
       },
@@ -38,7 +43,8 @@
         "example": "佗歌",
         "reading": "わびうた",
         "meaning": {
-          "en": "sad song, singing in a lonesome tone"
+          "en": "sad song, singing in a lonesome tone",
+          "vi": "bài ca buồn, hát với giọng cô quạnh"
         },
         "romaji": "wabiuta"
       },
@@ -46,7 +52,8 @@
         "example": "侘びる",
         "reading": "わびる",
         "meaning": {
-          "vi": "to be worried, to be grieved, to pine for"
+          "en": "to be worried, to be grieved, to pine for",
+          "vi": "lo lắng, sầu muộn, nhớ thương da diết"
         },
         "romaji": "wabiru"
       }
@@ -56,7 +63,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "匕",

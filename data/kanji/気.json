@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "gas, spirit",
+    "meaning": {
+      "en": "gas, spirit",
+      "vi": "khí, tinh thần"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "気候（きこう）",
         "meaning": {
-          "english": "climate"
+          "english": "climate",
+          "en": "climate",
+          "vi": "khí hậu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "気持ち（きもち）",
         "meaning": {
-          "english": "feeling"
+          "english": "feeling",
+          "en": "feeling",
+          "vi": "cảm giác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "天気（てんき）",
         "meaning": {
-          "english": "weather"
+          "english": "weather",
+          "en": "weather",
+          "vi": "thời tiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "人気（にんき）",
         "meaning": {
-          "english": "popularity"
+          "english": "popularity",
+          "en": "popularity",
+          "vi": "độ nổi tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "病気（びょうき）",
         "meaning": {
-          "english": "illness"
+          "english": "illness",
+          "en": "illness",
+          "vi": "bệnh tật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "元気な（げんきな）",
         "meaning": {
-          "english": "energetic"
+          "english": "energetic",
+          "en": "energetic",
+          "vi": "tràn đầy năng lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "気を付ける（きをつける）",
         "meaning": {
-          "english": "be careful"
+          "english": "be careful",
+          "en": "be careful",
+          "vi": "cẩn thận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "気に入る（きにいる）",
         "meaning": {
-          "english": "come to like, be pleased with"
+          "english": "come to like, be pleased with",
+          "en": "come to like, be pleased with",
+          "vi": "dần thích, hài lòng với"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "気が狂う（きがくるう）",
         "meaning": {
-          "english": "go mad, go crazy"
+          "english": "go mad, go crazy",
+          "en": "go mad, go crazy",
+          "vi": "phát điên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "眠気（ねむけ）",
         "meaning": {
-          "english": "sleepiness"
+          "english": "sleepiness",
+          "en": "sleepiness",
+          "vi": "cơn buồn ngủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "湿気（しっけ）",
         "meaning": {
-          "english": "humidity"
+          "english": "humidity",
+          "en": "humidity",
+          "vi": "độ ẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki(mochi)_06_k.opus",
@@ -320,7 +345,9 @@
     "kanji": {
       "character": "気",
       "meaning": {
-        "english": "gas, spirit"
+        "english": "gas, spirit",
+        "en": "gas, spirit",
+        "vi": "khí, tinh thần"
       },
       "strokes": {
         "count": 6,
@@ -370,7 +397,9 @@
         "romaji": "kigamae"
       },
       "meaning": {
-        "english": "steam, air"
+        "english": "steam, air",
+        "en": "steam, air",
+        "vi": "hơi nước, không khí"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kigamae0.svg",
@@ -391,7 +420,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "113",
     "strokeCount": 6,
-    "meaning": "spirit, mind, air, atmosphere, mood",
+    "meaning": {
+      "en": "spirit, mind, air, atmosphere, mood",
+      "vi": "tinh thần, tâm trí, khí, bầu không khí, tâm trạng"
+    },
     "kunyomi": [
       "いき",
       "き"
@@ -405,7 +437,8 @@
         "example": "気",
         "reading": "キ",
         "meaning": {
-          "vi": "spirit, mind, heart, nature, disposition, intention, mind, will, motivation, mood, feelings, consciousness, care, attention, consideration, worry, interest, (the) air, atmosphere, ambience, atmosphere (of), air (of), mood, fragrance, aroma, flavour, taste, qi (in traditional Chinese philosophy and medicine), chi, ki"
+          "vi": "spirit, mind, heart, nature, disposition, intention, mind, will, motivation, mood, feelings, consciousness, care, attention, consideration, worry, interest, (the) air, atmosphere, ambience, atmosphere (of), air (of), mood, fragrance, aroma, flavour, taste, qi (in traditional Chinese philosophy and medicine), chi, ki",
+          "en": ""
         },
         "romaji": "ki"
       },
@@ -413,7 +446,8 @@
         "example": "気合",
         "reading": "キアイ",
         "meaning": {
-          "vi": "(fighting) spirit, motivation, effort, shout (for getting in the right mood to deal with something, etc.), cheer, yell, kiai, short shout when performing an attacking move"
+          "vi": "(fighting) spirit, motivation, effort, shout (for getting in the right mood to deal with something, etc.), cheer, yell, kiai, short shout when performing an attacking move",
+          "en": ""
         },
         "romaji": "kiai"
       },
@@ -421,7 +455,8 @@
         "example": "心意気",
         "reading": "ココロイキ",
         "meaning": {
-          "vi": "spirit, determination, pluck, mettle"
+          "vi": "spirit, determination, pluck, mettle",
+          "en": ""
         },
         "romaji": "kokoroiki"
       },
@@ -429,7 +464,8 @@
         "example": "水気",
         "reading": "ミズケ",
         "meaning": {
-          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema",
+          "en": ""
         },
         "romaji": "mizuke"
       },
@@ -437,7 +473,8 @@
         "example": "気",
         "reading": "ケ",
         "meaning": {
-          "en": "sign, indication, trace, touch, feeling, somehow, for some reason, seeming to be"
+          "en": "sign, indication, trace, touch, feeling, somehow, for some reason, seeming to be",
+          "vi": "dấu hiệu, chỉ dấu, dấu vết, cảm chạm, cảm giác, bằng cách nào đó, dường như"
         },
         "romaji": "ke"
       },
@@ -445,7 +482,8 @@
         "example": "気配",
         "reading": "ケハイ",
         "meaning": {
-          "en": "indication, sign, hint, sensation, feeling, tone (of the market)"
+          "en": "indication, sign, hint, sensation, feeling, tone (of the market)",
+          "vi": "dấu hiệu, tín hiệu, gợi ý, cảm giác, sắc thái"
         },
         "romaji": "kehai"
       },
@@ -453,7 +491,8 @@
         "example": "嫌気",
         "reading": "イヤキ",
         "meaning": {
-          "en": "dislike, disgust, disinclination, tired of"
+          "en": "dislike, disgust, disinclination, tired of",
+          "vi": "ghét, chán ghét, không muốn, ngán"
         },
         "romaji": "iyaki"
       },
@@ -461,7 +500,8 @@
         "example": "水気",
         "reading": "ミズケ",
         "meaning": {
-          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema",
+          "en": ""
         },
         "romaji": "mizuke"
       }
@@ -471,7 +511,8 @@
         "example": "心意気",
         "reading": "こころいき",
         "meaning": {
-          "vi": "spirit, determination, pluck, mettle"
+          "vi": "spirit, determination, pluck, mettle",
+          "en": ""
         },
         "romaji": "kokoroiki"
       },
@@ -479,7 +520,8 @@
         "example": "水気",
         "reading": "みずけ",
         "meaning": {
-          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema",
+          "en": ""
         },
         "romaji": "mizuke"
       },
@@ -487,7 +529,8 @@
         "example": "気",
         "reading": "き",
         "meaning": {
-          "vi": "spirit, mind, heart, nature, disposition, intention, mind, will, motivation, mood, feelings, consciousness, care, attention, consideration, worry, interest, (the) air, atmosphere, ambience, atmosphere (of), air (of), mood, fragrance, aroma, flavour, taste, qi (in traditional Chinese philosophy and medicine), chi, ki"
+          "vi": "spirit, mind, heart, nature, disposition, intention, mind, will, motivation, mood, feelings, consciousness, care, attention, consideration, worry, interest, (the) air, atmosphere, ambience, atmosphere (of), air (of), mood, fragrance, aroma, flavour, taste, qi (in traditional Chinese philosophy and medicine), chi, ki",
+          "en": ""
         },
         "romaji": "ki"
       },
@@ -495,7 +538,8 @@
         "example": "気合",
         "reading": "きあい",
         "meaning": {
-          "vi": "(fighting) spirit, motivation, effort, shout (for getting in the right mood to deal with something, etc.), cheer, yell, kiai, short shout when performing an attacking move"
+          "vi": "(fighting) spirit, motivation, effort, shout (for getting in the right mood to deal with something, etc.), cheer, yell, kiai, short shout when performing an attacking move",
+          "en": ""
         },
         "romaji": "kiai"
       },
@@ -503,7 +547,8 @@
         "example": "心意気",
         "reading": "こころいき",
         "meaning": {
-          "vi": "spirit, determination, pluck, mettle"
+          "vi": "spirit, determination, pluck, mettle",
+          "en": ""
         },
         "romaji": "kokoroiki"
       },
@@ -511,14 +556,18 @@
         "example": "水気",
         "reading": "みずけ",
         "meaning": {
-          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema"
+          "vi": "water content, moisture, juiciness, dampness, water vapor (vapour), steam, dropsy, edema, oedema",
+          "en": ""
         },
         "romaji": "mizuke"
       }
     ],
     "radical": {
       "symbol": "气",
-      "meaning": "steam, breath"
+      "meaning": {
+        "en": "steam, breath",
+        "vi": "hơi nước, hơi thở"
+      }
     },
     "parts": [
       "ノ",
@@ -533,5 +582,6 @@
   },
   "hanViet": [
     "khí"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: hơi khí bốc lên nhẹ nên là khí, tinh thần."
 }

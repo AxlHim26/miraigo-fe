@@ -5,7 +5,10 @@
     "query": "兔",
     "found": true,
     "strokeCount": 8,
-    "meaning": "rabbit, hare",
+    "meaning": {
+      "en": "rabbit, hare",
+      "vi": "thỏ, thỏ rừng"
+    },
     "kunyomi": [
       "うさぎ"
     ],
@@ -19,14 +22,18 @@
         "example": "兎",
         "reading": "うさぎ",
         "meaning": {
-          "vi": "rabbit, hare, coney, cony, lagomorph (esp. leporids)"
+          "vi": "rabbit, hare, coney, cony, lagomorph (esp. leporids)",
+          "en": ""
         },
         "romaji": "usagi"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "丶",

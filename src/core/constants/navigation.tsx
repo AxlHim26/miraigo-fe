@@ -245,21 +245,21 @@ export const kanjiSidebarSections: NavSection[] = [
     items: [
       {
         id: "home",
-        label: "Trang chủ",
+        label: "Lộ trình",
         href: "/kanji-map",
         icon: <GridViewIcon fontSize="small" />,
       },
       {
-        id: "search",
-        label: "Tìm kiếm",
+        id: "kanji-lookup",
+        label: "Tra cứu",
+        href: "/kanji-map/lookup",
         icon: <SearchIcon fontSize="small" />,
-        badge: "Ctrl + K",
       },
       {
-        id: "review",
+        id: "kanji-review",
         label: "Cần ôn tập",
-        icon: <PsychologyIcon fontSize="small" />,
-        variant: "plain",
+        href: "/kanji-map/review",
+        icon: <HistoryRoundedIcon fontSize="small" />,
       },
     ],
   },

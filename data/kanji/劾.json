@@ -50,5 +50,11 @@
   },
   "hanViet": [
     "hặc"
-  ]
+  ],
+  "meaning": {
+    "en": "censure, criminal investigation",
+    "vi": "khiển trách, điều tra hình sự"
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 劾 gợi hình truy xét rồi khiển trách, như đang mở cuộc điều tra để kết tội."
 }

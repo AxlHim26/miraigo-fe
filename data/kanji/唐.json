@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "1727",
     "strokeCount": 10,
-    "meaning": "T'ang, China, foreign",
+    "meaning": {
+      "en": "T'ang, China, foreign",
+      "vi": "nhà Đường, Trung Quốc, ngoại quốc"
+    },
     "kunyomi": [
       "から"
     ],
@@ -19,7 +22,8 @@
         "example": "唐",
         "reading": "トウ",
         "meaning": {
-          "en": "Tang dynasty (of China; 618-907), T'ang dynasty, China, foreign country"
+          "en": "Tang dynasty (of China; 618-907), T'ang dynasty, China, foreign country",
+          "vi": "nhà Đường, Trung Hoa, nước ngoài"
         },
         "romaji": "tou"
       },
@@ -27,7 +31,8 @@
         "example": "唐土",
         "reading": "モロコシ",
         "meaning": {
-          "en": "China, Chinese"
+          "en": "China, Chinese",
+          "vi": "Trung Quốc, người Trung Quốc"
         },
         "romaji": "morokoshi"
       },
@@ -35,7 +40,8 @@
         "example": "頽唐",
         "reading": "タイトウ",
         "meaning": {
-          "en": "decadence, decline"
+          "en": "decadence, decline",
+          "vi": "suy đồi, sa sút"
         },
         "romaji": "taitou"
       },
@@ -43,7 +49,8 @@
         "example": "後唐",
         "reading": "コウトウ",
         "meaning": {
-          "en": "Later Tang dynasty (of China; 923-937), Later T'ang dynasty"
+          "en": "Later Tang dynasty (of China; 923-937), Later T'ang dynasty",
+          "vi": "Hậu Đường"
         },
         "romaji": "koutou"
       }
@@ -53,7 +60,8 @@
         "example": "唐",
         "reading": "から",
         "meaning": {
-          "en": "China (sometimes also used in ref. to Korea or other foreign countries)"
+          "en": "China (sometimes also used in ref. to Korea or other foreign countries)",
+          "vi": "Trung Hoa, đôi khi cũng chỉ Triều Tiên hoặc nước ngoài khác"
         },
         "romaji": "kara"
       },
@@ -61,14 +69,18 @@
         "example": "空手",
         "reading": "からて",
         "meaning": {
-          "vi": "karate, being empty-handed, having nothing in one's hands"
+          "vi": "karate, tay không, không cầm gì trong tay",
+          "en": "karate, being empty-handed, having nothing in one's hands"
         },
         "romaji": "karate"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "ヨ",
@@ -84,5 +96,7 @@
   },
   "hanViet": [
     "đường"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Nhìn như một căn nhà có 口 ở giữa, gợi hình vùng đất, triều đại lớn từ phương xa, nên 唐 là nhà Đường hay Trung Hoa."
 }

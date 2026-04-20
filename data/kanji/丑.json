@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2305",
     "strokeCount": 4,
-    "meaning": "sign of the ox or cow, 1-3AM, second sign of Chinese zodiac",
+    "meaning": {
+      "en": "sign of the ox or cow, 1-3AM, second sign of Chinese zodiac",
+      "vi": "chi Sửu, khoảng 1-3 giờ sáng, dấu thứ hai trong 12 con giáp"
+    },
     "kunyomi": [
       "うし"
     ],
@@ -122,7 +125,10 @@
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "ノ",
@@ -145,5 +151,7 @@
   "meaning": {
     "vi": "dấu hiệu của con bò hoặc con bò, 1-3 giờ sáng, dấu hiệu thứ hai của cung hoàng đạo trung quốc",
     "en": "sign of the ox or cow, 1-3AM, second sign of Chinese zodiac"
-  }
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Sừng và mặt con trâu hiện ra, nhớ đến giờ Sửu và con giáp Sửu."
 }

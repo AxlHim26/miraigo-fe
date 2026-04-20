@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1837",
     "strokeCount": 6,
-    "meaning": "square jewel, corner, angle, edge",
+    "meaning": {
+      "en": "square jewel, corner, angle, edge",
+      "vi": "ngọc khuê hình vuông, góc, cạnh, mép"
+    },
     "kunyomi": [],
     "onyomi": [
       "ケイ",
@@ -18,7 +21,8 @@
         "example": "圭角",
         "reading": "ケイカク",
         "meaning": {
-          "vi": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"
+          "vi": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)",
+          "en": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"
         },
         "romaji": "keikaku"
       },
@@ -26,7 +30,8 @@
         "example": "圭璧",
         "reading": "ケイヘキ",
         "meaning": {
-          "en": "ritual jades worn by feudal lords in ancient China"
+          "en": "ritual jades worn by feudal lords in ancient China",
+          "vi": "ngọc lễ mà chư hầu Trung Hoa cổ đeo"
         },
         "romaji": "keiheki"
       },
@@ -34,7 +39,8 @@
         "example": "刀圭",
         "reading": "トウケイ",
         "meaning": {
-          "vi": "medicine, art of medicine, doctor, dispensing spoon"
+          "vi": "medicine, art of medicine, doctor, dispensing spoon",
+          "en": "medicine, art of medicine, doctor, dispensing spoon"
         },
         "romaji": "toukei"
       },
@@ -42,7 +48,8 @@
         "example": "尖形",
         "reading": "センケイ",
         "meaning": {
-          "vi": "pointed, pointy, acuminate"
+          "vi": "pointed, pointy, acuminate",
+          "en": "pointed, pointy, acuminate"
         },
         "romaji": "senkei"
       },
@@ -50,7 +57,8 @@
         "example": "圭角",
         "reading": "ケイカク",
         "meaning": {
-          "vi": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"
+          "vi": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)",
+          "en": "rough edges (of one's character, words, etc.), abrasiveness, harshness, sharpness, edges (of a gem)"
         },
         "romaji": "keikaku"
       },
@@ -58,7 +66,8 @@
         "example": "圭璧",
         "reading": "ケイヘキ",
         "meaning": {
-          "en": "ritual jades worn by feudal lords in ancient China"
+          "en": "ritual jades worn by feudal lords in ancient China",
+          "vi": "ngọc lễ mà chư hầu Trung Hoa cổ đeo"
         },
         "romaji": "keiheki"
       }
@@ -66,7 +75,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "土"
@@ -76,6 +88,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/572d.gif",
     "uri": "https://jisho.org/search/%E5%9C%AD%23kanji"
   },
+  "mnemonic_vi": "Hai lớp đất chồng lên nhau như góc nhọn của ngọc khuê.",
   "hanViet": [
     "khuê"
   ]

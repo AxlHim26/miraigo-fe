@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 6,
     "kunyomi": "haka",
-    "meaning": "grave, tomb",
+    "meaning": {
+      "en": "grave, tomb",
+      "vi": "mộ, mồ"
+    },
     "kstroke": 13,
     "examples": [
       {
         "japanese": "墓碑（ぼひ）",
         "meaning": {
-          "english": "gravestone, tombstone"
+          "english": "gravestone, tombstone",
+          "en": "gravestone, tombstone",
+          "vi": "bia mộ, mộ bia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haka_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "墓地（ぼち）",
         "meaning": {
-          "english": "cemetery, graveyard"
+          "english": "cemetery, graveyard",
+          "en": "cemetery, graveyard",
+          "vi": "nghĩa trang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haka_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "墓穴（ぼけつ）",
         "meaning": {
-          "english": "grave (hole in ground)"
+          "english": "grave (hole in ground)",
+          "en": "grave (hole in ground)",
+          "vi": "huyệt mộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haka_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "墓標（ぼひょう）",
         "meaning": {
-          "english": "grave-marker, gravestone"
+          "english": "grave-marker, gravestone",
+          "en": "grave-marker, gravestone",
+          "vi": "bia mộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haka_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "墓（はか）",
         "meaning": {
-          "english": "tomb"
+          "english": "tomb",
+          "en": "tomb",
+          "vi": "mộ, lăng mộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haka_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "墓参り（はかまいり）",
         "meaning": {
-          "english": "visit to a grave"
+          "english": "visit to a grave",
+          "en": "visit to a grave",
+          "vi": "đi viếng mộ, tảo mộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haka_06_f.opus",
@@ -160,7 +175,9 @@
     "kanji": {
       "character": "墓",
       "meaning": {
-        "english": "grave, tomb"
+        "english": "grave, tomb",
+        "en": "grave, tomb",
+        "vi": "mộ, mồ"
       },
       "strokes": {
         "count": 13,
@@ -224,7 +241,9 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -245,7 +264,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1337",
     "strokeCount": 13,
-    "meaning": "grave, tomb",
+    "meaning": {
+      "en": "grave, tomb",
+      "vi": "mộ, mồ"
+    },
     "kunyomi": [
       "はか"
     ],
@@ -257,7 +279,8 @@
         "example": "墓石",
         "reading": "ボセキ",
         "meaning": {
-          "en": "tombstone, gravestone"
+          "en": "tombstone, gravestone",
+          "vi": "bia mộ, mộ bia"
         },
         "romaji": "boseki"
       },
@@ -265,7 +288,8 @@
         "example": "墓参り",
         "reading": "ハカマイリ",
         "meaning": {
-          "en": "visit to a grave"
+          "en": "visit to a grave",
+          "vi": "đi viếng mộ, tảo mộ"
         },
         "romaji": "hakamairi"
       },
@@ -273,7 +297,8 @@
         "example": "陵墓",
         "reading": "リョウボ",
         "meaning": {
-          "vi": "imperial tomb, imperial mausoleum"
+          "vi": "imperial tomb, imperial mausoleum",
+          "en": "imperial tomb, imperial mausoleum"
         },
         "romaji": "ryoubo"
       },
@@ -281,7 +306,8 @@
         "example": "周堤墓",
         "reading": "シュウテイボ",
         "meaning": {
-          "vi": "grave-site with circular embankment (Jomon period)"
+          "vi": "mộ có bờ đất tròn thời Jomon",
+          "en": "grave-site with circular embankment (Jomon period)"
         },
         "romaji": "shuuteibo"
       }
@@ -291,7 +317,8 @@
         "example": "墓",
         "reading": "はか",
         "meaning": {
-          "en": "grave, gravesite, tomb"
+          "en": "grave, gravesite, tomb",
+          "vi": "mộ, phần mộ, lăng mộ"
         },
         "romaji": "haka"
       },
@@ -299,7 +326,8 @@
         "example": "墓石",
         "reading": "ぼせき",
         "meaning": {
-          "en": "tombstone, gravestone"
+          "en": "tombstone, gravestone",
+          "vi": "bia mộ, mộ bia"
         },
         "romaji": "boseki"
       },
@@ -307,7 +335,8 @@
         "example": "無名戦士の墓",
         "reading": "むめいせんしのはか",
         "meaning": {
-          "en": "Tomb of the Unknown Soldier"
+          "en": "Tomb of the Unknown Soldier",
+          "vi": "Mộ Chiến sĩ Vô danh"
         },
         "romaji": "mumeisenshinohaka"
       },
@@ -315,14 +344,18 @@
         "example": "火垂るの墓",
         "reading": "ほたるのはか",
         "meaning": {
-          "en": "Grave of Fireflies (film)"
+          "en": "Grave of Fireflies (film)",
+          "vi": "Mộ đom đóm (phim)"
         },
         "romaji": "hotarunohaka"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "土",
@@ -337,5 +370,7 @@
   },
   "hanViet": [
     "mộ"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: cỏ phủ trên đất nơi chôn người đã mất, nên 墓 là mộ phần."
 }

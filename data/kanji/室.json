@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "muro",
-    "meaning": "room",
+    "meaning": {
+      "en": "room",
+      "vi": "phòng"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "教室（きょうしつ）",
         "meaning": {
-          "english": "classroom"
+          "en": "classroom",
+          "vi": "phòng học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-muro_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "研究室（けんきゅうしつ）",
         "meaning": {
-          "english": "seminar room, prof's office"
+          "en": "seminar room, prof's office",
+          "vi": "phòng seminar, phòng giáo sư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-muro_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "図書室（としょしつ）",
         "meaning": {
-          "english": "library room"
+          "en": "library room",
+          "vi": "phòng thư viện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-muro_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "個室（こしつ）",
         "meaning": {
-          "english": "private room"
+          "en": "private room",
+          "vi": "phòng riêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-muro_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "和室（わしつ）",
         "meaning": {
-          "english": "Japanese-style room"
+          "en": "Japanese-style room",
+          "vi": "phòng kiểu Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-muro_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "温室（おんしつ）",
         "meaning": {
-          "english": "greenhouse"
+          "en": "greenhouse",
+          "vi": "nhà kính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-muro_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "根室（ねむろ）",
         "meaning": {
-          "english": "Nemuro"
+          "en": "Nemuro",
+          "vi": "Nemuro"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shitsu-muro_06_g.opus",
@@ -254,7 +264,8 @@
     "kanji": {
       "character": "室",
       "meaning": {
-        "english": "room"
+        "en": "room",
+        "vi": "phòng"
       },
       "strokes": {
         "count": 9,
@@ -310,7 +321,8 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "en": "roof, house",
+        "vi": "mái nhà, nhà"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -331,7 +343,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "550",
     "strokeCount": 9,
-    "meaning": "room, apartment, chamber, greenhouse, cellar",
+    "meaning": {
+      "en": "room, apartment, chamber, greenhouse, cellar",
+      "vi": "phòng, căn hộ, buồng, nhà kính, hầm chứa"
+    },
     "kunyomi": [
       "むろ"
     ],
@@ -343,6 +358,7 @@
         "example": "室",
         "reading": "シツ",
         "meaning": {
+          "en": "room, wife (of someone of high rank), scabbard, Chinese \"Encampment\" constellation (one of the 28 mansions)",
           "vi": "room, wife (of someone of high rank), scabbard, Chinese \"Encampment\" constellation (one of the 28 mansions)"
         },
         "romaji": "shitsu"
@@ -351,7 +367,8 @@
         "example": "室長",
         "reading": "シツチョウ",
         "meaning": {
-          "en": "section chief, laboratory manager, office head, room monitor"
+          "en": "section chief, laboratory manager, office head, room monitor",
+          "vi": "trưởng phòng, quản lý phòng thí nghiệm, trưởng văn phòng, lớp trưởng phòng"
         },
         "romaji": "shitsuchou"
       },
@@ -359,6 +376,7 @@
         "example": "同室",
         "reading": "ドウシツ",
         "meaning": {
+          "en": "same room, sharing a room, occupying the same room",
           "vi": "same room, sharing a room, occupying the same room"
         },
         "romaji": "doushitsu"
@@ -367,6 +385,7 @@
         "example": "皇室",
         "reading": "コウシツ",
         "meaning": {
+          "en": "Imperial household",
           "vi": "Imperial household"
         },
         "romaji": "koushitsu"
@@ -377,7 +396,8 @@
         "example": "室",
         "reading": "むろ",
         "meaning": {
-          "en": "greenhouse, icehouse, cellar"
+          "en": "greenhouse, icehouse, cellar",
+          "vi": "greenhouse, icehouse, cellar"
         },
         "romaji": "muro"
       },
@@ -385,6 +405,7 @@
         "example": "室町",
         "reading": "むろまち",
         "meaning": {
+          "en": "Muromachi period (1336-1573)",
           "vi": "Muromachi period (1336-1573)"
         },
         "romaji": "muromachi"
@@ -393,7 +414,8 @@
         "example": "石室",
         "reading": "せきしつ",
         "meaning": {
-          "en": "stone hut, rock chamber, tomb, stone burial chamber"
+          "en": "stone hut, rock chamber, tomb, stone burial chamber",
+          "vi": "nhà đá, buồng đá, mộ đá"
         },
         "romaji": "sekishitsu"
       },
@@ -401,14 +423,18 @@
         "example": "氷室",
         "reading": "ひむろ",
         "meaning": {
-          "en": "ice house, ice room, cold room"
+          "en": "ice house, ice room, cold room",
+          "vi": "nhà đá lạnh, kho lạnh"
         },
         "romaji": "himuro"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": {
+        "en": "roof",
+        "vi": "mái nhà"
+      }
     },
     "parts": [
       "厶",
@@ -423,5 +449,7 @@
   },
   "hanViet": [
     "thất"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: trong mái nhà 宀 có chỗ đến rồi dừng lại, nên 室 là căn phòng."
 }

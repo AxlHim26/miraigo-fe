@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "asa",
-    "meaning": "morning, dynasty",
+    "meaning": {
+      "en": "morning, dynasty",
+      "vi": "buổi sáng, triều đại"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "朝食（ちょうしょく）",
         "meaning": {
-          "english": "breakfast"
+          "en": "breakfast",
+          "vi": "bữa sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "朝刊（ちょうかん）",
         "meaning": {
-          "english": "morning newspaper"
+          "en": "morning newspaper",
+          "vi": "báo sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "平安朝（へいあんちょう）",
         "meaning": {
-          "english": "Heian period"
+          "en": "Heian period",
+          "vi": "thời Heian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "朝（あさ）",
         "meaning": {
-          "english": "morning"
+          "en": "morning",
+          "vi": "buổi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "毎朝（まいあさ）",
         "meaning": {
-          "english": "every morning"
+          "en": "every morning",
+          "vi": "mỗi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "朝日（あさひ）",
         "meaning": {
-          "english": "morning sun"
+          "en": "morning sun",
+          "vi": "nắng sớm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "朝御飯（あさごはん）",
         "meaning": {
-          "english": "breakfast"
+          "en": "breakfast",
+          "vi": "bữa sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "*今朝（けさ）",
         "meaning": {
-          "english": "this morning"
+          "en": "this morning",
+          "vi": "sáng nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-asa_06_h.opus",
@@ -251,7 +262,8 @@
     "kanji": {
       "character": "朝",
       "meaning": {
-        "english": "morning, dynasty"
+        "en": "morning, dynasty",
+        "vi": "buổi sáng, triều đại"
       },
       "strokes": {
         "count": 12,
@@ -313,7 +325,8 @@
         "romaji": "tsuki"
       },
       "meaning": {
-        "english": "moon, month, period"
+        "en": "moon, month, period",
+        "vi": "trăng, tháng, thời kỳ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuki0.svg",
@@ -334,7 +347,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "248",
     "strokeCount": 12,
-    "meaning": "morning, dynasty, regime, epoch, period, (North) Korea",
+    "meaning": {
+      "en": "morning, dynasty, regime, epoch, period, (North) Korea",
+      "vi": "buổi sáng, triều đại, chế độ, thời kỳ, Triều Tiên"
+    },
     "kunyomi": [
       "あさ"
     ],
@@ -346,6 +362,7 @@
         "example": "朝",
         "reading": "チョウ",
         "meaning": {
+          "en": "dynasty, reign, period, epoch, age, court, North Korea",
           "vi": "dynasty, reign, period, epoch, age, court, North Korea"
         },
         "romaji": "chou"
@@ -354,6 +371,7 @@
         "example": "朝刊",
         "reading": "チョウカン",
         "meaning": {
+          "en": "morning newspaper",
           "vi": "morning newspaper"
         },
         "romaji": "choukan"
@@ -362,6 +380,7 @@
         "example": "本朝",
         "reading": "ホンチョウ",
         "meaning": {
+          "en": "this land, our country, Imperial Court of Japan",
           "vi": "this land, our country, Imperial Court of Japan"
         },
         "romaji": "honchou"
@@ -370,7 +389,8 @@
         "example": "王朝",
         "reading": "オウチョウ",
         "meaning": {
-          "en": "dynasty"
+          "en": "dynasty",
+          "vi": "triều đại"
         },
         "romaji": "ouchou"
       }
@@ -380,7 +400,8 @@
         "example": "朝",
         "reading": "あさ",
         "meaning": {
-          "en": "morning, breakfast"
+          "en": "morning, breakfast",
+          "vi": "buổi sáng, bữa sáng"
         },
         "romaji": "asa"
       },
@@ -388,7 +409,8 @@
         "example": "朝方",
         "reading": "あさがた",
         "meaning": {
-          "en": "early morning, early hours, early in the morning"
+          "en": "early morning, early hours, early in the morning",
+          "vi": "sáng sớm, tờ mờ sáng"
         },
         "romaji": "asagata"
       },
@@ -396,6 +418,7 @@
         "example": "後の朝",
         "reading": "のちのあした",
         "meaning": {
+          "en": "the morning after (having slept together)",
           "vi": "the morning after (having slept together)"
         },
         "romaji": "nochinoashita"
@@ -404,14 +427,18 @@
         "example": "霜朝",
         "reading": "しもあさ",
         "meaning": {
-          "en": "frosty morning"
+          "en": "frosty morning",
+          "vi": "buổi sáng có sương giá"
         },
         "romaji": "shimoasa"
       }
     ],
     "radical": {
       "symbol": "月",
-      "meaning": "moon, month"
+      "meaning": {
+        "en": "moon, month",
+        "vi": "trăng, tháng"
+      }
     },
     "parts": [
       "十",
@@ -427,5 +454,7 @@
     "triêu",
     "triều",
     "trào"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: mặt trăng còn đó mà mặt trời đã lên, đó là buổi sáng 朝."
 }

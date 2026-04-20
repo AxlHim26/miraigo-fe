@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "moto",
-    "meaning": "origin",
+    "meaning": {
+      "en": "origin",
+      "vi": "nguồn gốc"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "元気な（げんきな）",
         "meaning": {
-          "english": "energetic"
+          "english": "energetic",
+          "en": "energetic",
+          "vi": "tràn đầy năng lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "紀元前（きげんぜん）",
         "meaning": {
-          "english": "B.C.E."
+          "english": "B.C.E.",
+          "en": "B.C.E.",
+          "vi": "trước Công nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "三次元（さんじげん）",
         "meaning": {
-          "english": "3 dimensions"
+          "english": "3 dimensions",
+          "en": "3 dimensions",
+          "vi": "ba chiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "元祖（がんそ）",
         "meaning": {
-          "english": "founder, inventor"
+          "english": "founder, inventor",
+          "en": "founder, inventor",
+          "vi": "người sáng lập, nhà phát minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "元年（がんねん）",
         "meaning": {
-          "english": "first year (of a specific reign)"
+          "english": "first year (of a specific reign)",
+          "en": "first year (of a specific reign)",
+          "vi": "năm đầu tiên (của một niên hiệu cụ thể)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "製造元（せいぞうもと）",
         "meaning": {
-          "english": "manufacturer"
+          "english": "manufacturer",
+          "en": "manufacturer",
+          "vi": "nhà sản xuất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "地元（じもと）",
         "meaning": {
-          "english": "local"
+          "english": "local",
+          "en": "local",
+          "vi": "địa phương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "身元（みもと）",
         "meaning": {
-          "english": "person's identity"
+          "english": "person's identity",
+          "en": "person's identity",
+          "vi": "lai lịch của một người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-moto_06_h.opus",
@@ -246,7 +265,9 @@
     "kanji": {
       "character": "元",
       "meaning": {
-        "english": "origin"
+        "english": "origin",
+        "en": "origin",
+        "vi": "nguồn gốc"
       },
       "strokes": {
         "count": 4,
@@ -292,7 +313,9 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs",
+        "en": "human legs",
+        "vi": "chân người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -313,7 +336,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "192",
     "strokeCount": 4,
-    "meaning": "beginning, former time, origin",
+    "meaning": {
+      "en": "beginning, former time, origin",
+      "vi": "khởi đầu, thời xưa, nguồn gốc"
+    },
     "kunyomi": [
       "もと"
     ],
@@ -326,7 +352,8 @@
         "example": "元",
         "reading": "ゲン",
         "meaning": {
-          "en": "unknown (e.g. in an equation), element (of a set), yuan (monetary unit of China), New Taiwan dollar, Yuan dynasty (of China; 1271-1368), Yüan dynasty, Mongol dynasty"
+          "en": "unknown (e.g. in an equation), element (of a set), yuan (monetary unit of China), New Taiwan dollar, Yuan dynasty (of China; 1271-1368), Yüan dynasty, Mongol dynasty",
+          "vi": "ẩn số (ví dụ trong phương trình), phần tử (của một tập hợp), nhân dân tệ, đô la Đài Loan mới, triều Nguyên (Trung Quốc; 1271-1368), triều đại Mông Cổ"
         },
         "romaji": "gen"
       },
@@ -334,7 +361,8 @@
         "example": "原価",
         "reading": "ゲンカ",
         "meaning": {
-          "vi": "cost price"
+          "vi": "cost price",
+          "en": "giá vốn"
         },
         "romaji": "genka"
       },
@@ -342,7 +370,8 @@
         "example": "中元",
         "reading": "チュウゲン",
         "meaning": {
-          "en": "15th day of the 7th lunar month, (last day of) Bon lantern festival, mid-year gift, summer gift, Bon Festival gifts"
+          "en": "15th day of the 7th lunar month, (last day of) Bon lantern festival, mid-year gift, summer gift, Bon Festival gifts",
+          "vi": ""
         },
         "romaji": "chuugen"
       },
@@ -350,7 +379,8 @@
         "example": "抗原",
         "reading": "コウゲン",
         "meaning": {
-          "en": "antigen"
+          "en": "antigen",
+          "vi": ""
         },
         "romaji": "kougen"
       },
@@ -358,7 +388,8 @@
         "example": "元祖",
         "reading": "ガンソ",
         "meaning": {
-          "vi": "originator, pioneer, inventor, founder, progenitor, primogenitor, founder of a family line"
+          "vi": "originator, pioneer, inventor, founder, progenitor, primogenitor, founder of a family line",
+          "en": ""
         },
         "romaji": "ganso"
       },
@@ -366,7 +397,8 @@
         "example": "元日",
         "reading": "ガンジツ",
         "meaning": {
-          "en": "New Year's Day"
+          "en": "New Year's Day",
+          "vi": "ngày đầu năm mới"
         },
         "romaji": "ganjitsu"
       }
@@ -376,7 +408,8 @@
         "example": "元",
         "reading": "もと",
         "meaning": {
-          "vi": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
+          "vi": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)",
+          "en": ""
         },
         "romaji": "moto"
       },
@@ -384,7 +417,8 @@
         "example": "元",
         "reading": "もと",
         "meaning": {
-          "vi": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before"
+          "vi": "former, ex-, past, one-time, earlier times, the past, previous state, formerly, previously, originally, before",
+          "en": ""
         },
         "romaji": "moto"
       },
@@ -392,7 +426,8 @@
         "example": "家元",
         "reading": "いえもと",
         "meaning": {
-          "en": "head of a school (of music, dance), head family of a school"
+          "en": "head of a school (of music, dance), head family of a school",
+          "vi": "người đứng đầu một trường phái (âm nhạc, vũ đạo), trưởng tông của một trường phái"
         },
         "romaji": "iemoto"
       },
@@ -400,14 +435,18 @@
         "example": "大本",
         "reading": "おおもと",
         "meaning": {
-          "en": "root, origin, source, cause, basis, foundation, Ōmoto (religion)"
+          "en": "root, origin, source, cause, basis, foundation, Ōmoto (religion)",
+          "vi": ""
         },
         "romaji": "oomoto"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "二",
@@ -421,5 +460,7 @@
   },
   "hanViet": [
     "nguyên"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Nét trên đầu người gợi phần gốc ở trên cùng, nên nhớ là nguyên, ban đầu."
 }

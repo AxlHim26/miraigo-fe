@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "graduate",
+    "meaning": {
+      "en": "graduate",
+      "vi": "tot nghiep"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "卒業する（そつぎょうする）",
         "meaning": {
-          "english": "graduate"
+          "english": "graduate",
+          "en": "graduate",
+          "vi": "tot nghiep"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "卒論（そつろん）",
         "meaning": {
-          "english": "graduation (senior) thesis"
+          "english": "graduation (senior) thesis",
+          "en": "graduation (senior) thesis",
+          "vi": "luan van tot nghiep"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "中卒（ちゅうそつ）",
         "meaning": {
-          "english": "junior high school graduate"
+          "english": "junior high school graduate",
+          "en": "junior high school graduate",
+          "vi": "tot nghiep trung hoc co so"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "高卒（こうそつ）",
         "meaning": {
-          "english": "high school graduate"
+          "english": "high school graduate",
+          "en": "high school graduate",
+          "vi": "tot nghiep trung hoc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "大卒（だいそつ）",
         "meaning": {
-          "english": "university graduate"
+          "english": "university graduate",
+          "en": "university graduate",
+          "vi": "nguoi tot nghiep dai hoc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "脳卒中（のうそっちゅう）",
         "meaning": {
-          "english": "stroke"
+          "english": "stroke",
+          "en": "stroke",
+          "vi": "net but"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sotsu(gyou)_06_f.opus",
@@ -208,7 +223,9 @@
     "kanji": {
       "character": "卒",
       "meaning": {
-        "english": "graduate"
+        "english": "graduate",
+        "en": "graduate",
+        "vi": "tot nghiep"
       },
       "strokes": {
         "count": 8,
@@ -262,7 +279,9 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten",
+        "en": "ten",
+        "vi": "muoi"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -283,7 +302,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "772",
     "strokeCount": 8,
-    "meaning": "graduate, soldier, private, die",
+    "meaning": {
+      "en": "graduate, soldier, private, die",
+      "vi": "tot nghiep, binh si, linh trơn, qua doi"
+    },
     "kunyomi": [
       "そっ.する",
       "お.える",
@@ -300,7 +322,8 @@
         "example": "卒",
         "reading": "ソツ",
         "meaning": {
-          "en": "low-ranking soldier, graduation, moving on (from), outgrowing (something), low-ranking samurai (1870-1872), death (of a noble, etc.)"
+          "en": "low-ranking soldier, graduation, moving on (from), outgrowing (something), low-ranking samurai (1870-1872), death (of a noble, etc.)",
+          "vi": "binh linh cap thap, tot nghiep, chuyen tiep, lon qua mot thu gi do, vo si cap thap (1870-1872), su qua doi cua quy toc"
         },
         "romaji": "sotsu"
       },
@@ -308,7 +331,8 @@
         "example": "卒業",
         "reading": "ソツギョウ",
         "meaning": {
-          "vi": "graduation, completion (of a course), moving on (from), outgrowing (something), leaving (a group, company, etc.), quitting"
+          "vi": "tot nghiep, hoan thanh khoa hoc, chuyen sang giai doan moi, lon qua mot thu gi do, roi khoi nhom cong ty, nghi viec",
+          "en": "graduation, completion (of a course), moving on (from), outgrowing (something), leaving (a group, company, etc.), quitting"
         },
         "romaji": "sotsugyou"
       },
@@ -316,7 +340,8 @@
         "example": "中卒",
         "reading": "チュウソツ",
         "meaning": {
-          "vi": "having graduated from junior high school (as one's highest completed level of education), having completed no schooling beyond junior high school, middle school graduate"
+          "vi": "tot nghiep trung hoc co so, khong hoc qua bac trung hoc co so, nguoi tot nghiep cap 2",
+          "en": "having graduated from junior high school (as one's highest completed level of education), having completed no schooling beyond junior high school, middle school graduate"
         },
         "romaji": "chuusotsu"
       },
@@ -324,7 +349,8 @@
         "example": "大卒",
         "reading": "ダイソツ",
         "meaning": {
-          "en": "university graduate, having graduated from university"
+          "en": "university graduate, having graduated from university",
+          "vi": "tot nghiep dai hoc, da ra truong dai hoc"
         },
         "romaji": "daisotsu"
       }
@@ -334,7 +360,8 @@
         "example": "卒する",
         "reading": "そっする",
         "meaning": {
-          "vi": "to die, to pass away"
+          "vi": "chet, qua doi",
+          "en": "to die, to pass away"
         },
         "romaji": "sossuru"
       },
@@ -342,7 +369,8 @@
         "example": "終える",
         "reading": "おえる",
         "meaning": {
-          "en": "to finish, to graduate"
+          "en": "to finish, to graduate",
+          "vi": "hoan tat, tot nghiep"
         },
         "romaji": "oeru"
       },
@@ -350,14 +378,18 @@
         "example": "終わる",
         "reading": "おわる",
         "meaning": {
-          "vi": "to end, to come to an end, to finish, to close, to be over, to finish, to complete, to conclude, to finish doing, to be past its (one's) prime, to be awful, to be terrible, to suck, to be hopeless"
+          "vi": "ket thuc, di den hoi ket, hoan tat, dong lai, cham dut, lam xong, hoan thanh, ket luan, lam xong viec, qua thoi dinh cao, te hai, kinh khung, te, vo vong",
+          "en": "to end, to come to an end, to finish, to close, to be over, to finish, to complete, to conclude, to finish doing, to be past its (one's) prime, to be awful, to be terrible, to suck, to be hopeless"
         },
         "romaji": "owaru"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "muoi, tron ven"
+      }
     },
     "parts": [
       "亠",
@@ -373,5 +405,7 @@
     "thốt",
     "tuất",
     "tốt"
-  ]
+  ],
+  "jlpt_level": "N2",
+  "mnemonic_vi": "Nét trên như chiếc mũ lính, phía dưới là chữ thập như hàng ngũ: nhớ tới binh lính tốt nghiệp quân ngũ."
 }

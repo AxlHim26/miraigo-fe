@@ -5,7 +5,10 @@
     "query": "謂",
     "found": true,
     "strokeCount": 16,
-    "meaning": "reason, origin, history, oral tradition",
+    "meaning": {
+      "en": "reason, origin, history, oral tradition",
+      "vi": "lý do, nguồn gốc, lịch sử, truyền khẩu"
+    },
     "kunyomi": [
       "い.う",
       "いい",
@@ -20,7 +23,8 @@
         "example": "謂",
         "reading": "イイ",
         "meaning": {
-          "en": "what was said, what it means, origin of a story (or tradition, etc.)"
+          "en": "what was said, what it means, origin of a story (or tradition, etc.)",
+          "vi": "điều đã được nói, ý nghĩa của nó, nguồn gốc của một câu chuyện (hay truyền thống, v.v.)"
         },
         "romaji": "ii"
       },
@@ -28,7 +32,8 @@
         "example": "言う",
         "reading": "イウ",
         "meaning": {
-          "vi": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+          "vi": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise",
+          "en": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
         },
         "romaji": "iu"
       }
@@ -38,7 +43,8 @@
         "example": "言う",
         "reading": "いう",
         "meaning": {
-          "vi": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+          "vi": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise",
+          "en": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
         },
         "romaji": "iu"
       },
@@ -46,7 +52,8 @@
         "example": "言うところの",
         "reading": "いうところの",
         "meaning": {
-          "vi": "what is called, as it is called, the so-called, known as, so to speak"
+          "vi": "what is called, as it is called, the so-called, known as, so to speak",
+          "en": "what is called, as it is called, the so-called, known as, so to speak"
         },
         "romaji": "iutokorono"
       },
@@ -54,7 +61,8 @@
         "example": "謂",
         "reading": "いい",
         "meaning": {
-          "en": "what was said, what it means, origin of a story (or tradition, etc.)"
+          "en": "what was said, what it means, origin of a story (or tradition, etc.)",
+          "vi": "điều đã được nói, ý nghĩa của nó, nguồn gốc của một câu chuyện (hay truyền thống, v.v.)"
         },
         "romaji": "ii"
       },
@@ -62,7 +70,8 @@
         "example": "所謂",
         "reading": "いわゆる",
         "meaning": {
-          "en": "what is called, what you call, what they call, so-called"
+          "en": "what is called, what you call, what they call, so-called",
+          "vi": "điều được gọi là, cái mà bạn/họ gọi là, cái gọi là"
         },
         "romaji": "iwayuru"
       }
@@ -72,7 +81,10 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": {
+        "en": "speech",
+        "vi": "lời nói"
+      }
     },
     "parts": [
       "月",

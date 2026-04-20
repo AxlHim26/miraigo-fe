@@ -5,7 +5,10 @@
     "query": "丩",
     "found": true,
     "strokeCount": 2,
-    "meaning": "to join or connect the vine",
+    "meaning": {
+      "en": "to join or connect the vine",
+      "vi": "nối hoặc buộc dây leo"
+    },
     "kunyomi": [
       "まつわる"
     ],
@@ -16,7 +19,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "丨",
-      "meaning": "line"
+      "meaning": {
+        "en": "line",
+        "vi": "nét dọc"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20009_frames.png",

@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "kare, kano",
-    "meaning": "third person pronoun, that",
+    "meaning": {
+      "en": "third person pronoun, that",
+      "vi": "đại từ ngôi thứ ba, cái kia"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "彼岸（ひがん）",
         "meaning": {
-          "english": "equinoctial week"
+          "english": "equinoctial week",
+          "en": "equinoctial week",
+          "vi": "tuần lễ xuân phân hoặc thu phân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "彼（かれ）",
         "meaning": {
-          "english": "he, boyfriend"
+          "english": "he, boyfriend",
+          "en": "he, boyfriend",
+          "vi": "anh ấy, bạn trai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "彼等（かれら）",
         "meaning": {
-          "english": "they"
+          "english": "they",
+          "en": "they",
+          "vi": "họ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "彼氏（かれし）",
         "meaning": {
-          "english": "boyfriend"
+          "english": "boyfriend",
+          "en": "boyfriend",
+          "vi": "bạn trai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "彼女（かのじょ）",
         "meaning": {
-          "english": "she, girl friend"
+          "english": "she, girl friend",
+          "en": "she, girl friend",
+          "vi": "cô ấy, bạn gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kare_06_e.opus",
@@ -211,7 +224,9 @@
     "kanji": {
       "character": "彼",
       "meaning": {
-        "english": "third person pronoun, that"
+        "english": "third person pronoun, that",
+        "en": "third person pronoun, that",
+        "vi": "đại từ ngôi thứ ba, cái kia"
       },
       "strokes": {
         "count": 8,
@@ -265,7 +280,9 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go",
+        "en": "step, stride, street, to go",
+        "vi": "bước chân, sải bước, phố, đi"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -286,7 +303,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "648",
     "strokeCount": 8,
-    "meaning": "he, that, the",
+    "meaning": {
+      "en": "he, that, the",
+      "vi": "anh ấy, cái đó, mạo từ chỉ cái kia"
+    },
     "kunyomi": [
       "かれ",
       "かの",
@@ -300,7 +320,8 @@
         "example": "彼岸",
         "reading": "ヒガン",
         "meaning": {
-          "vi": "equinoctial week (when Buddhist services are held), Buddhist services during the equinoctial week, nirvana, opposite bank, opposite shore, shore on the other side"
+          "vi": "tuần lễ xuân phân hoặc thu phân, nghi lễ Phật giáo dịp đó, cõi niết bàn, bờ bên kia",
+          "en": "equinoctial week (when Buddhist services are held), Buddhist services during the equinoctial week, nirvana, opposite bank, opposite shore, shore on the other side"
         },
         "romaji": "higan"
       },
@@ -308,7 +329,8 @@
         "example": "彼是",
         "reading": "アレコレ",
         "meaning": {
-          "en": "this and that, this or that, one thing or another, this way and that, around, about, round about, roughly, nearly, almost"
+          "en": "this and that, this or that, one thing or another, this way and that, around, about, round about, roughly, nearly, almost",
+          "vi": "cái này cái kia, điều nọ điều kia, quanh quẩn, đại khái, gần như"
         },
         "romaji": "arekore"
       }
@@ -318,7 +340,8 @@
         "example": "彼",
         "reading": "かれ",
         "meaning": {
-          "en": "he, him, boyfriend"
+          "en": "he, him, boyfriend",
+          "vi": "anh ấy, cậu ấy, bạn trai"
         },
         "romaji": "kare"
       },
@@ -326,7 +349,8 @@
         "example": "彼ら",
         "reading": "かれら",
         "meaning": {
-          "en": "they, them"
+          "en": "they, them",
+          "vi": "họ, bọn họ"
         },
         "romaji": "karera"
       },
@@ -334,7 +358,8 @@
         "example": "前彼",
         "reading": "まえかれ",
         "meaning": {
-          "en": "former boyfriend, ex-boyfriend"
+          "en": "former boyfriend, ex-boyfriend",
+          "vi": "bạn trai cũ"
         },
         "romaji": "maekare"
       },
@@ -342,7 +367,8 @@
         "example": "元彼",
         "reading": "もとかれ",
         "meaning": {
-          "en": "former boyfriend, ex-boyfriend"
+          "en": "former boyfriend, ex-boyfriend",
+          "vi": "bạn trai cũ"
         },
         "romaji": "motokare"
       },
@@ -350,7 +376,8 @@
         "example": "彼の",
         "reading": "かの",
         "meaning": {
-          "en": "that well-known ..., the one and only ..., that, those, the"
+          "en": "that well-known ..., the one and only ..., that, those, the",
+          "vi": "cái đó nổi tiếng, duy nhất ấy, kia, những cái kia"
         },
         "romaji": "kano"
       },
@@ -358,7 +385,8 @@
         "example": "彼女",
         "reading": "かのじょ",
         "meaning": {
-          "en": "she, her, girlfriend"
+          "en": "she, her, girlfriend",
+          "vi": "cô ấy, nàng ấy, bạn gái"
         },
         "romaji": "kanojo"
       },
@@ -366,7 +394,8 @@
         "example": "彼の",
         "reading": "かの",
         "meaning": {
-          "en": "that well-known ..., the one and only ..., that, those, the"
+          "en": "that well-known ..., the one and only ..., that, those, the",
+          "vi": "cái đó nổi tiếng, duy nhất ấy, kia, những cái kia"
         },
         "romaji": "kano"
       },
@@ -374,14 +403,18 @@
         "example": "彼女",
         "reading": "かのじょ",
         "meaning": {
-          "en": "she, her, girlfriend"
+          "en": "she, her, girlfriend",
+          "vi": "cô ấy, nàng ấy, bạn gái"
         },
         "romaji": "kanojo"
       }
     ],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": {
+        "en": "step",
+        "vi": "bước"
+      }
     },
     "parts": [
       "又",
@@ -395,5 +428,7 @@
   },
   "hanViet": [
     "bỉ"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: Bước chân 彳 đi sang phía da 皮 bên kia, gợi người hoặc vật ở phía ấy, nên 彼 là anh ấy, cái đó, phía kia."
 }

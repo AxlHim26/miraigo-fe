@@ -5,7 +5,10 @@
     "query": "倨",
     "found": true,
     "strokeCount": 10,
-    "meaning": "pride, squatting with legs outstretched",
+    "meaning": {
+      "en": "pride, squatting with legs outstretched",
+      "vi": "kiêu ngạo, ngồi xổm duỗi chân"
+    },
     "kunyomi": [
       "おご.る"
     ],
@@ -18,7 +21,8 @@
         "example": "倨傲",
         "reading": "キョゴウ",
         "meaning": {
-          "vi": "haughty, arrogant, insolent, proud"
+          "vi": "ngạo mạn, kiêu căng, xấc xược, tự phụ",
+          "en": "haughty, arrogant, insolent, proud"
         },
         "romaji": "kyogou"
       },
@@ -26,7 +30,8 @@
         "example": "傲倨",
         "reading": "ゴウキョ",
         "meaning": {
-          "vi": "haughty, arrogant, insolent, proud"
+          "vi": "ngạo mạn, kiêu căng, xấc xược, tự phụ",
+          "en": "haughty, arrogant, insolent, proud"
         },
         "romaji": "goukyo"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

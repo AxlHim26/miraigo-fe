@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "hashi, hashiru, hashiri",
-    "meaning": "run",
+    "meaning": {
+      "en": "run",
+      "vi": "chạy"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "滑走路（かっそうろ）",
         "meaning": {
-          "english": "runway"
+          "english": "runway",
+          "en": "runway",
+          "vi": "đường băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-hashi(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "御馳走する（ごちそうする）",
         "meaning": {
-          "english": "treat someone to a meal"
+          "english": "treat someone to a meal",
+          "en": "treat someone to a meal",
+          "vi": "chiêu đãi ăn uống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-hashi(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "競走する（きょうそうする）",
         "meaning": {
-          "english": "race"
+          "english": "race",
+          "en": "race",
+          "vi": "thi chạy, đua"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-hashi(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "逃走する（とうそうする）",
         "meaning": {
-          "english": "escape [v.i.]"
+          "english": "escape [v.i.]",
+          "en": "escape [v.i.]",
+          "vi": "trốn chạy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-hashi(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "脱走する（だっそうする）",
         "meaning": {
-          "english": "escape [v.i.]"
+          "english": "escape [v.i.]",
+          "en": "escape [v.i.]",
+          "vi": "đào tẩu, bỏ trốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-hashi(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "走る（はしる）",
         "meaning": {
-          "english": "run"
+          "english": "run",
+          "en": "run",
+          "vi": "chạy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-hashi(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "*師走（しわす）",
         "meaning": {
-          "english": "traditional name for December"
+          "english": "traditional name for December",
+          "en": "traditional name for December",
+          "vi": "tên gọi truyền thống của tháng Chạp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-hashi(ru)_06_g.opus",
@@ -372,5 +389,7 @@
   },
   "hanViet": [
     "tẩu"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: nét trên như người nghiêng về trước, chân dưới lao nhanh nên 走 là chạy."
 }

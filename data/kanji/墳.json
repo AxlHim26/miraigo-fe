@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1822",
     "strokeCount": 15,
-    "meaning": "tomb, mound",
+    "meaning": {
+      "en": "tomb, mound",
+      "vi": "mộ, gò mộ"
+    },
     "kunyomi": [],
     "onyomi": [
       "フン"
@@ -18,7 +21,8 @@
         "example": "墳墓",
         "reading": "フンボ",
         "meaning": {
-          "en": "grave, tomb"
+          "en": "grave, tomb",
+          "vi": "mộ, lăng mộ"
         },
         "romaji": "funbo"
       },
@@ -26,7 +30,8 @@
         "example": "墳丘",
         "reading": "フンキュウ",
         "meaning": {
-          "en": "tumulus, grave mound"
+          "en": "tumulus, grave mound",
+          "vi": "gò mộ, mộ đắp"
         },
         "romaji": "funkyuu"
       },
@@ -34,7 +39,8 @@
         "example": "前方後円墳",
         "reading": "ゼンポウコウエンフン",
         "meaning": {
-          "vi": "keyhole-shaped ancient Japanese tumulus"
+          "vi": "keyhole-shaped ancient Japanese tumulus",
+          "en": "keyhole-shaped ancient Japanese tumulus"
         },
         "romaji": "zenpoukouenfun"
       },
@@ -42,7 +48,8 @@
         "example": "方墳",
         "reading": "ホウフン",
         "meaning": {
-          "vi": "flat-topped burial mound"
+          "vi": "flat-topped burial mound",
+          "en": "flat-topped burial mound"
         },
         "romaji": "houfun"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "ハ",
@@ -65,6 +75,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58b3.gif",
     "uri": "https://jisho.org/search/%E5%A2%B3%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là đất, 賁 gợi phần đắp nổi lên, thành gò đất chôn cất người xưa.",
   "hanViet": [
     "bổn",
     "phần",

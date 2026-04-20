@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "row",
+    "meaning": {
+      "en": "row",
+      "vi": "hàng"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "列（れつ）",
         "meaning": {
-          "english": "line"
+          "english": "line",
+          "en": "line",
+          "vi": "hàng, dòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "列車（れっしゃ）",
         "meaning": {
-          "english": "train"
+          "english": "train",
+          "en": "train",
+          "vi": "tàu hỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "列島（れっとう）",
         "meaning": {
-          "english": "chain of islands"
+          "english": "chain of islands",
+          "en": "chain of islands",
+          "vi": "chuỗi đảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "行列（ぎょうれつ）",
         "meaning": {
-          "english": "line, procession, matrix"
+          "english": "line, procession, matrix",
+          "en": "line, procession, matrix",
+          "vi": "hàng, đoàn người, ma trận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "前列（ぜんれつ）",
         "meaning": {
-          "english": "front row"
+          "english": "front row",
+          "en": "front row",
+          "vi": "hàng trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "後列（こうれつ）",
         "meaning": {
-          "english": "back row"
+          "english": "back row",
+          "en": "back row",
+          "vi": "hàng sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "系列（けいれつ）",
         "meaning": {
-          "english": "a group of businesses"
+          "english": "a group of businesses",
+          "en": "a group of businesses",
+          "vi": "một nhóm doanh nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "列挙する（れっきょする）",
         "meaning": {
-          "english": "enumerate, list"
+          "english": "enumerate, list",
+          "en": "enumerate, list",
+          "vi": "liệt kê, lập danh sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "整列する（せいれつする）",
         "meaning": {
-          "english": "stand in a row [v.i.]"
+          "english": "stand in a row [v.i.]",
+          "en": "stand in a row [v.i.]",
+          "vi": "xếp thành hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/retsu_06_i.opus",
@@ -213,7 +234,9 @@
     "kanji": {
       "character": "列",
       "meaning": {
-        "english": "row"
+        "english": "row",
+        "en": "row",
+        "vi": "hàng"
       },
       "strokes": {
         "count": 6,
@@ -263,7 +286,9 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -284,7 +309,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "927",
     "strokeCount": 6,
-    "meaning": "file, row, rank, tier, column",
+    "meaning": {
+      "en": "file, row, rank, tier, column",
+      "vi": "hàng, dãy, cấp bậc, tầng, cột"
+    },
     "kunyomi": [],
     "onyomi": [
       "レツ",
@@ -295,7 +323,8 @@
         "example": "列",
         "reading": "レツ",
         "meaning": {
-          "vi": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows"
+          "vi": "hàng, dòng, dãy, cột, hàng chờ, thứ bậc, đoàn người, nhóm, chuỗi, từ chỉ số hàng",
+          "en": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows"
         },
         "romaji": "retsu"
       },
@@ -303,7 +332,8 @@
         "example": "列伝",
         "reading": "レツデン",
         "meaning": {
-          "vi": "series of biographies"
+          "vi": "loạt tiểu sử",
+          "en": "series of biographies"
         },
         "romaji": "retsuden"
       },
@@ -311,7 +341,8 @@
         "example": "配列",
         "reading": "ハイレツ",
         "meaning": {
-          "vi": "arrangement, disposition, array"
+          "vi": "sự sắp xếp, bố trí, dàn hàng",
+          "en": "arrangement, disposition, array"
         },
         "romaji": "hairetsu"
       },
@@ -319,7 +350,8 @@
         "example": "系列",
         "reading": "ケイレツ",
         "meaning": {
-          "vi": "series, sequence, system, succession, keiretsu (group), conglomeration of businesses linked by cross-shareholdings, affiliated, subsidiary"
+          "vi": "chuỗi, trình tự, hệ thống, sự nối tiếp, keiretsu, tập đoàn doanh nghiệp liên kết sở hữu chéo, liên kết, công ty con",
+          "en": "series, sequence, system, succession, keiretsu (group), conglomeration of businesses linked by cross-shareholdings, affiliated, subsidiary"
         },
         "romaji": "keiretsu"
       },
@@ -327,7 +359,8 @@
         "example": "列",
         "reading": "レツ",
         "meaning": {
-          "vi": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows"
+          "vi": "hàng, dòng, dãy, cột, hàng chờ, thứ bậc, đoàn người, nhóm, chuỗi, từ chỉ số hàng",
+          "en": "row, line, file, column, queue, rank, procession, company (of someone), group, ranks, sequence, counter for rows"
         },
         "romaji": "retsu"
       },
@@ -335,7 +368,8 @@
         "example": "列車",
         "reading": "レッシャ",
         "meaning": {
-          "en": "train, railway train"
+          "en": "train, railway train",
+          "vi": "tàu hỏa, đoàn tàu"
         },
         "romaji": "ressha"
       },
@@ -343,7 +377,8 @@
         "example": "加密列",
         "reading": "カミツレ",
         "meaning": {
-          "en": "German chamomile (Matricaria recutita), German camomile"
+          "en": "German chamomile (Matricaria recutita), German camomile",
+          "vi": "cúc La Mã Đức (Matricaria recutita)"
         },
         "romaji": "kamitsure"
       }
@@ -354,7 +389,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "刈",
@@ -367,5 +405,7 @@
   },
   "hanViet": [
     "liệt"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: các vật bị sắp thẳng thành một hàng, nên 列 là hàng, dãy."
 }

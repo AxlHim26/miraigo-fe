@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1962",
     "strokeCount": 12,
-    "meaning": "high, boasting",
+    "meaning": {
+      "en": "high, boasting",
+      "vi": "cao, khoe khoang"
+    },
     "kunyomi": [
       "たか.い"
     ],
@@ -19,7 +22,8 @@
         "example": "喬志",
         "reading": "キョウシ",
         "meaning": {
-          "vi": "pride, self-conceit"
+          "vi": "pride, self-conceit",
+          "en": ""
         },
         "romaji": "kyoushi"
       },
@@ -27,7 +31,8 @@
         "example": "喬木",
         "reading": "キョウボク",
         "meaning": {
-          "en": "tall tree, forest tree, arbor, arbour"
+          "en": "tall tree, forest tree, arbor, arbour",
+          "vi": "cây cao, cây rừng"
         },
         "romaji": "kyouboku"
       }
@@ -35,7 +40,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "ノ",
@@ -51,5 +59,7 @@
   "hanViet": [
     "kiêu",
     "kiều"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng nói điều cao lớn quá mức nên thành kiêu, còn hình cao vút gợi nghĩa cao."
 }

@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "kuruma",
-    "meaning": "vehicle, wheel, car",
+    "meaning": {
+      "en": "vehicle, wheel, car",
+      "vi": "xe cộ, bánh xe, xe hơi"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "自転車（じてんしゃ）",
         "meaning": {
-          "english": "bicycle"
+          "english": "bicycle",
+          "en": "bicycle",
+          "vi": "xe đạp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "電車（でんしゃ）",
         "meaning": {
-          "english": "train"
+          "english": "train",
+          "en": "train",
+          "vi": "tàu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "自動車（じどうしゃ）",
         "meaning": {
-          "english": "automobile"
+          "english": "automobile",
+          "en": "automobile",
+          "vi": "ô tô"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "駐車する（ちゅうしゃする）",
         "meaning": {
-          "english": "park a car"
+          "english": "park a car",
+          "en": "park a car",
+          "vi": "đỗ xe"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "停車する（ていしゃする）",
         "meaning": {
-          "english": "stop a car or train"
+          "english": "stop a car or train",
+          "en": "stop a car or train",
+          "vi": "dừng xe hoặc tàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "車（くるま）",
         "meaning": {
-          "english": "car"
+          "english": "car",
+          "en": "car",
+          "vi": "xe hơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "車いす（くるまいす）",
         "meaning": {
-          "english": "wheel chair"
+          "english": "wheel chair",
+          "en": "wheel chair",
+          "vi": "xe lăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuruma_06_g.opus",
@@ -238,7 +255,9 @@
     "kanji": {
       "character": "車",
       "meaning": {
-        "english": "vehicle, wheel, car"
+        "english": "vehicle, wheel, car",
+        "en": "vehicle, wheel, car",
+        "vi": "xe cộ, bánh xe, xe hơi"
       },
       "strokes": {
         "count": 7,
@@ -290,7 +309,9 @@
         "romaji": "kuruma"
       },
       "meaning": {
-        "english": "vehicle, wheel, car"
+        "english": "vehicle, wheel, car",
+        "en": "vehicle, wheel, car",
+        "vi": "xe cộ, bánh xe, xe hơi"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuruma0.svg",
@@ -311,7 +332,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "333",
     "strokeCount": 7,
-    "meaning": "car",
+    "meaning": {
+      "en": "car",
+      "vi": "xe hơi"
+    },
     "kunyomi": [
       "くるま"
     ],
@@ -323,7 +347,8 @@
         "example": "車",
         "reading": "シャ",
         "meaning": {
-          "en": "car, vehicle, van, truck, wagon, lorry, (train) car, carriage"
+          "en": "car, vehicle, van, truck, wagon, lorry, (train) car, carriage",
+          "vi": "xe hơi, phương tiện, xe tải nhỏ, xe tải, toa xe, xe chở hàng, toa tàu, xe ngựa"
         },
         "romaji": "sha"
       },
@@ -331,7 +356,8 @@
         "example": "車検",
         "reading": "シャケン",
         "meaning": {
-          "vi": "vehicle inspection"
+          "vi": "vehicle inspection",
+          "en": ""
         },
         "romaji": "shaken"
       },
@@ -339,7 +365,8 @@
         "example": "軽自動車",
         "reading": "ケイジドウシャ",
         "meaning": {
-          "vi": "light motor vehicle (up to 660cc and 64bhp), k-car, kei car"
+          "vi": "light motor vehicle (up to 660cc and 64bhp), k-car, kei car",
+          "en": ""
         },
         "romaji": "keijidousha"
       },
@@ -347,7 +374,8 @@
         "example": "台車",
         "reading": "ダイシャ",
         "meaning": {
-          "vi": "platform truck, hand truck, trolley, dolly, cart, truck, bogie"
+          "vi": "platform truck, hand truck, trolley, dolly, cart, truck, bogie",
+          "en": ""
         },
         "romaji": "daisha"
       }
@@ -357,7 +385,8 @@
         "example": "車",
         "reading": "くるま",
         "meaning": {
-          "en": "car, automobile, vehicle, wheel, castor, caster"
+          "en": "car, automobile, vehicle, wheel, castor, caster",
+          "vi": "xe hơi, ô tô, phương tiện, bánh xe, bánh xoay"
         },
         "romaji": "kuruma"
       },
@@ -365,7 +394,8 @@
         "example": "車椅子",
         "reading": "くるまいす",
         "meaning": {
-          "en": "wheelchair"
+          "en": "wheelchair",
+          "vi": "xe lăn"
         },
         "romaji": "kurumaisu"
       },
@@ -373,7 +403,8 @@
         "example": "火の車",
         "reading": "ひのくるま",
         "meaning": {
-          "vi": "fiery chariot (that carries the souls of sinners into hell), desperate financial situation, dire straits"
+          "vi": "fiery chariot (that carries the souls of sinners into hell), desperate financial situation, dire straits",
+          "en": ""
         },
         "romaji": "hinokuruma"
       },
@@ -381,14 +412,18 @@
         "example": "お車",
         "reading": "おくるま",
         "meaning": {
-          "en": "car"
+          "en": "car",
+          "vi": "xe hơi"
         },
         "romaji": "okuruma"
       }
     ],
     "radical": {
       "symbol": "車",
-      "meaning": "cart, car"
+      "meaning": {
+        "en": "cart, car",
+        "vi": "xe đẩy, xe cộ"
+      }
     },
     "parts": [
       "車"
@@ -398,6 +433,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8eca.gif",
     "uri": "https://jisho.org/search/%E8%BB%8A%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: nhìn như bánh và thân xe nối lại thành cỗ xe.",
   "hanViet": [
     "xa"
   ]

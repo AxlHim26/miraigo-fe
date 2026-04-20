@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "counter for books",
+    "meaning": {
+      "en": "counter for books",
+      "vi": "lượng từ đếm sách"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "一冊（いっさつ）",
         "meaning": {
-          "english": "one (bound object)"
+          "english": "one (bound object)",
+          "en": "one (bound object)",
+          "vi": "một (vật đóng quyển)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "冊数（さっすう）",
         "meaning": {
-          "english": "number of bound things"
+          "english": "number of bound things",
+          "en": "number of bound things",
+          "vi": "số lượng vật đóng quyển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "別冊（べっさつ）",
         "meaning": {
-          "english": "extra issue"
+          "english": "extra issue",
+          "en": "extra issue",
+          "vi": "số phụ trương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "短冊（たんざく）",
         "meaning": {
-          "english": "small vertical card for poem"
+          "english": "small vertical card for poem",
+          "en": "small vertical card for poem",
+          "vi": "thẻ dọc nhỏ để viết thơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)satsu_06_d.opus",
@@ -153,7 +164,9 @@
     "kanji": {
       "character": "冊",
       "meaning": {
-        "english": "counter for books"
+        "english": "counter for books",
+        "en": "counter for books",
+        "vi": "lượng từ đếm sách"
       },
       "strokes": {
         "count": 5,
@@ -201,7 +214,9 @@
         "romaji": "keigamae"
       },
       "meaning": {
-        "english": "to enclose"
+        "english": "to enclose",
+        "en": "to enclose",
+        "vi": "bao quanh"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/keigamae0.svg",
@@ -222,7 +237,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1313",
     "strokeCount": 5,
-    "meaning": "tome, counter for books, volume",
+    "meaning": {
+      "en": "tome, counter for books, volume",
+      "vi": "tập sách, lượng từ đếm sách, quyển"
+    },
     "kunyomi": [
       "ふみ"
     ],
@@ -235,7 +253,8 @@
         "example": "冊",
         "reading": "サツ",
         "meaning": {
-          "en": "counter for books, volume"
+          "en": "counter for books, volume",
+          "vi": "lượng từ đếm sách, quyển"
         },
         "romaji": "satsu"
       },
@@ -243,7 +262,8 @@
         "example": "別冊",
         "reading": "ベッサツ",
         "meaning": {
-          "vi": "separate volume, extra issue, supplement, additional volume, supplementary volume"
+          "vi": "separate volume, extra issue, supplement, additional volume, supplementary volume",
+          "en": "separate volume, extra issue, supplement, additional volume, supplementary volume"
         },
         "romaji": "bessatsu"
       },
@@ -251,7 +271,8 @@
         "example": "合冊",
         "reading": "ガッサツ",
         "meaning": {
-          "en": "collection in one volume"
+          "en": "collection in one volume",
+          "vi": "tuyển tập trong một quyển"
         },
         "romaji": "gassatsu"
       },
@@ -259,7 +280,8 @@
         "example": "冊",
         "reading": "サク",
         "meaning": {
-          "vi": "imperial edict to confer nobility titles (in ancient China)"
+          "vi": "imperial edict to confer nobility titles (in ancient China)",
+          "en": "imperial edict to confer nobility titles (in ancient China)"
         },
         "romaji": "saku"
       },
@@ -267,7 +289,8 @@
         "example": "冊封",
         "reading": "サクホウ",
         "meaning": {
-          "vi": "bestowing peerage by imperial edict (in ancient China), document bestowing peerage"
+          "vi": "bestowing peerage by imperial edict (in ancient China), document bestowing peerage",
+          "en": "bestowing peerage by imperial edict (in ancient China), document bestowing peerage"
         },
         "romaji": "sakuhou"
       }
@@ -275,7 +298,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [
       "一",

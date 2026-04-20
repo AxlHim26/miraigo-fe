@@ -5,7 +5,10 @@
     "query": "僖",
     "found": true,
     "strokeCount": 14,
-    "meaning": "enjoyment, pleasure",
+    "meaning": {
+      "en": "enjoyment, pleasure",
+      "vi": "niềm vui, sự thích thú"
+    },
     "kunyomi": [
       "よろこ.ぶ"
     ],
@@ -19,7 +22,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

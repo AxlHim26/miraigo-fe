@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "aru, ayu, aruku, ayumu, ayumi",
-    "meaning": "walk",
+    "meaning": {
+      "en": "walk",
+      "vi": "đi bộ, bước đi"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "歩道（ほどう）",
         "meaning": {
-          "english": "sidewalk"
+          "english": "sidewalk",
+          "en": "sidewalk",
+          "vi": "vỉa hè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "歩調（ほちょう）",
         "meaning": {
-          "english": "pace (walking)"
+          "english": "pace (walking)",
+          "en": "pace (walking)",
+          "vi": "nhịp bước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "歩行者（ほこうしゃ）",
         "meaning": {
-          "english": "pedestrian"
+          "english": "pedestrian",
+          "en": "pedestrian",
+          "vi": "người đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "徒歩（とほ）",
         "meaning": {
-          "english": "on foot [n.]"
+          "english": "on foot [n.]",
+          "en": "on foot [n.]",
+          "vi": "đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "初歩（しょほ）",
         "meaning": {
-          "english": "elementary"
+          "english": "elementary",
+          "en": "elementary",
+          "vi": "sơ cấp, căn bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "散歩する（さんぽする）",
         "meaning": {
-          "english": "take a walk"
+          "english": "take a walk",
+          "en": "take a walk",
+          "vi": "đi dạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "進歩する（しんぽする）",
         "meaning": {
-          "english": "make progress"
+          "english": "make progress",
+          "en": "make progress",
+          "vi": "tiến bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "歩合（ぶあい）",
         "meaning": {
-          "english": "rate"
+          "english": "rate",
+          "en": "rate",
+          "vi": "tỷ lệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "歩（ふ）",
         "meaning": {
-          "english": "pawn (in chess or shogi)"
+          "english": "pawn (in chess or shogi)",
+          "en": "pawn (in chess or shogi)",
+          "vi": "quân tốt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "歩く（あるく）",
         "meaning": {
-          "english": "walk"
+          "english": "walk",
+          "en": "walk",
+          "vi": "đi bộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "歩む（あゆむ）",
         "meaning": {
-          "english": "walk"
+          "english": "walk",
+          "en": "walk",
+          "vi": "bước đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_k.opus",
@@ -511,5 +536,7 @@
   },
   "hanViet": [
     "bộ"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: các nét như hai chân bước từng bước một, nên 歩 là đi bộ, bước đi."
 }

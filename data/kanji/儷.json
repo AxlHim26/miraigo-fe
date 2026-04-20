@@ -5,7 +5,10 @@
     "query": "儷",
     "found": true,
     "strokeCount": 21,
-    "meaning": "companion",
+    "meaning": {
+      "en": "companion",
+      "vi": "bạn đồng hành"
+    },
     "kunyomi": [
       "つれあい",
       "ならぶ"
@@ -18,7 +21,8 @@
         "example": "伉儷",
         "reading": "コウレイ",
         "meaning": {
-          "vi": "married couple, spouses, husband and wife"
+          "en": "married couple, spouses, husband and wife",
+          "vi": "cặp vợ chồng, phu thê"
         },
         "romaji": "kourei"
       }
@@ -29,7 +33,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "冂",

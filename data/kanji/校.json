@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "school",
+    "meaning": {
+      "en": "school",
+      "vi": "trường học"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "学校（がっこう）",
         "meaning": {
-          "english": "school"
+          "english": "school",
+          "en": "school",
+          "vi": "trường học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "母校（ぼこう）",
         "meaning": {
-          "english": "alma mater"
+          "english": "alma mater",
+          "en": "alma mater",
+          "vi": "trường cũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "小学校（しょうがっこう）",
         "meaning": {
-          "english": "elementary school"
+          "english": "elementary school",
+          "en": "elementary school",
+          "vi": "trường tiểu học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "中学校（ちゅうがっこう）",
         "meaning": {
-          "english": "junior high school"
+          "english": "junior high school",
+          "en": "junior high school",
+          "vi": "trường trung học cơ sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "高校生（こうこうせい）",
         "meaning": {
-          "english": "senior high school student"
+          "english": "senior high school student",
+          "en": "senior high school student",
+          "vi": "học sinh trung học phổ thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "予備校（よびこう）",
         "meaning": {
-          "english": "cram school"
+          "english": "cram school",
+          "en": "cram school",
+          "vi": "lò luyện thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "校正する（こうせいする）",
         "meaning": {
-          "english": "proofread"
+          "english": "proofread",
+          "en": "proofread",
+          "vi": "soát lỗi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gak)kou_06_g.opus",
@@ -238,7 +255,9 @@
     "kanji": {
       "character": "校",
       "meaning": {
-        "english": "school"
+        "english": "school",
+        "en": "school",
+        "vi": "trường học"
       },
       "strokes": {
         "count": 10,
@@ -296,7 +315,9 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood",
+        "en": "tree, wood",
+        "vi": "cây, gỗ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -317,7 +338,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "294",
     "strokeCount": 10,
-    "meaning": "exam, school, printing, proof, correction",
+    "meaning": {
+      "en": "exam, school, printing, proof, correction",
+      "vi": "kiểm tra, trường học, in ấn, soát lỗi, hiệu đính"
+    },
     "kunyomi": [],
     "onyomi": [
       "コウ",
@@ -328,7 +352,8 @@
         "example": "校",
         "reading": "コウ",
         "meaning": {
-          "vi": "school, proofreading, proof"
+          "vi": "school, proofreading, proof",
+          "en": ""
         },
         "romaji": "kou"
       },
@@ -336,7 +361,8 @@
         "example": "校歌",
         "reading": "コウカ",
         "meaning": {
-          "en": "school song"
+          "en": "school song",
+          "vi": "bài hát trường"
         },
         "romaji": "kouka"
       },
@@ -344,7 +370,8 @@
         "example": "一校",
         "reading": "イッコウ",
         "meaning": {
-          "vi": "one school, the whole school, one proofreading, first proof"
+          "vi": "one school, the whole school, one proofreading, first proof",
+          "en": ""
         },
         "romaji": "ikkou"
       },
@@ -352,7 +379,8 @@
         "example": "同校",
         "reading": "ドウコウ",
         "meaning": {
-          "en": "the same school, the said school"
+          "en": "the same school, the said school",
+          "vi": "cùng trường, ngôi trường nói trên"
         },
         "romaji": "doukou"
       },
@@ -360,7 +388,8 @@
         "example": "校合",
         "reading": "キョウゴウ",
         "meaning": {
-          "vi": "collation, examining and comparing, checking (against the original text)"
+          "vi": "collation, examining and comparing, checking (against the original text)",
+          "en": ""
         },
         "romaji": "kyougou"
       },
@@ -368,7 +397,8 @@
         "example": "校書",
         "reading": "キョウショ",
         "meaning": {
-          "vi": "collation, examining and comparing, checking (against the original text), geisha"
+          "vi": "collation, examining and comparing, checking (against the original text), geisha",
+          "en": ""
         },
         "romaji": "kyousho"
       }
@@ -376,7 +406,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "cây"
+      }
     },
     "parts": [
       "亠",
@@ -392,5 +425,6 @@
     "giáo",
     "hiệu",
     "hào"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: cây và sự đối chiếu gợi nơi học tập, trường học."
 }

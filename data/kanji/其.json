@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "1930",
     "strokeCount": 8,
-    "meaning": "that",
+    "meaning": {
+      "en": "that",
+      "vi": "đó"
+    },
     "kunyomi": [
       "それ",
       "その"
@@ -22,21 +25,26 @@
         "example": "其れ",
         "reading": "それ",
         "meaning": {
-          "vi": "that, it, then, that point (in time), that time, there, you"
+          "vi": "that, it, then, that point (in time), that time, there, you",
+          "en": "that, it, then, that point (in time), that time, there, you"
         },
         "romaji": "sore"
       },
       {
         "example": "【それから】",
         "reading": "and then, after that",
-        "meaning": "",
+        "meaning": {
+          "en": "and then, after that",
+          "vi": "và rồi, sau đó"
+        },
         "romaji": "and then, after that"
       },
       {
         "example": "其の",
         "reading": "その",
         "meaning": {
-          "vi": "that, the, part (as in \"part two\"), um ..., er ..., uh ..."
+          "vi": "that, the, part (as in \"part two\"), um ..., er ..., uh ...",
+          "en": "that, the, part (as in \"part two\"), um ..., er ..., uh ..."
         },
         "romaji": "sono"
       },
@@ -44,14 +52,18 @@
         "example": "その上",
         "reading": "そのうえ",
         "meaning": {
-          "vi": "in addition, furthermore, above (which), on top of (which)"
+          "vi": "in addition, furthermore, above (which), on top of (which)",
+          "en": "in addition, furthermore, above (which), on top of (which)"
         },
         "romaji": "sonoue"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": {
+        "en": "eight",
+        "vi": "tám"
+      }
     },
     "parts": [
       "ハ",

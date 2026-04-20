@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "709",
     "strokeCount": 14,
-    "meaning": "colleague, official, companion",
+    "meaning": {
+      "en": "colleague, official, companion",
+      "vi": "đồng nghiệp, quan chức, bạn đồng hành"
+    },
     "kunyomi": [],
     "onyomi": [
       "リョウ"
@@ -18,7 +21,8 @@
         "example": "僚友",
         "reading": "リョウユウ",
         "meaning": {
-          "en": "colleague, workmate, comrade, coworker"
+          "en": "colleague, workmate, comrade, coworker",
+          "vi": "đồng nghiệp, cộng sự, đồng chí, người cùng làm việc"
         },
         "romaji": "ryouyuu"
       },
@@ -26,7 +30,8 @@
         "example": "僚船",
         "reading": "リョウセン",
         "meaning": {
-          "vi": "consort ship"
+          "vi": "tàu hộ tống",
+          "en": "consort ship"
         },
         "romaji": "ryousen"
       },
@@ -34,7 +39,8 @@
         "example": "幕僚",
         "reading": "バクリョウ",
         "meaning": {
-          "en": "staff, staff officer"
+          "en": "staff, staff officer",
+          "vi": "ban tham mưu, sĩ quan tham mưu"
         },
         "romaji": "bakuryou"
       },
@@ -42,7 +48,8 @@
         "example": "下僚",
         "reading": "カリョウ",
         "meaning": {
-          "vi": "subordinates, petty officials"
+          "vi": "cấp dưới, thuộc quan nhỏ",
+          "en": "subordinates, petty officials"
         },
         "romaji": "karyou"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

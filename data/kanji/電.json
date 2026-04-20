@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "electricity",
+    "meaning": {
+      "en": "electricity",
+      "vi": "điện"
+    },
     "kstroke": 13,
     "examples": [
       {
         "japanese": "電話する（でんわする）",
         "meaning": {
-          "english": "make a telephone call"
+          "english": "make a telephone call",
+          "en": "make a telephone call",
+          "vi": "gọi điện thoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "発電する（はつでんする）",
         "meaning": {
-          "english": "generate power"
+          "english": "generate power",
+          "en": "generate power",
+          "vi": "phát điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "電話（でんわ）",
         "meaning": {
-          "english": "telephone"
+          "english": "telephone",
+          "en": "telephone",
+          "vi": "điện thoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "電話番号（でんわばんごう）",
         "meaning": {
-          "english": "phone number"
+          "english": "phone number",
+          "en": "phone number",
+          "vi": "số điện thoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "電気（でんき）",
         "meaning": {
-          "english": "electricity"
+          "english": "electricity",
+          "en": "electricity",
+          "vi": "điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "電気屋（でんきや）",
         "meaning": {
-          "english": "electric appliance store"
+          "english": "electric appliance store",
+          "en": "electric appliance store",
+          "vi": "cửa hàng đồ điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "電車（でんしゃ）",
         "meaning": {
-          "english": "train"
+          "english": "train",
+          "en": "train",
+          "vi": "tàu điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "電子レンジ（でんしレンジ）",
         "meaning": {
-          "english": "microwave oven"
+          "english": "microwave oven",
+          "en": "microwave oven",
+          "vi": "lò vi sóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "終電（しゅうでん）",
         "meaning": {
-          "english": "last train"
+          "english": "last train",
+          "en": "last train",
+          "vi": "chuyến tàu cuối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "停電（ていでん）",
         "meaning": {
-          "english": "loss of electricity, blackout"
+          "english": "loss of electricity, blackout",
+          "en": "loss of electricity, blackout",
+          "vi": "mất điện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/den(wa)_06_j.opus",
@@ -274,7 +297,9 @@
     "kanji": {
       "character": "電",
       "meaning": {
-        "english": "electricity"
+        "english": "electricity",
+        "en": "electricity",
+        "vi": "điện"
       },
       "strokes": {
         "count": 13,
@@ -338,7 +363,9 @@
         "romaji": "amekanmuri"
       },
       "meaning": {
-        "english": "rain"
+        "english": "rain",
+        "en": "rain",
+        "vi": "mưa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/amekanmuri0.svg",
@@ -359,7 +386,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "268",
     "strokeCount": 13,
-    "meaning": "electricity",
+    "meaning": {
+      "en": "electricity",
+      "vi": "điện"
+    },
     "kunyomi": [],
     "onyomi": [
       "デン"
@@ -369,7 +399,8 @@
         "example": "電化",
         "reading": "デンカ",
         "meaning": {
-          "en": "electrification"
+          "en": "electrification",
+          "vi": "điện khí hóa"
         },
         "romaji": "denka"
       },
@@ -377,7 +408,8 @@
         "example": "電圧",
         "reading": "デンアツ",
         "meaning": {
-          "en": "voltage"
+          "en": "voltage",
+          "vi": "điện áp"
         },
         "romaji": "den'atsu"
       },
@@ -385,7 +417,8 @@
         "example": "送電",
         "reading": "ソウデン",
         "meaning": {
-          "vi": "transmission of electricity, electricity supply, power supply"
+          "vi": "transmission of electricity, electricity supply, power supply",
+          "en": ""
         },
         "romaji": "souden"
       },
@@ -393,7 +426,8 @@
         "example": "配電",
         "reading": "ハイデン",
         "meaning": {
-          "en": "distribution of electricity"
+          "en": "distribution of electricity",
+          "vi": "phân phối điện"
         },
         "romaji": "haiden"
       }
@@ -401,7 +435,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "雨",
-      "meaning": "rain"
+      "meaning": {
+        "en": "rain",
+        "vi": "mưa"
+      }
     },
     "parts": [
       "乙",
@@ -415,5 +452,6 @@
   },
   "hanViet": [
     "điện"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: mưa giông kèm tia chớp nên liên tưởng đến điện."
 }

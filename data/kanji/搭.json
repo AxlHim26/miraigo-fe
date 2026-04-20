@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1472",
     "strokeCount": 12,
-    "meaning": "board, load (a vehicle), ride",
+    "meaning": {
+      "en": "board, load (a vehicle), ride",
+      "vi": "lên xe, chất lên xe, đi nhờ"
+    },
     "kunyomi": [],
     "onyomi": [
       "トウ"
@@ -18,7 +21,8 @@
         "example": "搭載",
         "reading": "トウサイ",
         "meaning": {
-          "vi": "loading (on a ship), equipping (an aircraft, car, etc.) with, being equipped with"
+          "vi": "loading (on a ship), equipping (an aircraft, car, etc.) with, being equipped with",
+          "en": ""
         },
         "romaji": "tousai"
       },
@@ -26,7 +30,8 @@
         "example": "搭乗",
         "reading": "トウジョウ",
         "meaning": {
-          "vi": "embarkation, boarding (a ship or aircraft)"
+          "vi": "embarkation, boarding (a ship or aircraft)",
+          "en": ""
         },
         "romaji": "toujou"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": {
+        "en": "hand",
+        "vi": "tay"
+      }
     },
     "parts": [
       "一",
@@ -54,5 +62,7 @@
   "hanViet": [
     "tháp",
     "đáp"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: dùng tay vịn rồi bước lên xe, nên 搭 gợi việc lên xe hoặc ghép vào."
 }

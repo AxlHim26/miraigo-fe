@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "2389",
     "strokeCount": 9,
-    "meaning": "fear, majestic, graciously, be apprehensive",
+    "meaning": {
+      "en": "fear, majestic, graciously, be apprehensive",
+      "vi": "sợ hãi, uy nghiêm, kính cẩn, lo sợ"
+    },
     "kunyomi": [
       "おそ.れる",
       "かしこま.る",
@@ -22,7 +25,8 @@
         "example": "畏怖",
         "reading": "イフ",
         "meaning": {
-          "en": "awe, fear, dread, fright"
+          "en": "awe, fear, dread, fright",
+          "vi": "kính sợ, sợ hãi, kinh hãi"
         },
         "romaji": "ifu"
       },
@@ -30,7 +34,8 @@
         "example": "畏敬",
         "reading": "イケイ",
         "meaning": {
-          "vi": "reverence, awe, respect"
+          "vi": "reverence, awe, respect",
+          "en": "reverence, awe, respect"
         },
         "romaji": "ikei"
       },
@@ -38,7 +43,8 @@
         "example": "敬畏",
         "reading": "ケイイ",
         "meaning": {
-          "en": "awe, reverence, fear (e.g. of authority)"
+          "en": "awe, reverence, fear (e.g. of authority)",
+          "vi": "kính sợ, tôn kính, e sợ (ví dụ trước quyền uy)"
         },
         "romaji": "keii"
       },
@@ -46,7 +52,8 @@
         "example": "後生可畏",
         "reading": "コウセイカイ",
         "meaning": {
-          "vi": "the young should be regarded with respect"
+          "vi": "the young should be regarded with respect",
+          "en": "the young should be regarded with respect"
         },
         "romaji": "kouseikai"
       }
@@ -56,7 +63,8 @@
         "example": "恐れる",
         "reading": "おそれる",
         "meaning": {
-          "en": "to fear, to be afraid of"
+          "en": "to fear, to be afraid of",
+          "vi": "sợ, e ngại"
         },
         "romaji": "osoreru"
       },
@@ -64,7 +72,8 @@
         "example": "畏まる",
         "reading": "かしこまる",
         "meaning": {
-          "vi": "to obey respectfully, to humble oneself, to sit straight (upright, respectfully, attentively)"
+          "vi": "to obey respectfully, to humble oneself, to sit straight (upright, respectfully, attentively)",
+          "en": "to obey respectfully, to humble oneself, to sit straight (upright, respectfully, attentively)"
         },
         "romaji": "kashikomaru"
       },
@@ -72,7 +81,8 @@
         "example": "畏",
         "reading": "かしこ",
         "meaning": {
-          "vi": "yours sincerely, respectfully yours"
+          "vi": "yours sincerely, respectfully yours",
+          "en": "yours sincerely, respectfully yours"
         },
         "romaji": "kashiko"
       },
@@ -80,14 +90,18 @@
         "example": "賢い",
         "reading": "かしこい",
         "meaning": {
-          "vi": "wise, clever, smart, well-behaved (esp. children and pets), obedient, good"
+          "vi": "wise, clever, smart, well-behaved (esp. children and pets), obedient, good",
+          "en": "wise, clever, smart, well-behaved (esp. children and pets), obedient, good"
         },
         "romaji": "kashikoi"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": {
+        "en": "field",
+        "vi": "cánh đồng"
+      }
     },
     "parts": [
       "一",

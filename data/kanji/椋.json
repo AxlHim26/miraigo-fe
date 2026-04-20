@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 12,
-    "meaning": "type of deciduous tree, grey starling",
+    "meaning": {
+      "en": "type of deciduous tree, grey starling",
+      "vi": "một loài cây rụng lá, chim sáo xám"
+    },
     "kunyomi": [
       "むく"
     ],
@@ -19,7 +22,8 @@
         "example": "椋木",
         "reading": "むくのき",
         "meaning": {
-          "vi": "Aphananthe oriental elm (Aphananthe aspera), mukutree"
+          "vi": "cây mukunoki, một loài du phương đông (Aphananthe aspera)",
+          "en": "Aphananthe oriental elm (Aphananthe aspera), mukutree"
         },
         "romaji": "mukunoki"
       },
@@ -27,14 +31,18 @@
         "example": "椋鳥",
         "reading": "むくどり",
         "meaning": {
-          "vi": "grey starling (Sturnus cineraceus), gray starling, white-cheeked starling, starling (any bird of family Sturnidae), bumpkin, gullible person, sixty-nine (sexual position)"
+          "vi": "chim sáo xám, sáo má trắng, các loài sáo, nhà quê, người dễ bị lừa, tư thế 69",
+          "en": "grey starling (Sturnus cineraceus), gray starling, white-cheeked starling, starling (any bird of family Sturnidae), bumpkin, gullible person, sixty-nine (sexual position)"
         },
         "romaji": "mukudori"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "cây"
+      }
     },
     "parts": [
       "亠",
@@ -48,5 +56,7 @@
     "uri": "https://jisho.org/search/%E6%A4%8B%23kanji"
   },
   "hanViet": null,
-  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu",
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: bên trái là cây, bên phải gợi phần phong phú của một loài cây có chim đậu trên cành."
 }

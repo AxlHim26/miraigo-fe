@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1322",
     "strokeCount": 10,
-    "meaning": "ethics, companion",
+    "meaning": {
+      "en": "ethics, companion",
+      "vi": "đạo đức, bạn đồng hành"
+    },
     "kunyomi": [],
     "onyomi": [
       "リン"
@@ -18,7 +21,8 @@
         "example": "倫理的",
         "reading": "リンリテキ",
         "meaning": {
-          "en": "ethical"
+          "en": "ethical",
+          "vi": "thuộc về đạo đức"
         },
         "romaji": "rinriteki"
       },
@@ -26,7 +30,8 @@
         "example": "倫理",
         "reading": "リンリ",
         "meaning": {
-          "en": "ethics, morals"
+          "en": "ethics, morals",
+          "vi": "đạo đức, luân lý"
         },
         "romaji": "rinri"
       },
@@ -34,7 +39,8 @@
         "example": "映倫",
         "reading": "エイリン",
         "meaning": {
-          "en": "Eirin, Film Classification and Rating Organization"
+          "en": "Eirin, Film Classification and Rating Organization",
+          "vi": "Eirin, tổ chức phân loại và xếp hạng phim"
         },
         "romaji": "eirin"
       },
@@ -42,7 +48,8 @@
         "example": "五倫",
         "reading": "ゴリン",
         "meaning": {
-          "vi": "the five Confucian filial-piety relationships"
+          "vi": "the five Confucian filial-piety relationships",
+          "en": "the five Confucian filial-piety relationships"
         },
         "romaji": "gorin"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

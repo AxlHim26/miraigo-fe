@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "uchi",
-    "meaning": "inside",
+    "meaning": {
+      "en": "inside",
+      "vi": "bên trong"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "内容（ないよう）",
         "meaning": {
-          "english": "content"
+          "english": "content",
+          "en": "content",
+          "vi": "nội dung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "内部（ないぶ）",
         "meaning": {
-          "english": "interior"
+          "english": "interior",
+          "en": "interior",
+          "vi": "bên trong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "内科（ないか）",
         "meaning": {
-          "english": "internal medicine"
+          "english": "internal medicine",
+          "en": "internal medicine",
+          "vi": "nội khoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "内面（ないめん）",
         "meaning": {
-          "english": "internal (e.g. personality)"
+          "english": "internal (e.g. personality)",
+          "en": "internal (e.g. personality)",
+          "vi": "nội tâm (ví dụ: tính cách)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "家内（かない）",
         "meaning": {
-          "english": "my wife"
+          "english": "my wife",
+          "en": "my wife",
+          "vi": "vợ tôi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "国内（こくない）",
         "meaning": {
-          "english": "domestic (vs. international)"
+          "english": "domestic (vs. international)",
+          "en": "domestic (vs. international)",
+          "vi": "trong nước (đối lập với quốc tế)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "以内（いない）",
         "meaning": {
-          "english": "within"
+          "english": "within",
+          "en": "within",
+          "vi": "trong phạm vi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "案内する（あんないする）",
         "meaning": {
-          "english": "guide"
+          "english": "guide",
+          "en": "guide",
+          "vi": "hướng dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "内側（うちがわ）",
         "meaning": {
-          "english": "inside"
+          "english": "inside",
+          "en": "inside",
+          "vi": "bên trong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "内気な（うちきな）",
         "meaning": {
-          "english": "shy"
+          "english": "shy",
+          "en": "shy",
+          "vi": "rụt rè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_j.opus",
@@ -295,7 +318,9 @@
     "kanji": {
       "character": "内",
       "meaning": {
-        "english": "inside"
+        "english": "inside",
+        "en": "inside",
+        "vi": "bên trong"
       },
       "strokes": {
         "count": 4,
@@ -341,7 +366,9 @@
         "romaji": "keigamae"
       },
       "meaning": {
-        "english": "to enclose"
+        "english": "to enclose",
+        "en": "to enclose",
+        "vi": "bao quanh"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/keigamae0.svg",
@@ -362,7 +389,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "44",
     "strokeCount": 4,
-    "meaning": "inside, within, between, among, house, home",
+    "meaning": {
+      "en": "inside, within, between, among, house, home",
+      "vi": "bên trong, trong, giữa, trong số, nhà, gia đình"
+    },
     "kunyomi": [
       "うち"
     ],
@@ -375,7 +405,8 @@
         "example": "内",
         "reading": "ナイ",
         "meaning": {
-          "en": "within ..., inside ..."
+          "en": "within ..., inside ...",
+          "vi": "trong ..., bên trong ..."
         },
         "romaji": "nai"
       },
@@ -383,7 +414,8 @@
         "example": "内科",
         "reading": "ナイカ",
         "meaning": {
-          "vi": "internal medicine, department of internal medicine"
+          "vi": "internal medicine, department of internal medicine",
+          "en": "internal medicine, department of internal medicine"
         },
         "romaji": "naika"
       },
@@ -391,7 +423,8 @@
         "example": "党内",
         "reading": "トウナイ",
         "meaning": {
-          "vi": "party-internal, within the party"
+          "vi": "party-internal, within the party",
+          "en": "party-internal, within the party"
         },
         "romaji": "tounai"
       },
@@ -399,7 +432,8 @@
         "example": "校内",
         "reading": "コウナイ",
         "meaning": {
-          "en": "within a school"
+          "en": "within a school",
+          "vi": "trong trường học"
         },
         "romaji": "kounai"
       },
@@ -407,7 +441,8 @@
         "example": "内裏",
         "reading": "ダイリ",
         "meaning": {
-          "vi": "imperial palace, festival dolls representing the emperor and the empress"
+          "vi": "imperial palace, festival dolls representing the emperor and the empress",
+          "en": "imperial palace, festival dolls representing the emperor and the empress"
         },
         "romaji": "dairi"
       },
@@ -415,7 +450,8 @@
         "example": "内府",
         "reading": "ナイフ",
         "meaning": {
-          "vi": "Minister of the Interior (669-1868), Lord Keeper of the Privy Seal (1885-1945)"
+          "vi": "Minister of the Interior (669-1868), Lord Keeper of the Privy Seal (1885-1945)",
+          "en": "Minister of the Interior (669-1868), Lord Keeper of the Privy Seal (1885-1945)"
         },
         "romaji": "naifu"
       },
@@ -423,7 +459,8 @@
         "example": "境内",
         "reading": "ケイダイ",
         "meaning": {
-          "vi": "grounds (esp. of shrines and temples), compound, churchyard, precincts"
+          "vi": "grounds (esp. of shrines and temples), compound, churchyard, precincts",
+          "en": "grounds (esp. of shrines and temples), compound, churchyard, precincts"
         },
         "romaji": "keidai"
       },
@@ -431,7 +468,8 @@
         "example": "海内",
         "reading": "カイダイ",
         "meaning": {
-          "en": "the whole country"
+          "en": "the whole country",
+          "vi": "cả nước"
         },
         "romaji": "kaidai"
       }
@@ -441,7 +479,8 @@
         "example": "内",
         "reading": "うち",
         "meaning": {
-          "vi": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor"
+          "vi": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor",
+          "en": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor"
         },
         "romaji": "uchi"
       },
@@ -449,7 +488,8 @@
         "example": "内々",
         "reading": "うちうち",
         "meaning": {
-          "vi": "private, confidential, informal, secret, (within the) family circle, (on the) inside"
+          "vi": "private, confidential, informal, secret, (within the) family circle, (on the) inside",
+          "en": "private, confidential, informal, secret, (within the) family circle, (on the) inside"
         },
         "romaji": "uchiuchi"
       },
@@ -457,7 +497,8 @@
         "example": "幕内",
         "reading": "まくうち",
         "meaning": {
-          "vi": "makuuchi, top division (of professional sumo)"
+          "vi": "makuuchi, top division (of professional sumo)",
+          "en": "makuuchi, top division (of professional sumo)"
         },
         "romaji": "makuuchi"
       },
@@ -465,14 +506,18 @@
         "example": "お家",
         "reading": "おうち",
         "meaning": {
-          "en": "your home, your family, their home, their family, (my) home"
+          "en": "your home, your family, their home, their family, (my) home",
+          "vi": "nhà bạn, gia đình bạn, nhà họ, gia đình họ, nhà (của tôi)"
         },
         "romaji": "ouchi"
       }
     ],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [
       "人",
@@ -486,5 +531,7 @@
   "hanViet": [
     "nạp",
     "nội"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Có người ở trong khung bao, nên nhớ là bên trong, nội."
 }

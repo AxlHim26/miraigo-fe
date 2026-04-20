@@ -5,7 +5,10 @@
     "query": "冖",
     "found": true,
     "strokeCount": 2,
-    "meaning": "wa-shaped crown radical (no. 14)",
+    "meaning": {
+      "en": "wa-shaped crown radical (no. 14)",
+      "vi": "bộ \"mái wa\" (số 14)"
+    },
     "kunyomi": [],
     "onyomi": [
       "ベキ"
@@ -15,7 +18,8 @@
         "example": "冖冠",
         "reading": "ベキカンムリ",
         "meaning": {
-          "vi": "kanji \"wa\" radical at top (radical 14)"
+          "vi": "kanji \"wa\" radical at top (radical 14)",
+          "en": "kanji \"wa\" radical at top (radical 14)"
         },
         "romaji": "bekikanmuri"
       }
@@ -23,7 +27,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冖",
-      "meaning": "cover"
+      "meaning": {
+        "en": "cover",
+        "vi": "che phủ"
+      }
     },
     "parts": [
       "冖"

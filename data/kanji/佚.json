@@ -5,7 +5,10 @@
     "query": "佚",
     "found": true,
     "strokeCount": 7,
-    "meaning": "lost, hide, peace, mistake, beautiful, in turn",
+    "meaning": {
+      "en": "lost, hide, peace, mistake, beautiful, in turn",
+      "vi": "mất, ẩn giấu, yên bình, sai lầm, đẹp, lần lượt"
+    },
     "kunyomi": [
       "たのし.む",
       "のが.れる"
@@ -19,7 +22,8 @@
         "example": "佚",
         "reading": "イツ",
         "meaning": {
-          "en": "being comfortable, relaxing"
+          "en": "being comfortable, relaxing",
+          "vi": "thoải mái, thư giãn"
         },
         "romaji": "itsu"
       },
@@ -27,7 +31,8 @@
         "example": "逸文",
         "reading": "イツブン",
         "meaning": {
-          "vi": "lost work, lost writings, partially lost work, literary fragment, work that survives through quotations, work of a superior quality"
+          "en": "lost work, lost writings, partially lost work, literary fragment, work that survives through quotations, work of a superior quality",
+          "vi": "tác phẩm thất lạc, trước tác bị mất, tác phẩm chỉ còn một phần, mảnh văn còn sót, tác phẩm chỉ còn qua trích dẫn, tác phẩm xuất sắc"
         },
         "romaji": "itsubun"
       },
@@ -35,7 +40,8 @@
         "example": "散逸",
         "reading": "サンイツ",
         "meaning": {
-          "vi": "being scattered and ultimately lost, dissipation"
+          "en": "being scattered and ultimately lost, dissipation",
+          "vi": "bị phân tán rồi thất lạc, tiêu tán"
         },
         "romaji": "san'itsu"
       },
@@ -43,7 +49,8 @@
         "example": "放逸",
         "reading": "ホウイツ",
         "meaning": {
-          "en": "self-indulgence, looseness, dissoluteness"
+          "en": "self-indulgence, looseness, dissoluteness",
+          "vi": "sự buông thả, lỏng lẻo, trụy lạc"
         },
         "romaji": "houitsu"
       }
@@ -54,7 +61,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

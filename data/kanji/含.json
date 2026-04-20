@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "fuku, fukumu, fukumi, fukumeru",
-    "meaning": "contain, include",
+    "meaning": {
+      "en": "contain, include",
+      "vi": "bao gom, chua dung"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "含蓄（がんちく）",
         "meaning": {
-          "english": "significance, implication"
+          "english": "significance, implication",
+          "en": "significance, implication",
+          "vi": "y nghia, ham y"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(mu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "含有する（がんゆうする）",
         "meaning": {
-          "english": "contain, include"
+          "english": "contain, include",
+          "en": "contain, include",
+          "vi": "bao gom, chua dung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(mu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "包含する（ほうがんする）",
         "meaning": {
-          "english": "include, contain, imply"
+          "english": "include, contain, imply",
+          "en": "include, contain, imply",
+          "vi": "bao gom, chua dung, ham y"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(mu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "含める（ふくめる）",
         "meaning": {
-          "english": "include [v.t.]"
+          "english": "include [v.t.]",
+          "en": "include [v.t.]",
+          "vi": "bao ham, dua vao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(mu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "含む（ふくむ）",
         "meaning": {
-          "english": "include, contain, hold [v.i.]"
+          "english": "include, contain, hold [v.i.]",
+          "en": "include, contain, hold [v.i.]",
+          "vi": "bao ham, chua, nam trong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fuku(mu)_06_e.opus",
@@ -164,7 +177,9 @@
     "kanji": {
       "character": "含",
       "meaning": {
-        "english": "contain, include"
+        "english": "contain, include",
+        "en": "contain, include",
+        "vi": "bao gom, chua dung"
       },
       "strokes": {
         "count": 7,
@@ -216,7 +231,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "mieng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -237,7 +254,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "466",
     "strokeCount": 7,
-    "meaning": "contain, include, hold in the mouth, bear in mind, understand, cherish",
+    "meaning": {
+      "en": "contain, include, hold in the mouth, bear in mind, understand, cherish",
+      "vi": "bao gom, chua dung, ngam trong mieng, ghi nho, hieu, tran trong"
+    },
     "kunyomi": [
       "ふく.む",
       "ふく.める"
@@ -250,7 +270,8 @@
         "example": "含有",
         "reading": "ガンユウ",
         "meaning": {
-          "en": "containing (an ingredient, mineral, etc.)"
+          "en": "containing (an ingredient, mineral, etc.)",
+          "vi": "co chua thanh phan, khoang chat, v.v."
         },
         "romaji": "gan'yuu"
       },
@@ -258,7 +279,8 @@
         "example": "含蓄",
         "reading": "ガンチク",
         "meaning": {
-          "vi": "implication, significance, connotation, depth of meaning, complications of a problem"
+          "vi": "ham y, y nghia, sac thai nghia, do sau y tu, su phuc tap cua van de",
+          "en": "implication, significance, connotation, depth of meaning, complications of a problem"
         },
         "romaji": "ganchiku"
       },
@@ -266,7 +288,8 @@
         "example": "内含",
         "reading": "ナイガン",
         "meaning": {
-          "vi": "containing within (it), inclusion, (material) implication, material conditional"
+          "vi": "co chua ben trong, su bao ham, ham y vat chat, menh de keo theo vat chat",
+          "en": "containing within (it), inclusion, (material) implication, material conditional"
         },
         "romaji": "naigan"
       }
@@ -276,7 +299,8 @@
         "example": "含む",
         "reading": "ふくむ",
         "meaning": {
-          "vi": "to contain, to comprise, to have, to hold, to include, to embrace, to hold in the mouth, to bear in mind, to understand, to harbor (grudge, etc.), to harbour, to express (emotion, etc.), to imply"
+          "vi": "chua, bao gom, co, giu, dua vao, om tron, ngam trong mieng, ghi nho, hieu, om han, nuoi giu, bieu lo cam xuc, ham y",
+          "en": "to contain, to comprise, to have, to hold, to include, to embrace, to hold in the mouth, to bear in mind, to understand, to harbor (grudge, etc.), to harbour, to express (emotion, etc.), to imply"
         },
         "romaji": "fukumu"
       },
@@ -284,7 +308,8 @@
         "example": "含むところがある",
         "reading": "ふくむところがある",
         "meaning": {
-          "en": "to harbor ill feeling"
+          "en": "to harbor ill feeling",
+          "vi": "om ac cam"
         },
         "romaji": "fukumutokorogaaru"
       },
@@ -292,14 +317,18 @@
         "example": "含める",
         "reading": "ふくめる",
         "meaning": {
-          "vi": "to include (in a group or scope), to instruct, to make one understand, to include (a nuance), to put in (an implication), to put in (someone's) mouth, to permeate with flavor"
+          "vi": "dua vao trong nhom pham vi, chi dan, lam cho hieu, bao ham sac thai, chen ham y, nhet vao mieng ai do, tham vi",
+          "en": "to include (in a group or scope), to instruct, to make one understand, to include (a nuance), to put in (an implication), to put in (someone's) mouth, to permeate with flavor"
         },
         "romaji": "fukumeru"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "mieng, lo mo"
+      }
     },
     "parts": [
       "一",
@@ -314,5 +343,7 @@
   "hanViet": [
     "hàm",
     "hám"
-  ]
+  ],
+  "jlpt_level": "N2",
+  "mnemonic_vi": "Miệng giữ vật ở bên trong, nhớ là hàm chứa và bao gồm."
 }

@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "shiro, shira, shiroi",
-    "meaning": "white",
+    "meaning": {
+      "en": "white",
+      "vi": "màu trắng"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "白紙（はくし）",
         "meaning": {
-          "english": "white paper"
+          "english": "white paper",
+          "en": "white paper",
+          "vi": "giấy trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiro(i)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "白人（はくじん）",
         "meaning": {
-          "english": "Caucasian"
+          "english": "Caucasian",
+          "en": "Caucasian",
+          "vi": "người da trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiro(i)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "白鳥（はくちょう）",
         "meaning": {
-          "english": "swan"
+          "english": "swan",
+          "en": "swan",
+          "vi": "thiên nga"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiro(i)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "空白（くうはく）",
         "meaning": {
-          "english": "blank space"
+          "english": "blank space",
+          "en": "blank space",
+          "vi": "khoảng trống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiro(i)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "明白な（めいはくな）",
         "meaning": {
-          "english": "obvious"
+          "english": "obvious",
+          "en": "obvious",
+          "vi": "rõ ràng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiro(i)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "白夜（びゃくや）",
         "meaning": {
-          "english": "white (arctic) night"
+          "english": "white (arctic) night",
+          "en": "white (arctic) night",
+          "vi": "đêm trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiro(i)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "白い（しろい）",
         "meaning": {
-          "english": "white"
+          "english": "white",
+          "en": "white",
+          "vi": "màu trắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiro(i)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "白髪（しらが）",
         "meaning": {
-          "english": "white or grey hair"
+          "english": "white or grey hair",
+          "en": "white or grey hair",
+          "vi": "tóc bạc hoặc tóc xám"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shiro(i)_06_h.opus",
@@ -250,7 +269,9 @@
     "kanji": {
       "character": "白",
       "meaning": {
-        "english": "white"
+        "english": "white",
+        "en": "white",
+        "vi": "màu trắng"
       },
       "strokes": {
         "count": 5,
@@ -298,7 +319,9 @@
         "romaji": "shiro"
       },
       "meaning": {
-        "english": "white"
+        "english": "white",
+        "en": "white",
+        "vi": "màu trắng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shiro0.svg",
@@ -319,7 +342,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "483",
     "strokeCount": 5,
-    "meaning": "white",
+    "meaning": {
+      "en": "white",
+      "vi": "màu trắng"
+    },
     "kunyomi": [
       "しろ",
       "しら-",
@@ -334,7 +360,8 @@
         "example": "白",
         "reading": "ハク",
         "meaning": {
-          "vi": "white, striped mullet fry (Mugil cephalus), (spoken) line (in a play, film, etc.), one's lines, white dragon tile, winning hand with a pung (or kong) of white dragon tiles, Belgium, white person, Caucasian"
+          "vi": "white, striped mullet fry (Mugil cephalus), (spoken) line (in a play, film, etc.), one's lines, white dragon tile, winning hand with a pung (or kong) of white dragon tiles, Belgium, white person, Caucasian",
+          "en": ""
         },
         "romaji": "haku"
       },
@@ -342,7 +369,8 @@
         "example": "白衣",
         "reading": "ハクイ",
         "meaning": {
-          "vi": "white clothes, white robe, white gown (worn by doctors, chemists, etc.), commoner without rank (in ancient China), layperson"
+          "vi": "white clothes, white robe, white gown (worn by doctors, chemists, etc.), commoner without rank (in ancient China), layperson",
+          "en": ""
         },
         "romaji": "hakui"
       },
@@ -350,7 +378,8 @@
         "example": "美白",
         "reading": "ビハク",
         "meaning": {
-          "vi": "beautifully white (esp. of skin), whitening (of skin, teeth, etc.)"
+          "vi": "beautifully white (esp. of skin), whitening (of skin, teeth, etc.)",
+          "en": ""
         },
         "romaji": "bihaku"
       },
@@ -358,7 +387,8 @@
         "example": "漂白",
         "reading": "ヒョウハク",
         "meaning": {
-          "en": "blanching, bleaching"
+          "en": "blanching, bleaching",
+          "vi": "sự tẩy trắng, làm bạc màu"
         },
         "romaji": "hyouhaku"
       },
@@ -366,7 +396,8 @@
         "example": "白衣",
         "reading": "ハクイ",
         "meaning": {
-          "vi": "white clothes, white robe, white gown (worn by doctors, chemists, etc.), commoner without rank (in ancient China), layperson"
+          "vi": "white clothes, white robe, white gown (worn by doctors, chemists, etc.), commoner without rank (in ancient China), layperson",
+          "en": ""
         },
         "romaji": "hakui"
       },
@@ -374,7 +405,8 @@
         "example": "白夜",
         "reading": "ビャクヤ",
         "meaning": {
-          "en": "night under the midnight sun, white night (at extreme latitudes), night during which the sun doesn't set"
+          "en": "night under the midnight sun, white night (at extreme latitudes), night during which the sun doesn't set",
+          "vi": "đêm trắng, đêm mặt trời không lặn"
         },
         "romaji": "byakuya"
       },
@@ -382,7 +414,8 @@
         "example": "敬白",
         "reading": "ケイハク",
         "meaning": {
-          "en": "yours sincerely, sincerely yours, yours truly"
+          "en": "yours sincerely, sincerely yours, yours truly",
+          "vi": "trân trọng, kính thư"
         },
         "romaji": "keihaku"
       },
@@ -390,7 +423,8 @@
         "example": "恐惶敬白",
         "reading": "キョウコウケイハク",
         "meaning": {
-          "vi": "very truly yours, very respectfully yours"
+          "vi": "very truly yours, very respectfully yours",
+          "en": ""
         },
         "romaji": "kyoukoukeihaku"
       }
@@ -400,7 +434,8 @@
         "example": "白",
         "reading": "しろ",
         "meaning": {
-          "vi": "white, innocence, innocent person, blank space, white stone, white dragon tile, skewered grilled pig intestine"
+          "vi": "white, innocence, innocent person, blank space, white stone, white dragon tile, skewered grilled pig intestine",
+          "en": ""
         },
         "romaji": "shiro"
       },
@@ -408,7 +443,8 @@
         "example": "白い",
         "reading": "しろい",
         "meaning": {
-          "en": "white"
+          "en": "white",
+          "vi": "màu trắng"
         },
         "romaji": "shiroi"
       },
@@ -416,7 +452,8 @@
         "example": "面白",
         "reading": "おもしろ",
         "meaning": {
-          "en": "amusing, funny, interesting"
+          "en": "amusing, funny, interesting",
+          "vi": "thú vị, buồn cười, hấp dẫn"
         },
         "romaji": "omoshiro"
       },
@@ -424,7 +461,8 @@
         "example": "蘿蔔",
         "reading": "すずしろ",
         "meaning": {
-          "vi": "daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)"
+          "vi": "daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)",
+          "en": ""
         },
         "romaji": "suzushiro"
       },
@@ -432,7 +470,8 @@
         "example": "白い",
         "reading": "しろい",
         "meaning": {
-          "en": "white"
+          "en": "white",
+          "vi": "màu trắng"
         },
         "romaji": "shiroi"
       },
@@ -440,14 +479,18 @@
         "example": "白色",
         "reading": "しろいろ",
         "meaning": {
-          "en": "white"
+          "en": "white",
+          "vi": "màu trắng"
         },
         "romaji": "shiroiro"
       }
     ],
     "radical": {
       "symbol": "白",
-      "meaning": "white"
+      "meaning": {
+        "en": "white",
+        "vi": "màu trắng"
+      }
     },
     "parts": [
       "白"
@@ -459,5 +502,6 @@
   },
   "hanViet": [
     "bạch"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: tia sáng chiếu vào làm mọi thứ trắng rõ ra."
 }

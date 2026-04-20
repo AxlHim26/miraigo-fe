@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2250",
     "strokeCount": 7,
-    "meaning": "help, assist",
+    "meaning": {
+      "en": "help, assist",
+      "vi": "giúp đỡ, hỗ trợ"
+    },
     "kunyomi": [
       "たす.ける"
     ],
@@ -20,7 +23,8 @@
         "example": "佑助",
         "reading": "ユウジョ",
         "meaning": {
-          "en": "assistance"
+          "en": "assistance",
+          "vi": "assistance"
         },
         "romaji": "yuujo"
       },
@@ -28,6 +32,7 @@
         "example": "神祐",
         "reading": "シンユウ",
         "meaning": {
+          "en": "heavenly protection, divine help",
           "vi": "heavenly protection, divine help"
         },
         "romaji": "shin'yuu"
@@ -36,6 +41,7 @@
         "example": "天佑",
         "reading": "テンユウ",
         "meaning": {
+          "en": "divine aid, divine grace, providential help",
           "vi": "divine aid, divine grace, providential help"
         },
         "romaji": "ten'yuu"
@@ -44,6 +50,7 @@
         "example": "神祐",
         "reading": "シンユウ",
         "meaning": {
+          "en": "heavenly protection, divine help",
           "vi": "heavenly protection, divine help"
         },
         "romaji": "shin'yuu"
@@ -52,6 +59,7 @@
         "example": "天佑",
         "reading": "テンユウ",
         "meaning": {
+          "en": "divine aid, divine grace, providential help",
           "vi": "divine aid, divine grace, providential help"
         },
         "romaji": "ten'yuu"
@@ -62,6 +70,7 @@
         "example": "助ける",
         "reading": "たすける",
         "meaning": {
+          "en": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to",
           "vi": "to save, to rescue, to spare, to help, to assist, to support (financially), to contribute (to), to provide aid, to facilitate, to stimulate, to promote, to contribute to"
         },
         "romaji": "tasukeru"
@@ -72,7 +81,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

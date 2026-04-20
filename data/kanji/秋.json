@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "aki",
-    "meaning": "autumn",
+    "meaning": {
+      "en": "autumn",
+      "vi": "mùa thu"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "秋分（しゅうぶん）",
         "meaning": {
-          "english": "autumn equinox"
+          "english": "autumn equinox",
+          "en": "autumn equinox",
+          "vi": "thu phân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aki_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "秋（あき）",
         "meaning": {
-          "english": "autumn"
+          "english": "autumn",
+          "en": "autumn",
+          "vi": "mùa thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aki_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "秋風（あきかぜ）",
         "meaning": {
-          "english": "autumn breeze"
+          "english": "autumn breeze",
+          "en": "autumn breeze",
+          "vi": "gió thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aki_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "秋学期（あきがっき）",
         "meaning": {
-          "english": "autumn semester/quarter"
+          "english": "autumn semester/quarter",
+          "en": "autumn semester/quarter",
+          "vi": "học kỳ mùa thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aki_06_d.opus",
@@ -192,7 +203,9 @@
     "kanji": {
       "character": "秋",
       "meaning": {
-        "english": "autumn"
+        "english": "autumn",
+        "en": "autumn",
+        "vi": "mùa thu"
       },
       "strokes": {
         "count": 9,
@@ -248,7 +261,9 @@
         "romaji": "nogihen"
       },
       "meaning": {
-        "english": "grain"
+        "english": "grain",
+        "en": "grain",
+        "vi": "ngũ cốc"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nogihen0.svg",
@@ -269,7 +284,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "635",
     "strokeCount": 9,
-    "meaning": "autumn",
+    "meaning": {
+      "en": "autumn",
+      "vi": "mùa thu"
+    },
     "kunyomi": [
       "あき",
       "とき"
@@ -282,7 +300,8 @@
         "example": "秋季",
         "reading": "シュウキ",
         "meaning": {
-          "en": "fall season, autumn season"
+          "en": "fall season, autumn season",
+          "vi": "mùa thu"
         },
         "romaji": "shuuki"
       },
@@ -290,7 +309,8 @@
         "example": "秋風",
         "reading": "アキカゼ",
         "meaning": {
-          "en": "autumn breeze, fall breeze"
+          "en": "autumn breeze, fall breeze",
+          "vi": "autumn breeze, fall breeze"
         },
         "romaji": "akikaze"
       },
@@ -298,7 +318,8 @@
         "example": "今秋",
         "reading": "コンシュウ",
         "meaning": {
-          "en": "this autumn, this fall, autumn of this year"
+          "en": "this autumn, this fall, autumn of this year",
+          "vi": "mùa thu này, mùa thu năm nay"
         },
         "romaji": "konshuu"
       },
@@ -306,7 +327,8 @@
         "example": "中秋",
         "reading": "チュウシュウ",
         "meaning": {
-          "en": "15th day of the 8th lunar month, eighth month of the lunar calendar"
+          "en": "15th day of the 8th lunar month, eighth month of the lunar calendar",
+          "vi": "ngày 15 tháng 8 âm lịch, tháng tám âm lịch"
         },
         "romaji": "chuushuu"
       }
@@ -316,7 +338,8 @@
         "example": "秋",
         "reading": "あき",
         "meaning": {
-          "en": "autumn, fall"
+          "en": "autumn, fall",
+          "vi": "mùa thu"
         },
         "romaji": "aki"
       },
@@ -324,7 +347,8 @@
         "example": "秋口",
         "reading": "あきぐち",
         "meaning": {
-          "en": "beginning of autumn, beginning of fall"
+          "en": "beginning of autumn, beginning of fall",
+          "vi": "đầu thu"
         },
         "romaji": "akiguchi"
       },
@@ -332,7 +356,8 @@
         "example": "春秋",
         "reading": "しゅんじゅう",
         "meaning": {
-          "vi": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu"
+          "vi": "spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu",
+          "en": "spring and autumn, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu"
         },
         "romaji": "shunjuu"
       },
@@ -340,7 +365,8 @@
         "example": "中秋",
         "reading": "ちゅうしゅう",
         "meaning": {
-          "en": "15th day of the 8th lunar month, eighth month of the lunar calendar"
+          "en": "15th day of the 8th lunar month, eighth month of the lunar calendar",
+          "vi": "ngày 15 tháng 8 âm lịch, tháng tám âm lịch"
         },
         "romaji": "chuushuu"
       },
@@ -348,7 +374,8 @@
         "example": "時",
         "reading": "とき",
         "meaning": {
-          "vi": "time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense"
+          "vi": "time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense",
+          "en": "time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense"
         },
         "romaji": "toki"
       },
@@ -356,14 +383,18 @@
         "example": "危急存亡の秋",
         "reading": "ききゅうそんぼうのとき",
         "meaning": {
-          "en": "crisis, critical moment, critical time"
+          "en": "crisis, critical moment, critical time",
+          "vi": "khủng hoảng, thời khắc then chốt, thời điểm quan trọng"
         },
         "romaji": "kikyuusonbounotoki"
       }
     ],
     "radical": {
       "symbol": "禾",
-      "meaning": "grain"
+      "meaning": {
+        "en": "grain",
+        "vi": "ngũ cốc"
+      }
     },
     "parts": [
       "火",
@@ -377,5 +408,7 @@
   "hanViet": [
     "thu",
     "thâu"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: Lúa 禾 gặp lửa 火 sau mùa gặt gợi sắc thu, nên 秋 là mùa thu."
 }

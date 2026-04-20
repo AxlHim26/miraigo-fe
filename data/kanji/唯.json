@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1292",
     "strokeCount": 11,
-    "meaning": "solely, only, merely, simply",
+    "meaning": {
+      "en": "solely, only, merely, simply",
+      "vi": "duy nhất, chỉ, đơn thuần, giản đơn"
+    },
     "kunyomi": [
       "ただ"
     ],
@@ -21,7 +24,8 @@
         "example": "唯一",
         "reading": "ユイイツ",
         "meaning": {
-          "en": "only, sole, unique"
+          "en": "only, sole, unique",
+          "vi": "duy nhất, độc nhất"
         },
         "romaji": "yuiitsu"
       },
@@ -29,7 +33,8 @@
         "example": "唯物論",
         "reading": "ユイブツロン",
         "meaning": {
-          "en": "materialism"
+          "en": "materialism",
+          "vi": "chủ nghĩa duy vật"
         },
         "romaji": "yuibutsuron"
       },
@@ -37,7 +42,8 @@
         "example": "唯々",
         "reading": "イイ",
         "meaning": {
-          "en": "obedient, submissive, tame, slavish"
+          "en": "obedient, submissive, tame, slavish",
+          "vi": "ngoan ngoãn, phục tùng, thuần, nô lệ"
         },
         "romaji": "ii"
       },
@@ -45,7 +51,8 @@
         "example": "唯々諾々",
         "reading": "イイダクダク",
         "meaning": {
-          "en": "obedient, submissive, tame, slavish"
+          "en": "obedient, submissive, tame, slavish",
+          "vi": "ngoan ngoãn, phục tùng, thuần, nô lệ"
         },
         "romaji": "iidakudaku"
       },
@@ -53,7 +60,8 @@
         "example": "唯々",
         "reading": "イイ",
         "meaning": {
-          "en": "obedient, submissive, tame, slavish"
+          "en": "obedient, submissive, tame, slavish",
+          "vi": "ngoan ngoãn, phục tùng, thuần, nô lệ"
         },
         "romaji": "ii"
       }
@@ -63,7 +71,8 @@
         "example": "只",
         "reading": "ただ",
         "meaning": {
-          "vi": "ordinary, common, usual, free of charge, unaffected, as is, safe, only, merely, just, simply, but, however, nevertheless"
+          "vi": "ordinary, common, usual, free of charge, unaffected, as is, safe, only, merely, just, simply, but, however, nevertheless",
+          "en": "ordinary, common, usual, free of charge, unaffected, as is, safe, only, merely, just, simply, but, however, nevertheless"
         },
         "romaji": "tada"
       },
@@ -71,14 +80,18 @@
         "example": "只今",
         "reading": "ただいま",
         "meaning": {
-          "vi": "I'm home!, I'm back!, it's me!, now, at present, at the moment, just now, a moment ago, at once, right away, in a minute, shortly, soon"
+          "vi": "I'm home!, I'm back!, it's me!, now, at present, at the moment, just now, a moment ago, at once, right away, in a minute, shortly, soon",
+          "en": "I'm home!, I'm back!, it's me!, now, at present, at the moment, just now, a moment ago, at once, right away, in a minute, shortly, soon"
         },
         "romaji": "tadaima"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -92,5 +105,7 @@
   "hanViet": [
     "duy",
     "duỵ"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Chỉ một lời từ miệng 口 được nhấn mạnh, nên 唯 mang nghĩa duy nhất, chỉ thôi."
 }

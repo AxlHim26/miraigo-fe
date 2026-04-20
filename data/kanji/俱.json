@@ -5,7 +5,10 @@
     "query": "俱",
     "found": true,
     "strokeCount": 10,
-    "meaning": "all, together, accompany",
+    "meaning": {
+      "en": "all, together, accompany",
+      "vi": "tất cả, cùng nhau, đi cùng"
+    },
     "kunyomi": [
       "ともに"
     ],
@@ -17,7 +20,8 @@
         "example": "倶楽部",
         "reading": "クラブ",
         "meaning": {
-          "en": "club, fraternity, sorority, clubhouse"
+          "en": "club, fraternity, sorority, clubhouse",
+          "vi": "câu lạc bộ, hội đoàn nam, hội đoàn nữ, nhà câu lạc bộ"
         },
         "romaji": "kurabu"
       },
@@ -25,7 +29,8 @@
         "example": "倶利迦羅",
         "reading": "クリカラ",
         "meaning": {
-          "vi": "Kulika, manifestation of Acala in the form of a flame-wreathed dragon wrapped around and swallowing the tip of an upright sword"
+          "vi": "Kulika, hóa thân của Acala dưới dạng con rồng quấn lửa cuộn quanh và nuốt đầu mũi của một thanh kiếm dựng thẳng",
+          "en": "Kulika, manifestation of Acala in the form of a flame-wreathed dragon wrapped around and swallowing the tip of an upright sword"
         },
         "romaji": "kurikara"
       }
@@ -36,7 +41,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20465_frames.png",

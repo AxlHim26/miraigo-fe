@@ -5,7 +5,10 @@
     "query": "乖",
     "found": true,
     "strokeCount": 8,
-    "meaning": "oppose, disobey",
+    "meaning": {
+      "en": "oppose, disobey",
+      "vi": "chống đối, không tuân theo"
+    },
     "kunyomi": [
       "そむ.く",
       "もとる"
@@ -18,7 +21,8 @@
         "example": "乖離",
         "reading": "カイリ",
         "meaning": {
-          "vi": "divergence, alienation, deviation, estrangement, separation, detachment"
+          "en": "divergence, alienation, deviation, estrangement, separation, detachment",
+          "vi": "sự khác biệt, sự xa lánh, sự lệch lạc, sự ghẻ lạnh, sự tách rời, sự tách rời"
         },
         "meaningVN": "sự khác biệt, sự xa lánh, sự lệch lạc, sự ghẻ lạnh, sự tách rời, sự tách rời",
         "hanViet": "quai li",
@@ -29,7 +33,8 @@
         "example": "乖離率",
         "reading": "カイリリツ",
         "meaning": {
-          "en": "deviation rate, rate of divergence"
+          "en": "deviation rate, rate of divergence",
+          "vi": "tỷ lệ sai lệch, tỷ lệ phân kỳ"
         },
         "meaningVN": "tỷ lệ sai lệch, tỷ lệ phân kỳ",
         "hanViet": "quai li luật",
@@ -40,7 +45,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "丿",
-      "meaning": "slash"
+      "meaning": {
+        "en": "slash",
+        "vi": "nét phẩy"
+      }
     },
     "parts": [
       "ノ",

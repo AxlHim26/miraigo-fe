@@ -5,7 +5,10 @@
     "query": "兩",
     "found": true,
     "strokeCount": 8,
-    "meaning": "old Japanese coin, both, counter for vehicles, two",
+    "meaning": {
+      "en": "old Japanese coin, both, counter for vehicles, two",
+      "vi": "đồng tiền Nhật cổ, cả hai, từ đếm cho xe cộ, hai"
+    },
     "kunyomi": [
       "ふたつ"
     ],
@@ -16,7 +19,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "入",
-      "meaning": "enter"
+      "meaning": {
+        "en": "enter",
+        "vi": "đi vào"
+      }
     },
     "parts": [
       "一",

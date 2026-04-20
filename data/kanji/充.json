@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 2,
     "kunyomi": "a, ateru",
-    "meaning": "fill, allocate, assign",
+    "meaning": {
+      "en": "fill, allocate, assign",
+      "vi": "lấp đầy, phân bổ, chỉ định"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "充分な（じゅうぶんな）",
         "meaning": {
-          "english": "plenty, sufficient"
+          "english": "plenty, sufficient",
+          "en": "plenty, sufficient",
+          "vi": "đầy đủ, đủ dùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "充満する（じゅうまんする）",
         "meaning": {
-          "english": "be filled, teeming"
+          "english": "be filled, teeming",
+          "en": "be filled, teeming",
+          "vi": "đầy ắp, tràn ngập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "充電する（じゅうでんする）",
         "meaning": {
-          "english": "charge (a battery)"
+          "english": "charge (a battery)",
+          "en": "charge (a battery)",
+          "vi": "sạc (pin)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "充実する（じゅうじつする）",
         "meaning": {
-          "english": "enrich, perfect, complete"
+          "english": "enrich, perfect, complete",
+          "en": "enrich, perfect, complete",
+          "vi": "làm phong phú, hoàn thiện, hoàn thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "補充する（ほじゅうする）",
         "meaning": {
-          "english": "supplement, replenish"
+          "english": "supplement, replenish",
+          "en": "supplement, replenish",
+          "vi": "bổ sung, bù đắp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "拡充する（かくじゅうする）",
         "meaning": {
-          "english": "expand"
+          "english": "expand",
+          "en": "expand",
+          "vi": "mở rộng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "充てる（あてる）",
         "meaning": {
-          "english": "assign, allocate"
+          "english": "assign, allocate",
+          "en": "assign, allocate",
+          "vi": "chỉ định, phân bổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-a(teru)_06_g.opus",
@@ -181,7 +198,9 @@
     "kanji": {
       "character": "充",
       "meaning": {
-        "english": "fill, allocate, assign"
+        "english": "fill, allocate, assign",
+        "en": "fill, allocate, assign",
+        "vi": "lấp đầy, phân bổ, chỉ định"
       },
       "strokes": {
         "count": 6,
@@ -231,7 +250,9 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs",
+        "en": "human legs",
+        "vi": "chân người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -252,7 +273,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "949",
     "strokeCount": 6,
-    "meaning": "allot, fill",
+    "meaning": {
+      "en": "allot, fill",
+      "vi": "phân chia, lấp đầy"
+    },
     "kunyomi": [
       "あ.てる",
       "み.たす"
@@ -265,7 +289,8 @@
         "example": "充足",
         "reading": "ジュウソク",
         "meaning": {
-          "en": "sufficiency"
+          "en": "sufficiency",
+          "vi": "sự đầy đủ"
         },
         "romaji": "juusoku"
       },
@@ -273,7 +298,8 @@
         "example": "充実",
         "reading": "ジュウジツ",
         "meaning": {
-          "vi": "fullness, completeness, perfection, substantiality, enhancement, improvement, enrichment, upgrading, replenishment, repletion"
+          "vi": "fullness, completeness, perfection, substantiality, enhancement, improvement, enrichment, upgrading, replenishment, repletion",
+          "en": ""
         },
         "romaji": "juujitsu"
       },
@@ -281,7 +307,8 @@
         "example": "リア充",
         "reading": "リアジュウ",
         "meaning": {
-          "vi": "person who is satisfied with their real (offline) life, normie"
+          "vi": "person who is satisfied with their real (offline) life, normie",
+          "en": ""
         },
         "romaji": "riajuu"
       },
@@ -289,7 +316,8 @@
         "example": "事業拡充",
         "reading": "ジギョウカクジュウ",
         "meaning": {
-          "vi": "business expansion"
+          "vi": "business expansion",
+          "en": ""
         },
         "romaji": "jigyoukakujuu"
       }
@@ -299,7 +327,8 @@
         "example": "充てる",
         "reading": "あてる",
         "meaning": {
-          "en": "to assign, to set aside"
+          "en": "to assign, to set aside",
+          "vi": "chỉ định, dành riêng"
         },
         "romaji": "ateru"
       },
@@ -307,14 +336,18 @@
         "example": "満たす",
         "reading": "みたす",
         "meaning": {
-          "vi": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify, to fill (e.g. a cup), to pack, to supply"
+          "vi": "to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify, to fill (e.g. a cup), to pack, to supply",
+          "en": ""
         },
         "romaji": "mitasu"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "亠",

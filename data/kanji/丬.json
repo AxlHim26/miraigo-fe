@@ -5,14 +5,20 @@
     "query": "丬",
     "found": true,
     "strokeCount": 4,
-    "meaning": "half of tree trunk, rad. no. 90",
+    "meaning": {
+      "en": "half of tree trunk, rad. no. 90",
+      "vi": "nửa thân cây, bộ số 90"
+    },
     "kunyomi": [],
     "onyomi": [],
     "onyomiExamples": [],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "爿",
-      "meaning": "split wood"
+      "meaning": {
+        "en": "split wood",
+        "vi": "gỗ chẻ"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20012_frames.png",

@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "tea",
+    "meaning": {
+      "en": "tea",
+      "vi": "trà"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "紅茶（こうちゃ）",
         "meaning": {
-          "english": "black tea"
+          "english": "black tea",
+          "en": "black tea",
+          "vi": "trà đen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "緑茶（りょくちゃ）",
         "meaning": {
-          "english": "green tea"
+          "english": "green tea",
+          "en": "green tea",
+          "vi": "trà xanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "茶色（ちゃいろ）",
         "meaning": {
-          "english": "brown"
+          "english": "brown",
+          "en": "brown",
+          "vi": "màu nâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "お茶（おちゃ）",
         "meaning": {
-          "english": "tea"
+          "english": "tea",
+          "en": "tea",
+          "vi": "trà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "茶の湯（ちゃのゆ）",
         "meaning": {
-          "english": "tea ceremony"
+          "english": "tea ceremony",
+          "en": "tea ceremony",
+          "vi": "trà đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "喫茶店（きっさてん）",
         "meaning": {
-          "english": "coffee shop"
+          "english": "coffee shop",
+          "en": "coffee shop",
+          "vi": "quán cà phê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "茶道（さどう）",
         "meaning": {
-          "english": "Way of Tea"
+          "english": "Way of Tea",
+          "en": "Way of Tea",
+          "vi": "con đường trà đạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/cha_06_g.opus",
@@ -398,5 +415,7 @@
   },
   "hanViet": [
     "trà"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: cỏ cây được hái rồi pha thành thức uống quen thuộc, nên 茶 là trà."
 }

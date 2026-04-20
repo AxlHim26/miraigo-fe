@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "yoroko, yorokobu, yorokobi, yorokobasu",
-    "meaning": "happy, happiness, be glad",
+    "meaning": {
+      "en": "happy, happiness, be glad",
+      "vi": "vui, niềm vui, vui mừng"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "歓喜する（かんきする）",
         "meaning": {
-          "english": "rejoice"
+          "english": "rejoice",
+          "en": "rejoice",
+          "vi": "vui mừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yoroko(bu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "喜劇（きげき）",
         "meaning": {
-          "english": "comedy"
+          "english": "comedy",
+          "en": "comedy",
+          "vi": "hài kịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yoroko(bu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "一喜一憂（いっきいちゆう）",
         "meaning": {
-          "english": "mixed blessings"
+          "english": "mixed blessings",
+          "en": "mixed blessings",
+          "vi": "vui buồn lẫn lộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yoroko(bu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "喜ぶ（よろこぶ）",
         "meaning": {
-          "english": "be delighted [v.i.]"
+          "english": "be delighted [v.i.]",
+          "en": "be delighted [v.i.]",
+          "vi": "vui mừng, hân hoan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yoroko(bu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "喜ばす（よろこばす）",
         "meaning": {
-          "english": "give pleasure, please [v.t.]"
+          "english": "give pleasure, please [v.t.]",
+          "en": "give pleasure, please [v.t.]",
+          "vi": "làm vui lòng, làm hài lòng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yoroko(bu)_06_e.opus",
@@ -226,7 +239,9 @@
     "kanji": {
       "character": "喜",
       "meaning": {
-        "english": "happy, happiness, be glad"
+        "english": "happy, happiness, be glad",
+        "en": "happy, happiness, be glad",
+        "vi": "vui, niềm vui, vui mừng"
       },
       "strokes": {
         "count": 12,
@@ -288,7 +303,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -309,7 +326,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "769",
     "strokeCount": 12,
-    "meaning": "rejoice, take pleasure in",
+    "meaning": {
+      "en": "rejoice, take pleasure in",
+      "vi": "vui mừng, lấy làm vui"
+    },
     "kunyomi": [
       "よろこ.ぶ",
       "よろこ.ばす"
@@ -322,7 +342,8 @@
         "example": "喜劇",
         "reading": "キゲキ",
         "meaning": {
-          "en": "comedy"
+          "en": "comedy",
+          "vi": "hài kịch"
         },
         "romaji": "kigeki"
       },
@@ -330,7 +351,8 @@
         "example": "喜寿",
         "reading": "キジュ",
         "meaning": {
-          "en": "77th birthday"
+          "en": "77th birthday",
+          "vi": "sinh nhật 77 tuổi"
         },
         "romaji": "kiju"
       },
@@ -338,7 +360,8 @@
         "example": "歓喜",
         "reading": "カンキ",
         "meaning": {
-          "en": "delight, great joy"
+          "en": "delight, great joy",
+          "vi": "niềm vui lớn, hân hoan"
         },
         "romaji": "kanki"
       },
@@ -346,7 +369,8 @@
         "example": "悲喜",
         "reading": "ヒキ",
         "meaning": {
-          "en": "joys and sorrows"
+          "en": "joys and sorrows",
+          "vi": "niềm vui và nỗi buồn"
         },
         "romaji": "hiki"
       }
@@ -356,7 +380,8 @@
         "example": "喜ぶ",
         "reading": "よろこぶ",
         "meaning": {
-          "vi": "to be delighted, to be glad, to be pleased, to rejoice, to congratulate, to welcome (a proposal, advice, etc.), to take kindly to, to do with pleasure, to do gladly, to be happy (to do)"
+          "vi": "to be delighted, to be glad, to be pleased, to rejoice, to congratulate, to welcome (a proposal, advice, etc.), to take kindly to, to do with pleasure, to do gladly, to be happy (to do)",
+          "en": "to be delighted, to be glad, to be pleased, to rejoice, to congratulate, to welcome (a proposal, advice, etc.), to take kindly to, to do with pleasure, to do gladly, to be happy (to do)"
         },
         "romaji": "yorokobu"
       },
@@ -364,14 +389,18 @@
         "example": "喜ばす",
         "reading": "よろこばす",
         "meaning": {
-          "vi": "to delight, to please, to make (someone) happy, to give pleasure (to)"
+          "vi": "to delight, to please, to make (someone) happy, to give pleasure (to)",
+          "en": "to delight, to please, to make (someone) happy, to give pleasure (to)"
         },
         "romaji": "yorokobasu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -390,5 +419,7 @@
     "hý",
     "hỉ",
     "hỷ"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng 口 nở nụ cười vui vẻ, nên 喜 là vui mừng."
 }

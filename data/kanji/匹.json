@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "hiki",
-    "meaning": "counter for animals",
+    "meaning": {
+      "en": "counter for animals",
+      "vi": "lượng từ đếm con vật"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "匹敵する（ひってきする）",
         "meaning": {
-          "english": "match, be equal to"
+          "english": "match, be equal to",
+          "en": "match, be equal to",
+          "vi": "sánh ngang, ngang bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)hiki_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "一匹（いっぴき）",
         "meaning": {
-          "english": "1 (animal)"
+          "english": "1 (animal)",
+          "en": "1 (animal)",
+          "vi": "1 con (vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)hiki_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "三匹（さんびき）",
         "meaning": {
-          "english": "3 (animals)"
+          "english": "3 (animals)",
+          "en": "3 (animals)",
+          "vi": "3 con (vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)hiki_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "六匹（ろっぴき）",
         "meaning": {
-          "english": "6 (animals)"
+          "english": "6 (animals)",
+          "en": "6 (animals)",
+          "vi": "6 con (vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)hiki_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "八匹（はっぴき）",
         "meaning": {
-          "english": "8 (animals)"
+          "english": "8 (animals)",
+          "en": "8 (animals)",
+          "vi": "8 con (vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)hiki_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "十匹（じゅっぴき）",
         "meaning": {
-          "english": "10 (animals)"
+          "english": "10 (animals)",
+          "en": "10 (animals)",
+          "vi": "10 con (vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)hiki_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "何匹（なんびき）",
         "meaning": {
-          "english": "how many animals"
+          "english": "how many animals",
+          "en": "how many animals",
+          "vi": "bao nhiêu con vật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)hiki_06_g.opus",
@@ -178,7 +195,9 @@
     "kanji": {
       "character": "匹",
       "meaning": {
-        "english": "counter for animals"
+        "english": "counter for animals",
+        "en": "counter for animals",
+        "vi": "lượng từ đếm con vật"
       },
       "strokes": {
         "count": 4,
@@ -224,7 +243,9 @@
         "romaji": "hakogamae"
       },
       "meaning": {
-        "english": "box"
+        "english": "box",
+        "en": "box",
+        "vi": "cái hộp"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hakogamae0.svg",
@@ -245,7 +266,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1384",
     "strokeCount": 4,
-    "meaning": "equal, head, counter for small animals, roll of cloth",
+    "meaning": {
+      "en": "equal, head, counter for small animals, roll of cloth",
+      "vi": "ngang bằng, đầu, lượng từ cho thú nhỏ, cuộn vải"
+    },
     "kunyomi": [
       "ひき"
     ],
@@ -257,7 +281,8 @@
         "example": "匹偶",
         "reading": "ヒツグウ",
         "meaning": {
-          "vi": "pair, couple (husband and wife), friend, comrade"
+          "vi": "pair, couple (husband and wife), friend, comrade",
+          "en": "pair, couple (husband and wife), friend, comrade"
         },
         "romaji": "hitsuguu"
       },
@@ -265,7 +290,8 @@
         "example": "馬匹",
         "reading": "バヒツ",
         "meaning": {
-          "en": "horses"
+          "en": "horses",
+          "vi": "ngựa"
         },
         "romaji": "bahitsu"
       }
@@ -275,7 +301,8 @@
         "example": "匹",
         "reading": "ひき",
         "meaning": {
-          "en": "counter for small animals, counter for rolls of cloth (two han in size), counter for horses, roll of cloth"
+          "en": "counter for small animals, counter for rolls of cloth (two han in size), counter for horses, roll of cloth",
+          "vi": "lượng từ cho thú nhỏ, lượng từ cho cuộn vải, lượng từ cho ngựa, cuộn vải"
         },
         "romaji": "hiki"
       },
@@ -283,14 +310,18 @@
         "example": "二匹",
         "reading": "にひき",
         "meaning": {
-          "en": "two small animals"
+          "en": "two small animals",
+          "vi": "hai con vật nhỏ"
         },
         "romaji": "nihiki"
       }
     ],
     "radical": {
       "symbol": "匸",
-      "meaning": "hiding enclosure"
+      "meaning": {
+        "en": "hiding enclosure",
+        "vi": "khung bao kín"
+      }
     },
     "parts": [
       "儿",
@@ -304,5 +335,7 @@
   "hanViet": [
     "mộc",
     "thất"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Một khoang nhỏ chứa một con vật, nên dùng để đếm thú nhỏ theo con."
 }

@@ -6,7 +6,10 @@
     "found": true,
     "taughtIn": "junior high",
     "strokeCount": 9,
-    "meaning": "throat, choked, smothered, stuffy",
+    "meaning": {
+      "en": "throat, choked, smothered, stuffy",
+      "vi": "cổ họng, nghẹn, ngạt, bí bách"
+    },
     "kunyomi": [
       "むせ.ぶ",
       "むせ.る",
@@ -23,7 +26,8 @@
         "example": "咽喉",
         "reading": "インコウ",
         "meaning": {
-          "vi": "throat, vital passage, key position"
+          "vi": "cổ họng, yết hầu, vị trí hiểm yếu",
+          "en": "throat, vital passage, key position"
         },
         "romaji": "inkou"
       },
@@ -31,7 +35,8 @@
         "example": "咽喉頭異常感症",
         "reading": "インコウトウイジョウカンショウ",
         "meaning": {
-          "vi": "globus pharyngis, lump in one's throat, pharyngolaryngeal paresthesia"
+          "vi": "cảm giác vướng ở họng, nghẹn cổ, dị cảm hầu họng",
+          "en": "globus pharyngis, lump in one's throat, pharyngolaryngeal paresthesia"
         },
         "romaji": "inkoutouijoukanshou"
       },
@@ -39,7 +44,8 @@
         "example": "嚥下",
         "reading": "エンゲ",
         "meaning": {
-          "en": "swallowing, deglutition"
+          "en": "swallowing, deglutition",
+          "vi": "sự nuốt, động tác nuốt"
         },
         "romaji": "enge"
       },
@@ -47,7 +53,8 @@
         "example": "哀咽",
         "reading": "アイエツ",
         "meaning": {
-          "en": "being choked with tears"
+          "en": "being choked with tears",
+          "vi": "nghẹn ngào vì nước mắt"
         },
         "romaji": "aietsu"
       },
@@ -55,7 +62,8 @@
         "example": "嗚咽",
         "reading": "オエツ",
         "meaning": {
-          "vi": "sobbing, weeping, fit of crying"
+          "vi": "nức nở, khóc lóc, cơn òa khóc",
+          "en": "sobbing, weeping, fit of crying"
         },
         "romaji": "oetsu"
       }
@@ -65,7 +73,8 @@
         "example": "咽ぶ",
         "reading": "むせぶ",
         "meaning": {
-          "en": "to be choked, to be stifled, to be smothered"
+          "en": "to be choked, to be stifled, to be smothered",
+          "vi": "bị nghẹn, bị ngạt, bị bức bí"
         },
         "romaji": "musebu"
       },
@@ -73,7 +82,8 @@
         "example": "噎せる",
         "reading": "むせる",
         "meaning": {
-          "en": "to choke, to be choked by, to be stifled by"
+          "en": "to choke, to be choked by, to be stifled by",
+          "vi": "bị làm cho nghẹn, bị sặc, bị làm cho ngạt"
         },
         "romaji": "museru"
       },
@@ -81,7 +91,8 @@
         "example": "喉",
         "reading": "のど",
         "meaning": {
-          "en": "throat, singing voice, gutter (inner margins of a book)"
+          "en": "throat, singing voice, gutter (inner margins of a book)",
+          "vi": "cổ họng, giọng hát, gáy trong của cuốn sách"
         },
         "romaji": "nodo"
       },
@@ -89,14 +100,18 @@
         "example": "喉から手が出る",
         "reading": "のどからてがでる",
         "meaning": {
-          "en": "(wanting something so badly that) one can almost taste it, a hand reaches out from one's throat"
+          "en": "(wanting something so badly that) one can almost taste it, a hand reaches out from one's throat",
+          "vi": "thèm muốn đến mức như có tay thò ra từ cổ họng để với lấy"
         },
         "romaji": "nodokarategaderu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -114,5 +129,7 @@
     "yết",
     "ân",
     "ế"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Miệng 口 và phần cổ họng phía trong hợp lại, giúp nhớ 咽 là yết hầu, nghẹn."
 }

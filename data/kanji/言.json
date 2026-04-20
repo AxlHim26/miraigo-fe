@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "i, iu, koto",
-    "meaning": "say, speech",
+    "meaning": {
+      "en": "say, speech",
+      "vi": "noi, loi noi"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "断言する（だんげんする）",
         "meaning": {
-          "english": "assert"
+          "english": "assert",
+          "en": "assert",
+          "vi": "khang dinh, qua quyet"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "証言する（しょうげんする）",
         "meaning": {
-          "english": "testify"
+          "english": "testify",
+          "en": "testify",
+          "vi": "lam chung, chung thuc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "言語学（げんごがく）",
         "meaning": {
-          "english": "linguistics"
+          "english": "linguistics",
+          "en": "linguistics",
+          "vi": "linguistics"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "方言（ほうげん）",
         "meaning": {
-          "english": "dialect"
+          "english": "dialect",
+          "en": "dialect",
+          "vi": "phuong ngon"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "伝言する（でんごんする）",
         "meaning": {
-          "english": "leave a message"
+          "english": "leave a message",
+          "en": "leave a message",
+          "vi": "de lai loi nhan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "無言（むごん）",
         "meaning": {
-          "english": "silence"
+          "english": "silence",
+          "en": "silence",
+          "vi": "im lang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "言う（いう）",
         "meaning": {
-          "english": "say"
+          "english": "say",
+          "en": "say",
+          "vi": "nói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "言葉（ことば）",
         "meaning": {
-          "english": "word(s), language"
+          "english": "word(s), language",
+          "en": "word(s), language",
+          "vi": "tu ngu, ngon ngu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "一言（ひとこと）",
         "meaning": {
-          "english": "single word"
+          "english": "single word",
+          "en": "single word",
+          "vi": "mot tu don"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "独り言（ひとりごと）",
         "meaning": {
-          "english": "soliloquy"
+          "english": "soliloquy",
+          "en": "soliloquy",
+          "vi": "doc thoai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "寝言（ねごと）",
         "meaning": {
-          "english": "talk in one's sleep"
+          "english": "talk in one's sleep",
+          "en": "talk in one's sleep",
+          "vi": "noi mo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-i(u)_06_k.opus",
@@ -307,7 +332,9 @@
     "kanji": {
       "character": "言",
       "meaning": {
-        "english": "say, speech"
+        "english": "say, speech",
+        "en": "say, speech",
+        "vi": "noi, loi noi"
       },
       "strokes": {
         "count": 7,
@@ -359,7 +386,9 @@
         "romaji": "gen"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say",
+        "en": "words, to speak, say",
+        "vi": "words, to speak, say"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gen-word0.svg",
@@ -380,7 +409,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "83",
     "strokeCount": 7,
-    "meaning": "say, word",
+    "meaning": {
+      "en": "say, word",
+      "vi": "noi, tu"
+    },
     "kunyomi": [
       "い.う",
       "こと"
@@ -394,7 +426,8 @@
         "example": "言",
         "reading": "ゲン",
         "meaning": {
-          "en": "word, remark, statement"
+          "en": "word, remark, statement",
+          "vi": "loi noi, nhan xet, phat bieu"
         },
         "romaji": "gen"
       },
@@ -402,7 +435,8 @@
         "example": "言及",
         "reading": "ゲンキュウ",
         "meaning": {
-          "en": "reference, allusion"
+          "en": "reference, allusion",
+          "vi": "tham chieu, an chi"
         },
         "romaji": "genkyuu"
       },
@@ -410,7 +444,8 @@
         "example": "過言",
         "reading": "カゴン",
         "meaning": {
-          "vi": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe"
+          "vi": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe",
+          "en": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe"
         },
         "romaji": "kagon"
       },
@@ -418,7 +453,8 @@
         "example": "狂言",
         "reading": "キョウゲン",
         "meaning": {
-          "vi": "kyogen, farce presented between noh plays or during the interlude of a noh play, kabuki play, kabuki performance, make-believe, ruse, trick"
+          "vi": "kyogen, farce presented between noh plays or during the interlude of a noh play, kabuki play, kabuki performance, make-believe, ruse, trick",
+          "en": "kyogen, farce presented between noh plays or during the interlude of a noh play, kabuki play, kabuki performance, make-believe, ruse, trick"
         },
         "romaji": "kyougen"
       },
@@ -426,7 +462,8 @@
         "example": "言語",
         "reading": "ゲンゴ",
         "meaning": {
-          "en": "language"
+          "en": "language",
+          "vi": "ngon ngu"
         },
         "romaji": "gengo"
       },
@@ -434,7 +471,8 @@
         "example": "言下",
         "reading": "ゲンカ",
         "meaning": {
-          "vi": "promptly"
+          "vi": "promptly",
+          "en": "promptly"
         },
         "romaji": "genka"
       },
@@ -442,7 +480,8 @@
         "example": "過言",
         "reading": "カゴン",
         "meaning": {
-          "vi": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe"
+          "vi": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe",
+          "en": "exaggeration, overstatement, saying too much, misstatement, slip of the tongue, gaffe"
         },
         "romaji": "kagon"
       },
@@ -450,7 +489,8 @@
         "example": "二言",
         "reading": "ニゴン",
         "meaning": {
-          "vi": "double-dealing, double tongue, going back on what one has said, repeating oneself"
+          "vi": "double-dealing, double tongue, going back on what one has said, repeating oneself",
+          "en": "double-dealing, double tongue, going back on what one has said, repeating oneself"
         },
         "romaji": "nigon"
       }
@@ -460,7 +500,8 @@
         "example": "言う",
         "reading": "いう",
         "meaning": {
-          "vi": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+          "vi": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise",
+          "en": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
         },
         "romaji": "iu"
       },
@@ -468,7 +509,8 @@
         "example": "言うまでもない",
         "reading": "いうまでもない",
         "meaning": {
-          "en": "goes without saying, needless to say, obvious"
+          "en": "goes without saying, needless to say, obvious",
+          "vi": "khoi phai noi, qua ro rang"
         },
         "romaji": "iumademonai"
       },
@@ -476,7 +518,8 @@
         "example": "言",
         "reading": "げん",
         "meaning": {
-          "en": "word, remark, statement"
+          "en": "word, remark, statement",
+          "vi": "loi noi, nhan xet, phat bieu"
         },
         "romaji": "gen"
       },
@@ -484,7 +527,8 @@
         "example": "言葉",
         "reading": "ことば",
         "meaning": {
-          "vi": "language, dialect, word, phrase, expression, term, speech, (manner of) speaking, (use of) language, words, remark, statement, comment, learning to speak, language acquisition"
+          "vi": "language, dialect, word, phrase, expression, term, speech, (manner of) speaking, (use of) language, words, remark, statement, comment, learning to speak, language acquisition",
+          "en": "language, dialect, word, phrase, expression, term, speech, (manner of) speaking, (use of) language, words, remark, statement, comment, learning to speak, language acquisition"
         },
         "romaji": "kotoba"
       },
@@ -492,7 +536,8 @@
         "example": "禍言",
         "reading": "まがごと",
         "meaning": {
-          "en": "ominous word, ill-omened word, misfortune"
+          "en": "ominous word, ill-omened word, misfortune",
+          "vi": "loi xui xeo, diem go"
         },
         "romaji": "magagoto"
       },
@@ -500,7 +545,8 @@
         "example": "二言",
         "reading": "ふたこと",
         "meaning": {
-          "vi": "two words, repetition"
+          "vi": "two words, repetition",
+          "en": "two words, repetition"
         },
         "romaji": "futakoto"
       }
@@ -510,7 +556,10 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": {
+        "en": "speech",
+        "vi": "speech"
+      }
     },
     "parts": [
       "言"
@@ -523,5 +572,7 @@
   "hanViet": [
     "ngân",
     "ngôn"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Nhieu net xep thanh dong loi thoat ra khoi mieng. Nho 言 la loi noi, phat ngon."
 }

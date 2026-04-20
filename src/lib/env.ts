@@ -13,4 +13,6 @@ export const getBaseUrl = () => {
 export const getBackendApiUrl = () =>
   process.env["NEXT_PUBLIC_BACKEND_API_URL"] ?? "http://localhost:8080";
 
+export const getGoogleClientId = () => process.env["NEXT_PUBLIC_GOOGLE_CLIENT_ID"] ?? "";
+
 export const getKanjiDataDir = () => process.env["KANJI_DATA_DIR"] ?? "data/kanji";

@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "kiza, kizasu, kizashi",
-    "meaning": "omen, trillion",
+    "meaning": {
+      "en": "omen, trillion",
+      "vi": "điềm báo, nghìn tỷ"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "兆（ちょう）",
         "meaning": {
-          "english": "trillion, billion"
+          "english": "trillion, billion",
+          "en": "trillion, billion",
+          "vi": "nghìn tỷ, tỷ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-kiza(shi)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "兆候（ちょうこう）",
         "meaning": {
-          "english": "sign, omen, symptom"
+          "english": "sign, omen, symptom",
+          "en": "sign, omen, symptom",
+          "vi": "dấu hiệu, điềm báo, triệu chứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-kiza(shi)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "前兆（ぜんちょう）",
         "meaning": {
-          "english": "omen, portent, sign"
+          "english": "omen, portent, sign",
+          "en": "omen, portent, sign",
+          "vi": "điềm báo, điềm triệu, dấu hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-kiza(shi)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "吉兆（きっちょう）",
         "meaning": {
-          "english": "lucky omen"
+          "english": "lucky omen",
+          "en": "lucky omen",
+          "vi": "điềm lành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-kiza(shi)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "一兆（いっちょう）",
         "meaning": {
-          "english": "1,000,000,000,000, trillion"
+          "english": "1,000,000,000,000, trillion",
+          "en": "1,000,000,000,000, trillion",
+          "vi": "1.000.000.000.000, nghìn tỷ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-kiza(shi)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "兆す（きざす）",
         "meaning": {
-          "english": "show signs or indications"
+          "english": "show signs or indications",
+          "en": "show signs or indications",
+          "vi": "cho thấy dấu hiệu hoặc biểu hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-kiza(shi)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "兆し（きざし）",
         "meaning": {
-          "english": "signs, omens, symptoms"
+          "english": "signs, omens, symptoms",
+          "en": "signs, omens, symptoms",
+          "vi": "các dấu hiệu, điềm báo, triệu chứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-kiza(shi)_06_g.opus",
@@ -173,7 +190,9 @@
     "kanji": {
       "character": "兆",
       "meaning": {
-        "english": "omen, trillion"
+        "english": "omen, trillion",
+        "en": "omen, trillion",
+        "vi": "điềm báo, nghìn tỷ"
       },
       "strokes": {
         "count": 6,
@@ -223,7 +242,9 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs",
+        "en": "human legs",
+        "vi": "chân người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -244,7 +265,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1174",
     "strokeCount": 6,
-    "meaning": "portent, 10**12, trillion, sign, omen, symptoms",
+    "meaning": {
+      "en": "portent, 10**12, trillion, sign, omen, symptoms",
+      "vi": "điềm báo, 10**12, nghìn tỷ, dấu hiệu, điềm, triệu chứng"
+    },
     "kunyomi": [
       "きざ.す",
       "きざ.し"
@@ -257,7 +281,8 @@
         "example": "兆",
         "reading": "チョウ",
         "meaning": {
-          "vi": "10^12, 1,000,000,000,000, trillion, sign, omen, indication, portent"
+          "vi": "10^12, 1,000,000,000,000, trillion, sign, omen, indication, portent",
+          "en": ""
         },
         "romaji": "chou"
       },
@@ -265,7 +290,8 @@
         "example": "兆候",
         "reading": "チョウコウ",
         "meaning": {
-          "vi": "sign, indication, omen, symptom"
+          "vi": "sign, indication, omen, symptom",
+          "en": ""
         },
         "romaji": "choukou"
       },
@@ -273,7 +299,8 @@
         "example": "吉兆",
         "reading": "キッチョウ",
         "meaning": {
-          "en": "lucky omen, good omen"
+          "en": "lucky omen, good omen",
+          "vi": "điềm lành, điềm tốt"
         },
         "romaji": "kitchou"
       },
@@ -281,7 +308,8 @@
         "example": "慶兆",
         "reading": "ケイチョウ",
         "meaning": {
-          "vi": "sign of happiness, good omen"
+          "vi": "sign of happiness, good omen",
+          "en": ""
         },
         "romaji": "keichou"
       }
@@ -291,7 +319,8 @@
         "example": "兆す",
         "reading": "きざす",
         "meaning": {
-          "vi": "to show signs, to have symptoms, to give indications (of), to bud, to germinate, to sprout"
+          "vi": "to show signs, to have symptoms, to give indications (of), to bud, to germinate, to sprout",
+          "en": ""
         },
         "romaji": "kizasu"
       },
@@ -299,14 +328,18 @@
         "example": "兆し",
         "reading": "きざし",
         "meaning": {
-          "vi": "sign, indication, omen, symptom"
+          "vi": "sign, indication, omen, symptom",
+          "en": ""
         },
         "romaji": "kizashi"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "儿",

@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "osa, osameru, osamaru",
-    "meaning": "cultivate, repair, study, master",
+    "meaning": {
+      "en": "cultivate, repair, study, master",
+      "vi": "trau dồi, sửa chữa, học tập, thành thạo"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "修士（しゅうし）",
         "meaning": {
-          "english": "Master's degree"
+          "english": "Master's degree",
+          "en": "Master's degree",
+          "vi": "bằng thạc sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "研修（けんしゅう）",
         "meaning": {
-          "english": "(in-service) training"
+          "english": "(in-service) training",
+          "en": "(in-service) training",
+          "vi": "đào tạo tại chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "必修科目（ひっしゅうかもく）",
         "meaning": {
-          "english": "required course"
+          "english": "required course",
+          "en": "required course",
+          "vi": "môn học bắt buộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "修理する（しゅうりする）",
         "meaning": {
-          "english": "repair"
+          "english": "repair",
+          "en": "repair",
+          "vi": "sửa chữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "修正する（しゅうせいする）",
         "meaning": {
-          "english": "modify"
+          "english": "modify",
+          "en": "modify",
+          "vi": "chỉnh sửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "補修する（ほしゅうする）",
         "meaning": {
-          "english": "repair"
+          "english": "repair",
+          "en": "repair",
+          "vi": "sửa chữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "改修する（かいしゅうする）",
         "meaning": {
-          "english": "revise"
+          "english": "revise",
+          "en": "revise",
+          "vi": "sửa đổi, ôn lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "履修する（りしゅうする）",
         "meaning": {
-          "english": "take a class"
+          "english": "take a class",
+          "en": "take a class",
+          "vi": "tham gia một lớp học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "修行する（しゅぎょうする）",
         "meaning": {
-          "english": "receive training (education)"
+          "english": "receive training (education)",
+          "en": "receive training (education)",
+          "vi": "được đào tạo, thụ huấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "修める（おさめる）",
         "meaning": {
-          "english": "study to complete, master [v.t.]"
+          "english": "study to complete, master [v.t.]",
+          "en": "study to complete, master [v.t.]",
+          "vi": "học để hoàn tất, nắm vững [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "修まる（おさまる）",
         "meaning": {
-          "english": "govern oneself [v.i.]"
+          "english": "govern oneself [v.i.]",
+          "en": "govern oneself [v.i.]",
+          "vi": "tự rèn mình, tự quản bản thân [nội động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(ri)_06_k.opus",
@@ -251,7 +276,9 @@
     "kanji": {
       "character": "修",
       "meaning": {
-        "english": "cultivate, repair, study, master"
+        "english": "cultivate, repair, study, master",
+        "en": "cultivate, repair, study, master",
+        "vi": "trau dồi, sửa chữa, học tập, thành thạo"
       },
       "strokes": {
         "count": 10,
@@ -309,7 +336,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -330,7 +359,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "603",
     "strokeCount": 10,
-    "meaning": "discipline, conduct oneself well, study, master",
+    "meaning": {
+      "en": "discipline, conduct oneself well, study, master",
+      "vi": "tu dưỡng, cư xử đúng mực, học tập, nắm vững"
+    },
     "kunyomi": [
       "おさ.める",
       "おさ.まる"
@@ -344,7 +376,8 @@
         "example": "修業",
         "reading": "シュウギョウ",
         "meaning": {
-          "vi": "pursuit of knowledge, studying, learning, training, completing a course"
+          "vi": "sự theo đuổi tri thức, học tập, học hành, rèn luyện, hoàn thành khóa học",
+          "en": "pursuit of knowledge, studying, learning, training, completing a course"
         },
         "romaji": "shuugyou"
       },
@@ -352,7 +385,8 @@
         "example": "修学旅行",
         "reading": "シュウガクリョコウ",
         "meaning": {
-          "vi": "excursion, field trip, school trip"
+          "vi": "chuyến tham quan, chuyến đi thực tế, chuyến dã ngoại của trường",
+          "en": "excursion, field trip, school trip"
         },
         "romaji": "shuugakuryokou"
       },
@@ -360,7 +394,8 @@
         "example": "監修",
         "reading": "カンシュウ",
         "meaning": {
-          "vi": "(editorial) supervision, general editorship, supervising director"
+          "vi": "sự giám sát (biên tập), tổng biên tập, giám đốc giám sát",
+          "en": "(editorial) supervision, general editorship, supervising director"
         },
         "romaji": "kanshuu"
       },
@@ -368,7 +403,8 @@
         "example": "改修",
         "reading": "カイシュウ",
         "meaning": {
-          "vi": "repair, improvement"
+          "vi": "sửa chữa, cải thiện",
+          "en": "repair, improvement"
         },
         "romaji": "kaishuu"
       },
@@ -376,7 +412,8 @@
         "example": "修業",
         "reading": "シュウギョウ",
         "meaning": {
-          "vi": "pursuit of knowledge, studying, learning, training, completing a course"
+          "vi": "sự theo đuổi tri thức, học tập, học hành, rèn luyện, hoàn thành khóa học",
+          "en": "pursuit of knowledge, studying, learning, training, completing a course"
         },
         "romaji": "shuugyou"
       },
@@ -384,7 +421,8 @@
         "example": "修学旅行",
         "reading": "シュウガクリョコウ",
         "meaning": {
-          "vi": "excursion, field trip, school trip"
+          "vi": "chuyến tham quan, chuyến đi thực tế, chuyến dã ngoại của trường",
+          "en": "excursion, field trip, school trip"
         },
         "romaji": "shuugakuryokou"
       },
@@ -392,7 +430,8 @@
         "example": "逆修",
         "reading": "ギャクシュ",
         "meaning": {
-          "vi": "holding a memorial service for oneself, an older person conducting a memorial service for a deceased, younger person"
+          "vi": "việc tự mình làm lễ truy điệu, hoặc người lớn tuổi làm lễ tưởng niệm cho người đã khuất là người trẻ hơn",
+          "en": "holding a memorial service for oneself, an older person conducting a memorial service for a deceased, younger person"
         },
         "romaji": "gyakushu"
       }
@@ -402,7 +441,8 @@
         "example": "修める",
         "reading": "おさめる",
         "meaning": {
-          "vi": "to study, to complete (a course), to cultivate, to master, to order (one's life), to repair (a fault one has committed)"
+          "vi": "học tập, hoàn thành (một khóa học), tu dưỡng, thành thạo, sắp xếp (cuộc sống của mình), sửa chữa (lỗi lầm mình đã gây ra)",
+          "en": "to study, to complete (a course), to cultivate, to master, to order (one's life), to repair (a fault one has committed)"
         },
         "romaji": "osameru"
       },
@@ -410,7 +450,8 @@
         "example": "修まる",
         "reading": "おさまる",
         "meaning": {
-          "en": "to reform (oneself), to conduct oneself well"
+          "en": "to reform (oneself), to conduct oneself well",
+          "vi": "cải sửa bản thân, cư xử đúng mực"
         },
         "romaji": "osamaru"
       }
@@ -420,7 +461,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "乞",

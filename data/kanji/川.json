@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "kawa",
-    "meaning": "river",
+    "meaning": {
+      "en": "river",
+      "vi": "sông"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "河川（かせん）",
         "meaning": {
-          "english": "rivers"
+          "english": "rivers",
+          "en": "rivers",
+          "vi": "các con sông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "川（かわ）",
         "meaning": {
-          "english": "river"
+          "english": "river",
+          "en": "river",
+          "vi": "sông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "川上（かわかみ）",
         "meaning": {
-          "english": "upper reaches of a river"
+          "english": "upper reaches of a river",
+          "en": "upper reaches of a river",
+          "vi": "thượng nguồn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "川下（かわしも）",
         "meaning": {
-          "english": "downstream"
+          "english": "downstream",
+          "en": "downstream",
+          "vi": "hạ lưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "江戸川（えどがわ）",
         "meaning": {
-          "english": "Edo River"
+          "english": "Edo River",
+          "en": "Edo River",
+          "vi": "sông Edo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "小川（おがわ）",
         "meaning": {
-          "english": "small stream, brook"
+          "english": "small stream, brook",
+          "en": "small stream, brook",
+          "vi": "suối nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-kawa_06_f.opus",
@@ -218,7 +233,9 @@
     "kanji": {
       "character": "川",
       "meaning": {
-        "english": "river"
+        "english": "river",
+        "en": "river",
+        "vi": "sông"
       },
       "strokes": {
         "count": 3,
@@ -262,7 +279,9 @@
         "romaji": "sanbongawa"
       },
       "meaning": {
-        "english": "river"
+        "english": "river",
+        "en": "river",
+        "vi": "sông"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanbongawa0.svg",
@@ -283,7 +302,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "181",
     "strokeCount": 3,
-    "meaning": "stream, river, river or three-stroke river radical (no. 47)",
+    "meaning": {
+      "en": "stream, river, river or three-stroke river radical (no. 47)",
+      "vi": "suối, sông, hoặc bộ ba nét sông (bộ số 47)"
+    },
     "kunyomi": [
       "かわ"
     ],
@@ -295,7 +317,8 @@
         "example": "川柳",
         "reading": "センリュウ",
         "meaning": {
-          "vi": "senryū, comic haiku, humorous seventeen-mora poem"
+          "vi": "senryū, comic haiku, humorous seventeen-mora poem",
+          "en": "senryū, comic haiku, humorous seventeen-mora poem"
         },
         "romaji": "senryuu"
       },
@@ -303,7 +326,8 @@
         "example": "川きゅう",
         "reading": "センキュウ",
         "meaning": {
-          "en": "cnidium rhizome (Cnidium officinale)"
+          "en": "cnidium rhizome (Cnidium officinale)",
+          "vi": "cnidium rhizome (Cnidium officinale)"
         },
         "romaji": "senkyuu"
       },
@@ -311,7 +335,8 @@
         "example": "山川",
         "reading": "サンセン",
         "meaning": {
-          "en": "mountains and rivers"
+          "en": "mountains and rivers",
+          "vi": "mountains and rivers"
         },
         "romaji": "sansen"
       },
@@ -319,7 +344,8 @@
         "example": "四川",
         "reading": "シセン",
         "meaning": {
-          "en": "Sichuan (China), Szechuan, Szechwan"
+          "en": "Sichuan (China), Szechuan, Szechwan",
+          "vi": "Sichuan (China), Szechuan, Szechwan"
         },
         "romaji": "shisen"
       }
@@ -329,7 +355,8 @@
         "example": "川",
         "reading": "かわ",
         "meaning": {
-          "en": "river, stream, River, the ... river"
+          "en": "river, stream, River, the ... river",
+          "vi": "river, stream, River, the ... river"
         },
         "romaji": "kawa"
       },
@@ -337,7 +364,8 @@
         "example": "川上",
         "reading": "かわかみ",
         "meaning": {
-          "vi": "upper reaches of a river, upstream"
+          "vi": "upper reaches of a river, upstream",
+          "en": "upper reaches of a river, upstream"
         },
         "romaji": "kawakami"
       },
@@ -345,7 +373,8 @@
         "example": "堀川",
         "reading": "ほりかわ",
         "meaning": {
-          "en": "canal"
+          "en": "canal",
+          "vi": "canal"
         },
         "romaji": "horikawa"
       },
@@ -353,7 +382,8 @@
         "example": "山川",
         "reading": "さんせん",
         "meaning": {
-          "en": "mountains and rivers"
+          "en": "mountains and rivers",
+          "vi": "mountains and rivers"
         },
         "romaji": "sansen"
       }
@@ -364,7 +394,10 @@
         "川",
         "巜"
       ],
-      "meaning": "river"
+      "meaning": {
+        "en": "river",
+        "vi": "sông"
+      }
     },
     "parts": [
       "川"
@@ -374,6 +407,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ddd.gif",
     "uri": "https://jisho.org/search/%E5%B7%9D%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: ba dòng chảy song song như con sông.",
   "hanViet": [
     "xuyên"
   ]

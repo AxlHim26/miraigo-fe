@@ -82,5 +82,11 @@
   },
   "hanViet": [
     "tượng"
-  ]
+  ],
+  "meaning": {
+    "en": "artisan, workman, carpenter",
+    "vi": "nghệ nhân, thợ thủ công, thợ mộc"
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 匠 gợi người thợ lành nghề đang khéo léo làm việc trong xưởng."
 }

@@ -5,7 +5,10 @@
     "query": "俥",
     "found": true,
     "strokeCount": 9,
-    "meaning": "jinricksha, rickshaw, (kokuji)",
+    "meaning": {
+      "en": "jinricksha, rickshaw, (kokuji)",
+      "vi": "xe kéo tay, xe jinrikisha, (quốc tự)"
+    },
     "kunyomi": [
       "くるま"
     ],
@@ -16,7 +19,8 @@
         "example": "俥",
         "reading": "くるま",
         "meaning": {
-          "en": "rickshaw, jinrikisha"
+          "en": "rickshaw, jinrikisha",
+          "vi": "xe kéo tay, xe jinrikisha"
         },
         "romaji": "kuruma"
       }
@@ -26,7 +30,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

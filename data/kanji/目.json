@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "me, ma",
-    "meaning": "eye, item",
+    "meaning": {
+      "en": "eye, item",
+      "vi": "mắt, hạng mục"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "目的地（もくてきち）",
         "meaning": {
-          "english": "destination"
+          "english": "destination",
+          "en": "destination",
+          "vi": "điểm đến"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "目標（もくひょう）",
         "meaning": {
-          "english": "objective, target"
+          "english": "objective, target",
+          "en": "objective, target",
+          "vi": "mục tiêu, đích nhắm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "注目する（ちゅうもくする）",
         "meaning": {
-          "english": "pay attention, take note"
+          "english": "pay attention, take note",
+          "en": "pay attention, take note",
+          "vi": "chú ý, ghi nhớ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "目（め）",
         "meaning": {
-          "english": "eye"
+          "english": "eye",
+          "en": "eye",
+          "vi": "mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "目を通す（めをとおす）",
         "meaning": {
-          "english": "scan, look over"
+          "english": "scan, look over",
+          "en": "scan, look over",
+          "vi": "đảo mắt xem, xem lướt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "駄目な（だめな）",
         "meaning": {
-          "english": "useless"
+          "english": "useless",
+          "en": "useless",
+          "vi": "vô ích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "真面目な（まじめな）",
         "meaning": {
-          "english": "serious"
+          "english": "serious",
+          "en": "serious",
+          "vi": "nghiêm túc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "３ページ目（さんぺージめ）",
         "meaning": {
-          "english": "third page"
+          "english": "third page",
+          "en": "third page",
+          "vi": "trang thứ ba"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "目蓋（まぶた）",
         "meaning": {
-          "english": "eyelid"
+          "english": "eyelid",
+          "en": "eyelid",
+          "vi": "mí mắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/moku-me_06_i.opus",
@@ -273,7 +294,9 @@
     "kanji": {
       "character": "目",
       "meaning": {
-        "english": "eye, item"
+        "english": "eye, item",
+        "en": "eye, item",
+        "vi": "mắt, hạng mục"
       },
       "strokes": {
         "count": 5,
@@ -321,7 +344,9 @@
         "romaji": "me"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye",
+        "en": "eye",
+        "vi": "mắt"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/me0.svg",
@@ -342,7 +367,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "76",
     "strokeCount": 5,
-    "meaning": "eye, class, look, insight, experience, care, favor",
+    "meaning": {
+      "en": "eye, class, look, insight, experience, care, favor",
+      "vi": "eye, class, look, insight, experience, care, favor"
+    },
     "kunyomi": [
       "め",
       "-め",
@@ -357,7 +385,8 @@
         "example": "目",
         "reading": "モク",
         "meaning": {
-          "vi": "order, item (of a budget revision, etc.), counter for played stones, counter for surrounded points"
+          "vi": "order, item (of a budget revision, etc.), counter for played stones, counter for surrounded points",
+          "en": "order, item (of a budget revision, etc.), counter for played stones, counter for surrounded points"
         },
         "romaji": "moku"
       },
@@ -365,7 +394,8 @@
         "example": "目撃",
         "reading": "モクゲキ",
         "meaning": {
-          "en": "witnessing, observing, sighting"
+          "en": "witnessing, observing, sighting",
+          "vi": "chứng kiến, quan sát, nhìn thấy"
         },
         "romaji": "mokugeki"
       },
@@ -373,7 +403,8 @@
         "example": "着目",
         "reading": "チャクモク",
         "meaning": {
-          "en": "attention, giving one's attention, focusing"
+          "en": "attention, giving one's attention, focusing",
+          "vi": "sự chú ý, tập trung để ý"
         },
         "romaji": "chakumoku"
       },
@@ -381,7 +412,8 @@
         "example": "細目",
         "reading": "サイモク",
         "meaning": {
-          "vi": "particulars, details, specified items"
+          "vi": "particulars, details, specified items",
+          "en": "particulars, details, specified items"
         },
         "romaji": "saimoku"
       },
@@ -389,7 +421,8 @@
         "example": "耳目",
         "reading": "ジモク",
         "meaning": {
-          "en": "eyes and ears, seeing and hearing, one's attention, one's interest"
+          "en": "eyes and ears, seeing and hearing, one's attention, one's interest",
+          "vi": "tai mắt, sự nhìn nghe, sự chú ý, mối quan tâm"
         },
         "romaji": "jimoku"
       },
@@ -397,7 +430,8 @@
         "example": "不面目",
         "reading": "フメンボク",
         "meaning": {
-          "en": "shame, disgrace"
+          "en": "shame, disgrace",
+          "vi": "nỗi hổ thẹn, sự ô nhục"
         },
         "romaji": "fumenboku"
       }
@@ -407,7 +441,8 @@
         "example": "目",
         "reading": "め",
         "meaning": {
-          "vi": "eye, eyeball, eyesight, sight, vision, look, stare, gaze, glance, notice, attention, observation, eyes (of the world, public, etc.), an experience, viewpoint, discrimination, discernment, judgement, eye (e.g. for quality), (an) appearance, chance (of success), possibility (of a good result), spacing (between crossed strands of a net, mesh, etc.), opening, stitch, texture, weave, grain (of wood, paper), eye (of a storm, needle, etc.), intersection (on a go board), square (on a chessboard), dot (on a dice), pip, rolled number, graduation, division (of a scale), tooth (of a saw, comb, etc.), ordinal number suffix, somewhat, -ish, point (e.g. of change)"
+          "vi": "eye, eyeball, eyesight, sight, vision, look, stare, gaze, glance, notice, attention, observation, eyes (of the world, public, etc.), an experience, viewpoint, discrimination, discernment, judgement, eye (e.g. for quality), (an) appearance, chance (of success), possibility (of a good result), spacing (between crossed strands of a net, mesh, etc.), opening, stitch, texture, weave, grain (of wood, paper), eye (of a storm, needle, etc.), intersection (on a go board), square (on a chessboard), dot (on a dice), pip, rolled number, graduation, division (of a scale), tooth (of a saw, comb, etc.), ordinal number suffix, somewhat, -ish, point (e.g. of change)",
+          "en": "eye, eyeball, eyesight, sight, vision, look, stare, gaze, glance, notice, attention, observation, eyes (of the world, public, etc.), an experience, viewpoint, discrimination, discernment, judgement, eye (e.g. for quality), (an) appearance, chance (of success), possibility (of a good result), spacing (between crossed strands of a net, mesh, etc.), opening, stitch, texture, weave, grain (of wood, paper), eye (of a storm, needle, etc.), intersection (on a go board), square (on a chessboard), dot (on a dice), pip, rolled number, graduation, division (of a scale), tooth (of a saw, comb, etc.), ordinal number suffix, somewhat, -ish, point (e.g. of change)"
         },
         "romaji": "me"
       },
@@ -415,7 +450,8 @@
         "example": "目当て",
         "reading": "めあて",
         "meaning": {
-          "vi": "mark, guide, landmark, purpose, aim, goal, intention, end, sight (on a firearm)"
+          "vi": "mark, guide, landmark, purpose, aim, goal, intention, end, sight (on a firearm)",
+          "en": "mark, guide, landmark, purpose, aim, goal, intention, end, sight (on a firearm)"
         },
         "romaji": "meate"
       },
@@ -423,7 +459,8 @@
         "example": "蛇の目",
         "reading": "じゃのめ",
         "meaning": {
-          "vi": "bull's-eye (pattern), double ring (pattern), umbrella with bull's-eye pattern"
+          "vi": "bull's-eye (pattern), double ring (pattern), umbrella with bull's-eye pattern",
+          "en": "bull's-eye (pattern), double ring (pattern), umbrella with bull's-eye pattern"
         },
         "romaji": "janome"
       },
@@ -431,14 +468,18 @@
         "example": "負い目",
         "reading": "おいめ",
         "meaning": {
-          "en": "(feeling of) indebtedness, feeling obliged"
+          "en": "(feeling of) indebtedness, feeling obliged",
+          "vi": "cảm giác mắc nợ, cảm thấy có bổn phận"
         },
         "romaji": "oime"
       }
     ],
     "radical": {
       "symbol": "目",
-      "meaning": "eye"
+      "meaning": {
+        "en": "eye",
+        "vi": "mắt"
+      }
     },
     "parts": [
       "目"
@@ -448,6 +489,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76ee.gif",
     "uri": "https://jisho.org/search/%E7%9B%AE%23kanji"
   },
+  "jlpt": "N4",
+  "mnemonic_vi": "Giống hình con mắt với tròng mắt ở giữa.",
   "hanViet": [
     "mục"
   ]

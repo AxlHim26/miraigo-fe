@@ -5,7 +5,10 @@
     "query": "兮",
     "found": true,
     "strokeCount": 4,
-    "meaning": "auxiliary word for euphony or emphasis",
+    "meaning": {
+      "en": "auxiliary word for euphony or emphasis",
+      "vi": "trợ từ dùng để tạo nhịp điệu hoặc nhấn mạnh"
+    },
     "kunyomi": [],
     "onyomi": [
       "ケイ"
@@ -14,7 +17,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": {
+        "en": "eight",
+        "vi": "tám"
+      }
     },
     "parts": [
       "ハ",

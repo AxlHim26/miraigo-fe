@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1712",
     "strokeCount": 16,
-    "meaning": "congeal, freeze, stiff, be absorbed in",
+    "meaning": {
+      "en": "congeal, freeze, stiff, be absorbed in",
+      "vi": "đông đặc, đóng băng, cứng lại, mải mê"
+    },
     "kunyomi": [
       "こ.る",
       "こ.らす",
@@ -24,7 +27,8 @@
         "example": "凝縮",
         "reading": "ギョウシュク",
         "meaning": {
-          "vi": "condensation (of ideas, emotions, etc.), condensation (of a vapour or gas)"
+          "vi": "sự cô đọng, sự ngưng tụ",
+          "en": "condensation (of ideas, emotions, etc.), condensation (of a vapour or gas)"
         },
         "romaji": "gyoushuku"
       },
@@ -32,7 +36,8 @@
         "example": "凝固",
         "reading": "ギョウコ",
         "meaning": {
-          "en": "coagulation, freezing, solidification"
+          "en": "coagulation, freezing, solidification",
+          "vi": "sự đông tụ, đóng băng, hóa rắn"
         },
         "romaji": "gyouko"
       }
@@ -42,7 +47,8 @@
         "example": "凝る",
         "reading": "こる",
         "meaning": {
-          "vi": "to become stiff (of muscles), to get absorbed in, to develop a passion for, to devote oneself to, to become obsessed with, to get hooked on, to be elaborate, to be intricate, to be exquisite, to be particular about, to pay great attention to"
+          "vi": "trở nên cứng, mải mê, say mê, chuyên tâm, ám ảnh, cầu kỳ, tinh xảo, kỹ tính, chú ý kỹ",
+          "en": "to become stiff (of muscles), to get absorbed in, to develop a passion for, to devote oneself to, to become obsessed with, to get hooked on, to be elaborate, to be intricate, to be exquisite, to be particular about, to pay great attention to"
         },
         "romaji": "koru"
       },
@@ -50,7 +56,8 @@
         "example": "凝らす",
         "reading": "こらす",
         "meaning": {
-          "vi": "to concentrate, to focus on, to devote, to apply oneself, to stiffen, to become tense"
+          "vi": "tập trung, dồn tâm trí, chuyên chú, làm căng lên",
+          "en": "to concentrate, to focus on, to devote, to apply oneself, to stiffen, to become tense"
         },
         "romaji": "korasu"
       },
@@ -58,7 +65,8 @@
         "example": "凝らす",
         "reading": "こごらす",
         "meaning": {
-          "vi": "to freeze, to congeal, to concentrate one's attention on, to devote oneself to something, to ponder, to meditate"
+          "vi": "làm đông lại, làm đông đặc, tập trung chú ý, chuyên tâm, suy ngẫm, trầm tư",
+          "en": "to freeze, to congeal, to concentrate one's attention on, to devote oneself to something, to ponder, to meditate"
         },
         "romaji": "kogorasu"
       },
@@ -66,7 +74,8 @@
         "example": "凝らせる",
         "reading": "こごらせる",
         "meaning": {
-          "en": "to freeze, to congeal"
+          "en": "to freeze, to congeal",
+          "vi": "đóng băng, đông đặc"
         },
         "romaji": "kogoraseru"
       },
@@ -74,14 +83,18 @@
         "example": "凝る",
         "reading": "こごる",
         "meaning": {
-          "en": "to congeal, to gelatinize, to jellify, to jell, to gell, to freeze"
+          "en": "to congeal, to gelatinize, to jellify, to jell, to gell, to freeze",
+          "vi": "đông lại, đông đặc, tạo keo, đóng băng"
         },
         "romaji": "kogoru"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "マ",
@@ -98,5 +111,6 @@
   },
   "hanViet": [
     "ngưng"
-  ]
+  ],
+  "mnemonic_vi": "Băng 冫 gặp nghi 疑, gợi vật đang động mà đông lại, ngưng kết."
 }

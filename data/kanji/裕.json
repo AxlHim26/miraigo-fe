@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1048",
     "strokeCount": 12,
-    "meaning": "abundant, rich, fertile",
+    "meaning": {
+      "en": "abundant, rich, fertile",
+      "vi": "dồi dào, giàu có, màu mỡ"
+    },
     "kunyomi": [],
     "onyomi": [
       "ユウ"
@@ -18,7 +21,8 @@
         "example": "裕福",
         "reading": "ユウフク",
         "meaning": {
-          "en": "wealthy, rich, affluent, well-off"
+          "en": "wealthy, rich, affluent, well-off",
+          "vi": "giàu có, sung túc, khá giả"
         },
         "romaji": "yuufuku"
       },
@@ -26,7 +30,8 @@
         "example": "優に",
         "reading": "ユウニ",
         "meaning": {
-          "vi": "easily (reach, exceed, etc.), comfortably, amply, fully, well over"
+          "vi": "easily (reach, exceed, etc.), comfortably, amply, fully, well over",
+          "en": ""
         },
         "romaji": "yuuni"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "衤"
       ],
-      "meaning": "clothes"
+      "meaning": {
+        "en": "clothes",
+        "vi": "quần áo"
+      }
     },
     "parts": [
       "ハ",
@@ -53,5 +61,7 @@
   },
   "hanViet": [
     "dụ"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: áo quần mà rộng rãi dư dả thì gợi sự sung túc, nên 裕 là dồi dào, giàu có."
 }

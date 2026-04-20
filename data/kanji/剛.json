@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1576",
     "strokeCount": 10,
-    "meaning": "sturdy, strength",
+    "meaning": {
+      "en": "sturdy, strength",
+      "vi": "cứng cáp, sức mạnh"
+    },
     "kunyomi": [],
     "onyomi": [
       "ゴウ"
@@ -18,7 +21,8 @@
         "example": "剛",
         "reading": "ゴウ",
         "meaning": {
-          "en": "strength, toughness, bravery, boldness"
+          "en": "strength, toughness, bravery, boldness",
+          "vi": "sức mạnh, độ cứng cáp, lòng dũng cảm, sự quả cảm"
         },
         "romaji": "gou"
       },
@@ -26,7 +30,8 @@
         "example": "強情",
         "reading": "ゴウジョウ",
         "meaning": {
-          "en": "obstinate, stubborn, headstrong"
+          "en": "obstinate, stubborn, headstrong",
+          "vi": "bướng bỉnh, cứng đầu"
         },
         "romaji": "goujou"
       },
@@ -34,7 +39,8 @@
         "example": "強豪",
         "reading": "キョウゴウ",
         "meaning": {
-          "vi": "overwhelming strength, extremely strong person, powerhouse, very strong player, very strong team"
+          "vi": "overwhelming strength, extremely strong person, powerhouse, very strong player, very strong team",
+          "en": "overwhelming strength, extremely strong person, powerhouse, very strong player, very strong team"
         },
         "romaji": "kyougou"
       },
@@ -42,7 +48,8 @@
         "example": "金剛",
         "reading": "コンゴウ",
         "meaning": {
-          "vi": "vajra (indestructible substance), diamond, adamantine, thunderbolt, Indra's weapon, Buddhist symbol of the indestructible truth"
+          "vi": "vajra (indestructible substance), diamond, adamantine, thunderbolt, Indra's weapon, Buddhist symbol of the indestructible truth",
+          "en": "vajra (indestructible substance), diamond, adamantine, thunderbolt, Indra's weapon, Buddhist symbol of the indestructible truth"
         },
         "romaji": "kongou"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "冂",
@@ -70,5 +80,6 @@
   "hanViet": [
     "cang",
     "cương"
-  ]
+  ],
+  "mnemonic_vi": "Kiếm cứng và chắc, gợi ý nghĩa cứng rắn và mạnh mẽ."
 }

@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "nishi",
-    "meaning": "west",
+    "meaning": {
+      "en": "west",
+      "vi": "phía tây"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "西部（せいぶ）",
         "meaning": {
-          "english": "western part"
+          "english": "western part",
+          "en": "western part",
+          "vi": "phần phía tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nishi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "西洋（せいよう）",
         "meaning": {
-          "english": "the West"
+          "english": "the West",
+          "en": "the West",
+          "vi": "phương Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nishi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "西暦（せいれき）",
         "meaning": {
-          "english": "Christian Era"
+          "english": "Christian Era",
+          "en": "Christian Era",
+          "vi": "Công nguyên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nishi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "関西（かんさい）",
         "meaning": {
-          "english": "Kansai"
+          "english": "Kansai",
+          "en": "Kansai",
+          "vi": "vùng Kansai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nishi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "東西（とうざい）",
         "meaning": {
-          "english": "east and west"
+          "english": "east and west",
+          "en": "east and west",
+          "vi": "đông và tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nishi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "西（にし）",
         "meaning": {
-          "english": "west"
+          "english": "west",
+          "en": "west",
+          "vi": "phía tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nishi_06_f.opus",
@@ -214,7 +229,9 @@
     "kanji": {
       "character": "西",
       "meaning": {
-        "english": "west"
+        "english": "west",
+        "en": "west",
+        "vi": "phía tây"
       },
       "strokes": {
         "count": 6,
@@ -264,7 +281,9 @@
         "romaji": "nishi"
       },
       "meaning": {
-        "english": "cover, west"
+        "english": "cover, west",
+        "en": "cover, west",
+        "vi": "che phủ, phía tây"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nishi0.svg",
@@ -285,7 +304,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "259",
     "strokeCount": 6,
-    "meaning": "west, Spain",
+    "meaning": {
+      "en": "west, Spain",
+      "vi": "phía tây, Tây Ban Nha"
+    },
     "kunyomi": [
       "にし"
     ],
@@ -299,7 +321,8 @@
         "example": "西",
         "reading": "セイ",
         "meaning": {
-          "vi": "Spain"
+          "vi": "Tây Ban Nha",
+          "en": "Spain"
         },
         "romaji": "sei"
       },
@@ -307,7 +330,8 @@
         "example": "西欧",
         "reading": "セイオウ",
         "meaning": {
-          "vi": "Western Europe, the West, the Occident, Europe"
+          "vi": "Tây Âu, phương Tây, châu Âu",
+          "en": "Western Europe, the West, the Occident, Europe"
         },
         "romaji": "seiou"
       },
@@ -315,7 +339,8 @@
         "example": "南西",
         "reading": "ナンセイ",
         "meaning": {
-          "en": "southwest"
+          "en": "southwest",
+          "vi": "tây nam"
         },
         "romaji": "nansei"
       },
@@ -323,7 +348,8 @@
         "example": "北北西",
         "reading": "ホクホクセイ",
         "meaning": {
-          "en": "north-northwest"
+          "en": "north-northwest",
+          "vi": "bắc tây bắc"
         },
         "romaji": "hokuhokusei"
       },
@@ -331,7 +357,8 @@
         "example": "西方",
         "reading": "セイホウ",
         "meaning": {
-          "vi": "western direction, Western Pure Land (Amitabha's Buddhist paradise), western fighter in a match (e.g. sumo)"
+          "vi": "hướng tây, Tây phương Cực Lạc, đấu thủ phía tây",
+          "en": "western direction, Western Pure Land (Amitabha's Buddhist paradise), western fighter in a match (e.g. sumo)"
         },
         "romaji": "seihou"
       },
@@ -339,7 +366,8 @@
         "example": "西遊",
         "reading": "セイユウ",
         "meaning": {
-          "vi": "westward trip, trip to the West"
+          "vi": "chuyến đi về phía tây",
+          "en": "westward trip, trip to the West"
         },
         "romaji": "seiyuu"
       },
@@ -347,7 +375,8 @@
         "example": "西瓜",
         "reading": "スイカ",
         "meaning": {
-          "en": "watermelon (Citrullus lanatus)"
+          "en": "watermelon (Citrullus lanatus)",
+          "vi": "dưa hấu"
         },
         "romaji": "suika"
       },
@@ -355,7 +384,8 @@
         "example": "西班牙",
         "reading": "スペイン",
         "meaning": {
-          "vi": "Spain"
+          "vi": "Tây Ban Nha",
+          "en": "Spain"
         },
         "romaji": "supein"
       }
@@ -365,7 +395,8 @@
         "example": "西",
         "reading": "にし",
         "meaning": {
-          "en": "west"
+          "en": "west",
+          "vi": "phía tây"
         },
         "romaji": "nishi"
       },
@@ -373,7 +404,8 @@
         "example": "西方",
         "reading": "せいほう",
         "meaning": {
-          "vi": "western direction, Western Pure Land (Amitabha's Buddhist paradise), western fighter in a match (e.g. sumo)"
+          "vi": "hướng tây, Tây phương Cực Lạc, đấu thủ phía tây",
+          "en": "western direction, Western Pure Land (Amitabha's Buddhist paradise), western fighter in a match (e.g. sumo)"
         },
         "romaji": "seihou"
       },
@@ -381,7 +413,8 @@
         "example": "南西",
         "reading": "なんせい",
         "meaning": {
-          "en": "southwest"
+          "en": "southwest",
+          "vi": "tây nam"
         },
         "romaji": "nansei"
       },
@@ -389,7 +422,8 @@
         "example": "京都外大西",
         "reading": "きょうとがいだいにし",
         "meaning": {
-          "en": "Kyoto Gaidainishi"
+          "en": "Kyoto Gaidainishi",
+          "vi": "Kyoto Gaidainishi"
         },
         "romaji": "kyoutogaidainishi"
       }
@@ -400,7 +434,10 @@
         "襾",
         "覀"
       ],
-      "meaning": "west"
+      "meaning": {
+        "en": "west",
+        "vi": "phía tây"
+      }
     },
     "parts": [
       "西"
@@ -413,5 +450,6 @@
   "hanViet": [
     "tây",
     "tê"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: mặt trời lặn về phía tây, nên 西 là hướng tây."
 }

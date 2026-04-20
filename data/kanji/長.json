@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "naga, nagai",
-    "meaning": "long, chief",
+    "meaning": {
+      "en": "long, chief",
+      "vi": "dài, trưởng"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "身長（しんちょう）",
         "meaning": {
-          "english": "height (of body)"
+          "english": "height (of body)",
+          "en": "height (of body)",
+          "vi": "height (of body)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "社長（しゃちょう）",
         "meaning": {
-          "english": "company president"
+          "english": "company president",
+          "en": "company president",
+          "vi": "company president"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "市長（しちょう）",
         "meaning": {
-          "english": "mayor"
+          "english": "mayor",
+          "en": "mayor",
+          "vi": "mayor"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "会長（かいちょう）",
         "meaning": {
-          "english": "president (of a society)"
+          "english": "president (of a society)",
+          "en": "president (of a society)",
+          "vi": "president (of a society)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "長期（ちょうき）",
         "meaning": {
-          "english": "long time period"
+          "english": "long time period",
+          "en": "long time period",
+          "vi": "long time period"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "長時間（ちょうじかん）",
         "meaning": {
-          "english": "long-term, long-range"
+          "english": "long-term, long-range",
+          "en": "long-term, long-range",
+          "vi": "long-term, long-range"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "長男（ちょうなん）",
         "meaning": {
-          "english": "eldest son"
+          "english": "eldest son",
+          "en": "eldest son",
+          "vi": "eldest son"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "長女（ちょうじょ）",
         "meaning": {
-          "english": "eldest daughter"
+          "english": "eldest daughter",
+          "en": "eldest daughter",
+          "vi": "eldest daughter"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "長所（ちょうしょ）",
         "meaning": {
-          "english": "strong point"
+          "english": "strong point",
+          "en": "strong point",
+          "vi": "strong point"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "成長する（せいちょうする）",
         "meaning": {
-          "english": "grow"
+          "english": "grow",
+          "en": "grow",
+          "vi": "grow"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "長い（ながい）",
         "meaning": {
-          "english": "long"
+          "english": "long",
+          "en": "long",
+          "vi": "long"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-naga(i)_06_k.opus",
@@ -276,7 +301,9 @@
     "kanji": {
       "character": "長",
       "meaning": {
-        "english": "long, chief"
+        "english": "long, chief",
+        "en": "long, chief",
+        "vi": "dài, trưởng"
       },
       "strokes": {
         "count": 8,
@@ -330,7 +357,9 @@
         "romaji": "nagai"
       },
       "meaning": {
-        "english": "long"
+        "english": "long",
+        "en": "long",
+        "vi": "long"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nagai0.svg",
@@ -351,7 +380,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "12",
     "strokeCount": 8,
-    "meaning": "long, leader, superior, senior",
+    "meaning": {
+      "en": "long, leader, superior, senior",
+      "vi": "dài, người đứng đầu, cấp trên, bề trên"
+    },
     "kunyomi": [
       "なが.い",
       "おさ"
@@ -364,7 +396,8 @@
         "example": "長",
         "reading": "チョウ",
         "meaning": {
-          "vi": "head, chief, leader, elder, merit, strong point, superiority, major"
+          "vi": "head, chief, leader, elder, merit, strong point, superiority, major",
+          "en": "head, chief, leader, elder, merit, strong point, superiority, major"
         },
         "romaji": "chou"
       },
@@ -372,7 +405,8 @@
         "example": "長官",
         "reading": "チョウカン",
         "meaning": {
-          "en": "secretary (government), director, chief"
+          "en": "secretary (government), director, chief",
+          "vi": "secretary (government), director, chief"
         },
         "romaji": "choukan"
       },
@@ -380,7 +414,8 @@
         "example": "体長",
         "reading": "タイチョウ",
         "meaning": {
-          "en": "length (of an animal), body length"
+          "en": "length (of an animal), body length",
+          "vi": "length (of an animal), body length"
         },
         "romaji": "taichou"
       },
@@ -388,7 +423,8 @@
         "example": "医長",
         "reading": "イチョウ",
         "meaning": {
-          "vi": "medical director, chief physician"
+          "vi": "medical director, chief physician",
+          "en": "medical director, chief physician"
         },
         "romaji": "ichou"
       }
@@ -398,7 +434,8 @@
         "example": "長い",
         "reading": "ながい",
         "meaning": {
-          "vi": "long (distance, length), long (time), protracted, prolonged"
+          "vi": "long (distance, length), long (time), protracted, prolonged",
+          "en": "long (distance, length), long (time), protracted, prolonged"
         },
         "romaji": "nagai"
       },
@@ -406,7 +443,8 @@
         "example": "長居",
         "reading": "ながい",
         "meaning": {
-          "en": "long visit, overstaying"
+          "en": "long visit, overstaying",
+          "vi": "long visit, overstaying"
         },
         "romaji": "nagai"
       },
@@ -414,21 +452,26 @@
         "example": "長",
         "reading": "おさ",
         "meaning": {
-          "en": "head, chief, leader, the greatest (of all the ...)"
+          "en": "head, chief, leader, the greatest (of all the ...)",
+          "vi": "head, chief, leader, the greatest (of all the ...)"
         },
         "romaji": "osa"
       },
       {
         "example": "【オサガメ】",
         "reading": "leatherback turtle (Dermochelys coriacea)",
-        "meaning": "",
+        "meaning": {
+          "en": "",
+          "vi": ""
+        },
         "romaji": "leatherback turtle (Dermochelys coriacea)"
       },
       {
         "example": "田長",
         "reading": "たおさ",
         "meaning": {
-          "vi": "master of the rice field, chief farmer, lesser cuckoo (Cuculus poliocephalus)"
+          "vi": "master of the rice field, chief farmer, lesser cuckoo (Cuculus poliocephalus)",
+          "en": "master of the rice field, chief farmer, lesser cuckoo (Cuculus poliocephalus)"
         },
         "romaji": "taosa"
       },
@@ -436,7 +479,8 @@
         "example": "死出田長",
         "reading": "しでたおさ",
         "meaning": {
-          "vi": "lesser cuckoo (Cuculus poliocephalus)"
+          "vi": "lesser cuckoo (Cuculus poliocephalus)",
+          "en": "lesser cuckoo (Cuculus poliocephalus)"
         },
         "romaji": "shidetaosa"
       }
@@ -446,7 +490,10 @@
       "forms": [
         "镸"
       ],
-      "meaning": "long, grow"
+      "meaning": {
+        "en": "long, grow",
+        "vi": "dài, phát triển"
+      }
     },
     "parts": [
       "長"
@@ -462,5 +509,7 @@
     "trường",
     "trưởng",
     "trượng"
-  ]
+  ],
+  "jlpt_level": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: 長 như mái tóc kéo dài xuống, giúp nhớ nghĩa dài và trưởng."
 }

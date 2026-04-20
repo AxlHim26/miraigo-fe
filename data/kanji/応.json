@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "respond, reply",
+    "meaning": {
+      "en": "respond, reply",
+      "vi": "đáp lại, hồi đáp"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "応じる（おうじる）",
         "meaning": {
-          "english": "respond, satisfy, accept [v.i.]"
+          "english": "respond, satisfy, accept [v.i.]",
+          "en": "respond, satisfy, accept [v.i.]",
+          "vi": "đáp lại, đáp ứng, chấp nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(jiru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "応募する（おうぼする）",
         "meaning": {
-          "english": "apply (e.g. position)"
+          "english": "apply (e.g. position)",
+          "en": "apply (e.g. position)",
+          "vi": "ứng tuyển, nộp đơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(jiru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "応答する（おうとうする）",
         "meaning": {
-          "english": "reply, answer [v.i.]"
+          "english": "reply, answer [v.i.]",
+          "en": "reply, answer [v.i.]",
+          "vi": "trả lời, đáp lời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(jiru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "応援する（おうえんする）",
         "meaning": {
-          "english": "aid, support, cheer"
+          "english": "aid, support, cheer",
+          "en": "aid, support, cheer",
+          "vi": "giúp đỡ, ủng hộ, cổ vũ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(jiru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "応用する（おうようする）",
         "meaning": {
-          "english": "apply, put to practical use"
+          "english": "apply, put to practical use",
+          "en": "apply, put to practical use",
+          "vi": "ứng dụng, đem vào sử dụng thực tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(jiru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "対応する（たいおうする）",
         "meaning": {
-          "english": "cope with, deal with"
+          "english": "cope with, deal with",
+          "en": "cope with, deal with",
+          "vi": "đối phó, xử lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(jiru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "適応する（てきおうする）",
         "meaning": {
-          "english": "adapt, accommodate, conform"
+          "english": "adapt, accommodate, conform",
+          "en": "adapt, accommodate, conform",
+          "vi": "thích nghi, thích ứng, phù hợp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(jiru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "反応する（はんのうする）",
         "meaning": {
-          "english": "react, respond"
+          "english": "react, respond",
+          "en": "react, respond",
+          "vi": "phản ứng, đáp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(jiru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "順応する（じゅんのうする）",
         "meaning": {
-          "english": "adapt"
+          "english": "adapt",
+          "en": "adapt",
+          "vi": "thích nghi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(jiru)_06_i.opus",
@@ -216,7 +237,9 @@
     "kanji": {
       "character": "応",
       "meaning": {
-        "english": "respond, reply"
+        "english": "respond, reply",
+        "en": "respond, reply",
+        "vi": "đáp lại, hồi đáp"
       },
       "strokes": {
         "count": 7,
@@ -268,7 +291,9 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "english": "heart, mind, spirit",
+        "en": "heart, mind, spirit",
+        "vi": "trái tim, tâm trí, tinh thần"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -289,7 +314,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "266",
     "strokeCount": 7,
-    "meaning": "apply, answer, yes, OK, reply, accept",
+    "meaning": {
+      "en": "apply, answer, yes, OK, reply, accept",
+      "vi": "đáp ứng, trả lời, vâng, được, hồi đáp, chấp nhận"
+    },
     "kunyomi": [
       "あた.る",
       "まさに",
@@ -305,7 +333,8 @@
         "example": "応",
         "reading": "オウ",
         "meaning": {
-          "en": "agreement, affirmative, aye, yes, OK, okay, yeah, all right"
+          "en": "agreement, affirmative, aye, yes, OK, okay, yeah, all right",
+          "vi": "đồng ý, khẳng định, vâng, được, ổn"
         },
         "romaji": "ou"
       },
@@ -313,7 +342,8 @@
         "example": "応援",
         "reading": "オウエン",
         "meaning": {
-          "vi": "aid, assistance, help, support, reinforcement, cheering, rooting (for), support"
+          "vi": "sự giúp đỡ, hỗ trợ, tiếp sức, cổ vũ",
+          "en": "aid, assistance, help, support, reinforcement, cheering, rooting (for), support"
         },
         "romaji": "ouen"
       },
@@ -321,7 +351,8 @@
         "example": "呼応",
         "reading": "コオウ",
         "meaning": {
-          "vi": "hailing each other, acting in concert, responding (to), sympathizing (with), agreement, concord"
+          "vi": "gọi đáp nhau, cùng hành động, đáp ứng, đồng cảm, sự đồng thuận",
+          "en": "hailing each other, acting in concert, responding (to), sympathizing (with), agreement, concord"
         },
         "romaji": "koou"
       },
@@ -329,7 +360,8 @@
         "example": "饗応",
         "reading": "キョウオウ",
         "meaning": {
-          "en": "entertaining with food and drink, treating to dinner, wining and dining"
+          "en": "entertaining with food and drink, treating to dinner, wining and dining",
+          "vi": "thiết đãi ăn uống, mời cơm"
         },
         "romaji": "kyouou"
       }
@@ -339,7 +371,8 @@
         "example": "応える",
         "reading": "こたえる",
         "meaning": {
-          "vi": "to respond, to answer, to meet (e.g. demands, expectations), to affect, to take a toll, to strike home, to have an effect on, to be hard on someone (e.g. heat, cold, work, illness, etc.), to be a strain"
+          "vi": "đáp lại, trả lời, đáp ứng, tác động, gây tổn hại, đánh trúng, có ảnh hưởng, làm ai đó mệt, trở thành gánh nặng",
+          "en": "to respond, to answer, to meet (e.g. demands, expectations), to affect, to take a toll, to strike home, to have an effect on, to be hard on someone (e.g. heat, cold, work, illness, etc.), to be a strain"
         },
         "romaji": "kotaeru"
       }
@@ -350,7 +383,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "tim, tấm lòng"
+      }
     },
     "parts": [
       "广",
@@ -363,5 +399,7 @@
   },
   "hanViet": [
     "ưng"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: Tim 心 đáp lại từ mái nhà 广, gợi phản ứng hay hồi đáp, nên 応 là đáp ứng, phản hồi."
 }

@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1759",
     "strokeCount": 14,
-    "meaning": "design, figured cloth, twill",
+    "meaning": {
+      "en": "design, figured cloth, twill",
+      "vi": "hoa văn, vải hoa, vân chéo"
+    },
     "kunyomi": [
       "あや"
     ],
@@ -19,7 +22,8 @@
         "example": "綸子",
         "reading": "リンズ",
         "meaning": {
-          "en": "figured satin"
+          "en": "figured satin",
+          "vi": "vải sa tanh hoa"
         },
         "romaji": "rinzu"
       }
@@ -29,7 +33,8 @@
         "example": "綾",
         "reading": "あや",
         "meaning": {
-          "vi": "figure, design, twill weave, pattern of diagonal stripes, style (of writing), figure (of speech), design, plot, plan, minor market fluctuation, technical correction, cat's cradle, lease rod (in a loom)"
+          "vi": "hình, hoa văn, kiểu dệt chéo, họa tiết sọc chéo, văn phong, biện pháp tu từ, thiết kế, mưu đồ, kế hoạch, dao động nhỏ của thị trường, điều chỉnh kỹ thuật, trò dây mèo, thanh chia sợi dọc trong khung cửi",
+          "en": "figure, design, twill weave, pattern of diagonal stripes, style (of writing), figure (of speech), design, plot, plan, minor market fluctuation, technical correction, cat's cradle, lease rod (in a loom)"
         },
         "romaji": "aya"
       },
@@ -37,7 +42,8 @@
         "example": "綾藺笠",
         "reading": "あやいがさ",
         "meaning": {
-          "vi": "type of traditional Japanese conical hat"
+          "vi": "một loại nón chóp truyền thống của Nhật Bản",
+          "en": "type of traditional Japanese conical hat"
         },
         "romaji": "ayaigasa"
       },
@@ -45,7 +51,8 @@
         "example": "透綾",
         "reading": "すきや",
         "meaning": {
-          "en": "thin silk material"
+          "en": "thin silk material",
+          "vi": "vải lụa mỏng"
         },
         "romaji": "sukiya"
       },
@@ -53,7 +60,8 @@
         "example": "亀綾",
         "reading": "かめあや",
         "meaning": {
-          "vi": "high-quality glossy white habutai silk, raw silk twill fabric with fine diamond pattern"
+          "vi": "lụa habutai trắng bóng cao cấp, vải lụa sống dệt chéo với hoa văn hình thoi mịn",
+          "en": "high-quality glossy white habutai silk, raw silk twill fabric with fine diamond pattern"
         },
         "romaji": "kameaya"
       }
@@ -63,7 +71,10 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": {
+        "en": "silk",
+        "vi": "lụa"
+      }
     },
     "parts": [
       "儿",

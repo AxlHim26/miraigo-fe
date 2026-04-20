@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 4,
     "kunyomi": "futata, futatabi",
-    "meaning": "another time, again, twice",
+    "meaning": {
+      "en": "another time, again, twice",
+      "vi": "một lần khác, lại, hai lần"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "再度（さいど）",
         "meaning": {
-          "english": "again"
+          "english": "again",
+          "en": "again",
+          "vi": "lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futata(bi)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "再開する（さいかいする）",
         "meaning": {
-          "english": "reopen"
+          "english": "reopen",
+          "en": "reopen",
+          "vi": "mở lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futata(bi)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "再現する（さいげんする）",
         "meaning": {
-          "english": "reappear, reproduce"
+          "english": "reappear, reproduce",
+          "en": "reappear, reproduce",
+          "vi": "xuất hiện lại, tái hiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futata(bi)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "再生する（さいせいする）",
         "meaning": {
-          "english": "playback, regenerate"
+          "english": "playback, regenerate",
+          "en": "playback, regenerate",
+          "vi": "phát lại, tái tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futata(bi)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "再婚する（さいこんする）",
         "meaning": {
-          "english": "remarry"
+          "english": "remarry",
+          "en": "remarry",
+          "vi": "tái hôn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futata(bi)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "再会する（さいかいする）",
         "meaning": {
-          "english": "meet again"
+          "english": "meet again",
+          "en": "meet again",
+          "vi": "gặp lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futata(bi)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "再来月（さらいげつ）",
         "meaning": {
-          "english": "month after next"
+          "english": "month after next",
+          "en": "month after next",
+          "vi": "tháng sau nữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futata(bi)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "再来週（さらいしゅう）",
         "meaning": {
-          "english": "week after next"
+          "english": "week after next",
+          "en": "week after next",
+          "vi": "tuần sau nữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futata(bi)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "再来年（さらいねん）",
         "meaning": {
-          "english": "year after next"
+          "english": "year after next",
+          "en": "year after next",
+          "vi": "năm sau nữa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futata(bi)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "再び（ふたたび）",
         "meaning": {
-          "english": "again"
+          "english": "again",
+          "en": "again",
+          "vi": "lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futata(bi)_06_j.opus",
@@ -255,7 +278,9 @@
     "kanji": {
       "character": "再",
       "meaning": {
-        "english": "another time, again, twice"
+        "english": "another time, again, twice",
+        "en": "another time, again, twice",
+        "vi": "một lần khác, lại, hai lần"
       },
       "strokes": {
         "count": 6,
@@ -305,7 +330,9 @@
         "romaji": "keigamae"
       },
       "meaning": {
-        "english": "to enclose"
+        "english": "to enclose",
+        "en": "to enclose",
+        "vi": "bao quanh"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/keigamae0.svg",
@@ -326,7 +353,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "275",
     "strokeCount": 6,
-    "meaning": "again, twice, second time",
+    "meaning": {
+      "en": "again, twice, second time",
+      "vi": "lại, hai lần, lần thứ hai"
+    },
     "kunyomi": [
       "ふたた.び"
     ],
@@ -339,7 +369,8 @@
         "example": "再",
         "reading": "サイ",
         "meaning": {
-          "en": "re-, again"
+          "en": "re-, again",
+          "vi": "tái-, lại"
         },
         "romaji": "sai"
       },
@@ -347,7 +378,8 @@
         "example": "再演",
         "reading": "サイエン",
         "meaning": {
-          "vi": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation"
+          "vi": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation",
+          "en": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation"
         },
         "romaji": "saien"
       },
@@ -355,7 +387,8 @@
         "example": "一再",
         "reading": "イッサイ",
         "meaning": {
-          "vi": "once or twice, repeatedly"
+          "vi": "once or twice, repeatedly",
+          "en": "once or twice, repeatedly"
         },
         "romaji": "issai"
       },
@@ -363,7 +396,8 @@
         "example": "再",
         "reading": "サイ",
         "meaning": {
-          "en": "re-, again"
+          "en": "re-, again",
+          "vi": "tái-, lại"
         },
         "romaji": "sai"
       },
@@ -371,7 +405,8 @@
         "example": "再演",
         "reading": "サイエン",
         "meaning": {
-          "vi": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation"
+          "vi": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation",
+          "en": "another showing (of a play), playing the same role again (i.e. of an actor), recapitulation"
         },
         "romaji": "saien"
       }
@@ -381,7 +416,8 @@
         "example": "再び",
         "reading": "ふたたび",
         "meaning": {
-          "en": "again, once more, a second time"
+          "en": "again, once more, a second time",
+          "vi": "lại, thêm lần nữa, lần thứ hai"
         },
         "romaji": "futatabi"
       },
@@ -389,14 +425,18 @@
         "example": "再び取る",
         "reading": "ふたたびとる",
         "meaning": {
-          "en": "to reassume"
+          "en": "to reassume",
+          "vi": "nhận lại, đảm nhận lại"
         },
         "romaji": "futatabitoru"
       }
     ],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [
       "一",

@@ -5,7 +5,10 @@
     "query": "冪",
     "found": true,
     "strokeCount": 15,
-    "meaning": "power, exponent",
+    "meaning": {
+      "en": "power, exponent",
+      "vi": "lũy thừa, số mũ"
+    },
     "kunyomi": [],
     "onyomi": [
       "ベキ"
@@ -15,7 +18,8 @@
         "example": "冪",
         "reading": "ベキ",
         "meaning": {
-          "vi": "exponent, power"
+          "vi": "exponent, power",
+          "en": "exponent, power"
         },
         "romaji": "beki"
       },
@@ -23,7 +27,8 @@
         "example": "べき級数",
         "reading": "ベキキュウスウ",
         "meaning": {
-          "vi": "power series"
+          "vi": "power series",
+          "en": "power series"
         },
         "romaji": "bekikyuusuu"
       },
@@ -31,7 +36,8 @@
         "example": "降冪",
         "reading": "コウベキ",
         "meaning": {
-          "vi": "descending powers"
+          "vi": "descending powers",
+          "en": "descending powers"
         },
         "romaji": "koubeki"
       },
@@ -39,7 +45,8 @@
         "example": "昇冪",
         "reading": "ショウベキ",
         "meaning": {
-          "vi": "ascending powers"
+          "vi": "ascending powers",
+          "en": "ascending powers"
         },
         "romaji": "shoubeki"
       }
@@ -47,7 +54,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冖",
-      "meaning": "cover"
+      "meaning": {
+        "en": "cover",
+        "vi": "che phủ"
+      }
     },
     "parts": [
       "冖",
@@ -59,10 +69,12 @@
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20906_frames.png",
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051aa.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51aa.gif",
-    "uri": "https://jisho.org/search/%E5%86%AA%23kanji"
+    "uri": "https://jisho.org/search/%E5%86%AA%23kanji",
+    "jlptLevel": null
   },
   "hanViet": [
     "mạc",
     "mịch"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: nhiều lớp phủ chồng lên nhau như số mũ đè lên số, nên nhớ đến lũy thừa."
 }

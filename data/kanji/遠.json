@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "too, tooi, tooku",
-    "meaning": "distant, far",
+    "meaning": {
+      "en": "distant, far",
+      "vi": "xa xoi"
+    },
     "kstroke": 13,
     "examples": [
       {
         "japanese": "遠慮する（えんりょする）",
         "meaning": {
-          "english": "refrain, exercise restraint"
+          "english": "refrain, exercise restraint",
+          "en": "refrain, exercise restraint",
+          "vi": "kieng, tiet che"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "遠足（えんそく）",
         "meaning": {
-          "english": "field trip"
+          "english": "field trip",
+          "en": "field trip",
+          "vi": "chuyen di thuc dia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "永遠（えいえん）",
         "meaning": {
-          "english": "eternity"
+          "english": "eternity",
+          "en": "eternity",
+          "vi": "vĩnh cửu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "久遠（くおん）",
         "meaning": {
-          "english": "eternity"
+          "english": "eternity",
+          "en": "eternity",
+          "vi": "vĩnh cửu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "遠い（とおい）",
         "meaning": {
-          "english": "far"
+          "english": "far",
+          "en": "far",
+          "vi": "xa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "遠く（とおく）",
         "meaning": {
-          "english": "far"
+          "english": "far",
+          "en": "far",
+          "vi": "xa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "遠回りする（とおまわりする）",
         "meaning": {
-          "english": "detour"
+          "english": "detour",
+          "en": "detour",
+          "vi": "di vong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/too(i)_06_g.opus",
@@ -258,7 +275,9 @@
     "kanji": {
       "character": "遠",
       "meaning": {
-        "english": "distant, far"
+        "english": "distant, far",
+        "en": "distant, far",
+        "vi": "xa xoi"
       },
       "strokes": {
         "count": 13,
@@ -322,7 +341,9 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance",
+        "en": "road, walk, to advance",
+        "vi": "đường, đi, tiến lên"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -343,7 +364,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "887",
     "strokeCount": 13,
-    "meaning": "distant, far",
+    "meaning": {
+      "en": "distant, far",
+      "vi": "xa xoi"
+    },
     "kunyomi": [
       "とお.い"
     ],
@@ -356,7 +380,8 @@
         "example": "遠山",
         "reading": "エンザン",
         "meaning": {
-          "en": "distant mountain"
+          "en": "distant mountain",
+          "vi": "ngon nui xa"
         },
         "romaji": "enzan"
       },
@@ -364,7 +389,8 @@
         "example": "遠隔",
         "reading": "エンカク",
         "meaning": {
-          "en": "distant, remote, isolated"
+          "en": "distant, remote, isolated",
+          "vi": "xa, heo lanh, co lap"
         },
         "romaji": "enkaku"
       },
@@ -372,7 +398,8 @@
         "example": "望遠",
         "reading": "ボウエン",
         "meaning": {
-          "en": "seeing at a distance"
+          "en": "seeing at a distance",
+          "vi": "nhin tu xa"
         },
         "romaji": "bouen"
       },
@@ -380,7 +407,8 @@
         "example": "以遠",
         "reading": "イエン",
         "meaning": {
-          "en": "beyond, further than"
+          "en": "beyond, further than",
+          "vi": "vuot qua, xa hon"
         },
         "romaji": "ien"
       },
@@ -388,7 +416,8 @@
         "example": "遠忌",
         "reading": "オンキ",
         "meaning": {
-          "en": "anniversary of a death twelve or more years earlier"
+          "en": "anniversary of a death twelve or more years earlier",
+          "vi": "gio tu nhieu nam truoc"
         },
         "romaji": "onki"
       },
@@ -396,7 +425,8 @@
         "example": "遠諱",
         "reading": "オンキ",
         "meaning": {
-          "en": "semicentennial memorial service"
+          "en": "semicentennial memorial service",
+          "vi": "le tuong niem 50 nam"
         },
         "romaji": "onki"
       },
@@ -404,7 +434,8 @@
         "example": "久遠",
         "reading": "クオン",
         "meaning": {
-          "en": "eternity"
+          "en": "eternity",
+          "vi": "vĩnh cửu"
         },
         "romaji": "kuon"
       }
@@ -414,7 +445,8 @@
         "example": "遠い",
         "reading": "とおい",
         "meaning": {
-          "vi": "far, distant, far away, a long way off, in the distance, distant (past), remote (in time), remote, far-removed (in time), distant (relationship or kinship), having little to do (with someone), far (from something else in quality, degree, etc.), not similar, way off, hard (of hearing), nearsighted"
+          "vi": "far, distant, far away, a long way off, in the distance, distant (past), remote (in time), remote, far-removed (in time), distant (relationship or kinship), having little to do (with someone), far (from something else in quality, degree, etc.), not similar, way off, hard (of hearing), nearsighted",
+          "en": "far, distant, far away, a long way off, in the distance, distant (past), remote (in time), remote, far-removed (in time), distant (relationship or kinship), having little to do (with someone), far (from something else in quality, degree, etc.), not similar, way off, hard (of hearing), nearsighted"
         },
         "romaji": "tooi"
       },
@@ -422,7 +454,8 @@
         "example": "遠い昔",
         "reading": "とおいむかし",
         "meaning": {
-          "vi": "remote past, far ago, time immemorial"
+          "vi": "remote past, far ago, time immemorial",
+          "en": "remote past, far ago, time immemorial"
         },
         "romaji": "tooimukashi"
       }
@@ -434,7 +467,10 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": {
+        "en": "walk",
+        "vi": "đi bộ"
+      }
     },
     "parts": [
       "口",
@@ -451,5 +487,7 @@
     "viến",
     "viển",
     "viễn"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Bo suoc nhu dang di, ben trong la yuan. Di mai moi toi nen 遠 co nghia la xa."
 }

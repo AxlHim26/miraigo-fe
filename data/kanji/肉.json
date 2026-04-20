@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "flesh, meat",
+    "meaning": {
+      "en": "flesh, meat",
+      "vi": "thịt, da thịt"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "肉屋（にくや）",
         "meaning": {
-          "english": "butcher [n.]"
+          "english": "butcher [n.]",
+          "en": "butcher [n.]",
+          "vi": "cửa hàng thịt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "肉食（にくしょく）",
         "meaning": {
-          "english": "meat-eating, carnivorous"
+          "english": "meat-eating, carnivorous",
+          "en": "meat-eating, carnivorous",
+          "vi": "ăn thịt, loài ăn thịt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "肉体（にくたい）",
         "meaning": {
-          "english": "body, flesh"
+          "english": "body, flesh",
+          "en": "body, flesh",
+          "vi": "thân xác, thân thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "肉親（にくしん）",
         "meaning": {
-          "english": "blood relative"
+          "english": "blood relative",
+          "en": "blood relative",
+          "vi": "huyết thân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "肉眼（にくがん）",
         "meaning": {
-          "english": "naked eye"
+          "english": "naked eye",
+          "en": "naked eye",
+          "vi": "mắt thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "肉筆（にくひつ）",
         "meaning": {
-          "english": "one's own handwriting"
+          "english": "one's own handwriting",
+          "en": "one's own handwriting",
+          "vi": "nét chữ viết tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "皮肉（ひにく）",
         "meaning": {
-          "english": "cynicism, sarcasm, irony, satire"
+          "english": "cynicism, sarcasm, irony, satire",
+          "en": "cynicism, sarcasm, irony, satire",
+          "vi": "mỉa mai, châm biếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "牛肉（ぎゅうにく）",
         "meaning": {
-          "english": "beef"
+          "english": "beef",
+          "en": "beef",
+          "vi": "thịt bò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "豚肉（ぶたにく）",
         "meaning": {
-          "english": "pork"
+          "english": "pork",
+          "en": "pork",
+          "vi": "thịt heo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "鳥肉（とりにく）",
         "meaning": {
-          "english": "chicken meat"
+          "english": "chicken meat",
+          "en": "chicken meat",
+          "vi": "thịt gà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "筋肉（きんにく）",
         "meaning": {
-          "english": "muscle, sinew"
+          "english": "muscle, sinew",
+          "en": "muscle, sinew",
+          "vi": "cơ bắp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "挽き肉（ひきにく）",
         "meaning": {
-          "english": "minced, ground meat"
+          "english": "minced, ground meat",
+          "en": "minced, ground meat",
+          "vi": "thịt băm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/niku_06_l.opus",
@@ -458,5 +485,7 @@
     "nhụ",
     "nhục",
     "nậu"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: hình khối thịt có vân bên trong nên 肉 là thịt, phần thịt của cơ thể."
 }

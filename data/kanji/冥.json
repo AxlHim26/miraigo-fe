@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "2349",
     "strokeCount": 10,
-    "meaning": "dark",
+    "meaning": {
+      "en": "dark",
+      "vi": "tối tăm"
+    },
     "kunyomi": [
       "くら.い"
     ],
@@ -20,7 +23,8 @@
         "example": "冥福",
         "reading": "メイフク",
         "meaning": {
-          "vi": "happiness in the next world, heavenly bliss"
+          "vi": "happiness in the next world, heavenly bliss",
+          "en": "happiness in the next world, heavenly bliss"
         },
         "romaji": "meifuku"
       },
@@ -28,7 +32,8 @@
         "example": "瞑想",
         "reading": "メイソウ",
         "meaning": {
-          "vi": "meditation (with closed eyes), contemplation"
+          "vi": "meditation (with closed eyes), contemplation",
+          "en": "meditation (with closed eyes), contemplation"
         },
         "romaji": "meisou"
       },
@@ -36,7 +41,8 @@
         "example": "晦冥",
         "reading": "カイメイ",
         "meaning": {
-          "en": "darkness"
+          "en": "darkness",
+          "vi": "bóng tối"
         },
         "romaji": "kaimei"
       },
@@ -44,7 +50,8 @@
         "example": "天地晦冥",
         "reading": "テンチカイメイ",
         "meaning": {
-          "vi": "the world is covered in darkness, all is plunged into darkness"
+          "vi": "the world is covered in darkness, all is plunged into darkness",
+          "en": "the world is covered in darkness, all is plunged into darkness"
         },
         "romaji": "tenchikaimei"
       },
@@ -52,7 +59,8 @@
         "example": "冥福",
         "reading": "メイフク",
         "meaning": {
-          "vi": "happiness in the next world, heavenly bliss"
+          "vi": "happiness in the next world, heavenly bliss",
+          "en": "happiness in the next world, heavenly bliss"
         },
         "romaji": "meifuku"
       },
@@ -60,7 +68,8 @@
         "example": "冥利",
         "reading": "ミョウリ",
         "meaning": {
-          "vi": "providence, luck, favor, favour, advantage"
+          "vi": "providence, luck, favor, favour, advantage",
+          "en": "providence, luck, favor, favour, advantage"
         },
         "romaji": "myouri"
       }
@@ -70,14 +79,18 @@
         "example": "暗い",
         "reading": "くらい",
         "meaning": {
-          "vi": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"
+          "vi": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)",
+          "en": "dark, gloomy, murky, depressed, dispirited, down in the dumps, dark (mood), dark (in colour), dull, ill-boding, dark (e.g. past), suspicious, unlikely (to succeed), hopeless, unpromising, unfamiliar (with), ignorant (of)"
         },
         "romaji": "kurai"
       }
     ],
     "radical": {
       "symbol": "冖",
-      "meaning": "cover"
+      "meaning": {
+        "en": "cover",
+        "vi": "che phủ"
+      }
     },
     "parts": [
       "ハ",
@@ -88,9 +101,11 @@
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20901_frames.png",
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a5.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a5.gif",
-    "uri": "https://jisho.org/search/%E5%86%A5%23kanji"
+    "uri": "https://jisho.org/search/%E5%86%A5%23kanji",
+    "jlptLevel": null
   },
   "hanViet": [
     "minh"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: tấm màn che ánh sáng làm không gian tối hẳn, nên mang nghĩa tối tăm."
 }

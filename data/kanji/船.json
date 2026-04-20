@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "fune, funa",
-    "meaning": "ship, boat, vessel",
+    "meaning": {
+      "en": "ship, boat, vessel",
+      "vi": "tàu thuyền, chiếc thuyền"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "船舶（せんぱく）",
         "meaning": {
-          "english": "ship [n.]"
+          "english": "ship [n.]",
+          "en": "ship [n.]",
+          "vi": "tàu thuyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-fune_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "船長（せんちょう）",
         "meaning": {
-          "english": "ship's captain"
+          "english": "ship's captain",
+          "en": "ship's captain",
+          "vi": "thuyền trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-fune_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "汽船（きせん）",
         "meaning": {
-          "english": "steamship"
+          "english": "steamship",
+          "en": "steamship",
+          "vi": "tàu hơi nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-fune_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "造船（ぞうせん）",
         "meaning": {
-          "english": "shipbuilding"
+          "english": "shipbuilding",
+          "en": "shipbuilding",
+          "vi": "đóng tàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-fune_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "風船（ふうせん）",
         "meaning": {
-          "english": "balloon"
+          "english": "balloon",
+          "en": "balloon",
+          "vi": "bóng bay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-fune_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "船（ふね）",
         "meaning": {
-          "english": "ship, boat, watercraft, vessel"
+          "english": "ship, boat, watercraft, vessel",
+          "en": "ship, boat, watercraft, vessel",
+          "vi": "thuyền, tàu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-fune_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "屋形船（やかたぶね）",
         "meaning": {
-          "english": "pleasure boat, houseboat"
+          "english": "pleasure boat, houseboat",
+          "en": "pleasure boat, houseboat",
+          "vi": "thuyền du ngoạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-fune_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "助け船（たすけぶね）",
         "meaning": {
-          "english": "lifeboat, help"
+          "english": "lifeboat, help",
+          "en": "lifeboat, help",
+          "vi": "thuyền cứu hộ, sự giúp đỡ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-fune_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "船乗り（ふなのり）",
         "meaning": {
-          "english": "sailor, seaman"
+          "english": "sailor, seaman",
+          "en": "sailor, seaman",
+          "vi": "thủy thủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-fune_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "船旅（ふなたび）",
         "meaning": {
-          "english": "trip by boat"
+          "english": "trip by boat",
+          "en": "trip by boat",
+          "vi": "chuyến đi bằng thuyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-fune_06_j.opus",
@@ -423,5 +446,7 @@
   },
   "hanViet": [
     "thuyền"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: bộ thuyền 舟 ghép với phần còn lại như chiếc thuyền chở người vượt nước."
 }

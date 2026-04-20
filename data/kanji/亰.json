@@ -5,7 +5,10 @@
     "query": "亰",
     "found": true,
     "strokeCount": 9,
-    "meaning": "capital city",
+    "meaning": {
+      "en": "capital city",
+      "vi": "kinh đô"
+    },
     "kunyomi": [
       "みやこ"
     ],
@@ -18,7 +21,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "亠",

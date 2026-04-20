@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "fumi",
-    "meaning": "letter, writings, sentence",
+    "meaning": {
+      "en": "letter, writings, sentence",
+      "vi": "chữ viết, văn bản, câu văn"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "文法（ぶんぽう）",
         "meaning": {
-          "english": "grammar"
+          "english": "grammar",
+          "en": "grammar",
+          "vi": "ngữ pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "文章（ぶんしょう）",
         "meaning": {
-          "english": "sentence"
+          "english": "sentence",
+          "en": "sentence",
+          "vi": "câu văn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "文学（ぶんがく）",
         "meaning": {
-          "english": "literature"
+          "english": "literature",
+          "en": "literature",
+          "vi": "văn học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "文化（ぶんか）",
         "meaning": {
-          "english": "culture"
+          "english": "culture",
+          "en": "culture",
+          "vi": "văn hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "文明（ぶんめい）",
         "meaning": {
-          "english": "civilization"
+          "english": "civilization",
+          "en": "civilization",
+          "vi": "văn minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "文庫本（ぶんこぼん）",
         "meaning": {
-          "english": "paperback"
+          "english": "paperback",
+          "en": "paperback",
+          "vi": "sách bìa mềm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "文房具（ぶんぼうぐ）",
         "meaning": {
-          "english": "stationery"
+          "english": "stationery",
+          "en": "stationery",
+          "vi": "văn phòng phẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "論文（ろんぶん）",
         "meaning": {
-          "english": "thesis"
+          "english": "thesis",
+          "en": "thesis",
+          "vi": "luận văn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "文通する（ぶんつうする）",
         "meaning": {
-          "english": "correspond, exchange letters"
+          "english": "correspond, exchange letters",
+          "en": "correspond, exchange letters",
+          "vi": "trao đổi thư từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "文部省（もんぶしょう）",
         "meaning": {
-          "english": "Ministry of Education"
+          "english": "Ministry of Education",
+          "en": "Ministry of Education",
+          "vi": "Bộ Giáo dục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "文句（もんく）",
         "meaning": {
-          "english": "phrase, complaint"
+          "english": "phrase, complaint",
+          "en": "phrase, complaint",
+          "vi": "câu nói, lời than phiền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "恋文（こいぶみ）",
         "meaning": {
-          "english": "love-letter"
+          "english": "love-letter",
+          "en": "love-letter",
+          "vi": "thư tình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_l.opus",
@@ -307,7 +334,9 @@
     "kanji": {
       "character": "文",
       "meaning": {
-        "english": "letter, writings, sentence"
+        "english": "letter, writings, sentence",
+        "en": "letter, writings, sentence",
+        "vi": "chữ viết, văn bản, câu văn"
       },
       "strokes": {
         "count": 4,
@@ -353,7 +382,9 @@
         "romaji": "bun"
       },
       "meaning": {
-        "english": "literature, letters"
+        "english": "literature, letters",
+        "en": "literature, letters",
+        "vi": "văn chương, chữ nghĩa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bun0.svg",
@@ -374,7 +405,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "190",
     "strokeCount": 4,
-    "meaning": "sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)",
+    "meaning": {
+      "en": "sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)",
+      "vi": "câu văn, văn học, phong cách, nghệ thuật, trang trí, hoa văn, kế hoạch, bộ văn"
+    },
     "kunyomi": [
       "ふみ",
       "あや"
@@ -388,7 +422,8 @@
         "example": "文",
         "reading": "ブン",
         "meaning": {
-          "vi": "sentence, composition, text, writings, the literary arts (as opposed to the military arts), academia, literature, statement"
+          "vi": "sentence, composition, text, writings, the literary arts (as opposed to the military arts), academia, literature, statement",
+          "en": ""
         },
         "romaji": "bun"
       },
@@ -396,7 +431,8 @@
         "example": "文化",
         "reading": "ブンカ",
         "meaning": {
-          "en": "culture, civilization, civilisation, Bunka era (1804.2.11-1818.4.22)"
+          "en": "culture, civilization, civilisation, Bunka era (1804.2.11-1818.4.22)",
+          "vi": "văn hóa, văn minh, niên hiệu Bunka (1804.2.11-1818.4.22)"
         },
         "romaji": "bunka"
       },
@@ -404,7 +440,8 @@
         "example": "公文",
         "reading": "コウブン",
         "meaning": {
-          "en": "official document, archives"
+          "en": "official document, archives",
+          "vi": "công văn, hồ sơ lưu trữ"
         },
         "romaji": "koubun"
       },
@@ -412,7 +449,8 @@
         "example": "異文",
         "reading": "イブン",
         "meaning": {
-          "vi": "variant (in a manuscript or book), part of a text that differs from other versions"
+          "vi": "variant (in a manuscript or book), part of a text that differs from other versions",
+          "en": ""
         },
         "romaji": "ibun"
       },
@@ -420,7 +458,8 @@
         "example": "文",
         "reading": "モン",
         "meaning": {
-          "vi": "mon, one-thousandth of a kan (unit of currency 1336-1870), mon, traditional unit used for shoe and sock sizes (approx. 2.4 cm), letter, character, sentence, scripture, incantation"
+          "vi": "mon, one-thousandth of a kan (unit of currency 1336-1870), mon, traditional unit used for shoe and sock sizes (approx. 2.4 cm), letter, character, sentence, scripture, incantation",
+          "en": ""
         },
         "romaji": "mon"
       },
@@ -428,7 +467,8 @@
         "example": "紋",
         "reading": "モン",
         "meaning": {
-          "vi": "(family) crest, coat of arms, pattern, figure, playing card suit (in karuta)"
+          "vi": "(family) crest, coat of arms, pattern, figure, playing card suit (in karuta)",
+          "en": ""
         },
         "romaji": "mon"
       },
@@ -436,7 +476,8 @@
         "example": "人文",
         "reading": "ジンブン",
         "meaning": {
-          "en": "humanity, civilization, civilisation, culture"
+          "en": "humanity, civilization, civilisation, culture",
+          "vi": "nhân văn, văn minh, văn hóa"
         },
         "romaji": "jinbun"
       },
@@ -444,7 +485,8 @@
         "example": "縄文",
         "reading": "ジョウモン",
         "meaning": {
-          "vi": "straw-rope pattern pressed into earthenware, Jōmon period (ca. 14000-1000 BCE)"
+          "vi": "straw-rope pattern pressed into earthenware, Jōmon period (ca. 14000-1000 BCE)",
+          "en": ""
         },
         "romaji": "joumon"
       }
@@ -454,7 +496,8 @@
         "example": "文",
         "reading": "ふみ",
         "meaning": {
-          "vi": "letter, note, mail, book, writings, literary arts, learning, scholarship"
+          "vi": "letter, note, mail, book, writings, literary arts, learning, scholarship",
+          "en": ""
         },
         "romaji": "fumi"
       },
@@ -462,7 +505,8 @@
         "example": "文香",
         "reading": "ふみこう",
         "meaning": {
-          "vi": "scented insert (to enclose with a letter), perfumed insert"
+          "vi": "scented insert (to enclose with a letter), perfumed insert",
+          "en": ""
         },
         "romaji": "fumikou"
       },
@@ -470,7 +514,8 @@
         "example": "御文",
         "reading": "おふみ",
         "meaning": {
-          "vi": "Gobunsho (The Epistles, a collection of letters written by Rennyo)"
+          "vi": "Gobunsho (The Epistles, a collection of letters written by Rennyo)",
+          "en": ""
         },
         "romaji": "ofumi"
       },
@@ -478,7 +523,8 @@
         "example": "雁の文",
         "reading": "かりのふみ",
         "meaning": {
-          "en": "(a) letter"
+          "en": "(a) letter",
+          "vi": "lá thư"
         },
         "romaji": "karinofumi"
       },
@@ -486,7 +532,8 @@
         "example": "綾",
         "reading": "あや",
         "meaning": {
-          "vi": "figure, design, twill weave, pattern of diagonal stripes, style (of writing), figure (of speech), design, plot, plan, minor market fluctuation, technical correction, cat's cradle, lease rod (in a loom)"
+          "vi": "figure, design, twill weave, pattern of diagonal stripes, style (of writing), figure (of speech), design, plot, plan, minor market fluctuation, technical correction, cat's cradle, lease rod (in a loom)",
+          "en": ""
         },
         "romaji": "aya"
       },
@@ -494,7 +541,8 @@
         "example": "文つける",
         "reading": "あやつける",
         "meaning": {
-          "vi": "to make a false accusation, to invent a pretext for a quarrel"
+          "vi": "to make a false accusation, to invent a pretext for a quarrel",
+          "en": ""
         },
         "romaji": "ayatsukeru"
       },
@@ -502,14 +550,18 @@
         "example": "言葉は身の文",
         "reading": "ことばはみのあや",
         "meaning": {
-          "en": "words betray one's character"
+          "en": "words betray one's character",
+          "vi": "lời nói bộc lộ con người"
         },
         "romaji": "kotobahaminoaya"
       }
     ],
     "radical": {
       "symbol": "文",
-      "meaning": "script, literature"
+      "meaning": {
+        "en": "script, literature",
+        "vi": "chữ viết, văn chương"
+      }
     },
     "parts": [
       "文"
@@ -522,5 +574,6 @@
   "hanViet": [
     "văn",
     "vấn"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: những nét đan chéo như hoa văn và chữ viết trên trang."
 }

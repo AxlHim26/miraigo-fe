@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2117",
     "strokeCount": 5,
-    "meaning": "kite, (kokuji)",
+    "meaning": {
+      "en": "kite, (kokuji)",
+      "vi": "diều, chữ quốc tự"
+    },
     "kunyomi": [
       "いかのぼり",
       "たこ"
@@ -18,7 +21,8 @@
         "example": "凧",
         "reading": "いかのぼり",
         "meaning": {
-          "en": "kite"
+          "en": "kite",
+          "vi": "diều"
         },
         "romaji": "ikanobori"
       },
@@ -26,7 +30,8 @@
         "example": "凧",
         "reading": "たこ",
         "meaning": {
-          "en": "kite"
+          "en": "kite",
+          "vi": "diều"
         },
         "romaji": "tako"
       },
@@ -34,14 +39,18 @@
         "example": "凧揚げ",
         "reading": "たこあげ",
         "meaning": {
-          "en": "kite flying"
+          "en": "kite flying",
+          "vi": "thả diều"
         },
         "romaji": "takoage"
       }
     ],
     "radical": {
       "symbol": "几",
-      "meaning": "table"
+      "meaning": {
+        "en": "table",
+        "vi": "bàn"
+      }
     },
     "parts": [
       "冂",
@@ -55,5 +64,6 @@
     "uri": "https://jisho.org/search/%E5%87%A7%23kanji"
   },
   "hanViet": null,
-  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu",
+  "mnemonic_vi": "Gợi ý cách nhớ: 几 như khung diều, thêm nét chỉ gió nâng lên thành chiếc diều bay."
 }

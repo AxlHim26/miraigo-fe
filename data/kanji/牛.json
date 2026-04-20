@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ushi",
-    "meaning": "cattle, cow, ox",
+    "meaning": {
+      "en": "cattle, cow, ox",
+      "vi": "gia suc, bo, bo keo"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "牛乳（ぎゅうにゅう）",
         "meaning": {
-          "english": "(cow) milk"
+          "english": "(cow) milk",
+          "en": "(cow) milk",
+          "vi": "sua bo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyuu-ushi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "牛肉（ぎゅうにく）",
         "meaning": {
-          "english": "beef"
+          "english": "beef",
+          "en": "beef",
+          "vi": "thit bo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyuu-ushi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "闘牛（とうぎゅう）",
         "meaning": {
-          "english": "bull fight"
+          "english": "bull fight",
+          "en": "bull fight",
+          "vi": "dau bo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyuu-ushi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "牛（うし）",
         "meaning": {
-          "english": "cow"
+          "english": "cow",
+          "en": "cow",
+          "vi": "bò"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyuu-ushi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "子牛（こうし）",
         "meaning": {
-          "english": "calf"
+          "english": "calf",
+          "en": "calf",
+          "vi": "be con"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gyuu-ushi_06_e.opus",
@@ -216,7 +229,9 @@
     "kanji": {
       "character": "牛",
       "meaning": {
-        "english": "cattle, cow, ox"
+        "english": "cattle, cow, ox",
+        "en": "cattle, cow, ox",
+        "vi": "gia suc, bo, bo keo"
       },
       "strokes": {
         "count": 4,
@@ -262,7 +277,9 @@
         "romaji": "ushi"
       },
       "meaning": {
-        "english": "cow"
+        "english": "cow",
+        "en": "cow",
+        "vi": "bò"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ushi0.svg",
@@ -283,7 +300,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1202",
     "strokeCount": 4,
-    "meaning": "cow",
+    "meaning": {
+      "en": "cow",
+      "vi": "bò"
+    },
     "kunyomi": [
       "うし"
     ],
@@ -295,7 +315,8 @@
         "example": "妓夫",
         "reading": "ギュウ",
         "meaning": {
-          "vi": "pimp, brothel tout"
+          "vi": "pimp, brothel tout",
+          "en": "pimp, brothel tout"
         },
         "romaji": "gyuu"
       },
@@ -303,7 +324,8 @@
         "example": "牛",
         "reading": "ウシ",
         "meaning": {
-          "en": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions)"
+          "en": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions)",
+          "vi": "bo, trau bo, bo duc, be con, thit bo, chom sao Suu"
         },
         "romaji": "ushi"
       },
@@ -311,7 +333,8 @@
         "example": "肉牛",
         "reading": "ニクギュウ",
         "meaning": {
-          "en": "beef cattle"
+          "en": "beef cattle",
+          "vi": "bo thit"
         },
         "romaji": "nikugyuu"
       },
@@ -319,7 +342,8 @@
         "example": "海牛",
         "reading": "カイギュウ",
         "meaning": {
-          "en": "sirenian (any aquatic mammal of order Sirenia, incl. manatees, and dugongs), sea cow"
+          "en": "sirenian (any aquatic mammal of order Sirenia, incl. manatees, and dugongs), sea cow",
+          "vi": "bo bien, thu bien ho Sirenia"
         },
         "romaji": "kaigyuu"
       }
@@ -329,7 +353,8 @@
         "example": "牛",
         "reading": "うし",
         "meaning": {
-          "en": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions)"
+          "en": "cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese \"Ox\" constellation (one of the 28 mansions)",
+          "vi": "bo, trau bo, bo duc, be con, thit bo, chom sao Suu"
         },
         "romaji": "ushi"
       },
@@ -337,7 +362,8 @@
         "example": "牛車",
         "reading": "ぎゅうしゃ",
         "meaning": {
-          "en": "ox carriage (for Heian-era nobles), oxcart"
+          "en": "ox carriage (for Heian-era nobles), oxcart",
+          "vi": "xe bo cua quy toc thoi Heian"
         },
         "romaji": "gyuusha"
       },
@@ -345,7 +371,8 @@
         "example": "去勢牛",
         "reading": "きょせいうし",
         "meaning": {
-          "en": "ox, bullock"
+          "en": "ox, bullock",
+          "vi": "bo duc, bo keo xe"
         },
         "romaji": "kyoseiushi"
       },
@@ -353,7 +380,8 @@
         "example": "特牛",
         "reading": "こというし",
         "meaning": {
-          "en": "strong bull"
+          "en": "strong bull",
+          "vi": "bo moc manh"
         },
         "romaji": "kotoiushi"
       }
@@ -363,7 +391,10 @@
       "forms": [
         "牜"
       ],
-      "meaning": "cow"
+      "meaning": {
+        "en": "cow",
+        "vi": "bò"
+      }
     },
     "parts": [
       "牛"
@@ -375,5 +406,7 @@
   },
   "hanViet": [
     "ngưu"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Net doc nhu dau, hai net ngang nhu sung bo. Nhin hinh de nho 牛 la con bo."
 }

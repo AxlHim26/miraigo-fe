@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1405",
     "strokeCount": 5,
-    "meaning": "hill, knoll",
+    "meaning": {
+      "en": "hill, knoll",
+      "vi": "đồi, gò"
+    },
     "kunyomi": [
       "おか"
     ],
@@ -157,7 +160,10 @@
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "一",
@@ -179,5 +185,7 @@
   "meaning": {
     "vi": "đồi, gò",
     "en": "hill, knoll"
-  }
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gò đất nhô lên ở giữa, nhìn là nhớ đồi, gò."
 }

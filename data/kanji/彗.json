@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2294",
     "strokeCount": 11,
-    "meaning": "comet, broom",
+    "meaning": {
+      "en": "comet, broom",
+      "vi": "sao chổi, cái chổi"
+    },
     "kunyomi": [
       "ほうき"
     ],
@@ -22,7 +25,8 @@
         "example": "彗星",
         "reading": "スイセイ",
         "meaning": {
-          "en": "comet"
+          "en": "comet",
+          "vi": "sao chổi"
         },
         "romaji": "suisei"
       },
@@ -30,7 +34,8 @@
         "example": "彗星のように現れる",
         "reading": "スイセイノヨウニアラワレル",
         "meaning": {
-          "en": "to become famous overnight, to burst into fame"
+          "en": "to become famous overnight, to burst into fame",
+          "vi": "nổi tiếng sau một đêm, vụt sáng thành danh"
         },
         "romaji": "suiseinoyouniarawareru"
       }
@@ -41,7 +46,10 @@
       "forms": [
         "彑"
       ],
-      "meaning": "pig snout"
+      "meaning": {
+        "en": "pig snout",
+        "vi": "mõm heo"
+      }
     },
     "parts": [
       "ヨ",
@@ -56,5 +64,7 @@
   },
   "hanViet": [
     "tuệ"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Các nét như chổi quét kéo dài thành vệt sáng, dễ nhớ đến sao chổi."
 }

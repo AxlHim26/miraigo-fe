@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1954",
     "strokeCount": 9,
-    "meaning": "confer, relate, narrate, describe",
+    "meaning": {
+      "en": "confer, relate, narrate, describe",
+      "vi": "ban cho, kể lại, trần thuật, mô tả"
+    },
     "kunyomi": [
       "つい.ず",
       "ついで"
@@ -21,7 +24,8 @@
         "example": "叙情",
         "reading": "ジョジョウ",
         "meaning": {
-          "vi": "lyricism, description of one's feelings"
+          "vi": "tính trữ tình, sự miêu tả cảm xúc",
+          "en": "lyricism, description of one's feelings"
         },
         "romaji": "jojou"
       },
@@ -29,7 +33,8 @@
         "example": "叙勲",
         "reading": "ジョクン",
         "meaning": {
-          "en": "conferring of decorations"
+          "en": "conferring of decorations",
+          "vi": "trao tặng huân chương"
         },
         "romaji": "jokun"
       },
@@ -37,7 +42,8 @@
         "example": "倒叙",
         "reading": "トウジョ",
         "meaning": {
-          "en": "reverse chronological order"
+          "en": "reverse chronological order",
+          "vi": "thứ tự thời gian ngược"
         },
         "romaji": "toujo"
       },
@@ -45,7 +51,8 @@
         "example": "昇叙",
         "reading": "ショウジョ",
         "meaning": {
-          "vi": "promotion, advancement"
+          "vi": "thăng tiến, đề bạt",
+          "en": "promotion, advancement"
         },
         "romaji": "shoujo"
       }
@@ -53,7 +60,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": {
+        "en": "right hand",
+        "vi": "tay phải"
+      }
     },
     "parts": [
       "一",
@@ -68,5 +78,6 @@
   },
   "hanViet": [
     "tự"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: bàn tay 又 sắp xếp chữ nghĩa theo thứ tự để kể lại, mô tả."
 }

@@ -5,7 +5,10 @@
     "query": "俎",
     "found": true,
     "strokeCount": 9,
-    "meaning": "altar of sacrifice, chopping board",
+    "meaning": {
+      "en": "altar of sacrifice, chopping board",
+      "vi": "bàn tế lễ, thớt"
+    },
     "kunyomi": [
       "いた",
       "まないた"
@@ -19,7 +22,8 @@
         "example": "俎",
         "reading": "ソ",
         "meaning": {
-          "en": "altar of sacrifice"
+          "en": "altar of sacrifice",
+          "vi": "bàn tế lễ"
         },
         "romaji": "so"
       },
@@ -27,7 +31,8 @@
         "example": "俎上",
         "reading": "ソジョウ",
         "meaning": {
-          "vi": "on the chopping board"
+          "vi": "ở trên thớt",
+          "en": "on the chopping board"
         },
         "romaji": "sojou"
       },
@@ -35,7 +40,8 @@
         "example": "樽俎",
         "reading": "ソンソ",
         "meaning": {
-          "vi": "(eating or drinking) party"
+          "vi": "tiệc ăn uống",
+          "en": "(eating or drinking) party"
         },
         "romaji": "sonso"
       }
@@ -45,7 +51,8 @@
         "example": "まな板",
         "reading": "まないた",
         "meaning": {
-          "vi": "chopping board, cutting board, flat chest, tiny breasts"
+          "vi": "thớt, bàn chặt, ngực phẳng, ngực nhỏ",
+          "en": "chopping board, cutting board, flat chest, tiny breasts"
         },
         "romaji": "manaita"
       },
@@ -53,7 +60,8 @@
         "example": "まな板の上の鯉",
         "reading": "まないたのうえのこい",
         "meaning": {
-          "vi": "someone doomed to their fate, fish on the chopping board"
+          "vi": "người bị định đoạt bởi số phận, cá nằm trên thớt",
+          "en": "someone doomed to their fate, fish on the chopping board"
         },
         "romaji": "manaitanouenokoi"
       }
@@ -63,7 +71,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "人",

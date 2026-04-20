@@ -5,7 +5,10 @@
     "query": "僞",
     "found": true,
     "strokeCount": 14,
-    "meaning": "lie, falsehood, deceive, pretend",
+    "meaning": {
+      "en": "lie, falsehood, deceive, pretend",
+      "vi": "lời nói dối, sự giả dối, lừa dối, giả vờ"
+    },
     "kunyomi": [
       "いつわ.る",
       "いつわ.り",
@@ -22,7 +25,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

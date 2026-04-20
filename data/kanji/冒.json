@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "oka, okasu",
-    "meaning": "risk, brave, desecrate",
+    "meaning": {
+      "en": "risk, brave, desecrate",
+      "vi": "mạo hiểm, can đảm, xúc phạm"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "冒険（ぼうけん）",
         "meaning": {
-          "english": "adventure [n.]"
+          "english": "adventure [n.]",
+          "en": "adventure [n.]",
+          "vi": "cuộc phiêu lưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "冒頭（ぼうとう）",
         "meaning": {
-          "english": "opening (of a story, article, etc.)"
+          "english": "opening (of a story, article, etc.)",
+          "en": "opening (of a story, article, etc.)",
+          "vi": "phần mở đầu (của câu chuyện, bài viết, v.v.)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "冒涜する（ぼうとくする）",
         "meaning": {
-          "english": "desecrate, blaspheme"
+          "english": "desecrate, blaspheme",
+          "en": "desecrate, blaspheme",
+          "vi": "xúc phạm, báng bổ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "冒す（おかす）",
         "meaning": {
-          "english": "risk, take a risk"
+          "english": "risk, take a risk",
+          "en": "risk, take a risk",
+          "vi": "mạo hiểm, chấp nhận rủi ro"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bou-oka(su)_06_d.opus",
@@ -144,7 +155,9 @@
     "kanji": {
       "character": "冒",
       "meaning": {
-        "english": "risk, brave, desecrate"
+        "english": "risk, brave, desecrate",
+        "en": "risk, brave, desecrate",
+        "vi": "mạo hiểm, can đảm, xúc phạm"
       },
       "strokes": {
         "count": 9,
@@ -200,7 +213,9 @@
         "romaji": "me"
       },
       "meaning": {
-        "english": "eye"
+        "english": "eye",
+        "en": "eye",
+        "vi": "mắt"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/me0.svg",
@@ -221,7 +236,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1317",
     "strokeCount": 9,
-    "meaning": "risk, face, defy, dare, damage, assume (a name)",
+    "meaning": {
+      "en": "risk, face, defy, dare, damage, assume (a name)",
+      "vi": "mạo hiểm, đối mặt, thách thức, dám, gây hại, mang (tên)"
+    },
     "kunyomi": [
       "おか.す"
     ],
@@ -233,7 +251,8 @@
         "example": "冒頭",
         "reading": "ボウトウ",
         "meaning": {
-          "vi": "beginning, opening, start, outset"
+          "vi": "beginning, opening, start, outset",
+          "en": "beginning, opening, start, outset"
         },
         "romaji": "boutou"
       },
@@ -241,7 +260,8 @@
         "example": "冒険",
         "reading": "ボウケン",
         "meaning": {
-          "vi": "adventure, venture, venture which is unlikely to succeed, risky attempt, danger, hazard, risk"
+          "vi": "adventure, venture, venture which is unlikely to succeed, risky attempt, danger, hazard, risk",
+          "en": "adventure, venture, venture which is unlikely to succeed, risky attempt, danger, hazard, risk"
         },
         "romaji": "bouken"
       },
@@ -249,7 +269,8 @@
         "example": "感冒",
         "reading": "カンボウ",
         "meaning": {
-          "en": "(common) cold"
+          "en": "(common) cold",
+          "vi": "cảm lạnh (thông thường)"
         },
         "romaji": "kanbou"
       },
@@ -257,7 +278,8 @@
         "example": "流行性感冒",
         "reading": "リュウコウセイカンボウ",
         "meaning": {
-          "en": "influenza, flu"
+          "en": "influenza, flu",
+          "vi": "cúm"
         },
         "romaji": "ryuukouseikanbou"
       }
@@ -267,14 +289,18 @@
         "example": "冒す",
         "reading": "おかす",
         "meaning": {
-          "vi": "to brave, to risk, to face, to venture, to harm, to afflict, to affect, to desecrate, to profane, to assume (someone else's surname), to take"
+          "vi": "to brave, to risk, to face, to venture, to harm, to afflict, to affect, to desecrate, to profane, to assume (someone else's surname), to take",
+          "en": "to brave, to risk, to face, to venture, to harm, to afflict, to affect, to desecrate, to profane, to assume (someone else's surname), to take"
         },
         "romaji": "okasu"
       }
     ],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [
       "日",

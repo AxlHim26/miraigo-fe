@@ -5,7 +5,10 @@
     "query": "亳",
     "found": true,
     "strokeCount": 10,
-    "meaning": "an ancient Chinese capital",
+    "meaning": {
+      "en": "an ancient Chinese capital",
+      "vi": "một kinh đô cổ của Trung Quốc"
+    },
     "kunyomi": [],
     "onyomi": [
       "ハク"
@@ -14,7 +17,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亠",
-      "meaning": "lid"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [
       "ノ",

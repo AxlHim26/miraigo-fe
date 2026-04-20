@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 10,
-    "meaning": "jasmine",
+    "meaning": {
+      "en": "jasmine",
+      "vi": "hoa nhài"
+    },
     "kunyomi": [],
     "onyomi": [
       "リ",
@@ -18,7 +21,8 @@
         "example": "茉莉",
         "reading": "マツリ",
         "meaning": {
-          "en": "Arabian jasmine (Jasminum sambac)"
+          "en": "Arabian jasmine (Jasminum sambac)",
+          "vi": "hoa nhài Ả Rập (Jasminum sambac)"
         },
         "romaji": "matsuri"
       }
@@ -29,7 +33,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [
       "刈",
@@ -44,5 +51,7 @@
   "hanViet": [
     "lê",
     "lị"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Bộ cỏ kết hợp âm gợi tên loài hoa thơm, nên nhớ đến hoa nhài."
 }

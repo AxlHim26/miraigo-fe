@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ie, ya",
-    "meaning": "house, family",
+    "meaning": {
+      "en": "house, family",
+      "vi": "nhà, gia đình"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "家族（かぞく）",
         "meaning": {
-          "english": "family"
+          "en": "family",
+          "vi": "gia đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "家内（かない）",
         "meaning": {
-          "english": "wife"
+          "en": "wife",
+          "vi": "vợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "家具（かぐ）",
         "meaning": {
-          "english": "furniture"
+          "en": "furniture",
+          "vi": "đồ nội thất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "作曲家（さっきょくか）",
         "meaning": {
-          "english": "composer"
+          "en": "composer",
+          "vi": "nhà soạn nhạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "作家（さっか）",
         "meaning": {
-          "english": "writer, artist"
+          "en": "writer, artist",
+          "vi": "nhà văn, nghệ sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "徳川家（とくがわけ）",
         "meaning": {
-          "english": "the House of Tokugawa"
+          "en": "the House of Tokugawa",
+          "vi": "gia tộc Tokugawa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "家（いえ）",
         "meaning": {
-          "english": "house"
+          "en": "house",
+          "vi": "ngôi nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "家出する（いえでする）",
         "meaning": {
-          "english": "run away from home"
+          "en": "run away from home",
+          "vi": "bỏ nhà đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "家賃（やちん）",
         "meaning": {
-          "english": "rent"
+          "en": "rent",
+          "vi": "tiền thuê nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "一軒家（いっけんや）",
         "meaning": {
-          "english": "free standing home"
+          "en": "free standing home",
+          "vi": "nhà riêng độc lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "大家（おおや）",
         "meaning": {
-          "english": "landlord"
+          "en": "landlord",
+          "vi": "chủ nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_k.opus",
@@ -145,7 +159,8 @@
       {
         "japanese": "*家（うち）",
         "meaning": {
-          "english": "house, family"
+          "en": "house, family",
+          "vi": "nhà, gia đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_l.opus",
@@ -316,7 +331,8 @@
     "kanji": {
       "character": "家",
       "meaning": {
-        "english": "house, family"
+        "en": "house, family",
+        "vi": "nhà, gia đình"
       },
       "strokes": {
         "count": 10,
@@ -374,7 +390,8 @@
         "romaji": "ukanmuri"
       },
       "meaning": {
-        "english": "roof, house"
+        "en": "roof, house",
+        "vi": "mái nhà, nhà"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
@@ -395,7 +412,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "133",
     "strokeCount": 10,
-    "meaning": "house, home, family, professional, expert, performer",
+    "meaning": {
+      "en": "house, home, family, professional, expert, performer",
+      "vi": "nhà, mái ấm, gia đình, người chuyên nghiệp, chuyên gia, nghệ sĩ"
+    },
     "kunyomi": [
       "いえ",
       "や",
@@ -410,7 +430,8 @@
         "example": "家",
         "reading": "カ",
         "meaning": {
-          "en": "-ist, -er"
+          "en": "-ist, -er",
+          "vi": "-gia, -viên"
         },
         "romaji": "ka"
       },
@@ -418,7 +439,8 @@
         "example": "家屋",
         "reading": "カオク",
         "meaning": {
-          "en": "house, building"
+          "en": "house, building",
+          "vi": "nhà, tòa nhà"
         },
         "romaji": "kaoku"
       },
@@ -426,7 +448,8 @@
         "example": "研究家",
         "reading": "ケンキュウカ",
         "meaning": {
-          "en": "researcher, student (of)"
+          "en": "researcher, student (of)",
+          "vi": "nhà nghiên cứu, người học về"
         },
         "romaji": "kenkyuuka"
       },
@@ -434,7 +457,8 @@
         "example": "活動家",
         "reading": "カツドウカ",
         "meaning": {
-          "en": "activist"
+          "en": "activist",
+          "vi": "nhà hoạt động"
         },
         "romaji": "katsudouka"
       },
@@ -442,7 +466,8 @@
         "example": "家",
         "reading": "ケ",
         "meaning": {
-          "en": "house, family"
+          "en": "house, family",
+          "vi": "nhà, gia đình"
         },
         "romaji": "ke"
       },
@@ -450,7 +475,8 @@
         "example": "家来",
         "reading": "ケライ",
         "meaning": {
-          "en": "retainer, vassal, follower"
+          "en": "retainer, vassal, follower",
+          "vi": "gia thần, thuộc hạ, người theo"
         },
         "romaji": "kerai"
       },
@@ -458,6 +484,7 @@
         "example": "本家",
         "reading": "ホンケ",
         "meaning": {
+          "en": "head house, main family, founder (of a certain school, style, etc.), originator, birthplace",
           "vi": "head house, main family, founder (of a certain school, style, etc.), originator, birthplace"
         },
         "romaji": "honke"
@@ -466,6 +493,7 @@
         "example": "公家",
         "reading": "クゲ",
         "meaning": {
+          "en": "court noble, nobility, kuge, Imperial Court",
           "vi": "court noble, nobility, kuge, Imperial Court"
         },
         "romaji": "kuge"
@@ -476,7 +504,8 @@
         "example": "家",
         "reading": "いえ",
         "meaning": {
-          "en": "house, residence, dwelling, family, household, lineage, family name"
+          "en": "house, residence, dwelling, family, household, lineage, family name",
+          "vi": "nhà ở, chỗ cư trú, gia đình, hộ gia đình, dòng họ, họ"
         },
         "romaji": "ie"
       },
@@ -484,7 +513,8 @@
         "example": "家主",
         "reading": "やぬし",
         "meaning": {
-          "en": "landlord, landlady, house owner, home owner, head of the household"
+          "en": "landlord, landlady, house owner, home owner, head of the household",
+          "vi": "chủ nhà, gia chủ"
         },
         "romaji": "yanushi"
       },
@@ -492,6 +522,7 @@
         "example": "小家",
         "reading": "こいえ",
         "meaning": {
+          "en": "small and simple home",
           "vi": "small and simple home"
         },
         "romaji": "koie"
@@ -500,7 +531,8 @@
         "example": "建ち家",
         "reading": "たちいえ",
         "meaning": {
-          "en": "house, building"
+          "en": "house, building",
+          "vi": "nhà, tòa nhà"
         },
         "romaji": "tachiie"
       },
@@ -508,6 +540,7 @@
         "example": "屋",
         "reading": "や",
         "meaning": {
+          "en": "shop, store, restaurant, someone who sells (something) or works as (something), someone with a (certain) personality trait, house, roof",
           "vi": "shop, store, restaurant, someone who sells (something) or works as (something), someone with a (certain) personality trait, house, roof"
         },
         "romaji": "ya"
@@ -516,7 +549,8 @@
         "example": "家内",
         "reading": "かない",
         "meaning": {
-          "en": "(my) wife, inside the home, one's family"
+          "en": "(my) wife, inside the home, one's family",
+          "vi": "vợ, trong nhà, gia đình"
         },
         "romaji": "kanai"
       },
@@ -524,7 +558,8 @@
         "example": "長屋",
         "reading": "ながや",
         "meaning": {
-          "en": "tenement house, row house"
+          "en": "tenement house, row house",
+          "vi": "nhà tập thể, nhà dãy"
         },
         "romaji": "nagaya"
       },
@@ -532,6 +567,7 @@
         "example": "町家",
         "reading": "まちや",
         "meaning": {
+          "en": "machiya, traditional wooden townhouse, tradesman's house (esp. a home with a shop in front), merchant's house, merchant's family",
           "vi": "machiya, traditional wooden townhouse, tradesman's house (esp. a home with a shop in front), merchant's house, merchant's family"
         },
         "romaji": "machiya"
@@ -540,7 +576,8 @@
         "example": "家",
         "reading": "うち",
         "meaning": {
-          "en": "one's house, one's home, one's family, one's household, house"
+          "en": "one's house, one's home, one's family, one's household, house",
+          "vi": "nhà mình, gia đình mình, hộ nhà mình"
         },
         "romaji": "uchi"
       },
@@ -548,6 +585,7 @@
         "example": "内",
         "reading": "うち",
         "meaning": {
+          "en": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor",
           "vi": "inside, within, while (e.g. one is young), during, within (e.g. a day), in the course of, among, amongst, (out) of, between, in (secret, chaos, poverty, etc.), amidst, with (e.g. success), within oneself, one's feelings, inner thoughts, we, our company, our organization, one's home, one's family, my spouse, my husband, my wife, signed on behalf of (husband's name) by his wife, I, me, imperial palace grounds, emperor"
         },
         "romaji": "uchi"
@@ -556,14 +594,18 @@
         "example": "お家",
         "reading": "おうち",
         "meaning": {
-          "en": "your home, your family, their home, their family, (my) home"
+          "en": "your home, your family, their home, their family, (my) home",
+          "vi": "nhà bạn, gia đình bạn, nhà họ, gia đình họ, nhà tôi"
         },
         "romaji": "ouchi"
       }
     ],
     "radical": {
       "symbol": "宀",
-      "meaning": "roof"
+      "meaning": {
+        "en": "roof",
+        "vi": "mái nhà"
+      }
     },
     "parts": [
       "宀",
@@ -577,5 +619,7 @@
   "hanViet": [
     "cô",
     "gia"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: mái nhà 宀 che con lợn豕, hình ảnh mái ấm gia đình nên 家 là nhà."
 }

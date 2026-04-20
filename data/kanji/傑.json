@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1926",
     "strokeCount": 13,
-    "meaning": "greatness, excellence",
+    "meaning": {
+      "en": "greatness, excellence",
+      "vi": "sự vĩ đại, xuất sắc"
+    },
     "kunyomi": [
       "すぐ.れる"
     ],
@@ -20,7 +23,8 @@
         "example": "傑",
         "reading": "ケツ",
         "meaning": {
-          "vi": "the top (e.g. top ten), the best"
+          "vi": "the top (e.g. top ten), the best",
+          "en": "the top (e.g. top ten), the best"
         },
         "romaji": "ketsu"
       },
@@ -28,7 +32,8 @@
         "example": "傑人",
         "reading": "ケツジン",
         "meaning": {
-          "vi": "outstanding person, distinguished person, person of high caliber"
+          "vi": "outstanding person, distinguished person, person of high caliber",
+          "en": "outstanding person, distinguished person, person of high caliber"
         },
         "romaji": "ketsujin"
       },
@@ -36,7 +41,8 @@
         "example": "豪傑",
         "reading": "ゴウケツ",
         "meaning": {
-          "vi": "hero, bold person, daring person, great person, extraordinary person"
+          "vi": "hero, bold person, daring person, great person, extraordinary person",
+          "en": "hero, bold person, daring person, great person, extraordinary person"
         },
         "romaji": "gouketsu"
       },
@@ -44,7 +50,8 @@
         "example": "英傑",
         "reading": "エイケツ",
         "meaning": {
-          "vi": "great person, hero, mastermind, extraordinary person"
+          "vi": "great person, hero, mastermind, extraordinary person",
+          "en": "great person, hero, mastermind, extraordinary person"
         },
         "romaji": "eiketsu"
       }
@@ -54,7 +61,8 @@
         "example": "優れる",
         "reading": "すぐれる",
         "meaning": {
-          "vi": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+          "vi": "to be better (than), to be superior, to surpass, to excel, to be excellent",
+          "en": "to be better (than), to be superior, to surpass, to excel, to be excellent"
         },
         "romaji": "sugureru"
       }
@@ -64,7 +72,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

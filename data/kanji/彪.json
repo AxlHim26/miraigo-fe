@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2397",
     "strokeCount": 11,
-    "meaning": "spotted, mottled, patterned, small tiger",
+    "meaning": {
+      "en": "spotted, mottled, patterned, small tiger",
+      "vi": "vằn đốm, loang lổ, có hoa văn, hổ nhỏ"
+    },
     "kunyomi": [
       "あや"
     ],
@@ -19,7 +22,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "彡",
-      "meaning": "bristle, beard"
+      "meaning": {
+        "en": "bristle, beard",
+        "vi": "lông cứng, râu"
+      }
     },
     "parts": [
       "儿",
@@ -36,5 +42,7 @@
   },
   "hanViet": [
     "bưu"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Hoa văn nổi bật như da hổ đốm nên nhớ nghĩa vằn đốm."
 }

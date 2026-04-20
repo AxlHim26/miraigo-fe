@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1903",
     "strokeCount": 15,
-    "meaning": "entrust, request, send a message",
+    "meaning": {
+      "en": "entrust, request, send a message",
+      "vi": "giao phó, nhờ cậy, nhắn gửi"
+    },
     "kunyomi": [
       "しょく.する",
       "たの.む"
@@ -21,7 +24,8 @@
         "example": "嘱託",
         "reading": "ショクタク",
         "meaning": {
-          "vi": "commission, entrusting with (work), part-time employee, temporary work"
+          "vi": "commission, entrusting with (work), part-time employee, temporary work",
+          "en": "commission, entrusting with work, part-time employee, temporary work"
         },
         "romaji": "shokutaku"
       },
@@ -29,7 +33,8 @@
         "example": "嘱望",
         "reading": "ショクボウ",
         "meaning": {
-          "vi": "having great hopes for (someone's future), expecting much of, pinning one's hopes on"
+          "vi": "having great hopes for (someone's future), expecting much of, pinning one's hopes on",
+          "en": "having high hopes for someone's future, expecting much of, pinning one's hopes on"
         },
         "romaji": "shokubou"
       },
@@ -37,7 +42,8 @@
         "example": "委嘱",
         "reading": "イショク",
         "meaning": {
-          "vi": "commissioning, entrusting (with), request, appointment (to a position)"
+          "vi": "commissioning, entrusting (with), request, appointment (to a position)",
+          "en": "commissioning, entrusting with, request, appointment to a position"
         },
         "romaji": "ishoku"
       },
@@ -45,7 +51,8 @@
         "example": "遺嘱",
         "reading": "イショク",
         "meaning": {
-          "en": "dying wish (to be carried out after one's death)"
+          "en": "dying wish (to be carried out after one's death)",
+          "vi": "di nguyện"
         },
         "romaji": "ishoku"
       }
@@ -55,14 +62,18 @@
         "example": "嘱する",
         "reading": "しょくする",
         "meaning": {
-          "vi": "to entrust (someone) with, to pin one's hopes on (someone's future), to have great expectations for, to have (someone) deliver (a letter, etc.), to leave (a message), to send word"
+          "vi": "to entrust (someone) with, to pin one's hopes on (someone's future), to have great expectations for, to have (someone) deliver (a letter, etc.), to leave (a message), to send word",
+          "en": "to entrust someone with, to pin one's hopes on someone's future, to have great expectations for, to have someone deliver (a letter, etc.), to leave a message, to send word"
         },
         "romaji": "shokusuru"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -76,5 +87,7 @@
   },
   "hanViet": [
     "chúc"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Miệng 口 nhắn gửi, dặn dò và giao phó việc cho người khác, đó là 嘱."
 }

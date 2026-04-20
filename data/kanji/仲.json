@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "naka",
-    "meaning": "intermediary, personal relations, relation",
+    "meaning": {
+      "en": "intermediary, personal relations, relation",
+      "vi": "người trung gian, quan hệ cá nhân, mối quan hệ"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "仲介者（ちゅうかいしゃ）",
         "meaning": {
-          "english": "mediator, go-between"
+          "english": "mediator, go-between",
+          "en": "mediator, go-between",
+          "vi": "người hòa giải, người trung gian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "仲裁人（ちゅうさいにん）",
         "meaning": {
-          "english": "arbitrator, mediator"
+          "english": "arbitrator, mediator",
+          "en": "arbitrator, mediator",
+          "vi": "trọng tài, người hòa giải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "仲介する（ちゅうかいする）",
         "meaning": {
-          "english": "mediate, intercede"
+          "english": "mediate, intercede",
+          "en": "mediate, intercede",
+          "vi": "hòa giải, đứng ra dàn xếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "仲裁する（ちゅうさいする）",
         "meaning": {
-          "english": "arbitrate, mediate"
+          "english": "arbitrate, mediate",
+          "en": "arbitrate, mediate",
+          "vi": "phân xử, hòa giải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "仲（なか）",
         "meaning": {
-          "english": "relation, relationship"
+          "english": "relation, relationship",
+          "en": "relation, relationship",
+          "vi": "quan hệ, mối quan hệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "仲間（なかま）",
         "meaning": {
-          "english": "friend, fellow, companion"
+          "english": "friend, fellow, companion",
+          "en": "friend, fellow, companion",
+          "vi": "bạn bè, đồng bạn, bạn đồng hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "仲居（なかい）",
         "meaning": {
-          "english": "waitress"
+          "english": "waitress",
+          "en": "waitress",
+          "vi": "nữ phục vụ bàn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "仲買人（なかがいにん）",
         "meaning": {
-          "english": "broker, middleman"
+          "english": "broker, middleman",
+          "en": "broker, middleman",
+          "vi": "môi giới, trung gian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "仲立ち（なかだち）",
         "meaning": {
-          "english": "mediation, mediator, agent"
+          "english": "mediation, mediator, agent",
+          "en": "mediation, mediator, agent",
+          "vi": "sự trung gian, người trung gian, đại lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "仲直りする（なかなおりする）",
         "meaning": {
-          "english": "reconcile, make peace"
+          "english": "reconcile, make peace",
+          "en": "reconcile, make peace",
+          "vi": "hòa giải, làm lành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "*仲人（なこうど）",
         "meaning": {
-          "english": "matchmaker (for marriages)"
+          "english": "matchmaker (for marriages)",
+          "en": "matchmaker (for marriages)",
+          "vi": "ông mai bà mối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(koi)naka_06_k.opus",
@@ -239,7 +264,9 @@
     "kanji": {
       "character": "仲",
       "meaning": {
-        "english": "intermediary, personal relations, relation"
+        "english": "intermediary, personal relations, relation",
+        "en": "intermediary, personal relations, relation",
+        "vi": "người trung gian, quan hệ cá nhân, mối quan hệ"
       },
       "strokes": {
         "count": 6,
@@ -289,7 +316,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -310,7 +339,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "919",
     "strokeCount": 6,
-    "meaning": "go-between, relationship",
+    "meaning": {
+      "en": "go-between, relationship",
+      "vi": "người trung gian, mối quan hệ"
+    },
     "kunyomi": [
       "なか"
     ],
@@ -322,7 +354,8 @@
         "example": "中核",
         "reading": "チュウカク",
         "meaning": {
-          "en": "kernel, core, nucleus, center, centre"
+          "en": "kernel, core, nucleus, center, centre",
+          "vi": "hạt nhân, lõi, trung tâm"
         },
         "romaji": "chuukaku"
       },
@@ -330,7 +363,8 @@
         "example": "仲介",
         "reading": "チュウカイ",
         "meaning": {
-          "en": "agency, intermediation"
+          "en": "agency, intermediation",
+          "vi": "sự môi giới, sự trung gian"
         },
         "romaji": "chuukai"
       },
@@ -338,7 +372,8 @@
         "example": "保革伯仲",
         "reading": "ホカクハクチュウ",
         "meaning": {
-          "vi": "conservatives and reformists being neck and neck, balanced conservative and progressive strengths"
+          "vi": "conservatives and reformists being neck and neck, balanced conservative and progressive strengths",
+          "en": "phe bảo thủ và phe cải cách ngang sức ngang tài, tương quan lực lượng bảo thủ và tiến bộ cân bằng"
         },
         "romaji": "hokakuhakuchuu"
       },
@@ -346,7 +381,8 @@
         "example": "勢力伯仲",
         "reading": "セイリョクハクチュウ",
         "meaning": {
-          "vi": "(two sides) being evenly matched in influence or power"
+          "vi": "(two sides) being evenly matched in influence or power",
+          "en": "(hai bên) cân bằng về ảnh hưởng hoặc quyền lực"
         },
         "romaji": "seiryokuhakuchuu"
       }
@@ -356,7 +392,8 @@
         "example": "仲",
         "reading": "なか",
         "meaning": {
-          "vi": "relation, relationship"
+          "vi": "relation, relationship",
+          "en": "quan hệ, mối quan hệ"
         },
         "romaji": "naka"
       },
@@ -364,7 +401,8 @@
         "example": "仲間",
         "reading": "なかま",
         "meaning": {
-          "vi": "companion, fellow, friend, mate, comrade, partner, colleague, coworker, associate, group, company, circle, set, gang, member of the same category (family, class)"
+          "vi": "companion, fellow, friend, mate, comrade, partner, colleague, coworker, associate, group, company, circle, set, gang, member of the same category (family, class)",
+          "en": "bạn đồng hành, bạn bè, chiến hữu, bạn cùng nhóm, đối tác, đồng nghiệp, cộng sự, nhóm, hội, thành viên cùng hạng mục (gia đình, tầng lớp)"
         },
         "romaji": "nakama"
       },
@@ -372,7 +410,8 @@
         "example": "不仲",
         "reading": "ふなか",
         "meaning": {
-          "en": "discord, (on) bad terms (with)"
+          "en": "discord, (on) bad terms (with)",
+          "vi": "bất hòa, có quan hệ xấu (với)"
         },
         "romaji": "funaka"
       },
@@ -380,7 +419,8 @@
         "example": "犬猿の仲",
         "reading": "けんえんのなか",
         "meaning": {
-          "vi": "like cats and dogs, (on) very bad terms, relationship of dogs and monkeys"
+          "vi": "like cats and dogs, (on) very bad terms, relationship of dogs and monkeys",
+          "en": "như chó với mèo, cực kỳ bất hòa, mối quan hệ như chó với khỉ"
         },
         "romaji": "ken'ennonaka"
       }
@@ -390,7 +430,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

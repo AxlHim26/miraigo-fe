@@ -1,6 +1,5 @@
 import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
 import AutoAwesomeIcon from "@mui/icons-material/AutoAwesome";
-import { Button } from "@mui/material";
 import Link from "next/link";
 
 import InteractiveKanjiCard from "@/features/landing/components/interactive-kanji-card";
@@ -53,24 +52,21 @@ export default function HeroSection() {
             </p>
 
             <div className="flex flex-col items-center justify-center gap-4 sm:flex-row lg:justify-start">
-              <Link href="/courses" passHref legacyBehavior>
-                <Button
-                  variant="contained"
-                  size="large"
-                  className="w-full rounded-full bg-slate-900 px-8 py-4 text-base font-semibold text-white shadow-xl shadow-slate-900/20 transition-transform hover:scale-105 hover:bg-slate-800 dark:bg-white dark:text-slate-900 dark:shadow-white/10 dark:hover:bg-slate-100 sm:w-auto"
-                  endIcon={<ArrowForwardIcon />}
-                >
-                  Bắt đầu học ngay
-                </Button>
+              <Link
+                href="/courses"
+                className="group inline-flex w-full items-center justify-center rounded-full bg-slate-900 px-8 py-4 text-base font-semibold text-white shadow-xl shadow-slate-900/20 transition-transform hover:scale-105 hover:bg-slate-800 dark:bg-white dark:text-slate-900 dark:shadow-white/10 dark:hover:bg-slate-100 sm:w-auto"
+              >
+                <span>Bắt đầu học ngay</span>
+                <ArrowForwardIcon
+                  fontSize="small"
+                  className="ml-2 transition-transform group-hover:translate-x-0.5"
+                />
               </Link>
-              <Link href="#features" passHref legacyBehavior>
-                <Button
-                  variant="outlined"
-                  size="large"
-                  className="w-full rounded-full border-slate-300 px-8 py-4 text-base font-medium text-slate-700 transition-all hover:bg-slate-100 dark:border-slate-700 dark:text-slate-300 dark:hover:bg-slate-800 sm:w-auto"
-                >
-                  Hiểu cách hoạt động
-                </Button>
+              <Link
+                href="#features"
+                className="inline-flex w-full items-center justify-center rounded-full border border-slate-300 px-8 py-4 text-base font-medium text-slate-700 transition-all hover:bg-slate-100 dark:border-slate-700 dark:text-slate-300 dark:hover:bg-slate-800 sm:w-auto"
+              >
+                Hiểu cách hoạt động
               </Link>
             </div>
           </div>

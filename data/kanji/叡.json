@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 16,
-    "meaning": "intelligence, imperial",
+    "meaning": {
+      "en": "intelligence, imperial",
+      "vi": "trí tuệ, thuộc hoàng gia"
+    },
     "kunyomi": [
       "あき.らか"
     ],
@@ -18,7 +21,8 @@
         "example": "英知",
         "reading": "エイチ",
         "meaning": {
-          "en": "wisdom, intelligence, sagacity"
+          "en": "wisdom, intelligence, sagacity",
+          "vi": "trí tuệ, sự thông minh, sự minh triết"
         },
         "romaji": "eichi"
       },
@@ -26,7 +30,8 @@
         "example": "叡王",
         "reading": "エイオウ",
         "meaning": {
-          "vi": "Eiō (one of the eight major professional titles of shogi)"
+          "vi": "Eiō (one of the eight major professional titles of shogi)",
+          "en": ""
         },
         "romaji": "eiou"
       }
@@ -34,7 +39,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": {
+        "en": "right hand",
+        "vi": "tay phải"
+      }
     },
     "parts": [
       "ハ",
@@ -50,5 +58,7 @@
   },
   "hanViet": [
     "duệ"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: mắt nhìn sâu và tay nắm chắc tri thức, nên 叡 là trí tuệ sáng suốt."
 }

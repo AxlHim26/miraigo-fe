@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "800",
     "strokeCount": 11,
-    "meaning": "tenacious, take hold, grasp, take to heart",
+    "meaning": {
+      "en": "tenacious, take hold, grasp, take to heart",
+      "vi": "chấp, nắm giữ, nắm lấy, để trong lòng"
+    },
     "kunyomi": [
       "と.る"
     ],
@@ -21,7 +24,8 @@
         "example": "執務",
         "reading": "シツム",
         "meaning": {
-          "vi": "performance of one's official duties"
+          "vi": "performance of one's official duties",
+          "en": "performance of one's official duties"
         },
         "romaji": "shitsumu"
       },
@@ -29,7 +33,8 @@
         "example": "執拗い",
         "reading": "シツコイ",
         "meaning": {
-          "vi": "insistent, obstinate, persistent, tenacious, too rich (taste, etc.), fatty, heavy, greasy"
+          "vi": "insistent, obstinate, persistent, tenacious, too rich (taste, etc.), fatty, heavy, greasy",
+          "en": "insistent, obstinate, persistent, tenacious, too rich (taste, etc.), fatty, heavy, greasy"
         },
         "romaji": "shitsukoi"
       },
@@ -37,7 +42,8 @@
         "example": "中執",
         "reading": "チュウシツ",
         "meaning": {
-          "en": "Central Executive Committee"
+          "en": "Central Executive Committee",
+          "vi": "Ban Chấp hành Trung ương"
         },
         "romaji": "chuushitsu"
       },
@@ -45,7 +51,8 @@
         "example": "確執",
         "reading": "カクシツ",
         "meaning": {
-          "en": "discord, antagonism"
+          "en": "discord, antagonism",
+          "vi": "bất hòa, đối kháng"
         },
         "romaji": "kakushitsu"
       },
@@ -53,7 +60,8 @@
         "example": "執",
         "reading": "シュウ",
         "meaning": {
-          "vi": "attachment, obsession, persistence"
+          "vi": "attachment, obsession, persistence",
+          "en": "attachment, obsession, persistence"
         },
         "romaji": "shuu"
       },
@@ -61,7 +69,8 @@
         "example": "執行",
         "reading": "シッコウ",
         "meaning": {
-          "vi": "execution, carrying out, performance, enforcement, exercise, service, conduct, execution, lead monk performing various tasks in a temple"
+          "vi": "execution, carrying out, performance, enforcement, exercise, service, conduct, execution, lead monk performing various tasks in a temple",
+          "en": "execution, carrying out, performance, enforcement, exercise, service, conduct, execution, lead monk performing various tasks in a temple"
         },
         "romaji": "shikkou"
       },
@@ -69,7 +78,8 @@
         "example": "確執",
         "reading": "カクシツ",
         "meaning": {
-          "en": "discord, antagonism"
+          "en": "discord, antagonism",
+          "vi": "bất hòa, đối kháng"
         },
         "romaji": "kakushitsu"
       },
@@ -77,7 +87,8 @@
         "example": "愛執",
         "reading": "アイシュウ",
         "meaning": {
-          "en": "attachment, covetous affection"
+          "en": "attachment, covetous affection",
+          "vi": "lụy ái, quyến luyến chấp trước"
         },
         "romaji": "aishuu"
       }
@@ -87,14 +98,18 @@
         "example": "執る",
         "reading": "とる",
         "meaning": {
-          "en": "to take (trouble), to attend (to business), to command (army)"
+          "en": "to take (trouble), to attend (to business), to command (army)",
+          "vi": "đảm nhận, lo liệu, chỉ huy"
         },
         "romaji": "toru"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "ノ",
@@ -111,6 +126,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57f7.gif",
     "uri": "https://jisho.org/search/%E5%9F%B7%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là nền đất, thêm cụm nét như đôi tay giữ chặt vật, gợi ý chấp lấy không buông.",
   "hanViet": [
     "chấp"
   ]

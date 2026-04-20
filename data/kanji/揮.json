@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "wield, direct, command",
+    "meaning": {
+      "en": "wield, direct, command",
+      "vi": "vung, điều khiển, chỉ huy"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "揮発油（きはつゆ）",
         "meaning": {
-          "english": "volatile oil"
+          "english": "volatile oil",
+          "en": "volatile oil",
+          "vi": "tinh dầu dễ bay hơi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ki(bou)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "指揮者（しきしゃ）",
         "meaning": {
-          "english": "conductor"
+          "english": "conductor",
+          "en": "conductor",
+          "vi": "nhạc trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ki(bou)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "指揮棒（しきぼう）",
         "meaning": {
-          "english": "conductor's baton"
+          "english": "conductor's baton",
+          "en": "conductor's baton",
+          "vi": "đũa chỉ huy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ki(bou)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "指揮する（しきする）",
         "meaning": {
-          "english": "command, direct, conduct"
+          "english": "command, direct, conduct",
+          "en": "command, direct, conduct",
+          "vi": "chỉ huy, điều khiển, dẫn dắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ki(bou)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "発揮する（はっきする）",
         "meaning": {
-          "english": "demonstrate one's ability"
+          "english": "demonstrate one's ability",
+          "en": "demonstrate one's ability",
+          "vi": "trổ tài, thể hiện năng lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shi)ki(bou)_06_e.opus",
@@ -149,7 +162,9 @@
     "kanji": {
       "character": "揮",
       "meaning": {
-        "english": "wield, direct, command"
+        "english": "wield, direct, command",
+        "en": "wield, direct, command",
+        "vi": "vung, điều khiển, chỉ huy"
       },
       "strokes": {
         "count": 12,
@@ -211,7 +226,9 @@
         "romaji": "tehen"
       },
       "meaning": {
-        "english": "hand"
+        "english": "hand",
+        "en": "hand",
+        "vi": "tay"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tehen0.svg",
@@ -232,7 +249,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "946",
     "strokeCount": 12,
-    "meaning": "brandish, wave, wag, swing, shake",
+    "meaning": {
+      "en": "brandish, wave, wag, swing, shake",
+      "vi": "vung, phất, lắc, đong đưa, lay"
+    },
     "kunyomi": [
       "ふる.う"
     ],
@@ -244,7 +264,8 @@
         "example": "揮発",
         "reading": "キハツ",
         "meaning": {
-          "en": "volatilization, volatilisation"
+          "en": "volatilization, volatilisation",
+          "vi": "sự bay hơi"
         },
         "romaji": "kihatsu"
       },
@@ -252,7 +273,8 @@
         "example": "揮毫",
         "reading": "キゴウ",
         "meaning": {
-          "vi": "writing (esp. commissioned calligraphy), drawing, painting"
+          "vi": "bút tích, thư pháp đặt viết, tranh vẽ",
+          "en": "writing (esp. commissioned calligraphy), drawing, painting"
         },
         "romaji": "kigou"
       },
@@ -260,7 +282,8 @@
         "example": "総指揮",
         "reading": "ソウシキ",
         "meaning": {
-          "vi": "supreme command, direction over all"
+          "vi": "quyền chỉ huy tối cao, sự điều khiển toàn cục",
+          "en": "supreme command, direction over all"
         },
         "romaji": "soushiki"
       },
@@ -268,7 +291,8 @@
         "example": "陣頭指揮",
         "reading": "ジントウシキ",
         "meaning": {
-          "vi": "taking command of a corps in a battle, command exercised by the leader of a group"
+          "vi": "việc nắm quyền chỉ huy một đạo quân, sự chỉ huy của thủ lĩnh",
+          "en": "taking command of a corps in a battle, command exercised by the leader of a group"
         },
         "romaji": "jintoushiki"
       }
@@ -278,7 +302,8 @@
         "example": "振るう",
         "reading": "ふるう",
         "meaning": {
-          "vi": "to swing, to wield (physically), to exert, to exercise (e.g. power, ability), to exhibit, to display, to wield (metaphorically), to flourish, to prosper, to thrive"
+          "vi": "vung, sử dụng bằng tay, phát huy, thi triển, biểu lộ, thể hiện, tung hoành, phát đạt, hưng thịnh",
+          "en": "to swing, to wield (physically), to exert, to exercise (e.g. power, ability), to exhibit, to display, to wield (metaphorically), to flourish, to prosper, to thrive"
         },
         "romaji": "furuu"
       }
@@ -288,7 +313,10 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": {
+        "en": "hand",
+        "vi": "tay"
+      }
     },
     "parts": [
       "冖",
@@ -302,5 +330,7 @@
   },
   "hanViet": [
     "huy"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: Tay 扌 vung cả cỗ xe 軍 ra hiệu lệnh, nên 揮 là vung, chỉ huy, điều khiển."
 }

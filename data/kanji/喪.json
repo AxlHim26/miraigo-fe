@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "885",
     "strokeCount": 12,
-    "meaning": "miss, mourning",
+    "meaning": {
+      "en": "miss, mourning",
+      "vi": "mất mát, tang tóc"
+    },
     "kunyomi": [
       "も"
     ],
@@ -20,7 +23,8 @@
         "example": "喪",
         "reading": "モ",
         "meaning": {
-          "en": "mourning, calamity, misfortune"
+          "en": "mourning, calamity, misfortune",
+          "vi": "tang sự, tai hoạ, bất hạnh"
         },
         "romaji": "mo"
       },
@@ -28,7 +32,8 @@
         "example": "喪失",
         "reading": "ソウシツ",
         "meaning": {
-          "en": "loss, forfeit"
+          "en": "loss, forfeit",
+          "vi": "sự mất mát, sự đánh mất"
         },
         "romaji": "soushitsu"
       },
@@ -36,7 +41,8 @@
         "example": "大喪",
         "reading": "タイソウ",
         "meaning": {
-          "vi": "funeral service of a Japanese emperor, Imperial mourning"
+          "vi": "funeral service of a Japanese emperor, Imperial mourning",
+          "en": "funeral service of a Japanese emperor, imperial mourning"
         },
         "romaji": "taisou"
       },
@@ -44,7 +50,8 @@
         "example": "国喪",
         "reading": "コクソウ",
         "meaning": {
-          "en": "national mourning"
+          "en": "national mourning",
+          "vi": "quốc tang"
         },
         "romaji": "kokusou"
       }
@@ -54,7 +61,8 @@
         "example": "喪",
         "reading": "も",
         "meaning": {
-          "en": "mourning, calamity, misfortune"
+          "en": "mourning, calamity, misfortune",
+          "vi": "tang sự, tai hoạ, bất hạnh"
         },
         "romaji": "mo"
       },
@@ -62,7 +70,8 @@
         "example": "喪主",
         "reading": "もしゅ",
         "meaning": {
-          "en": "chief mourner"
+          "en": "chief mourner",
+          "vi": "người chủ tang"
         },
         "romaji": "moshu"
       },
@@ -70,14 +79,18 @@
         "example": "服喪",
         "reading": "ふくも",
         "meaning": {
-          "en": "going into mourning"
+          "en": "going into mourning",
+          "vi": "để tang"
         },
         "romaji": "fukumo"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "一",
@@ -94,5 +107,7 @@
   "hanViet": [
     "tang",
     "táng"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Khung chữ gợi cảnh mất mát và tiếng than, nên 喪 là tang tóc, mất mát."
 }

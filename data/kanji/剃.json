@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2411",
     "strokeCount": 9,
-    "meaning": "shave",
+    "meaning": {
+      "en": "shave",
+      "vi": "cạo, cạo râu, cạo tóc"
+    },
     "kunyomi": [
       "まい",
       "そ.る",
@@ -20,7 +23,8 @@
         "example": "剃髪",
         "reading": "テイハツ",
         "meaning": {
-          "vi": "tonsure, shaving one's head (upon entering the Buddhist priesthood)"
+          "vi": "xuống tóc, cạo đầu khi vào tu",
+          "en": "tonsure, shaving one's head (upon entering the Buddhist priesthood)"
         },
         "romaji": "teihatsu"
       },
@@ -28,7 +32,8 @@
         "example": "剃毛",
         "reading": "テイモウ",
         "meaning": {
-          "en": "shaving"
+          "en": "shaving",
+          "vi": "sự cạo, việc cạo râu tóc"
         },
         "romaji": "teimou"
       }
@@ -38,7 +43,8 @@
         "example": "剃る",
         "reading": "そる",
         "meaning": {
-          "en": "to shave"
+          "en": "to shave",
+          "vi": "cạo, cạo râu, cạo lông"
         },
         "romaji": "soru"
       },
@@ -46,7 +52,8 @@
         "example": "剃る",
         "reading": "そる",
         "meaning": {
-          "en": "to shave"
+          "en": "to shave",
+          "vi": "cạo, cạo râu, cạo lông"
         },
         "romaji": "soru"
       }
@@ -56,7 +63,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "ノ",
@@ -72,5 +82,7 @@
   },
   "hanViet": [
     "thế"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Có dao 刂 là liên tưởng ngay đến việc cạo râu, cạo tóc nên ra chữ 剃."
 }

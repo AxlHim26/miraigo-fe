@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2159",
     "strokeCount": 7,
-    "meaning": "apricot",
+    "meaning": {
+      "en": "apricot",
+      "vi": "mơ"
+    },
     "kunyomi": [
       "あんず"
     ],
@@ -21,6 +24,7 @@
         "example": "杏林",
         "reading": "キョウリン",
         "meaning": {
+          "en": "apricot grove, doctor",
           "vi": "apricot grove, doctor"
         },
         "romaji": "kyourin"
@@ -29,6 +33,7 @@
         "example": "杏花",
         "reading": "キョウカ",
         "meaning": {
+          "en": "apricot flower",
           "vi": "apricot flower"
         },
         "romaji": "kyouka"
@@ -37,6 +42,7 @@
         "example": "巴旦杏",
         "reading": "ハタンキョウ",
         "meaning": {
+          "en": "plum, almond",
           "vi": "plum, almond"
         },
         "romaji": "hatankyou"
@@ -45,6 +51,7 @@
         "example": "牡丹杏",
         "reading": "ボタンキョウ",
         "meaning": {
+          "en": "variety of Japanese plum",
           "vi": "variety of Japanese plum"
         },
         "romaji": "botankyou"
@@ -53,6 +60,7 @@
         "example": "杏",
         "reading": "アンズ",
         "meaning": {
+          "en": "apricot (Prunus armeniaca)",
           "vi": "apricot (Prunus armeniaca)"
         },
         "romaji": "anzu"
@@ -61,6 +69,7 @@
         "example": "杏酒",
         "reading": "アンズシュ",
         "meaning": {
+          "en": "sake made from apricot",
           "vi": "sake made from apricot"
         },
         "romaji": "anzushu"
@@ -71,6 +80,7 @@
         "example": "杏",
         "reading": "あんず",
         "meaning": {
+          "en": "apricot (Prunus armeniaca)",
           "vi": "apricot (Prunus armeniaca)"
         },
         "romaji": "anzu"
@@ -79,6 +89,7 @@
         "example": "杏酒",
         "reading": "あんずしゅ",
         "meaning": {
+          "en": "sake made from apricot",
           "vi": "sake made from apricot"
         },
         "romaji": "anzushu"
@@ -86,7 +97,10 @@
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "cây"
+      }
     },
     "parts": [
       "口",

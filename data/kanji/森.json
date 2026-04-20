@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "mori",
-    "meaning": "forest",
+    "meaning": {
+      "en": "forest",
+      "vi": "rừng"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "森林（しんりん）",
         "meaning": {
-          "english": "forest"
+          "english": "forest",
+          "en": "forest",
+          "vi": "rừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-mori_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "森（もり）",
         "meaning": {
-          "english": "woods"
+          "english": "woods",
+          "en": "woods",
+          "vi": "rừng cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-mori_06_b.opus",
@@ -166,7 +173,9 @@
     "kanji": {
       "character": "森",
       "meaning": {
-        "english": "forest"
+        "english": "forest",
+        "en": "forest",
+        "vi": "rừng"
       },
       "strokes": {
         "count": 12,
@@ -228,7 +237,9 @@
         "romaji": "ki"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood",
+        "en": "tree, wood",
+        "vi": "cây, gỗ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ki0.svg",
@@ -249,7 +260,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "609",
     "strokeCount": 12,
-    "meaning": "forest, woods",
+    "meaning": {
+      "en": "forest, woods",
+      "vi": "rừng, rừng cây"
+    },
     "kunyomi": [
       "もり"
     ],
@@ -261,7 +275,8 @@
         "example": "森林",
         "reading": "シンリン",
         "meaning": {
-          "en": "forest, woods"
+          "en": "forest, woods",
+          "vi": "rừng, rừng cây"
         },
         "romaji": "shinrin"
       },
@@ -269,7 +284,8 @@
         "example": "森閑",
         "reading": "シンカン",
         "meaning": {
-          "en": "silent, still, quiet, hushed"
+          "en": "silent, still, quiet, hushed",
+          "vi": "im lặng, tĩnh lặng, yên ắng"
         },
         "romaji": "shinkan"
       },
@@ -277,7 +293,8 @@
         "example": "森々",
         "reading": "シンシン",
         "meaning": {
-          "vi": "dense with trees, deeply forested"
+          "vi": "dense with trees, deeply forested",
+          "en": "dense with trees, deeply forested"
         },
         "romaji": "shinshin"
       }
@@ -287,7 +304,8 @@
         "example": "森",
         "reading": "もり",
         "meaning": {
-          "en": "forest, shrine grove"
+          "en": "forest, shrine grove",
+          "vi": "khu rừng, rừng quanh đền"
         },
         "romaji": "mori"
       },
@@ -295,7 +313,8 @@
         "example": "森青蛙",
         "reading": "もりあおがえる",
         "meaning": {
-          "vi": "forest green tree frog (Rhacophorus arboreus)"
+          "vi": "forest green tree frog (Rhacophorus arboreus)",
+          "en": "forest green tree frog (Rhacophorus arboreus)"
         },
         "romaji": "moriaogaeru"
       },
@@ -303,7 +322,8 @@
         "example": "どう森",
         "reading": "どうもり",
         "meaning": {
-          "en": "Animal Crossing (video game series) (abbr)"
+          "en": "Animal Crossing (video game series) (abbr)",
+          "vi": "Animal Crossing (loạt trò chơi điện tử) (viết tắt)"
         },
         "romaji": "doumori"
       },
@@ -311,14 +331,18 @@
         "example": "青森",
         "reading": "あおもり",
         "meaning": {
-          "vi": "Aomori (city, prefecture)"
+          "vi": "Aomori (city, prefecture)",
+          "en": "Aomori (city, prefecture)"
         },
         "romaji": "aomori"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "tree"
+      }
     },
     "parts": [
       "木"
@@ -330,5 +354,7 @@
   },
   "hanViet": [
     "sâm"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: Ba cây 木 đứng sát nhau thành rừng rậm, nên 森 là khu rừng."
 }

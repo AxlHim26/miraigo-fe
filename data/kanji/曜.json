@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "day of the week",
+    "meaning": {
+      "en": "day of the week",
+      "vi": "ngày trong tuần"
+    },
     "kstroke": 18,
     "examples": [
       {
         "japanese": "曜日（ようび）",
         "meaning": {
-          "english": "day of the week"
+          "en": "day of the week",
+          "vi": "ngày trong tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(bi)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "日曜日（にちようび）",
         "meaning": {
-          "english": "Sunday"
+          "en": "Sunday",
+          "vi": "Chủ nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(bi)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "月曜日（げつようび）",
         "meaning": {
-          "english": "Monday"
+          "en": "Monday",
+          "vi": "Thứ hai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(bi)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "火曜日（かようび）",
         "meaning": {
-          "english": "Tuesday"
+          "en": "Tuesday",
+          "vi": "Thứ ba"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(bi)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "水曜日（すいようび）",
         "meaning": {
-          "english": "Wednesday"
+          "en": "Wednesday",
+          "vi": "Thứ tư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(bi)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "木曜日（もくようび）",
         "meaning": {
-          "english": "Thursday"
+          "en": "Thursday",
+          "vi": "Thứ năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(bi)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "金曜日（きんようび）",
         "meaning": {
-          "english": "Friday"
+          "en": "Friday",
+          "vi": "Thứ sáu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(bi)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "土曜日（どようび）",
         "meaning": {
-          "english": "Saturday"
+          "en": "Saturday",
+          "vi": "Thứ bảy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/you(bi)_06_h.opus",
@@ -268,7 +279,8 @@
     "kanji": {
       "character": "曜",
       "meaning": {
-        "english": "day of the week"
+        "en": "day of the week",
+        "vi": "ngày trong tuần"
       },
       "strokes": {
         "count": 18,
@@ -342,7 +354,8 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "en": "sun, day, time",
+        "vi": "mặt trời, ngày, thời gian"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen0.svg",
@@ -363,7 +376,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "940",
     "strokeCount": 18,
-    "meaning": "weekday",
+    "meaning": {
+      "en": "weekday",
+      "vi": "thứ trong tuần"
+    },
     "kunyomi": [],
     "onyomi": [
       "ヨウ"
@@ -373,7 +389,8 @@
         "example": "曜日",
         "reading": "ヨウビ",
         "meaning": {
-          "en": "day of the week"
+          "en": "day of the week",
+          "vi": "ngày trong tuần"
         },
         "romaji": "youbi"
       },
@@ -381,7 +398,8 @@
         "example": "曜霊",
         "reading": "ヨウレイ",
         "meaning": {
-          "en": "the sun"
+          "en": "the sun",
+          "vi": "mặt trời"
         },
         "romaji": "yourei"
       },
@@ -389,7 +407,8 @@
         "example": "晃曜",
         "reading": "コウヨウ",
         "meaning": {
-          "en": "dazzling brightness"
+          "en": "dazzling brightness",
+          "vi": "ánh sáng chói lọi"
         },
         "romaji": "kouyou"
       },
@@ -397,7 +416,8 @@
         "example": "宿曜",
         "reading": "スクヨウ",
         "meaning": {
-          "en": "form of astrology based on the Xiuyaojing"
+          "en": "form of astrology based on the Xiuyaojing",
+          "vi": "một kiểu chiêm tinh dựa trên Tú Diệu Kinh"
         },
         "romaji": "sukuyou"
       }
@@ -405,7 +425,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "mặt trời, ngày"
+      }
     },
     "parts": [
       "ヨ",
@@ -419,5 +442,7 @@
   },
   "hanViet": [
     "diệu"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: mặt trời 日 tỏa sáng rực trên lịch, gắn với các ngày trong tuần nên 曜 là thứ."
 }

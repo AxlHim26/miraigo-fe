@@ -5,9 +5,13 @@
     "query": "凄",
     "found": true,
     "taughtIn": "junior high",
+    "jlptLevel": null,
     "newspaperFrequencyRank": "2313",
     "strokeCount": 10,
-    "meaning": "uncanny, weird, threatening, horrible",
+    "meaning": {
+      "en": "uncanny, weird, threatening, horrible",
+      "vi": "ghê rợn, kỳ quái, đáng sợ, kinh khủng"
+    },
     "kunyomi": [
       "さむ.い",
       "すご.い",
@@ -22,7 +26,8 @@
         "example": "凄艶",
         "reading": "セイエン",
         "meaning": {
-          "en": "weirdly beautiful"
+          "en": "weirdly beautiful",
+          "vi": "đẹp một cách kỳ lạ"
         },
         "romaji": "seien"
       },
@@ -30,7 +35,8 @@
         "example": "凄惨",
         "reading": "セイサン",
         "meaning": {
-          "vi": "ghastly, gruesome, appalling, lurid"
+          "vi": "ghastly, gruesome, appalling, lurid",
+          "en": "ghastly, gruesome, appalling, lurid"
         },
         "romaji": "seisan"
       }
@@ -40,7 +46,8 @@
         "example": "凄い",
         "reading": "すごい",
         "meaning": {
-          "en": "terrible, dreadful, amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific, to a great extent, vast (in numbers), awfully, very, immensely"
+          "en": "terrible, dreadful, amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific, to a great extent, vast (in numbers), awfully, very, immensely",
+          "vi": "khủng khiếp, ghê gớm, đáng kinh ngạc, rất giỏi, tuyệt vời, cực kỳ, vô cùng nhiều"
         },
         "romaji": "sugoi"
       },
@@ -48,7 +55,8 @@
         "example": "凄い事になる",
         "reading": "すごいことになる",
         "meaning": {
-          "vi": "to go crazy (esp. of a situation or thing), to get out of hand, to end up in an extreme state"
+          "vi": "to go crazy (esp. of a situation or thing), to get out of hand, to end up in an extreme state",
+          "en": "to go crazy (esp. of a situation or thing), to get out of hand, to end up in an extreme state"
         },
         "romaji": "sugoikotoninaru"
       },
@@ -56,14 +64,18 @@
         "example": "凄まじい",
         "reading": "すさまじい",
         "meaning": {
-          "vi": "terrible, dreadful, awful, horrible, ghastly, tremendous, terrific, enormous, prodigious, stupendous, amazing, appalling, shocking, staggering, absurd"
+          "vi": "terrible, dreadful, awful, horrible, ghastly, tremendous, terrific, enormous, prodigious, stupendous, amazing, appalling, shocking, staggering, absurd",
+          "en": "terrible, dreadful, awful, horrible, ghastly, tremendous, terrific, enormous, prodigious, stupendous, amazing, appalling, shocking, staggering, absurd"
         },
         "romaji": "susamajii"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "ヨ",
@@ -78,5 +90,6 @@
   },
   "hanViet": [
     "thê"
-  ]
+  ],
+  "mnemonic_vi": "Băng 冫 đi cùng chữ vợ 妻, gợi cảm giác lạnh lẽo, thê lương đến rợn người."
 }

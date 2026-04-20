@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "854",
     "strokeCount": 17,
-    "meaning": "reparation, make up for, recompense, redeem",
+    "meaning": {
+      "en": "reparation, make up for, recompense, redeem",
+      "vi": "bồi thường, bù đắp, đền bù, chuộc lại"
+    },
     "kunyomi": [
       "つぐな.う"
     ],
@@ -20,7 +23,8 @@
         "example": "償却",
         "reading": "ショウキャク",
         "meaning": {
-          "vi": "repayment, redemption, depreciation, amortization, amortisation"
+          "en": "repayment, redemption, depreciation, amortization, amortisation",
+          "vi": "sự hoàn trả, chuộc lại, khấu hao, phân bổ"
         },
         "romaji": "shoukyaku"
       },
@@ -28,7 +32,8 @@
         "example": "償還",
         "reading": "ショウカン",
         "meaning": {
-          "vi": "repayment, redemption, amortization, amortisation"
+          "en": "repayment, redemption, amortization, amortisation",
+          "vi": "sự hoàn trả, chuộc lại, khấu hao, phân bổ"
         },
         "romaji": "shoukan"
       },
@@ -36,7 +41,8 @@
         "example": "無償",
         "reading": "ムショウ",
         "meaning": {
-          "vi": "without compensation, without reward, without pay, free (of charge)"
+          "en": "without compensation, without reward, without pay, free (of charge)",
+          "vi": "không bồi thường, không thù lao, không lương, miễn phí"
         },
         "romaji": "mushou"
       },
@@ -44,7 +50,8 @@
         "example": "有償",
         "reading": "ユウショウ",
         "meaning": {
-          "vi": "(involving) payment, (involving) compensation, paying a fee"
+          "en": "(involving) payment, (involving) compensation, paying a fee",
+          "vi": "có trả phí, có bồi thường, trả lệ phí"
         },
         "romaji": "yuushou"
       }
@@ -54,7 +61,8 @@
         "example": "償う",
         "reading": "つぐなう",
         "meaning": {
-          "vi": "to make up for, to compensate for, to indemnify, to recompense, to redeem (e.g. a fault), to atone for"
+          "en": "to make up for, to compensate for, to indemnify, to recompense, to redeem (e.g. a fault), to atone for",
+          "vi": "bù đắp, bồi thường, đền bù, chuộc lỗi, đền tội"
         },
         "romaji": "tsugunau"
       }
@@ -64,7 +72,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

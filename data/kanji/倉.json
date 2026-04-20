@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "kura",
-    "meaning": "storehouse, warehouse, depository",
+    "meaning": {
+      "en": "storehouse, warehouse, depository",
+      "vi": "nhà kho, kho chứa, nơi lưu trữ"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "倉庫（そうこ）",
         "meaning": {
-          "english": "storehouse, warehouse"
+          "english": "storehouse, warehouse",
+          "en": "storehouse, warehouse",
+          "vi": "nhà kho, kho chứa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "穀倉（こくそう）",
         "meaning": {
-          "english": "granary"
+          "english": "granary",
+          "en": "granary",
+          "vi": "kho thóc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "弾倉（だんそう）",
         "meaning": {
-          "english": "magazine (gun)"
+          "english": "magazine (gun)",
+          "en": "magazine (gun)",
+          "vi": "băng đạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "正倉院（しょうそういん）",
         "meaning": {
-          "english": "Shosouin"
+          "english": "Shosouin",
+          "en": "Shosouin",
+          "vi": "Shosouin"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "倉（くら）",
         "meaning": {
-          "english": "warehouse, cellar, depository"
+          "english": "warehouse, cellar, depository",
+          "en": "warehouse, cellar, depository",
+          "vi": "nhà kho, hầm chứa, nơi lưu trữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "倉荷（くらに）",
         "meaning": {
-          "english": "warehouse goods"
+          "english": "warehouse goods",
+          "en": "warehouse goods",
+          "vi": "hàng hóa trong kho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou-kura_06_f.opus",
@@ -160,7 +175,9 @@
     "kanji": {
       "character": "倉",
       "meaning": {
-        "english": "storehouse, warehouse, depository"
+        "english": "storehouse, warehouse, depository",
+        "en": "storehouse, warehouse, depository",
+        "vi": "nhà kho, kho chứa, nơi lưu trữ"
       },
       "strokes": {
         "count": 10,
@@ -218,7 +235,9 @@
         "romaji": "hitoyane"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
@@ -239,7 +258,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1114",
     "strokeCount": 10,
-    "meaning": "godown, warehouse, storehouse, cellar, treasury",
+    "meaning": {
+      "en": "godown, warehouse, storehouse, cellar, treasury",
+      "vi": "kho hàng, nhà kho, kho chứa, hầm chứa, kho báu"
+    },
     "kunyomi": [
       "くら"
     ],
@@ -251,7 +273,8 @@
         "example": "倉庫",
         "reading": "ソウコ",
         "meaning": {
-          "en": "storehouse, warehouse, godown"
+          "en": "storehouse, warehouse, godown",
+          "vi": "nhà kho, kho chứa, kho hàng"
         },
         "romaji": "souko"
       },
@@ -259,7 +282,8 @@
         "example": "倉頡",
         "reading": "ソウケツ",
         "meaning": {
-          "vi": "Cangjie (input method for Chinese)"
+          "vi": "Cangjie (phương pháp nhập chữ Hán)",
+          "en": "Cangjie (input method for Chinese)"
         },
         "romaji": "souketsu"
       },
@@ -267,7 +291,8 @@
         "example": "船倉",
         "reading": "センソウ",
         "meaning": {
-          "vi": "ship's hold, hatch"
+          "vi": "hầm tàu, cửa sập",
+          "en": "ship's hold, hatch"
         },
         "romaji": "sensou"
       },
@@ -275,7 +300,8 @@
         "example": "穀倉",
         "reading": "コクソウ",
         "meaning": {
-          "en": "granary"
+          "en": "granary",
+          "vi": "kho thóc"
         },
         "romaji": "kokusou"
       }
@@ -285,7 +311,8 @@
         "example": "蔵",
         "reading": "くら",
         "meaning": {
-          "vi": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
+          "vi": "nhà kho, kho chứa, hầm chứa, kho đạn, kho thóc, kho hàng, nơi lưu trữ, kho báu, thang nâng",
+          "en": "warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator"
         },
         "romaji": "kura"
       },
@@ -293,7 +320,8 @@
         "example": "倉敷",
         "reading": "くらしき",
         "meaning": {
-          "en": "Kurashiki (city), storage charges"
+          "en": "Kurashiki (city), storage charges",
+          "vi": "Kurashiki (thành phố), phí lưu kho"
         },
         "romaji": "kurashiki"
       },
@@ -301,7 +329,8 @@
         "example": "鎌倉",
         "reading": "かまくら",
         "meaning": {
-          "en": "Kamakura (city)"
+          "en": "Kamakura (city)",
+          "vi": "Kamakura (thành phố)"
         },
         "romaji": "kamakura"
       },
@@ -309,7 +338,8 @@
         "example": "お蔵",
         "reading": "おくら",
         "meaning": {
-          "vi": "shelving (a play, movie, etc.), closing down, cancelling, canceling, rice storehouse (of the Edo shogunate)"
+          "vi": "việc xếp xó (một vở kịch, bộ phim, v.v.), đóng cửa, hủy bỏ, kho thóc (của Mạc phủ Edo)",
+          "en": "shelving (a play, movie, etc.), closing down, cancelling, canceling, rice storehouse (of the Edo shogunate)"
         },
         "romaji": "okura"
       }
@@ -319,7 +349,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

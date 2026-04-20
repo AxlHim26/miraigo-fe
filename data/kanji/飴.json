@@ -5,7 +5,10 @@
     "query": "飴",
     "found": true,
     "strokeCount": 13,
-    "meaning": "rice jelly, candy",
+    "meaning": {
+      "en": "rice jelly, candy",
+      "vi": "mạch nha, kẹo"
+    },
     "kunyomi": [
       "あめ",
       "やしな.う"
@@ -20,7 +23,8 @@
         "example": "飴",
         "reading": "あめ",
         "meaning": {
-          "vi": "(hard) candy, toffee, rice-sugar, sugar made from the starch of rice, potatoes, etc., amber, yellowish-brown"
+          "vi": "kẹo cứng, kẹo bơ cứng, mạch nha, đường làm từ tinh bột gạo, khoai tây..., màu hổ phách, vàng nâu",
+          "en": "(hard) candy, toffee, rice-sugar, sugar made from the starch of rice, potatoes, etc., amber, yellowish-brown"
         },
         "romaji": "ame"
       },
@@ -28,7 +32,8 @@
         "example": "飴色",
         "reading": "あめいろ",
         "meaning": {
-          "en": "amber, yellowish-brown"
+          "en": "amber, yellowish-brown",
+          "vi": "màu hổ phách, vàng nâu"
         },
         "romaji": "ameiro"
       },
@@ -36,7 +41,8 @@
         "example": "べっこう飴",
         "reading": "べっこうあめ",
         "meaning": {
-          "en": "hard candy, candy suckers molded on a griddle, tortoise-shell candy"
+          "en": "hard candy, candy suckers molded on a griddle, tortoise-shell candy",
+          "vi": "kẹo cứng, kẹo mút đổ khuôn trên vỉ nướng, kẹo hổ phách"
         },
         "romaji": "bekkouame"
       },
@@ -44,7 +50,8 @@
         "example": "ぶどう飴",
         "reading": "ぶどうあめ",
         "meaning": {
-          "vi": "candy-coated grapes on a stick"
+          "vi": "nho bọc kẹo trên que",
+          "en": "candy-coated grapes on a stick"
         },
         "romaji": "budouame"
       }
@@ -54,7 +61,10 @@
       "forms": [
         "飠"
       ],
-      "meaning": "eat, food"
+      "meaning": {
+        "en": "eat, food",
+        "vi": "ăn, thức ăn"
+      }
     },
     "parts": [
       "厶",

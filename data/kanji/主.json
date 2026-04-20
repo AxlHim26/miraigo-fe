@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "nushi, omo, omoni, aruji",
-    "meaning": "main, master",
+    "meaning": {
+      "en": "main, master",
+      "vi": "chính, chủ"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "主人（しゅじん）",
         "meaning": {
-          "english": "one's own husband"
+          "english": "one's own husband",
+          "en": "one's own husband",
+          "vi": "chồng của chính mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_a.opus",
@@ -28,7 +33,9 @@
       {
         "japanese": "主婦（しゅふ）",
         "meaning": {
-          "english": "housewife"
+          "english": "housewife",
+          "en": "housewife",
+          "vi": "bà nội trợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_b.opus",
@@ -43,7 +50,9 @@
       {
         "japanese": "民主主義（みんしゅしゅぎ）",
         "meaning": {
-          "english": "democracy"
+          "english": "democracy",
+          "en": "democracy",
+          "vi": "nền dân chủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_c.opus",
@@ -58,7 +67,9 @@
       {
         "japanese": "主要な（しゅような）",
         "meaning": {
-          "english": "main"
+          "english": "main",
+          "en": "main",
+          "vi": "chủ yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_d.opus",
@@ -73,7 +84,9 @@
       {
         "japanese": "主体的な（しゅたいてきな）",
         "meaning": {
-          "english": "subjective"
+          "english": "subjective",
+          "en": "subjective",
+          "vi": "chủ quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_e.opus",
@@ -88,7 +101,9 @@
       {
         "japanese": "主張する（しゅちょうする）",
         "meaning": {
-          "english": "claim, insist"
+          "english": "claim, insist",
+          "en": "claim, insist",
+          "vi": "khẳng định, khẳng định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_f.opus",
@@ -103,7 +118,9 @@
       {
         "japanese": "坊主（ぼうず）",
         "meaning": {
-          "english": "Buddhist priest"
+          "english": "Buddhist priest",
+          "en": "Buddhist priest",
+          "vi": "tu sĩ phật giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_g.opus",
@@ -118,7 +135,9 @@
       {
         "japanese": "持ち主（もちぬし）",
         "meaning": {
-          "english": "owner"
+          "english": "owner",
+          "en": "owner",
+          "vi": "người sở hữu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_h.opus",
@@ -133,7 +152,9 @@
       {
         "japanese": "株主（かぶぬし）",
         "meaning": {
-          "english": "stockholder"
+          "english": "stockholder",
+          "en": "stockholder",
+          "vi": "cổ đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_i.opus",
@@ -148,7 +169,9 @@
       {
         "japanese": "主に（おもに）",
         "meaning": {
-          "english": "mainly"
+          "english": "mainly",
+          "en": "mainly",
+          "vi": "chủ yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_j.opus",
@@ -163,7 +186,9 @@
       {
         "japanese": "一家の主（いっかのあるじ）",
         "meaning": {
-          "english": "master of the household"
+          "english": "master of the household",
+          "en": "master of the household",
+          "vi": "chủ gia đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nushi_06_k.opus",
@@ -325,7 +350,9 @@
     "kanji": {
       "character": "主",
       "meaning": {
-        "english": "main, master"
+        "english": "main, master",
+        "en": "main, master",
+        "vi": "chính, chủ"
       },
       "strokes": {
         "count": 5,
@@ -372,7 +399,9 @@
         "romaji": "ten"
       },
       "meaning": {
-        "english": "dot"
+        "english": "dot",
+        "en": "dot",
+        "vi": "dấu chấm"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ten0.svg",
@@ -393,7 +422,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "95",
     "strokeCount": 5,
-    "meaning": "lord, chief, master, main thing, principal",
+    "meaning": {
+      "en": "lord, chief, master, main thing, principal",
+      "vi": "chúa, người đứng đầu, chủ, điều chính, chủ yếu"
+    },
     "kunyomi": [
       "ぬし",
       "おも",
@@ -409,7 +441,8 @@
         "example": "主",
         "reading": "シュ",
         "meaning": {
-          "vi": "(one's) master, (one's) employer, (one's) lord, leader (of a country, group, etc.), head, chief, Lord, main thing, chief part, first consideration, primary object, principal aim"
+          "vi": "(one's) master, (one's) employer, (one's) lord, leader (of a country, group, etc.), head, chief, Lord, main thing, chief part, first consideration, primary object, principal aim",
+          "en": "(one's) master, (one's) employer, (one's) lord, leader (of a country, group, etc.), head, chief, Lord, main thing, chief part, first consideration, primary object, principal aim"
         },
         "meaningVN": "(của một người) chủ nhân, chủ nhân của (một người), chúa tể của (một người), lãnh đạo (của một quốc gia, nhóm, v.v.), người đứng đầu, người đứng đầu, chúa, điều chính, phần chính, sự xem xét đầu tiên, đối tượng chính, mục đích chính",
         "hanViet": "chúa",
@@ -420,7 +453,8 @@
         "example": "主",
         "reading": "シュウ",
         "meaning": {
-          "vi": "(one's) master, (one's) employer, (one's) lord"
+          "vi": "(one's) master, (one's) employer, (one's) lord",
+          "en": "(one's) master, (one's) employer, (one's) lord"
         },
         "meaningVN": "(của một người) ông chủ, chủ nhân của (của một người), chúa tể của (của một người)",
         "hanViet": "chúa",
@@ -431,7 +465,8 @@
         "example": "自主",
         "reading": "ジシュ",
         "meaning": {
-          "vi": "independence, autonomy, self-reliance"
+          "vi": "independence, autonomy, self-reliance",
+          "en": "independence, autonomy, self-reliance"
         },
         "meaningVN": "độc lập, tự chủ, tự chủ",
         "hanViet": "tự chúa",
@@ -442,7 +477,8 @@
         "example": "盟主",
         "reading": "メイシュ",
         "meaning": {
-          "vi": "leader (of an alliance), leading power"
+          "vi": "leader (of an alliance), leading power",
+          "en": "leader (of an alliance), leading power"
         },
         "meaningVN": "lãnh đạo (của một liên minh), quyền lực hàng đầu",
         "hanViet": "minh chúa",
@@ -453,7 +489,8 @@
         "example": "主",
         "reading": "ス",
         "meaning": {
-          "en": "honorific (or familiar) suffix used after a name"
+          "en": "honorific (or familiar) suffix used after a name",
+          "vi": "hậu tố kính ngữ (hoặc quen thuộc) được sử dụng sau tên"
         },
         "meaningVN": "hậu tố kính ngữ (hoặc quen thuộc) được sử dụng sau tên",
         "hanViet": "chúa",
@@ -464,7 +501,8 @@
         "example": "法主",
         "reading": "ホッス",
         "meaning": {
-          "vi": "high priest"
+          "vi": "high priest",
+          "en": "high priest"
         },
         "meaningVN": "thầy tế lễ thượng phẩm",
         "hanViet": "pháp chúa",
@@ -475,7 +513,8 @@
         "example": "座主",
         "reading": "ザス",
         "meaning": {
-          "vi": "temple's head priest"
+          "vi": "temple's head priest",
+          "en": "temple's head priest"
         },
         "meaningVN": "trụ trì chùa",
         "hanViet": "toà chúa",
@@ -486,7 +525,8 @@
         "example": "主",
         "reading": "シュウ",
         "meaning": {
-          "vi": "(one's) master, (one's) employer, (one's) lord"
+          "vi": "(one's) master, (one's) employer, (one's) lord",
+          "en": "(one's) master, (one's) employer, (one's) lord"
         },
         "meaningVN": "(của một người) ông chủ, chủ nhân của (của một người), chúa tể của (của một người)",
         "hanViet": "chúa",
@@ -497,7 +537,8 @@
         "example": "主従",
         "reading": "シュウジュウ",
         "meaning": {
-          "vi": "master and servant, lord and retainer, employer and employee"
+          "vi": "master and servant, lord and retainer, employer and employee",
+          "en": "master and servant, lord and retainer, employer and employee"
         },
         "meaningVN": "chủ và tôi tớ, chúa và người hầu, chủ và nhân viên",
         "hanViet": "chúa tòng",
@@ -508,7 +549,8 @@
         "example": "男主",
         "reading": "オトコアルジ",
         "meaning": {
-          "vi": "male head of a household, male owner, landlord, proprietor, male employer"
+          "vi": "male head of a household, male owner, landlord, proprietor, male employer",
+          "en": "male head of a household, male owner, landlord, proprietor, male employer"
         },
         "meaningVN": "nam chủ hộ, nam chủ nhà, chủ nhà, chủ sở hữu, nam chủ",
         "hanViet": "nam chúa",
@@ -521,7 +563,8 @@
         "example": "主",
         "reading": "ぬし",
         "meaning": {
-          "vi": "head (of a household, etc.), leader, master, owner, proprietor, proprietress, subject (of a rumour, etc.), doer (of a deed), guardian spirit (e.g. long-resident beast, usu. with mystical powers), long-time resident (or employee, etc.), husband, you"
+          "vi": "head (of a household, etc.), leader, master, owner, proprietor, proprietress, subject (of a rumour, etc.), doer (of a deed), guardian spirit (e.g. long-resident beast, usu. with mystical powers), long-time resident (or employee, etc.), husband, you",
+          "en": "head (of a household, etc.), leader, master, owner, proprietor, proprietress, subject (of a rumour, etc.), doer (of a deed), guardian spirit (e.g. long-resident beast, usu. with mystical powers), long-time resident (or employee, etc.), husband, you"
         },
         "meaningVN": "người đứng đầu (của một hộ gia đình, v.v.), lãnh đạo, chủ nhân, chủ sở hữu, chủ sở hữu, chủ sở hữu, chủ đề (của một tin đồn, v.v.), người thực hiện (chứng thư), thần hộ mệnh (ví dụ: con thú cư trú lâu năm, usu. với sức mạnh thần bí), cư dân lâu năm (hoặc nhân viên, v.v.), chồng, bạn",
         "hanViet": "chúa",
@@ -532,7 +575,8 @@
         "example": "馬主",
         "reading": "うまぬし",
         "meaning": {
-          "vi": "owner of a horse (esp. racehorse), registered owner (of a racehorse)"
+          "vi": "owner of a horse (esp. racehorse), registered owner (of a racehorse)",
+          "en": "owner of a horse (esp. racehorse), registered owner (of a racehorse)"
         },
         "meaningVN": "chủ sở hữu của một con ngựa (đặc biệt là ngựa đua), chủ sở hữu đã đăng ký (của một con ngựa đua)",
         "hanViet": "mã chúa",
@@ -543,7 +587,8 @@
         "example": "船主",
         "reading": "せんしゅ",
         "meaning": {
-          "vi": "shipowner"
+          "vi": "shipowner",
+          "en": "shipowner"
         },
         "meaningVN": "chủ tàu",
         "hanViet": "thuyền chúa",
@@ -554,7 +599,8 @@
         "example": "主",
         "reading": "おも",
         "meaning": {
-          "vi": "chief, main, principal, important, main secondary or supporting role (in kyogen)"
+          "vi": "chief, main, principal, important, main secondary or supporting role (in kyogen)",
+          "en": "chief, main, principal, important, main secondary or supporting role (in kyogen)"
         },
         "meaningVN": "vai trò chính, chính, chính, quan trọng, chính phụ hoặc hỗ trợ (trong kyogen)",
         "hanViet": "chúa",
@@ -565,7 +611,8 @@
         "example": "主に",
         "reading": "おもに",
         "meaning": {
-          "vi": "mainly, primarily, mostly, largely, chiefly"
+          "vi": "mainly, primarily, mostly, largely, chiefly",
+          "en": "mainly, primarily, mostly, largely, chiefly"
         },
         "meaningVN": "chủ yếu, chủ yếu, chủ yếu, phần lớn, chủ yếu",
         "hanViet": "chúa に",
@@ -576,7 +623,8 @@
         "example": "主",
         "reading": "あるじ",
         "meaning": {
-          "vi": "head (of a household), proprietor (of a store), proprietress, landlord, landlady, master (of a servant), entertaining someone as one's guest"
+          "vi": "head (of a household), proprietor (of a store), proprietress, landlord, landlady, master (of a servant), entertaining someone as one's guest",
+          "en": "head (of a household), proprietor (of a store), proprietress, landlord, landlady, master (of a servant), entertaining someone as one's guest"
         },
         "meaningVN": "chủ (gia đình), chủ sở hữu (cửa hàng), bà chủ, chủ nhà, bà chủ nhà, chủ (của người hầu), tiếp đãi ai đó như khách của mình",
         "hanViet": "chúa",
@@ -587,7 +635,8 @@
         "example": "男主",
         "reading": "おとこあるじ",
         "meaning": {
-          "vi": "male head of a household, male owner, landlord, proprietor, male employer"
+          "vi": "male head of a household, male owner, landlord, proprietor, male employer",
+          "en": "male head of a household, male owner, landlord, proprietor, male employer"
         },
         "meaningVN": "nam chủ hộ, nam chủ nhà, chủ nhà, chủ sở hữu, nam chủ",
         "hanViet": "nam chúa",
@@ -598,7 +647,8 @@
         "example": "女主",
         "reading": "おんなあるじ",
         "meaning": {
-          "vi": "female owner, proprietress, landlady, female head of a household"
+          "vi": "female owner, proprietress, landlady, female head of a household",
+          "en": "female owner, proprietress, landlady, female head of a household"
         },
         "meaningVN": "nữ chủ, bà chủ, bà chủ nhà, nữ chủ gia đình",
         "hanViet": "nhữ chúa",
@@ -608,7 +658,10 @@
     ],
     "radical": {
       "symbol": "丶",
-      "meaning": "dot"
+      "meaning": {
+        "en": "dot",
+        "vi": "dấu chấm"
+      }
     },
     "parts": [
       "丶",
@@ -623,6 +676,8 @@
     "chúa",
     "chủ"
   ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Chấm trên nét đứng làm nổi bật vị trí trung tâm, nên nhớ là chủ, chính.",
   "meaningVN": "chính, chủ",
   "hanVietExplain": "chúa: người đứng đầu, người đứng đầu"
 }

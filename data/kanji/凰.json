@@ -5,7 +5,10 @@
     "query": "凰",
     "found": true,
     "strokeCount": 11,
-    "meaning": "female phoenix bird",
+    "meaning": {
+      "en": "female phoenix bird",
+      "vi": "phượng cái"
+    },
     "kunyomi": [
       "おおとり"
     ],
@@ -18,7 +21,8 @@
         "example": "凰",
         "reading": "オウ",
         "meaning": {
-          "en": "huang (female Chinese firebird)"
+          "en": "huang (female Chinese firebird)",
+          "vi": "hoàng, chim lửa cái trong truyền thuyết Trung Hoa"
         },
         "romaji": "ou"
       },
@@ -43,7 +47,10 @@
     ],
     "radical": {
       "symbol": "几",
-      "meaning": "table"
+      "meaning": {
+        "en": "table",
+        "vi": "bàn"
+      }
     },
     "parts": [
       "几",
@@ -57,5 +64,6 @@
   },
   "hanViet": [
     "hoàng"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: chim hoàng cái đội vương miện bay lên, hình 凰 gợi một con phượng cao quý."
 }

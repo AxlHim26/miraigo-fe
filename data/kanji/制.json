@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "system, control",
+    "meaning": {
+      "en": "system, control",
+      "vi": "hệ thống, kiểm soát"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "制度（せいど）",
         "meaning": {
-          "english": "system"
+          "english": "system",
+          "en": "system",
+          "vi": "hệ thống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)sei(tou)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "制服（せいふく）",
         "meaning": {
-          "english": "uniform [n.]"
+          "english": "uniform [n.]",
+          "en": "uniform [n.]",
+          "vi": "đồng phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)sei(tou)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "体制（たいせい）",
         "meaning": {
-          "english": "system, set-up"
+          "english": "system, set-up",
+          "en": "system, set-up",
+          "vi": "hệ thống, cơ chế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)sei(tou)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "税制（ぜいせい）",
         "meaning": {
-          "english": "tax system"
+          "english": "tax system",
+          "en": "tax system",
+          "vi": "hệ thống thuế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)sei(tou)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "天皇制（てんのうせい）",
         "meaning": {
-          "english": "the Emperor System"
+          "english": "the Emperor System",
+          "en": "the Emperor System",
+          "vi": "chế độ thiên hoàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)sei(tou)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "共和制（きょうわせい）",
         "meaning": {
-          "english": "republicanism"
+          "english": "republicanism",
+          "en": "republicanism",
+          "vi": "chủ nghĩa cộng hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)sei(tou)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "制定する（せいていする）",
         "meaning": {
-          "english": "enact (law)"
+          "english": "enact (law)",
+          "en": "enact (law)",
+          "vi": "ban hành luật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)sei(tou)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "制限する（せいげんする）",
         "meaning": {
-          "english": "restrict, limit"
+          "english": "restrict, limit",
+          "en": "restrict, limit",
+          "vi": "hạn chế, giới hạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)sei(tou)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "強制する（きょうせいする）",
         "meaning": {
-          "english": "coerce"
+          "english": "coerce",
+          "en": "coerce",
+          "vi": "cưỡng ép"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)sei(tou)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "規制する（きせいする）",
         "meaning": {
-          "english": "regulate"
+          "english": "regulate",
+          "en": "regulate",
+          "vi": "điều chỉnh, quản lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)sei(tou)_06_j.opus",
@@ -243,7 +266,9 @@
     "kanji": {
       "character": "制",
       "meaning": {
-        "english": "system, control"
+        "english": "system, control",
+        "en": "system, control",
+        "vi": "hệ thống, kiểm soát"
       },
       "strokes": {
         "count": 8,
@@ -297,7 +322,9 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -318,7 +345,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "108",
     "strokeCount": 8,
-    "meaning": "system, law, rule",
+    "meaning": {
+      "en": "system, law, rule",
+      "vi": "hệ thống, luật lệ, quy tắc"
+    },
     "kunyomi": [],
     "onyomi": [
       "セイ"
@@ -328,7 +358,8 @@
         "example": "制",
         "reading": "セイ",
         "meaning": {
-          "vi": "system, organization, organisation, imperial command, laws, regulation, control, government, suppression, restraint, holding back, establishment"
+          "vi": "system, organization, organisation, imperial command, laws, regulation, control, government, suppression, restraint, holding back, establishment",
+          "en": "system, organization, organisation, imperial command, laws, regulation, control, government, suppression, restraint, holding back, establishment"
         },
         "romaji": "sei"
       },
@@ -336,7 +367,8 @@
         "example": "制圧",
         "reading": "セイアツ",
         "meaning": {
-          "vi": "gaining total control (of people or counties), suppression, oppression, control, mastery, ascendancy, supremacy"
+          "vi": "gaining total control (of people or counties), suppression, oppression, control, mastery, ascendancy, supremacy",
+          "en": "gaining total control (of people or counties), suppression, oppression, control, mastery, ascendancy, supremacy"
         },
         "romaji": "seiatsu"
       },
@@ -344,7 +376,8 @@
         "example": "天皇制",
         "reading": "テンノウセイ",
         "meaning": {
-          "vi": "the Emperor System"
+          "vi": "the Emperor System",
+          "en": "the Emperor System"
         },
         "romaji": "tennousei"
       },
@@ -352,7 +385,8 @@
         "example": "帝政",
         "reading": "テイセイ",
         "meaning": {
-          "vi": "imperial government, imperialism, monarchical rule"
+          "vi": "imperial government, imperialism, monarchical rule",
+          "en": "imperial government, imperialism, monarchical rule"
         },
         "romaji": "teisei"
       }
@@ -363,7 +397,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "ノ",
@@ -379,5 +416,6 @@
   },
   "hanViet": [
     "chế"
-  ]
+  ],
+  "mnemonic_vi": "Dùng dao cắt vào khuôn phép để tạo ra chế độ và quy định."
 }

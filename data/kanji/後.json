@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "nochi, ushi, ushiro, ato, oku, okure",
-    "meaning": "after, back",
+    "meaning": {
+      "en": "after, back",
+      "vi": "sau, phía sau"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "午後（ごご）",
         "meaning": {
-          "english": "afternoon, p.m."
+          "english": "afternoon, p.m.",
+          "en": "afternoon, p.m.",
+          "vi": "buổi chiều, PM"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "最後（さいご）",
         "meaning": {
-          "english": "last, ending"
+          "english": "last, ending",
+          "en": "last, ending",
+          "vi": "cuối cùng, kết thúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "以後（いご）",
         "meaning": {
-          "english": "from now on"
+          "english": "from now on",
+          "en": "from now on",
+          "vi": "từ nay về sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "後半（こうはん）",
         "meaning": {
-          "english": "second half"
+          "english": "second half",
+          "en": "second half",
+          "vi": "nửa sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "後ほど（のちほど）",
         "meaning": {
-          "english": "later"
+          "english": "later",
+          "en": "later",
+          "vi": "sau đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "後ろ（うしろ）",
         "meaning": {
-          "english": "back, behind"
+          "english": "back, behind",
+          "en": "back, behind",
+          "vi": "phía sau, đằng sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "後で（あとで）",
         "meaning": {
-          "english": "later, afterwards"
+          "english": "later, afterwards",
+          "en": "later, afterwards",
+          "vi": "sau đó, về sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "手後れ（ておくれ）",
         "meaning": {
-          "english": "being (too) late"
+          "english": "being (too) late",
+          "en": "being (too) late",
+          "vi": "bị muộn, đến trễ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "*明後日（あさって）",
         "meaning": {
-          "english": "day after tomorrow"
+          "english": "day after tomorrow",
+          "en": "day after tomorrow",
+          "vi": "ngày kia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_i.opus",
@@ -309,7 +330,9 @@
     "kanji": {
       "character": "後",
       "meaning": {
-        "english": "after, back"
+        "english": "after, back",
+        "en": "after, back",
+        "vi": "sau, phía sau"
       },
       "strokes": {
         "count": 9,
@@ -365,7 +388,9 @@
         "romaji": "gyouninben"
       },
       "meaning": {
-        "english": "step, stride, street, to go"
+        "english": "step, stride, street, to go",
+        "en": "step, stride, street, to go",
+        "vi": "bước chân, sải bước, đường phố, đi"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
@@ -386,7 +411,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "26",
     "strokeCount": 9,
-    "meaning": "behind, back, later",
+    "meaning": {
+      "en": "behind, back, later",
+      "vi": "đằng sau, phía sau, sau này"
+    },
     "kunyomi": [
       "のち",
       "うし.ろ",
@@ -403,7 +431,8 @@
         "example": "後",
         "reading": "ゴ",
         "meaning": {
-          "en": "after"
+          "en": "after",
+          "vi": "sau"
         },
         "romaji": "go"
       },
@@ -411,7 +440,8 @@
         "example": "後日",
         "reading": "ゴジツ",
         "meaning": {
-          "en": "in the future, another day, later"
+          "en": "in the future, another day, later",
+          "vi": "trong tương lai, hôm khác, về sau"
         },
         "romaji": "gojitsu"
       },
@@ -419,7 +449,8 @@
         "example": "越後",
         "reading": "エチゴ",
         "meaning": {
-          "vi": "Echigo (former province located in present-day Niigata Prefecture)"
+          "vi": "Echigo, tỉnh cũ thuộc Niigata ngày nay",
+          "en": "Echigo (former province located in present-day Niigata Prefecture)"
         },
         "romaji": "echigo"
       },
@@ -427,7 +458,8 @@
         "example": "終了後",
         "reading": "シュウリョウゴ",
         "meaning": {
-          "vi": "after the end (of something), post-"
+          "vi": "sau khi kết thúc, hậu",
+          "en": "after the end (of something), post-"
         },
         "romaji": "shuuryougo"
       },
@@ -435,7 +467,8 @@
         "example": "後援",
         "reading": "コウエン",
         "meaning": {
-          "vi": "support, backing"
+          "vi": "hậu thuẫn, chống lưng",
+          "en": "support, backing"
         },
         "romaji": "kouen"
       },
@@ -443,7 +476,8 @@
         "example": "後遺症",
         "reading": "コウイショウ",
         "meaning": {
-          "vi": "prognostic symptoms, after-effect, sequela"
+          "vi": "di chứng, hậu quả",
+          "en": "prognostic symptoms, after-effect, sequela"
         },
         "romaji": "kouishou"
       },
@@ -451,7 +485,8 @@
         "example": "向後",
         "reading": "コウゴ",
         "meaning": {
-          "en": "hereafter"
+          "en": "hereafter",
+          "vi": "sau này, từ đây về sau"
         },
         "romaji": "kougo"
       },
@@ -459,7 +494,8 @@
         "example": "先後",
         "reading": "センゴ",
         "meaning": {
-          "en": "before and after, earlier and later, order, sequence, occurring almost simultaneously, inversion (of order), black and white"
+          "en": "before and after, earlier and later, order, sequence, occurring almost simultaneously, inversion (of order), black and white",
+          "vi": "trước sau, thứ tự, trình tự, gần như đồng thời, đảo thứ tự, trắng đen"
         },
         "romaji": "sengo"
       }
@@ -469,7 +505,8 @@
         "example": "後",
         "reading": "のち",
         "meaning": {
-          "en": "later, afterwards, future, after one's death, descendant"
+          "en": "later, afterwards, future, after one's death, descendant",
+          "vi": "về sau, sau này, tương lai, sau khi qua đời, con cháu"
         },
         "romaji": "nochi"
       },
@@ -477,7 +514,8 @@
         "example": "後々",
         "reading": "のちのち",
         "meaning": {
-          "en": "future, distant future"
+          "en": "future, distant future",
+          "vi": "tương lai, tương lai xa"
         },
         "romaji": "nochinochi"
       },
@@ -485,7 +523,8 @@
         "example": "後々",
         "reading": "のちのち",
         "meaning": {
-          "en": "future, distant future"
+          "en": "future, distant future",
+          "vi": "tương lai, tương lai xa"
         },
         "romaji": "nochinochi"
       },
@@ -493,7 +532,8 @@
         "example": "この後",
         "reading": "このあと",
         "meaning": {
-          "en": "after this, henceforth, henceforward, from now on"
+          "en": "after this, henceforth, henceforward, from now on",
+          "vi": "sau đây, từ nay về sau"
         },
         "romaji": "konoato"
       },
@@ -501,7 +541,8 @@
         "example": "後ろ",
         "reading": "うしろ",
         "meaning": {
-          "en": "back, behind, rear"
+          "en": "back, behind, rear",
+          "vi": "phía sau, đằng sau, hậu phương"
         },
         "romaji": "ushiro"
       },
@@ -509,7 +550,8 @@
         "example": "後ろ姿",
         "reading": "うしろすがた",
         "meaning": {
-          "vi": "(a person's) appearance from behind, person as seen from behind, back view, retreating figure"
+          "vi": "dáng người nhìn từ phía sau, bóng lưng",
+          "en": "(a person's) appearance from behind, person as seen from behind, back view, retreating figure"
         },
         "romaji": "ushirosugata"
       },
@@ -517,7 +559,8 @@
         "example": "後ろ",
         "reading": "うしろ",
         "meaning": {
-          "en": "back, behind, rear"
+          "en": "back, behind, rear",
+          "vi": "phía sau, đằng sau, hậu phương"
         },
         "romaji": "ushiro"
       },
@@ -525,7 +568,8 @@
         "example": "後ろ姿",
         "reading": "うしろすがた",
         "meaning": {
-          "vi": "(a person's) appearance from behind, person as seen from behind, back view, retreating figure"
+          "vi": "dáng người nhìn từ phía sau, bóng lưng",
+          "en": "(a person's) appearance from behind, person as seen from behind, back view, retreating figure"
         },
         "romaji": "ushirosugata"
       },
@@ -533,7 +577,8 @@
         "example": "後",
         "reading": "あと",
         "meaning": {
-          "vi": "behind, rear, after, later, remainder, the rest, more (e.g. five more minutes), left, also, in addition, descendant, successor, heir, after one's death, past, previous"
+          "vi": "phía sau, về sau, phần còn lại, thêm nữa, còn lại, con cháu, người kế thừa, quá khứ, trước đó",
+          "en": "behind, rear, after, later, remainder, the rest, more (e.g. five more minutes), left, also, in addition, descendant, successor, heir, after one's death, past, previous"
         },
         "romaji": "ato"
       },
@@ -541,7 +586,8 @@
         "example": "後押し",
         "reading": "あとおし",
         "meaning": {
-          "vi": "pushing, support, backing, supporter, backer, pushing from behind (a cart, etc.), pusher"
+          "vi": "đẩy từ phía sau, hỗ trợ, hậu thuẫn, người chống lưng",
+          "en": "pushing, support, backing, supporter, backer, pushing from behind (a cart, etc.), pusher"
         },
         "romaji": "atooshi"
       },
@@ -549,7 +595,8 @@
         "example": "亡き後",
         "reading": "なきあと",
         "meaning": {
-          "en": "after one's death"
+          "en": "after one's death",
+          "vi": "sau khi qua đời"
         },
         "romaji": "nakiato"
       },
@@ -557,7 +604,8 @@
         "example": "後々",
         "reading": "あとあと",
         "meaning": {
-          "en": "future, distant future"
+          "en": "future, distant future",
+          "vi": "tương lai, tương lai xa"
         },
         "romaji": "atoato"
       },
@@ -565,14 +613,18 @@
         "example": "遅れる",
         "reading": "おくれる",
         "meaning": {
-          "vi": "to be late, to be delayed, to fall behind schedule, to be overdue, to fall behind (in a race, one's studies, etc.), to lag behind, to be behind (the times), to be bereaved of, to be preceded by (someone) in death, to be slow (of a clock or watch)"
+          "vi": "bị muộn, bị chậm trễ, trễ hạn, tụt lại phía sau, lạc hậu, chịu cảnh người khác mất trước, chạy chậm",
+          "en": "to be late, to be delayed, to fall behind schedule, to be overdue, to fall behind (in a race, one's studies, etc.), to lag behind, to be behind (the times), to be bereaved of, to be preceded by (someone) in death, to be slow (of a clock or watch)"
         },
         "romaji": "okureru"
       }
     ],
     "radical": {
       "symbol": "彳",
-      "meaning": "step"
+      "meaning": {
+        "en": "step",
+        "vi": "bước"
+      }
     },
     "parts": [
       "夂",
@@ -587,5 +639,6 @@
   "hanViet": [
     "hấu",
     "hậu"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: bước chân đi chậm lại phía sau nên 後 là sau, đằng sau."
 }

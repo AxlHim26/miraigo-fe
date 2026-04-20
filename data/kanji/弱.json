@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "yowai, yowaru, yowamaru, yowameru, yowa",
-    "meaning": "weak",
+    "meaning": {
+      "en": "weak",
+      "vi": "yếu"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "弱点（じゃくてん）",
         "meaning": {
-          "english": "weakness"
+          "english": "weakness",
+          "en": "weakness",
+          "vi": "sự yếu đuối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yowa(i)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "弱震（じゃくしん）",
         "meaning": {
-          "english": "mild earthquake"
+          "english": "mild earthquake",
+          "en": "mild earthquake",
+          "vi": "động đất nhẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yowa(i)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "弱者（じゃくしゃ）",
         "meaning": {
-          "english": "the weak"
+          "english": "the weak",
+          "en": "the weak",
+          "vi": "kẻ yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yowa(i)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "十ドル弱（じゅうドルじゃく）",
         "meaning": {
-          "english": "a little less than ten dollars"
+          "english": "a little less than ten dollars",
+          "en": "a little less than ten dollars",
+          "vi": "hơi dưới mười đô la"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yowa(i)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "弱い（よわい）",
         "meaning": {
-          "english": "weak, frail"
+          "english": "weak, frail",
+          "en": "weak, frail",
+          "vi": "yếu, mong manh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yowa(i)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "弱る（よわる）",
         "meaning": {
-          "english": "be weakened, be troubled [v.i.]"
+          "english": "be weakened, be troubled [v.i.]",
+          "en": "be weakened, be troubled [v.i.]",
+          "vi": "trở nên yếu đi, gặp khó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yowa(i)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "弱める（よわめる）",
         "meaning": {
-          "english": "weaken [v.t.]"
+          "english": "weaken [v.t.]",
+          "en": "weaken [v.t.]",
+          "vi": "làm suy yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yowa(i)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "弱まる（よわまる）",
         "meaning": {
-          "english": "abate, be weakened [v.i.]"
+          "english": "abate, be weakened [v.i.]",
+          "en": "abate, be weakened [v.i.]",
+          "vi": "giảm đi, yếu đi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yowa(i)_06_h.opus",
@@ -229,7 +248,9 @@
     "kanji": {
       "character": "弱",
       "meaning": {
-        "english": "weak"
+        "english": "weak",
+        "en": "weak",
+        "vi": "yếu"
       },
       "strokes": {
         "count": 10,
@@ -287,7 +308,9 @@
         "romaji": "yumihen"
       },
       "meaning": {
-        "english": "bow（in archery）"
+        "english": "bow（in archery）",
+        "en": "bow（in archery）",
+        "vi": "cung trong bắn cung"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yumihen0.svg",
@@ -308,7 +331,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "958",
     "strokeCount": 10,
-    "meaning": "weak, frail",
+    "meaning": {
+      "en": "weak, frail",
+      "vi": "yếu, mong manh"
+    },
     "kunyomi": [
       "よわ.い",
       "よわ.る",
@@ -323,7 +349,8 @@
         "example": "弱",
         "reading": "ジャク",
         "meaning": {
-          "en": "a little less than, a little under, slightly fewer than, weakness, the weak, low (setting), -lower (seismic intensity)"
+          "en": "a little less than, a little under, slightly fewer than, weakness, the weak, low (setting), -lower (seismic intensity)",
+          "vi": "hơi dưới, ít hơn một chút, sự yếu, kẻ yếu, mức thấp, cấp thấp hơn trong địa chấn"
         },
         "romaji": "jaku"
       },
@@ -331,7 +358,8 @@
         "example": "弱者",
         "reading": "ジャクシャ",
         "meaning": {
-          "vi": "weak person, the weak, vulnerable person, disadvantaged person"
+          "vi": "weak person, the weak, vulnerable person, disadvantaged person",
+          "en": "weak person, the weak, vulnerable person, disadvantaged person"
         },
         "romaji": "jakusha"
       },
@@ -339,7 +367,8 @@
         "example": "精神薄弱",
         "reading": "セイシンハクジャク",
         "meaning": {
-          "en": "feeble-mindedness, intellectual disability"
+          "en": "feeble-mindedness, intellectual disability",
+          "vi": "thiểu năng trí tuệ"
         },
         "romaji": "seishinhakujaku"
       },
@@ -347,7 +376,8 @@
         "example": "薄弱",
         "reading": "ハクジャク",
         "meaning": {
-          "en": "feebleness, weakness, weak"
+          "en": "feebleness, weakness, weak",
+          "vi": "sự yếu ớt, yếu đuối, yếu"
         },
         "romaji": "hakujaku"
       }
@@ -357,7 +387,8 @@
         "example": "弱い",
         "reading": "よわい",
         "meaning": {
-          "en": "weak, frail, delicate, tender, unskilled, weak (wine)"
+          "en": "weak, frail, delicate, tender, unskilled, weak (wine)",
+          "vi": "yếu, mỏng manh, mềm yếu, non tay, rượu nhạt"
         },
         "romaji": "yowai"
       },
@@ -365,7 +396,8 @@
         "example": "弱い経済",
         "reading": "よわいけいざい",
         "meaning": {
-          "en": "weak economy"
+          "en": "weak economy",
+          "vi": "nền kinh tế yếu"
         },
         "romaji": "yowaikeizai"
       },
@@ -373,7 +405,8 @@
         "example": "弱る",
         "reading": "よわる",
         "meaning": {
-          "vi": "to weaken, to grow weak, to wane, to decline (of one's health), to be downcast, to be dejected, to be dispirited, to be troubled, to be at a loss, to be perplexed, to be annoyed"
+          "vi": "to weaken, to grow weak, to wane, to decline (of one's health), to be downcast, to be dejected, to be dispirited, to be troubled, to be at a loss, to be perplexed, to be annoyed",
+          "en": "to weaken, to grow weak, to wane, to decline (of one's health), to be downcast, to be dejected, to be dispirited, to be troubled, to be at a loss, to be perplexed, to be annoyed"
         },
         "romaji": "yowaru"
       },
@@ -381,7 +414,8 @@
         "example": "弱まる",
         "reading": "よわまる",
         "meaning": {
-          "vi": "to abate, to weaken, to be emaciated, to be dejected, to be perplexed"
+          "vi": "to abate, to weaken, to be emaciated, to be dejected, to be perplexed",
+          "en": "to abate, to weaken, to be emaciated, to be dejected, to be perplexed"
         },
         "romaji": "yowamaru"
       },
@@ -389,14 +423,18 @@
         "example": "弱める",
         "reading": "よわめる",
         "meaning": {
-          "en": "to weaken"
+          "en": "to weaken",
+          "vi": "làm yếu đi"
         },
         "romaji": "yowameru"
       }
     ],
     "radical": {
       "symbol": "弓",
-      "meaning": "bow"
+      "meaning": {
+        "en": "bow",
+        "vi": "cây cung"
+      }
     },
     "parts": [
       "冫",
@@ -409,5 +447,7 @@
   },
   "hanViet": [
     "nhược"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: hai cây cung rũ xuống cho cảm giác yếu sức."
 }

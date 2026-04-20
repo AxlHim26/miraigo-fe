@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1102",
     "strokeCount": 7,
-    "meaning": "gentle, peace, satisfactory, appropriate",
+    "meaning": {
+      "en": "gentle, peace, satisfactory, appropriate",
+      "vi": "ôn hòa, yên ổn, thỏa đáng, thích hợp"
+    },
     "kunyomi": [],
     "onyomi": [
       "ダ"
@@ -18,7 +21,8 @@
         "example": "妥結",
         "reading": "ダケツ",
         "meaning": {
-          "en": "settlement, an agreement"
+          "en": "settlement, an agreement",
+          "vi": "sự dàn xếp, thỏa thuận"
         },
         "romaji": "daketsu"
       },
@@ -26,7 +30,8 @@
         "example": "妥協",
         "reading": "ダキョウ",
         "meaning": {
-          "vi": "compromise, giving in"
+          "vi": "compromise, giving in",
+          "en": ""
         },
         "romaji": "dakyou"
       }
@@ -34,7 +39,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": {
+        "en": "woman, female",
+        "vi": "phụ nữ, nữ"
+      }
     },
     "parts": [
       "女",
@@ -47,5 +55,7 @@
   },
   "hanViet": [
     "thoả"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: bàn tay vuốt xuống người nữ để mọi việc trở nên êm, nên 妥 là thỏa đáng, yên ổn."
 }

@@ -5,7 +5,10 @@
     "query": "偸",
     "found": true,
     "strokeCount": 11,
-    "meaning": "steal",
+    "meaning": {
+      "en": "steal",
+      "vi": "ăn cắp"
+    },
     "kunyomi": [
       "ぬす.む"
     ],
@@ -19,7 +22,8 @@
         "example": "偸安",
         "reading": "トウアン",
         "meaning": {
-          "en": "snatching a moment of rest, dickering for time"
+          "en": "snatching a moment of rest, dickering for time",
+          "vi": "tranh thủ nghỉ chốc lát, nấn ná thời gian"
         },
         "romaji": "touan"
       },
@@ -27,7 +31,8 @@
         "example": "盗視",
         "reading": "トウシ",
         "meaning": {
-          "en": "stealthy glance, furtive glance"
+          "en": "stealthy glance, furtive glance",
+          "vi": "cái liếc nhìn lén lút"
         },
         "romaji": "toushi"
       },
@@ -35,7 +40,8 @@
         "example": "偸盗",
         "reading": "チュウトウ",
         "meaning": {
-          "en": "robber, theft"
+          "en": "robber, theft",
+          "vi": "kẻ trộm, vụ trộm"
         },
         "romaji": "chuutou"
       }
@@ -45,7 +51,8 @@
         "example": "盗む",
         "reading": "ぬすむ",
         "meaning": {
-          "vi": "to steal, to plagiarize, to steal (a technique, idea, etc.), to watch and learn, to do stealthily, to do during scant time, to steal a base"
+          "vi": "to steal, to plagiarize, to steal (a technique, idea, etc.), to watch and learn, to do stealthily, to do during scant time, to steal a base",
+          "en": "to steal, to plagiarize, to steal (a technique, idea, etc.), to watch and learn, to do stealthily, to do during scant time, to steal a base"
         },
         "romaji": "nusumu"
       }
@@ -55,7 +62,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

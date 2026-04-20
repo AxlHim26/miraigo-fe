@@ -5,7 +5,10 @@
     "query": "冉",
     "found": true,
     "strokeCount": 5,
-    "meaning": "red, tan",
+    "meaning": {
+      "en": "red, tan",
+      "vi": "đỏ, nâu vàng"
+    },
     "kunyomi": [
       "あや.うい"
     ],
@@ -17,7 +20,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [
       "一",

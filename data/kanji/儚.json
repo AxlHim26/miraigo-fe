@@ -5,7 +5,10 @@
     "query": "儚",
     "found": true,
     "strokeCount": 15,
-    "meaning": "fleeting, fickle",
+    "meaning": {
+      "en": "fleeting, fickle",
+      "vi": "thoáng qua, phù du"
+    },
     "kunyomi": [
       "はかな.い",
       "くら.い"
@@ -20,7 +23,8 @@
         "example": "儚い",
         "reading": "はかない",
         "meaning": {
-          "vi": "fleeting, transient, short-lived, momentary, ephemeral, fickle, vain, empty (dream, etc.), mere (hope), faint (possibility)"
+          "en": "fleeting, transient, short-lived, momentary, ephemeral, fickle, vain, empty (dream, etc.), mere (hope), faint (possibility)",
+          "vi": "thoáng qua, tạm thời, ngắn ngủi, chốc lát, phù du, hay thay đổi, hão huyền, trống rỗng (như giấc mơ), chỉ là (hy vọng), mong manh (khả năng)"
         },
         "romaji": "hakanai"
       }
@@ -30,7 +34,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "冖",

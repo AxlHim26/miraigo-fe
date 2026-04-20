@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1584",
     "strokeCount": 13,
-    "meaning": "sigh, lament, moan, grieve, sigh of admiration",
+    "meaning": {
+      "en": "sigh, lament, moan, grieve, sigh of admiration",
+      "vi": "thở dài, than vãn, rên rỉ, đau buồn, trầm trồ thán phục"
+    },
     "kunyomi": [
       "なげ.く",
       "なげ.かわしい"
@@ -21,7 +24,8 @@
         "example": "嘆",
         "reading": "タン",
         "meaning": {
-          "en": "sigh, grief, lamentation"
+          "en": "sigh, grief, lamentation",
+          "vi": "tiếng thở dài, nỗi buồn, lời than vãn"
         },
         "romaji": "tan"
       },
@@ -29,7 +33,8 @@
         "example": "嘆願",
         "reading": "タンガン",
         "meaning": {
-          "vi": "entreaty, appeal, petition"
+          "vi": "entreaty, appeal, petition",
+          "en": "entreaty, appeal, petition"
         },
         "romaji": "tangan"
       },
@@ -37,7 +42,8 @@
         "example": "詠嘆",
         "reading": "エイタン",
         "meaning": {
-          "en": "exclamation, admiration"
+          "en": "exclamation, admiration",
+          "vi": "sự cảm thán, thán phục"
         },
         "romaji": "eitan"
       },
@@ -45,7 +51,8 @@
         "example": "慨嘆",
         "reading": "ガイタン",
         "meaning": {
-          "vi": "deploring, lamentation, regret, complaint"
+          "vi": "deploring, lamentation, regret, complaint",
+          "en": "deploring, lamentation, regret, complaint"
         },
         "romaji": "gaitan"
       }
@@ -55,7 +62,8 @@
         "example": "嘆く",
         "reading": "なげく",
         "meaning": {
-          "vi": "to lament, to grieve, to regret, to deplore"
+          "vi": "to lament, to grieve, to regret, to deplore",
+          "en": "to lament, to grieve, to regret, to deplore"
         },
         "romaji": "nageku"
       },
@@ -63,14 +71,18 @@
         "example": "嘆かわしい",
         "reading": "なげかわしい",
         "meaning": {
-          "vi": "lamentable, deplorable, regrettable, sad, wretched"
+          "vi": "lamentable, deplorable, regrettable, sad, wretched",
+          "en": "lamentable, deplorable, regrettable, sad, wretched"
         },
         "romaji": "nagekawashii"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "ノ",
@@ -87,5 +99,7 @@
   },
   "hanViet": [
     "thán"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Miệng 口 buông tiếng thở dài kéo dài, nên 嘆 là than thở, tiếc nuối."
 }

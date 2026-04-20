@@ -7,13 +7,17 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "tsuka, tsukaeru",
-    "meaning": "serve, do",
+    "meaning": {
+      "en": "serve, do",
+      "vi": "phục vụ, làm"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "仕方（しかた）",
         "meaning": {
-          "english": "way, method"
+          "en": "way, method",
+          "vi": "cách thức, phương pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "仕事（しごと）",
         "meaning": {
-          "english": "work"
+          "en": "work",
+          "vi": "công việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "仕方がない（しかたがない）",
         "meaning": {
-          "english": "it can't be helped"
+          "en": "it can't be helped",
+          "vi": "đành chịu, không còn cách nào khác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "仕組み（しくみ）",
         "meaning": {
-          "english": "structure"
+          "en": "structure",
+          "vi": "cấu trúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "給仕（きゅうじ）",
         "meaning": {
-          "english": "waiter"
+          "en": "waiter",
+          "vi": "người phục vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "仕上げる（しあげる）",
         "meaning": {
-          "english": "finish up"
+          "en": "finish up",
+          "vi": "hoàn tất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "仕返しする（しかえしする）",
         "meaning": {
-          "english": "revenge"
+          "en": "revenge",
+          "vi": "sự trả thù"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "仕送りする（しおくりする）",
         "meaning": {
-          "english": "remit"
+          "en": "remit",
+          "vi": "gửi tiền, nộp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "仕える（つかえる）",
         "meaning": {
-          "english": "serve [v.i.]"
+          "en": "serve [v.i.]",
+          "vi": "phục vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "宮仕え（みやづかえ）",
         "meaning": {
-          "english": "court service"
+          "en": "court service",
+          "vi": "phụng sự triều đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(goto)_06_j.opus",
@@ -271,7 +284,8 @@
     "kanji": {
       "character": "仕",
       "meaning": {
-        "english": "serve, do"
+        "en": "serve, do",
+        "vi": "phục vụ, làm"
       },
       "strokes": {
         "count": 5,
@@ -319,7 +333,8 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -340,7 +355,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "439",
     "strokeCount": 5,
-    "meaning": "attend, doing, official, serve",
+    "meaning": {
+      "en": "attend, doing, official, serve",
+      "vi": "tham dự, làm việc, quan chức, phục vụ"
+    },
     "kunyomi": [
       "つか.える"
     ],
@@ -353,7 +371,8 @@
         "example": "仕",
         "reading": "シ",
         "meaning": {
-          "en": "official, civil service"
+          "en": "official, civil service",
+          "vi": "quan chức, công vụ"
         },
         "romaji": "shi"
       },
@@ -361,7 +380,8 @@
         "example": "試合",
         "reading": "シアイ",
         "meaning": {
-          "en": "match, game, bout, contest"
+          "en": "match, game, bout, contest",
+          "vi": "trận đấu, cuộc chơi, hiệp đấu, cuộc thi"
         },
         "romaji": "shiai"
       },
@@ -369,7 +389,8 @@
         "example": "勤労奉仕",
         "reading": "キンロウホウシ",
         "meaning": {
-          "en": "labor service, labour service"
+          "en": "labor service, labour service",
+          "vi": "lao dịch, lao động phục vụ"
         },
         "romaji": "kinrouhoushi"
       },
@@ -377,7 +398,8 @@
         "example": "中仕",
         "reading": "ナカシ",
         "meaning": {
-          "en": "longshoreman, baggageman"
+          "en": "longshoreman, baggageman",
+          "vi": "phu bốc vác ở cảng, người khuân vác hành lý"
         },
         "romaji": "nakashi"
       },
@@ -385,7 +407,8 @@
         "example": "仕込み",
         "reading": "ジコミ",
         "meaning": {
-          "en": "learned at ..., acquired at ..."
+          "en": "learned at ..., acquired at ...",
+          "vi": "học được tại ..., tiếp thu được tại ..."
         },
         "romaji": "jikomi"
       },
@@ -393,6 +416,7 @@
         "example": "仕丁",
         "reading": "シチョウ",
         "meaning": {
+          "en": "men pressed into forced labor (ritsuryō system), palanquin bearer (Edo period)",
           "vi": "men pressed into forced labor (ritsuryō system), palanquin bearer (Edo period)"
         },
         "romaji": "shichou"
@@ -401,7 +425,8 @@
         "example": "致仕",
         "reading": "チシ",
         "meaning": {
-          "en": "resignation, seventy years of age"
+          "en": "resignation, seventy years of age",
+          "vi": "từ chức, tuổi bảy mươi"
         },
         "romaji": "chishi"
       }
@@ -411,7 +436,8 @@
         "example": "仕える",
         "reading": "つかえる",
         "meaning": {
-          "en": "to serve, to work for, to attend"
+          "en": "to serve, to work for, to attend",
+          "vi": "phục vụ, làm việc cho, hầu hạ"
         },
         "romaji": "tsukaeru"
       }
@@ -421,7 +447,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

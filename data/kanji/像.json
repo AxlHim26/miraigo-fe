@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "image",
+    "meaning": {
+      "en": "image",
+      "vi": "hình ảnh"
+    },
     "kstroke": 14,
     "examples": [
       {
         "japanese": "想像する（そうぞうする）",
         "meaning": {
-          "english": "imagine"
+          "english": "imagine",
+          "en": "imagine",
+          "vi": "tưởng tượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "現像する（げんぞうする）",
         "meaning": {
-          "english": "develop (film)"
+          "english": "develop (film)",
+          "en": "develop (film)",
+          "vi": "rửa (phim ảnh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "映像（えいぞう）",
         "meaning": {
-          "english": "image [n.]"
+          "english": "image [n.]",
+          "en": "image [n.]",
+          "vi": "hình ảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "画像（がぞう）",
         "meaning": {
-          "english": "image, picture [n.]"
+          "english": "image, picture [n.]",
+          "en": "image, picture [n.]",
+          "vi": "hình ảnh, bức ảnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "実像（じつぞう）",
         "meaning": {
-          "english": "one's real life"
+          "english": "one's real life",
+          "en": "one's real life",
+          "vi": "cuộc sống thực của ai đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "仏像（ぶつぞう）",
         "meaning": {
-          "english": "Buddhist statue"
+          "english": "Buddhist statue",
+          "en": "Buddhist statue",
+          "vi": "tượng Phật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "肖像（しょうぞう）",
         "meaning": {
-          "english": "portrait"
+          "english": "portrait",
+          "en": "portrait",
+          "vi": "chân dung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "銅像（どうぞう）",
         "meaning": {
-          "english": "bronze statue"
+          "english": "bronze statue",
+          "en": "bronze statue",
+          "vi": "tượng đồng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "自画像（じがぞう）",
         "meaning": {
-          "english": "self portrait"
+          "english": "self portrait",
+          "en": "self portrait",
+          "vi": "tự họa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ga)zou_06_i.opus",
@@ -224,7 +245,9 @@
     "kanji": {
       "character": "像",
       "meaning": {
-        "english": "image"
+        "english": "image",
+        "en": "image",
+        "vi": "hình ảnh"
       },
       "strokes": {
         "count": 14,
@@ -290,7 +313,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -311,7 +336,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "856",
     "strokeCount": 14,
-    "meaning": "statue, picture, image, figure, portrait",
+    "meaning": {
+      "en": "statue, picture, image, figure, portrait",
+      "vi": "tượng, tranh, hình ảnh, hình tượng, chân dung"
+    },
     "kunyomi": [],
     "onyomi": [
       "ゾウ"
@@ -321,7 +349,8 @@
         "example": "像",
         "reading": "ゾウ",
         "meaning": {
-          "vi": "image, figure, statue, picture, portrait, figure, form, shape, appearance, image"
+          "vi": "hình ảnh, hình tượng, tượng, tranh, chân dung, hình thể, hình dáng, vẻ ngoài",
+          "en": "image, figure, statue, picture, portrait, figure, form, shape, appearance, image"
         },
         "romaji": "zou"
       },
@@ -329,7 +358,8 @@
         "example": "像主",
         "reading": "ゾウシュ",
         "meaning": {
-          "vi": "subject (of a portrait or bust), a person posing for a portrait or bust, (historically) patron, someone who commissions a Buddhist temple or work of art"
+          "vi": "người làm mẫu (cho chân dung hoặc tượng bán thân), người được vẽ hoặc nặn tượng, (về lịch sử) người bảo trợ, người đặt làm chùa Phật giáo hoặc tác phẩm nghệ thuật",
+          "en": "subject (of a portrait or bust), a person posing for a portrait or bust, (historically) patron, someone who commissions a Buddhist temple or work of art"
         },
         "romaji": "zoushu"
       },
@@ -337,7 +367,8 @@
         "example": "実像",
         "reading": "ジツゾウ",
         "meaning": {
-          "vi": "real image, real form, real-life image, true picture, actual conditions, actual circumstances"
+          "vi": "hình ảnh thật, hình dạng thật, hình ảnh ngoài đời thực, bức tranh chân thực, điều kiện thực tế, hoàn cảnh thực tế",
+          "en": "real image, real form, real-life image, true picture, actual conditions, actual circumstances"
         },
         "romaji": "jitsuzou"
       },
@@ -345,7 +376,8 @@
         "example": "将来像",
         "reading": "ショウライゾウ",
         "meaning": {
-          "en": "vision of the future"
+          "en": "vision of the future",
+          "vi": "viễn cảnh tương lai"
         },
         "romaji": "shouraizou"
       }
@@ -356,7 +388,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

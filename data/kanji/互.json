@@ -7,13 +7,17 @@
     "grade": null,
     "hint_group": 5,
     "kunyomi": "taga, tagai",
-    "meaning": "reciprocal, mutual, each other",
+    "meaning": {
+      "en": "reciprocal, mutual, each other",
+      "vi": "lẫn nhau, tương hỗ, nhau"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "互角（ごかく）",
         "meaning": {
-          "english": "equality, evenness, par"
+          "en": "equality, evenness, par",
+          "vi": "sự bình đẳng, sự ngang bằng, ngang bằng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go-taga(i)_06_a.opus",
@@ -28,7 +32,8 @@
       {
         "japanese": "相互（そうご）",
         "meaning": {
-          "english": "mutual, reciprocal"
+          "en": "mutual, reciprocal",
+          "vi": "lẫn nhau, tương hỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go-taga(i)_06_b.opus",
@@ -43,7 +48,8 @@
       {
         "japanese": "交互に（こうごに）",
         "meaning": {
-          "english": "mutually, reciprocally"
+          "en": "mutually, reciprocally",
+          "vi": "lẫn nhau, qua lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go-taga(i)_06_c.opus",
@@ -58,7 +64,8 @@
       {
         "japanese": "互選する（ごせんする）",
         "meaning": {
-          "english": "elect by mutual vote"
+          "en": "elect by mutual vote",
+          "vi": "bầu bằng cách bỏ phiếu lẫn nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go-taga(i)_06_d.opus",
@@ -73,7 +80,8 @@
       {
         "japanese": "お互い（おたがい）",
         "meaning": {
-          "english": "mutual, reciprocal, each other"
+          "en": "mutual, reciprocal, each other",
+          "vi": "lẫn nhau, hỗ tương, lẫn nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go-taga(i)_06_e.opus",
@@ -88,7 +96,8 @@
       {
         "japanese": "互い違い（たがいちがい）",
         "meaning": {
-          "english": "alternate, alternation"
+          "en": "alternate, alternation",
+          "vi": "luân phiên, luân phiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/go-taga(i)_06_f.opus",
@@ -190,7 +199,8 @@
     "kanji": {
       "character": "互",
       "meaning": {
-        "english": "reciprocal, mutual, each other"
+        "en": "reciprocal, mutual, each other",
+        "vi": "lẫn nhau, tương hỗ, nhau"
       },
       "strokes": {
         "count": 4,
@@ -236,7 +246,8 @@
         "romaji": "ni"
       },
       "meaning": {
-        "english": "two"
+        "en": "two",
+        "vi": "hai"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ni0.svg",
@@ -257,7 +268,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "914",
     "strokeCount": 4,
-    "meaning": "mutually, reciprocally, together",
+    "meaning": {
+      "en": "mutually, reciprocally, together",
+      "vi": "lẫn nhau, qua lại, cùng nhau"
+    },
     "kunyomi": [
       "たが.い",
       "かたみ.に"
@@ -270,7 +284,8 @@
         "example": "互換",
         "reading": "ゴカン",
         "meaning": {
-          "vi": "interchange, transposition, compatible (e.g. PC)"
+          "en": "interchange, transposition, compatible (e.g. PC)",
+          "vi": "trao đổi, chuyển vị, tương thích (ví dụ: pc)"
         },
         "meaningVN": "trao đổi, chuyển vị, tương thích (ví dụ: pc)",
         "hanViet": "hỗ hoán",
@@ -281,7 +296,8 @@
         "example": "互角",
         "reading": "ゴカク",
         "meaning": {
-          "vi": "equal (in ability), even, evenly matched, well-matched, on par (with)"
+          "en": "equal (in ability), even, evenly matched, well-matched, on par (with)",
+          "vi": "ngang nhau (về khả năng), ngang bằng, ngang bằng, ngang bằng, ngang bằng (với)"
         },
         "meaningVN": "ngang nhau (về khả năng), ngang bằng, ngang bằng, ngang bằng, ngang bằng (với)",
         "hanViet": "hỗ cốc",
@@ -294,7 +310,8 @@
         "example": "互い",
         "reading": "たがい",
         "meaning": {
-          "en": "each other, one another"
+          "en": "each other, one another",
+          "vi": "nhau, lẫn nhau"
         },
         "meaningVN": "nhau, lẫn nhau",
         "hanViet": "hỗ い",
@@ -305,7 +322,8 @@
         "example": "互いに",
         "reading": "たがいに",
         "meaning": {
-          "vi": "mutually, with each other, reciprocally, together"
+          "en": "mutually, with each other, reciprocally, together",
+          "vi": "cùng nhau, với nhau, qua lại, cùng nhau"
         },
         "meaningVN": "cùng nhau, với nhau, qua lại, cùng nhau",
         "hanViet": "hỗ い に",
@@ -316,7 +334,8 @@
         "example": "互に",
         "reading": "かたみに",
         "meaning": {
-          "vi": "mutually, reciprocally, together"
+          "en": "mutually, reciprocally, together",
+          "vi": "cùng nhau, qua lại, cùng nhau"
         },
         "meaningVN": "cùng nhau, qua lại, cùng nhau",
         "hanViet": "hỗ に",
@@ -326,7 +345,10 @@
     ],
     "radical": {
       "symbol": "二",
-      "meaning": "two"
+      "meaning": {
+        "en": "two",
+        "vi": "hai"
+      }
     },
     "parts": [
       "ヨ",

@@ -7,13 +7,17 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "koto",
-    "meaning": "affair, abstract thing",
+    "meaning": {
+      "en": "affair, abstract thing",
+      "vi": "sự việc, điều trừu tượng"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "事故（じこ）",
         "meaning": {
-          "english": "accident"
+          "en": "accident",
+          "vi": "tai nạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_a.opus",
@@ -28,7 +32,8 @@
       {
         "japanese": "食事（しょくじ）",
         "meaning": {
-          "english": "meal"
+          "en": "meal",
+          "vi": "bữa ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_b.opus",
@@ -43,7 +48,8 @@
       {
         "japanese": "用事（ようじ）",
         "meaning": {
-          "english": "business, engagement"
+          "en": "business, engagement",
+          "vi": "kinh doanh, sự gắn kết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_c.opus",
@@ -58,7 +64,8 @@
       {
         "japanese": "火事（かじ）",
         "meaning": {
-          "english": "fire"
+          "en": "fire",
+          "vi": "ngọn lửa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_d.opus",
@@ -73,7 +80,8 @@
       {
         "japanese": "返事（へんじ）",
         "meaning": {
-          "english": "reply"
+          "en": "reply",
+          "vi": "hồi đáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_e.opus",
@@ -88,7 +96,8 @@
       {
         "japanese": "工事中（こうじちゅう）",
         "meaning": {
-          "english": "under construction"
+          "en": "under construction",
+          "vi": "đang được xây dựng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_f.opus",
@@ -103,7 +112,8 @@
       {
         "japanese": "大事な（だいじな）",
         "meaning": {
-          "english": "important, valuable"
+          "en": "important, valuable",
+          "vi": "quan trọng, có giá trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_g.opus",
@@ -118,7 +128,8 @@
       {
         "japanese": "お大事に（おだいじに）",
         "meaning": {
-          "english": "take care (to a sick person)"
+          "en": "take care (to a sick person)",
+          "vi": "chăm sóc (với người bị bệnh)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_h.opus",
@@ -133,7 +144,8 @@
       {
         "japanese": "好事家（こうずか）",
         "meaning": {
-          "english": "dilettante"
+          "en": "dilettante",
+          "vi": "tài tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_i.opus",
@@ -148,7 +160,8 @@
       {
         "japanese": "事（こと）",
         "meaning": {
-          "english": "(abstract) thing"
+          "en": "(abstract) thing",
+          "vi": "(trừu tượng) điều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_j.opus",
@@ -163,7 +176,8 @@
       {
         "japanese": "仕事（しごと）",
         "meaning": {
-          "english": "work"
+          "en": "work",
+          "vi": "công việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-koto_06_k.opus",
@@ -355,7 +369,8 @@
     "kanji": {
       "character": "事",
       "meaning": {
-        "english": "affair, abstract thing"
+        "en": "affair, abstract thing",
+        "vi": "sự việc, điều trừu tượng"
       },
       "strokes": {
         "count": 8,
@@ -409,7 +424,8 @@
         "romaji": "tatebou"
       },
       "meaning": {
-        "english": "vertical stroke"
+        "en": "vertical stroke",
+        "vi": "nét sổ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tatebou0.svg",
@@ -430,7 +446,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "18",
     "strokeCount": 8,
-    "meaning": "matter, thing, fact, business, reason, possibly",
+    "meaning": {
+      "en": "matter, thing, fact, business, reason, possibly",
+      "vi": "sự việc, đồ vật, sự thật, công việc, lý do, có lẽ"
+    },
     "kunyomi": [
       "こと",
       "つか.う",
@@ -445,7 +464,8 @@
         "example": "事",
         "reading": "ジ",
         "meaning": {
-          "vi": "individual concrete phenomenon (as opposed to a general principle)"
+          "en": "individual concrete phenomenon (as opposed to a general principle)",
+          "vi": "hiện tượng cụ thể riêng lẻ (trái ngược với nguyên tắc chung)"
         },
         "meaningVN": "hiện tượng cụ thể riêng lẻ (trái ngược với nguyên tắc chung)",
         "hanViet": "sự",
@@ -456,7 +476,8 @@
         "example": "事業",
         "reading": "ジギョウ",
         "meaning": {
-          "vi": "business, enterprise, venture, (commercial) activity, (business) operation, industry, (social) project, undertaking, enterprise, work, activity, program, service"
+          "en": "business, enterprise, venture, (commercial) activity, (business) operation, industry, (social) project, undertaking, enterprise, work, activity, program, service",
+          "vi": "kinh doanh, doanh nghiệp, liên doanh, hoạt động (thương mại), hoạt động (kinh doanh), ngành công nghiệp, dự án (xã hội), cam kết, doanh nghiệp, công việc, hoạt động, chương trình, dịch vụ"
         },
         "meaningVN": "kinh doanh, doanh nghiệp, liên doanh, hoạt động (thương mại), hoạt động (kinh doanh), ngành công nghiệp, dự án (xã hội), cam kết, doanh nghiệp, công việc, hoạt động, chương trình, dịch vụ",
         "hanViet": "sự nghiệp",
@@ -467,7 +488,8 @@
         "example": "商事",
         "reading": "ショウジ",
         "meaning": {
-          "en": "commercial affairs"
+          "en": "commercial affairs",
+          "vi": "công việc thương mại"
         },
         "meaningVN": "công việc thương mại",
         "hanViet": "thương sự",
@@ -478,7 +500,8 @@
         "example": "有事",
         "reading": "ユウジ",
         "meaning": {
-          "en": "emergency"
+          "en": "emergency",
+          "vi": "khẩn cấp"
         },
         "meaningVN": "khẩn cấp",
         "hanViet": "dựu sự",
@@ -491,7 +514,8 @@
         "example": "事",
         "reading": "こと",
         "meaning": {
-          "vi": "thing, matter, incident, occurrence, event, something serious, trouble, crisis, circumstances, situation, state of affairs, work, business, affair, after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to, nominalizing suffix, pretending to ..., playing make-believe ..., alias, also known as, otherwise known as, or, necessity, need, you should ..., I advise that you ..., it's important to ..."
+          "en": "thing, matter, incident, occurrence, event, something serious, trouble, crisis, circumstances, situation, state of affairs, work, business, affair, after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to, nominalizing suffix, pretending to ..., playing make-believe ..., alias, also known as, otherwise known as, or, necessity, need, you should ..., I advise that you ..., it's important to ...",
+          "vi": "điều, vấn đề, sự cố, sự kiện, sự kiện, điều gì đó nghiêm trọng, rắc rối, khủng hoảng, hoàn cảnh, tình huống, trạng thái, công việc, kinh doanh, ngoại tình, sau một từ biến thể, tạo ra một cụm danh từ chỉ điều gì đó mà người nói không cảm thấy gần gũi, danh nghĩa hóa hậu tố, giả vờ ..., chơi trò giả vờ ..., bí danh, còn được gọi là, còn được gọi là, hoặc, cần thiết, cần, bạn nên ..., tôi khuyên bạn ..., điều quan trọng là ..."
         },
         "meaningVN": "điều, vấn đề, sự cố, sự kiện, sự kiện, điều gì đó nghiêm trọng, rắc rối, khủng hoảng, hoàn cảnh, tình huống, trạng thái, công việc, kinh doanh, ngoại tình, sau một từ biến thể, tạo ra một cụm danh từ chỉ điều gì đó mà người nói không cảm thấy gần gũi, danh nghĩa hóa hậu tố, giả vờ ..., chơi trò giả vờ ..., bí danh, còn được gọi là, còn được gọi là, hoặc, cần thiết, cần, bạn nên ..., tôi khuyên bạn ..., điều quan trọng là ...",
         "hanViet": "sự",
@@ -502,7 +526,8 @@
         "example": "事柄",
         "reading": "ことがら",
         "meaning": {
-          "en": "matter, thing, affair, circumstance"
+          "en": "matter, thing, affair, circumstance",
+          "vi": "sự việc, sự việc, sự việc, hoàn cảnh"
         },
         "meaningVN": "sự việc, sự việc, sự việc, hoàn cảnh",
         "hanViet": "sự bính",
@@ -513,7 +538,8 @@
         "example": "神事",
         "reading": "しんじ",
         "meaning": {
-          "en": "Shinto ritual"
+          "en": "Shinto ritual",
+          "vi": "nghi lễ thần đạo"
         },
         "meaningVN": "nghi lễ thần đạo",
         "hanViet": "thần sự",
@@ -524,7 +550,8 @@
         "example": "いい事",
         "reading": "いいこと",
         "meaning": {
-          "vi": "good thing, nice thing, good excuse, good grounds, good opportunity, interjection used to impress an idea or to urge a response"
+          "en": "good thing, nice thing, good excuse, good grounds, good opportunity, interjection used to impress an idea or to urge a response",
+          "vi": "điều tốt, điều tốt, lý do chính đáng, căn cứ tốt, cơ hội tốt, thán từ dùng để gây ấn tượng với một ý tưởng hoặc thúc giục một phản ứng"
         },
         "meaningVN": "điều tốt, điều tốt, lý do chính đáng, căn cứ tốt, cơ hội tốt, thán từ dùng để gây ấn tượng với một ý tưởng hoặc thúc giục một phản ứng",
         "hanViet": "い い sự",
@@ -535,7 +562,8 @@
         "example": "仕える",
         "reading": "つかえる",
         "meaning": {
-          "en": "to serve, to work for, to attend"
+          "en": "to serve, to work for, to attend",
+          "vi": "phục vụ, làm việc, tham dự"
         },
         "meaningVN": "phục vụ, làm việc, tham dự",
         "hanViet": "sĩ え る",
@@ -545,7 +573,10 @@
     ],
     "radical": {
       "symbol": "亅",
-      "meaning": "hook"
+      "meaning": {
+        "en": "hook",
+        "vi": "móc"
+      }
     },
     "parts": [
       "ヨ",
@@ -561,6 +592,8 @@
   "hanViet": [
     "sự"
   ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Nhiều nét gom vào một đầu việc phải xử lý, nên nhớ là sự việc, công việc.",
   "meaningVN": "chuyện, điều trừu tượng",
   "hanVietExplain": "sự: việc, làm việc, thờ"
 }

@@ -5,14 +5,20 @@
     "query": "㓁",
     "found": true,
     "strokeCount": 4,
-    "meaning": "lưới",
+    "meaning": {
+      "en": "net",
+      "vi": "lưới"
+    },
     "kunyomi": [],
     "onyomi": [],
     "onyomiExamples": [],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冖",
-      "meaning": "bìa"
+      "meaning": {
+        "en": "cover",
+        "vi": "bìa"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/13505_frames.png",
@@ -28,7 +34,7 @@
     "en": null
   },
   "meaning": {
-    "vi": "lưới",
-    "en": "lưới"
+    "en": "net",
+    "vi": "lưới"
   }
 }

@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "futo, futoru, futoi, futotta, futosa",
-    "meaning": "great, thick",
+    "meaning": {
+      "en": "great, thick",
+      "vi": "to, dày"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "太陽（たいよう）",
         "meaning": {
-          "english": "sun"
+          "en": "sun",
+          "vi": "mặt trời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "太鼓（たいこ）",
         "meaning": {
-          "english": "drum"
+          "en": "drum",
+          "vi": "trống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "太平洋（たいへいよう）",
         "meaning": {
-          "english": "Pacific Ocean"
+          "en": "Pacific Ocean",
+          "vi": "Thái Bình Dương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "太古（たいこ）",
         "meaning": {
-          "english": "ancient times"
+          "en": "ancient times",
+          "vi": "thời cổ đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "丸太（まるた）",
         "meaning": {
-          "english": "log"
+          "en": "log",
+          "vi": "khúc gỗ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "太る（ふとる）",
         "meaning": {
-          "english": "become fat"
+          "en": "become fat",
+          "vi": "béo lên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "太い（ふとい）",
         "meaning": {
-          "english": "fat, thick"
+          "en": "fat, thick",
+          "vi": "béo, dày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/futo(i)_06_g.opus",
@@ -251,7 +261,8 @@
     "kanji": {
       "character": "太",
       "meaning": {
-        "english": "great, thick"
+        "en": "great, thick",
+        "vi": "to, dày"
       },
       "strokes": {
         "count": 4,
@@ -297,7 +308,8 @@
         "romaji": "dai"
       },
       "meaning": {
-        "english": "large, big"
+        "en": "large, big",
+        "vi": "lớn, to"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/dai0.svg",
@@ -318,7 +330,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "552",
     "strokeCount": 4,
-    "meaning": "plump, thick, big around",
+    "meaning": {
+      "en": "plump, thick, big around",
+      "vi": "mập, dày, to bè"
+    },
     "kunyomi": [
       "ふと.い",
       "ふと.る"
@@ -332,7 +347,8 @@
         "example": "大山",
         "reading": "タイザン",
         "meaning": {
-          "en": "great mountain, large mountain"
+          "en": "great mountain, large mountain",
+          "vi": "núi lớn"
         },
         "romaji": "taizan"
       },
@@ -340,7 +356,8 @@
         "example": "太鼓",
         "reading": "タイコ",
         "meaning": {
-          "en": "drum"
+          "en": "drum",
+          "vi": "trống"
         },
         "romaji": "taiko"
       },
@@ -348,7 +365,8 @@
         "example": "太太",
         "reading": "タイタイ",
         "meaning": {
-          "en": "wife"
+          "en": "wife",
+          "vi": "vợ"
         },
         "romaji": "taitai"
       },
@@ -356,6 +374,7 @@
         "example": "馬太",
         "reading": "マタイ",
         "meaning": {
+          "en": "Matthew (the Apostle)",
           "vi": "Matthew (the Apostle)"
         },
         "romaji": "matai"
@@ -364,7 +383,8 @@
         "example": "大山",
         "reading": "タイザン",
         "meaning": {
-          "en": "great mountain, large mountain"
+          "en": "great mountain, large mountain",
+          "vi": "núi lớn"
         },
         "romaji": "taizan"
       },
@@ -372,7 +392,8 @@
         "example": "太鼓",
         "reading": "タイコ",
         "meaning": {
-          "en": "drum"
+          "en": "drum",
+          "vi": "trống"
         },
         "romaji": "taiko"
       },
@@ -380,6 +401,7 @@
         "example": "羽太",
         "reading": "ハタ",
         "meaning": {
+          "en": "sea basses, groupers",
           "vi": "sea basses, groupers"
         },
         "romaji": "hata"
@@ -388,6 +410,7 @@
         "example": "赤羽太",
         "reading": "アカハタ",
         "meaning": {
+          "en": "blacktip grouper (species of fish, Epinephelus fasciatus)",
           "vi": "blacktip grouper (species of fish, Epinephelus fasciatus)"
         },
         "romaji": "akahata"
@@ -398,6 +421,7 @@
         "example": "太い",
         "reading": "ふとい",
         "meaning": {
+          "en": "fat, thick, deep (of a voice), thick, sonorous, daring, shameless, brazen, audacious",
           "vi": "fat, thick, deep (of a voice), thick, sonorous, daring, shameless, brazen, audacious"
         },
         "romaji": "futoi"
@@ -406,6 +430,7 @@
         "example": "太藺",
         "reading": "ふとい",
         "meaning": {
+          "en": "softstem bulrush (Scirpus tabernaemontani)",
           "vi": "softstem bulrush (Scirpus tabernaemontani)"
         },
         "romaji": "futoi"
@@ -414,6 +439,7 @@
         "example": "太る",
         "reading": "ふとる",
         "meaning": {
+          "en": "to put on weight, to gain weight, to grow fat, to get stout",
           "vi": "to put on weight, to gain weight, to grow fat, to get stout"
         },
         "romaji": "futoru"
@@ -421,7 +447,10 @@
     ],
     "radical": {
       "symbol": "大",
-      "meaning": "big, very"
+      "meaning": {
+        "en": "big, very",
+        "vi": "to, rất"
+      }
     },
     "parts": [
       "丶",
@@ -434,5 +463,7 @@
   },
   "hanViet": [
     "thái"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: chữ 大 thêm một chấm như bụng phệ ra, nên 太 là to, béo, lớn."
 }

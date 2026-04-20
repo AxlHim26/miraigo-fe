@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "ane",
-    "meaning": "older sister",
+    "meaning": {
+      "en": "older sister",
+      "vi": "chị gái"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "姉妹（しまい）",
         "meaning": {
-          "english": "sisters"
+          "english": "sisters",
+          "en": "sisters",
+          "vi": "chị em gái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ane_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "姉（あね）",
         "meaning": {
-          "english": "one's own older sister"
+          "english": "one's own older sister",
+          "en": "one's own older sister",
+          "vi": "one's own older sister"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ane_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "*お姉さん（おねえさん）",
         "meaning": {
-          "english": "older sister [hon.]"
+          "english": "older sister [hon.]",
+          "en": "older sister [hon.]",
+          "vi": "chị gái (kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ane_06_c.opus",
@@ -181,7 +190,9 @@
     "kanji": {
       "character": "姉",
       "meaning": {
-        "english": "older sister"
+        "english": "older sister",
+        "en": "older sister",
+        "vi": "chị gái"
       },
       "strokes": {
         "count": 8,
@@ -235,7 +246,9 @@
         "romaji": "onnahen"
       },
       "meaning": {
-        "english": "woman"
+        "english": "woman",
+        "en": "woman",
+        "vi": "phụ nữ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onnahen0.svg",
@@ -256,7 +269,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1473",
     "strokeCount": 8,
-    "meaning": "elder sister",
+    "meaning": {
+      "en": "elder sister",
+      "vi": "chị gái"
+    },
     "kunyomi": [
       "あね",
       "はは"
@@ -269,7 +285,8 @@
         "example": "姉",
         "reading": "シ",
         "meaning": {
-          "en": "honorific suffix used after the name of a woman of equal or higher status"
+          "en": "honorific suffix used after the name of a woman of equal or higher status",
+          "vi": "hậu tố kính ngữ dùng sau tên một phụ nữ có địa vị ngang hoặc cao hơn"
         },
         "romaji": "shi"
       },
@@ -277,7 +294,8 @@
         "example": "姉妹",
         "reading": "シマイ",
         "meaning": {
-          "en": "sisters"
+          "en": "sisters",
+          "vi": "chị em gái"
         },
         "romaji": "shimai"
       },
@@ -285,7 +303,8 @@
         "example": "実姉",
         "reading": "ジッシ",
         "meaning": {
-          "en": "biological older sister, real elder sister"
+          "en": "biological older sister, real elder sister",
+          "vi": "chị gái ruột"
         },
         "romaji": "jisshi"
       },
@@ -293,7 +312,8 @@
         "example": "兄姉",
         "reading": "ケイシ",
         "meaning": {
-          "en": "older brother and older sister"
+          "en": "older brother and older sister",
+          "vi": "anh trai và chị gái"
         },
         "romaji": "keishi"
       }
@@ -303,7 +323,8 @@
         "example": "姉",
         "reading": "あね",
         "meaning": {
-          "en": "older sister, elder sister"
+          "en": "older sister, elder sister",
+          "vi": "chị gái"
         },
         "romaji": "ane"
       },
@@ -311,7 +332,8 @@
         "example": "姉さん",
         "reading": "ねえさん",
         "meaning": {
-          "en": "older sister, elder sister, young lady, miss, ma'am"
+          "en": "older sister, elder sister, young lady, miss, ma'am",
+          "vi": "chị gái, cô gái trẻ, cô, quý bà"
         },
         "romaji": "neesan"
       },
@@ -319,14 +341,18 @@
         "example": "大姉",
         "reading": "おおあね",
         "meaning": {
-          "en": "eldest sister"
+          "en": "eldest sister",
+          "vi": "chị cả"
         },
         "romaji": "ooane"
       }
     ],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": {
+        "en": "woman, female",
+        "vi": "phụ nữ, nữ giới"
+      }
     },
     "parts": [
       "亠",
@@ -340,5 +366,7 @@
   },
   "hanViet": [
     "tỷ"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: Cô gái 女 đứng trước em trong gia đình, nên 姉 là chị gái."
 }

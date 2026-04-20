@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "kata, katachi",
-    "meaning": "shape",
+    "meaning": {
+      "en": "shape",
+      "vi": "hình dạng"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "形容詞（けいようし）",
         "meaning": {
-          "english": "adjective"
+          "english": "adjective",
+          "en": "adjective",
+          "vi": "tính từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "形式（けいしき）",
         "meaning": {
-          "english": "form, format"
+          "english": "form, format",
+          "en": "form, format",
+          "vi": "hình thức, định dạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "正方形（せいほうけい）",
         "meaning": {
-          "english": "square"
+          "english": "square",
+          "en": "square",
+          "vi": "hình vuông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "長方形（ちょうほうけい）",
         "meaning": {
-          "english": "rectangle"
+          "english": "rectangle",
+          "en": "rectangle",
+          "vi": "hình chữ nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "形成する（けいせいする）",
         "meaning": {
-          "english": "form [v.t.]"
+          "english": "form [v.t.]",
+          "en": "form [v.t.]",
+          "vi": "tạo thành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "変形する（へんけいする）",
         "meaning": {
-          "english": "be transformed, transform"
+          "english": "be transformed, transform",
+          "en": "be transformed, transform",
+          "vi": "biến đổi, biến dạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "人形（にんぎょう）",
         "meaning": {
-          "english": "doll"
+          "english": "doll",
+          "en": "doll",
+          "vi": "búp bê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "形見（かたみ）",
         "meaning": {
-          "english": "memento"
+          "english": "memento",
+          "en": "memento",
+          "vi": "kỷ vật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "手形（てがた）",
         "meaning": {
-          "english": "draft, promissory note"
+          "english": "draft, promissory note",
+          "en": "draft, promissory note",
+          "vi": "hối phiếu, giấy nợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "卵形（たまごがた）",
         "meaning": {
-          "english": "oval, egg-shaped"
+          "english": "oval, egg-shaped",
+          "en": "oval, egg-shaped",
+          "vi": "hình bầu dục, hình trứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "形（かたち）",
         "meaning": {
-          "english": "shape"
+          "english": "shape",
+          "en": "shape",
+          "vi": "hình dạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katachi_06_k.opus",
@@ -296,7 +321,9 @@
     "kanji": {
       "character": "形",
       "meaning": {
-        "english": "shape"
+        "english": "shape",
+        "en": "shape",
+        "vi": "hình dạng"
       },
       "strokes": {
         "count": 7,
@@ -348,7 +375,9 @@
         "romaji": "sanzukuri"
       },
       "meaning": {
-        "english": "hair-style, light rays"
+        "english": "hair-style, light rays",
+        "en": "hair-style, light rays",
+        "vi": "kiểu tóc, tia sáng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/sanzukuri0.svg",
@@ -369,7 +398,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "418",
     "strokeCount": 7,
-    "meaning": "shape, form, style",
+    "meaning": {
+      "en": "shape, form, style",
+      "vi": "hình dạng, hình thức, kiểu dáng"
+    },
     "kunyomi": [
       "かた",
       "-がた",
@@ -385,7 +417,8 @@
         "example": "形",
         "reading": "ケイ",
         "meaning": {
-          "vi": "form, adjective, i-adjective (in Japanese)"
+          "vi": "form, adjective, i-adjective (in Japanese)",
+          "en": "form, adjective, i-adjective (in Japanese)"
         },
         "romaji": "kei"
       },
@@ -393,7 +426,8 @@
         "example": "形式",
         "reading": "ケイシキ",
         "meaning": {
-          "vi": "form (as opposed to substance), format, form, style, manner, formality, form, mode, form, form (bilinear, quadratic, etc.)"
+          "vi": "form (as opposed to substance), format, form, style, manner, formality, form, mode, form, form (bilinear, quadratic, etc.)",
+          "en": "form (as opposed to substance), format, form, style, manner, formality, form, mode, form, form (bilinear, quadratic, etc.)"
         },
         "romaji": "keishiki"
       },
@@ -401,7 +435,8 @@
         "example": "造形",
         "reading": "ゾウケイ",
         "meaning": {
-          "vi": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling"
+          "vi": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling",
+          "en": "molding, moulding, shaping, forming, modelling (i.e. plastic arts), modeling"
         },
         "romaji": "zoukei"
       },
@@ -409,7 +444,8 @@
         "example": "体型",
         "reading": "タイケイ",
         "meaning": {
-          "vi": "figure, body shape, build, physique, form, somatotype, biotype, habitus, (type of) physique"
+          "vi": "figure, body shape, build, physique, form, somatotype, biotype, habitus, (type of) physique",
+          "en": "figure, body shape, build, physique, form, somatotype, biotype, habitus, (type of) physique"
         },
         "romaji": "taikei"
       },
@@ -417,7 +453,8 @@
         "example": "形相",
         "reading": "ギョウソウ",
         "meaning": {
-          "vi": "look (esp. an angry or upset look), expression"
+          "vi": "look (esp. an angry or upset look), expression",
+          "en": "look (esp. an angry or upset look), expression"
         },
         "romaji": "gyousou"
       },
@@ -425,7 +462,8 @@
         "example": "大仰",
         "reading": "オオギョウ",
         "meaning": {
-          "en": "exaggerated, overblown, overdone"
+          "en": "exaggerated, overblown, overdone",
+          "vi": "cường điệu, làm quá"
         },
         "romaji": "oogyou"
       },
@@ -433,7 +471,8 @@
         "example": "阿形",
         "reading": "アギョウ",
         "meaning": {
-          "vi": "open-mouthed form (statue with open mouth, symbolizing the \"a\" half of \"aum\")"
+          "vi": "open-mouthed form (statue with open mouth, symbolizing the \"a\" half of \"aum\")",
+          "en": "open-mouthed form (statue with open mouth, symbolizing the \"a\" half of \"aum\")"
         },
         "romaji": "agyou"
       }
@@ -443,7 +482,8 @@
         "example": "形",
         "reading": "かた",
         "meaning": {
-          "vi": "shape, form, style, security, collateral, obverse of an old zeni coin"
+          "vi": "shape, form, style, security, collateral, obverse of an old zeni coin",
+          "en": "shape, form, style, security, collateral, obverse of an old zeni coin"
         },
         "romaji": "kata"
       },
@@ -451,7 +491,8 @@
         "example": "形",
         "reading": "かたち",
         "meaning": {
-          "vi": "form, shape, figure, visage"
+          "vi": "form, shape, figure, visage",
+          "en": "form, shape, figure, visage"
         },
         "romaji": "katachi"
       },
@@ -459,7 +500,8 @@
         "example": "借金のカタ",
         "reading": "しゃっきんのカタ",
         "meaning": {
-          "en": "security for a loan, collateral"
+          "en": "security for a loan, collateral",
+          "vi": "tài sản thế chấp"
         },
         "romaji": "shakkinnokata"
       },
@@ -467,7 +509,8 @@
         "example": "館",
         "reading": "やかた",
         "meaning": {
-          "vi": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)"
+          "vi": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)",
+          "en": "mansion, palace, manor house, castle, nobleman, noblewoman, dignitary, cabin (on a boat, carriage, etc.)"
         },
         "romaji": "yakata"
       },
@@ -475,7 +518,8 @@
         "example": "形",
         "reading": "かたち",
         "meaning": {
-          "vi": "form, shape, figure, visage"
+          "vi": "form, shape, figure, visage",
+          "en": "form, shape, figure, visage"
         },
         "romaji": "katachi"
       },
@@ -483,7 +527,8 @@
         "example": "形作る",
         "reading": "かたちづくる",
         "meaning": {
-          "vi": "to form, to shape, to make, to mold, to mould, to build up"
+          "vi": "to form, to shape, to make, to mold, to mould, to build up",
+          "en": "to form, to shape, to make, to mold, to mould, to build up"
         },
         "romaji": "katachizukuru"
       },
@@ -491,7 +536,8 @@
         "example": "顔かたち",
         "reading": "かおかたち",
         "meaning": {
-          "en": "features, looks"
+          "en": "features, looks",
+          "vi": "đường nét, diện mạo"
         },
         "romaji": "kaokatachi"
       },
@@ -499,7 +545,8 @@
         "example": "姿形",
         "reading": "すがたかたち",
         "meaning": {
-          "vi": "appearance, figure, shape, form"
+          "vi": "appearance, figure, shape, form",
+          "en": "appearance, figure, shape, form"
         },
         "romaji": "sugatakatachi"
       },
@@ -507,7 +554,8 @@
         "example": "形",
         "reading": "なり",
         "meaning": {
-          "vi": "style, way, shape, form, appearance, state"
+          "vi": "style, way, shape, form, appearance, state",
+          "en": "style, way, shape, form, appearance, state"
         },
         "romaji": "nari"
       },
@@ -515,7 +563,8 @@
         "example": "形体",
         "reading": "なりかたち",
         "meaning": {
-          "vi": "one's appearance"
+          "vi": "one's appearance",
+          "en": "one's appearance"
         },
         "romaji": "narikatachi"
       },
@@ -523,7 +572,8 @@
         "example": "生成り",
         "reading": "きなり",
         "meaning": {
-          "en": "unbleached cloth, unbleached colour (color), unbleached, undyed"
+          "en": "unbleached cloth, unbleached colour (color), unbleached, undyed",
+          "vi": "vải chưa tẩy, màu chưa tẩy, chưa nhuộm"
         },
         "romaji": "kinari"
       },
@@ -531,14 +581,18 @@
         "example": "鉤状",
         "reading": "かぎなり",
         "meaning": {
-          "vi": "hooklike, hook-shaped, unciform"
+          "vi": "hooklike, hook-shaped, unciform",
+          "en": "hooklike, hook-shaped, unciform"
         },
         "romaji": "kaginari"
       }
     ],
     "radical": {
       "symbol": "彡",
-      "meaning": "bristle, beard"
+      "meaning": {
+        "en": "bristle, beard",
+        "vi": "lông cứng, râu"
+      }
     },
     "parts": [
       "ノ",
@@ -554,5 +608,7 @@
   },
   "hanViet": [
     "hình"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: vật đã được tạo xong thì lộ ra hình dáng và đường nét."
 }

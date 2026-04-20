@@ -5,7 +5,10 @@
     "query": "亊",
     "found": true,
     "strokeCount": 7,
-    "meaning": "affair, matter, business, to serve, accident, incident",
+    "meaning": {
+      "en": "affair, matter, business, to serve, accident, incident",
+      "vi": "sự việc, vấn đề, công việc, phụng sự, tai nạn, sự cố"
+    },
     "kunyomi": [
       "こと",
       "つか.う",
@@ -20,7 +23,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亅",
-      "meaning": "hook"
+      "meaning": {
+        "en": "hook",
+        "vi": "móc"
+      }
     },
     "parts": [
       "ヨ",

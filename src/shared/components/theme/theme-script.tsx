@@ -1,3 +1,5 @@
+import Script from "next/script";
+
 const script = `(() => {
   try {
     const stored = localStorage.getItem("app-theme");
@@ -11,5 +13,9 @@ const script = `(() => {
 })();`;
 
 export default function ThemeScript() {
-  return <script dangerouslySetInnerHTML={{ __html: script }} />;
+  return (
+    <Script id="theme-script" strategy="beforeInteractive">
+      {script}
+    </Script>
+  );
 }

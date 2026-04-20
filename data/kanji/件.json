@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "matter",
+    "meaning": {
+      "en": "matter",
+      "vi": "vấn đề, sự việc"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "件（けん）",
         "meaning": {
-          "english": "incident"
+          "english": "incident",
+          "en": "incident",
+          "vi": "sự cố, vụ việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "事件（じけん）",
         "meaning": {
-          "english": "incident, criminal case"
+          "english": "incident, criminal case",
+          "en": "incident, criminal case",
+          "vi": "vụ việc, vụ án hình sự"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "条件（じょうけん）",
         "meaning": {
-          "english": "condition [n.]"
+          "english": "condition [n.]",
+          "en": "condition [n.]",
+          "vi": "điều kiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "用件（ようけん）",
         "meaning": {
-          "english": "(one's) business, concerns"
+          "english": "(one's) business, concerns",
+          "en": "(one's) business, concerns",
+          "vi": "công việc, mối bận tâm (của ai đó)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "人件費（じんけんひ）",
         "meaning": {
-          "english": "cost of labor"
+          "english": "cost of labor",
+          "en": "cost of labor",
+          "vi": "chi phí lao động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)ken_06_e.opus",
@@ -182,7 +195,9 @@
     "kanji": {
       "character": "件",
       "meaning": {
-        "english": "matter"
+        "english": "matter",
+        "en": "matter",
+        "vi": "vấn đề, sự việc"
       },
       "strokes": {
         "count": 6,
@@ -232,7 +247,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -253,7 +270,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "212",
     "strokeCount": 6,
-    "meaning": "affair, case, matter, item",
+    "meaning": {
+      "en": "affair, case, matter, item",
+      "vi": "sự việc, vụ việc, vấn đề, hạng mục"
+    },
     "kunyomi": [
       "くだん"
     ],
@@ -265,7 +285,8 @@
         "example": "件",
         "reading": "ケン",
         "meaning": {
-          "en": "matter, affair, case, item, subject, counter for (received) emails, text messages, voicemail messages, etc., counter for accounts (on a website, email service, etc.)"
+          "en": "matter, affair, case, item, subject, counter for (received) emails, text messages, voicemail messages, etc., counter for accounts (on a website, email service, etc.)",
+          "vi": "vấn đề, sự việc, vụ việc, hạng mục, chủ đề, lượng từ cho email/tin nhắn/thư thoại đã nhận, lượng từ cho tài khoản (trên website, dịch vụ email, v.v.)"
         },
         "romaji": "ken"
       },
@@ -273,7 +294,8 @@
         "example": "件数",
         "reading": "ケンスウ",
         "meaning": {
-          "en": "number of cases, incidents, items, messages, accounts, etc."
+          "en": "number of cases, incidents, items, messages, accounts, etc.",
+          "vi": "số vụ việc, sự cố, hạng mục, tin nhắn, tài khoản, v.v."
         },
         "romaji": "kensuu"
       },
@@ -281,7 +303,8 @@
         "example": "刑事事件",
         "reading": "ケイジジケン",
         "meaning": {
-          "en": "criminal case"
+          "en": "criminal case",
+          "vi": "vụ án hình sự"
         },
         "romaji": "keijijiken"
       },
@@ -289,7 +312,8 @@
         "example": "要件",
         "reading": "ヨウケン",
         "meaning": {
-          "vi": "important matter, requirement, requisite, necessary condition, sine qua non"
+          "vi": "important matter, requirement, requisite, necessary condition, sine qua non",
+          "en": "vấn đề quan trọng, yêu cầu, điều kiện cần, điều kiện tiên quyết"
         },
         "romaji": "youken"
       }
@@ -299,7 +323,8 @@
         "example": "件",
         "reading": "くだん",
         "meaning": {
-          "en": "the aforementioned, the said, (man, incident, etc.) in question, the above-mentioned, the aforesaid, the usual"
+          "en": "the aforementioned, the said, (man, incident, etc.) in question, the above-mentioned, the aforesaid, the usual",
+          "vi": "người/vụ việc nói trên, đã đề cập ở trên, như thường lệ"
         },
         "romaji": "kudan"
       },
@@ -307,7 +332,8 @@
         "example": "件の如し",
         "reading": "くだんのごとし",
         "meaning": {
-          "vi": "the above is hereby affirmed, such is the purpose of this document"
+          "vi": "the above is hereby affirmed, such is the purpose of this document",
+          "en": "trên đây xin được xác nhận, đó là mục đích của văn bản này"
         },
         "romaji": "kudannogotoshi"
       }
@@ -317,7 +343,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

@@ -5,7 +5,10 @@
     "query": "傭",
     "found": true,
     "strokeCount": 13,
-    "meaning": "employ, hire",
+    "meaning": {
+      "en": "employ, hire",
+      "vi": "thuê, tuyển dụng"
+    },
     "kunyomi": [
       "やと.う",
       "あた.い",
@@ -20,7 +23,8 @@
         "example": "傭兵",
         "reading": "ヨウヘイ",
         "meaning": {
-          "en": "mercenary (soldier)"
+          "en": "mercenary (soldier)",
+          "vi": "lính đánh thuê"
         },
         "romaji": "youhei"
       },
@@ -28,7 +32,8 @@
         "example": "用船",
         "reading": "ヨウセン",
         "meaning": {
-          "vi": "chartered ship, chartering or hiring a vessel"
+          "vi": "chartered ship, chartering or hiring a vessel",
+          "en": "chartered ship, chartering or hiring a vessel"
         },
         "romaji": "yousen"
       },
@@ -36,7 +41,8 @@
         "example": "徴用",
         "reading": "チョウヨウ",
         "meaning": {
-          "vi": "drafting, requisition, impressment, commandeering, expropriation"
+          "vi": "drafting, requisition, impressment, commandeering, expropriation",
+          "en": "drafting, requisition, impressment, commandeering, expropriation"
         },
         "romaji": "chouyou"
       },
@@ -44,7 +50,8 @@
         "example": "解傭",
         "reading": "カイヨウ",
         "meaning": {
-          "vi": "dismissal (of an employee), discharge"
+          "vi": "dismissal (of an employee), discharge",
+          "en": "dismissal (of an employee), discharge"
         },
         "romaji": "kaiyou"
       }
@@ -54,7 +61,8 @@
         "example": "雇う",
         "reading": "やとう",
         "meaning": {
-          "vi": "to employ, to hire, to take on, to charter (a car, boat, etc.), to hire"
+          "vi": "to employ, to hire, to take on, to charter (a car, boat, etc.), to hire",
+          "en": "to employ, to hire, to take on, to charter (a car, boat, etc.), to hire"
         },
         "romaji": "yatou"
       }
@@ -64,7 +72,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ヨ",

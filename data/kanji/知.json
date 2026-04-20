@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "shi, shiru, shirasu, shiraseru",
-    "meaning": "know",
+    "meaning": {
+      "en": "know",
+      "vi": "biết"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "承知する（しょうちする）",
         "meaning": {
-          "english": "consent"
+          "en": "consent",
+          "vi": "sự đồng ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "通知する（つうちする）",
         "meaning": {
-          "english": "notify by letter"
+          "en": "notify by letter",
+          "vi": "báo bằng thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "知識（ちしき）",
         "meaning": {
-          "english": "knowledge"
+          "en": "knowledge",
+          "vi": "kiến thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "知恵（ちえ）",
         "meaning": {
-          "english": "wisdom"
+          "en": "wisdom",
+          "vi": "trí tuệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "知性（ちせい）",
         "meaning": {
-          "english": "intelligence"
+          "en": "intelligence",
+          "vi": "trí thông minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "知的な（ちてきな）",
         "meaning": {
-          "english": "intellectual"
+          "en": "intellectual",
+          "vi": "trí thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "知人（ちじん）",
         "meaning": {
-          "english": "acquaintance"
+          "en": "acquaintance",
+          "vi": "người quen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "知る（しる）",
         "meaning": {
-          "english": "know"
+          "en": "know",
+          "vi": "biết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "知らせる（しらせる）",
         "meaning": {
-          "english": "notify"
+          "en": "notify",
+          "vi": "thông báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "知り合い（しりあい）",
         "meaning": {
-          "english": "acquaintance"
+          "en": "acquaintance",
+          "vi": "người quen"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi(ru)_06_j.opus",
@@ -283,7 +296,8 @@
     "kanji": {
       "character": "知",
       "meaning": {
-        "english": "know"
+        "en": "know",
+        "vi": "biết"
       },
       "strokes": {
         "count": 8,
@@ -337,7 +351,8 @@
         "romaji": "yahen"
       },
       "meaning": {
-        "english": "arrow"
+        "en": "arrow",
+        "vi": "mũi tên"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yahen0.svg",
@@ -358,7 +373,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "205",
     "strokeCount": 8,
-    "meaning": "know, wisdom",
+    "meaning": {
+      "en": "know, wisdom",
+      "vi": "biết, trí tuệ"
+    },
     "kunyomi": [
       "し.る",
       "し.らせる"
@@ -371,7 +389,8 @@
         "example": "知",
         "reading": "チ",
         "meaning": {
-          "en": "wisdom, jnana (higher knowledge)"
+          "en": "wisdom, jnana (higher knowledge)",
+          "vi": "trí tuệ, tri kiến cao hơn"
         },
         "romaji": "chi"
       },
@@ -379,6 +398,7 @@
         "example": "知恵",
         "reading": "チエ",
         "meaning": {
+          "en": "wisdom, wit, sagacity, sense, intelligence, prajna (insight leading to enlightenment)",
           "vi": "wisdom, wit, sagacity, sense, intelligence, prajna (insight leading to enlightenment)"
         },
         "romaji": "chie"
@@ -387,7 +407,8 @@
         "example": "認知",
         "reading": "ニンチ",
         "meaning": {
-          "en": "acknowledgement, acknowledgment, recognition, cognition"
+          "en": "acknowledgement, acknowledgment, recognition, cognition",
+          "vi": "sự thừa nhận, nhận thức"
         },
         "romaji": "ninchi"
       },
@@ -395,7 +416,8 @@
         "example": "熟知",
         "reading": "ジュクチ",
         "meaning": {
-          "en": "being familiar with, having a thorough knowledge of, being well-informed about"
+          "en": "being familiar with, having a thorough knowledge of, being well-informed about",
+          "vi": "quen thuộc, hiểu rõ, thông thạo"
         },
         "romaji": "jukuchi"
       }
@@ -405,6 +427,7 @@
         "example": "知る",
         "reading": "しる",
         "meaning": {
+          "en": "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover, to sense, to feel, to notice, to realize, to understand, to comprehend, to grasp, to appreciate, to remember, to be familiar with, to be acquainted with, to experience, to go through, to know (e.g. hardship), to get acquainted with (a person), to get to know, to have to do with, to be concerned with, to be one's concern, to be one's responsibility",
           "vi": "to know, to be aware (of), to be conscious (of), to learn (of), to find out, to discover, to sense, to feel, to notice, to realize, to understand, to comprehend, to grasp, to appreciate, to remember, to be familiar with, to be acquainted with, to experience, to go through, to know (e.g. hardship), to get acquainted with (a person), to get to know, to have to do with, to be concerned with, to be one's concern, to be one's responsibility"
         },
         "romaji": "shiru"
@@ -413,7 +436,8 @@
         "example": "知るか",
         "reading": "しるか",
         "meaning": {
-          "en": "I don't care, how should I know?, who cares?"
+          "en": "I don't care, how should I know?, who cares?",
+          "vi": "tôi không quan tâm, sao tôi biết được, ai mà để ý"
         },
         "romaji": "shiruka"
       },
@@ -421,6 +445,7 @@
         "example": "吾唯足知",
         "reading": "われただたるをしる",
         "meaning": {
+          "en": "I am content with what I am (have), rich is the person who is content with what he is",
           "vi": "I am content with what I am (have), rich is the person who is content with what he is"
         },
         "romaji": "waretadataruwoshiru"
@@ -429,14 +454,18 @@
         "example": "知らせる",
         "reading": "しらせる",
         "meaning": {
-          "en": "to notify, to advise, to inform"
+          "en": "to notify, to advise, to inform",
+          "vi": "thông báo, báo cho biết"
         },
         "romaji": "shiraseru"
       }
     ],
     "radical": {
       "symbol": "矢",
-      "meaning": "arrow"
+      "meaning": {
+        "en": "arrow",
+        "vi": "mũi tên"
+      }
     },
     "parts": [
       "乞",
@@ -451,5 +480,7 @@
   "hanViet": [
     "tri",
     "trí"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: mũi tên 矢 bắn trúng miệng 口 là biết rõ mục tiêu, nên 知 là biết."
 }

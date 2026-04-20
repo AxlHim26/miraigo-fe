@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2270",
     "strokeCount": 7,
-    "meaning": "for the first time, not until",
+    "meaning": {
+      "en": "for the first time, not until",
+      "vi": "lần đầu, mãi đến khi"
+    },
     "kunyomi": [
       "はじ.めて"
     ],
@@ -20,7 +23,8 @@
         "example": "台甫",
         "reading": "タイホ",
         "meaning": {
-          "vi": "your personal name"
+          "vi": "your personal name",
+          "en": ""
         },
         "romaji": "taiho"
       }
@@ -30,7 +34,8 @@
         "example": "初めて",
         "reading": "はじめて",
         "meaning": {
-          "en": "for the first time, only after ... is it ..., only when ... do you ..., not until ... do you ..., first time, (one's) first"
+          "en": "for the first time, only after ... is it ..., only when ... do you ..., not until ... do you ..., first time, (one's) first",
+          "vi": "lần đầu, chỉ sau khi..., chỉ đến khi..., mãi đến khi..., đầu tiên"
         },
         "romaji": "hajimete"
       }
@@ -40,7 +45,10 @@
       "forms": [
         "甩"
       ],
-      "meaning": "use"
+      "meaning": {
+        "en": "use",
+        "vi": "dùng, sử dụng"
+      }
     },
     "parts": [
       "丶",
@@ -54,5 +62,7 @@
   },
   "hanViet": [
     "phủ"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: việc vừa mới được dùng đến lần đầu thì gợi ý nghĩa bắt đầu, nên 甫 là lần đầu."
 }

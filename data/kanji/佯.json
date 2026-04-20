@@ -5,7 +5,10 @@
     "query": "佯",
     "found": true,
     "strokeCount": 8,
-    "meaning": "pretend, feign, false, deceitful",
+    "meaning": {
+      "en": "pretend, feign, false, deceitful",
+      "vi": "giả vờ, ngụy tạo, giả dối, lừa lọc"
+    },
     "kunyomi": [
       "いつわ.る"
     ],
@@ -17,7 +20,8 @@
         "example": "佯狂",
         "reading": "ヨウキョウ",
         "meaning": {
-          "en": "feigned madness"
+          "en": "feigned madness",
+          "vi": "giả điên"
         },
         "romaji": "youkyou"
       },
@@ -25,7 +29,8 @@
         "example": "倡佯",
         "reading": "ショウヨウ",
         "meaning": {
-          "en": "wandering"
+          "en": "wandering",
+          "vi": "lang thang"
         },
         "romaji": "shouyou"
       }
@@ -36,7 +41,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

@@ -5,7 +5,10 @@
     "query": "卦",
     "found": true,
     "strokeCount": 8,
-    "meaning": "a divination sign",
+    "meaning": {
+      "en": "a divination sign",
+      "vi": "quẻ bói, dấu quẻ"
+    },
     "kunyomi": [
       "うらかた"
     ],
@@ -19,7 +22,8 @@
         "example": "卦辞",
         "reading": "カジ",
         "meaning": {
-          "en": "commentary (on any of the 64 hexagrams in the Book of Changes)"
+          "en": "commentary (on any of the 64 hexagrams in the Book of Changes)",
+          "vi": "lời bàn cho một quẻ trong 64 quẻ Kinh Dịch"
         },
         "romaji": "kaji"
       },
@@ -27,7 +31,8 @@
         "example": "卦兆",
         "reading": "カチョウ",
         "meaning": {
-          "en": "divination signs"
+          "en": "divination signs",
+          "vi": "các dấu quẻ bói"
         },
         "romaji": "kachou"
       },
@@ -35,7 +40,8 @@
         "example": "八卦",
         "reading": "ハッケ",
         "meaning": {
-          "en": "eight trigrams, divination signs, divination, fortune-telling"
+          "en": "eight trigrams, divination signs, divination, fortune-telling",
+          "vi": "bát quái, các dấu quẻ bói, bói toán, xem bói"
         },
         "romaji": "hakke"
       },
@@ -43,7 +49,8 @@
         "example": "卦",
         "reading": "ケ",
         "meaning": {
-          "en": "divination sign"
+          "en": "divination sign",
+          "vi": "dấu quẻ bói"
         },
         "romaji": "ke"
       },
@@ -51,7 +58,8 @@
         "example": "卦算",
         "reading": "ケイサン",
         "meaning": {
-          "vi": "paperweight"
+          "vi": "chặn giấy",
+          "en": "paperweight"
         },
         "romaji": "keisan"
       },
@@ -59,7 +67,8 @@
         "example": "有卦",
         "reading": "ウケ",
         "meaning": {
-          "en": "streak of good luck"
+          "en": "streak of good luck",
+          "vi": "vận may đang lên"
         },
         "romaji": "uke"
       },
@@ -67,7 +76,8 @@
         "example": "六十四卦",
         "reading": "ロクジュウシケ",
         "meaning": {
-          "en": "the 64 hexagrams (of the Book of Changes)"
+          "en": "the 64 hexagrams (of the Book of Changes)",
+          "vi": "64 quẻ của Kinh Dịch"
         },
         "romaji": "rokujuushike"
       }
@@ -75,7 +85,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "卜",
-      "meaning": "divination"
+      "meaning": {
+        "en": "divination",
+        "vi": "bói toán, sự chiêm quẻ"
+      }
     },
     "parts": [
       "卜",
@@ -88,5 +101,7 @@
   },
   "hanViet": [
     "quái"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Các nét như quẻ bói xếp chồng lên nhau nên 卦 là quẻ bói, điềm quẻ."
 }

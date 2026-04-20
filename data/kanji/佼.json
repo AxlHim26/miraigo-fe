@@ -5,7 +5,10 @@
     "query": "佼",
     "found": true,
     "strokeCount": 8,
-    "meaning": "beautiful, clever, deceive, sly",
+    "meaning": {
+      "en": "beautiful, clever, deceive, sly",
+      "vi": "đẹp, lanh lợi, lừa dối, xảo quyệt"
+    },
     "kunyomi": [
       "こう.す",
       "うつく.しい"
@@ -21,7 +24,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "亠",

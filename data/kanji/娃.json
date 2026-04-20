@@ -5,7 +5,10 @@
     "query": "娃",
     "found": true,
     "strokeCount": 9,
-    "meaning": "beautiful",
+    "meaning": {
+      "en": "beautiful",
+      "vi": "đẹp"
+    },
     "kunyomi": [
       "うつく.しい"
     ],
@@ -19,7 +22,8 @@
         "example": "娃鬟",
         "reading": "アイカン",
         "meaning": {
-          "en": "beautiful woman"
+          "en": "beautiful woman",
+          "vi": "người phụ nữ đẹp"
         },
         "romaji": "aikan"
       },
@@ -27,7 +31,8 @@
         "example": "娃鬟",
         "reading": "アイカン",
         "meaning": {
-          "en": "beautiful woman"
+          "en": "beautiful woman",
+          "vi": "người phụ nữ đẹp"
         },
         "romaji": "aikan"
       },
@@ -35,6 +40,7 @@
         "example": "館娃",
         "reading": "カンアイ",
         "meaning": {
+          "en": "palace (in China built by Wu Dynasty King)",
           "vi": "palace (in China built by Wu Dynasty King)"
         },
         "romaji": "kan'ai"
@@ -43,7 +49,8 @@
         "example": "娃々菜",
         "reading": "ワワサイ",
         "meaning": {
-          "en": "baby Chinese cabbage, wawasai cabbage, variety of small Chinese cabbage"
+          "en": "baby Chinese cabbage, wawasai cabbage, variety of small Chinese cabbage",
+          "vi": "cải thảo non, cải wawasai, một giống cải thảo nhỏ"
         },
         "romaji": "wawasai"
       }
@@ -51,7 +58,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": {
+        "en": "woman, female",
+        "vi": "phụ nữ, giống cái"
+      }
     },
     "parts": [
       "土",

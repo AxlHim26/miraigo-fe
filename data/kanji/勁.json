@@ -74,5 +74,11 @@
   "hanViet": [
     "kình",
     "kính"
-  ]
+  ],
+  "meaning": {
+    "en": "strong",
+    "vi": "mạnh mẽ, cứng cáp"
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 勁 có bộ lực 力 nên gợi sức mạnh chắc gân, rất cứng cáp."
 }

@@ -4,12 +4,15 @@
   "jishoData": {
     "query": "㒸",
     "found": false,
-    "meaning": "theo sau"
+    "meaning": {
+      "en": "follow",
+      "vi": "theo sau"
+    }
   },
   "hanViet": null,
   "hanVietNote": "Không tìm thấy trong các nguồn tra cứu",
   "meaning": {
-    "vi": "theo sau",
-    "en": "theo sau"
+    "en": "follow",
+    "vi": "theo sau"
   }
 }

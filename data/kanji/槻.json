@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2008",
     "strokeCount": 15,
-    "meaning": "Zelkova tree",
+    "meaning": {
+      "en": "Zelkova tree",
+      "vi": "cây keyaki"
+    },
     "kunyomi": [
       "つき"
     ],
@@ -20,7 +23,8 @@
         "example": "欅",
         "reading": "けやき",
         "meaning": {
-          "vi": "Japanese zelkova (Zelkova serrata)"
+          "vi": "cây keyaki Nhật Bản (Zelkova serrata)",
+          "en": "Japanese zelkova (Zelkova serrata)"
         },
         "romaji": "keyaki"
       },
@@ -28,14 +32,18 @@
         "example": "槻欅",
         "reading": "つきげやき",
         "meaning": {
-          "vi": "Japanese zelkova (Zelkova serrata)"
+          "vi": "cây keyaki Nhật Bản (Zelkova serrata)",
+          "en": "Japanese zelkova (Zelkova serrata)"
         },
         "romaji": "tsukigeyaki"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "cây"
+      }
     },
     "parts": [
       "一",
@@ -52,5 +60,7 @@
   },
   "hanViet": [
     "quy"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: bộ mộc bên trái báo đây là cây, bên phải như tán cành keyaki vươn ra."
 }

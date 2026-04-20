@@ -5,7 +5,10 @@
     "query": "乕",
     "found": true,
     "strokeCount": 7,
-    "meaning": "tiger, brave, fierce, surname",
+    "meaning": {
+      "en": "tiger, brave, fierce, surname",
+      "vi": "hổ, dũng mãnh, hung dữ, họ"
+    },
     "kunyomi": [
       "とら"
     ],
@@ -16,7 +19,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "丿",
-      "meaning": "slash"
+      "meaning": {
+        "en": "slash",
+        "vi": "nét phẩy"
+      }
     },
     "parts": [
       "ノ",

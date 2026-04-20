@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2116",
     "strokeCount": 10,
-    "meaning": "meeting, tryst, date, rendezvous",
+    "meaning": {
+      "en": "meeting, tryst, date, rendezvous",
+      "vi": "cuộc gặp, cuộc hẹn hò, buổi hẹn, điểm hẹn"
+    },
     "kunyomi": [
       "あ.う",
       "むか.える"
@@ -19,6 +22,7 @@
         "example": "逢着",
         "reading": "ホウチャク",
         "meaning": {
+          "en": "encountering, facing, being confronted with, coming upon",
           "vi": "encountering, facing, being confronted with, coming upon"
         },
         "romaji": "houchaku"
@@ -27,6 +31,7 @@
         "example": "遭逢",
         "reading": "ソウホウ",
         "meaning": {
+          "en": "meeting by chance, running into, coming upon, encounter",
           "vi": "meeting by chance, running into, coming upon, encounter"
         },
         "romaji": "souhou"
@@ -37,6 +42,7 @@
         "example": "会う",
         "reading": "あう",
         "meaning": {
+          "en": "to meet, to encounter, to see, to have an accident, to have a bad experience",
           "vi": "to meet, to encounter, to see, to have an accident, to have a bad experience"
         },
         "romaji": "au"
@@ -45,6 +51,7 @@
         "example": "逢うは別れの始め",
         "reading": "あうはわかれのはじめ",
         "meaning": {
+          "en": "we meet only to part, meeting is the first step to parting",
           "vi": "we meet only to part, meeting is the first step to parting"
         },
         "romaji": "auhawakarenohajime"
@@ -57,7 +64,10 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": {
+        "en": "walk",
+        "vi": "đi bộ"
+      }
     },
     "parts": [
       "二",
