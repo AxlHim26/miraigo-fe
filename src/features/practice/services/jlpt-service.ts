@@ -5,6 +5,7 @@ import { fetchJson } from "@/lib/fetcher";
 
 import {
   JlptAttemptAnswer,
+  JlptAttemptResultSchema,
   JlptExamDetailSchema,
   JlptPracticeQuestionResponseSchema,
   JlptStartAttemptResponseSchema,
@@ -159,6 +160,31 @@ export const submitJlptAttempt = async (attemptId: number, token?: string) => {
       totalScaledScore: z.number().nullable().optional(),
       passed: z.boolean().nullable().optional(),
     }),
+  });
+
+  return apiResponseSchema.parse(response).data;
+};
+
+export const getJlptAttemptResult = async (attemptId: number, token?: string) => {
+  const url = new URL(`${getBaseUrl()}/api/v1/jlpt/attempts/${attemptId}/result`);
+
+  const headers: HeadersInit = {
+    "Content-Type": "application/json",
+  };
+
+  if (token) {
+    headers["Authorization"] = `Bearer ${token}`;
+  }
+
+  const response = await fetchJson<unknown>(url.toString(), {
+    headers,
+    cache: "no-store",
+  });
+
+  const apiResponseSchema = z.object({
+    success: z.boolean(),
+    message: z.string().optional(),
+    data: JlptAttemptResultSchema,
   });
 
   return apiResponseSchema.parse(response).data;

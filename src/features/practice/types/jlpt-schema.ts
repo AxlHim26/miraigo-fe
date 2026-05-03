@@ -66,3 +66,42 @@ export type JlptSection = z.infer<typeof JlptSectionSchema>;
 export type JlptExamDetail = z.infer<typeof JlptExamDetailSchema>;
 export type JlptAttemptAnswer = z.infer<typeof JlptAttemptAnswerSchema>;
 export type JlptStartAttemptResponse = z.infer<typeof JlptStartAttemptResponseSchema>;
+
+export const JlptAttemptResultQuestionSchema = z.object({
+  questionId: z.number(),
+  questionNumber: z.number().nullable().optional(),
+  prompt: z.string(),
+  passageText: z.string().nullable().optional(),
+  audioUrl: z.string().nullable().optional(),
+  explanation: z.string().nullable().optional(),
+  selectedOptionKey: z.string().nullable().optional(),
+  correctOptionKey: z.string(),
+  correct: z.boolean(),
+  options: z.array(JlptQuestionOptionSchema),
+});
+
+export const JlptAttemptSectionResultSchema = z.object({
+  sectionId: z.number(),
+  sectionType: z.string(),
+  title: z.string(),
+  rawScore: z.number(),
+  rawMaxScore: z.number(),
+  scaledScore: z.number(),
+  scaledMaxScore: z.number(),
+  questions: z.array(JlptAttemptResultQuestionSchema),
+});
+
+export const JlptAttemptResultSchema = z.object({
+  attemptId: z.number(),
+  examId: z.number(),
+  examCode: z.string(),
+  examTitle: z.string(),
+  level: z.string(),
+  totalScaledScore: z.number(),
+  passed: z.boolean(),
+  sections: z.array(JlptAttemptSectionResultSchema),
+});
+
+export type JlptAttemptResultQuestion = z.infer<typeof JlptAttemptResultQuestionSchema>;
+export type JlptAttemptSectionResult = z.infer<typeof JlptAttemptSectionResultSchema>;
+export type JlptAttemptResult = z.infer<typeof JlptAttemptResultSchema>;

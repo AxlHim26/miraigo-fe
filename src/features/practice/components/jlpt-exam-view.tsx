@@ -76,7 +76,7 @@ export default function JlptExamView({ examId }: { examId: string }) {
       return submitJlptAttempt(attemptData.attemptId);
     },
     onSuccess: () => {
-      router.push(`/practice/jlpt/exam/${examId}/result`);
+      router.push(`/practice/jlpt/attempt/${attemptData?.attemptId}/result`);
     },
   });
 
