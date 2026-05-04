@@ -46,7 +46,8 @@ const processedPath = path.join(root, "data", "kanji-processed.txt");
 const cachePath = path.join(root, "data", "kanji-translation-cache.json");
 
 const isUrl = (v) => typeof v === "string" && /^https?:\/\//i.test(v);
-const vietnameseDiacritics = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+const vietnameseDiacritics =
+  /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 const isLikelyEnglish = (value) => {
   if (typeof value !== "string") return false;
   if (!value.trim()) return false;
@@ -182,7 +183,7 @@ const processedSet = new Set(
   processedRaw
     .split(/\r?\n/)
     .map((line) => line.trim())
-    .filter(Boolean)
+    .filter(Boolean),
 );
 
 const allFiles = await fs.readdir(dataDir);
@@ -224,7 +225,8 @@ for (const file of toProcess) {
       if (Array.isArray(translated)) {
         translated.forEach((text, idx) => {
           const source = chunk[idx];
-          if (source != null && typeof text === "string" && text.trim()) cache[source] = text.trim();
+          if (source != null && typeof text === "string" && text.trim())
+            cache[source] = text.trim();
         });
         await saveCache();
       }

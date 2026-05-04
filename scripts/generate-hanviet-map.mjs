@@ -11,12 +11,12 @@ async function main() {
 
   for (const file of files) {
     if (!file.endsWith(".json") || file === "default.json" || file.startsWith("CDP-")) continue;
-    
+
     try {
       const raw = await fs.readFile(path.join(kanjiDir, file), "utf-8");
       const data = JSON.parse(raw);
       const kanji = data.id || file.replace(".json", "");
-      
+
       let hanViet = "";
       if (Array.isArray(data.hanViet) && data.hanViet.length > 0) {
         hanViet = data.hanViet[0];

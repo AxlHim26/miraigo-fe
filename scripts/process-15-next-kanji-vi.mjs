@@ -47,7 +47,8 @@ if (!API_KEY) {
 }
 
 const isUrl = (v) => typeof v === "string" && /^https?:\/\//i.test(v);
-const vietnameseDiacritics = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+const vietnameseDiacritics =
+  /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 const isLikelyEnglish = (value) => {
   if (typeof value !== "string") return false;
   if (!value.trim()) return false;
@@ -235,10 +236,7 @@ try {
 
 const allFiles = await fs.readdir(dataDir);
 const jsonFiles = allFiles.filter(
-  (f) =>
-    f.endsWith(".json") &&
-    f !== "default.json" &&
-    !f.startsWith("CDP-")
+  (f) => f.endsWith(".json") && f !== "default.json" && !f.startsWith("CDP-"),
 );
 
 const processedSet = new Set(processedList);
@@ -289,7 +287,8 @@ for (const file of toProcess) {
       if (Array.isArray(translated)) {
         translated.forEach((text, idx) => {
           const source = chunk[idx];
-          if (source != null && typeof text === "string" && text.trim()) cache[source] = text.trim();
+          if (source != null && typeof text === "string" && text.trim())
+            cache[source] = text.trim();
         });
         await saveCache();
       }

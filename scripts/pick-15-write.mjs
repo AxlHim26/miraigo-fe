@@ -13,9 +13,16 @@ const processedPath = path.join(root, "data", "kanji-processed.txt");
 const outPath = path.join(root, "data", "next-15-names.txt");
 
 const raw = await fs.readFile(processedPath, "utf-8").catch(() => "");
-const processedSet = new Set(raw.split(/\r?\n/).map((l) => l.trim()).filter(Boolean));
+const processedSet = new Set(
+  raw
+    .split(/\r?\n/)
+    .map((l) => l.trim())
+    .filter(Boolean),
+);
 const files = await fs.readdir(dataDir);
-const jsonFiles = files.filter((f) => f.endsWith(".json") && f !== "default.json" && !f.startsWith("CDP-"));
+const jsonFiles = files.filter(
+  (f) => f.endsWith(".json") && f !== "default.json" && !f.startsWith("CDP-"),
+);
 const nameLen = (f) => (f.endsWith(".json") ? f.slice(0, -5) : f).length;
 const unprocessed = jsonFiles
   .filter((f) => !processedSet.has(f))

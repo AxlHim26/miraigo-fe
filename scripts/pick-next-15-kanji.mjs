@@ -11,7 +11,10 @@ const processedPath = path.join(root, "data", "kanji-processed.txt");
 
 const raw = await fs.readFile(processedPath, "utf-8").catch(() => "");
 const processedSet = new Set(
-  raw.split(/\r?\n/).map((line) => line.trim()).filter(Boolean)
+  raw
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .filter(Boolean),
 );
 
 const allFiles = await fs.readdir(dataDir);

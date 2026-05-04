@@ -41,7 +41,8 @@ const processedPath = path.join(root, "data", "kanji-processed.txt");
 const cachePath = path.join(root, "data", "kanji-translation-cache.json");
 
 const isUrl = (value) => typeof value === "string" && /^https?:\/\//i.test(value);
-const vietnameseDiacritics = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+const vietnameseDiacritics =
+  /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 const isLikelyEnglish = (value) => {
   if (typeof value !== "string") return false;
   if (!value.trim()) return false;
@@ -145,7 +146,8 @@ async function translateBatch(texts, attempt = 1) {
       errJson = {};
     }
     const msg = errJson?.message ?? errJson?.error?.message ?? errText;
-    const isRateLimit = response.status === 429 || /rate_limit|rate limit/i.test(String(errJson?.error ?? msg));
+    const isRateLimit =
+      response.status === 429 || /rate_limit|rate limit/i.test(String(errJson?.error ?? msg));
     if (isRateLimit && attempt <= 5) {
       const waitSec = Math.min(Math.max(Number(errJson?.retryAfter) || 30, 5), 120);
       console.warn(`⏳ Rate limit. Đợi ${waitSec}s...`);
@@ -217,7 +219,7 @@ const processedSet = new Set(
   processedRaw
     .split(/\r?\n/)
     .map((line) => line.trim())
-    .filter(Boolean)
+    .filter(Boolean),
 );
 
 const allFiles = await fs.readdir(dataDir);
@@ -273,7 +275,8 @@ for (const file of toProcess) {
       if (Array.isArray(translated)) {
         translated.forEach((text, idx) => {
           const source = chunk[idx];
-          if (source != null && typeof text === "string" && text.trim()) cache[source] = text.trim();
+          if (source != null && typeof text === "string" && text.trim())
+            cache[source] = text.trim();
         });
         await saveCache();
       }
@@ -300,7 +303,8 @@ for (const file of toProcess) {
 
   if (!hasMainMeaning) {
     let viMeaning =
-      (typeof existingEnglish === "string" && existingEnglish.trim() && cache[existingEnglish]) || null;
+      (typeof existingEnglish === "string" && existingEnglish.trim() && cache[existingEnglish]) ||
+      null;
     if (!viMeaning) {
       viMeaning = await getVietnameseMeaningForKanji(kanjiChar);
       if (viMeaning && existingEnglish) {
@@ -335,4 +339,8 @@ for (const file of toProcess) {
 await fs.appendFile(processedPath, "\n" + toProcess.map(basename).join("\n") + "\n", "utf-8");
 const outLine = "Đã xử lý: " + toProcess.join(", ");
 console.log("\n" + outLine);
-await fs.writeFile(path.join(root, "data", "last-15-processed.txt"), toProcess.join("\n") + "\n", "utf-8");
+await fs.writeFile(
+  path.join(root, "data", "last-15-processed.txt"),
+  toProcess.join("\n") + "\n",
+  "utf-8",
+);

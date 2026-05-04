@@ -37,7 +37,8 @@ const BASE_URL = rawBase.endsWith("/v1") ? rawBase : `${rawBase}/v1`;
 const MODEL = process.env.MEGALLM_MODEL || "gpt-4o-mini";
 
 const isUrl = (v) => typeof v === "string" && /^https?:\/\//i.test(v);
-const vietnameseDiacritics = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+const vietnameseDiacritics =
+  /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 const isLikelyEnglish = (value) => {
   if (typeof value !== "string") return false;
   if (!value.trim()) return false;
@@ -49,7 +50,9 @@ const isLikelyEnglish = (value) => {
 function collectMeaningTargets(obj, pathStack = []) {
   const results = [];
   if (Array.isArray(obj)) {
-    obj.forEach((item, i) => results.push(...collectMeaningTargets(item, [...pathStack, String(i)])));
+    obj.forEach((item, i) =>
+      results.push(...collectMeaningTargets(item, [...pathStack, String(i)])),
+    );
     return results;
   }
   if (obj && typeof obj === "object") {
@@ -139,7 +142,8 @@ async function translateBatch(texts, attempt = 1) {
       errJson = {};
     }
     const msg = errJson?.message ?? errJson?.error?.message ?? errText;
-    const isRateLimit = response.status === 429 || /rate_limit|rate limit/i.test(String(errJson?.error ?? msg));
+    const isRateLimit =
+      response.status === 429 || /rate_limit|rate limit/i.test(String(errJson?.error ?? msg));
     if (isRateLimit && attempt <= 5) {
       const waitSec = Math.min(Math.max(Number(errJson?.retryAfter) || 30, 5), 120);
       console.warn(`⏳ Rate limit. Đợi ${waitSec}s...`);
@@ -171,12 +175,12 @@ const processedSet = new Set(
   processedRaw
     .split(/\r?\n/)
     .map((line) => line.trim())
-    .filter(Boolean)
+    .filter(Boolean),
 );
 
 const allFiles = await fs.readdir(dataDir);
 const jsonFiles = allFiles.filter(
-  (f) => f.endsWith(".json") && f !== "default.json" && !f.startsWith("CDP-")
+  (f) => f.endsWith(".json") && f !== "default.json" && !f.startsWith("CDP-"),
 );
 const unprocessed = jsonFiles
   .filter((f) => !processedSet.has(f))
@@ -227,7 +231,8 @@ for (const file of toProcess) {
       if (Array.isArray(translated)) {
         translated.forEach((text, idx) => {
           const source = chunk[idx];
-          if (source != null && typeof text === "string" && text.trim()) cache[source] = text.trim();
+          if (source != null && typeof text === "string" && text.trim())
+            cache[source] = text.trim();
         });
         await saveCache();
       }

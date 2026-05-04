@@ -59,7 +59,8 @@ const cachePath = path.join(root, "data", "kanji-translation-cache.json");
 
 const isUrl = (value) => typeof value === "string" && /^https?:\/\//i.test(value);
 
-const vietnameseDiacritics = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+const vietnameseDiacritics =
+  /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 
 const isLikelyEnglish = (value) => {
   if (typeof value !== "string") return false;
@@ -91,7 +92,13 @@ function collectMeaningTargets(obj, pathStack = []) {
           value: m,
           kind: "string",
         });
-      } else if (m && typeof m === "object" && typeof m.english === "string" && m.english.trim() && isLikelyEnglish(m.english)) {
+      } else if (
+        m &&
+        typeof m === "object" &&
+        typeof m.english === "string" &&
+        m.english.trim() &&
+        isLikelyEnglish(m.english)
+      ) {
         results.push({
           path: [...pathStack, "meaning", "vietnamese"],
           value: m.english,
@@ -168,7 +175,8 @@ async function translateBatch(texts, attempt = 1) {
       errJson = {};
     }
     const msg = errJson?.message ?? errJson?.error?.message ?? errText;
-    const isRateLimit = response.status === 429 || /rate_limit|rate limit/i.test(String(errJson?.error ?? msg));
+    const isRateLimit =
+      response.status === 429 || /rate_limit|rate limit/i.test(String(errJson?.error ?? msg));
     if (isRateLimit && attempt <= 5) {
       const waitSec = Math.min(Math.max(Number(errJson?.retryAfter) || 30, 5), 120);
       console.warn(`⏳ Rate limit. Đợi ${waitSec}s rồi thử lại (lần ${attempt}/5)...`);
@@ -244,7 +252,8 @@ async function getVietnameseMeaningForKanji(kanjiChar, attempt = 1) {
       errJson = {};
     }
     const msg = errJson?.message ?? errJson?.error?.message ?? errText;
-    const isRateLimit = response.status === 429 || /rate_limit|rate limit/i.test(String(errJson?.error ?? msg));
+    const isRateLimit =
+      response.status === 429 || /rate_limit|rate limit/i.test(String(errJson?.error ?? msg));
     if (isRateLimit && attempt <= 5) {
       const waitSec = Math.min(Math.max(Number(errJson?.retryAfter) || 30, 5), 120);
       console.warn(`⏳ Rate limit (kanji). Đợi ${waitSec}s rồi thử lại (lần ${attempt}/5)...`);
@@ -302,7 +311,8 @@ for (const file of jsonFiles) {
       if (Array.isArray(translated)) {
         translated.forEach((text, idx) => {
           const source = chunk[idx];
-          if (source != null && typeof text === "string" && text.trim()) cache[source] = text.trim();
+          if (source != null && typeof text === "string" && text.trim())
+            cache[source] = text.trim();
         });
         await saveCache();
       }
@@ -363,7 +373,9 @@ for (const file of jsonFiles) {
   await fs.writeFile(filePath, JSON.stringify(json, null, 2), "utf-8");
   processed += 1;
   if (processed % 100 === 0) {
-    console.log(`Processed ${processed}/${jsonFiles.length} (added meaning: ${addedMissingMeaning})`);
+    console.log(
+      `Processed ${processed}/${jsonFiles.length} (added meaning: ${addedMissingMeaning})`,
+    );
   }
 }
 

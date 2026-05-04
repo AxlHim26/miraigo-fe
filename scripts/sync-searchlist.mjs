@@ -16,7 +16,7 @@ async function main() {
   const CHUNK_SIZE = 500;
   for (let i = 0; i < files.length; i += CHUNK_SIZE) {
     const chunk = files.slice(i, i + CHUNK_SIZE);
-    
+
     await Promise.all(
       chunk.map(async (file) => {
         if (!file.endsWith(".json") || file === "default.json" || file.startsWith("CDP-")) return;
@@ -24,15 +24,16 @@ async function main() {
           const raw = await fs.readFile(path.join(kanjiDir, file), "utf-8");
           const data = JSON.parse(raw);
           const k = data.id || file.replace(".json", "");
-          
-          let meaningObj = data.meaning || data.kanjialiveData?.meaning || data.jishoData?.meaning || null;
+
+          let meaningObj =
+            data.meaning || data.kanjialiveData?.meaning || data.jishoData?.meaning || null;
           if (meaningObj) {
             kanjiDataMap[k] = meaningObj;
           }
         } catch (e) {
           // ignore
         }
-      })
+      }),
     );
   }
 
@@ -41,7 +42,7 @@ async function main() {
   for (const entry of searchlist) {
     const k = entry.k;
     const localMeaning = kanjiDataMap[k];
-    
+
     if (localMeaning) {
       // local meaning could be a string or an object { vi, en }
       // The frontend will now support an object

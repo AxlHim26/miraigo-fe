@@ -15,7 +15,8 @@ const processedPath = path.join(root, "data", "kanji-processed.txt");
 const cachePath = path.join(root, "data", "kanji-translation-cache.json");
 
 const isUrl = (v) => typeof v === "string" && /^https?:\/\//i.test(v);
-const vietnameseDiacritics = /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
+const vietnameseDiacritics =
+  /[àáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/i;
 const isLikelyEnglish = (v) => {
   if (typeof v !== "string" || !v.trim() || isUrl(v) || vietnameseDiacritics.test(v)) return false;
   return /[A-Za-z]/.test(v);
@@ -24,7 +25,9 @@ const isLikelyEnglish = (v) => {
 function collectMeaningTargets(obj, pathStack = []) {
   const results = [];
   if (Array.isArray(obj)) {
-    obj.forEach((item, i) => results.push(...collectMeaningTargets(item, [...pathStack, String(i)])));
+    obj.forEach((item, i) =>
+      results.push(...collectMeaningTargets(item, [...pathStack, String(i)])),
+    );
     return results;
   }
   if (obj && typeof obj === "object") {
@@ -32,8 +35,18 @@ function collectMeaningTargets(obj, pathStack = []) {
       const m = obj.meaning;
       if (typeof m === "string" && m.trim() && isLikelyEnglish(m)) {
         results.push({ path: [...pathStack, "meaning"], value: m, kind: "string" });
-      } else if (m && typeof m === "object" && typeof m.english === "string" && m.english.trim() && isLikelyEnglish(m.english)) {
-        results.push({ path: [...pathStack, "meaning", "vietnamese"], value: m.english, kind: "object" });
+      } else if (
+        m &&
+        typeof m === "object" &&
+        typeof m.english === "string" &&
+        m.english.trim() &&
+        isLikelyEnglish(m.english)
+      ) {
+        results.push({
+          path: [...pathStack, "meaning", "vietnamese"],
+          value: m.english,
+          kind: "object",
+        });
       }
     }
     Object.entries(obj).forEach(([key, value]) => {
@@ -102,11 +115,16 @@ async function translateBatch(texts) {
 
 // Load processed list
 const processedRaw = await fs.readFile(processedPath, "utf-8");
-const processedSet = new Set(processedRaw.split(/\r?\n/).map((s) => s.trim()).filter(Boolean));
+const processedSet = new Set(
+  processedRaw
+    .split(/\r?\n/)
+    .map((s) => s.trim())
+    .filter(Boolean),
+);
 
 // All json (exclude CDP-*, default)
 const allFiles = (await fs.readdir(dataDir)).filter(
-  (f) => f.endsWith(".json") && !f.startsWith("CDP-") && f !== "default.json"
+  (f) => f.endsWith(".json") && !f.startsWith("CDP-") && f !== "default.json",
 );
 const unprocessed = allFiles.filter((f) => !processedSet.has(f));
 const withLen = unprocessed.map((f) => ({ name: f, len: f.replace(/\.json$/, "").length }));

@@ -10,7 +10,7 @@ async function main() {
 
   let files;
   try {
-    files = (await fs.readdir(KANJI_DIR)).filter(f => f.endsWith(".json"));
+    files = (await fs.readdir(KANJI_DIR)).filter((f) => f.endsWith(".json"));
   } catch (err) {
     console.error("Could not read directory", KANJI_DIR);
     return;
@@ -43,7 +43,10 @@ async function main() {
             if (str) {
               // Very simple heuristic to check if it's Japanese/Vietnamese vs English
               // If it contains vietnamese specific characters, it's VI. Else EN.
-              const isVi = /[àáảãạăằắẳẵặpâầấẩẫậpèéẻẽẹêềếểễệpìíỉĩịòóỏõọôồốổỗộpơờớởỡợpùúủũụưừứửữựỳýỷỹỵđ]/i.test(str);
+              const isVi =
+                /[àáảãạăằắẳẵặpâầấẩẫậpèéẻẽẹêềếểễệpìíỉĩịòóỏõọôồốổỗộpơờớởỡợpùúủũụưừứửữựỳýỷỹỵđ]/i.test(
+                  str,
+                );
               ex.meaning = isVi ? { vi: str } : { en: str };
               changed = true;
             }
@@ -55,7 +58,7 @@ async function main() {
         processExamples(data.jishoData.kunyomiExamples);
         processExamples(data.jishoData.onyomiExamples);
       }
-      
+
       if (data.kanjialiveData?.examples) {
         processExamples(data.kanjialiveData.examples);
       }
@@ -64,7 +67,6 @@ async function main() {
         await fs.writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
         processedCount++;
       }
-      
     } catch (err) {
       console.error(`Error processing ${file}:`, err);
     }
