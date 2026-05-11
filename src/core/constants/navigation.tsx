@@ -1,4 +1,5 @@
 import AutoAwesomeIcon from "@mui/icons-material/AutoAwesome";
+import ForumIcon from "@mui/icons-material/Forum";
 import GraphicEqIcon from "@mui/icons-material/GraphicEq";
 import GridViewIcon from "@mui/icons-material/GridView";
 import HistoryRoundedIcon from "@mui/icons-material/HistoryRounded";
@@ -208,6 +209,12 @@ export const practiceSidebarSections: NavSection[] = [
         label: "Gỡ băng AI",
         href: "/practice/transcribe",
         icon: <SubtitlesIcon fontSize="small" />,
+      },
+      {
+        id: "conversation",
+        label: "Hội thoại Realtime",
+        href: "/practice/conversation",
+        icon: <ForumIcon fontSize="small" />,
       },
     ],
   },
