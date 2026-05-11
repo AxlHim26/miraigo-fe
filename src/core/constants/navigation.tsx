@@ -6,10 +6,12 @@ import LayersOutlinedIcon from "@mui/icons-material/LayersOutlined";
 import LibraryBooksIcon from "@mui/icons-material/LibraryBooks";
 import MapIcon from "@mui/icons-material/Map";
 import MenuBookIcon from "@mui/icons-material/MenuBook";
+import MicIcon from "@mui/icons-material/Mic";
 import PsychologyIcon from "@mui/icons-material/Psychology";
 import RecordVoiceOverIcon from "@mui/icons-material/RecordVoiceOver";
 import SchoolIcon from "@mui/icons-material/School";
 import SearchIcon from "@mui/icons-material/Search";
+import SubtitlesIcon from "@mui/icons-material/Subtitles";
 
 import { grammarLevels } from "@/core/data/grammar";
 import type { NavSection, TopTab } from "@/shared/types/navigation";
@@ -188,6 +190,24 @@ export const practiceSidebarSections: NavSection[] = [
         label: "Luyện thi JLPT",
         href: "/practice/jlpt",
         icon: <AutoAwesomeIcon fontSize="small" />,
+      },
+    ],
+  },
+  {
+    id: "ai-voice",
+    title: "🤖 AI Voice",
+    items: [
+      {
+        id: "pronunciation",
+        label: "Luyện phát âm",
+        href: "/practice/pronunciation",
+        icon: <MicIcon fontSize="small" />,
+      },
+      {
+        id: "transcribe",
+        label: "Gỡ băng AI",
+        href: "/practice/transcribe",
+        icon: <SubtitlesIcon fontSize="small" />,
       },
     ],
   },
