@@ -13,7 +13,7 @@ export const JlptPracticeQuestionResponseSchema = z.object({
   passageText: z.string().nullable().optional(),
   audioUrl: z.string().nullable().optional(),
   explanation: z.string().nullable().optional(),
-  correctOptionKey: z.string().optional(),
+  correctOptionKey: z.string().nullable().optional(),
   options: z.array(JlptQuestionOptionSchema),
 });
 
@@ -51,6 +51,15 @@ export const JlptAttemptAnswerSchema = z.object({
   selectedOptionKey: z.string().nullable(),
 });
 
+export const JlptSectionAttemptSchema = z.object({
+  sectionId: z.number(),
+  sectionStatus: z.string(),
+  startedAt: z.string().nullable().optional(),
+  submittedAt: z.string().nullable().optional(),
+  expiresAt: z.string().nullable().optional(),
+  remainingSeconds: z.number(),
+});
+
 export const JlptStartAttemptResponseSchema = z.object({
   attemptId: z.number(),
   examId: z.number(),
@@ -58,6 +67,7 @@ export const JlptStartAttemptResponseSchema = z.object({
   startedAt: z.string(),
   totalDurationMinutes: z.number(),
   remainingSeconds: z.number(),
+  sectionAttempts: z.array(JlptSectionAttemptSchema).optional(),
   answers: z.array(JlptAttemptAnswerSchema),
 });
 
@@ -65,6 +75,7 @@ export type JlptPracticeQuestion = z.infer<typeof JlptPracticeQuestionResponseSc
 export type JlptSection = z.infer<typeof JlptSectionSchema>;
 export type JlptExamDetail = z.infer<typeof JlptExamDetailSchema>;
 export type JlptAttemptAnswer = z.infer<typeof JlptAttemptAnswerSchema>;
+export type JlptSectionAttempt = z.infer<typeof JlptSectionAttemptSchema>;
 export type JlptStartAttemptResponse = z.infer<typeof JlptStartAttemptResponseSchema>;
 
 export const JlptAttemptResultQuestionSchema = z.object({

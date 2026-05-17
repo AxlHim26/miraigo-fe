@@ -20,7 +20,7 @@ import { useQuery } from "@tanstack/react-query";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 
-import { getJlptPracticeQuestions } from "../services/jlpt-service";
+import { evaluatePlacementTest, getJlptPracticeQuestions } from "../services/jlpt-service";
 import HoverRevealText from "./hover-reveal-text";
 
 export default function JlptPracticeView({ level, type }: { level: string; type: string }) {
@@ -30,6 +30,8 @@ export default function JlptPracticeView({ level, type }: { level: string; type:
   const [isWrong, setIsWrong] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
   const [enableHoverReveal, setEnableHoverReveal] = useState(false);
+  const [answers, setAnswers] = useState<{ questionId: number; selectedOptionKey: string }[]>([]);
+  const [placementResult, setPlacementResult] = useState<string | null>(null);
 
   const {
     data: questions = [],
@@ -57,9 +59,14 @@ export default function JlptPracticeView({ level, type }: { level: string; type:
       setIsWrong(true);
       setIsCorrect(false);
     }
+
+    // Track answers for placement test
+    if (level === "PLACEMENT") {
+      setAnswers((prev) => [...prev, { questionId: currentQuestion.id, selectedOptionKey: key }]);
+    }
   };
 
-  const handleNext = () => {
+  const handleNext = async () => {
     if (currentIndex < questions.length - 1) {
       setCurrentIndex((prev) => prev + 1);
       setSelectedOption(null);
@@ -67,7 +74,17 @@ export default function JlptPracticeView({ level, type }: { level: string; type:
       setIsCorrect(false);
     } else {
       // Finished
-      router.push("/practice/jlpt");
+      if (level === "PLACEMENT") {
+        try {
+          const result = await evaluatePlacementTest(answers);
+          setPlacementResult(result);
+        } catch (e) {
+          console.error(e);
+          router.push("/practice/jlpt");
+        }
+      } else {
+        router.push("/practice/jlpt");
+      }
     }
   };
 
@@ -256,6 +273,38 @@ export default function JlptPracticeView({ level, type }: { level: string; type:
       `,
         }}
       />
+
+      {/* Placement Result Dialog */}
+      {placementResult && (
+        <Box className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm">
+          <Paper className="animate-fade-in w-full max-w-sm rounded-3xl p-8 text-center shadow-2xl">
+            <Typography
+              variant="h5"
+              fontWeight={800}
+              className="mb-2 text-slate-800 dark:text-white"
+            >
+              Kết quả của bạn
+            </Typography>
+            <Typography className="mb-6 text-slate-500">
+              Hệ thống đánh giá trình độ hiện tại của bạn là:
+            </Typography>
+            <Box className="mb-8 flex justify-center">
+              <Box className="flex h-32 w-32 items-center justify-center rounded-full bg-blue-100 text-5xl font-black text-blue-600 dark:bg-blue-900/30 dark:text-blue-400">
+                {placementResult}
+              </Box>
+            </Box>
+            <Button
+              variant="contained"
+              fullWidth
+              size="large"
+              className="rounded-2xl bg-blue-600 py-3 font-bold shadow-lg"
+              onClick={() => router.push(`/practice/jlpt/${placementResult}`)}
+            >
+              Học cấp độ {placementResult} ngay
+            </Button>
+          </Paper>
+        </Box>
+      )}
     </Container>
   );
 }

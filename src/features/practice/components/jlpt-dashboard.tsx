@@ -1,5 +1,8 @@
 "use client";
 
+import CheckCircleRoundedIcon from "@mui/icons-material/CheckCircleRounded";
+import CloseRoundedIcon from "@mui/icons-material/CloseRounded";
+import HistoryRoundedIcon from "@mui/icons-material/HistoryRounded";
 import PlayArrowRoundedIcon from "@mui/icons-material/PlayArrowRounded";
 import SchoolRoundedIcon from "@mui/icons-material/SchoolRounded";
 import WorkspacePremiumRoundedIcon from "@mui/icons-material/WorkspacePremiumRounded";
@@ -10,13 +13,21 @@ import {
   CardActionArea,
   CardContent,
   Chip,
+  CircularProgress,
   Container,
+  Divider,
+  Drawer,
   Grid,
+  IconButton,
   LinearProgress,
+  Paper,
   Typography,
 } from "@mui/material";
+import { useQuery } from "@tanstack/react-query";
 import { useRouter } from "next/navigation";
-import { useState } from "react";
+import { useMemo, useState } from "react";
+
+import { getJlptAttemptHistory } from "../services/jlpt-service";
 
 // Demo data for the dashboard
 const LEVELS = [
@@ -65,6 +76,24 @@ const LEVELS = [
 export default function JlptDashboard() {
   const router = useRouter();
   const [hoveredLevel, setHoveredLevel] = useState<string | null>(null);
+  const [historyOpen, setHistoryOpen] = useState(false);
+
+  const { data: attemptHistory = [], isLoading: historyLoading } = useQuery({
+    queryKey: ["jlpt-attempt-history"],
+    queryFn: () => getJlptAttemptHistory(),
+  });
+
+  const levelsWithProgress = useMemo(() => {
+    return LEVELS.map((level) => {
+      const attempts = attemptHistory.filter((a) => a.level === level.id);
+      let progress = 0;
+      if (attempts.length > 0) {
+        const passed = attempts.some((a) => a.passed);
+        progress = passed ? 100 : 50;
+      }
+      return { ...level, progress };
+    });
+  }, [attemptHistory]);
 
   const handleStartPractice = (level: string) => {
     router.push(`/practice/jlpt/${level}`);
@@ -103,7 +132,9 @@ export default function JlptDashboard() {
               <Button
                 variant="outlined"
                 size="large"
+                startIcon={<HistoryRoundedIcon />}
                 className="rounded-full border-slate-500 px-6 py-2.5 font-bold text-slate-200 hover:border-slate-300 hover:bg-white/5"
+                onClick={() => setHistoryOpen(true)}
               >
                 Lịch sử làm bài
               </Button>
@@ -126,7 +157,7 @@ export default function JlptDashboard() {
         </Typography>
 
         <Grid container spacing={3}>
-          {LEVELS.map((level) => (
+          {levelsWithProgress.map((level) => (
             <Grid item xs={12} sm={6} md={4} key={level.id}>
               <Card
                 className={`h-full transform rounded-2xl transition-all duration-300 ${hoveredLevel === level.id ? "-translate-y-2 " + level.shadow : "shadow-md"} border border-slate-200 bg-white backdrop-blur-md dark:border-slate-700/50 dark:bg-slate-800/80`}
@@ -210,6 +241,149 @@ export default function JlptDashboard() {
           ))}
         </Grid>
       </Box>
+
+      {/* ── History Drawer ── */}
+      <Drawer
+        anchor="right"
+        open={historyOpen}
+        onClose={() => setHistoryOpen(false)}
+        PaperProps={{ className: "w-96" }}
+      >
+        <Box className="flex h-full flex-col">
+          <Box className="flex items-center justify-between border-b border-slate-200 px-4 py-3 dark:border-slate-700">
+            <Box className="flex items-center gap-2">
+              <HistoryRoundedIcon className="text-blue-500" />
+              <Typography variant="subtitle1" fontWeight={700}>
+                Lịch sử làm bài
+              </Typography>
+            </Box>
+            <IconButton size="small" onClick={() => setHistoryOpen(false)}>
+              <CloseRoundedIcon fontSize="small" />
+            </IconButton>
+          </Box>
+
+          <Box className="flex-1 overflow-y-auto p-4">
+            {historyLoading && (
+              <Box className="flex justify-center py-12">
+                <CircularProgress />
+              </Box>
+            )}
+
+            {!historyLoading && attemptHistory.length === 0 && (
+              <Box className="flex flex-col items-center gap-3 py-16 text-center">
+                <HistoryRoundedIcon className="text-6xl text-slate-300" />
+                <Typography className="text-slate-500">Chưa có lịch sử làm bài nào.</Typography>
+                <Button
+                  variant="contained"
+                  size="small"
+                  className="mt-2 rounded-xl"
+                  onClick={() => setHistoryOpen(false)}
+                >
+                  Bắt đầu làm bài
+                </Button>
+              </Box>
+            )}
+
+            <Box className="flex flex-col gap-3">
+              {attemptHistory.map((attempt) => {
+                const isSubmitted = attempt.status === "SUBMITTED";
+                const scoreLabel =
+                  attempt.totalScaledScore != null ? `${attempt.totalScaledScore}/180` : "—";
+                const dateStr = new Date(attempt.startedAt).toLocaleDateString("vi-VN", {
+                  day: "2-digit",
+                  month: "2-digit",
+                  year: "numeric",
+                });
+
+                return (
+                  <Paper
+                    key={attempt.attemptId}
+                    className="cursor-pointer rounded-2xl border border-slate-200 p-4 shadow-sm transition-all hover:border-blue-300 hover:shadow-md dark:border-slate-700"
+                    onClick={() => {
+                      setHistoryOpen(false);
+                      if (isSubmitted) {
+                        router.push(`/practice/jlpt/attempt/${attempt.attemptId}/result`);
+                      } else {
+                        router.push(`/practice/jlpt/exam/${attempt.examId}`);
+                      }
+                    }}
+                  >
+                    <Box className="mb-2 flex items-start justify-between gap-2">
+                      <Box>
+                        <Typography
+                          variant="subtitle2"
+                          fontWeight={700}
+                          className="text-slate-800 dark:text-slate-100"
+                        >
+                          {attempt.examTitle}
+                        </Typography>
+                        <Typography variant="caption" className="text-slate-400">
+                          {dateStr}
+                        </Typography>
+                      </Box>
+                      <Box className="flex shrink-0 flex-col items-end gap-1">
+                        <Chip
+                          size="small"
+                          label={attempt.level}
+                          className="font-bold"
+                          color="primary"
+                          variant="outlined"
+                        />
+                        {isSubmitted ? (
+                          <Chip
+                            size="small"
+                            label={attempt.passed ? "Đỗ" : "Trượt"}
+                            color={attempt.passed ? "success" : "error"}
+                            className="font-bold"
+                            {...(attempt.passed ? { icon: <CheckCircleRoundedIcon /> } : {})}
+                          />
+                        ) : (
+                          <Chip
+                            size="small"
+                            label="Đang làm"
+                            color="warning"
+                            className="font-bold"
+                          />
+                        )}
+                      </Box>
+                    </Box>
+
+                    <Divider className="my-2" />
+
+                    <Box className="flex items-center justify-between">
+                      <Typography variant="body2" className="text-slate-500">
+                        Điểm:{" "}
+                        <b
+                          className={`${attempt.passed ? "text-emerald-600" : attempt.totalScaledScore != null ? "text-red-600" : "text-slate-400"} dark:text-current`}
+                        >
+                          {scoreLabel}
+                        </b>
+                      </Typography>
+                      <Button
+                        size="small"
+                        variant={isSubmitted ? "outlined" : "contained"}
+                        color={isSubmitted ? "primary" : "warning"}
+                        className="rounded-lg text-xs font-bold"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setHistoryOpen(false);
+                          if (isSubmitted) {
+                            router.push(`/practice/jlpt/attempt/${attempt.attemptId}/result`);
+                          } else {
+                            router.push(`/practice/jlpt/exam/${attempt.examId}`);
+                          }
+                        }}
+                      >
+                        {isSubmitted ? "Xem kết quả" : "Tiếp tục"}
+                      </Button>
+                    </Box>
+                  </Paper>
+                );
+              })}
+            </Box>
+          </Box>
+        </Box>
+      </Drawer>
     </Container>
   );
 }
