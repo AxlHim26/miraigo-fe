@@ -38,6 +38,10 @@ export type RoadmapNodeLayout = {
   labelPlacement: LabelPlacement;
 };
 
+export const ROADMAP_KANJI_PER_DAY = 10;
+
+export const roadmapLevelOrder = ["n5", "n4", "n3", "n2", "n1"] as const;
+
 const buildDays = (
   levelId: string,
   entries: Array<{ focus: string; note: string; kanji: string[] }>,
@@ -358,3 +362,37 @@ export const kanjiRoadmapLevels: [KanjiRoadmapLevel, ...KanjiRoadmapLevel[]] = [
     ]),
   },
 ];
+
+export const createRoadmapDays = (
+  levelId: string,
+  level: KanjiCluster["level"],
+  kanjiList: string[],
+) => {
+  const total = kanjiList.length;
+
+  return Array.from({ length: Math.ceil(total / ROADMAP_KANJI_PER_DAY) }, (_, index) => {
+    const start = index * ROADMAP_KANJI_PER_DAY;
+    const end = Math.min(start + ROADMAP_KANJI_PER_DAY, total);
+
+    return {
+      id: `${levelId}-day-${index + 1}`,
+      day: index + 1,
+      focus: `Chặng ${String(index + 1).padStart(2, "0")}`,
+      note: `Từ chữ ${start + 1} đến ${end} trong ${total} chữ JLPT ${level}.`,
+      kanji: kanjiList.slice(start, end),
+    };
+  });
+};
+
+export const deriveCurrentDay = (totalDays: number, progress: number) => {
+  if (totalDays <= 1) {
+    return 1;
+  }
+
+  if (progress >= 100) {
+    return totalDays;
+  }
+
+  const completedDays = Math.floor((progress / 100) * totalDays);
+  return Math.min(totalDays, completedDays + 1);
+};

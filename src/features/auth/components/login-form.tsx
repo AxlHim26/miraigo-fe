@@ -21,7 +21,6 @@ import * as React from "react";
 import { useShallow } from "zustand/react/shallow";
 
 import { createAppTheme } from "@/core/theme/create-theme";
-import GoogleAuthButton from "@/features/auth/components/google-auth-button";
 import { authenticate } from "@/features/auth/services/auth-api";
 import { authStorage } from "@/features/auth/utils/auth-storage";
 import { createAuthRoute, resolveRedirectTarget } from "@/features/auth/utils/redirect";
@@ -241,13 +240,6 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
               >
                 {mutation.isPending ? "Đang xác thực..." : "Đăng nhập"}
               </Button>
-
-              <GoogleAuthButton
-                mode="login"
-                redirectParam={redirectParam}
-                isDarkMode={isDarkMode}
-                helperText="Lần đầu dùng Google, MiraiGo sẽ tạo tài khoản cho bạn tự động."
-              />
 
               <Typography variant="caption" sx={{ textAlign: "center", color: "text.secondary" }}>
                 Chưa có tài khoản?{" "}

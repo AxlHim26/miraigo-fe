@@ -16,9 +16,16 @@ import { cn } from "@/shared/utils/cn";
 const ORBIT_SPAN = 220;
 const ORBIT_RADIUS_X = 112;
 const ORBIT_RADIUS_Y = 90;
+const ROADMAP_BLOCK_HEIGHT = 620;
+const ROADMAP_TOP_PADDING = 0;
+const ROADMAP_BOTTOM_PADDING = 0;
+const ROADMAP_STAGE_INSET = 22;
 
 type DayState = "complete" | "current" | "upcoming";
 type RoadmapNode = KanjiRoadmapLevel["days"][number] & RoadmapNodeLayout;
+type KanjiRoadmapViewProps = {
+  levels?: [KanjiRoadmapLevel, ...KanjiRoadmapLevel[]];
+};
 
 const orbitAngleCenter: Record<OrbitPlacement, number> = {
   top: 270,
@@ -126,30 +133,74 @@ const getNodeStyles = (state: DayState, level: KanjiRoadmapLevel, isHovered: boo
   };
 };
 
-export default function KanjiRoadmapView() {
-  const [activeLevelId, setActiveLevelId] = React.useState(defaultKanjiRoadmapLevelId);
-  const [hoveredDayId, setHoveredDayId] = React.useState<string | null>(null);
-  const fallbackLevel = kanjiRoadmapLevels[0];
+const getBlockLayoutY = (layout: RoadmapNodeLayout) =>
+  (layout.y / 100) * ROADMAP_BLOCK_HEIGHT - ROADMAP_STAGE_INSET;
 
-  const activeLevel = React.useMemo(
-    () => kanjiRoadmapLevels.find((level) => level.id === activeLevelId) ?? fallbackLevel,
-    [activeLevelId, fallbackLevel],
+const buildRoadmapNodes = (
+  level: KanjiRoadmapLevel,
+): { canvasHeight: number; nodes: RoadmapNode[] } => {
+  const blockCount = Math.max(1, Math.ceil(level.days.length / roadmapNodeLayout.length));
+  const innerCanvasHeight = Math.max(
+    ROADMAP_BLOCK_HEIGHT,
+    ROADMAP_TOP_PADDING + ROADMAP_BOTTOM_PADDING + blockCount * ROADMAP_BLOCK_HEIGHT,
   );
 
-  const nodes = React.useMemo<RoadmapNode[]>(
-    () =>
-      activeLevel.days.flatMap((day, index) => {
-        const layout = roadmapNodeLayout[index];
+  const nodes = level.days.flatMap((day, index) => {
+    const layoutIndex = roadmapNodeLayout.length - 1 - (index % roadmapNodeLayout.length);
+    const blockIndex = Math.floor(index / roadmapNodeLayout.length);
+    const layout = roadmapNodeLayout[layoutIndex];
 
-        return layout
-          ? [
-              {
-                ...day,
-                ...layout,
-              },
-            ]
-          : [];
-      }),
+    if (!layout) {
+      return [];
+    }
+
+    const blockTop =
+      innerCanvasHeight - ROADMAP_BOTTOM_PADDING - (blockIndex + 1) * ROADMAP_BLOCK_HEIGHT;
+
+    return [
+      {
+        ...day,
+        ...layout,
+        y: blockTop + getBlockLayoutY(layout),
+      },
+    ];
+  });
+
+  const topBlockNodeCount =
+    level.days.length % roadmapNodeLayout.length || roadmapNodeLayout.length;
+  const topBlockNodes = nodes.slice(-topBlockNodeCount);
+  const topBlockMinY = Math.min(...topBlockNodes.map((node) => node.y));
+  const fullBlockTopY = getBlockLayoutY(
+    roadmapNodeLayout[0] ?? roadmapNodeLayout[roadmapNodeLayout.length - 1]!,
+  );
+  const cropTop = Math.max(0, topBlockMinY - fullBlockTopY);
+
+  if (cropTop === 0) {
+    return { canvasHeight: innerCanvasHeight, nodes };
+  }
+
+  return {
+    canvasHeight: innerCanvasHeight - cropTop,
+    nodes: nodes.map((node) => ({
+      ...node,
+      y: node.y - cropTop,
+    })),
+  };
+};
+
+export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiRoadmapViewProps) {
+  const [activeLevelId, setActiveLevelId] = React.useState(defaultKanjiRoadmapLevelId);
+  const [hoveredDayId, setHoveredDayId] = React.useState<string | null>(null);
+  const viewportRef = React.useRef<HTMLDivElement | null>(null);
+  const fallbackLevel = levels[0];
+
+  const activeLevel = React.useMemo(
+    () => levels.find((level) => level.id === activeLevelId) ?? fallbackLevel,
+    [activeLevelId, fallbackLevel, levels],
+  );
+
+  const { canvasHeight, nodes } = React.useMemo(
+    () => buildRoadmapNodes(activeLevel),
     [activeLevel],
   );
 
@@ -171,6 +222,20 @@ export default function KanjiRoadmapView() {
     setHoveredDayId(null);
   }, [activeLevelId]);
 
+  React.useEffect(() => {
+    const viewport = viewportRef.current;
+
+    if (!viewport) {
+      return;
+    }
+
+    const frame = requestAnimationFrame(() => {
+      viewport.scrollTo({ top: viewport.scrollHeight, behavior: "auto" });
+    });
+
+    return () => cancelAnimationFrame(frame);
+  }, [activeLevelId, canvasHeight]);
+
   return (
     <div className="grid gap-6 lg:grid-cols-[320px_minmax(0,1fr)]">
       <Paper
@@ -178,7 +243,7 @@ export default function KanjiRoadmapView() {
         className="rounded-[32px] border border-[var(--app-border)] bg-[linear-gradient(180deg,rgba(250,252,255,0.96),rgba(243,247,255,0.98))] p-5 shadow-[0_26px_60px_-42px_rgba(15,23,42,0.5)] dark:bg-[linear-gradient(180deg,rgba(15,23,42,0.96),rgba(17,24,39,0.98))] sm:p-6"
       >
         <div className="space-y-3">
-          {kanjiRoadmapLevels.map((level) => {
+          {levels.map((level) => {
             const isActive = level.id === activeLevel.id;
 
             return (
@@ -264,156 +329,161 @@ export default function KanjiRoadmapView() {
         }}
       >
         <div
-          className="relative h-[620px] overflow-hidden px-4 py-6 sm:h-[700px] sm:px-6 sm:py-8 lg:h-[760px] lg:px-8"
+          ref={viewportRef}
+          className="relative h-[620px] overflow-y-auto px-4 py-6 sm:h-[700px] sm:px-6 sm:py-8 lg:h-[760px] lg:px-8"
           onMouseLeave={() => setHoveredDayId(null)}
         >
-          <div
-            className="pointer-events-none absolute inset-0"
-            style={{
-              background: `
-                radial-gradient(circle at 14% 18%, ${withAlpha(activeLevel.palette.solid, 0.12)}, transparent 28%),
-                radial-gradient(circle at 84% 14%, rgba(255,255,255,0.98), transparent 25%),
-                radial-gradient(circle at 68% 78%, ${withAlpha(activeLevel.palette.solid, 0.08)}, transparent 34%)
-              `,
-            }}
-          />
+          <div className="relative" style={{ height: canvasHeight }}>
+            <div
+              className="pointer-events-none absolute inset-0"
+              style={{
+                background: `
+                  radial-gradient(circle at 14% 18%, ${withAlpha(activeLevel.palette.solid, 0.12)}, transparent 28%),
+                  radial-gradient(circle at 84% 14%, rgba(255,255,255,0.98), transparent 25%),
+                  radial-gradient(circle at 68% 78%, ${withAlpha(activeLevel.palette.solid, 0.08)}, transparent 34%)
+                `,
+              }}
+            />
 
-          <div className="bg-white/34 pointer-events-none absolute inset-[22px] rounded-[32px] border border-white/70 backdrop-blur-[2px]" />
+            <div className="bg-white/34 pointer-events-none absolute inset-[22px] rounded-[32px] border border-white/70 backdrop-blur-[2px]" />
 
-          <svg
-            className="pointer-events-none absolute inset-[22px] h-[calc(100%-44px)] w-[calc(100%-44px)]"
-            viewBox="0 0 100 100"
-            preserveAspectRatio="none"
-            aria-hidden="true"
-          >
-            {connectorSegments.map(({ previousNode, node, index }) => {
-              const segmentState =
-                node.day < activeLevel.currentDay
-                  ? "complete"
-                  : node.day === activeLevel.currentDay
-                    ? "current"
-                    : "upcoming";
-
-              return (
-                <path
-                  key={`${previousNode.id}-${node.id}`}
-                  d={buildConnectorPath(previousNode, node, index)}
-                  fill="none"
-                  stroke={
-                    segmentState === "complete"
-                      ? withAlpha(activeLevel.palette.solid, 0.72)
-                      : segmentState === "current"
-                        ? withAlpha(activeLevel.palette.solid, 0.54)
-                        : "rgba(148,163,184,0.4)"
-                  }
-                  strokeWidth={1.3}
-                  strokeDasharray={segmentState === "upcoming" ? "5 9" : "6 7"}
-                  strokeLinecap="round"
-                />
-              );
-            })}
-          </svg>
-
-          {nodes.map((node) => {
-            const state = getDayState(node.day, activeLevel.currentDay);
-            const isHovered = hoveredDayId === node.id;
-            const nodeStyle = getNodeStyles(state, activeLevel, isHovered);
-
-            return (
-              <div
-                key={node.id}
-                className="absolute z-10"
-                style={{
-                  left: `${node.x}%`,
-                  top: `${node.y}%`,
-                  transform: "translate(-50%, -50%)",
-                }}
+            <div className="absolute inset-[22px]">
+              <svg
+                className="pointer-events-none absolute inset-0 h-full w-full"
+                viewBox={`0 0 100 ${canvasHeight - 44}`}
+                preserveAspectRatio="none"
+                aria-hidden="true"
               >
-                <div
-                  className={cn(
-                    "pointer-events-none absolute left-1/2 top-1/2 hidden h-[260px] w-[280px] -translate-x-1/2 -translate-y-1/2 sm:block",
-                    isHovered ? "opacity-100" : "opacity-0",
-                  )}
-                >
-                  <svg
-                    className="absolute inset-0 h-full w-full"
-                    viewBox="0 0 280 260"
-                    aria-hidden="true"
-                  >
+                {connectorSegments.map(({ previousNode, node, index }) => {
+                  const segmentState =
+                    node.day < activeLevel.currentDay
+                      ? "complete"
+                      : node.day === activeLevel.currentDay
+                        ? "current"
+                        : "upcoming";
+
+                  return (
                     <path
-                      d={buildOrbitArcPath(node.orbitPlacement)}
+                      key={`${previousNode.id}-${node.id}`}
+                      d={buildConnectorPath(previousNode, node, index)}
                       fill="none"
-                      stroke={withAlpha(activeLevel.palette.line, 0.76)}
-                      strokeWidth={2.2}
-                      strokeDasharray="7 10"
+                      stroke={
+                        segmentState === "complete"
+                          ? withAlpha(activeLevel.palette.solid, 0.72)
+                          : segmentState === "current"
+                            ? withAlpha(activeLevel.palette.solid, 0.54)
+                            : "rgba(148,163,184,0.4)"
+                      }
+                      strokeWidth={1.3}
+                      strokeDasharray={segmentState === "upcoming" ? "5 9" : "6 7"}
                       strokeLinecap="round"
                     />
-                  </svg>
+                  );
+                })}
+              </svg>
 
-                  {node.kanji.map((kanji, index) => {
-                    const orbit = getOrbitOffset(index, node.kanji.length, node.orbitPlacement);
+              {nodes.map((node) => {
+                const state = getDayState(node.day, activeLevel.currentDay);
+                const isHovered = hoveredDayId === node.id;
+                const nodeStyle = getNodeStyles(state, activeLevel, isHovered);
 
-                    return (
-                      <div
-                        key={`${node.id}-${kanji}-${index}`}
-                        className={cn(
-                          "absolute flex h-10 w-10 items-center justify-center rounded-full border text-base font-semibold text-slate-900 shadow-[0_20px_35px_-28px_rgba(15,23,42,0.9)] transition duration-300 sm:h-11 sm:w-11 sm:text-lg",
-                          isHovered ? "scale-100 opacity-100" : "scale-75 opacity-0",
-                        )}
-                        style={{
-                          left: "50%",
-                          top: "50%",
-                          transform: `translate(calc(-50% + ${orbit.x}px), calc(-50% + ${orbit.y}px))`,
-                          transitionDelay: isHovered ? `${index * 18}ms` : "0ms",
-                          backgroundColor: "rgba(255,255,255,0.96)",
-                          borderColor: withAlpha(activeLevel.palette.solid, 0.15),
-                        }}
-                      >
-                        {kanji}
-                      </div>
-                    );
-                  })}
-                </div>
-
-                {state === "current" ? (
+                return (
                   <div
-                    className="pointer-events-none absolute inset-0 rounded-[28px]"
+                    key={node.id}
+                    className="absolute z-10"
                     style={{
-                      transform: "scale(1.28)",
-                      backgroundColor: withAlpha(activeLevel.palette.solid, 0.12),
-                      boxShadow: `0 0 0 14px ${withAlpha(activeLevel.palette.solid, 0.07)}`,
+                      left: `${node.x}%`,
+                      top: `${node.y}px`,
+                      transform: "translate(-50%, -50%)",
                     }}
-                  />
-                ) : null}
+                  >
+                    <div
+                      className={cn(
+                        "pointer-events-none absolute left-1/2 top-1/2 hidden h-[260px] w-[280px] -translate-x-1/2 -translate-y-1/2 sm:block",
+                        isHovered ? "opacity-100" : "opacity-0",
+                      )}
+                    >
+                      <svg
+                        className="absolute inset-0 h-full w-full"
+                        viewBox="0 0 280 260"
+                        aria-hidden="true"
+                      >
+                        <path
+                          d={buildOrbitArcPath(node.orbitPlacement)}
+                          fill="none"
+                          stroke={withAlpha(activeLevel.palette.line, 0.76)}
+                          strokeWidth={2.2}
+                          strokeDasharray="7 10"
+                          strokeLinecap="round"
+                        />
+                      </svg>
 
-                <button
-                  type="button"
-                  aria-label={`Ngày ${node.day} - ${node.focus}`}
-                  onMouseEnter={() => setHoveredDayId(node.id)}
-                  onMouseLeave={() =>
-                    setHoveredDayId((current) => (current === node.id ? null : current))
-                  }
-                  onFocus={() => setHoveredDayId(node.id)}
-                  onBlur={() =>
-                    setHoveredDayId((current) => (current === node.id ? null : current))
-                  }
-                  onClick={() =>
-                    setHoveredDayId((current) => (current === node.id ? null : node.id))
-                  }
-                  className={cn(
-                    "relative flex h-[64px] w-[64px] items-center justify-center rounded-[24px] border text-lg font-black transition duration-300 sm:h-[72px] sm:w-[72px] sm:text-xl",
-                    isHovered || state === "current" ? "scale-110" : "scale-100",
-                  )}
-                  style={nodeStyle}
-                >
-                  <span>{node.day}</span>
-                  {state !== "upcoming" ? (
-                    <span className="absolute bottom-2 h-1.5 w-1.5 rounded-full bg-white/90" />
-                  ) : null}
-                </button>
-              </div>
-            );
-          })}
+                      {node.kanji.map((kanji, index) => {
+                        const orbit = getOrbitOffset(index, node.kanji.length, node.orbitPlacement);
+
+                        return (
+                          <div
+                            key={`${node.id}-${kanji}-${index}`}
+                            className={cn(
+                              "absolute flex h-10 w-10 items-center justify-center rounded-full border text-base font-semibold text-slate-900 shadow-[0_20px_35px_-28px_rgba(15,23,42,0.9)] transition duration-300 sm:h-11 sm:w-11 sm:text-lg",
+                              isHovered ? "scale-100 opacity-100" : "scale-75 opacity-0",
+                            )}
+                            style={{
+                              left: "50%",
+                              top: "50%",
+                              transform: `translate(calc(-50% + ${orbit.x}px), calc(-50% + ${orbit.y}px))`,
+                              transitionDelay: isHovered ? `${index * 18}ms` : "0ms",
+                              backgroundColor: "rgba(255,255,255,0.96)",
+                              borderColor: withAlpha(activeLevel.palette.solid, 0.15),
+                            }}
+                          >
+                            {kanji}
+                          </div>
+                        );
+                      })}
+                    </div>
+
+                    {state === "current" ? (
+                      <div
+                        className="pointer-events-none absolute inset-0 rounded-[28px]"
+                        style={{
+                          transform: "scale(1.28)",
+                          backgroundColor: withAlpha(activeLevel.palette.solid, 0.12),
+                          boxShadow: `0 0 0 14px ${withAlpha(activeLevel.palette.solid, 0.07)}`,
+                        }}
+                      />
+                    ) : null}
+
+                    <button
+                      type="button"
+                      aria-label={`Ngày ${node.day} - ${node.focus}`}
+                      onMouseEnter={() => setHoveredDayId(node.id)}
+                      onMouseLeave={() =>
+                        setHoveredDayId((current) => (current === node.id ? null : current))
+                      }
+                      onFocus={() => setHoveredDayId(node.id)}
+                      onBlur={() =>
+                        setHoveredDayId((current) => (current === node.id ? null : current))
+                      }
+                      onClick={() =>
+                        setHoveredDayId((current) => (current === node.id ? null : node.id))
+                      }
+                      className={cn(
+                        "relative flex h-[64px] w-[64px] items-center justify-center rounded-[24px] border text-lg font-black transition duration-300 sm:h-[72px] sm:w-[72px] sm:text-xl",
+                        isHovered || state === "current" ? "scale-110" : "scale-100",
+                      )}
+                      style={nodeStyle}
+                    >
+                      <span>{node.day}</span>
+                      {state !== "upcoming" ? (
+                        <span className="absolute bottom-2 h-1.5 w-1.5 rounded-full bg-white/90" />
+                      ) : null}
+                    </button>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
         </div>
 
         <div className="flex flex-wrap gap-2 px-4 pb-4 pt-3 sm:px-6 sm:pb-6 lg:px-8">
