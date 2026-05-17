@@ -123,7 +123,7 @@ export default function PracticeTranscribeView() {
   return (
     <Stack spacing={3} className="mx-auto max-w-2xl">
       <Typography variant="h4" fontWeight={700}>
-        📝 Gỡ Băng AI
+        Gỡ Băng AI
       </Typography>
       <Typography variant="body2" color="text.secondary">
         Upload file audio → AI tự động nhận diện ngôn ngữ từng đoạn và gỡ băng văn bản.
@@ -223,7 +223,7 @@ export default function PracticeTranscribeView() {
         <Box className="app-card rounded-2xl p-4">
           <Stack direction="row" justifyContent="space-between" alignItems="center" sx={{ mb: 2 }}>
             <Typography variant="body1" fontWeight={600}>
-              📝 Transcript
+              Transcript
             </Typography>
             <Button
               size="small"

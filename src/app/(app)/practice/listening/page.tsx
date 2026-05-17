@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 
-import PracticeComingSoon from "@/features/practice/components/practice-coming-soon";
+import PracticeListeningView from "@/features/practice/components/practice-listening-view";
 
 export const metadata: Metadata = {
-  title: "Nghe",
-  description: "Luyện nghe tiếng Nhật",
+  title: "Luyện Nghe",
+  description: "Luyện nghe tiếng Nhật với 2 mode: Quiz và Dictation",
 };
 
 export default function PracticeListeningPage() {
-  return <PracticeComingSoon title="Nghe" />;
+  return <PracticeListeningView />;
 }

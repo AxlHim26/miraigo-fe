@@ -217,7 +217,7 @@ export default function PracticeShadowingView() {
   return (
     <Stack spacing={3} className="mx-auto max-w-2xl">
       <Typography variant="h4" fontWeight={700}>
-        🔊 Shadowing
+        Shadowing
       </Typography>
       <Typography variant="body2" color="text.secondary">
         Nghe câu mẫu → Lặp lại → AI chấm điểm độ chính xác từng ký tự.
@@ -463,7 +463,7 @@ export default function PracticeShadowingView() {
             {/* Character diff */}
             <Box>
               <Typography variant="body2" fontWeight={600} sx={{ mb: 1 }}>
-                📝 So sánh ký tự:
+                So sánh ký tự:
               </Typography>
               <Box
                 sx={{

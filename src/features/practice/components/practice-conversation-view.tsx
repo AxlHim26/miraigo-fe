@@ -93,9 +93,9 @@ export default function PracticeConversationView() {
   }, []);
 
   const statusText = isRecording
-    ? "🔴 Đang thu âm..."
+    ? "Đang thu âm..."
     : isAnalyzing
-      ? "🧠 Đang phân tích..."
+      ? "Đang phân tích..."
       : "Nhấn micro để nói";
 
   return (
@@ -109,7 +109,7 @@ export default function PracticeConversationView() {
       >
         <div>
           <Typography variant="h4" fontWeight={700}>
-            🗣️ Hội Thoại Realtime
+            Hội Thoại Realtime
           </Typography>
           <Typography variant="body2" color="text.secondary">
             Nói tiếng Nhật — AI nhận diện ngôn ngữ và gỡ băng tức thì.
