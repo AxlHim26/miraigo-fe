@@ -14,10 +14,6 @@ type AuthenticatePayload = {
   password: string;
 };
 
-type GoogleAuthenticatePayload = {
-  idToken: string;
-};
-
 type RegisterPayload = {
   username: string;
   email: string;
@@ -52,14 +48,6 @@ export const authenticate = async ({ username, password }: AuthenticatePayload) 
   const response = await api.post<ApiEnvelope<AuthenticateData>>("/api/v1/auth/authenticate", {
     username,
     password,
-  });
-
-  return response.data.data;
-};
-
-export const authenticateWithGoogle = async ({ idToken }: GoogleAuthenticatePayload) => {
-  const response = await api.post<ApiEnvelope<AuthenticateData>>("/api/v1/auth/google", {
-    idToken,
   });
 
   return response.data.data;
