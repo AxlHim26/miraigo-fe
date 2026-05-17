@@ -37,6 +37,7 @@ export default function JlptMockListView({ level }: { level: string }) {
     title: string;
     examYear?: number;
     examMonth?: number;
+    totalDurationMinutes?: number;
   };
   const levelExams: ExamItem[] =
     exams?.filter((exam: ExamItem) => exam.level === level.toUpperCase()) || [];
