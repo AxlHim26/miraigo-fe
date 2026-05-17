@@ -216,6 +216,12 @@ export const practiceSidebarSections: NavSection[] = [
         href: "/practice/conversation",
         icon: <ForumIcon fontSize="small" />,
       },
+      {
+        id: "ai-shadowing",
+        label: "Shadowing AI",
+        href: "/practice/shadowing",
+        icon: <RecordVoiceOverIcon fontSize="small" />,
+      },
     ],
   },
 ];
