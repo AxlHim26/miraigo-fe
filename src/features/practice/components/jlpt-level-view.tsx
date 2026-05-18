@@ -2,6 +2,7 @@
 
 import ArrowBackRoundedIcon from "@mui/icons-material/ArrowBackRounded";
 import AssessmentRoundedIcon from "@mui/icons-material/AssessmentRounded";
+import AutoAwesomeIcon from "@mui/icons-material/AutoAwesome";
 import AutoStoriesRoundedIcon from "@mui/icons-material/AutoStoriesRounded";
 import HeadphonesRoundedIcon from "@mui/icons-material/HeadphonesRounded";
 import SpellcheckRoundedIcon from "@mui/icons-material/SpellcheckRounded";
@@ -145,6 +146,29 @@ export default function JlptLevelView({ level }: { level: string }) {
                   onClick={() => router.push(`/practice/jlpt/${level.toLowerCase()}/mock`)}
                 >
                   Thi Thử Ngay
+                </Button>
+              </Box>
+            </Box>
+
+            {/* AI Community Exam Section */}
+            <Box className="relative mt-6 overflow-hidden rounded-3xl bg-gradient-to-r from-emerald-500 to-teal-500 p-8 text-left text-white shadow-xl">
+              <div className="absolute bottom-0 left-0 -mb-16 -ml-16 h-48 w-48 rounded-full bg-white/10 blur-2xl"></div>
+              <Box className="relative z-10 flex flex-col items-center justify-between gap-6 md:flex-row">
+                <Box className="flex-1 space-y-2">
+                  <Typography variant="h5" fontWeight={800} className="flex items-center gap-2">
+                    <AutoAwesomeIcon /> Tạo Đề Thi Bằng AI 🪄
+                  </Typography>
+                  <Typography variant="body2" className="text-teal-50">
+                    Sử dụng ChatGPT/Gemini để tự động sinh ra đề thi chuẩn JLPT và chia sẻ với cộng
+                    đồng học viên.
+                  </Typography>
+                </Box>
+                <Button
+                  variant="contained"
+                  className="whitespace-nowrap rounded-full bg-white px-8 py-3 font-bold text-teal-700 shadow-lg hover:bg-slate-100"
+                  onClick={() => router.push("/practice/jlpt/create-exam")}
+                >
+                  Tạo Đề Mới
                 </Button>
               </Box>
             </Box>

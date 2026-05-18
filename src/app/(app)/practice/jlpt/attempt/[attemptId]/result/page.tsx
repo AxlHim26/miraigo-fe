@@ -7,7 +7,10 @@ export const metadata = {
   title: "JLPT Exam Result",
 };
 
-export default function JlptAttemptResultPage({ params }: { params: { attemptId: string } }) {
+export default async function JlptAttemptResultPage(props: {
+  params: Promise<{ attemptId: string }>;
+}) {
+  const params = await props.params;
   return (
     <Suspense fallback={<CircularProgress />}>
       <JlptResultView attemptId={params.attemptId} />

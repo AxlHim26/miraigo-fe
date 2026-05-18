@@ -215,6 +215,18 @@ const getDesignTokens = (mode: PaletteMode) => {
               color: tokens.text.secondary,
               opacity: 1,
             },
+            "&:-webkit-autofill": {
+              WebkitBoxShadow: `0 0 0 100px ${tokens.input.background} inset`,
+              WebkitTextFillColor: tokens.text.primary,
+            },
+            "&:-webkit-autofill:focus": {
+              WebkitBoxShadow: `0 0 0 100px ${tokens.input.background} inset`,
+              WebkitTextFillColor: tokens.text.primary,
+            },
+            "&:-webkit-autofill:hover": {
+              WebkitBoxShadow: `0 0 0 100px ${tokens.input.background} inset`,
+              WebkitTextFillColor: tokens.text.primary,
+            },
           },
         },
       },

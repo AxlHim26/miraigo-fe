@@ -17,6 +17,7 @@ import { useMutation } from "@tanstack/react-query";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import * as React from "react";
+import { useShallow } from "zustand/react/shallow";
 
 import { createAppTheme } from "@/core/theme/create-theme";
 import { registerAccount } from "@/features/auth/services/auth-api";
@@ -24,6 +25,7 @@ import { savePendingVerification } from "@/features/auth/utils/pending-verificat
 import { createAuthRoute, createAuthRouteWithParams } from "@/features/auth/utils/redirect";
 import { ApiError } from "@/lib/fetcher";
 import BrandLogo from "@/shared/components/ui/brand-logo";
+import { useThemeStore } from "@/shared/stores/theme-store";
 
 type RegisterFormProps = {
   redirectParam?: string | null;
@@ -43,7 +45,19 @@ export default function RegisterForm({ redirectParam = null }: RegisterFormProps
   const [confirmPassword, setConfirmPassword] = React.useState("");
   const [showPassword, setShowPassword] = React.useState(false);
   const [formError, setFormError] = React.useState<string | null>(null);
-  const isDarkMode = prefersDarkMode;
+  const { mode, hasHydrated } = useThemeStore(
+    useShallow((state) => ({
+      mode: state.mode,
+      hasHydrated: state.hasHydrated,
+    })),
+  );
+
+  const isDarkMode = hasHydrated
+    ? mode === "system"
+      ? prefersDarkMode
+      : mode === "dark"
+    : prefersDarkMode;
+
   const authTheme = React.useMemo(
     () => createAppTheme(isDarkMode ? "dark" : "light"),
     [isDarkMode],

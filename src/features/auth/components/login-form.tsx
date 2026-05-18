@@ -18,6 +18,7 @@ import { useMutation } from "@tanstack/react-query";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import * as React from "react";
+import { useShallow } from "zustand/react/shallow";
 
 import { createAppTheme } from "@/core/theme/create-theme";
 import { authenticate } from "@/features/auth/services/auth-api";
@@ -25,6 +26,7 @@ import { authStorage } from "@/features/auth/utils/auth-storage";
 import { createAuthRoute, resolveRedirectTarget } from "@/features/auth/utils/redirect";
 import { ApiError } from "@/lib/fetcher";
 import BrandLogo from "@/shared/components/ui/brand-logo";
+import { useThemeStore } from "@/shared/stores/theme-store";
 
 type LoginFormProps = {
   redirectParam?: string | null;
@@ -41,7 +43,19 @@ export default function LoginForm({ redirectParam = null }: LoginFormProps) {
   const [username, setUsername] = React.useState("");
   const [password, setPassword] = React.useState("");
   const [showPassword, setShowPassword] = React.useState(false);
-  const isDarkMode = prefersDarkMode;
+  const { mode, hasHydrated } = useThemeStore(
+    useShallow((state) => ({
+      mode: state.mode,
+      hasHydrated: state.hasHydrated,
+    })),
+  );
+
+  const isDarkMode = hasHydrated
+    ? mode === "system"
+      ? prefersDarkMode
+      : mode === "dark"
+    : prefersDarkMode;
+
   const authTheme = React.useMemo(
     () => createAppTheme(isDarkMode ? "dark" : "light"),
     [isDarkMode],
