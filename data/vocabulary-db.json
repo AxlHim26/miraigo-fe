@@ -1,0 +1,84 @@
+{
+  "sets": [
+    {
+      "id": "set-1779076881503",
+      "title": "đuaw",
+      "description": "ưdadaw",
+      "level": "N3",
+      "wordCount": 0,
+      "updatedAt": "2026-05-18T04:01:21.503Z",
+      "isCommunity": true
+    },
+    {
+      "id": "set-1779076909900",
+      "title": "dădadaw",
+      "description": "edawdaw",
+      "level": "N5",
+      "wordCount": 0,
+      "updatedAt": "2026-05-18T04:01:49.900Z",
+      "isCommunity": true
+    },
+    {
+      "id": "set-1779076917724",
+      "title": "ひひ",
+      "description": "",
+      "level": "N3",
+      "wordCount": 1,
+      "updatedAt": "2026-05-18T04:05:17.321Z",
+      "isCommunity": true
+    },
+    {
+      "id": "set-1779077128744",
+      "title": "ひひ (Clone)",
+      "description": "",
+      "level": "N3",
+      "wordCount": 1,
+      "updatedAt": "2026-05-18T04:05:28.797Z",
+      "isCommunity": false
+    },
+    {
+      "id": "set-1779077161189",
+      "title": "へへ",
+      "description": "",
+      "level": "N5",
+      "wordCount": 0,
+      "updatedAt": "2026-05-18T04:06:01.189Z",
+      "isCommunity": false
+    },
+    {
+      "id": "set-1779077173361",
+      "title": "ろろ",
+      "description": "",
+      "level": "N1",
+      "wordCount": 0,
+      "updatedAt": "2026-05-18T04:06:13.361Z",
+      "isCommunity": false
+    }
+  ],
+  "words": {
+    "set-1779076881503": [],
+    "set-1779076909900": [],
+    "set-1779076917724": [
+      {
+        "id": "word-1779076999816",
+        "japanese": "今日は",
+        "reading": "こんにちは",
+        "meaning": "xin chào, chào buổi chiều",
+        "example": "今日は、お元気？",
+        "exampleMeaning": "xin chào bạn khỏe không?"
+      }
+    ],
+    "set-1779077128744": [
+      {
+        "id": "word-1779077128797",
+        "japanese": "今日は",
+        "reading": "こんにちは",
+        "meaning": "xin chào, chào buổi chiều",
+        "example": "今日は、お元気？",
+        "exampleMeaning": "xin chào bạn khỏe không?"
+      }
+    ],
+    "set-1779077161189": [],
+    "set-1779077173361": []
+  }
+}
