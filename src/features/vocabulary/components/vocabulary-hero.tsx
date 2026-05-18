@@ -1,11 +1,25 @@
-import AddIcon from "@mui/icons-material/Add";
+"use client";
+
+import ExploreIcon from "@mui/icons-material/Explore";
 import MenuBookIcon from "@mui/icons-material/MenuBook";
 import Button from "@mui/material/Button";
 import Paper from "@mui/material/Paper";
 import Stack from "@mui/material/Stack";
 import Typography from "@mui/material/Typography";
+import { useQuery } from "@tanstack/react-query";
+import { useRouter } from "next/navigation";
+
+import { getVocabularyLibrary } from "@/features/vocabulary/services/vocabulary-service";
 
 export default function VocabularyHero() {
+  const router = useRouter();
+  const { data } = useQuery({
+    queryKey: ["vocabulary"],
+    queryFn: getVocabularyLibrary,
+  });
+
+  const setCount = data?.sets?.length || 0;
+
   return (
     <Stack spacing={3}>
       <Paper
@@ -21,23 +35,20 @@ export default function VocabularyHero() {
           </div>
           <div>
             <Typography variant="h5" fontWeight={700}>
-              Thư viện
+              Thư viện của tôi
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              0 bộ từ • 0 / 5 giới hạn
+              {setCount} bộ từ
             </Typography>
           </div>
         </div>
         <div className="flex items-center gap-2">
           <Button
-            variant="contained"
-            startIcon={<AddIcon />}
-            className="dark:!border dark:!border-[var(--app-border)] dark:!bg-[var(--app-surface-2)] dark:!text-[var(--app-fg)] dark:hover:!bg-[var(--app-active-bg)] dark:hover:!shadow-none"
+            variant="outlined"
+            startIcon={<ExploreIcon />}
+            onClick={() => router.push("/vocabulary/community")}
           >
-            Mới
-          </Button>
-          <Button variant="outlined" size="small">
-            Sắp xếp
+            Khám phá Cộng đồng
           </Button>
         </div>
       </div>
