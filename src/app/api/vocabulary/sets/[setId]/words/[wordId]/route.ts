@@ -38,10 +38,13 @@ export async function PUT(
       return NextResponse.json({ error: "Word not found" }, { status: 404 });
     }
 
-    const updatedWord = {
-      ...words[wordIndex]!,
-      ...data,
-    };
+    const currentWord = words[wordIndex]!;
+    const updatedWord = { ...currentWord };
+    if (data.japanese !== undefined) updatedWord.japanese = data.japanese;
+    if (data.reading !== undefined) updatedWord.reading = data.reading;
+    if (data.meaning !== undefined) updatedWord.meaning = data.meaning;
+    if (data.example !== undefined) updatedWord.example = data.example;
+    if (data.exampleMeaning !== undefined) updatedWord.exampleMeaning = data.exampleMeaning;
 
     db.words[setId]![wordIndex] = updatedWord;
     db.sets[setIndex]!.updatedAt = new Date().toISOString();

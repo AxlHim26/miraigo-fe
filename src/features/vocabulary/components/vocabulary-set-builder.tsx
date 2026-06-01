@@ -130,7 +130,7 @@ export default function VocabularySetBuilder({
           <FormControlLabel
             control={
               <Switch
-                checked={formData.isCommunity}
+                checked={formData.isCommunity ?? false}
                 onChange={(e) => setFormData((p) => ({ ...p, isCommunity: e.target.checked }))}
               />
             }

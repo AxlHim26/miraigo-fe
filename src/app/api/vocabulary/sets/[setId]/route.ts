@@ -39,11 +39,16 @@ export async function PUT(request: NextRequest, context: { params: Promise<{ set
       return NextResponse.json({ error: "Set not found" }, { status: 404 });
     }
 
+    const currentSet = db.sets[setIndex]!;
     const updatedSet = {
-      ...db.sets[setIndex]!,
-      ...data,
+      ...currentSet,
       updatedAt: new Date().toISOString(),
     };
+
+    if (data.title !== undefined) updatedSet.title = data.title;
+    if (data.description !== undefined) updatedSet.description = data.description;
+    if (data.level !== undefined) updatedSet.level = data.level;
+    if (data.isCommunity !== undefined) updatedSet.isCommunity = data.isCommunity;
 
     db.sets[setIndex] = updatedSet;
     writeDb(db);

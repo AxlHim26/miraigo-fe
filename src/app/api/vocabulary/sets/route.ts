@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 
 import { createSetSchema } from "@/features/vocabulary/types/schema";
 
-import { readDb, writeDb } from "../_db";
+import { DbSet, readDb, writeDb } from "../_db";
 
 export const dynamic = "force-dynamic";
 
@@ -18,15 +18,16 @@ export async function POST(request: NextRequest) {
     const data = parsed.data;
     const db = readDb();
 
-    const newSet = {
+    const newSet: DbSet = {
       id: `set-${Date.now()}`,
       title: data.title,
-      description: data.description,
-      level: data.level,
       wordCount: 0,
       updatedAt: new Date().toISOString(),
       isCommunity: data.isCommunity || false,
     };
+
+    if (data.description !== undefined) newSet.description = data.description;
+    if (data.level !== undefined) newSet.level = data.level;
 
     db.sets.push(newSet);
     db.words[newSet.id] = [];

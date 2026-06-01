@@ -85,7 +85,7 @@ export default function VocabularySetView({ setId }: VocabularySetViewProps) {
   };
 
   if (isLoadingSet || isLoadingWords) return <Typography>Đang tải...</Typography>;
-  if (!set) return <EmptyState title="Không tìm thấy bộ từ" />;
+  if (!set) return <EmptyState icon={<StyleIcon />} title="Không tìm thấy bộ từ" />;
 
   return (
     <Stack spacing={4} className="mx-auto max-w-5xl pb-10">
@@ -173,6 +173,7 @@ export default function VocabularySetView({ setId }: VocabularySetViewProps) {
 
         {!words || words.length === 0 ? (
           <EmptyState
+            icon={<StyleIcon />}
             title="Chưa có từ vựng nào"
             description="Bấm thêm từ để bắt đầu xây dựng bộ từ này."
           />
@@ -252,7 +253,7 @@ export default function VocabularySetView({ setId }: VocabularySetViewProps) {
         open={wordBuilderOpen}
         onClose={() => setWordBuilderOpen(false)}
         setId={setId}
-        initialData={editingWord}
+        {...(editingWord ? { initialData: editingWord } : {})}
       />
       <VocabularySetBuilder
         open={setBuilderOpen}

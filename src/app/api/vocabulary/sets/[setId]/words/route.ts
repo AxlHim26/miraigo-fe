@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 
 import { createWordSchema } from "@/features/vocabulary/types/schema";
 
-import { readDb, writeDb } from "../../../_db";
+import { DbWord, readDb, writeDb } from "../../../_db";
 
 export const dynamic = "force-dynamic";
 
@@ -39,14 +39,15 @@ export async function POST(request: NextRequest, context: { params: Promise<{ se
       db.words[setId] = [];
     }
 
-    const newWord = {
+    const newWord: DbWord = {
       id: `word-${Date.now()}`,
       japanese: data.japanese,
       reading: data.reading,
       meaning: data.meaning,
-      example: data.example,
-      exampleMeaning: data.exampleMeaning,
     };
+
+    if (data.example !== undefined) newWord.example = data.example;
+    if (data.exampleMeaning !== undefined) newWord.exampleMeaning = data.exampleMeaning;
 
     db.words[setId].push(newWord);
 
