@@ -111,7 +111,7 @@ export default function PracticePronunciationView() {
   return (
     <Stack spacing={3} className="mx-auto max-w-2xl">
       <Typography variant="h4" fontWeight={700}>
-        🎙️ Luyện Phát Âm
+        Luyện Phát Âm
       </Typography>
       <Typography variant="body2" color="text.secondary">
         Đọc câu tiếng Nhật bên dưới, hệ thống AI sẽ nhận diện ngôn ngữ và chấm điểm phát âm của bạn.
@@ -270,7 +270,7 @@ export default function PracticePronunciationView() {
             {/* Transcript */}
             <Box>
               <Typography variant="body2" fontWeight={600} sx={{ mb: 0.5 }}>
-                📝 AI nghe được:
+                AI nghe được:
               </Typography>
               <Typography
                 variant="body1"

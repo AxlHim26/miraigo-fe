@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
 
-import PracticeComingSoon from "@/features/practice/components/practice-coming-soon";
+import PracticeShadowingView from "@/features/practice/components/practice-shadowing-view";
 
 export const metadata: Metadata = {
   title: "Shadowing",
-  description: "Tính năng Shadowing đang phát triển",
+  description: "Luyện Shadowing tiếng Nhật với AI chấm điểm từng ký tự",
 };
 
 export default function PracticeShadowingPage() {
-  return <PracticeComingSoon title="Shadowing" />;
+  return <PracticeShadowingView />;
 }

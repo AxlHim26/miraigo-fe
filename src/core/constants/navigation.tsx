@@ -1,4 +1,5 @@
 import AutoAwesomeIcon from "@mui/icons-material/AutoAwesome";
+import ForumIcon from "@mui/icons-material/Forum";
 import GraphicEqIcon from "@mui/icons-material/GraphicEq";
 import GridViewIcon from "@mui/icons-material/GridView";
 import HistoryRoundedIcon from "@mui/icons-material/HistoryRounded";
@@ -11,6 +12,7 @@ import PsychologyIcon from "@mui/icons-material/Psychology";
 import RecordVoiceOverIcon from "@mui/icons-material/RecordVoiceOver";
 import SchoolIcon from "@mui/icons-material/School";
 import SearchIcon from "@mui/icons-material/Search";
+import StyleIcon from "@mui/icons-material/Style";
 import SubtitlesIcon from "@mui/icons-material/Subtitles";
 
 import { grammarLevels } from "@/core/data/grammar";
@@ -186,6 +188,12 @@ export const practiceSidebarSections: NavSection[] = [
         icon: <RecordVoiceOverIcon fontSize="small" />,
       },
       {
+        id: "flashcard",
+        label: "Flashcard",
+        href: "/practice/flashcard",
+        icon: <StyleIcon fontSize="small" />,
+      },
+      {
         id: "jlpt",
         label: "Luyện thi JLPT",
         href: "/practice/jlpt",
@@ -195,7 +203,7 @@ export const practiceSidebarSections: NavSection[] = [
   },
   {
     id: "ai-voice",
-    title: "🤖 AI Voice",
+    title: "AI Voice",
     items: [
       {
         id: "pronunciation",
@@ -208,6 +216,18 @@ export const practiceSidebarSections: NavSection[] = [
         label: "Gỡ băng AI",
         href: "/practice/transcribe",
         icon: <SubtitlesIcon fontSize="small" />,
+      },
+      {
+        id: "conversation",
+        label: "Hội thoại Realtime",
+        href: "/practice/conversation",
+        icon: <ForumIcon fontSize="small" />,
+      },
+      {
+        id: "ai-shadowing",
+        label: "Shadowing AI",
+        href: "/practice/shadowing",
+        icon: <RecordVoiceOverIcon fontSize="small" />,
       },
     ],
   },

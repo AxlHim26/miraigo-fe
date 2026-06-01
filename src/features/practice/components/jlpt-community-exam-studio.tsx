@@ -209,7 +209,7 @@ export default function JlptCommunityExamStudio() {
       </Button>
 
       <Typography variant="h4" fontWeight={800} className="mb-2 dark:text-white">
-        AI Exam Studio 🪄
+        AI Exam Studio
       </Typography>
       <Typography variant="body1" className="mb-8 text-slate-500">
         Tạo đề thi JLPT mới toanh bằng cách ghép 2 phần Từ Vựng và Ngữ Pháp/Đọc Hiểu.

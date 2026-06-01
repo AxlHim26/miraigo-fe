@@ -156,7 +156,7 @@ export default function JlptLevelView({ level }: { level: string }) {
               <Box className="relative z-10 flex flex-col items-center justify-between gap-6 md:flex-row">
                 <Box className="flex-1 space-y-2">
                   <Typography variant="h5" fontWeight={800} className="flex items-center gap-2">
-                    <AutoAwesomeIcon /> Tạo Đề Thi Bằng AI 🪄
+                    <AutoAwesomeIcon /> Tạo Đề Thi Bằng AI
                   </Typography>
                   <Typography variant="body2" className="text-teal-50">
                     Sử dụng ChatGPT/Gemini để tự động sinh ra đề thi chuẩn JLPT và chia sẻ với cộng
