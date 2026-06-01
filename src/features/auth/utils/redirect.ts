@@ -19,6 +19,16 @@ export const resolveRedirectTarget = (value: string | null, fallback = "/courses
   return safeRedirect ?? fallback;
 };
 
+const getAppBaseUrl = () => {
+  const baseUrl = process.env["NEXT_PUBLIC_APP_URL"]?.trim();
+
+  if (!baseUrl) {
+    return "";
+  }
+
+  return baseUrl.replace(/\/+$/, "");
+};
+
 export const createAuthRoute = (pathname: string, redirect: string | null) => {
   return createAuthRouteWithParams(pathname, redirect);
 };
@@ -46,5 +56,6 @@ export const createAuthRouteWithParams = (
   }
 
   const query = search.toString();
-  return query ? `${pathname}?${query}` : pathname;
+  const path = query ? `${pathname}?${query}` : pathname;
+  return `${getAppBaseUrl()}${path}`;
 };
