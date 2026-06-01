@@ -5,7 +5,10 @@
     "query": "儕",
     "found": true,
     "strokeCount": 16,
-    "meaning": "companion",
+    "meaning": {
+      "en": "companion",
+      "vi": "bạn đồng hành"
+    },
     "kunyomi": [
       "ともがら"
     ],
@@ -18,7 +21,8 @@
         "example": "儕輩",
         "reading": "サイハイ",
         "meaning": {
-          "en": "colleagues, fellows, comrades"
+          "en": "colleagues, fellows, comrades",
+          "vi": "đồng nghiệp, bạn bè, đồng chí"
         },
         "romaji": "saihai"
       },
@@ -26,7 +30,8 @@
         "example": "儕輩",
         "reading": "サイハイ",
         "meaning": {
-          "en": "colleagues, fellows, comrades"
+          "en": "colleagues, fellows, comrades",
+          "vi": "đồng nghiệp, bạn bè, đồng chí"
         },
         "romaji": "saihai"
       }
@@ -36,7 +41,8 @@
         "example": "輩",
         "reading": "ともがら",
         "meaning": {
-          "en": "comrade, fellow"
+          "en": "comrade, fellow",
+          "vi": "đồng chí, bạn đồng hành"
         },
         "romaji": "tomogara"
       }
@@ -46,7 +52,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "亠",

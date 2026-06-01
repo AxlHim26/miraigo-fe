@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "yumi",
-    "meaning": "bow",
+    "meaning": {
+      "en": "bow",
+      "vi": "cây cung"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "弓道（きゅうどう）",
         "meaning": {
-          "english": "archery"
+          "english": "archery",
+          "en": "archery",
+          "vi": "bắn cung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "弓状（きゅうじょう）",
         "meaning": {
-          "english": "bow-shaped, arched"
+          "english": "bow-shaped, arched",
+          "en": "bow-shaped, arched",
+          "vi": "hình vòng cung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "洋弓（ようきゅう）",
         "meaning": {
-          "english": "Western-style archery"
+          "english": "Western-style archery",
+          "en": "Western-style archery",
+          "vi": "bắn cung kiểu phương Tây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "弓（ゆみ）",
         "meaning": {
-          "english": "bow [n.]"
+          "english": "bow [n.]",
+          "en": "bow [n.]",
+          "vi": "cây cung"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "弓矢（ゆみや）",
         "meaning": {
-          "english": "bow and arrow"
+          "english": "bow and arrow",
+          "en": "bow and arrow",
+          "vi": "cung tên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "弓形（ゆみなり）",
         "meaning": {
-          "english": "arched, crescent-shaped"
+          "english": "arched, crescent-shaped",
+          "en": "arched, crescent-shaped",
+          "vi": "cong hình lưỡi liềm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yumi_06_f.opus",
@@ -167,7 +182,9 @@
     "kanji": {
       "character": "弓",
       "meaning": {
-        "english": "bow"
+        "english": "bow",
+        "en": "bow",
+        "vi": "cây cung"
       },
       "strokes": {
         "count": 3,
@@ -211,7 +228,9 @@
         "romaji": "yumi"
       },
       "meaning": {
-        "english": "bow（in archery）"
+        "english": "bow（in archery）",
+        "en": "bow（in archery）",
+        "vi": "cung trong bắn cung"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yumi0.svg",
@@ -232,7 +251,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1802",
     "strokeCount": 3,
-    "meaning": "bow, bow (archery, violin)",
+    "meaning": {
+      "en": "bow, bow (archery, violin)",
+      "vi": "cung, vĩ kéo đàn"
+    },
     "kunyomi": [
       "ゆみ"
     ],
@@ -244,7 +266,8 @@
         "example": "弓",
         "reading": "キュウ",
         "meaning": {
-          "vi": "bow (and arrow), unit of distance to an archery target (approx. six feet), unit of distance for land surveying (approx. eight feet)"
+          "vi": "bow (and arrow), unit of distance to an archery target (approx. six feet), unit of distance for land surveying (approx. eight feet)",
+          "en": "bow (and arrow), unit of distance to an archery target (approx. six feet), unit of distance for land surveying (approx. eight feet)"
         },
         "romaji": "kyuu"
       },
@@ -252,7 +275,8 @@
         "example": "弓矢",
         "reading": "ユミヤ",
         "meaning": {
-          "vi": "bow and arrow, weapon, arms"
+          "vi": "bow and arrow, weapon, arms",
+          "en": "bow and arrow, weapon, arms"
         },
         "romaji": "yumiya"
       },
@@ -260,7 +284,8 @@
         "example": "洋弓",
         "reading": "ヨウキュウ",
         "meaning": {
-          "en": "(Western) archery, Western-style bow"
+          "en": "(Western) archery, Western-style bow",
+          "vi": "bắn cung phương Tây, cung kiểu phương Tây"
         },
         "romaji": "youkyuu"
       },
@@ -268,7 +293,8 @@
         "example": "鰓弓",
         "reading": "サイキュウ",
         "meaning": {
-          "en": "branchial arch, gill arch"
+          "en": "branchial arch, gill arch",
+          "vi": "cung mang"
         },
         "romaji": "saikyuu"
       }
@@ -278,7 +304,8 @@
         "example": "弓",
         "reading": "ゆみ",
         "meaning": {
-          "vi": "bow (weapon), archery, bow (for a violin, etc.)"
+          "vi": "bow (weapon), archery, bow (for a violin, etc.)",
+          "en": "bow (weapon), archery, bow (for a violin, etc.)"
         },
         "romaji": "yumi"
       },
@@ -286,7 +313,8 @@
         "example": "弓矢",
         "reading": "ゆみや",
         "meaning": {
-          "vi": "bow and arrow, weapon, arms"
+          "vi": "bow and arrow, weapon, arms",
+          "en": "bow and arrow, weapon, arms"
         },
         "romaji": "yumiya"
       },
@@ -294,7 +322,8 @@
         "example": "大弓",
         "reading": "だいきゅう",
         "meaning": {
-          "en": "bow, longbow"
+          "en": "bow, longbow",
+          "vi": "cung, trường cung"
         },
         "romaji": "daikyuu"
       },
@@ -302,14 +331,18 @@
         "example": "上げ弓",
         "reading": "あげゆみ",
         "meaning": {
-          "vi": "up-bow (technique used when playing a string instrument)"
+          "vi": "up-bow (technique used when playing a string instrument)",
+          "en": "up-bow (technique used when playing a string instrument)"
         },
         "romaji": "ageyumi"
       }
     ],
     "radical": {
       "symbol": "弓",
-      "meaning": "bow"
+      "meaning": {
+        "en": "bow",
+        "vi": "cây cung"
+      }
     },
     "parts": [
       "弓"
@@ -321,5 +354,7 @@
   },
   "hanViet": [
     "cung"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: hình chiếc cung cong sẵn dây để bắn tên."
 }

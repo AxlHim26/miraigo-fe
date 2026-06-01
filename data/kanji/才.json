@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "talent, counter for age",
+    "meaning": {
+      "en": "talent, counter for age",
+      "vi": "tài năng, tuổi"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "十八才（じゅうはっさい）",
         "meaning": {
-          "english": "18 years old"
+          "english": "18 years old",
+          "en": "18 years old",
+          "vi": "mười tám tuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "何才（なんさい）",
         "meaning": {
-          "english": "how old"
+          "english": "how old",
+          "en": "how old",
+          "vi": "bao nhiêu tuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "才能（さいのう）",
         "meaning": {
-          "english": "talent"
+          "english": "talent",
+          "en": "talent",
+          "vi": "tài năng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "天才（てんさい）",
         "meaning": {
-          "english": "genius"
+          "english": "genius",
+          "en": "genius",
+          "vi": "thiên tài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "漫才（まんざい）",
         "meaning": {
-          "english": "comic dialogue"
+          "english": "comic dialogue",
+          "en": "comic dialogue",
+          "vi": "hài đối thoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nan)sai_06_e.opus",
@@ -303,5 +316,7 @@
   },
   "hanViet": [
     "tài"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: chữ 才 như bàn tay khéo xoay một nét nhỏ, gợi năng khiếu và tài năng bẩm sinh."
 }

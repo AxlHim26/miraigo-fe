@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "966",
     "strokeCount": 8,
-    "meaning": "join, get together, unite, collective",
+    "meaning": {
+      "en": "join, get together, unite, collective",
+      "vi": "gộp lại, tụ họp, hợp nhất, tập thể"
+    },
     "kunyomi": [
       "あわ.せる"
     ],
@@ -20,7 +23,8 @@
         "example": "併合",
         "reading": "ヘイゴウ",
         "meaning": {
-          "vi": "merger, joining into one, amalgamation, melding, merging, annexation, absorption"
+          "en": "merger, joining into one, amalgamation, melding, merging, annexation, absorption",
+          "vi": "sự sáp nhập, hợp nhất thành một, hợp thể, hòa nhập, sáp nhập, thôn tính, hấp thụ"
         },
         "romaji": "heigou"
       },
@@ -28,7 +32,8 @@
         "example": "並行",
         "reading": "ヘイコウ",
         "meaning": {
-          "vi": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with"
+          "en": "going side-by-side, going abreast, running concurrently, occurring at the same time, keeping pace with",
+          "vi": "đi song song, đi ngang hàng, diễn ra đồng thời, xảy ra cùng lúc, theo kịp"
         },
         "romaji": "heikou"
       }
@@ -38,7 +43,8 @@
         "example": "合わせる",
         "reading": "あわせる",
         "meaning": {
-          "vi": "to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight"
+          "en": "to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight",
+          "vi": "khớp (nhịp, tốc độ, v.v.), ghép lại, hợp nhất, kết hợp, cộng gộp, đối mặt, đối diện (ai đó), so sánh, đối chiếu, khiến gặp phải (như số phận không hay), đặt cùng nhau, nối lại, chồng lấp, pha trộn, giao kiếm, chiến đấu"
         },
         "romaji": "awaseru"
       }
@@ -48,7 +54,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

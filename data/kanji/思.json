@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "omo, omou, omoi",
-    "meaning": "think",
+    "meaning": {
+      "en": "think",
+      "vi": "nghĩ, suy nghĩ"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "思考する（しこうする）",
         "meaning": {
-          "english": "think"
+          "english": "think",
+          "en": "think",
+          "vi": "suy nghĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-omo(u)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "意思（いし）",
         "meaning": {
-          "english": "intention"
+          "english": "intention",
+          "en": "intention",
+          "vi": "ý chí, ý định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-omo(u)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "思想（しそう）",
         "meaning": {
-          "english": "thought, ideas"
+          "english": "thought, ideas",
+          "en": "thought, ideas",
+          "vi": "tư tưởng, ý nghĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-omo(u)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "不思議な（ふしぎな）",
         "meaning": {
-          "english": "strange, mysterious"
+          "english": "strange, mysterious",
+          "en": "strange, mysterious",
+          "vi": "kỳ lạ, bí ẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-omo(u)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "思う（おもう）",
         "meaning": {
-          "english": "feel, think"
+          "english": "feel, think",
+          "en": "feel, think",
+          "vi": "nghĩ, cảm thấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-omo(u)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "思い出す（おもいだす）",
         "meaning": {
-          "english": "recall"
+          "english": "recall",
+          "en": "recall",
+          "vi": "nhớ lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-omo(u)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "思い出（おもいで）",
         "meaning": {
-          "english": "memories"
+          "english": "memories",
+          "en": "memories",
+          "vi": "kỷ niệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-omo(u)_06_g.opus",
@@ -399,5 +416,7 @@
     "tai",
     "tư",
     "tứ"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: trên là ruộng 田, dưới là tim 心, điều gì nằm trong tim và đầu óc thì mình luôn suy nghĩ đến."
 }

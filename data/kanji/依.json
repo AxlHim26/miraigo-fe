@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "depend on",
+    "meaning": {
+      "en": "depend on",
+      "vi": "phụ thuộc vào"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "依頼心（いらいしん）",
         "meaning": {
-          "english": "spirit of dependence"
+          "english": "spirit of dependence",
+          "en": "spirit of dependence",
+          "vi": "tinh thần ỷ lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "依頼する（いらいする）",
         "meaning": {
-          "english": "request [v.t.]"
+          "english": "request [v.t.]",
+          "en": "request [v.t.]",
+          "vi": "yêu cầu [ngoại động từ]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "依存する（いぞんする）",
         "meaning": {
-          "english": "depend on, rely on"
+          "english": "depend on, rely on",
+          "en": "depend on, rely on",
+          "vi": "phụ thuộc vào, dựa vào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "依拠する（いきょする）",
         "meaning": {
-          "english": "based on"
+          "english": "based on",
+          "en": "based on",
+          "vi": "dựa trên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "依然として（いぜんとして）",
         "meaning": {
-          "english": "still, as yet, as of old"
+          "english": "still, as yet, as of old",
+          "en": "still, as yet, as of old",
+          "vi": "vẫn, cho đến nay, như xưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "帰依する（きえする）",
         "meaning": {
-          "english": "devote oneself to (religion)"
+          "english": "devote oneself to (religion)",
+          "en": "devote oneself to (religion)",
+          "vi": "dốc lòng theo (tôn giáo)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_f.opus",
@@ -159,7 +174,9 @@
     "kanji": {
       "character": "依",
       "meaning": {
-        "english": "depend on"
+        "english": "depend on",
+        "en": "depend on",
+        "vi": "phụ thuộc vào"
       },
       "strokes": {
         "count": 8,
@@ -213,7 +230,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -234,7 +253,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "906",
     "strokeCount": 8,
-    "meaning": "reliant, depend on, consequently, therefore, due to",
+    "meaning": {
+      "en": "reliant, depend on, consequently, therefore, due to",
+      "vi": "phụ thuộc, dựa vào, do đó, vì vậy, do"
+    },
     "kunyomi": [
       "よ.る"
     ],
@@ -247,7 +269,8 @@
         "example": "依然",
         "reading": "イゼン",
         "meaning": {
-          "en": "still, as yet, as it has been"
+          "en": "still, as yet, as it has been",
+          "vi": "vẫn, cho đến nay, như vốn thế"
         },
         "romaji": "izen"
       },
@@ -255,7 +278,8 @@
         "example": "委嘱",
         "reading": "イショク",
         "meaning": {
-          "vi": "commissioning, entrusting (with), request, appointment (to a position)"
+          "vi": "giao phó, ủy thác, yêu cầu, bổ nhiệm (vào chức vụ)",
+          "en": "commissioning, entrusting (with), request, appointment (to a position)"
         },
         "romaji": "ishoku"
       },
@@ -263,7 +287,8 @@
         "example": "依々",
         "reading": "イイ",
         "meaning": {
-          "vi": "affectionately attached, reluctant to part"
+          "vi": "quyến luyến, không nỡ rời xa",
+          "en": "affectionately attached, reluctant to part"
         },
         "romaji": "ii"
       },
@@ -271,7 +296,8 @@
         "example": "憑依",
         "reading": "ヒョウイ",
         "meaning": {
-          "vi": "possession (by a spirit, demon, etc.), dependence (on)"
+          "vi": "bị nhập (bởi linh hồn, yêu ma, v.v.), sự phụ thuộc (vào)",
+          "en": "possession (by a spirit, demon, etc.), dependence (on)"
         },
         "romaji": "hyoui"
       },
@@ -279,7 +305,8 @@
         "example": "依蘭苔",
         "reading": "エイランタイ",
         "meaning": {
-          "en": "Iceland moss (Cetraria islandica), Iceland lichen"
+          "en": "Iceland moss (Cetraria islandica), Iceland lichen",
+          "vi": "địa y Iceland (Cetraria islandica)"
         },
         "romaji": "eirantai"
       },
@@ -287,7 +314,8 @@
         "example": "依怙",
         "reading": "エコ",
         "meaning": {
-          "vi": "favoritism, favouritism, partiality, prejudice, bias"
+          "vi": "thiên vị, ưu ái, thành kiến, định kiến",
+          "en": "favoritism, favouritism, partiality, prejudice, bias"
         },
         "romaji": "eko"
       },
@@ -295,7 +323,8 @@
         "example": "帰依",
         "reading": "キエ",
         "meaning": {
-          "en": "becoming a devout believer, (religious) conversion"
+          "en": "becoming a devout believer, (religious) conversion",
+          "vi": "trở thành tín đồ sùng đạo, cải đạo"
         },
         "romaji": "kie"
       }
@@ -305,7 +334,8 @@
         "example": "依る",
         "reading": "よる",
         "meaning": {
-          "vi": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+          "vi": "là do, bị gây ra bởi, phụ thuộc vào, tùy thuộc vào, dựa trên, xuất phát từ, đặt tại (địa điểm, tổ chức), đóng trụ sở tại",
+          "en": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
         },
         "romaji": "yoru"
       }
@@ -315,7 +345,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "亠",

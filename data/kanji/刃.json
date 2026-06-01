@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1763",
     "strokeCount": 3,
-    "meaning": "blade, sword, edge",
+    "meaning": {
+      "en": "blade, sword, edge",
+      "vi": "lưỡi dao, kiếm, cạnh sắc"
+    },
     "kunyomi": [
       "は",
       "やいば",
@@ -23,7 +26,8 @@
         "example": "兵刃",
         "reading": "ヘイジン",
         "meaning": {
-          "en": "sword blade"
+          "en": "sword blade",
+          "vi": "lưỡi kiếm"
         },
         "romaji": "heijin"
       },
@@ -31,7 +35,8 @@
         "example": "刀刃",
         "reading": "トウジン",
         "meaning": {
-          "en": "sword blade"
+          "en": "sword blade",
+          "vi": "lưỡi kiếm"
         },
         "romaji": "toujin"
       },
@@ -39,7 +44,8 @@
         "example": "刃傷",
         "reading": "ニンジョウ",
         "meaning": {
-          "en": "bloodshed"
+          "en": "bloodshed",
+          "vi": "đổ máu"
         },
         "romaji": "ninjou"
       },
@@ -47,7 +53,8 @@
         "example": "刃傷沙汰",
         "reading": "ニンジョウザタ",
         "meaning": {
-          "en": "bloodshed"
+          "en": "bloodshed",
+          "vi": "đổ máu"
         },
         "romaji": "ninjouzata"
       }
@@ -57,7 +64,8 @@
         "example": "刃",
         "reading": "は",
         "meaning": {
-          "vi": "edge (of a knife or sword), blade, prong (of an electrical plug)"
+          "vi": "edge (of a knife or sword), blade, prong (of an electrical plug)",
+          "en": "edge (of a knife or sword), blade, prong (of an electrical plug)"
         },
         "romaji": "ha"
       },
@@ -65,7 +73,8 @@
         "example": "鋼",
         "reading": "はがね",
         "meaning": {
-          "en": "steel, sword steel, sword"
+          "en": "steel, sword steel, sword",
+          "vi": "thép, thép làm kiếm, kiếm"
         },
         "romaji": "hagane"
       },
@@ -73,7 +82,8 @@
         "example": "諸刃",
         "reading": "もろは",
         "meaning": {
-          "en": "double-edged (e.g. sword blade), double-beveled (e.g. kitchen knife), double-edged blade"
+          "en": "double-edged (e.g. sword blade), double-beveled (e.g. kitchen knife), double-edged blade",
+          "vi": "hai lưỡi, vát hai bên, lưỡi dao hai cạnh"
         },
         "romaji": "moroha"
       },
@@ -81,7 +91,8 @@
         "example": "抜き刃",
         "reading": "ぬきは",
         "meaning": {
-          "en": "die blade, cutting die"
+          "en": "die blade, cutting die",
+          "vi": "dao khuôn cắt"
         },
         "romaji": "nukiha"
       },
@@ -89,7 +100,8 @@
         "example": "刃",
         "reading": "やいば",
         "meaning": {
-          "vi": "blade, sword, forged blade, wavy pattern on forged blades, sharpness, unhulled rice"
+          "vi": "blade, sword, forged blade, wavy pattern on forged blades, sharpness, unhulled rice",
+          "en": "blade, sword, forged blade, wavy pattern on forged blades, sharpness, unhulled rice"
         },
         "romaji": "yaiba"
       },
@@ -97,7 +109,8 @@
         "example": "刃を交える",
         "reading": "やいばをまじえる",
         "meaning": {
-          "en": "to cross swords (with)"
+          "en": "to cross swords (with)",
+          "vi": "giao đấu, so tài với"
         },
         "romaji": "yaibawomajieru"
       },
@@ -105,7 +118,8 @@
         "example": "鬼滅の刃",
         "reading": "きめつのやいば",
         "meaning": {
-          "en": "Demon Slayer: Kimetsu no Yaiba (manga, anime)"
+          "en": "Demon Slayer: Kimetsu no Yaiba (manga, anime)",
+          "vi": "Thanh Gươm Diệt Quỷ: Kimetsu no Yaiba"
         },
         "romaji": "kimetsunoyaiba"
       },
@@ -113,7 +127,8 @@
         "example": "氷の刃",
         "reading": "こおりのやいば",
         "meaning": {
-          "en": "gleaming sword"
+          "en": "gleaming sword",
+          "vi": "thanh kiếm sáng loáng"
         },
         "romaji": "koorinoyaiba"
       }
@@ -123,7 +138,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "丶",
@@ -137,5 +155,7 @@
   "hanViet": [
     "nhẫn",
     "nhận"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: thêm chấm đánh dấu chỗ sắc nhất của 刀, nên 刃 là lưỡi dao.",
+  "jlpt": "N1"
 }

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1025",
     "strokeCount": 9,
-    "meaning": "encroach, invade, raid, trespass, violate",
+    "meaning": {
+      "en": "encroach, invade, raid, trespass, violate",
+      "vi": "xâm phạm, xâm lược, đột kích, xâm nhập trái phép, vi phạm"
+    },
     "kunyomi": [
       "おか.す"
     ],
@@ -20,7 +23,8 @@
         "example": "侵攻",
         "reading": "シンコウ",
         "meaning": {
-          "en": "invasion"
+          "en": "invasion",
+          "vi": "sự xâm lược"
         },
         "romaji": "shinkou"
       },
@@ -28,7 +32,8 @@
         "example": "侵害",
         "reading": "シンガイ",
         "meaning": {
-          "vi": "infringement, violation, invasion, encroachment, trespass"
+          "vi": "sự xâm phạm, vi phạm, xâm lấn, lấn chiếm, xâm nhập trái phép",
+          "en": "infringement, violation, invasion, encroachment, trespass"
         },
         "romaji": "shingai"
       },
@@ -36,7 +41,8 @@
         "example": "不可侵",
         "reading": "フカシン",
         "meaning": {
-          "en": "inviolability, nonaggression, sacredness"
+          "en": "inviolability, nonaggression, sacredness",
+          "vi": "tính bất khả xâm phạm, không xâm lược, tính thiêng liêng"
         },
         "romaji": "fukashin"
       }
@@ -46,7 +52,8 @@
         "example": "侵す",
         "reading": "おかす",
         "meaning": {
-          "vi": "to invade, to raid, to violate (airspace, etc.), to intrude, to trespass, to infringe, to encroach, to harm, to afflict, to affect"
+          "vi": "xâm lược, đột kích, vi phạm (không phận, v.v.), xâm nhập, xâm phạm trái phép, lấn chiếm, gây hại, làm khổ, ảnh hưởng",
+          "en": "to invade, to raid, to violate (airspace, etc.), to intrude, to trespass, to infringe, to encroach, to harm, to afflict, to affect"
         },
         "romaji": "okasu"
       }
@@ -56,7 +63,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ヨ",

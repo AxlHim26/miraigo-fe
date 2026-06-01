@@ -7,13 +7,17 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "no, nobiru, nobasu",
-    "meaning": "stretch, lengthen, grow",
+    "meaning": {
+      "en": "stretch, lengthen, grow",
+      "vi": "kéo dài, vươn ra, phát triển"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "追伸（ついしん）",
         "meaning": {
-          "english": "postscript"
+          "en": "postscript",
+          "vi": "tái bút"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "伸縮する（しんしゅくする）",
         "meaning": {
-          "english": "expand and contract"
+          "en": "expand and contract",
+          "vi": "co giãn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "伸長する（しんちょうする）",
         "meaning": {
-          "english": "expand, extend, elongate"
+          "en": "expand, extend, elongate",
+          "vi": "mở rộng, kéo dài, làm dài ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "伸ばす（のばす）",
         "meaning": {
-          "english": "lengthen, reach out [v.t.]"
+          "en": "lengthen, reach out [v.t.]",
+          "vi": "làm dài ra, vươn ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "伸びる（のびる）",
         "meaning": {
-          "english": "stretch, extend, grow [v.i.]"
+          "en": "stretch, extend, grow [v.i.]",
+          "vi": "vươn ra, kéo dài, phát triển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "伸び率（のびりつ）",
         "meaning": {
-          "english": "growth rate"
+          "en": "growth rate",
+          "vi": "tốc độ tăng trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "背伸びする（せのびする）",
         "meaning": {
-          "english": "stand on tiptoe, stretch oneself"
+          "en": "stand on tiptoe, stretch oneself",
+          "vi": "kiễng chân, vươn người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "*欠伸（あくび）",
         "meaning": {
-          "english": "yawn [n.]"
+          "en": "yawn [n.]",
+          "vi": "cái ngáp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shin-no(biru)_06_h.opus",
@@ -194,7 +205,8 @@
     "kanji": {
       "character": "伸",
       "meaning": {
-        "english": "stretch, lengthen, grow"
+        "en": "stretch, lengthen, grow",
+        "vi": "kéo dài, vươn ra, phát triển"
       },
       "strokes": {
         "count": 7,
@@ -246,7 +258,8 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -267,7 +280,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "730",
     "strokeCount": 7,
-    "meaning": "expand, stretch, extend, lengthen, increase",
+    "meaning": {
+      "en": "expand, stretch, extend, lengthen, increase",
+      "vi": "mở rộng, kéo giãn, kéo dài, làm dài ra, tăng lên"
+    },
     "kunyomi": [
       "の.びる",
       "の.ばす",
@@ -282,6 +298,7 @@
         "example": "伸長",
         "reading": "シンチョウ",
         "meaning": {
+          "en": "expansion, extension, elongation, stretching",
           "vi": "expansion, extension, elongation, stretching"
         },
         "romaji": "shinchou"
@@ -290,6 +307,7 @@
         "example": "伸縮",
         "reading": "シンシュク",
         "meaning": {
+          "en": "expansion and contraction, elasticity, flexibility",
           "vi": "expansion and contraction, elasticity, flexibility"
         },
         "romaji": "shinshuku"
@@ -298,6 +316,7 @@
         "example": "続伸",
         "reading": "ゾクシン",
         "meaning": {
+          "en": "continuous rise (in market price)",
           "vi": "continuous rise (in market price)"
         },
         "romaji": "zokushin"
@@ -306,6 +325,7 @@
         "example": "急伸",
         "reading": "キュウシン",
         "meaning": {
+          "en": "sudden rise (esp. of stock prices), jump",
           "vi": "sudden rise (esp. of stock prices), jump"
         },
         "romaji": "kyuushin"
@@ -316,6 +336,7 @@
         "example": "伸びる",
         "reading": "のびる",
         "meaning": {
+          "en": "to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.), to straighten out, to be flattened, to become smooth, to spread (of paint, cream, etc.), to stretch out (e.g. of a hand), to extend, to lose elasticity, to become slack, to become soggy (e.g. of noodles), to make progress, to develop, to expand, to increase, to improve, to be exhausted, to get groggy, to be stunned (by a blow), to pass out, to collapse, to be prolonged (of a meeting, life span, etc.), to be extended (e.g. of a deadline), to lengthen (e.g. of the days), to be postponed, to be delayed, to be put off",
           "vi": "to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.), to straighten out, to be flattened, to become smooth, to spread (of paint, cream, etc.), to stretch out (e.g. of a hand), to extend, to lose elasticity, to become slack, to become soggy (e.g. of noodles), to make progress, to develop, to expand, to increase, to improve, to be exhausted, to get groggy, to be stunned (by a blow), to pass out, to collapse, to be prolonged (of a meeting, life span, etc.), to be extended (e.g. of a deadline), to lengthen (e.g. of the days), to be postponed, to be delayed, to be put off"
         },
         "romaji": "nobiru"
@@ -324,6 +345,7 @@
         "example": "伸ばす",
         "reading": "のばす",
         "meaning": {
+          "en": "to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand",
           "vi": "to grow long (e.g. hair, nails), to lengthen, to extend, to stretch, to reach out, to hold out, to straighten, to smooth out, to spread evenly (dough, cream, etc.), to dilute, to thin out, to postpone, to prolong, to strengthen, to develop, to expand"
         },
         "romaji": "nobasu"
@@ -332,6 +354,7 @@
         "example": "延べる",
         "reading": "のべる",
         "meaning": {
+          "en": "to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend",
           "vi": "to lay out (a futon), to make (bed), to spread out, to stretch, to widen, to postpone, to extend"
         },
         "romaji": "noberu"
@@ -340,6 +363,7 @@
         "example": "伸す",
         "reading": "のす",
         "meaning": {
+          "en": "to stretch, to extend, to lengthen, to spread, to gain influence, to become stronger, to increase (e.g. in scope), to go further, to extend one's journey, to smooth out, to roll out, to spread out (something folded), to iron out (creases), to knock out, to knock down",
           "vi": "to stretch, to extend, to lengthen, to spread, to gain influence, to become stronger, to increase (e.g. in scope), to go further, to extend one's journey, to smooth out, to roll out, to spread out (something folded), to iron out (creases), to knock out, to knock down"
         },
         "romaji": "nosu"
@@ -350,7 +374,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

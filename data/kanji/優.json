@@ -7,13 +7,17 @@
     "grade": 6,
     "hint_group": 50,
     "kunyomi": "yasashi, yasashisa, sugureru, yasa, sugu",
-    "meaning": "superior, actor, gentle, excel",
+    "meaning": {
+      "en": "superior, actor, gentle, excel",
+      "vi": "ưu việt, diễn viên, dịu dàng, vượt trội"
+    },
     "kstroke": 17,
     "examples": [
       {
         "japanese": "俳優（はいゆう）",
         "meaning": {
-          "english": "actor, actress"
+          "en": "actor, actress",
+          "vi": "diễn viên nam, diễn viên nữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "男優（だんゆう）",
         "meaning": {
-          "english": "actor"
+          "en": "actor",
+          "vi": "diễn viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "女優（じょゆう）",
         "meaning": {
-          "english": "actress"
+          "en": "actress",
+          "vi": "nữ diễn viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "優先権（ゆうせんけん）",
         "meaning": {
-          "english": "priority"
+          "en": "priority",
+          "vi": "quyền ưu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "優等生（ゆうとうせい）",
         "meaning": {
-          "english": "honor student"
+          "en": "honor student",
+          "vi": "học sinh ưu tú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "優越感（ゆうえつかん）",
         "meaning": {
-          "english": "superiority complex"
+          "en": "superiority complex",
+          "vi": "mặc cảm tự cao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "優秀な（ゆうしゅうな）",
         "meaning": {
-          "english": "superior, excellent"
+          "en": "superior, excellent",
+          "vi": "ưu việt, xuất sắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "優雅な（ゆうがな）",
         "meaning": {
-          "english": "elegant, refined"
+          "en": "elegant, refined",
+          "vi": "thanh nhã, tinh tế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "優勝する（ゆうしょうする）",
         "meaning": {
-          "english": "win a championship"
+          "en": "win a championship",
+          "vi": "giành chức vô địch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "優先する（ゆうせんする）",
         "meaning": {
-          "english": "prioritize"
+          "en": "prioritize",
+          "vi": "ưu tiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "優しい（やさしい）",
         "meaning": {
-          "english": "tender, kind, gentle"
+          "en": "tender, kind, gentle",
+          "vi": "dịu dàng, tử tế, mềm mỏng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_k.opus",
@@ -145,7 +159,8 @@
       {
         "japanese": "優れる（すぐれる）",
         "meaning": {
-          "english": "excel"
+          "en": "excel",
+          "vi": "vượt trội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yuu-yasa(shii)_06_l.opus",
@@ -278,7 +293,8 @@
     "kanji": {
       "character": "優",
       "meaning": {
-        "english": "superior, actor, gentle, excel"
+        "en": "superior, actor, gentle, excel",
+        "vi": "ưu việt, diễn viên, dịu dàng, vượt trội"
       },
       "strokes": {
         "count": 17,
@@ -350,7 +366,8 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -371,7 +388,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "334",
     "strokeCount": 17,
-    "meaning": "tenderness, excel, surpass, actor, superiority, gentleness",
+    "meaning": {
+      "en": "tenderness, excel, surpass, actor, superiority, gentleness",
+      "vi": "sự dịu dàng, vượt trội, vượt hơn, diễn viên, tính ưu việt, sự mềm mỏng"
+    },
     "kunyomi": [
       "やさ.しい",
       "すぐ.れる",
@@ -386,7 +406,8 @@
         "example": "優",
         "reading": "ユウ",
         "meaning": {
-          "vi": "Excellent (grade), A, superiority, excellence, gentle, graceful, elegant, skillful"
+          "en": "Excellent (grade), A, superiority, excellence, gentle, graceful, elegant, skillful",
+          "vi": "xuất sắc (xếp loại), hạng A, ưu việt, xuất sắc, dịu dàng, duyên dáng, thanh nhã, khéo léo"
         },
         "romaji": "yuu"
       },
@@ -394,7 +415,8 @@
         "example": "優位",
         "reading": "ユウイ",
         "meaning": {
-          "vi": "predominance, superiority, ascendancy, advantage, supremacy"
+          "en": "predominance, superiority, ascendancy, advantage, supremacy",
+          "vi": "sự vượt trội, ưu thế, thế thượng phong, lợi thế, quyền tối cao"
         },
         "romaji": "yuui"
       },
@@ -402,7 +424,8 @@
         "example": "声優",
         "reading": "セイユウ",
         "meaning": {
-          "en": "voice actor or actress (radio, animation, etc.)"
+          "en": "voice actor or actress (radio, animation, etc.)",
+          "vi": "diễn viên lồng tiếng (radio, hoạt hình, v.v.)"
         },
         "romaji": "seiyuu"
       },
@@ -410,7 +433,8 @@
         "example": "怪優",
         "reading": "カイユウ",
         "meaning": {
-          "vi": "actor or performer with fascinating acting and appearance"
+          "en": "actor or performer with fascinating acting and appearance",
+          "vi": "diễn viên hoặc người biểu diễn có diễn xuất và ngoại hình cuốn hút"
         },
         "romaji": "kaiyuu"
       },
@@ -418,7 +442,8 @@
         "example": "優曇華",
         "reading": "ウドンゲ",
         "meaning": {
-          "vi": "udumbara (mythical Indian plant often identified with the cluster fig, Ficus glomerata), something very rare (from the legend that the udumbara flowers once in 3000 years), Japanese fiber banana flower, green lacewing eggs"
+          "en": "udumbara (mythical Indian plant often identified with the cluster fig, Ficus glomerata), something very rare (from the legend that the udumbara flowers once in 3000 years), Japanese fiber banana flower, green lacewing eggs",
+          "vi": "udumbara (loài cây thần thoại Ấn Độ thường được đồng nhất với sung chùm, Ficus glomerata), thứ cực kỳ hiếm có theo truyền thuyết ba nghìn năm mới nở một lần, hoa chuối sợi Nhật Bản, trứng bọ cánh ren xanh"
         },
         "romaji": "udonge"
       },
@@ -426,7 +451,8 @@
         "example": "優婆夷",
         "reading": "ウバイ",
         "meaning": {
-          "vi": "upasika (devout female lay follower of Buddhism)"
+          "en": "upasika (devout female lay follower of Buddhism)",
+          "vi": "ưu bà di, nữ cư sĩ Phật giáo sùng tín"
         },
         "romaji": "ubai"
       },
@@ -434,7 +460,8 @@
         "example": "声優",
         "reading": "セイユウ",
         "meaning": {
-          "en": "voice actor or actress (radio, animation, etc.)"
+          "en": "voice actor or actress (radio, animation, etc.)",
+          "vi": "diễn viên lồng tiếng (radio, hoạt hình, v.v.)"
         },
         "romaji": "seiyuu"
       },
@@ -442,7 +469,8 @@
         "example": "怪優",
         "reading": "カイユウ",
         "meaning": {
-          "vi": "actor or performer with fascinating acting and appearance"
+          "en": "actor or performer with fascinating acting and appearance",
+          "vi": "diễn viên hoặc người biểu diễn có diễn xuất và ngoại hình cuốn hút"
         },
         "romaji": "kaiyuu"
       }
@@ -452,7 +480,8 @@
         "example": "優しい",
         "reading": "やさしい",
         "meaning": {
-          "en": "tender, kind, gentle, graceful, affectionate, amiable"
+          "en": "tender, kind, gentle, graceful, affectionate, amiable",
+          "vi": "dịu dàng, tử tế, mềm mỏng, duyên dáng, trìu mến, hòa nhã"
         },
         "romaji": "yasashii"
       },
@@ -460,7 +489,8 @@
         "example": "優しい声",
         "reading": "やさしいこえ",
         "meaning": {
-          "en": "soft voice"
+          "en": "soft voice",
+          "vi": "giọng nói nhẹ nhàng"
         },
         "romaji": "yasashiikoe"
       },
@@ -468,7 +498,8 @@
         "example": "優れる",
         "reading": "すぐれる",
         "meaning": {
-          "vi": "to be better (than), to be superior, to surpass, to excel, to be excellent"
+          "en": "to be better (than), to be superior, to surpass, to excel, to be excellent",
+          "vi": "tốt hơn, ưu việt hơn, vượt hơn, vượt trội, xuất sắc"
         },
         "romaji": "sugureru"
       },
@@ -476,7 +507,8 @@
         "example": "勝る",
         "reading": "まさる",
         "meaning": {
-          "vi": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate"
+          "en": "to excel, to surpass, to exceed, to have an edge, to be superior, to outrival, to outweigh, to preponderate",
+          "vi": "vượt trội, vượt hơn, vượt mức, chiếm ưu thế, hơn hẳn, lấn át"
         },
         "romaji": "masaru"
       },
@@ -484,7 +516,8 @@
         "example": "優るとも劣らない",
         "reading": "まさるともおとらない",
         "meaning": {
-          "vi": "not at all inferior to, rival or surpass, compare favorably (with)"
+          "en": "not at all inferior to, rival or surpass, compare favorably (with)",
+          "vi": "không hề thua kém, ngang ngửa hoặc vượt hơn, có thể so sánh thuận lợi với"
         },
         "romaji": "masarutomootoranai"
       }
@@ -494,7 +527,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

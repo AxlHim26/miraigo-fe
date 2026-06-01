@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1120",
     "strokeCount": 12,
-    "meaning": "yell, cry, call, scream, summon",
+    "meaning": {
+      "en": "yell, cry, call, scream, summon",
+      "vi": "gào, kêu, gọi, thét lên, triệu gọi"
+    },
     "kunyomi": [
       "わめ.く"
     ],
@@ -20,7 +23,8 @@
         "example": "喚問",
         "reading": "カンモン",
         "meaning": {
-          "en": "summons"
+          "en": "summons",
+          "vi": "giấy triệu tập, sự triệu gọi"
         },
         "romaji": "kanmon"
       },
@@ -28,7 +32,8 @@
         "example": "喚起",
         "reading": "カンキ",
         "meaning": {
-          "en": "arousal, excitation, awakening, evocation"
+          "en": "arousal, excitation, awakening, evocation",
+          "vi": "sự khơi dậy, kích thích, đánh thức, gợi lên"
         },
         "romaji": "kanki"
       },
@@ -36,7 +41,8 @@
         "example": "叫喚",
         "reading": "キョウカン",
         "meaning": {
-          "en": "shout, scream"
+          "en": "shout, scream",
+          "vi": "tiếng hét, tiếng thét"
         },
         "romaji": "kyoukan"
       },
@@ -44,7 +50,8 @@
         "example": "阿鼻叫喚",
         "reading": "アビキョウカン",
         "meaning": {
-          "vi": "agonizing cries, pandemonium, two of Buddhism's hells"
+          "vi": "agonizing cries, pandemonium, two of Buddhism's hells",
+          "en": "agonized screams, pandemonium, two Buddhist hells"
         },
         "romaji": "abikyoukan"
       }
@@ -54,14 +61,18 @@
         "example": "喚く",
         "reading": "わめく",
         "meaning": {
-          "en": "to shout, to cry (out), to yell, to scream, to clamour"
+          "en": "to shout, to cry (out), to yell, to scream, to clamour",
+          "vi": "la hét, kêu lên, gào, thét, om sòm"
         },
         "romaji": "wameku"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "儿",
@@ -77,5 +88,7 @@
   },
   "hanViet": [
     "hoán"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Miệng 口 phát ra tiếng gọi lớn để gọi ai đến, đó là 喚."
 }

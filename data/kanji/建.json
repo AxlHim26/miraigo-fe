@@ -7,13 +7,17 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ta, tatsu, tateru, tate",
-    "meaning": "build",
+    "meaning": {
+      "en": "build",
+      "vi": "xây dựng"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "建築（けんちく）",
         "meaning": {
-          "english": "architecture"
+          "en": "architecture",
+          "vi": "kiến trúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "建設する（けんせつする）",
         "meaning": {
-          "english": "construct"
+          "en": "construct",
+          "vi": "xây dựng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "再建する（さいけんする）",
         "meaning": {
-          "english": "rebuild"
+          "en": "rebuild",
+          "vi": "tái thiết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "建立する（こんりゅうする）",
         "meaning": {
-          "english": "erect (building) [v.t.]"
+          "en": "erect (building) [v.t.]",
+          "vi": "erect (building) [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "建つ（たつ）",
         "meaning": {
-          "english": "be built [v.i.]"
+          "en": "be built [v.i.]",
+          "vi": "be built [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "建てる（たてる）",
         "meaning": {
-          "english": "build [v.t.]"
+          "en": "build [v.t.]",
+          "vi": "build [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "建物（たてもの）",
         "meaning": {
-          "english": "building"
+          "en": "building",
+          "vi": "tòa nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "建前（たてまえ）",
         "meaning": {
-          "english": "public position"
+          "en": "public position",
+          "vi": "public position"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "二階建て（にかいだて）",
         "meaning": {
-          "english": "two-storied building"
+          "en": "two-storied building",
+          "vi": "two-storied building"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken-ta(teru)_06_i.opus",
@@ -266,7 +278,8 @@
     "kanji": {
       "character": "建",
       "meaning": {
-        "english": "build"
+        "en": "build",
+        "vi": "xây dựng"
       },
       "strokes": {
         "count": 9,
@@ -322,7 +335,8 @@
         "romaji": "ennyou"
       },
       "meaning": {
-        "english": "to move, stretch"
+        "en": "to move, stretch",
+        "vi": "to move, stretch"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ennyou0.svg",
@@ -336,6 +350,8 @@
       "classic_nelson": "1549"
     }
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Bước đi 廴 để dựng nên 聿: cứ tiến mà xây lên, kiến tạo.",
   "jishoData": {
     "query": "建",
     "found": true,
@@ -343,7 +359,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "300",
     "strokeCount": 9,
-    "meaning": "build",
+    "meaning": {
+      "en": "build",
+      "vi": "xây dựng"
+    },
     "kunyomi": [
       "た.てる",
       "た.て",
@@ -359,7 +378,8 @@
         "example": "建国",
         "reading": "ケンコク",
         "meaning": {
-          "en": "founding of a nation"
+          "en": "founding of a nation",
+          "vi": "founding of a nation"
         },
         "romaji": "kenkoku"
       },
@@ -367,6 +387,7 @@
         "example": "建議",
         "reading": "ケンギ",
         "meaning": {
+          "en": "proposition, motion, proposal, suggestion",
           "vi": "proposition, motion, proposal, suggestion"
         },
         "romaji": "kengi"
@@ -375,7 +396,8 @@
         "example": "経営再建",
         "reading": "ケイエイサイケン",
         "meaning": {
-          "en": "management reorganization, management reorganisation"
+          "en": "management reorganization, management reorganisation",
+          "vi": "management reorganization, management reorganisation"
         },
         "romaji": "keieisaiken"
       },
@@ -383,7 +405,8 @@
         "example": "財政再建",
         "reading": "ザイセイサイケン",
         "meaning": {
-          "en": "finance reform, fiscal reconstruction"
+          "en": "finance reform, fiscal reconstruction",
+          "vi": "finance reform, fiscal reconstruction"
         },
         "romaji": "zaiseisaiken"
       },
@@ -391,6 +414,7 @@
         "example": "建立",
         "reading": "コンリュウ",
         "meaning": {
+          "en": "(act of) building (temple, monument, etc.), erection",
           "vi": "(act of) building (temple, monument, etc.), erection"
         },
         "romaji": "konryuu"
@@ -399,6 +423,7 @@
         "example": "再建",
         "reading": "サイコン",
         "meaning": {
+          "en": "(temple or shrine) rebuilding",
           "vi": "(temple or shrine) rebuilding"
         },
         "romaji": "saikon"
@@ -409,7 +434,8 @@
         "example": "建てる",
         "reading": "たてる",
         "meaning": {
-          "en": "to build, to construct"
+          "en": "to build, to construct",
+          "vi": "to build, to construct"
         },
         "romaji": "tateru"
       },
@@ -417,7 +443,8 @@
         "example": "建て",
         "reading": "たて",
         "meaning": {
-          "en": "contract, commitment"
+          "en": "contract, commitment",
+          "vi": "contract, commitment"
         },
         "romaji": "tate"
       },
@@ -425,6 +452,7 @@
         "example": "建前",
         "reading": "たてまえ",
         "meaning": {
+          "en": "face, official stance, public position or attitude (as opposed to private thoughts), ceremony for the erection of the framework of a house",
           "vi": "face, official stance, public position or attitude (as opposed to private thoughts), ceremony for the erection of the framework of a house"
         },
         "romaji": "tatemae"
@@ -433,14 +461,18 @@
         "example": "建つ",
         "reading": "たつ",
         "meaning": {
-          "en": "to be erected, to be built"
+          "en": "to be erected, to be built",
+          "vi": "to be erected, to be built"
         },
         "romaji": "tatsu"
       }
     ],
     "radical": {
       "symbol": "廴",
-      "meaning": "long stride"
+      "meaning": {
+        "en": "long stride",
+        "vi": "long stride"
+      }
     },
     "parts": [
       "廴",

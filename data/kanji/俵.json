@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "tawara",
-    "meaning": "straw sack",
+    "meaning": {
+      "en": "straw sack",
+      "vi": "bao rơm"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "土俵（どひょう）",
         "meaning": {
-          "english": "sumo ring"
+          "english": "sumo ring",
+          "en": "sumo ring",
+          "vi": "võ đài sumo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tawara_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "一俵（いっぴょう）",
         "meaning": {
-          "english": "one straw bag"
+          "english": "one straw bag",
+          "en": "one straw bag",
+          "vi": "một bao rơm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tawara_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "俵（たわら）",
         "meaning": {
-          "english": "bale, sack"
+          "english": "bale, sack",
+          "en": "bale, sack",
+          "vi": "kiện, bao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tawara_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "米俵（こめだわら）",
         "meaning": {
-          "english": "straw rice bag"
+          "english": "straw rice bag",
+          "en": "straw rice bag",
+          "vi": "bao rơm đựng gạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tawara_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "炭俵（すみだわら）",
         "meaning": {
-          "english": "sack for charcoal"
+          "english": "sack for charcoal",
+          "en": "sack for charcoal",
+          "vi": "bao đựng than"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tawara_06_e.opus",
@@ -148,7 +161,9 @@
     "kanji": {
       "character": "俵",
       "meaning": {
-        "english": "straw sack"
+        "english": "straw sack",
+        "en": "straw sack",
+        "vi": "bao rơm"
       },
       "strokes": {
         "count": 10,
@@ -206,7 +221,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -227,7 +244,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1481",
     "strokeCount": 10,
-    "meaning": "bag, bale, sack, counter for bags",
+    "meaning": {
+      "en": "bag, bale, sack, counter for bags",
+      "vi": "bao, kiện, túi, từ đếm cho bao/túi"
+    },
     "kunyomi": [
       "たわら"
     ],
@@ -239,7 +259,8 @@
         "example": "俵",
         "reading": "タワラ",
         "meaning": {
-          "vi": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.)"
+          "vi": "bao rơm, bao, kiện, từ đếm cho các bao (gạo, khoai tây, than, v.v.)",
+          "en": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.)"
         },
         "romaji": "tawara"
       },
@@ -247,7 +268,8 @@
         "example": "俵数",
         "reading": "ヒョウスウ",
         "meaning": {
-          "en": "number of straw bags"
+          "en": "number of straw bags",
+          "vi": "số lượng bao rơm"
         },
         "romaji": "hyousuu"
       },
@@ -255,7 +277,8 @@
         "example": "土俵",
         "reading": "ドヒョウ",
         "meaning": {
-          "en": "(wrestling) ring, forum (e.g. for discussion), sandbag, gabion"
+          "en": "(wrestling) ring, forum (e.g. for discussion), sandbag, gabion",
+          "vi": "võ đài (đấu vật), diễn đàn (ví dụ: để thảo luận), bao cát, rọ đá"
         },
         "romaji": "dohyou"
       },
@@ -263,7 +286,8 @@
         "example": "初土俵",
         "reading": "ハツドヒョウ",
         "meaning": {
-          "en": "first tournament for a wrestler"
+          "en": "first tournament for a wrestler",
+          "vi": "giải đấu đầu tiên của một đô vật"
         },
         "romaji": "hatsudohyou"
       }
@@ -273,7 +297,8 @@
         "example": "俵",
         "reading": "たわら",
         "meaning": {
-          "vi": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.)"
+          "vi": "bao rơm, bao, kiện, từ đếm cho các bao (gạo, khoai tây, than, v.v.)",
+          "en": "straw bag, sack, bale, counter for sacks (of rice, potatoes, coal, etc.)"
         },
         "romaji": "tawara"
       },
@@ -281,7 +306,8 @@
         "example": "俵編",
         "reading": "たわらあみ",
         "meaning": {
-          "en": "making bags out of this year's straw (during autumn)"
+          "en": "making bags out of this year's straw (during autumn)",
+          "vi": "việc làm bao từ rơm của năm đó (vào mùa thu)"
         },
         "romaji": "tawaraami"
       }
@@ -291,7 +317,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "二",

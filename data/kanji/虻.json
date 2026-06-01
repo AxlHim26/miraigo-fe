@@ -5,7 +5,10 @@
     "query": "虻",
     "found": true,
     "strokeCount": 9,
-    "meaning": "gadfly, horsefly",
+    "meaning": {
+      "en": "gadfly, horsefly",
+      "vi": "ruồi trâu, mòng"
+    },
     "kunyomi": [
       "あぶ"
     ],
@@ -18,7 +21,8 @@
         "example": "虻",
         "reading": "あぶ",
         "meaning": {
-          "en": "horsefly, gadfly"
+          "en": "horsefly, gadfly",
+          "vi": "ruồi trâu, mòng"
         },
         "romaji": "abu"
       },
@@ -26,7 +30,8 @@
         "example": "虻蜂",
         "reading": "あぶはち",
         "meaning": {
-          "vi": "horsefly and bee, horsefly and wasp"
+          "vi": "ruồi trâu và ong, ruồi trâu và ong bắp cày",
+          "en": "horsefly and bee, horsefly and wasp"
         },
         "romaji": "abuhachi"
       },
@@ -34,7 +39,8 @@
         "example": "虫引虻",
         "reading": "むしひきあぶ",
         "meaning": {
-          "en": "robber fly (any fly of family Asilidae)"
+          "en": "robber fly (any fly of family Asilidae)",
+          "vi": "ruồi cướp mồi (các loài thuộc họ Asilidae)"
         },
         "romaji": "mushihikiabu"
       },
@@ -42,14 +48,18 @@
         "example": "牛虻",
         "reading": "うしあぶ",
         "meaning": {
-          "vi": "Tabanus trigonus (species of horsefly)"
+          "vi": "Tabanus trigonus (một loài ruồi trâu)",
+          "en": "Tabanus trigonus (species of horsefly)"
         },
         "romaji": "ushiabu"
       }
     ],
     "radical": {
       "symbol": "虫",
-      "meaning": "insect"
+      "meaning": {
+        "en": "insect",
+        "vi": "côn trùng"
+      }
     },
     "parts": [
       "亠",

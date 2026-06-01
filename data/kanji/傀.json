@@ -5,7 +5,10 @@
     "query": "傀",
     "found": true,
     "strokeCount": 12,
-    "meaning": "large",
+    "meaning": {
+      "en": "large",
+      "vi": "to lớn"
+    },
     "kunyomi": [
       "おおき.い"
     ],
@@ -17,7 +20,8 @@
         "example": "傀儡",
         "reading": "カイライ",
         "meaning": {
-          "vi": "puppet, marionette, dummy, puppeteer, prostitute"
+          "vi": "puppet, marionette, dummy, puppeteer, prostitute",
+          "en": "puppet, marionette, dummy, puppeteer, prostitute"
         },
         "romaji": "kairai"
       },
@@ -25,7 +29,8 @@
         "example": "傀儡国家",
         "reading": "カイライコッカ",
         "meaning": {
-          "vi": "puppet state"
+          "vi": "puppet state",
+          "en": "puppet state"
         },
         "romaji": "kairaikokka"
       }
@@ -36,7 +41,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "儿",

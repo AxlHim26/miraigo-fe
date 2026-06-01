@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "hall",
+    "meaning": {
+      "en": "hall",
+      "vi": "đại sảnh, hội trường"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "食堂（しょくどう）",
         "meaning": {
-          "english": "dining hall"
+          "english": "dining hall",
+          "en": "dining hall",
+          "vi": "nhà ăn, phòng ăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoku)dou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "議事堂（ぎじどう）",
         "meaning": {
-          "english": "Diet building"
+          "english": "Diet building",
+          "en": "Diet building",
+          "vi": "tòa nhà quốc hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoku)dou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "講堂（こうどう）",
         "meaning": {
-          "english": "auditorium"
+          "english": "auditorium",
+          "en": "auditorium",
+          "vi": "khán phòng, giảng đường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shoku)dou_06_c.opus",
@@ -164,7 +173,9 @@
     "kanji": {
       "character": "堂",
       "meaning": {
-        "english": "hall"
+        "english": "hall",
+        "en": "hall",
+        "vi": "đại sảnh, hội trường"
       },
       "strokes": {
         "count": 11,
@@ -224,7 +235,9 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -245,7 +258,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1010",
     "strokeCount": 11,
-    "meaning": "public chamber, hall",
+    "meaning": {
+      "en": "public chamber, hall",
+      "vi": "sảnh công cộng, hội trường"
+    },
     "kunyomi": [],
     "onyomi": [
       "ドウ"
@@ -255,7 +271,8 @@
         "example": "堂",
         "reading": "ドウ",
         "meaning": {
-          "vi": "temple, shrine, chapel, hall, company, front room"
+          "vi": "đền, miếu, nhà nguyện, đại sảnh, cửa hiệu, phòng ngoài",
+          "en": "temple, shrine, chapel, hall, company, front room"
         },
         "romaji": "dou"
       },
@@ -263,7 +280,8 @@
         "example": "堂々",
         "reading": "ドウドウ",
         "meaning": {
-          "vi": "magnificent, grand, impressive, dignified, majestic, imposing, stately, fair, square, open, unashamed, brazen, grandly, boldly, confidently, fairly, squarely, unreservedly, brazenly"
+          "vi": "hùng vĩ, to lớn, ấn tượng, đường hoàng, uy nghi, công khai, thẳng thắn, táo bạo",
+          "en": "magnificent, grand, impressive, dignified, majestic, imposing, stately, fair, square, open, unashamed, brazen, grandly, boldly, confidently, fairly, squarely, unreservedly, brazenly"
         },
         "romaji": "doudou"
       },
@@ -271,7 +289,8 @@
         "example": "殿堂",
         "reading": "デンドウ",
         "meaning": {
-          "vi": "palace, hall, shrine, temple, sanctuary, hall of fame"
+          "vi": "cung điện, đại sảnh, đền thờ, chùa, điện thờ, sảnh danh vọng",
+          "en": "palace, hall, shrine, temple, sanctuary, hall of fame"
         },
         "romaji": "dendou"
       },
@@ -279,7 +298,8 @@
         "example": "議事堂",
         "reading": "ギジドウ",
         "meaning": {
-          "vi": "assembly hall, parliament house, diet building, capitol, houses of parliament, congress hall"
+          "vi": "hội trường, tòa nhà quốc hội, điện quốc hội",
+          "en": "assembly hall, parliament house, diet building, capitol, houses of parliament, congress hall"
         },
         "romaji": "gijidou"
       }
@@ -287,7 +307,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "冖",
@@ -303,5 +326,7 @@
   "hanViet": [
     "đàng",
     "đường"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: mái cao và nền đất rộng tạo thành một gian đường lớn, nên 堂 là hội trường, đại sảnh."
 }

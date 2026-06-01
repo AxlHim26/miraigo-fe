@@ -7,14 +7,19 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "chi",
-    "meaning": "nghìn",
+    "meaning": {
+      "en": "thousand",
+      "vi": "nghìn"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "千（せん）",
         "meaning": {
           "english": "1000",
-          "vietnamese": "1000"
+          "vietnamese": "1000",
+          "en": "1000",
+          "vi": "1000"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-chi_06_a.opus",
@@ -27,7 +32,9 @@
         "japanese": "三千（さんぜん）",
         "meaning": {
           "english": "3000",
-          "vietnamese": "3000"
+          "vietnamese": "3000",
+          "en": "3000",
+          "vi": "3000"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-chi_06_b.opus",
@@ -40,7 +47,9 @@
         "japanese": "八千（はっせん）",
         "meaning": {
           "english": "8000",
-          "vietnamese": "8000"
+          "vietnamese": "8000",
+          "en": "8000",
+          "vi": "8000"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-chi_06_c.opus",
@@ -53,7 +62,9 @@
         "japanese": "千切れる（ちぎれる）",
         "meaning": {
           "english": "be torn off",
-          "vietnamese": "bị xé rời"
+          "vietnamese": "bị xé rời",
+          "en": "be torn off",
+          "vi": "bị xé rời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-chi_06_d.opus",
@@ -66,7 +77,9 @@
         "japanese": "千鳥（ちどり）",
         "meaning": {
           "english": "plover",
-          "vietnamese": "chim choi choi"
+          "vietnamese": "chim choi choi",
+          "en": "plover",
+          "vi": "chim choi choi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-chi_06_e.opus",
@@ -212,7 +225,9 @@
       "character": "千",
       "meaning": {
         "english": "thousand",
-        "vietnamese": "nghìn"
+        "vietnamese": "nghìn",
+        "en": "thousand",
+        "vi": "nghìn"
       },
       "strokes": {
         "count": 3,
@@ -257,7 +272,9 @@
       },
       "meaning": {
         "english": "ten",
-        "vietnamese": "mười"
+        "vietnamese": "mười",
+        "en": "ten",
+        "vi": "mười"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -278,7 +295,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "195",
     "strokeCount": 3,
-    "meaning": "nghìn",
+    "meaning": {
+      "en": "thousand",
+      "vi": "nghìn"
+    },
     "kunyomi": [
       "ち"
     ],
@@ -290,7 +310,8 @@
         "example": "千",
         "reading": "セン",
         "meaning": {
-          "vi": "nghìn, 1.000"
+          "vi": "nghìn, 1.000",
+          "en": "nghìn, 1.000"
         },
         "romaji": "sen"
       },
@@ -298,7 +319,8 @@
         "example": "千九百年代",
         "reading": "センキュウヒャクネンダイ",
         "meaning": {
-          "vi": "thập niên 1900"
+          "vi": "thập niên 1900",
+          "en": "thập niên 1900"
         },
         "romaji": "senkyuuhyakunendai"
       },
@@ -306,7 +328,8 @@
         "example": "一騎当千",
         "reading": "イッキトウセン",
         "meaning": {
-          "vi": "một người địch nghìn, dũng tướng"
+          "vi": "một người địch nghìn, dũng tướng",
+          "en": "một người địch nghìn, dũng tướng"
         },
         "romaji": "ikkitousen"
       },
@@ -314,7 +337,8 @@
         "example": "一人当千",
         "reading": "イチニントウセン",
         "meaning": {
-          "vi": "một người địch nghìn"
+          "vi": "một người địch nghìn",
+          "en": "một người địch nghìn"
         },
         "romaji": "ichinintousen"
       }
@@ -324,7 +348,8 @@
         "example": "千",
         "reading": "せん",
         "meaning": {
-          "vi": "nghìn, 1.000"
+          "vi": "nghìn, 1.000",
+          "en": "nghìn, 1.000"
         },
         "romaji": "sen"
       },
@@ -332,7 +357,8 @@
         "example": "千島",
         "reading": "ちしま",
         "meaning": {
-          "vi": "quần đảo Kuril"
+          "vi": "quần đảo Kuril",
+          "en": "quần đảo Kuril"
         },
         "romaji": "chishima"
       },
@@ -340,7 +366,8 @@
         "example": "百千",
         "reading": "ひゃくせん",
         "meaning": {
-          "vi": "số lượng lớn, đủ loại, hàng trăm hàng nghìn"
+          "vi": "số lượng lớn, đủ loại, hàng trăm hàng nghìn",
+          "en": "số lượng lớn, đủ loại, hàng trăm hàng nghìn"
         },
         "romaji": "hyakusen"
       },
@@ -348,14 +375,18 @@
         "example": "８０００",
         "reading": "はっせん",
         "meaning": {
-          "vi": "8000, tám nghìn, nhiều"
+          "vi": "8000, tám nghìn, nhiều",
+          "en": "8000, tám nghìn, nhiều"
         },
         "romaji": "hassen"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "mười, hoàn chỉnh"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "mười, hoàn chỉnh"
+      }
     },
     "parts": [
       "ノ",
@@ -368,5 +399,7 @@
   },
   "hanViet": [
     "thiên"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: thêm một nét lên trên 十 để tưởng tượng thành một nghìn."
 }

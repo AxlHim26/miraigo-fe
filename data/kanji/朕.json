@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "jlptLevel": "N1",
     "strokeCount": 10,
-    "meaning": "majestic plural, imperial we",
+    "meaning": {
+      "en": "majestic plural, imperial we",
+      "vi": "ngôi xưng uy nghi của hoàng đế, trẫm"
+    },
     "kunyomi": [],
     "onyomi": [
       "チン"
@@ -17,7 +20,8 @@
         "example": "朕",
         "reading": "チン",
         "meaning": {
-          "en": "We"
+          "en": "We",
+          "vi": "Trẫm"
         },
         "romaji": "chin"
       }
@@ -25,7 +29,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "月",
-      "meaning": "moon, month"
+      "meaning": {
+        "en": "moon, month",
+        "vi": "mặt trăng, tháng"
+      }
     },
     "parts": [
       "一",
@@ -41,5 +48,7 @@
   },
   "hanViet": [
     "trẫm"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Từ xưng hô đặc biệt của hoàng đế nên nhớ là trẫm."
 }

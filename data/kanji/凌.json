@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2423",
     "strokeCount": 10,
-    "meaning": "endure, keep (rain)out, stave off, tide over, defy, slight, surpass",
+    "meaning": {
+      "en": "endure, keep (rain)out, stave off, tide over, defy, slight, surpass",
+      "vi": "chịu đựng, che chắn, chống đỡ, vượt qua, khinh thường, vượt trội"
+    },
     "kunyomi": [
       "しの.ぐ"
     ],
@@ -19,7 +22,8 @@
         "example": "凌雲",
         "reading": "リョウウン",
         "meaning": {
-          "vi": "skyscraping, very high, above the clouds, above this mortal world"
+          "vi": "skyscraping, very high, above the clouds, above this mortal world",
+          "en": "skyscraping, very high, above the clouds, above this mortal world"
         },
         "romaji": "ryouun"
       },
@@ -27,7 +31,8 @@
         "example": "凌駕",
         "reading": "リョウガ",
         "meaning": {
-          "vi": "excelling, surpassing, outdoing"
+          "vi": "excelling, surpassing, outdoing",
+          "en": "excelling, surpassing, outdoing"
         },
         "romaji": "ryouga"
       }
@@ -37,14 +42,18 @@
         "example": "凌ぐ",
         "reading": "しのぐ",
         "meaning": {
-          "vi": "to endure, to keep out (e.g. rain), to stave off (e.g. starvation), to pull through, to get over, to survive, to surpass, to outdo, to excel, to eclipse, to defy, to slight"
+          "vi": "to endure, to keep out (e.g. rain), to stave off (e.g. starvation), to pull through, to get over, to survive, to surpass, to outdo, to excel, to eclipse, to defy, to slight",
+          "en": "to endure, to keep out (e.g. rain), to stave off (e.g. starvation), to pull through, to get over, to survive, to surpass, to outdo, to excel, to eclipse, to defy, to slight"
         },
         "romaji": "shinogu"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "儿",
@@ -59,5 +68,6 @@
   },
   "hanViet": [
     "lăng"
-  ]
+  ],
+  "mnemonic_vi": "Băng 冫 cộng phần bên phải như bước vượt lên, gợi ý nghĩa lấn át, vượt qua giá rét."
 }

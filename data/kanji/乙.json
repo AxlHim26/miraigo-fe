@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1841",
     "strokeCount": 1,
-    "meaning": "the latter, duplicate, strange, witty, fishhook radical (no. 5)",
+    "meaning": {
+      "en": "the latter, duplicate, strange, witty, fishhook radical (no. 5)",
+      "vi": "cái sau, bản sao, kỳ lạ, hóm hỉnh, bộ móc câu (bộ số 5)"
+    },
     "kunyomi": [
       "おと-",
       "きのと"
@@ -22,7 +25,8 @@
         "example": "乙",
         "reading": "オツ",
         "meaning": {
-          "vi": "(the) second (party, rank, etc.), B (grade), the latter, stylish, chic, smart, witty, tasty, strange, quaint, queer, thank you, good job, see you, goodbye, goodnight"
+          "en": "(the) second (party, rank, etc.), B (grade), the latter, stylish, chic, smart, witty, tasty, strange, quaint, queer, thank you, good job, see you, goodbye, goodnight",
+          "vi": "(the) thứ hai (bữa tiệc, cấp bậc, v.v.), b (lớp), thứ hai, phong cách, sang trọng, thông minh, hóm hỉnh, ngon, lạ, lạ, kỳ lạ, cảm ơn bạn, làm tốt lắm, hẹn gặp lại, tạm biệt, chúc ngủ ngon"
         },
         "meaningVN": "(the) thứ hai (bữa tiệc, cấp bậc, v.v.), b (lớp), thứ hai, phong cách, sang trọng, thông minh, hóm hỉnh, ngon, lạ, lạ, kỳ lạ, cảm ơn bạn, làm tốt lắm, hẹn gặp lại, tạm biệt, chúc ngủ ngon",
         "hanViet": "ất",
@@ -33,7 +37,8 @@
         "example": "乙亥",
         "reading": "キノトイ",
         "meaning": {
-          "en": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+          "en": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)",
+          "vi": "lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)"
         },
         "meaningVN": "lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)",
         "hanViet": "ất giai",
@@ -44,7 +49,8 @@
         "example": "うｐ乙",
         "reading": "ウプオツ",
         "meaning": {
-          "vi": "thanks for uploading"
+          "en": "thanks for uploading",
+          "vi": "cảm ơn vì đã tải lên"
         },
         "meaningVN": "cảm ơn vì đã tải lên",
         "hanViet": "う ｐ ất",
@@ -55,7 +61,8 @@
         "example": "枠乙",
         "reading": "ワクオツ",
         "meaning": {
-          "en": "thanks for streaming"
+          "en": "thanks for streaming",
+          "vi": "cảm ơn vì đã phát trực tuyến"
         },
         "meaningVN": "cảm ơn vì đã phát trực tuyến",
         "hanViet": "hoa ất",
@@ -66,7 +73,8 @@
         "example": "乙亥",
         "reading": "キノトイ",
         "meaning": {
-          "en": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+          "en": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)",
+          "vi": "lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)"
         },
         "meaningVN": "lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)",
         "hanViet": "ất giai",
@@ -77,7 +85,8 @@
         "example": "乙未",
         "reading": "キノトヒツジ",
         "meaning": {
-          "vi": "Wood Sheep (32nd term of the sexagenary cycle, e.g. 1955, 2015, 2075)"
+          "en": "Wood Sheep (32nd term of the sexagenary cycle, e.g. 1955, 2015, 2075)",
+          "vi": "cừu gỗ (học kỳ thứ 32 của chu kỳ sáu mươi năm, ví dụ: 1955, 2015, 2075)"
         },
         "meaningVN": "cừu gỗ (học kỳ thứ 32 của chu kỳ sáu mươi năm, ví dụ: 1955, 2015, 2075)",
         "hanViet": "ất mùi",
@@ -88,7 +97,8 @@
         "example": "不一",
         "reading": "フイツ",
         "meaning": {
-          "en": "Very sincerely yours, different"
+          "en": "Very sincerely yours, different",
+          "vi": "rất chân thành của bạn, khác biệt"
         },
         "meaningVN": "rất chân thành của bạn, khác biệt",
         "hanViet": "bưu nhất",
@@ -101,7 +111,8 @@
         "example": "乙",
         "reading": "きのと",
         "meaning": {
-          "en": "second in rank, second sign of the Chinese calendar"
+          "en": "second in rank, second sign of the Chinese calendar",
+          "vi": "hạng nhì, dấu hiệu thứ hai của lịch trung quốc"
         },
         "meaningVN": "hạng nhì, dấu hiệu thứ hai của lịch trung quốc",
         "hanViet": "ất",
@@ -112,7 +123,8 @@
         "example": "乙亥",
         "reading": "きのとい",
         "meaning": {
-          "en": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)"
+          "en": "Wood Boar (12th term of the sexagenary cycle, e.g. 1935, 1995, 2055)",
+          "vi": "lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)"
         },
         "meaningVN": "lợn rừng (học kỳ thứ 12 của chu kỳ lục niên, ví dụ: 1935, 1995, 2055)",
         "hanViet": "ất giai",
@@ -127,7 +139,10 @@
         "⺄",
         "乚"
       ],
-      "meaning": "second"
+      "meaning": {
+        "en": "second",
+        "vi": "thứ hai"
+      }
     },
     "parts": [
       "乙"

@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 2,
     "kunyomi": "kuwada, kuwadateru",
-    "meaning": "project, plan, attempt",
+    "meaning": {
+      "en": "project, plan, attempt",
+      "vi": "dự án, kế hoạch, sự thử sức"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "企業（きぎょう）",
         "meaning": {
-          "english": "enterprise"
+          "english": "enterprise",
+          "en": "enterprise",
+          "vi": "xí nghiệp, doanh nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwada(teru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "企画（きかく）",
         "meaning": {
-          "english": "project [n.]"
+          "english": "project [n.]",
+          "en": "project [n.]",
+          "vi": "dự án"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwada(teru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "企て（くわだて）",
         "meaning": {
-          "english": "plot [n.]"
+          "english": "plot [n.]",
+          "en": "plot [n.]",
+          "vi": "âm mưu, kế hoạch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwada(teru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "企てる（くわだてる）",
         "meaning": {
-          "english": "plot [v.t.]"
+          "english": "plot [v.t.]",
+          "en": "plot [v.t.]",
+          "vi": "âm mưu, toan tính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuwada(teru)_06_d.opus",
@@ -150,7 +161,9 @@
     "kanji": {
       "character": "企",
       "meaning": {
-        "english": "project, plan, attempt"
+        "english": "project, plan, attempt",
+        "en": "project, plan, attempt",
+        "vi": "dự án, kế hoạch, sự thử sức"
       },
       "strokes": {
         "count": 6,
@@ -200,7 +213,9 @@
         "romaji": "hitoyane"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoyane0.svg",
@@ -221,7 +236,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "278",
     "strokeCount": 6,
-    "meaning": "undertake, scheme, design, attempt, plan",
+    "meaning": {
+      "en": "undertake, scheme, design, attempt, plan",
+      "vi": "đảm nhận, mưu tính, thiết kế, thử làm, lên kế hoạch"
+    },
     "kunyomi": [
       "くわだ.てる",
       "たくら.む"
@@ -234,7 +252,8 @@
         "example": "企画室",
         "reading": "キカクシツ",
         "meaning": {
-          "vi": "planning office"
+          "vi": "planning office",
+          "en": "văn phòng kế hoạch"
         },
         "romaji": "kikakushitsu"
       },
@@ -242,7 +261,8 @@
         "example": "企画",
         "reading": "キカク",
         "meaning": {
-          "vi": "planning, plan, project, arrangements"
+          "vi": "planning, plan, project, arrangements",
+          "en": "việc lập kế hoạch, kế hoạch, dự án, sự sắp xếp"
         },
         "romaji": "kikaku"
       },
@@ -250,7 +270,8 @@
         "example": "経企",
         "reading": "ケイキ",
         "meaning": {
-          "vi": "corporate planning (department, etc.)"
+          "vi": "corporate planning (department, etc.)",
+          "en": "hoạch định doanh nghiệp (phòng ban, v.v.)"
         },
         "romaji": "keiki"
       },
@@ -258,7 +279,8 @@
         "example": "投企",
         "reading": "トウキ",
         "meaning": {
-          "vi": "projection, project, philosophical concept introduced by Heidegger (Entwurf)"
+          "vi": "projection, project, philosophical concept introduced by Heidegger (Entwurf)",
+          "en": "sự phóng chiếu, dự phóng, khái niệm triết học do Heidegger đưa ra (Entwurf)"
         },
         "romaji": "touki"
       }
@@ -268,7 +290,8 @@
         "example": "企てる",
         "reading": "くわだてる",
         "meaning": {
-          "vi": "to plan, to plot, to propose, to design, to intend, to contemplate, to attempt (e.g. suicide, murder), to undertake (e.g. business), to stand on tip-toes"
+          "vi": "to plan, to plot, to propose, to design, to intend, to contemplate, to attempt (e.g. suicide, murder), to undertake (e.g. business), to stand on tip-toes",
+          "en": "lên kế hoạch, mưu tính, đề xuất, thiết kế, dự định, cân nhắc, toan làm (ví dụ tự sát, giết người), đảm nhận (ví dụ kinh doanh), nhón chân"
         },
         "romaji": "kuwadateru"
       },
@@ -276,7 +299,8 @@
         "example": "企む",
         "reading": "たくらむ",
         "meaning": {
-          "vi": "to scheme, to plan, to play a trick, to invent, to conspire, to frame up"
+          "vi": "to scheme, to plan, to play a trick, to invent, to conspire, to frame up",
+          "en": "mưu tính, lên kế hoạch, giở trò, nghĩ ra, âm mưu, dàn dựng vu khống"
         },
         "romaji": "takuramu"
       }
@@ -286,7 +310,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "个",

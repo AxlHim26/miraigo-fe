@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "hayashi",
-    "meaning": "woods, forest",
+    "meaning": {
+      "en": "woods, forest",
+      "vi": "rừng cây, khu rừng"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "林業（りんぎょう）",
         "meaning": {
-          "english": "forestry"
+          "english": "forestry",
+          "en": "forestry",
+          "vi": "lâm nghiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "森林（しんりん）",
         "meaning": {
-          "english": "forest, woods"
+          "english": "forest, woods",
+          "en": "forest, woods",
+          "vi": "rừng, rừng cây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "山林（さんりん）",
         "meaning": {
-          "english": "mountain forest"
+          "english": "mountain forest",
+          "en": "mountain forest",
+          "vi": "rừng núi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "原始林（げんしりん）",
         "meaning": {
-          "english": "primeval forest, virgin forest"
+          "english": "primeval forest, virgin forest",
+          "en": "primeval forest, virgin forest",
+          "vi": "rừng nguyên sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "林（はやし）",
         "meaning": {
-          "english": "woods, forest"
+          "english": "woods, forest",
+          "en": "woods, forest",
+          "vi": "rừng cây, khu rừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "松林（まつばやし）",
         "meaning": {
-          "english": "pine forest"
+          "english": "pine forest",
+          "en": "pine forest",
+          "vi": "rừng thông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "雑木林（ぞうきばやし）",
         "meaning": {
-          "english": "grove of mixed trees, copse"
+          "english": "grove of mixed trees, copse",
+          "en": "grove of mixed trees, copse",
+          "vi": "lùm cây tạp, rừng nhỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hayashi_06_g.opus",
@@ -218,7 +235,9 @@
     "kanji": {
       "character": "林",
       "meaning": {
-        "english": "woods, forest"
+        "english": "woods, forest",
+        "en": "woods, forest",
+        "vi": "rừng cây, khu rừng"
       },
       "strokes": {
         "count": 8,
@@ -272,7 +291,9 @@
         "romaji": "kihen"
       },
       "meaning": {
-        "english": "tree, wood"
+        "english": "tree, wood",
+        "en": "tree, wood",
+        "vi": "cây, gỗ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kihen0.svg",
@@ -293,7 +314,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "656",
     "strokeCount": 8,
-    "meaning": "grove, forest",
+    "meaning": {
+      "en": "grove, forest",
+      "vi": "lùm cây, rừng"
+    },
     "kunyomi": [
       "はやし"
     ],
@@ -305,7 +329,8 @@
         "example": "林道",
         "reading": "リンドウ",
         "meaning": {
-          "vi": "path through forest, woodland path, logging road"
+          "vi": "path through forest, woodland path, logging road",
+          "en": "path through forest, woodland path, logging road"
         },
         "romaji": "rindou"
       },
@@ -313,7 +338,8 @@
         "example": "林業",
         "reading": "リンギョウ",
         "meaning": {
-          "en": "forestry"
+          "en": "forestry",
+          "vi": "lâm nghiệp"
         },
         "romaji": "ringyou"
       },
@@ -321,7 +347,8 @@
         "example": "雑木林",
         "reading": "ゾウキバヤシ",
         "meaning": {
-          "vi": "grove of miscellaneous trees, copse, coppice, thicket"
+          "vi": "grove of miscellaneous trees, copse, coppice, thicket",
+          "en": "grove of miscellaneous trees, copse, coppice, thicket"
         },
         "romaji": "zoukibayashi"
       },
@@ -329,7 +356,8 @@
         "example": "農林",
         "reading": "ノウリン",
         "meaning": {
-          "en": "agriculture and forestry"
+          "en": "agriculture and forestry",
+          "vi": "nông nghiệp và lâm nghiệp"
         },
         "romaji": "nourin"
       }
@@ -339,7 +367,8 @@
         "example": "林",
         "reading": "はやし",
         "meaning": {
-          "vi": "wood, woods, forest, grove, copse, thicket, bunch (of something), cluster, line, collection"
+          "vi": "wood, woods, forest, grove, copse, thicket, bunch (of something), cluster, line, collection",
+          "en": "wood, woods, forest, grove, copse, thicket, bunch, cluster, line, collection"
         },
         "romaji": "hayashi"
       },
@@ -347,14 +376,18 @@
         "example": "林原美術館",
         "reading": "はやしばらびじゅつかん",
         "meaning": {
-          "en": "Hayashibara Museum of Art"
+          "en": "Hayashibara Museum of Art",
+          "vi": "Bảo tàng Nghệ thuật Hayashibara"
         },
         "romaji": "hayashibarabijutsukan"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "tree"
+      }
     },
     "parts": [
       "木"
@@ -366,5 +399,7 @@
   },
   "hanViet": [
     "lâm"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: Hai cây 木 đứng cạnh nhau thành lùm cây, nên 林 là rừng thưa."
 }

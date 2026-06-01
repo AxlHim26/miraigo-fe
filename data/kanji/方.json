@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kata",
-    "meaning": "direction, way, square",
+    "meaning": {
+      "en": "direction, way, square",
+      "vi": "phương hướng, cách thức, hình vuông"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "方向（ほうこう）",
         "meaning": {
-          "english": "direction"
+          "english": "direction",
+          "en": "direction",
+          "vi": "direction"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "方言（ほうげん）",
         "meaning": {
-          "english": "dialect"
+          "english": "dialect",
+          "en": "dialect",
+          "vi": "dialect"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "地方（ちほう）",
         "meaning": {
-          "english": "area"
+          "english": "area",
+          "en": "area",
+          "vi": "area"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "方針（ほうしん）",
         "meaning": {
-          "english": "policy, principle"
+          "english": "policy, principle",
+          "en": "policy, principle",
+          "vi": "policy, principle"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "話し方（はなしかた）",
         "meaning": {
-          "english": "way of talking"
+          "english": "way of talking",
+          "en": "way of talking",
+          "vi": "way of talking"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "仕方（しかた）",
         "meaning": {
-          "english": "way, method, style"
+          "english": "way, method, style",
+          "en": "way, method, style",
+          "vi": "way, method, style"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "夕方（ゆうがた）",
         "meaning": {
-          "english": "evening"
+          "english": "evening",
+          "en": "evening",
+          "vi": "evening"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "父方（ちちかた）",
         "meaning": {
-          "english": "father's side of family"
+          "english": "father's side of family",
+          "en": "father's side of family",
+          "vi": "father's side of family"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "先生方（せんせいがた）",
         "meaning": {
-          "english": "teachers, doctors"
+          "english": "teachers, doctors",
+          "en": "teachers, doctors",
+          "vi": "teachers, doctors"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hou-kata_06_i.opus",
@@ -276,7 +297,9 @@
     "kanji": {
       "character": "方",
       "meaning": {
-        "english": "direction, way, square"
+        "english": "direction, way, square",
+        "en": "direction, way, square",
+        "vi": "phương hướng, cách thức, hình vuông"
       },
       "strokes": {
         "count": 4,
@@ -322,7 +345,9 @@
         "romaji": "hou"
       },
       "meaning": {
-        "english": "direction, flag"
+        "english": "direction, flag",
+        "en": "direction, flag",
+        "vi": "direction, flag"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hou0.svg",
@@ -343,7 +368,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "46",
     "strokeCount": 4,
-    "meaning": "direction, person, alternative",
+    "meaning": {
+      "en": "direction, person, alternative",
+      "vi": "phương hướng, người, cách thay thế"
+    },
     "kunyomi": [
       "かた",
       "-かた",
@@ -357,7 +385,8 @@
         "example": "方",
         "reading": "ホウ",
         "meaning": {
-          "vi": "direction, way, side, area (in a particular direction), side (of an argument, etc.), one's part, type, category, field (of study, etc.), indicates one side of a comparison, way, method, manner, means, length (of each side of a square)"
+          "vi": "direction, way, side, area (in a particular direction), side (of an argument, etc.), one's part, type, category, field (of study, etc.), indicates one side of a comparison, way, method, manner, means, length (of each side of a square)",
+          "en": "direction, way, side, area (in a particular direction), side (of an argument, etc.), one's part, type, category, field (of study, etc.), indicates one side of a comparison, way, method, manner, means, length (of each side of a square)"
         },
         "romaji": "hou"
       },
@@ -365,7 +394,8 @@
         "example": "方言",
         "reading": "ホウゲン",
         "meaning": {
-          "vi": "dialect, provincialism"
+          "vi": "dialect, provincialism",
+          "en": "dialect, provincialism"
         },
         "romaji": "hougen"
       },
@@ -373,7 +403,8 @@
         "example": "途方",
         "reading": "トホウ",
         "meaning": {
-          "en": "way, destination, reason"
+          "en": "way, destination, reason",
+          "vi": "way, destination, reason"
         },
         "romaji": "tohou"
       },
@@ -381,7 +412,8 @@
         "example": "右方",
         "reading": "ウホウ",
         "meaning": {
-          "vi": "right side, style of Japanese court music"
+          "vi": "right side, style of Japanese court music",
+          "en": "right side, style of Japanese court music"
         },
         "romaji": "uhou"
       }
@@ -391,7 +423,8 @@
         "example": "方",
         "reading": "かた",
         "meaning": {
-          "vi": "direction, way, person, lady, gentleman, method of, manner of, way of, care of ..., person in charge of ..., side (e.g. \"on my mother's side\")"
+          "vi": "direction, way, person, lady, gentleman, method of, manner of, way of, care of ..., person in charge of ..., side (e.g. \"on my mother's side\")",
+          "en": "direction, way, person, lady, gentleman, method of, manner of, way of, care of ..., person in charge of ..., side (e.g. \"on my mother's side\")"
         },
         "romaji": "kata"
       },
@@ -399,7 +432,8 @@
         "example": "方々",
         "reading": "かたがた",
         "meaning": {
-          "vi": "people, (all) persons, everyone, ladies and gentlemen, you (usu. plural)"
+          "vi": "people, (all) persons, everyone, ladies and gentlemen, you (usu. plural)",
+          "en": "people, (all) persons, everyone, ladies and gentlemen, you (usu. plural)"
         },
         "romaji": "katagata"
       },
@@ -407,7 +441,8 @@
         "example": "親方",
         "reading": "おやかた",
         "meaning": {
-          "vi": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent"
+          "vi": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent",
+          "en": "master, boss, chief, foreman, supervisor, stable master, craftsman, artisan, foster parent"
         },
         "romaji": "oyakata"
       },
@@ -415,14 +450,18 @@
         "example": "出方",
         "reading": "でかた",
         "meaning": {
-          "vi": "attitude, approach, move, theater usher, theatre usher"
+          "vi": "attitude, approach, move, theater usher, theatre usher",
+          "en": "attitude, approach, move, theater usher, theatre usher"
         },
         "romaji": "dekata"
       }
     ],
     "radical": {
       "symbol": "方",
-      "meaning": "square"
+      "meaning": {
+        "en": "square",
+        "vi": "hình vuông"
+      }
     },
     "parts": [
       "方"
@@ -435,5 +474,7 @@
   "hanViet": [
     "bàng",
     "phương"
-  ]
+  ],
+  "jlpt_level": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 方 như chiếc cờ chỉ hướng, giúp nhớ nghĩa phương hướng và cách thức."
 }

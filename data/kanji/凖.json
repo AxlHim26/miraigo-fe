@@ -4,8 +4,12 @@
   "jishoData": {
     "query": "凖",
     "found": true,
+    "jlptLevel": null,
     "strokeCount": 12,
-    "meaning": "correspond to, proportionate to, conform, imitate",
+    "meaning": {
+      "en": "correspond to, proportionate to, conform, imitate",
+      "vi": "tương ứng, cân xứng, phù hợp, bắt chước"
+    },
     "kunyomi": [
       "じゅん.じる",
       "じゅん.ずる",
@@ -21,7 +25,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "冫",
@@ -35,5 +42,6 @@
   },
   "hanViet": [
     "chuẩn"
-  ]
+  ],
+  "mnemonic_vi": "Chuẩn 凖 nhìn gần giống 準, có bộ băng 冫 như vạch mức nước để đo cho chuẩn."
 }

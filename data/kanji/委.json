@@ -7,13 +7,17 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "commit, entrust",
+    "meaning": {
+      "en": "commit, entrust",
+      "vi": "giao phó, ủy thác"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "委員（いいん）",
         "meaning": {
-          "english": "committee member"
+          "en": "committee member",
+          "vi": "thành viên ủy ban"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ninsuru)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "委員会（いいんかい）",
         "meaning": {
-          "english": "committee meeting, committee"
+          "en": "committee meeting, committee",
+          "vi": "cuộc họp ủy ban, ủy ban"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ninsuru)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "委託する（いたくする）",
         "meaning": {
-          "english": "commission, consign, entrust"
+          "en": "commission, consign, entrust",
+          "vi": "ủy nhiệm, ký gửi, giao phó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ninsuru)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "委任する（いにんする）",
         "meaning": {
-          "english": "charge, entrust, delegate [v.t.]"
+          "en": "charge, entrust, delegate [v.t.]",
+          "vi": "giao phó, ủy thác, giao nhiệm vụ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ninsuru)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "委嘱する（いしょくする）",
         "meaning": {
-          "english": "commission, entrust"
+          "en": "commission, entrust",
+          "vi": "ủy thác, giao phó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(ninsuru)_06_e.opus",
@@ -142,7 +150,8 @@
     "kanji": {
       "character": "委",
       "meaning": {
-        "english": "commit, entrust"
+        "en": "commit, entrust",
+        "vi": "giao phó, ủy thác"
       },
       "strokes": {
         "count": 8,
@@ -196,7 +205,8 @@
         "romaji": "onna"
       },
       "meaning": {
-        "english": "woman"
+        "en": "woman",
+        "vi": "phụ nữ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onna0.svg",
@@ -217,7 +227,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "187",
     "strokeCount": 8,
-    "meaning": "committee, entrust to, leave to, devote, discard",
+    "meaning": {
+      "en": "committee, entrust to, leave to, devote, discard",
+      "vi": "ủy ban, giao phó, để lại cho, dốc sức, vứt bỏ"
+    },
     "kunyomi": [
       "ゆだ.ねる"
     ],
@@ -229,6 +242,7 @@
         "example": "委",
         "reading": "イ",
         "meaning": {
+          "en": "committee, commission, board, panel",
           "vi": "committee, commission, board, panel"
         },
         "romaji": "i"
@@ -237,7 +251,8 @@
         "example": "委員",
         "reading": "イイン",
         "meaning": {
-          "en": "committee member"
+          "en": "committee member",
+          "vi": "thành viên ủy ban"
         },
         "romaji": "iin"
       },
@@ -245,6 +260,7 @@
         "example": "公取委",
         "reading": "コウトリイ",
         "meaning": {
+          "en": "Japan Fair Trade Commission",
           "vi": "Japan Fair Trade Commission"
         },
         "romaji": "koutorii"
@@ -253,6 +269,7 @@
         "example": "公委",
         "reading": "コウイ",
         "meaning": {
+          "en": "public safety commission",
           "vi": "public safety commission"
         },
         "romaji": "koui"
@@ -263,6 +280,7 @@
         "example": "委ねる",
         "reading": "ゆだねる",
         "meaning": {
+          "en": "to entrust (a matter) to, to leave to, to abandon oneself to (e.g. pleasure), to yield to (e.g. anger), to devote oneself to",
           "vi": "to entrust (a matter) to, to leave to, to abandon oneself to (e.g. pleasure), to yield to (e.g. anger), to devote oneself to"
         },
         "romaji": "yudaneru"
@@ -270,7 +288,10 @@
     ],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": {
+        "en": "woman, female",
+        "vi": "phụ nữ, giống cái"
+      }
     },
     "parts": [
       "女",

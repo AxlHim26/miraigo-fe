@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ko, kooru, kogo, kogoeru",
-    "meaning": "freeze",
+    "meaning": {
+      "en": "freeze",
+      "vi": "đóng băng"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "凍傷（とうしょう）",
         "meaning": {
-          "english": "frostbite"
+          "english": "frostbite",
+          "en": "frostbite",
+          "vi": "bỏng lạnh, tê cóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "冷凍庫（れいとうこ）",
         "meaning": {
-          "english": "freezer"
+          "english": "freezer",
+          "en": "freezer",
+          "vi": "tủ đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "凍結する（とうけつする）",
         "meaning": {
-          "english": "freeze"
+          "english": "freeze",
+          "en": "freeze",
+          "vi": "đóng băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "凍死する（とうしする）",
         "meaning": {
-          "english": "freeze to death"
+          "english": "freeze to death",
+          "en": "freeze to death",
+          "vi": "chết cóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "解凍する（かいとうする）",
         "meaning": {
-          "english": "thaw"
+          "english": "thaw",
+          "en": "thaw",
+          "vi": "rã đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "凍る（こおる）",
         "meaning": {
-          "english": "freeze [v.i.]"
+          "english": "freeze [v.i.]",
+          "en": "freeze [v.i.]",
+          "vi": "đông lại, đóng băng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "凍える（こごえる）",
         "meaning": {
-          "english": "be numb with cold [v.i.]"
+          "english": "be numb with cold [v.i.]",
+          "en": "be numb with cold [v.i.]",
+          "vi": "tê cóng vì lạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kogo(eru)_06_g.opus",
@@ -200,7 +217,9 @@
     "kanji": {
       "character": "凍",
       "meaning": {
-        "english": "freeze"
+        "english": "freeze",
+        "en": "freeze",
+        "vi": "đóng băng"
       },
       "strokes": {
         "count": 10,
@@ -258,7 +277,9 @@
         "romaji": "nisui"
       },
       "meaning": {
-        "english": "ice"
+        "english": "ice",
+        "en": "ice",
+        "vi": "băng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nisui0.svg",
@@ -279,7 +300,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1284",
     "strokeCount": 10,
-    "meaning": "frozen, congeal, refrigerate",
+    "meaning": {
+      "en": "frozen, congeal, refrigerate",
+      "vi": "đông lạnh, đông đặc, làm lạnh"
+    },
     "kunyomi": [
       "こお.る",
       "こご.える",
@@ -295,7 +319,8 @@
         "example": "凍結",
         "reading": "トウケツ",
         "meaning": {
-          "vi": "freezing (e.g. water), freezing (prices, wages, assets, etc.), moratorium, suspension (e.g. investment)"
+          "vi": "sự đóng băng, ngừng áp dụng, hoãn lại, đình chỉ",
+          "en": "freezing (e.g. water), freezing (prices, wages, assets, etc.), moratorium, suspension (e.g. investment)"
         },
         "romaji": "touketsu"
       },
@@ -303,7 +328,8 @@
         "example": "凍死",
         "reading": "トウシ",
         "meaning": {
-          "en": "death from cold, freezing to death"
+          "en": "death from cold, freezing to death",
+          "vi": "chết cóng, tử vong vì lạnh"
         },
         "romaji": "toushi"
       },
@@ -311,7 +337,8 @@
         "example": "解凍",
         "reading": "カイトウ",
         "meaning": {
-          "vi": "thawing, defrosting, decompression (of data), extraction, unpacking, unzipping"
+          "vi": "sự rã đông, giải nén, bung tệp",
+          "en": "thawing, defrosting, decompression (of data), extraction, unpacking, unzipping"
         },
         "romaji": "kaitou"
       },
@@ -319,7 +346,8 @@
         "example": "自動解凍",
         "reading": "ジドウカイトウ",
         "meaning": {
-          "en": "self-extracting (file)"
+          "en": "self-extracting (file)",
+          "vi": "tự giải nén (tệp)"
         },
         "romaji": "jidoukaitou"
       }
@@ -329,7 +357,8 @@
         "example": "凍る",
         "reading": "こおる",
         "meaning": {
-          "en": "to freeze, to become frozen, to freeze over"
+          "en": "to freeze, to become frozen, to freeze over",
+          "vi": "đóng băng, trở nên đông cứng, bị phủ băng"
         },
         "romaji": "kooru"
       },
@@ -337,7 +366,8 @@
         "example": "凍える",
         "reading": "こごえる",
         "meaning": {
-          "en": "to freeze (of one's body), to be frozen, to become numb (with cold), to be chilled"
+          "en": "to freeze (of one's body), to be frozen, to become numb (with cold), to be chilled",
+          "vi": "cơ thể bị cóng, bị đông cứng, tê cóng vì lạnh, bị lạnh buốt"
         },
         "romaji": "kogoeru"
       },
@@ -345,7 +375,8 @@
         "example": "凍てる",
         "reading": "いてる",
         "meaning": {
-          "en": "to freeze, to freeze over"
+          "en": "to freeze, to freeze over",
+          "vi": "đóng băng, phủ băng"
         },
         "romaji": "iteru"
       },
@@ -353,14 +384,18 @@
         "example": "凍みる",
         "reading": "しみる",
         "meaning": {
-          "en": "to freeze, to be frozen over, to congeal"
+          "en": "to freeze, to be frozen over, to congeal",
+          "vi": "đóng băng, bị phủ băng, đông đặc"
         },
         "romaji": "shimiru"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "一",
@@ -378,5 +413,6 @@
   "hanViet": [
     "đông",
     "đống"
-  ]
+  ],
+  "mnemonic_vi": "Bộ băng 冫 ghép với đông 東 nên rất dễ nhớ là trời đông thì đóng băng."
 }

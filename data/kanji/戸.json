@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "to",
-    "meaning": "door, household",
+    "meaning": {
+      "en": "door, household",
+      "vi": "cửa, hộ gia đình"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "戸籍（こせき）",
         "meaning": {
-          "english": "census, family register"
+          "english": "census, family register",
+          "en": "census, family register",
+          "vi": "census, family register"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "戸主（こしゅ）",
         "meaning": {
-          "english": "head of a household"
+          "english": "head of a household",
+          "en": "head of a household",
+          "vi": "head of a household"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "戸外（こがい）",
         "meaning": {
-          "english": "open-air, outdoors"
+          "english": "open-air, outdoors",
+          "en": "open-air, outdoors",
+          "vi": "open-air, outdoors"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "門戸（もんこ）",
         "meaning": {
-          "english": "gate and door"
+          "english": "gate and door",
+          "en": "gate and door",
+          "vi": "gate and door"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "戸（と）",
         "meaning": {
-          "english": "door"
+          "english": "door",
+          "en": "door",
+          "vi": "door"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "戸棚（とだな）",
         "meaning": {
-          "english": "cupboard"
+          "english": "cupboard",
+          "en": "cupboard",
+          "vi": "cupboard"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "雨戸（あまど）",
         "meaning": {
-          "english": "sliding storm door"
+          "english": "sliding storm door",
+          "en": "sliding storm door",
+          "vi": "sliding storm door"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "井戸（いど）",
         "meaning": {
-          "english": "water well"
+          "english": "water well",
+          "en": "water well",
+          "vi": "water well"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "ガラス戸（ガラスど）",
         "meaning": {
-          "english": "glass door"
+          "english": "glass door",
+          "en": "glass door",
+          "vi": "glass door"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ko-to_06_i.opus",
@@ -220,7 +241,9 @@
     "kanji": {
       "character": "戸",
       "meaning": {
-        "english": "door, household"
+        "english": "door, household",
+        "en": "door, household",
+        "vi": "cửa, hộ gia đình"
       },
       "strokes": {
         "count": 4,
@@ -266,7 +289,9 @@
         "romaji": "to"
       },
       "meaning": {
-        "english": "door"
+        "english": "door",
+        "en": "door",
+        "vi": "door"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/to0.svg",
@@ -287,7 +312,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "575",
     "strokeCount": 4,
-    "meaning": "door, counter for houses, door radical (no. 63)",
+    "meaning": {
+      "en": "door, counter for houses, door radical (no. 63)",
+      "vi": "cửa, lượng từ đếm nhà, bộ hộ (bộ số 63)"
+    },
     "kunyomi": [
       "と"
     ],
@@ -299,7 +327,8 @@
         "example": "戸",
         "reading": "コ",
         "meaning": {
-          "vi": "counter for houses, households, apartments, etc."
+          "vi": "counter for houses, households, apartments, etc.",
+          "en": "counter for houses, households, apartments, etc."
         },
         "romaji": "ko"
       },
@@ -307,7 +336,8 @@
         "example": "戸外",
         "reading": "コガイ",
         "meaning": {
-          "vi": "open air, outdoors, outside"
+          "vi": "open air, outdoors, outside",
+          "en": "open air, outdoors, outside"
         },
         "romaji": "kogai"
       },
@@ -315,7 +345,8 @@
         "example": "一戸",
         "reading": "イッコ",
         "meaning": {
-          "en": "one house, household"
+          "en": "one house, household",
+          "vi": "one house, household"
         },
         "romaji": "ikko"
       },
@@ -323,7 +354,8 @@
         "example": "下戸",
         "reading": "ゲコ",
         "meaning": {
-          "en": "non-drinker, someone who cannot drink"
+          "en": "non-drinker, someone who cannot drink",
+          "vi": "non-drinker, someone who cannot drink"
         },
         "romaji": "geko"
       }
@@ -333,7 +365,8 @@
         "example": "戸",
         "reading": "と",
         "meaning": {
-          "vi": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows"
+          "vi": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows",
+          "en": "door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows"
         },
         "romaji": "to"
       },
@@ -341,7 +374,8 @@
         "example": "戸惑い",
         "reading": "とまどい",
         "meaning": {
-          "vi": "being at sea, losing one's bearings, confusion, wonderment, disorientation upon waking at night, forgetting which house or room to enter"
+          "vi": "being at sea, losing one's bearings, confusion, wonderment, disorientation upon waking at night, forgetting which house or room to enter",
+          "en": "being at sea, losing one's bearings, confusion, wonderment, disorientation upon waking at night, forgetting which house or room to enter"
         },
         "romaji": "tomadoi"
       },
@@ -349,7 +383,8 @@
         "example": "鳴門",
         "reading": "なると",
         "meaning": {
-          "vi": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
+          "vi": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame",
+          "en": "strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto (city in Tokushima), Naruto Strait, Naruto wakame"
         },
         "romaji": "naruto"
       },
@@ -357,7 +392,8 @@
         "example": "大戸",
         "reading": "おおど",
         "meaning": {
-          "en": "main door at the front of a house, front shutters"
+          "en": "main door at the front of a house, front shutters",
+          "vi": "main door at the front of a house, front shutters"
         },
         "romaji": "oodo"
       }
@@ -368,7 +404,10 @@
         "户",
         "戸"
       ],
-      "meaning": "door, house"
+      "meaning": {
+        "en": "door, house",
+        "vi": "cửa, nhà"
+      }
     },
     "parts": [
       "一",
@@ -382,5 +421,7 @@
   },
   "hanViet": [
     "hộ"
-  ]
+  ],
+  "jlpt_level": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: 戸 giống cánh cửa một mái che và một khung cửa, nhìn là liên tưởng ngay đến cửa nhà."
 }

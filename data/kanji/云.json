@@ -5,7 +5,10 @@
     "query": "云",
     "found": true,
     "strokeCount": 4,
-    "meaning": "say",
+    "meaning": {
+      "en": "say",
+      "vi": "nói"
+    },
     "kunyomi": [
       "い.う",
       "ここに"
@@ -18,7 +21,8 @@
         "example": "云々",
         "reading": "ウンヌン",
         "meaning": {
-          "en": "and so on, and so forth, et cetera, and such, and the like, comment, criticism"
+          "en": "and so on, and so forth, et cetera, and such, and the like, comment, criticism",
+          "vi": "vân vân, vân vân, vân vân, vân vân, vân vân, và những thứ tương tự, bình luận, phê bình"
         },
         "meaningVN": "vân vân, vân vân, vân vân, vân vân, vân vân, và những thứ tương tự, bình luận, phê bình",
         "hanViet": "vân 々",
@@ -29,7 +33,8 @@
         "example": "云為",
         "reading": "ウンイ",
         "meaning": {
-          "en": "sayings and doings, words and deeds"
+          "en": "sayings and doings, words and deeds",
+          "vi": "lời nói và việc làm, lời nói và việc làm"
         },
         "meaningVN": "lời nói và việc làm, lời nói và việc làm",
         "hanViet": "vân vi",
@@ -42,7 +47,8 @@
         "example": "言う",
         "reading": "いう",
         "meaning": {
-          "vi": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise"
+          "en": "to say, to utter, to declare, to name, to call, to go (e.g. \"the alarm went ping\"), to make a noise",
+          "vi": "nói, thốt ra, tuyên bố, gọi tên, gọi, đi (ví dụ: \"chuông báo thức kêu\"), gây ồn ào"
         },
         "meaningVN": "nói, thốt ra, tuyên bố, gọi tên, gọi, đi (ví dụ: \"chuông báo thức kêu\"), gây ồn ào",
         "hanViet": "ngân う",
@@ -52,7 +58,10 @@
     ],
     "radical": {
       "symbol": "二",
-      "meaning": "two"
+      "meaning": {
+        "en": "two",
+        "vi": "hai"
+      }
     },
     "parts": [
       "一",

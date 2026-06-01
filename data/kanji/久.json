@@ -7,13 +7,17 @@
     "grade": 5,
     "hint_group": 5,
     "kunyomi": "hisa, hisashii, hisashiburi",
-    "meaning": "of long duration, long time",
+    "meaning": {
+      "en": "of long duration, long time",
+      "vi": "lâu dài, thời gian dài"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "永久（えいきゅう）",
         "meaning": {
-          "english": "eternity, perpetuity, immortality"
+          "en": "eternity, perpetuity, immortality",
+          "vi": "sự vĩnh cửu, sự vĩnh viễn, sự bất tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_a.opus",
@@ -28,7 +32,8 @@
       {
         "japanese": "悠久（ゆうきゅう）",
         "meaning": {
-          "english": "eternity, perpetuity, permanence"
+          "en": "eternity, perpetuity, permanence",
+          "vi": "sự vĩnh cửu, sự vĩnh viễn, sự vĩnh viễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_b.opus",
@@ -43,7 +48,8 @@
       {
         "japanese": "恒久（こうきゅう）",
         "meaning": {
-          "english": "permanent, perpetuity"
+          "en": "permanent, perpetuity",
+          "vi": "vĩnh viễn, vĩnh viễn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_c.opus",
@@ -58,7 +64,8 @@
       {
         "japanese": "耐久性（たいきゅうせい）",
         "meaning": {
-          "english": "durability"
+          "en": "durability",
+          "vi": "độ bền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_d.opus",
@@ -73,7 +80,8 @@
       {
         "japanese": "持久力（じきゅうりょく）",
         "meaning": {
-          "english": "stamina, tenacity"
+          "en": "stamina, tenacity",
+          "vi": "sức chịu đựng, sự kiên trì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_e.opus",
@@ -88,7 +96,8 @@
       {
         "japanese": "久遠（くおん）",
         "meaning": {
-          "english": "eternity"
+          "en": "eternity",
+          "vi": "vĩnh cửu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_f.opus",
@@ -103,7 +112,8 @@
       {
         "japanese": "久しい（ひさしい）",
         "meaning": {
-          "english": "long, long-continued"
+          "en": "long, long-continued",
+          "vi": "dài, kéo dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_g.opus",
@@ -118,7 +128,8 @@
       {
         "japanese": "久しぶり（ひさしぶり）",
         "meaning": {
-          "english": "after a long time"
+          "en": "after a long time",
+          "vi": "sau một thời gian dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_h.opus",
@@ -133,7 +144,8 @@
       {
         "japanese": "久々（ひさびさ）",
         "meaning": {
-          "english": "after a long time"
+          "en": "after a long time",
+          "vi": "sau một thời gian dài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hisa(shii)_06_i.opus",
@@ -244,7 +256,8 @@
     "kanji": {
       "character": "久",
       "meaning": {
-        "english": "of long duration, long time"
+        "en": "of long duration, long time",
+        "vi": "lâu dài, thời gian dài"
       },
       "strokes": {
         "count": 3,
@@ -288,7 +301,8 @@
         "romaji": "no"
       },
       "meaning": {
-        "english": "diagonal sweeping stroke"
+        "en": "diagonal sweeping stroke",
+        "vi": "nét phẩy chéo"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/no0.svg",
@@ -309,7 +323,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "688",
     "strokeCount": 3,
-    "meaning": "long time, old story",
+    "meaning": {
+      "en": "long time, old story",
+      "vi": "thời gian dài, chuyện cũ"
+    },
     "kunyomi": [
       "ひさ.しい"
     ],
@@ -322,7 +339,8 @@
         "example": "旧痾",
         "reading": "キュウア",
         "meaning": {
-          "vi": "persistent disease"
+          "en": "persistent disease",
+          "vi": "bệnh dai dẳng"
         },
         "meaningVN": "bệnh dai dẳng",
         "hanViet": "cựu a",
@@ -333,7 +351,8 @@
         "example": "久安",
         "reading": "キュウアン",
         "meaning": {
-          "en": "Kyūan era (1145.7.22-1151.1.26)"
+          "en": "Kyūan era (1145.7.22-1151.1.26)",
+          "vi": "thời kyūan (1145.7.22-1151.1.26)"
         },
         "meaningVN": "thời kyūan (1145.7.22-1151.1.26)",
         "hanViet": "cửu an",
@@ -344,7 +363,8 @@
         "example": "恒久",
         "reading": "コウキュウ",
         "meaning": {
-          "vi": "permanence, perpetuity"
+          "en": "permanence, perpetuity",
+          "vi": "sự thường trực, sự vĩnh viễn"
         },
         "meaningVN": "sự thường trực, sự vĩnh viễn",
         "hanViet": "căng cửu",
@@ -355,7 +375,8 @@
         "example": "耐久",
         "reading": "タイキュウ",
         "meaning": {
-          "vi": "endurance, persistence"
+          "en": "endurance, persistence",
+          "vi": "sức chịu đựng, sự kiên trì"
         },
         "meaningVN": "sức chịu đựng, sự kiên trì",
         "hanViet": "năng cửu",
@@ -366,7 +387,8 @@
         "example": "久留子",
         "reading": "クルス",
         "meaning": {
-          "en": "cross sign"
+          "en": "cross sign",
+          "vi": "dấu chéo"
         },
         "meaningVN": "dấu chéo",
         "hanViet": "cửu lưu tí",
@@ -377,7 +399,8 @@
         "example": "久遠",
         "reading": "クオン",
         "meaning": {
-          "en": "eternity"
+          "en": "eternity",
+          "vi": "vĩnh cửu"
         },
         "meaningVN": "vĩnh cửu",
         "hanViet": "cửu viến",
@@ -388,7 +411,8 @@
         "example": "上手く行く",
         "reading": "ウマクイク",
         "meaning": {
-          "vi": "to go smoothly, to turn out well, to do the trick, to have peaceful relations"
+          "en": "to go smoothly, to turn out well, to do the trick, to have peaceful relations",
+          "vi": "diễn ra suôn sẻ, diễn ra tốt đẹp, làm được việc, có quan hệ hòa bình"
         },
         "meaningVN": "diễn ra suôn sẻ, diễn ra tốt đẹp, làm được việc, có quan hệ hòa bình",
         "hanViet": "thướng thủ く hàng く",
@@ -399,7 +423,8 @@
         "example": "阿摩美久",
         "reading": "アマミキヨ",
         "meaning": {
-          "en": "Amamikyu (Ryukyuan religion creation goddess)"
+          "en": "Amamikyu (Ryukyuan religion creation goddess)",
+          "vi": "amamikyu (nữ thần sáng tạo tôn giáo ryukyuan)"
         },
         "meaningVN": "amamikyu (nữ thần sáng tạo tôn giáo ryukyuan)",
         "hanViet": "a ma mĩ cửu",
@@ -412,7 +437,8 @@
         "example": "久しい",
         "reading": "ひさしい",
         "meaning": {
-          "vi": "long (time that has passed), old (story)"
+          "en": "long (time that has passed), old (story)",
+          "vi": "lâu (thời gian đã trôi qua), cũ (câu chuyện)"
         },
         "meaningVN": "lâu (thời gian đã trôi qua), cũ (câu chuyện)",
         "hanViet": "cửu し い",
@@ -422,7 +448,10 @@
     ],
     "radical": {
       "symbol": "丿",
-      "meaning": "slash"
+      "meaning": {
+        "en": "slash",
+        "vi": "nét phẩy"
+      }
     },
     "parts": [
       "ノ",

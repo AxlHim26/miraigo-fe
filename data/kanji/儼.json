@@ -5,7 +5,10 @@
     "query": "儼",
     "found": true,
     "strokeCount": 22,
-    "meaning": "serious, untouched, solemnly, majestically",
+    "meaning": {
+      "en": "serious, untouched, solemnly, majestically",
+      "vi": "nghiêm trang, nguyên vẹn, trang nghiêm, uy nghi"
+    },
     "kunyomi": [
       "いかめ.しい",
       "おごそか"
@@ -18,7 +21,8 @@
         "example": "厳",
         "reading": "ゲン",
         "meaning": {
-          "en": "strict, stern"
+          "en": "strict, stern",
+          "vi": "nghiêm khắc, cứng rắn"
         },
         "romaji": "gen"
       },
@@ -26,7 +30,8 @@
         "example": "厳然",
         "reading": "ゲンゼン",
         "meaning": {
-          "en": "grave, solemn, stern, authoritative, hard (e.g. fact)"
+          "en": "grave, solemn, stern, authoritative, hard (e.g. fact)",
+          "vi": "trầm nghiêm, trang trọng, nghiêm khắc, uy nghiêm, khắc nghiệt (như sự thật)"
         },
         "romaji": "genzen"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "乞",

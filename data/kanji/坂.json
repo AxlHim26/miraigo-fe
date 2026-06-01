@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "saka",
-    "meaning": "slope, hill",
+    "meaning": {
+      "en": "slope, hill",
+      "vi": "dốc, đồi"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "登坂する（とはんする）",
         "meaning": {
-          "english": "climb a hill"
+          "english": "climb a hill",
+          "en": "climb a hill",
+          "vi": "leo dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "坂（さか）",
         "meaning": {
-          "english": "slope hill"
+          "english": "slope hill",
+          "en": "slope hill",
+          "vi": "đồi dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "坂道（さかみち）",
         "meaning": {
-          "english": "hill road"
+          "english": "hill road",
+          "en": "hill road",
+          "vi": "đường dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "上り坂（のぼりざか）",
         "meaning": {
-          "english": "uphill, upgrade"
+          "english": "uphill, upgrade",
+          "en": "uphill, upgrade",
+          "vi": "lên dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "下り坂（くだりざか）",
         "meaning": {
-          "english": "downhill, downgrade"
+          "english": "downhill, downgrade",
+          "en": "downhill, downgrade",
+          "vi": "xuống dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka_06_e.opus",
@@ -160,7 +173,9 @@
     "kanji": {
       "character": "坂",
       "meaning": {
-        "english": "slope, hill"
+        "english": "slope, hill",
+        "en": "slope, hill",
+        "vi": "dốc, đồi"
       },
       "strokes": {
         "count": 7,
@@ -212,7 +227,9 @@
         "romaji": "tsuchihen"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchihen0.svg",
@@ -233,7 +250,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "865",
     "strokeCount": 7,
-    "meaning": "slope, incline, hill",
+    "meaning": {
+      "en": "slope, incline, hill",
+      "vi": "con dốc, chỗ nghiêng, đồi"
+    },
     "kunyomi": [
       "さか"
     ],
@@ -245,7 +265,8 @@
         "example": "坂路",
         "reading": "ハンロ",
         "meaning": {
-          "vi": "ramp, slope"
+          "vi": "ramp, slope",
+          "en": "ramp, slope"
         },
         "romaji": "hanro"
       },
@@ -253,7 +274,8 @@
         "example": "京阪",
         "reading": "ケイハン",
         "meaning": {
-          "en": "Kyoto and Osaka, Kyoto-Osaka area"
+          "en": "Kyoto and Osaka, Kyoto-Osaka area",
+          "vi": "Kyoto và Osaka, vùng Kyoto-Osaka"
         },
         "romaji": "keihan"
       },
@@ -261,7 +283,8 @@
         "example": "登坂",
         "reading": "トウハン",
         "meaning": {
-          "vi": "climbing a slope (hill), ascending a hill"
+          "vi": "climbing a slope (hill), ascending a hill",
+          "en": "climbing a slope (hill), ascending a hill"
         },
         "romaji": "touhan"
       }
@@ -271,7 +294,8 @@
         "example": "坂",
         "reading": "さか",
         "meaning": {
-          "vi": "slope, incline, hill, milestone, (age) mark"
+          "vi": "slope, incline, hill, milestone, (age) mark",
+          "en": "slope, incline, hill, milestone, age mark"
         },
         "romaji": "saka"
       },
@@ -279,7 +303,8 @@
         "example": "坂道",
         "reading": "さかみち",
         "meaning": {
-          "en": "hill road"
+          "en": "hill road",
+          "vi": "đường dốc"
         },
         "romaji": "sakamichi"
       },
@@ -287,7 +312,8 @@
         "example": "海境",
         "reading": "うなさか",
         "meaning": {
-          "en": "boundary between the world of men and the world of the sea god"
+          "en": "boundary between the world of men and the world of the sea god",
+          "vi": "ranh giới giữa thế giới loài người và thế giới thần biển"
         },
         "romaji": "unasaka"
       },
@@ -295,14 +321,18 @@
         "example": "急な坂",
         "reading": "きゅうなさか",
         "meaning": {
-          "vi": "sudden drop, precipitous slope"
+          "vi": "sudden drop, precipitous slope",
+          "en": "sudden drop, precipitous slope"
         },
         "romaji": "kyuunasaka"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "厂",
@@ -314,6 +344,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5742.gif",
     "uri": "https://jisho.org/search/%E5%9D%82%23kanji"
   },
+  "mnemonic_vi": "Đất gặp phản, gợi mặt đất nghiêng thành con dốc.",
   "hanViet": [
     "bản",
     "phản"

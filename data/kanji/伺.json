@@ -7,13 +7,17 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ukagau, ukagai, ukaga",
-    "meaning": "inquire",
+    "meaning": {
+      "en": "inquire",
+      "vi": "hỏi, thăm hỏi"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "奉伺する（ほうしする）",
         "meaning": {
-          "english": "inquire about (one's health)"
+          "en": "inquire about (one's health)",
+          "vi": "inquire about (one's health)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ukaga(u)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "伺う（うかがう）",
         "meaning": {
-          "english": "visit, ask [hum.]"
+          "en": "visit, ask [hum.]",
+          "vi": "thăm viếng, hỏi han (kính ngữ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-ukaga(u)_06_b.opus",
@@ -120,7 +125,8 @@
     "kanji": {
       "character": "伺",
       "meaning": {
-        "english": "inquire"
+        "en": "inquire",
+        "vi": "hỏi, thăm hỏi"
       },
       "strokes": {
         "count": 7,
@@ -172,7 +178,8 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -193,7 +200,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "2209",
     "strokeCount": 7,
-    "meaning": "pay respects, visit, ask, inquire, question, implore",
+    "meaning": {
+      "en": "pay respects, visit, ask, inquire, question, implore",
+      "vi": "thăm viếng, chào hỏi, hỏi han, dò hỏi, chất vấn, khẩn cầu"
+    },
     "kunyomi": [
       "うかが.う"
     ],
@@ -205,6 +215,7 @@
         "example": "伺候",
         "reading": "シコウ",
         "meaning": {
+          "en": "waiting upon (someone)",
           "vi": "waiting upon (someone)"
         },
         "romaji": "shikou"
@@ -213,6 +224,7 @@
         "example": "経伺",
         "reading": "ケイシ",
         "meaning": {
+          "en": "asking for instructions, consulting and obtaining approval",
           "vi": "asking for instructions, consulting and obtaining approval"
         },
         "romaji": "keishi"
@@ -221,7 +233,8 @@
         "example": "奉伺",
         "reading": "ホウシ",
         "meaning": {
-          "en": "inquiring about (one's health)"
+          "en": "inquiring about (one's health)",
+          "vi": "hỏi thăm sức khỏe"
         },
         "romaji": "houshi"
       }
@@ -231,6 +244,7 @@
         "example": "伺う",
         "reading": "うかがう",
         "meaning": {
+          "en": "to call on someone, to call at a place, to pay a visit, to wait on someone, to ask, to inquire, to hear, to be told, to implore (a god for an oracle), to seek direction (from your superior), to speak to (a large crowd at a theatre, etc.)",
           "vi": "to call on someone, to call at a place, to pay a visit, to wait on someone, to ask, to inquire, to hear, to be told, to implore (a god for an oracle), to seek direction (from your superior), to speak to (a large crowd at a theatre, etc.)"
         },
         "romaji": "ukagau"
@@ -241,7 +255,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

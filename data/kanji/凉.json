@@ -4,8 +4,12 @@
   "jishoData": {
     "query": "凉",
     "found": true,
+    "jlptLevel": null,
     "strokeCount": 10,
-    "meaning": "nice and cool",
+    "meaning": {
+      "en": "nice and cool",
+      "vi": "mát mẻ, dễ chịu"
+    },
     "kunyomi": [
       "すず.しい",
       "すず.む",
@@ -22,7 +26,8 @@
         "example": "涼",
         "reading": "リョウ",
         "meaning": {
-          "en": "cool breeze, cool air, refreshing coolness"
+          "en": "cool breeze, cool air, refreshing coolness",
+          "vi": "gió mát, không khí mát, sự mát mẻ sảng khoái"
         },
         "romaji": "ryou"
       },
@@ -30,7 +35,8 @@
         "example": "爽凉",
         "reading": "ソウリョウ",
         "meaning": {
-          "en": "cool and refreshing"
+          "en": "cool and refreshing",
+          "vi": "mát mẻ và sảng khoái"
         },
         "romaji": "souryou"
       }
@@ -40,7 +46,8 @@
         "example": "涼しい",
         "reading": "すずしい",
         "meaning": {
-          "vi": "cool, refreshing, clear (e.g. eyes), bright, clear, distinct, composed (facial expression), unruffled, unconcerned, pure, upright, innocent"
+          "vi": "cool, refreshing, clear (e.g. eyes), bright, clear, distinct, composed (facial expression), unruffled, unconcerned, pure, upright, innocent",
+          "en": "cool, refreshing, clear (e.g. eyes), bright, clear, distinct, composed (facial expression), unruffled, unconcerned, pure, upright, innocent"
         },
         "romaji": "suzushii"
       },
@@ -48,14 +55,18 @@
         "example": "涼む",
         "reading": "すずむ",
         "meaning": {
-          "en": "to cool oneself, to cool off, to enjoy the cool air"
+          "en": "to cool oneself, to cool off, to enjoy the cool air",
+          "vi": "làm mát người, giải nhiệt, tận hưởng không khí mát"
         },
         "romaji": "suzumu"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "亠",
@@ -71,5 +82,6 @@
   "hanViet": [
     "lương",
     "lượng"
-  ]
+  ],
+  "mnemonic_vi": "Băng 冫 dưới mái cao và miệng nhỏ, gợi luồng gió mát làm người thấy lương, mát dịu."
 }

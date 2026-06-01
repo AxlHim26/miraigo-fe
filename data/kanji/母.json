@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "haha",
-    "meaning": "mother",
+    "meaning": {
+      "en": "mother",
+      "vi": "mẹ"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "母国語（ぼこくご）",
         "meaning": {
-          "english": "mother tongue"
+          "english": "mother tongue",
+          "en": "mother tongue",
+          "vi": "tiếng mẹ đẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "母音（ぼいん）",
         "meaning": {
-          "english": "vowel"
+          "english": "vowel",
+          "en": "vowel",
+          "vi": "nguyên âm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "母校（ぼこう）",
         "meaning": {
-          "english": "alma mater"
+          "english": "alma mater",
+          "en": "alma mater",
+          "vi": "alma mater"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "祖母（そぼ）",
         "meaning": {
-          "english": "grandmother"
+          "english": "grandmother",
+          "en": "grandmother",
+          "vi": "grandmother"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "母（はは）",
         "meaning": {
-          "english": "one's own mother"
+          "english": "one's own mother",
+          "en": "one's own mother",
+          "vi": "one's own mother"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "母親（ははおや）",
         "meaning": {
-          "english": "mother"
+          "english": "mother",
+          "en": "mother",
+          "vi": "mẹ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "*お母さん（おかあさん）",
         "meaning": {
-          "english": "mother [hon.]"
+          "english": "mother [hon.]",
+          "en": "mother [hon.]",
+          "vi": "mother [hon.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/haha_06_g.opus",
@@ -240,7 +257,9 @@
     "kanji": {
       "character": "母",
       "meaning": {
-        "english": "mother"
+        "english": "mother",
+        "en": "mother",
+        "vi": "mẹ"
       },
       "strokes": {
         "count": 5,
@@ -288,7 +307,9 @@
         "romaji": "nakare"
       },
       "meaning": {
-        "english": "not, mother"
+        "english": "not, mother",
+        "en": "not, mother",
+        "vi": "not, mother"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nakare0.svg",
@@ -309,7 +330,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "570",
     "strokeCount": 5,
-    "meaning": "mother",
+    "meaning": {
+      "en": "mother",
+      "vi": "mẹ"
+    },
     "kunyomi": [
       "はは",
       "も"
@@ -322,7 +346,8 @@
         "example": "母国",
         "reading": "ボコク",
         "meaning": {
-          "en": "one's home country, one's homeland"
+          "en": "one's home country, one's homeland",
+          "vi": "one's home country, one's homeland"
         },
         "romaji": "bokoku"
       },
@@ -330,7 +355,8 @@
         "example": "母校",
         "reading": "ボコウ",
         "meaning": {
-          "en": "alma mater"
+          "en": "alma mater",
+          "vi": "alma mater"
         },
         "romaji": "bokou"
       },
@@ -338,7 +364,8 @@
         "example": "養父母",
         "reading": "ヨウフボ",
         "meaning": {
-          "vi": "adoptive parents"
+          "vi": "adoptive parents",
+          "en": "adoptive parents"
         },
         "romaji": "youfubo"
       },
@@ -346,7 +373,8 @@
         "example": "空母",
         "reading": "クウボ",
         "meaning": {
-          "en": "aircraft carrier"
+          "en": "aircraft carrier",
+          "vi": "aircraft carrier"
         },
         "romaji": "kuubo"
       }
@@ -356,7 +384,8 @@
         "example": "母",
         "reading": "はは",
         "meaning": {
-          "en": "mother"
+          "en": "mother",
+          "vi": "mẹ"
         },
         "romaji": "haha"
       },
@@ -364,7 +393,8 @@
         "example": "母親",
         "reading": "ははおや",
         "meaning": {
-          "en": "mother"
+          "en": "mother",
+          "vi": "mẹ"
         },
         "romaji": "hahaoya"
       },
@@ -372,7 +402,8 @@
         "example": "必要は発明の母",
         "reading": "ひつようははつめいのはは",
         "meaning": {
-          "en": "necessity is the mother of invention"
+          "en": "necessity is the mother of invention",
+          "vi": "necessity is the mother of invention"
         },
         "romaji": "hitsuyouhahatsumeinohaha"
       },
@@ -380,7 +411,8 @@
         "example": "失敗は成功の母",
         "reading": "しっぱいはせいこうのはは",
         "meaning": {
-          "en": "failure is the mother of success"
+          "en": "failure is the mother of success",
+          "vi": "failure is the mother of success"
         },
         "romaji": "shippaihaseikounohaha"
       },
@@ -388,7 +420,8 @@
         "example": "母屋",
         "reading": "もや",
         "meaning": {
-          "vi": "purlin (structural beam in a roof), purline, main building (of a manor), central room (in traditional palatial-style architecture)"
+          "vi": "purlin (structural beam in a roof), purline, main building (of a manor), central room (in traditional palatial-style architecture)",
+          "en": "purlin (structural beam in a roof), purline, main building (of a manor), central room (in traditional palatial-style architecture)"
         },
         "romaji": "moya"
       },
@@ -396,7 +429,8 @@
         "example": "母屋桁",
         "reading": "もやげた",
         "meaning": {
-          "vi": "purlin (structural beam in a roof), purline"
+          "vi": "purlin (structural beam in a roof), purline",
+          "en": "purlin (structural beam in a roof), purline"
         },
         "romaji": "moyageta"
       },
@@ -404,7 +438,8 @@
         "example": "雲母",
         "reading": "うんも",
         "meaning": {
-          "en": "mica, isinglass"
+          "en": "mica, isinglass",
+          "vi": "mica, isinglass"
         },
         "romaji": "unmo"
       },
@@ -412,7 +447,8 @@
         "example": "乳母",
         "reading": "うば",
         "meaning": {
-          "en": "wet nurse, nursing mother"
+          "en": "wet nurse, nursing mother",
+          "vi": "wet nurse, nursing mother"
         },
         "romaji": "uba"
       }
@@ -423,7 +459,10 @@
         "母",
         "⺟"
       ],
-      "meaning": "mother, do not"
+      "meaning": {
+        "en": "mother, do not",
+        "vi": "mother, do not"
+      }
     },
     "parts": [
       "毋",
@@ -437,5 +476,7 @@
   "hanViet": [
     "mô",
     "mẫu"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: giống chữ nữ nhưng thêm hai chấm như hình người mẹ đang nuôi con."
 }

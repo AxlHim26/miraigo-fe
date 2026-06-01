@@ -5,7 +5,10 @@
     "query": "丨",
     "found": true,
     "strokeCount": 1,
-    "meaning": "number one, line, rod radical (no. 2)",
+    "meaning": {
+      "en": "number one, line, rod radical (no. 2)",
+      "vi": "số một, nét dọc, bộ sổ (số 2)"
+    },
     "kunyomi": [
       "すす.む",
       "しりぞ.く"
@@ -20,7 +23,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "丨",
-      "meaning": "line"
+      "meaning": {
+        "en": "line",
+        "vi": "nét dọc"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20008_frames.png",

@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ta, tate, tatsu, tachi, tateru",
-    "meaning": "stand, establish",
+    "meaning": {
+      "en": "stand, establish",
+      "vi": "đứng, thiết lập"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "独立する（どくりつする）",
         "meaning": {
-          "english": "become independent"
+          "english": "become independent",
+          "en": "become independent",
+          "vi": "become independent"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "自立する（じりつする）",
         "meaning": {
-          "english": "become independent"
+          "english": "become independent",
+          "en": "become independent",
+          "vi": "become independent"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "確立する（かくりつする）",
         "meaning": {
-          "english": "establish [v.t.], be established"
+          "english": "establish [v.t.], be established",
+          "en": "establish [v.t.], be established",
+          "vi": "establish [v.t.], be established"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "成立する（せいりつする）",
         "meaning": {
-          "english": "form, be born, be completed"
+          "english": "form, be born, be completed",
+          "en": "form, be born, be completed",
+          "vi": "form, be born, be completed"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "対立する（たいりつする）",
         "meaning": {
-          "english": "confront"
+          "english": "confront",
+          "en": "confront",
+          "vi": "confront"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "国立（こくりつ）",
         "meaning": {
-          "english": "national"
+          "english": "national",
+          "en": "national",
+          "vi": "national"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "私立（しりつ/わたくしりつ）",
         "meaning": {
-          "english": "private (establishment)"
+          "english": "private (establishment)",
+          "en": "private (establishment)",
+          "vi": "private (establishment)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "立派な（りっぱな）",
         "meaning": {
-          "english": "splendid"
+          "english": "splendid",
+          "en": "splendid",
+          "vi": "splendid"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "建立する（こんりゅうする）",
         "meaning": {
-          "english": "build (temple, monument, etc.)"
+          "english": "build (temple, monument, etc.)",
+          "en": "build (temple, monument, etc.)",
+          "vi": "build (temple, monument, etc.)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "立つ（たつ）",
         "meaning": {
-          "english": "stand up [v.i.]"
+          "english": "stand up [v.i.]",
+          "en": "stand up [v.i.]",
+          "vi": "stand up [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "立場（たちば）",
         "meaning": {
-          "english": "standpoint"
+          "english": "standpoint",
+          "en": "standpoint",
+          "vi": "standpoint"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "立てる（たてる）",
         "meaning": {
-          "english": "stand (something) up [v.t.]"
+          "english": "stand (something) up [v.t.]",
+          "en": "stand (something) up [v.t.]",
+          "vi": "stand (something) up [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_l.opus",
@@ -309,7 +336,9 @@
     "kanji": {
       "character": "立",
       "meaning": {
-        "english": "stand, establish"
+        "english": "stand, establish",
+        "en": "stand, establish",
+        "vi": "đứng, thiết lập"
       },
       "strokes": {
         "count": 5,
@@ -357,7 +386,9 @@
         "romaji": "tatsu"
       },
       "meaning": {
-        "english": "to stand"
+        "english": "to stand",
+        "en": "to stand",
+        "vi": "to stand"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tatsu0.svg",
@@ -378,7 +409,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "58",
     "strokeCount": 5,
-    "meaning": "stand up, rise, set up, erect",
+    "meaning": {
+      "en": "stand up, rise, set up, erect",
+      "vi": "đứng lên, vươn lên, thiết lập, dựng lên"
+    },
     "kunyomi": [
       "た.つ",
       "-た.つ",
@@ -401,7 +435,8 @@
         "example": "立案",
         "reading": "リツアン",
         "meaning": {
-          "vi": "planning, devising (a plan), drafting, drawing up"
+          "vi": "planning, devising (a plan), drafting, drawing up",
+          "en": "planning, devising (a plan), drafting, drawing up"
         },
         "romaji": "ritsuan"
       },
@@ -409,7 +444,8 @@
         "example": "立像",
         "reading": "リツゾウ",
         "meaning": {
-          "en": "standing statue, standing image"
+          "en": "standing statue, standing image",
+          "vi": "standing statue, standing image"
         },
         "romaji": "ritsuzou"
       },
@@ -417,7 +453,8 @@
         "example": "並立",
         "reading": "ヘイリツ",
         "meaning": {
-          "en": "standing abreast"
+          "en": "standing abreast",
+          "vi": "standing abreast"
         },
         "romaji": "heiritsu"
       },
@@ -425,7 +462,8 @@
         "example": "不成立",
         "reading": "フセイリツ",
         "meaning": {
-          "en": "failure (e.g. of a bill, motion), falling through, rejection, miscarriage"
+          "en": "failure (e.g. of a bill, motion), falling through, rejection, miscarriage",
+          "vi": "failure (e.g. of a bill, motion), falling through, rejection, miscarriage"
         },
         "romaji": "fuseiritsu"
       },
@@ -433,7 +471,8 @@
         "example": "立ち木",
         "reading": "タチキ",
         "meaning": {
-          "en": "standing tree, standing timber"
+          "en": "standing tree, standing timber",
+          "vi": "standing tree, standing timber"
         },
         "romaji": "tachiki"
       },
@@ -441,7 +480,8 @@
         "example": "立纓",
         "reading": "リュウエイ",
         "meaning": {
-          "vi": "erect tail (of a traditional Japanese hat)"
+          "vi": "erect tail (of a traditional Japanese hat)",
+          "en": "erect tail (of a traditional Japanese hat)"
         },
         "romaji": "ryuuei"
       },
@@ -449,7 +489,8 @@
         "example": "開立",
         "reading": "カイリュウ",
         "meaning": {
-          "en": "extraction of cubic root"
+          "en": "extraction of cubic root",
+          "vi": "extraction of cubic root"
         },
         "romaji": "kairyuu"
       },
@@ -457,7 +498,8 @@
         "example": "造立",
         "reading": "ゾウリュウ",
         "meaning": {
-          "vi": "erecting (a temple, Buddhist statue, etc.)"
+          "vi": "erecting (a temple, Buddhist statue, etc.)",
+          "en": "erecting (a temple, Buddhist statue, etc.)"
         },
         "romaji": "zouryuu"
       }
@@ -467,7 +509,8 @@
         "example": "立つ",
         "reading": "たつ",
         "meaning": {
-          "vi": "to stand (up), to rise, to get to one's feet, to stand on end (e.g. of hairs), to stick up, to stand (in a position; of a person, tree, building, etc.), to be situated (in, on), to be (in difficulties, the lead, etc.), to put oneself (in a position or situation), to take up (a position, post, etc.), to position oneself, to leave (to do something), to depart (on a journey, trip, etc.), to leave, to set off, to start, to get stuck (into; of an arrow, thorn etc.), to pierce, to develop (of a haze, waves, etc.), to form (of steam, bubbles, etc.), to appear (of a rainbow, clouds, etc.), to rise (of smoke, waves, etc.), to begin to blow (of a wind, breeze, etc.), to spread (of a rumour, reputation, etc.), to be become widely known, to stand (for election), to run, to take action, to act, to rise (up), to rouse oneself, to have an erection, to become erect (e.g. of nipples), to be established (of a policy, plan, objective, etc.), to be formed, to be valid (of an argument, logic, etc.), to hold up, to hold water, to stand up (e.g. of evidence), to be logical, to be reasonable, to be sustained (of a living, business, etc.), to be maintained, to survive, to be preserved (of one's reputation, honour, etc.), to be saved, to start (of a season), to begin, to be held (of a market), to shut (of a door, shoji, etc.), to be shut, to be closed, to be (the result of a division)"
+          "vi": "to stand (up), to rise, to get to one's feet, to stand on end (e.g. of hairs), to stick up, to stand (in a position; of a person, tree, building, etc.), to be situated (in, on), to be (in difficulties, the lead, etc.), to put oneself (in a position or situation), to take up (a position, post, etc.), to position oneself, to leave (to do something), to depart (on a journey, trip, etc.), to leave, to set off, to start, to get stuck (into; of an arrow, thorn etc.), to pierce, to develop (of a haze, waves, etc.), to form (of steam, bubbles, etc.), to appear (of a rainbow, clouds, etc.), to rise (of smoke, waves, etc.), to begin to blow (of a wind, breeze, etc.), to spread (of a rumour, reputation, etc.), to be become widely known, to stand (for election), to run, to take action, to act, to rise (up), to rouse oneself, to have an erection, to become erect (e.g. of nipples), to be established (of a policy, plan, objective, etc.), to be formed, to be valid (of an argument, logic, etc.), to hold up, to hold water, to stand up (e.g. of evidence), to be logical, to be reasonable, to be sustained (of a living, business, etc.), to be maintained, to survive, to be preserved (of one's reputation, honour, etc.), to be saved, to start (of a season), to begin, to be held (of a market), to shut (of a door, shoji, etc.), to be shut, to be closed, to be (the result of a division)",
+          "en": "to stand (up), to rise, to get to one's feet, to stand on end (e.g. of hairs), to stick up, to stand (in a position; of a person, tree, building, etc.), to be situated (in, on), to be (in difficulties, the lead, etc.), to put oneself (in a position or situation), to take up (a position, post, etc.), to position oneself, to leave (to do something), to depart (on a journey, trip, etc.), to leave, to set off, to start, to get stuck (into; of an arrow, thorn etc.), to pierce, to develop (of a haze, waves, etc.), to form (of steam, bubbles, etc.), to appear (of a rainbow, clouds, etc.), to rise (of smoke, waves, etc.), to begin to blow (of a wind, breeze, etc.), to spread (of a rumour, reputation, etc.), to be become widely known, to stand (for election), to run, to take action, to act, to rise (up), to rouse oneself, to have an erection, to become erect (e.g. of nipples), to be established (of a policy, plan, objective, etc.), to be formed, to be valid (of an argument, logic, etc.), to hold up, to hold water, to stand up (e.g. of evidence), to be logical, to be reasonable, to be sustained (of a living, business, etc.), to be maintained, to survive, to be preserved (of one's reputation, honour, etc.), to be saved, to start (of a season), to begin, to be held (of a market), to shut (of a door, shoji, etc.), to be shut, to be closed, to be (the result of a division)"
         },
         "romaji": "tatsu"
       },
@@ -475,7 +518,8 @@
         "example": "立つ瀬",
         "reading": "たつせ",
         "meaning": {
-          "vi": "one's position, one's face, one's honour, one's reputation"
+          "vi": "one's position, one's face, one's honour, one's reputation",
+          "en": "one's position, one's face, one's honour, one's reputation"
         },
         "romaji": "tatsuse"
       },
@@ -483,7 +527,8 @@
         "example": "突立",
         "reading": "とったつ",
         "meaning": {
-          "vi": "stand straight up"
+          "vi": "stand straight up",
+          "en": "stand straight up"
         },
         "romaji": "tottatsu"
       },
@@ -491,14 +536,18 @@
         "example": "立てる",
         "reading": "たてる",
         "meaning": {
-          "vi": "to stand up, to put up, to set up, to erect, to raise, to thrust into, to bury into, to dig into, to make (a noise), to start (a rumour), to raise (a cloud of dust, etc.), to cause, to make, to establish, to set up, to develop, to formulate, to put up (a political candidate), to make (one's leader), to treat with respect, to give (someone) their due, to make (someone) look good, to avoid embarrassing (someone), to sharpen, to make clear, to shut, to close, to make tea (matcha), to perform the tea ceremony, to divide by, to do ... vigorously"
+          "vi": "to stand up, to put up, to set up, to erect, to raise, to thrust into, to bury into, to dig into, to make (a noise), to start (a rumour), to raise (a cloud of dust, etc.), to cause, to make, to establish, to set up, to develop, to formulate, to put up (a political candidate), to make (one's leader), to treat with respect, to give (someone) their due, to make (someone) look good, to avoid embarrassing (someone), to sharpen, to make clear, to shut, to close, to make tea (matcha), to perform the tea ceremony, to divide by, to do ... vigorously",
+          "en": "to stand up, to put up, to set up, to erect, to raise, to thrust into, to bury into, to dig into, to make (a noise), to start (a rumour), to raise (a cloud of dust, etc.), to cause, to make, to establish, to set up, to develop, to formulate, to put up (a political candidate), to make (one's leader), to treat with respect, to give (someone) their due, to make (someone) look good, to avoid embarrassing (someone), to sharpen, to make clear, to shut, to close, to make tea (matcha), to perform the tea ceremony, to divide by, to do ... vigorously"
         },
         "romaji": "tateru"
       }
     ],
     "radical": {
       "symbol": "立",
-      "meaning": "stand, erect"
+      "meaning": {
+        "en": "stand, erect",
+        "vi": "đứng, dựng đứng"
+      }
     },
     "parts": [
       "立"
@@ -510,5 +559,7 @@
   },
   "hanViet": [
     "lập"
-  ]
+  ],
+  "jlpt_level": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 立 như người đứng thẳng trên mặt đất, nên nhớ là đứng và lập nên."
 }

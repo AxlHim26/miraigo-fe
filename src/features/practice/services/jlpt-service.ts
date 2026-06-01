@@ -1,16 +1,6 @@
 import { z } from "zod";
 
-import { ensureAccessToken } from "@/lib/api-client";
-import { getBackendApiUrl } from "@/lib/env";
-import { fetchJson } from "@/lib/fetcher";
-
-const resolveToken = async (token?: string) => {
-  if (token) return token;
-  if (typeof window !== "undefined") {
-    return (await ensureAccessToken()) || undefined;
-  }
-  return undefined;
-};
+import { api } from "@/lib/api-client";
 
 import {
   JlptAttemptAnswer,
@@ -21,22 +11,20 @@ import {
   JlptStartAttemptResponseSchema,
 } from "../types/jlpt-schema";
 
-export const getPublishedExams = async () => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/exams`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken();
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
+const authConfig = (token?: string) => {
+  if (!token) {
+    return undefined;
   }
 
-  const response = await fetchJson<unknown>(url, {
-    headers,
-    cache: "no-store",
-  });
+  return {
+    headers: {
+      Authorization: `Bearer ${token}`,
+    },
+  };
+};
+
+export const getPublishedExams = async () => {
+  const response = await api.get<unknown>("/api/v1/jlpt/exams");
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -54,7 +42,7 @@ export const getPublishedExams = async () => {
     ),
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const getJlptPracticeQuestions = async (
@@ -62,20 +50,12 @@ export const getJlptPracticeQuestions = async (
   sectionType: string,
   limit: number = 10,
 ) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/practice?level=${level}&sectionType=${sectionType}&limit=${limit}`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken();
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    headers,
-    cache: "no-store",
+  const response = await api.get<unknown>("/api/v1/jlpt/practice", {
+    params: {
+      level,
+      sectionType,
+      limit,
+    },
   });
 
   const apiResponseSchema = z.object({
@@ -84,25 +64,11 @@ export const getJlptPracticeQuestions = async (
     data: z.array(JlptPracticeQuestionResponseSchema),
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const getJlptExamDetail = async (examId: number) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/exams/${examId}`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken();
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    headers,
-    cache: "no-store",
-  });
+  const response = await api.get<unknown>(`/api/v1/jlpt/exams/${examId}`);
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -110,31 +76,15 @@ export const getJlptExamDetail = async (examId: number) => {
     data: JlptExamDetailSchema,
   });
 
-  try {
-    return apiResponseSchema.parse(response).data;
-  } catch (error) {
-    console.error("Zod parsing error in getJlptExamDetail:", error);
-    throw error;
-  }
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const startJlptAttempt = async (examId: number, token?: string) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/exams/${examId}/attempts`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken(token);
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    method: "POST",
-    headers,
-    cache: "no-store",
-  });
+  const response = await api.post<unknown>(
+    `/api/v1/jlpt/exams/${examId}/attempts`,
+    undefined,
+    authConfig(token),
+  );
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -142,25 +92,11 @@ export const startJlptAttempt = async (examId: number, token?: string) => {
     data: JlptStartAttemptResponseSchema,
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const getJlptAttemptSession = async (attemptId: number, token?: string) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/attempts/${attemptId}`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken(token);
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    headers,
-    cache: "no-store",
-  });
+  const response = await api.get<unknown>(`/api/v1/jlpt/attempts/${attemptId}`, authConfig(token));
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -168,7 +104,7 @@ export const getJlptAttemptSession = async (attemptId: number, token?: string) =
     data: JlptStartAttemptResponseSchema,
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const startJlptSectionAttempt = async (
@@ -176,22 +112,11 @@ export const startJlptSectionAttempt = async (
   sectionId: number,
   token?: string,
 ) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/attempts/${attemptId}/sections/${sectionId}/start`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken(token);
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    method: "POST",
-    headers,
-    cache: "no-store",
-  });
+  const response = await api.post<unknown>(
+    `/api/v1/jlpt/attempts/${attemptId}/sections/${sectionId}/start`,
+    undefined,
+    authConfig(token),
+  );
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -199,7 +124,7 @@ export const startJlptSectionAttempt = async (
     data: JlptSectionAttemptSchema,
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const submitJlptSectionAttempt = async (
@@ -207,22 +132,11 @@ export const submitJlptSectionAttempt = async (
   sectionId: number,
   token?: string,
 ) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/attempts/${attemptId}/sections/${sectionId}/submit`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken(token);
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    method: "POST",
-    headers,
-    cache: "no-store",
-  });
+  const response = await api.post<unknown>(
+    `/api/v1/jlpt/attempts/${attemptId}/sections/${sectionId}/submit`,
+    undefined,
+    authConfig(token),
+  );
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -230,7 +144,7 @@ export const submitJlptSectionAttempt = async (
     data: JlptSectionAttemptSchema,
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const saveJlptAnswers = async (
@@ -238,23 +152,11 @@ export const saveJlptAnswers = async (
   answers: JlptAttemptAnswer[],
   token?: string,
 ) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/attempts/${attemptId}/answers`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken(token);
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    method: "PATCH",
-    headers,
-    body: JSON.stringify({ answers }),
-    cache: "no-store",
-  });
+  const response = await api.patch<unknown>(
+    `/api/v1/jlpt/attempts/${attemptId}/answers`,
+    { answers },
+    authConfig(token),
+  );
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -265,26 +167,15 @@ export const saveJlptAnswers = async (
     }),
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const submitJlptAttempt = async (attemptId: number, token?: string) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/attempts/${attemptId}/submit`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken(token);
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    method: "POST",
-    headers,
-    cache: "no-store",
-  });
+  const response = await api.post<unknown>(
+    `/api/v1/jlpt/attempts/${attemptId}/submit`,
+    undefined,
+    authConfig(token),
+  );
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -297,25 +188,14 @@ export const submitJlptAttempt = async (attemptId: number, token?: string) => {
     }),
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const getJlptAttemptResult = async (attemptId: number, token?: string) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/attempts/${attemptId}/result`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken(token);
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    headers,
-    cache: "no-store",
-  });
+  const response = await api.get<unknown>(
+    `/api/v1/jlpt/attempts/${attemptId}/result`,
+    authConfig(token),
+  );
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -323,30 +203,18 @@ export const getJlptAttemptResult = async (attemptId: number, token?: string) =>
     data: JlptAttemptResultSchema,
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const evaluatePlacementTest = async (
   answers: { questionId: number; selectedOptionKey: string }[],
   token?: string,
 ) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/placement`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken(token);
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    method: "POST",
-    headers,
-    body: JSON.stringify({ answers }),
-    cache: "no-store",
-  });
+  const response = await api.post<unknown>(
+    "/api/v1/jlpt/placement",
+    { answers },
+    authConfig(token),
+  );
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -354,25 +222,11 @@ export const evaluatePlacementTest = async (
     data: z.string(),
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const getJlptAttemptHistory = async (token?: string) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/attempts/history`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken(token);
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    headers,
-    cache: "no-store",
-  });
+  const response = await api.get<unknown>("/api/v1/jlpt/attempts/history", authConfig(token));
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -393,27 +247,15 @@ export const getJlptAttemptHistory = async (token?: string) => {
     ),
   });
 
-  return apiResponseSchema.parse(response).data;
+  return apiResponseSchema.parse(response.data).data;
 };
 
 export const importCommunityExam = async (examData: unknown, token?: string) => {
-  const url = `${getBackendApiUrl()}/api/v1/jlpt/community-exams/import`;
-
-  const headers: HeadersInit = {
-    "Content-Type": "application/json",
-  };
-
-  const resolvedToken = await resolveToken(token);
-  if (resolvedToken) {
-    headers["Authorization"] = `Bearer ${resolvedToken}`;
-  }
-
-  const response = await fetchJson<unknown>(url, {
-    method: "POST",
-    headers,
-    body: JSON.stringify(examData),
-    cache: "no-store",
-  });
+  const response = await api.post<unknown>(
+    "/api/v1/jlpt/community-exams/import",
+    examData,
+    authConfig(token),
+  );
 
   const apiResponseSchema = z.object({
     status: z.number(),
@@ -427,5 +269,5 @@ export const importCommunityExam = async (examData: unknown, token?: string) => 
       .optional(),
   });
 
-  return apiResponseSchema.parse(response);
+  return apiResponseSchema.parse(response.data);
 };

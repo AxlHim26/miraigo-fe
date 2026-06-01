@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "koromo",
-    "meaning": "garment, clothes",
+    "meaning": {
+      "en": "garment, clothes",
+      "vi": "quần áo, y phục"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "衣類（いるい）",
         "meaning": {
-          "english": "clothes, clothing, garments"
+          "english": "clothes, clothing, garments",
+          "en": "clothes, clothing, garments",
+          "vi": "quần áo, y phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koromo_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "衣服（いふく）",
         "meaning": {
-          "english": "clothes"
+          "english": "clothes",
+          "en": "clothes",
+          "vi": "quần áo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koromo_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "衣食住（いしょくじゅう）",
         "meaning": {
-          "english": "food, clothing and shelter"
+          "english": "food, clothing and shelter",
+          "en": "food, clothing and shelter",
+          "vi": "ăn, mặc và ở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koromo_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "衣料品（いりょうひん）",
         "meaning": {
-          "english": "clothing"
+          "english": "clothing",
+          "en": "clothing",
+          "vi": "trang phục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koromo_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "白衣（はくい）",
         "meaning": {
-          "english": "(doctor/nurse's) white gown"
+          "english": "(doctor/nurse's) white gown",
+          "en": "(doctor/nurse's) white gown",
+          "vi": "áo blouse trắng của bác sĩ/y tá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koromo_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "衣（ころも）",
         "meaning": {
-          "english": "clothes"
+          "english": "clothes",
+          "en": "clothes",
+          "vi": "quần áo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koromo_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "衣替え（ころもがえ）",
         "meaning": {
-          "english": "seasonal change of clothing"
+          "english": "seasonal change of clothing",
+          "en": "seasonal change of clothing",
+          "vi": "thay đổi trang phục theo mùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koromo_06_g.opus",
@@ -174,7 +191,9 @@
     "kanji": {
       "character": "衣",
       "meaning": {
-        "english": "garment, clothes"
+        "english": "garment, clothes",
+        "en": "garment, clothes",
+        "vi": "quần áo, y phục"
       },
       "strokes": {
         "count": 6,
@@ -224,7 +243,9 @@
         "romaji": "koromo"
       },
       "meaning": {
-        "english": "clothing"
+        "english": "clothing",
+        "en": "clothing",
+        "vi": "trang phục"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/koromo0.svg",
@@ -245,7 +266,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1214",
     "strokeCount": 6,
-    "meaning": "garment, clothes, dressing",
+    "meaning": {
+      "en": "garment, clothes, dressing",
+      "vi": "quần áo, y phục, sự ăn mặc"
+    },
     "kunyomi": [
       "ころも",
       "きぬ",
@@ -260,7 +284,8 @@
         "example": "衣",
         "reading": "キヌ",
         "meaning": {
-          "en": "clothing, garment, dress"
+          "en": "clothing, garment, dress",
+          "vi": "quần áo, y phục, trang phục"
         },
         "romaji": "kinu"
       },
@@ -268,7 +293,8 @@
         "example": "衣装",
         "reading": "イショウ",
         "meaning": {
-          "en": "clothing, costume, outfit, garment, dress"
+          "en": "clothing, costume, outfit, garment, dress",
+          "vi": "quần áo, trang phục, bộ đồ, y phục"
         },
         "romaji": "ishou"
       },
@@ -276,7 +302,8 @@
         "example": "着衣",
         "reading": "チャクイ",
         "meaning": {
-          "en": "clothes (that one is wearing), wearing clothes"
+          "en": "clothes (that one is wearing), wearing clothes",
+          "vi": "quần áo đang mặc, việc mặc quần áo"
         },
         "romaji": "chakui"
       },
@@ -284,7 +311,8 @@
         "example": "脱衣",
         "reading": "ダツイ",
         "meaning": {
-          "vi": "undressing, taking off one's clothes, stripping"
+          "vi": "undressing, taking off one's clothes, stripping",
+          "en": "undressing, taking off one's clothes, stripping"
         },
         "romaji": "datsui"
       },
@@ -292,7 +320,8 @@
         "example": "衣鉢",
         "reading": "イハツ",
         "meaning": {
-          "vi": "mysteries of one's master's art, robes and a bowl (monk's key possessions auctioned off at his funeral), transmission of the dharma from master to disciple (in Zen)"
+          "vi": "mysteries of one's master's art, robes and a bowl (monk's key possessions auctioned off at his funeral), transmission of the dharma from master to disciple (in Zen)",
+          "en": "mysteries of one's master's art, robes and a bowl (monk's key possessions auctioned off at his funeral), transmission of the dharma from master to disciple (in Zen)"
         },
         "romaji": "ihatsu"
       },
@@ -300,7 +329,8 @@
         "example": "衣紋",
         "reading": "エモン",
         "meaning": {
-          "vi": "dress, clothes, drapery"
+          "vi": "dress, clothes, drapery",
+          "en": "dress, clothes, drapery"
         },
         "romaji": "emon"
       },
@@ -308,7 +338,8 @@
         "example": "着衣",
         "reading": "チャクイ",
         "meaning": {
-          "en": "clothes (that one is wearing), wearing clothes"
+          "en": "clothes (that one is wearing), wearing clothes",
+          "vi": "quần áo đang mặc, việc mặc quần áo"
         },
         "romaji": "chakui"
       },
@@ -316,7 +347,8 @@
         "example": "脱衣",
         "reading": "ダツイ",
         "meaning": {
-          "vi": "undressing, taking off one's clothes, stripping"
+          "vi": "undressing, taking off one's clothes, stripping",
+          "en": "undressing, taking off one's clothes, stripping"
         },
         "romaji": "datsui"
       }
@@ -326,7 +358,8 @@
         "example": "衣",
         "reading": "ころも",
         "meaning": {
-          "en": "clothes, garment, gown, robe, coating (e.g. glaze, batter, icing)"
+          "en": "clothes, garment, gown, robe, coating (e.g. glaze, batter, icing)",
+          "vi": "quần áo, trang phục, áo choàng, lớp phủ (như men, bột áo, kem phủ)"
         },
         "romaji": "koromo"
       },
@@ -334,7 +367,8 @@
         "example": "衣替え",
         "reading": "ころもがえ",
         "meaning": {
-          "vi": "seasonal change of clothing, changing one's dress for the season, renovation, facelift, redesign, redecoration, new appearance, fresh look"
+          "vi": "seasonal change of clothing, changing one's dress for the season, renovation, facelift, redesign, redecoration, new appearance, fresh look",
+          "en": "seasonal change of clothing, changing one's dress for the season, renovation, facelift, redesign, redecoration, new appearance, fresh look"
         },
         "romaji": "koromogae"
       },
@@ -342,7 +376,8 @@
         "example": "砂糖の衣",
         "reading": "さとうのころも",
         "meaning": {
-          "en": "frosting (e.g. on a cake), icing"
+          "en": "frosting (e.g. on a cake), icing",
+          "vi": "lớp kem phủ, lớp đường phủ"
         },
         "romaji": "satounokoromo"
       },
@@ -350,7 +385,8 @@
         "example": "紅葉の衣",
         "reading": "もみじのころも",
         "meaning": {
-          "vi": "comparing beautiful autumn leaves to a garment"
+          "vi": "comparing beautiful autumn leaves to a garment",
+          "en": "comparing beautiful autumn leaves to a garment"
         },
         "romaji": "momijinokoromo"
       },
@@ -358,7 +394,8 @@
         "example": "衣",
         "reading": "きぬ",
         "meaning": {
-          "en": "clothing, garment, dress"
+          "en": "clothing, garment, dress",
+          "vi": "quần áo, y phục, trang phục"
         },
         "romaji": "kinu"
       },
@@ -366,7 +403,8 @@
         "example": "如月",
         "reading": "きさらぎ",
         "meaning": {
-          "en": "second month of the lunar calendar, February"
+          "en": "second month of the lunar calendar, February",
+          "vi": "tháng hai âm lịch, tháng Hai"
         },
         "romaji": "kisaragi"
       }
@@ -376,7 +414,10 @@
       "forms": [
         "衤"
       ],
-      "meaning": "clothes"
+      "meaning": {
+        "en": "clothes",
+        "vi": "quần áo"
+      }
     },
     "parts": [
       "亠",

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1270",
     "strokeCount": 15,
-    "meaning": "erupt, spout, emit, flush out",
+    "meaning": {
+      "en": "erupt, spout, emit, flush out",
+      "vi": "phun trào, phun ra, phát ra, xả ra"
+    },
     "kunyomi": [
       "ふ.く"
     ],
@@ -20,7 +23,8 @@
         "example": "噴煙",
         "reading": "フンエン",
         "meaning": {
-          "vi": "(eruption of) smoke"
+          "vi": "(eruption of) smoke",
+          "en": "smoke emission, volcanic smoke"
         },
         "romaji": "fun'en"
       },
@@ -28,7 +32,8 @@
         "example": "噴火",
         "reading": "フンカ",
         "meaning": {
-          "vi": "eruption, volcanic eruption"
+          "vi": "eruption, volcanic eruption",
+          "en": "eruption, volcanic eruption"
         },
         "romaji": "funka"
       },
@@ -36,7 +41,8 @@
         "example": "暴噴",
         "reading": "ボウフン",
         "meaning": {
-          "en": "blowout (oil well, gas field, etc.)"
+          "en": "blowout (oil well, gas field, etc.)",
+          "vi": "sự phun trào mất kiểm soát (giếng dầu, mỏ khí, v.v.)"
         },
         "romaji": "boufun"
       },
@@ -44,7 +50,8 @@
         "example": "自噴",
         "reading": "ジフン",
         "meaning": {
-          "vi": "gushing forth (e.g. of oil), spouting, natural emergence (of a hot spring)"
+          "vi": "gushing forth (e.g. of oil), spouting, natural emergence (of a hot spring)",
+          "en": "gushing forth (e.g. oil), spouting, natural emergence (of a hot spring)"
         },
         "romaji": "jifun"
       }
@@ -54,14 +61,18 @@
         "example": "噴く",
         "reading": "ふく",
         "meaning": {
-          "vi": "to emit, to spout, to spurt, to boil over"
+          "vi": "to emit, to spout, to spurt, to boil over",
+          "en": "to emit, to spout, to spurt, to boil over"
         },
         "romaji": "fuku"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "ハ",
@@ -79,5 +90,7 @@
   "hanViet": [
     "phôn",
     "phún"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Miệng 口 phun mạnh ra ngoài như núi lửa phun, nên 噴 là phun trào."
 }

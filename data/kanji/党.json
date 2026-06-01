@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "party, faction",
+    "meaning": {
+      "en": "party, faction",
+      "vi": "đảng phái, phe phái"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "党（とう）",
         "meaning": {
-          "english": "political party"
+          "english": "political party",
+          "en": "political party",
+          "vi": "đảng chính trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "党員（とういん）",
         "meaning": {
-          "english": "party member"
+          "english": "party member",
+          "en": "party member",
+          "vi": "đảng viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "党首（とうしゅ）",
         "meaning": {
-          "english": "party leader"
+          "english": "party leader",
+          "en": "party leader",
+          "vi": "lãnh đạo đảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "党派（とうは）",
         "meaning": {
-          "english": "faction"
+          "english": "faction",
+          "en": "faction",
+          "vi": "phe phái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "党大会（とうたいかい）",
         "meaning": {
-          "english": "party convention"
+          "english": "party convention",
+          "en": "party convention",
+          "vi": "đại hội đảng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "野党（やとう）",
         "meaning": {
-          "english": "opposition party"
+          "english": "opposition party",
+          "en": "opposition party",
+          "vi": "đảng đối lập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "与党（よとう）",
         "meaning": {
-          "english": "party in power"
+          "english": "party in power",
+          "en": "party in power",
+          "vi": "đảng cầm quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "政党（せいとう）",
         "meaning": {
-          "english": "political party"
+          "english": "political party",
+          "en": "political party",
+          "vi": "đảng chính trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "徒党（ととう）",
         "meaning": {
-          "english": "clique, faction, cabal"
+          "english": "clique, faction, cabal",
+          "en": "clique, faction, cabal",
+          "vi": "bè phái, phe cánh, nhóm quyền lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "社会党（しゃかいとう）",
         "meaning": {
-          "english": "Socialist Party"
+          "english": "Socialist Party",
+          "en": "Socialist Party",
+          "vi": "Đảng Xã hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "共和党（きょうわとう）",
         "meaning": {
-          "english": "Republican Party"
+          "english": "Republican Party",
+          "en": "Republican Party",
+          "vi": "Đảng Cộng hòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "民主党（みんしゅとう）",
         "meaning": {
-          "english": "Democratic party"
+          "english": "Democratic party",
+          "en": "Democratic party",
+          "vi": "Đảng Dân chủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(minshu)tou_06_l.opus",
@@ -248,7 +275,9 @@
     "kanji": {
       "character": "党",
       "meaning": {
-        "english": "party, faction"
+        "english": "party, faction",
+        "en": "party, faction",
+        "vi": "đảng phái, phe phái"
       },
       "strokes": {
         "count": 10,
@@ -306,7 +335,9 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs",
+        "en": "human legs",
+        "vi": "chân người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -327,7 +358,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "39",
     "strokeCount": 10,
-    "meaning": "party, faction, clique",
+    "meaning": {
+      "en": "party, faction, clique",
+      "vi": "đảng phái, phe phái, bè nhóm"
+    },
     "kunyomi": [
       "なかま",
       "むら"
@@ -340,7 +374,8 @@
         "example": "党",
         "reading": "トウ",
         "meaning": {
-          "vi": "party (political), person who is fond of, fan of"
+          "vi": "party (political), person who is fond of, fan of",
+          "en": ""
         },
         "romaji": "tou"
       },
@@ -348,7 +383,8 @@
         "example": "党員",
         "reading": "トウイン",
         "meaning": {
-          "vi": "party member"
+          "vi": "party member",
+          "en": ""
         },
         "romaji": "touin"
       },
@@ -356,7 +392,8 @@
         "example": "両党",
         "reading": "リョウトウ",
         "meaning": {
-          "vi": "both (political) parties"
+          "vi": "both (political) parties",
+          "en": ""
         },
         "romaji": "ryoutou"
       },
@@ -364,7 +401,8 @@
         "example": "同党",
         "reading": "ドウトウ",
         "meaning": {
-          "vi": "same (political) party, the said party"
+          "vi": "same (political) party, the said party",
+          "en": ""
         },
         "romaji": "doutou"
       }
@@ -372,7 +410,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "儿",

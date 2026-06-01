@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 8,
-    "meaning": "eggplant",
+    "meaning": {
+      "en": "eggplant",
+      "vi": "cà tím"
+    },
     "kunyomi": [],
     "onyomi": [
       "カ"
@@ -16,7 +19,8 @@
         "example": "蕃茄",
         "reading": "バンカ",
         "meaning": {
-          "vi": "tomato (Solanum lycopersicum)"
+          "vi": "tomato (Solanum lycopersicum)",
+          "en": "tomato (Solanum lycopersicum)"
         },
         "romaji": "banka"
       }
@@ -27,7 +31,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [
       "力",
@@ -43,5 +50,7 @@
     "cà",
     "gia",
     "già"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Bộ cỏ ở trên và hình quả phía dưới gợi ngay đến cây cà và quả cà tím."
 }

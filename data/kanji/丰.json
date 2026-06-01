@@ -5,7 +5,10 @@
     "query": "丰",
     "found": true,
     "strokeCount": 4,
-    "meaning": "abundant, lush, bountiful, plenty, fat face, luxurious growth of grass",
+    "meaning": {
+      "en": "abundant, lush, bountiful, plenty, fat face, luxurious growth of grass",
+      "vi": "phong phú, tươi tốt, dồi dào, nhiều, mặt đầy đặn, cỏ mọc um tùm"
+    },
     "kunyomi": [
       "みめよ.い",
       "しげ.る"
@@ -19,7 +22,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "丨",
-      "meaning": "line"
+      "meaning": {
+        "en": "line",
+        "vi": "nét dọc"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20016_frames.png",

@@ -5,7 +5,10 @@
     "query": "丶",
     "found": true,
     "strokeCount": 1,
-    "meaning": "dot, tick or dot radical (no. 3)",
+    "meaning": {
+      "en": "dot, tick or dot radical (no. 3)",
+      "vi": "dấu chấm, nét chấm hoặc bộ chấm (số 3)"
+    },
     "kunyomi": [],
     "onyomi": [
       "チュ"
@@ -14,7 +17,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "丶",
-      "meaning": "dot"
+      "meaning": {
+        "en": "dot",
+        "vi": "dấu chấm"
+      }
     },
     "parts": [
       "丶"

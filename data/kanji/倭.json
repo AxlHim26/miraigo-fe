@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2098",
     "strokeCount": 10,
-    "meaning": "Yamato, ancient Japan",
+    "meaning": {
+      "en": "Yamato, ancient Japan",
+      "vi": "Yamato, Nhật Bản cổ đại"
+    },
     "kunyomi": [
       "やまと",
       "したが.う"
@@ -21,7 +24,8 @@
         "example": "和",
         "reading": "ワ",
         "meaning": {
-          "vi": "sum, harmony, peace, Japan, Japanese-style"
+          "vi": "sum, harmony, peace, Japan, Japanese-style",
+          "en": "sum, harmony, peace, Japan, Japanese-style"
         },
         "romaji": "wa"
       },
@@ -29,7 +33,8 @@
         "example": "和歌",
         "reading": "ワカ",
         "meaning": {
-          "vi": "waka, classic Japanese poem, esp. a tanka, often 31 morae"
+          "vi": "waka, classic Japanese poem, esp. a tanka, often 31 morae",
+          "en": "waka, classic Japanese poem, esp. a tanka, often 31 morae"
         },
         "romaji": "waka"
       }
@@ -39,7 +44,8 @@
         "example": "大和",
         "reading": "やまと",
         "meaning": {
-          "vi": "(ancient) Japan, Yamato kingdom, state of Yamato, Yamato (former province located in present-day Nara Prefecture)"
+          "vi": "(ancient) Japan, Yamato kingdom, state of Yamato, Yamato (former province located in present-day Nara Prefecture)",
+          "en": "(ancient) Japan, Yamato kingdom, state of Yamato, Yamato (former province located in present-day Nara Prefecture)"
         },
         "romaji": "yamato"
       },
@@ -47,7 +53,8 @@
         "example": "大和歌",
         "reading": "やまとうた",
         "meaning": {
-          "vi": "Japanese poem, waka, tanka"
+          "vi": "Japanese poem, waka, tanka",
+          "en": "Japanese poem, waka, tanka"
         },
         "romaji": "yamatouta"
       },
@@ -55,7 +62,8 @@
         "example": "大倭",
         "reading": "おおやまと",
         "meaning": {
-          "vi": "Japan, Yamato (former province located in present-day Nara Prefecture)"
+          "vi": "Japan, Yamato (former province located in present-day Nara Prefecture)",
+          "en": "Japan, Yamato (former province located in present-day Nara Prefecture)"
         },
         "romaji": "ooyamato"
       }
@@ -65,7 +73,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

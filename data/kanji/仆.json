@@ -5,7 +5,10 @@
     "query": "仆",
     "found": true,
     "strokeCount": 4,
-    "meaning": "fall, lie down, bend",
+    "meaning": {
+      "en": "fall, lie down, bend",
+      "vi": "ngã xuống, nằm xuống, cúi gập"
+    },
     "kunyomi": [
       "たお.れる"
     ],
@@ -17,7 +20,8 @@
         "example": "斃仆",
         "reading": "ヘイフ",
         "meaning": {
-          "vi": "falling dead, perishing, dying"
+          "vi": "ngã gục chết, tiêu vong, hấp hối",
+          "en": "falling dead, perishing, dying"
         },
         "romaji": "heifu"
       }
@@ -27,7 +31,8 @@
         "example": "倒れる",
         "reading": "たおれる",
         "meaning": {
-          "vi": "to fall (over, down), to collapse, to take a fall, to topple, to be destroyed (in a collapse), to collapse, to cave in, to crumble, to give away, to be confined to bed (with an illness), to come down with, to break down (e.g. from overwork), to die, to be killed, to go bankrupt (of a company, bank, etc.), to fail, to collapse, to go under, to be defeated (in a game), to lose, to fall (of a government, dictator, etc.), to be overthrown"
+          "vi": "ngã xuống, sụp đổ, té ngã, đổ nhào, bị phá hủy do sụp đổ, sụt lún, vỡ vụn, chịu thua, nằm liệt giường vì bệnh, đổ bệnh, suy sụp (ví dụ do làm việc quá sức), chết, bị giết, phá sản (công ty, ngân hàng, v.v.), thất bại, bị đánh bại, thua cuộc, sụp đổ (chính phủ, nhà độc tài, v.v.), bị lật đổ",
+          "en": "to fall (over, down), to collapse, to take a fall, to topple, to be destroyed (in a collapse), to collapse, to cave in, to crumble, to give away, to be confined to bed (with an illness), to come down with, to break down (e.g. from overwork), to die, to be killed, to go bankrupt (of a company, bank, etc.), to fail, to collapse, to go under, to be defeated (in a game), to lose, to fall (of a government, dictator, etc.), to be overthrown"
         },
         "romaji": "taoreru"
       },
@@ -35,7 +40,8 @@
         "example": "斃れる",
         "reading": "たおれる",
         "meaning": {
-          "en": "to die, to be killed"
+          "en": "to die, to be killed",
+          "vi": "chết, bị giết"
         },
         "romaji": "taoreru"
       }
@@ -45,7 +51,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

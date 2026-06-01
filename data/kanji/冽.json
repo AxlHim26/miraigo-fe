@@ -4,8 +4,12 @@
   "jishoData": {
     "query": "冽",
     "found": true,
+    "jlptLevel": null,
     "strokeCount": 8,
-    "meaning": "cold",
+    "meaning": {
+      "en": "cold",
+      "vi": "lạnh, rét buốt"
+    },
     "kunyomi": [
       "きよ.い"
     ],
@@ -18,7 +22,8 @@
         "example": "冽々",
         "reading": "レツレツ",
         "meaning": {
-          "en": "extremely cold"
+          "en": "extremely cold",
+          "vi": "cực kỳ lạnh, rét căm căm"
         },
         "romaji": "retsuretsu"
       },
@@ -26,7 +31,8 @@
         "example": "清冽",
         "reading": "セイレツ",
         "meaning": {
-          "en": "cool and clear"
+          "en": "cool and clear",
+          "vi": "mát lạnh và trong trẻo"
         },
         "romaji": "seiretsu"
       },
@@ -34,7 +40,8 @@
         "example": "冽々",
         "reading": "レツレツ",
         "meaning": {
-          "en": "extremely cold"
+          "en": "extremely cold",
+          "vi": "cực kỳ lạnh, rét căm căm"
         },
         "romaji": "retsuretsu"
       }
@@ -42,7 +49,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "冫",
@@ -56,5 +66,6 @@
   },
   "hanViet": [
     "liệt"
-  ]
+  ],
+  "mnemonic_vi": "Nước đá 冫 đi với lưỡi dao sắc, gợi cái lạnh buốt như cắt da."
 }

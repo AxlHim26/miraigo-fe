@@ -5,7 +5,10 @@
     "query": "冰",
     "found": true,
     "strokeCount": 6,
-    "meaning": "ice, hail",
+    "meaning": {
+      "en": "ice, hail",
+      "vi": "băng, mưa đá"
+    },
     "kunyomi": [
       "こおり",
       "ひ",
@@ -20,14 +23,18 @@
         "example": "氷",
         "reading": "ひ",
         "meaning": {
-          "en": "ice, hail"
+          "en": "ice, hail",
+          "vi": "băng, mưa đá"
         },
         "romaji": "hi"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "冫",
@@ -36,10 +43,12 @@
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20912_frames.png",
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b0.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b0.gif",
-    "uri": "https://jisho.org/search/%E5%86%B0%23kanji"
+    "uri": "https://jisho.org/search/%E5%86%B0%23kanji",
+    "jlptLevel": null
   },
   "hanViet": [
     "băng",
     "ngưng"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: nước gặp lạnh đông cứng thành băng, nên mang nghĩa băng giá."
 }

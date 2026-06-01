@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "mu, muku, muki, mukeru, mukau, mukou",
-    "meaning": "turn toward, face toward",
+    "meaning": {
+      "en": "turn toward, face toward",
+      "vi": "hướng về, quay mặt về"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "向上心（こうじょうしん）",
         "meaning": {
-          "english": "aspiration"
+          "english": "aspiration",
+          "en": "aspiration",
+          "vi": "khát vọng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "方向（ほうこう）",
         "meaning": {
-          "english": "direction"
+          "english": "direction",
+          "en": "direction",
+          "vi": "hướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "傾向（けいこう）",
         "meaning": {
-          "english": "tendency"
+          "english": "tendency",
+          "en": "tendency",
+          "vi": "xu hướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "動向（どうこう）",
         "meaning": {
-          "english": "trend, movement"
+          "english": "trend, movement",
+          "en": "trend, movement",
+          "vi": "xu thế, phong trào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "対向車（たいこうしゃ）",
         "meaning": {
-          "english": "oncoming car"
+          "english": "oncoming car",
+          "en": "oncoming car",
+          "vi": "xe đi ngược chiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "転向する（てんこうする）",
         "meaning": {
-          "english": "shift, switch"
+          "english": "shift, switch",
+          "en": "shift, switch",
+          "vi": "chuyển đổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "向こう（むこう）",
         "meaning": {
-          "english": "over there"
+          "english": "over there",
+          "en": "over there",
+          "vi": "đằng kia"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "向ける（むける）",
         "meaning": {
-          "english": "let turn towards [v.t.]"
+          "english": "let turn towards [v.t.]",
+          "en": "let turn towards [v.t.]",
+          "vi": "cho quay về phía"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "向かう（むかう）",
         "meaning": {
-          "english": "go towards [v.i.]"
+          "english": "go towards [v.i.]",
+          "en": "go towards [v.i.]",
+          "vi": "đi về phía"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "子供向け（こどもむけ）",
         "meaning": {
-          "english": "for children"
+          "english": "for children",
+          "en": "for children",
+          "vi": "cho trẻ em"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_j.opus",
@@ -268,7 +291,9 @@
     "kanji": {
       "character": "向",
       "meaning": {
-        "english": "turn toward, face toward"
+        "english": "turn toward, face toward",
+        "en": "turn toward, face toward",
+        "vi": "hướng về, quay mặt về"
       },
       "strokes": {
         "count": 6,
@@ -318,7 +343,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -339,7 +366,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "182",
     "strokeCount": 6,
-    "meaning": "yonder, facing, beyond, confront, defy, tend toward, approach",
+    "meaning": {
+      "en": "yonder, facing, beyond, confront, defy, tend toward, approach",
+      "vi": "phía đằng kia, đối diện, vượt qua, đối đầu, chống lại, có xu hướng, tiến đến"
+    },
     "kunyomi": [
       "む.く",
       "む.い",
@@ -361,7 +391,8 @@
         "example": "向上",
         "reading": "コウジョウ",
         "meaning": {
-          "vi": "elevation, rise, improvement, advancement, progress"
+          "vi": "sự nâng cao, tăng lên, cải thiện, tiến bộ, phát triển",
+          "en": "elevation, rise, improvement, advancement, progress"
         },
         "romaji": "koujou"
       },
@@ -369,7 +400,8 @@
         "example": "向後",
         "reading": "コウゴ",
         "meaning": {
-          "en": "hereafter"
+          "en": "hereafter",
+          "vi": "sau này"
         },
         "romaji": "kougo"
       },
@@ -377,7 +409,8 @@
         "example": "趣向",
         "reading": "シュコウ",
         "meaning": {
-          "vi": "plan, idea, design, plot, taste, liking, preference"
+          "vi": "kế hoạch, ý tưởng, thiết kế, mưu đồ, sở thích, thiên hướng",
+          "en": "plan, idea, design, plot, taste, liking, preference"
         },
         "romaji": "shukou"
       },
@@ -385,7 +418,8 @@
         "example": "性向",
         "reading": "セイコウ",
         "meaning": {
-          "en": "inclination, tendency, nature, character"
+          "en": "inclination, tendency, nature, character",
+          "vi": "khuynh hướng, xu hướng, bản tính, tính cách"
         },
         "romaji": "seikou"
       }
@@ -395,7 +429,8 @@
         "example": "向く",
         "reading": "むく",
         "meaning": {
-          "vi": "to turn toward, to look (up, down, etc.), to face (e.g. east) (of a building, window, etc.), to look out on, to front (on), to point (of an arrow, compass needle, etc.), to be suited to, to be fit for, to go towards, to turn to (of one's interests, feelings, etc.), to be inclined (to do)"
+          "vi": "quay về phía, nhìn (lên/xuống...), hướng về (ví dụ hướng đông), nhìn ra, quay mặt ra, chỉ về phía, thích hợp với, hợp để, đi về phía, chuyển sang, có khuynh hướng",
+          "en": "to turn toward, to look (up, down, etc.), to face (e.g. east) (of a building, window, etc.), to look out on, to front (on), to point (of an arrow, compass needle, etc.), to be suited to, to be fit for, to go towards, to turn to (of one's interests, feelings, etc.), to be inclined (to do)"
         },
         "romaji": "muku"
       },
@@ -403,7 +438,8 @@
         "example": "向いている",
         "reading": "むいている",
         "meaning": {
-          "en": "to be cut out for (e.g. a job), to be suited (to)"
+          "en": "to be cut out for (e.g. a job), to be suited (to)",
+          "vi": "phù hợp với, sinh ra để làm"
         },
         "romaji": "muiteiru"
       },
@@ -411,7 +447,8 @@
         "example": "向ける",
         "reading": "むける",
         "meaning": {
-          "vi": "to turn (towards), to face, to point, to aim, to direct to, to head to, to go towards, to allot, to allocate, to send, to dispatch (e.g. a person), to aim for, to pursue"
+          "vi": "quay về, đối diện, chỉ vào, nhắm tới, hướng tới, đi tới, phân bổ, cấp phát, cử đi, phái đi, nhắm đến, theo đuổi",
+          "en": "to turn (towards), to face, to point, to aim, to direct to, to head to, to go towards, to allot, to allocate, to send, to dispatch (e.g. a person), to aim for, to pursue"
         },
         "romaji": "mukeru"
       },
@@ -419,7 +456,8 @@
         "example": "向かう",
         "reading": "むかう",
         "meaning": {
-          "en": "to face, to go towards, to head towards"
+          "en": "to face, to go towards, to head towards",
+          "vi": "đối diện, đi về phía, hướng tới"
         },
         "romaji": "mukau"
       },
@@ -427,7 +465,8 @@
         "example": "向かうところ敵無し",
         "reading": "むかうところてきなし",
         "meaning": {
-          "en": "unbeatable, invincible, irresistible"
+          "en": "unbeatable, invincible, irresistible",
+          "vi": "không thể đánh bại, vô địch, không thể cưỡng lại"
         },
         "romaji": "mukautokorotekinashi"
       },
@@ -435,7 +474,8 @@
         "example": "向い",
         "reading": "むかい",
         "meaning": {
-          "vi": "facing, opposite, across the street, other side"
+          "vi": "đối diện, bên kia đường, phía bên kia",
+          "en": "facing, opposite, across the street, other side"
         },
         "romaji": "mukai"
       },
@@ -443,7 +483,8 @@
         "example": "向かい合う",
         "reading": "むかいあう",
         "meaning": {
-          "vi": "to face each other, to be opposite (to)"
+          "vi": "đối diện nhau, ở phía đối diện",
+          "en": "to face each other, to be opposite (to)"
         },
         "romaji": "mukaiau"
       },
@@ -451,7 +492,8 @@
         "example": "向こう",
         "reading": "むこう",
         "meaning": {
-          "vi": "opposite side, other side, over there, ahead, beyond, (in the) distance, far away, far off, destination, there (somewhere distant, esp. abroad), the other party, the other side, from now, next (e.g. two weeks), coming ..., from ... onwards"
+          "vi": "phía đối diện, bên kia, đằng kia, phía trước, xa hơn, ở xa, nơi đến, nơi xa nào đó, phía bên kia, từ bây giờ, tới (ví dụ hai tuần tới), sắp tới, từ ... trở đi",
+          "en": "opposite side, other side, over there, ahead, beyond, (in the) distance, far away, far off, destination, there (somewhere distant, esp. abroad), the other party, the other side, from now, next (e.g. two weeks), coming ..., from ... onwards"
         },
         "romaji": "mukou"
       },
@@ -459,7 +501,8 @@
         "example": "向こう側",
         "reading": "むこうがわ",
         "meaning": {
-          "vi": "other side, opposite side, other party"
+          "vi": "phía bên kia, phía đối diện, bên còn lại",
+          "en": "other side, opposite side, other party"
         },
         "romaji": "mukougawa"
       },
@@ -467,7 +510,8 @@
         "example": "向こう",
         "reading": "むこう",
         "meaning": {
-          "vi": "opposite side, other side, over there, ahead, beyond, (in the) distance, far away, far off, destination, there (somewhere distant, esp. abroad), the other party, the other side, from now, next (e.g. two weeks), coming ..., from ... onwards"
+          "vi": "phía đối diện, bên kia, đằng kia, phía trước, xa hơn, ở xa, nơi đến, nơi xa nào đó, phía bên kia, từ bây giờ, tới (ví dụ hai tuần tới), sắp tới, từ ... trở đi",
+          "en": "opposite side, other side, over there, ahead, beyond, (in the) distance, far away, far off, destination, there (somewhere distant, esp. abroad), the other party, the other side, from now, next (e.g. two weeks), coming ..., from ... onwards"
         },
         "romaji": "mukou"
       },
@@ -475,7 +519,8 @@
         "example": "向こう側",
         "reading": "むこうがわ",
         "meaning": {
-          "vi": "other side, opposite side, other party"
+          "vi": "phía bên kia, phía đối diện, bên còn lại",
+          "en": "other side, opposite side, other party"
         },
         "romaji": "mukougawa"
       },
@@ -483,7 +528,8 @@
         "example": "向い",
         "reading": "むかい",
         "meaning": {
-          "vi": "facing, opposite, across the street, other side"
+          "vi": "đối diện, bên kia đường, phía bên kia",
+          "en": "facing, opposite, across the street, other side"
         },
         "romaji": "mukai"
       },
@@ -491,14 +537,18 @@
         "example": "向かい合う",
         "reading": "むかいあう",
         "meaning": {
-          "vi": "to face each other, to be opposite (to)"
+          "vi": "đối diện nhau, ở phía đối diện",
+          "en": "to face each other, to be opposite (to)"
         },
         "romaji": "mukaiau"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "冂",
@@ -509,6 +559,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5411.gif",
     "uri": "https://jisho.org/search/%E5%90%91%23kanji"
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: chiếc cửa sổ nhỏ mở ra phía trước như đang hướng về một phía, nên 向 là hướng tới.",
   "hanViet": [
     "hướng",
     "hưởng"

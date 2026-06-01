@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kata, katameru, katamaru, katamari, katai",
-    "meaning": "solid, firm, hard",
+    "meaning": {
+      "en": "solid, firm, hard",
+      "vi": "rắn chắc, vững, cứng"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "固体（こたい）",
         "meaning": {
-          "english": "solid"
+          "english": "solid",
+          "en": "solid",
+          "vi": "rắn, chắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "固形（こけい）",
         "meaning": {
-          "english": "solid"
+          "english": "solid",
+          "en": "solid",
+          "vi": "rắn, chắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "固有（こゆう）",
         "meaning": {
-          "english": "peculiar (to), characteristic (of)"
+          "english": "peculiar (to), characteristic (of)",
+          "en": "peculiar (to), characteristic (of)",
+          "vi": "đặc trưng của, đặc hữu của"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "頑固な（がんこな）",
         "meaning": {
-          "english": "stubborn, obstinate"
+          "english": "stubborn, obstinate",
+          "en": "stubborn, obstinate",
+          "vi": "cứng đầu, bướng bỉnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "強固な（きょうこな）",
         "meaning": {
-          "english": "firm, stable, strong"
+          "english": "firm, stable, strong",
+          "en": "firm, stable, strong",
+          "vi": "vững chắc, ổn định, mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "固定する（こていする）",
         "meaning": {
-          "english": "fix, be fixed"
+          "english": "fix, be fixed",
+          "en": "fix, be fixed",
+          "vi": "cố định, được cố định"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "固辞する（こじする）",
         "meaning": {
-          "english": "refuse firmly"
+          "english": "refuse firmly",
+          "en": "refuse firmly",
+          "vi": "kiên quyết từ chối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "凝固する（ぎょうこする）",
         "meaning": {
-          "english": "coagulate, freeze, solidify"
+          "english": "coagulate, freeze, solidify",
+          "en": "coagulate, freeze, solidify",
+          "vi": "đông lại, đóng băng, rắn lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "固める（かためる）",
         "meaning": {
-          "english": "harden, freeze, fortify [v.t.]"
+          "english": "harden, freeze, fortify [v.t.]",
+          "en": "harden, freeze, fortify [v.t.]",
+          "vi": "làm cứng, làm đông, củng cố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "固まる（かたまる）",
         "meaning": {
-          "english": "harden, solidify [v.i.]"
+          "english": "harden, solidify [v.i.]",
+          "en": "harden, solidify [v.i.]",
+          "vi": "trở nên cứng, đông lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "固い（かたい）",
         "meaning": {
-          "english": "hard, firm, certain"
+          "english": "hard, firm, certain",
+          "en": "hard, firm, certain",
+          "vi": "cứng, vững, chắc chắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(mari)_06_k.opus",
@@ -254,7 +279,9 @@
     "kanji": {
       "character": "固",
       "meaning": {
-        "english": "solid, firm, hard"
+        "english": "solid, firm, hard",
+        "en": "solid, firm, hard",
+        "vi": "rắn chắc, vững, cứng"
       },
       "strokes": {
         "count": 8,
@@ -308,7 +335,9 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries",
+        "en": "border, territorial boundaries",
+        "vi": "ranh giới, biên cương"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -329,7 +358,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "750",
     "strokeCount": 8,
-    "meaning": "harden, set, clot, curdle",
+    "meaning": {
+      "en": "harden, set, clot, curdle",
+      "vi": "làm cứng, đông lại, vón cục, kết đông"
+    },
     "kunyomi": [
       "かた.める",
       "かた.まる",
@@ -344,7 +376,8 @@
         "example": "固体",
         "reading": "コタイ",
         "meaning": {
-          "en": "solid (body), solid matter, solid-state"
+          "en": "solid (body), solid matter, solid-state",
+          "vi": "thể rắn, vật chất rắn, trạng thái rắn"
         },
         "romaji": "kotai"
       },
@@ -352,7 +385,8 @@
         "example": "固形",
         "reading": "コケイ",
         "meaning": {
-          "en": "solid (body)"
+          "en": "solid (body)",
+          "vi": "thể rắn"
         },
         "romaji": "kokei"
       },
@@ -360,7 +394,8 @@
         "example": "凝固",
         "reading": "ギョウコ",
         "meaning": {
-          "en": "coagulation, freezing, solidification"
+          "en": "coagulation, freezing, solidification",
+          "vi": "sự đông đặc, đóng băng, rắn hóa"
         },
         "romaji": "gyouko"
       },
@@ -368,7 +403,8 @@
         "example": "簡明強固",
         "reading": "カンメイキョウコ",
         "meaning": {
-          "vi": "plain and sturdy"
+          "vi": "plain and sturdy",
+          "en": "plain and sturdy"
         },
         "romaji": "kanmeikyouko"
       }
@@ -378,7 +414,8 @@
         "example": "固める",
         "reading": "かためる",
         "meaning": {
-          "vi": "to harden, to freeze, to strengthen, to solidify, to make (a fist), to tramp down (snow, dirt), to put together, to collect, to gather, to consolidate, to make secure, to stabilize, to settle down, to strengthen (belief, resolution, etc.), to establish (evidence), to fortify, to reinforce, to support, to wear for a specific purpose (armor, coat, etc.), to swear, to resolutely vow, to sincerely promise, to tie tightly, to fasten, to hold a bow fully drawn"
+          "vi": "to harden, to freeze, to strengthen, to solidify, to make (a fist), to tramp down (snow, dirt), to put together, to collect, to gather, to consolidate, to make secure, to stabilize, to settle down, to strengthen (belief, resolution, etc.), to establish (evidence), to fortify, to reinforce, to support, to wear for a specific purpose (armor, coat, etc.), to swear, to resolutely vow, to sincerely promise, to tie tightly, to fasten, to hold a bow fully drawn",
+          "en": "to harden, to freeze, to strengthen, to solidify, to make (a fist), to tramp down (snow, dirt), to put together, to collect, to gather, to consolidate, to make secure, to stabilize, to settle down, to strengthen (belief, resolution, etc.), to establish (evidence), to fortify, to reinforce, to support, to wear for a specific purpose (armor, coat, etc.), to swear, to resolutely vow, to sincerely promise, to tie tightly, to fasten, to hold a bow fully drawn"
         },
         "romaji": "katameru"
       },
@@ -386,7 +423,8 @@
         "example": "固まる",
         "reading": "かたまる",
         "meaning": {
-          "vi": "to harden, to solidify, to become firm, to become certain, to gather (together), to assemble, to huddle together, to freeze, to hang, to stop responding"
+          "vi": "to harden, to solidify, to become firm, to become certain, to gather (together), to assemble, to huddle together, to freeze, to hang, to stop responding",
+          "en": "to harden, to solidify, to become firm, to become certain, to gather (together), to assemble, to huddle together, to freeze, to hang, to stop responding"
         },
         "romaji": "katamaru"
       },
@@ -394,7 +432,8 @@
         "example": "塊",
         "reading": "かたまり",
         "meaning": {
-          "vi": "lump, mass, bundle, clump, clod, cluster, group, crowd, embodiment (of an idea, quality, feeling etc.), personification"
+          "vi": "lump, mass, bundle, clump, clod, cluster, group, crowd, embodiment (of an idea, quality, feeling etc.), personification",
+          "en": "lump, mass, bundle, clump, clod, cluster, group, crowd, embodiment (of an idea, quality, feeling etc.), personification"
         },
         "romaji": "katamari"
       },
@@ -402,7 +441,8 @@
         "example": "塊肉",
         "reading": "かたまりにく",
         "meaning": {
-          "en": "chunk of meat (e.g. for grilling), joint of meat"
+          "en": "chunk of meat (e.g. for grilling), joint of meat",
+          "vi": "miếng thịt lớn, khối thịt"
         },
         "romaji": "katamariniku"
       },
@@ -410,7 +450,8 @@
         "example": "硬い",
         "reading": "かたい",
         "meaning": {
-          "vi": "hard, solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not viscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy"
+          "vi": "hard, solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not viscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy",
+          "en": "hard, solid, tough, stiff, tight, wooden, unpolished (e.g. writing), strong, firm (not viscous or easily moved), safe, steady, honest, steadfast, obstinate, stubborn, bookish, formal, stuffy"
         },
         "romaji": "katai"
       },
@@ -418,14 +459,18 @@
         "example": "かたいことは言いっこなし",
         "reading": "かたいことはいいっこなし",
         "meaning": {
-          "vi": "let's put formalities aside, let's not speak so stiffly"
+          "vi": "let's put formalities aside, let's not speak so stiffly",
+          "en": "let's put formalities aside, let's not speak so stiffly"
         },
         "romaji": "kataikotohaiikkonashi"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": {
+        "en": "enclosure",
+        "vi": "vây quanh"
+      }
     },
     "parts": [
       "十",
@@ -437,6 +482,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56fa.gif",
     "uri": "https://jisho.org/search/%E5%9B%BA%23kanji"
   },
+  "mnemonic_vi": "Cái cũ bị bao kín trong khung, gợi sự cố định, cứng chắc.",
   "hanViet": [
     "cố"
   ]

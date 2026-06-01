@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "jlptLevel": "N1",
     "strokeCount": 7,
-    "meaning": "washing, sieving, filtering, weeding out, luxury",
+    "meaning": {
+      "en": "washing, sieving, filtering, weeding out, luxury",
+      "vi": "rửa, sàng lọc, lọc bỏ, đào thải, xa xỉ"
+    },
     "kunyomi": [
       "おご.る",
       "にご.る",
@@ -22,7 +25,8 @@
         "example": "自然淘汰",
         "reading": "シゼントウタ",
         "meaning": {
-          "en": "natural selection"
+          "en": "natural selection",
+          "vi": "chọn lọc tự nhiên"
         },
         "romaji": "shizentouta"
       },
@@ -30,7 +34,8 @@
         "example": "淘汰",
         "reading": "トウタ",
         "meaning": {
-          "vi": "weeding out, elimination (e.g. of unneeded employees), culling, selection, selection"
+          "vi": "weeding out, elimination (e.g. of unneeded employees), culling, selection, selection",
+          "en": ""
         },
         "romaji": "touta"
       }
@@ -42,7 +47,10 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": {
+        "en": "water",
+        "vi": "nước"
+      }
     },
     "parts": [
       "丶",
@@ -57,5 +65,7 @@
   "hanViet": [
     "thái",
     "thải"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: nước chảy qua để gạn bỏ phần đục, nên 汰 là sàng lọc, đào thải."
 }

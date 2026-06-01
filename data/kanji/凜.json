@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 15,
-    "meaning": "cold, strict, severe",
+    "meaning": {
+      "en": "cold, strict, severe",
+      "vi": "lạnh lùng, nghiêm khắc, nghiêm nghị"
+    },
     "kunyomi": [
       "きびし.い"
     ],
@@ -18,7 +21,8 @@
         "example": "凛",
         "reading": "リン",
         "meaning": {
-          "vi": "cold, frigid, bracing, dignified, distinguished, refined, elegant, (of an atmosphere) tense, nerve-racking, (of voice, sound, etc) clear, ringing"
+          "vi": "lạnh, giá buốt, nghiêm nghị, đường hoàng, cao quý, thanh nhã, căng thẳng, vang rõ",
+          "en": "cold, frigid, bracing, dignified, distinguished, refined, elegant, (of an atmosphere) tense, nerve-racking, (of voice, sound, etc) clear, ringing"
         },
         "romaji": "rin"
       },
@@ -26,7 +30,8 @@
         "example": "凛乎",
         "reading": "リンコ",
         "meaning": {
-          "vi": "commanding, awe-inspiring"
+          "vi": "oai nghiêm, khiến người khác kính sợ",
+          "en": "commanding, awe-inspiring"
         },
         "romaji": "rinko"
       },
@@ -34,7 +39,8 @@
         "example": "凛々",
         "reading": "リンリン",
         "meaning": {
-          "vi": "severe, intense, awe-inspiring, commanding, biting, bitter (cold), piercing, frigid"
+          "vi": "dữ dội, mãnh liệt, oai nghiêm, rét cắt da, buốt giá",
+          "en": "severe, intense, awe-inspiring, commanding, biting, bitter (cold), piercing, frigid"
         },
         "romaji": "rinrin"
       },
@@ -42,7 +48,8 @@
         "example": "勇気凛凛",
         "reading": "ユウキリンリン",
         "meaning": {
-          "vi": "full of spirit, brimming with courage, high-spirited, mettlesome"
+          "vi": "đầy khí phách, tràn đầy dũng khí, hăng hái",
+          "en": "full of spirit, brimming with courage, high-spirited, mettlesome"
         },
         "romaji": "yuukirinrin"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "亠",
@@ -65,5 +75,6 @@
   },
   "hanViet": [
     "lẫm"
-  ]
+  ],
+  "mnemonic_vi": "Bộ băng 冫 ghép phần phải chặt chẽ, gợi cái lạnh nghiêm và phong thái lẫm liệt."
 }

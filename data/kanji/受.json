@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "u, ukeru, ukaru",
-    "meaning": "receive",
+    "meaning": {
+      "en": "receive",
+      "vi": "nhan"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "受講する（じゅこうする）",
         "meaning": {
-          "english": "attend class"
+          "english": "attend class",
+          "en": "attend class",
+          "vi": "tham du lop hoc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "受賞する（じゅしょうする）",
         "meaning": {
-          "english": "win (a prize)"
+          "english": "win (a prize)",
+          "en": "win (a prize)",
+          "vi": "doat giai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "受験する（じゅけんする）",
         "meaning": {
-          "english": "take an exam"
+          "english": "take an exam",
+          "en": "take an exam",
+          "vi": "du thi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "受信する（じゅしんする）",
         "meaning": {
-          "english": "receive (transmission)"
+          "english": "receive (transmission)",
+          "en": "receive (transmission)",
+          "vi": "thu song, nhan tin hieu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "受動的な（じゅどうてきな）",
         "meaning": {
-          "english": "passive"
+          "english": "passive",
+          "en": "passive",
+          "vi": "bi dong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "感受性（かんじゅせい）",
         "meaning": {
-          "english": "sensitivity"
+          "english": "sensitivity",
+          "en": "sensitivity",
+          "vi": "do nhay cam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "受ける（うける）",
         "meaning": {
-          "english": "receive, accept, take [v.t.]"
+          "english": "receive, accept, take [v.t.]",
+          "en": "receive, accept, take [v.t.]",
+          "vi": "nhan, chap nhan, lay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "受かる（うかる）",
         "meaning": {
-          "english": "pass (exam, interview) [v.i.]"
+          "english": "pass (exam, interview) [v.i.]",
+          "en": "pass (exam, interview) [v.i.]",
+          "vi": "do, vuot qua ky thi hoac phong van"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "*受付（うけつけ）",
         "meaning": {
-          "english": "reception desk"
+          "english": "reception desk",
+          "en": "reception desk",
+          "vi": "quay tiep tan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ju-u(keru)_06_i.opus",
@@ -281,7 +302,9 @@
     "kanji": {
       "character": "受",
       "meaning": {
-        "english": "receive"
+        "english": "receive",
+        "en": "receive",
+        "vi": "nhan"
       },
       "strokes": {
         "count": 8,
@@ -335,7 +358,9 @@
         "romaji": "mata"
       },
       "meaning": {
-        "english": "again, right hand"
+        "english": "again, right hand",
+        "en": "again, right hand",
+        "vi": "lai nua, ban tay phai"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mata0.svg",
@@ -356,7 +381,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "136",
     "strokeCount": 8,
-    "meaning": "accept, undergo, answer (phone), take, get, catch, receive",
+    "meaning": {
+      "en": "accept, undergo, answer (phone), take, get, catch, receive",
+      "vi": "chap nhan, trai qua, nhac may, lay, nhan duoc, bat lay, tiep nhan"
+    },
     "kunyomi": [
       "う.ける",
       "-う.け",
@@ -370,7 +398,8 @@
         "example": "受",
         "reading": "ジュ",
         "meaning": {
-          "en": "vedana (sensation)"
+          "en": "vedana (sensation)",
+          "vi": "tho, cam giac"
         },
         "romaji": "ju"
       },
@@ -378,7 +407,8 @@
         "example": "受益",
         "reading": "ジュエキ",
         "meaning": {
-          "en": "benefitting by, benefiting by"
+          "en": "benefitting by, benefiting by",
+          "vi": "duoc huong loi tu"
         },
         "romaji": "jueki"
       },
@@ -386,7 +416,8 @@
         "example": "授受",
         "reading": "ジュジュ",
         "meaning": {
-          "en": "giving and receiving, transferring, transfer, changing hands"
+          "en": "giving and receiving, transferring, transfer, changing hands",
+          "vi": "cho va nhan, chuyen giao, doi chu"
         },
         "romaji": "juju"
       },
@@ -394,7 +425,8 @@
         "example": "収受",
         "reading": "シュウジュ",
         "meaning": {
-          "vi": "reception, receiving"
+          "vi": "su tiep nhan, tiep don",
+          "en": "reception, receiving"
         },
         "romaji": "shuuju"
       }
@@ -404,7 +436,8 @@
         "example": "受ける",
         "reading": "うける",
         "meaning": {
-          "vi": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
+          "vi": "nhan, lay duoc, bat nhu bong, bi tac dong boi gio song nang, chiu ton hai, chiu mat mat, bi thuong, cam nhan anh huong, trai qua nhu phau thuat, du thi, chap nhan thu thach, duoc ban cho nhu su song tai nang, thay buồn cuoi, thay hai huoc, thay vui, noi tiep, thanh cong, duoc truyen lai, quay mat ve huong nao do, bi sua doi boi, chuoc lai vat cam co bang phi, duoc don nhan tot, tro nen pho bien, duoc ua chuong",
+          "en": "to receive, to get, to catch (e.g. a ball), to be struck by (wind, waves, sunlight, etc.), to sustain (damage), to incur (a loss), to suffer (an injury), to feel (influence), to undergo (e.g. surgery), to take (a test), to accept (a challenge), to be given (e.g. life, talent), to find funny, to find humorous, to be amused (by), to follow, to succeed, to be descended from, to face (south, etc.), to be modified by, to obtain (a pawned item, etc.) by paying a fee, to be well-received, to become popular, to go down well"
         },
         "romaji": "ukeru"
       },
@@ -412,14 +445,18 @@
         "example": "受かる",
         "reading": "うかる",
         "meaning": {
-          "vi": "to pass (examination)"
+          "vi": "do ky thi",
+          "en": "to pass (examination)"
         },
         "romaji": "ukaru"
       }
     ],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": {
+        "en": "right hand",
+        "vi": "tay phai"
+      }
     },
     "parts": [
       "冖",
@@ -435,5 +472,7 @@
     "thâu",
     "thọ",
     "thụ"
-  ]
+  ],
+  "jlpt_level": "N3",
+  "mnemonic_vi": "Bàn tay phía trên trao xuống bàn tay phía dưới, nhớ là nhận lấy."
 }

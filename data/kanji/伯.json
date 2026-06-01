@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1741",
     "strokeCount": 7,
-    "meaning": "chief, count, earl, uncle, Brazil",
+    "meaning": {
+      "en": "chief, count, earl, uncle, Brazil",
+      "vi": "người đứng đầu, bá tước, bá, bác/chú, Brazil"
+    },
     "kunyomi": [],
     "onyomi": [
       "ハク"
@@ -18,7 +21,8 @@
         "example": "伯",
         "reading": "ハク",
         "meaning": {
-          "vi": "count, earl, chief official of the Department of Worship (under the ritsuryō system), Brazil"
+          "vi": "count, earl, chief official of the Department of Worship (under the ritsuryō system), Brazil",
+          "en": "bá tước, bá, quan đứng đầu Bộ Lễ (theo chế độ luật lệnh), Brazil"
         },
         "romaji": "haku"
       },
@@ -26,7 +30,8 @@
         "example": "伯爵",
         "reading": "ハクシャク",
         "meaning": {
-          "en": "count, earl"
+          "en": "count, earl",
+          "vi": "bá tước, bá"
         },
         "romaji": "hakushaku"
       },
@@ -34,7 +39,8 @@
         "example": "画伯",
         "reading": "ガハク",
         "meaning": {
-          "vi": "master painter, great artist, painter, artist"
+          "vi": "master painter, great artist, painter, artist",
+          "en": "danh họa, nghệ sĩ lớn, họa sĩ, nghệ sĩ"
         },
         "romaji": "gahaku"
       },
@@ -42,7 +48,8 @@
         "example": "医伯",
         "reading": "イハク",
         "meaning": {
-          "en": "doctor"
+          "en": "doctor",
+          "vi": "bác sĩ, tiến sĩ"
         },
         "romaji": "ihaku"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

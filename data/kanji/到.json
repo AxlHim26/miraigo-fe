@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "ita, itaru",
-    "meaning": "arrive, reach",
+    "meaning": {
+      "en": "arrive, reach",
+      "vi": "den, toi"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "到底（とうてい）",
         "meaning": {
-          "english": "(cannot) possibly"
+          "english": "(cannot) possibly",
+          "en": "(cannot) possibly",
+          "vi": "(cannot) possibly"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "周到な（しゅうとうな）",
         "meaning": {
-          "english": "scrupulous, meticulous, careful"
+          "english": "scrupulous, meticulous, careful",
+          "en": "scrupulous, meticulous, careful",
+          "vi": "scrupulous, meticulous, careful"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "到来する（とうらいする）",
         "meaning": {
-          "english": "arrive"
+          "english": "arrive",
+          "en": "arrive",
+          "vi": "arrive"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "到着する（とうちゃくする）",
         "meaning": {
-          "english": "arrive"
+          "english": "arrive",
+          "en": "arrive",
+          "vi": "arrive"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "到達する（とうたつする）",
         "meaning": {
-          "english": "reach, arrive"
+          "english": "reach, arrive",
+          "en": "reach, arrive",
+          "vi": "reach, arrive"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "殺到する（さっとうする）",
         "meaning": {
-          "english": "throng, flood, rush"
+          "english": "throng, flood, rush",
+          "en": "throng, flood, rush",
+          "vi": "throng, flood, rush"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "到る（いたる）",
         "meaning": {
-          "english": "reach, attain"
+          "english": "reach, attain",
+          "en": "reach, attain",
+          "vi": "reach, attain"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tou(tatsusuru)_06_g.opus",
@@ -188,7 +205,9 @@
     "kanji": {
       "character": "到",
       "meaning": {
-        "english": "arrive, reach"
+        "english": "arrive, reach",
+        "en": "arrive, reach",
+        "vi": "den, toi"
       },
       "strokes": {
         "count": 8,
@@ -242,7 +261,9 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiem"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -263,7 +284,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "1032",
     "strokeCount": 8,
-    "meaning": "arrival, proceed, reach, attain, result in",
+    "meaning": {
+      "en": "arrival, proceed, reach, attain, result in",
+      "vi": "su den noi, tien toi, dat toi, dat duoc, dan den"
+    },
     "kunyomi": [
       "いた.る"
     ],
@@ -275,7 +299,8 @@
         "example": "到着",
         "reading": "トウチャク",
         "meaning": {
-          "en": "arrival"
+          "en": "arrival",
+          "vi": "arrival"
         },
         "romaji": "touchaku"
       },
@@ -283,7 +308,8 @@
         "example": "到達",
         "reading": "トウタツ",
         "meaning": {
-          "en": "reaching, attaining, arrival"
+          "en": "reaching, attaining, arrival",
+          "vi": "reaching, attaining, arrival"
         },
         "romaji": "toutatsu"
       },
@@ -291,7 +317,8 @@
         "example": "前人未到",
         "reading": "ゼンジンミトウ",
         "meaning": {
-          "vi": "untrodden (region, field of study, etc.), unprecedented (discovery, achievement, etc.)"
+          "vi": "untrodden (region, field of study, etc.), unprecedented (discovery, achievement, etc.)",
+          "en": "untrodden (region, field of study, etc.), unprecedented (discovery, achievement, etc.)"
         },
         "romaji": "zenjinmitou"
       },
@@ -299,7 +326,8 @@
         "example": "精到",
         "reading": "セイトウ",
         "meaning": {
-          "en": "meticulous"
+          "en": "meticulous",
+          "vi": "meticulous"
         },
         "romaji": "seitou"
       }
@@ -309,7 +337,8 @@
         "example": "至る",
         "reading": "いたる",
         "meaning": {
-          "vi": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in"
+          "vi": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in",
+          "en": "to arrive at (e.g. a decision), to reach (a stage), to attain, to lead to (a place), to get to, in the extreme case of, to come, to arrive, to result in"
         },
         "romaji": "itaru"
       },
@@ -317,7 +346,8 @@
         "example": "至る所",
         "reading": "いたるところ",
         "meaning": {
-          "en": "everywhere, all over, throughout"
+          "en": "everywhere, all over, throughout",
+          "vi": "everywhere, all over, throughout"
         },
         "romaji": "itarutokoro"
       }
@@ -327,7 +357,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiem"
+      }
     },
     "parts": [
       "刈",
@@ -340,7 +373,9 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5230.gif",
     "uri": "https://jisho.org/search/%E5%88%B0%23kanji"
   },
+  "jlpt": "N3",
   "hanViet": [
     "đáo"
-  ]
+  ],
+  "mnemonic_vi": "Goi y cach nho: Di den noi, cham den dich thi la 到."
 }

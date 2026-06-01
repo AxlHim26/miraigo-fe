@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tsutsu, tsutsumu, tsutsumi",
-    "meaning": "wrap, encompass",
+    "meaning": {
+      "en": "wrap, encompass",
+      "vi": "bọc, bao bọc"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "包帯（ほうたい）",
         "meaning": {
-          "english": "bandage"
+          "english": "bandage",
+          "en": "bandage",
+          "vi": "băng bó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "包丁（ほうちょう）",
         "meaning": {
-          "english": "kitchen knife, carving knife"
+          "english": "kitchen knife, carving knife",
+          "en": "kitchen knife, carving knife",
+          "vi": "dao bếp, dao thái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "包装紙（ほうそうし）",
         "meaning": {
-          "english": "wrapping paper"
+          "english": "wrapping paper",
+          "en": "wrapping paper",
+          "vi": "giấy gói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "包括的な（ほうかつてきな）",
         "meaning": {
-          "english": "comprehensive"
+          "english": "comprehensive",
+          "en": "comprehensive",
+          "vi": "toàn diện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "包囲する（ほういする）",
         "meaning": {
-          "english": "keep under siege, encircle"
+          "english": "keep under siege, encircle",
+          "en": "keep under siege, encircle",
+          "vi": "bao vây, vây hãm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "包含する（ほうがんする）",
         "meaning": {
-          "english": "include, implicate"
+          "english": "include, implicate",
+          "en": "include, implicate",
+          "vi": "bao gồm, liên lụy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "包装する（ほうそうする）",
         "meaning": {
-          "english": "pack, wrap"
+          "english": "pack, wrap",
+          "en": "pack, wrap",
+          "vi": "gói, bọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "梱包する（こんぽうする）",
         "meaning": {
-          "english": "pack for shipping [v.t.]"
+          "english": "pack for shipping [v.t.]",
+          "en": "pack for shipping [v.t.]",
+          "vi": "đóng gói để gửi hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "包む（つつむ）",
         "meaning": {
-          "english": "wrap up, pack"
+          "english": "wrap up, pack",
+          "en": "wrap up, pack",
+          "vi": "gói lại, đóng gói"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "包み（つつみ）",
         "meaning": {
-          "english": "bundle, package, parcel, bale"
+          "english": "bundle, package, parcel, bale",
+          "en": "bundle, package, parcel, bale",
+          "vi": "bó, gói hàng, bưu kiện, kiện hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "小包（こづつみ）",
         "meaning": {
-          "english": "parcel, package"
+          "english": "parcel, package",
+          "en": "parcel, package",
+          "vi": "bưu kiện, gói hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsutsu(mu)_06_k.opus",
@@ -235,7 +260,9 @@
     "kanji": {
       "character": "包",
       "meaning": {
-        "english": "wrap, encompass"
+        "english": "wrap, encompass",
+        "en": "wrap, encompass",
+        "vi": "bọc, bao bọc"
       },
       "strokes": {
         "count": 5,
@@ -283,7 +310,9 @@
         "romaji": "tsutsumigamae"
       },
       "meaning": {
-        "english": "to wrap"
+        "english": "to wrap",
+        "en": "to wrap",
+        "vi": "bọc, gói"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsutsumigamae0.svg",
@@ -304,7 +333,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "954",
     "strokeCount": 5,
-    "meaning": "wrap, pack up, cover, conceal",
+    "meaning": {
+      "en": "wrap, pack up, cover, conceal",
+      "vi": "bọc, gói lại, che phủ, che giấu"
+    },
     "kunyomi": [
       "つつ.む",
       "くる.む"
@@ -317,7 +349,8 @@
         "example": "包",
         "reading": "ホウ",
         "meaning": {
-          "vi": "counter for packaged goods (esp. powdered medicine)"
+          "vi": "từ đếm cho hàng đóng gói (đặc biệt là thuốc bột)",
+          "en": "counter for packaged goods (esp. powdered medicine)"
         },
         "romaji": "hou"
       },
@@ -325,7 +358,8 @@
         "example": "包囲",
         "reading": "ホウイ",
         "meaning": {
-          "vi": "siege, encirclement, envelopment, surrounding, besiegement"
+          "vi": "sự bao vây, vây hãm, vây quanh",
+          "en": "siege, encirclement, envelopment, surrounding, besiegement"
         },
         "romaji": "houi"
       },
@@ -333,7 +367,8 @@
         "example": "内包",
         "reading": "ナイホウ",
         "meaning": {
-          "vi": "connotation, comprehension, intension, inclusion, containment within"
+          "vi": "hàm ý, nội hàm, sự bao gồm, sự chứa đựng bên trong",
+          "en": "connotation, comprehension, intension, inclusion, containment within"
         },
         "romaji": "naihou"
       },
@@ -341,7 +376,8 @@
         "example": "閉包",
         "reading": "ヘイホウ",
         "meaning": {
-          "en": "closure"
+          "en": "closure",
+          "vi": "sự khép lại"
         },
         "romaji": "heihou"
       }
@@ -351,7 +387,8 @@
         "example": "包む",
         "reading": "つつむ",
         "meaning": {
-          "vi": "to wrap up, to pack, to bundle, to do up, to cover, to envelop, to shroud, to engulf, to conceal (a feeling), to hide, to give (money in an envelope; as a wedding gift, funeral offering, etc.)"
+          "vi": "gói lại, đóng gói, bó lại, bọc kín, che phủ, bao trùm, che giấu (cảm xúc), giấu đi, biếu tiền trong phong bì",
+          "en": "to wrap up, to pack, to bundle, to do up, to cover, to envelop, to shroud, to engulf, to conceal (a feeling), to hide, to give (money in an envelope; as a wedding gift, funeral offering, etc.)"
         },
         "romaji": "tsutsumu"
       },
@@ -359,14 +396,18 @@
         "example": "包む",
         "reading": "くるむ",
         "meaning": {
-          "vi": "to wrap up (in), to roll up (in), to tuck (up)"
+          "vi": "quấn lại, cuộn lại, nhét gọn vào",
+          "en": "to wrap up (in), to roll up (in), to tuck (up)"
         },
         "romaji": "kurumu"
       }
     ],
     "radical": {
       "symbol": "勹",
-      "meaning": "wrap, embrace"
+      "meaning": {
+        "en": "wrap, embrace",
+        "vi": "bao bọc, ôm lấy"
+      }
     },
     "parts": [
       "勹",
@@ -379,5 +420,7 @@
   },
   "hanViet": [
     "bao"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: một vật được ôm trọn trong nét bao quanh, nên 包 là bọc, gói."
 }

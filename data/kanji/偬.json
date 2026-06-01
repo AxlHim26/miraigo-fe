@@ -5,7 +5,10 @@
     "query": "偬",
     "found": true,
     "strokeCount": 11,
-    "meaning": "feel pain, suffer",
+    "meaning": {
+      "en": "feel pain, suffer",
+      "vi": "cảm thấy đau đớn, chịu khổ"
+    },
     "kunyomi": [
       "くる.しむ"
     ],
@@ -17,7 +20,8 @@
         "example": "倥偬",
         "reading": "コウソウ",
         "meaning": {
-          "en": "hurrying"
+          "en": "hurrying",
+          "vi": "vội vã"
         },
         "romaji": "kousou"
       }
@@ -28,7 +32,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "丶",

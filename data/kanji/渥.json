@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2257",
     "strokeCount": 12,
-    "meaning": "kindness, moisten",
+    "meaning": {
+      "en": "kindness, moisten",
+      "vi": "ân hậu, làm ẩm"
+    },
     "kunyomi": [
       "あつ.い",
       "うるお.う"
@@ -20,7 +23,8 @@
         "example": "渥然",
         "reading": "アクゼン",
         "meaning": {
-          "en": "glossy"
+          "en": "glossy",
+          "vi": "bóng mượt"
         },
         "romaji": "akuzen"
       },
@@ -28,7 +32,8 @@
         "example": "渥地",
         "reading": "アクチ",
         "meaning": {
-          "en": "marshland"
+          "en": "marshland",
+          "vi": "vùng đầm lầy"
         },
         "romaji": "akuchi"
       },
@@ -36,7 +41,8 @@
         "example": "優渥",
         "reading": "ユウアク",
         "meaning": {
-          "en": "gracious"
+          "en": "gracious",
+          "vi": "ân cần, nhân hậu"
         },
         "romaji": "yuuaku"
       }
@@ -48,7 +54,10 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": {
+        "en": "water",
+        "vi": "nước"
+      }
     },
     "parts": [
       "厶",

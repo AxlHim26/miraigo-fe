@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 5,
     "kunyomi": "akina, akinau, akinai",
-    "meaning": "trade, deal",
+    "meaning": {
+      "en": "trade, deal",
+      "vi": "buôn bán, giao dịch"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "商業（しょうぎょう）",
         "meaning": {
-          "english": "commerce"
+          "english": "commerce",
+          "en": "commerce",
+          "vi": "thương mại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "商人（しょうにん）",
         "meaning": {
-          "english": "merchant"
+          "english": "merchant",
+          "en": "merchant",
+          "vi": "thương nhân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "商売（しょうばい）",
         "meaning": {
-          "english": "business"
+          "english": "business",
+          "en": "business",
+          "vi": "kinh doanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "商品（しょうひん）",
         "meaning": {
-          "english": "merchandise"
+          "english": "merchandise",
+          "en": "merchandise",
+          "vi": "hàng hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "商談（しょうだん）",
         "meaning": {
-          "english": "business negotiation"
+          "english": "business negotiation",
+          "en": "business negotiation",
+          "vi": "đàm phán kinh doanh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "商店（しょうてん）",
         "meaning": {
-          "english": "shop [n.]"
+          "english": "shop [n.]",
+          "en": "shop [n.]",
+          "vi": "cửa hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "貿易商（ぼうえきしょう）",
         "meaning": {
-          "english": "trader"
+          "english": "trader",
+          "en": "trader",
+          "vi": "người buôn bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "通商（つうしょう）",
         "meaning": {
-          "english": "trade [n.]"
+          "english": "trade [n.]",
+          "en": "trade [n.]",
+          "vi": "việc buôn bán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "商う（あきなう）",
         "meaning": {
-          "english": "deal in"
+          "english": "deal in",
+          "en": "deal in",
+          "vi": "buôn, kinh doanh mặt hàng nào đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/akina(u)_06_i.opus",
@@ -239,7 +260,9 @@
     "kanji": {
       "character": "商",
       "meaning": {
-        "english": "trade, deal"
+        "english": "trade, deal",
+        "en": "trade, deal",
+        "vi": "buôn bán, giao dịch"
       },
       "strokes": {
         "count": 11,
@@ -299,7 +322,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -320,7 +345,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "413",
     "strokeCount": 11,
-    "meaning": "make a deal, selling, dealing in, merchant",
+    "meaning": {
+      "en": "make a deal, selling, dealing in, merchant",
+      "vi": "thỏa thuận mua bán, bán hàng, kinh doanh, thương nhân"
+    },
     "kunyomi": [
       "あきな.う"
     ],
@@ -332,7 +360,8 @@
         "example": "商",
         "reading": "ショウ",
         "meaning": {
-          "vi": "quotient, business, merchant, dealer, second degree (of the Japanese and Chinese pentatonic scale), Shang dynasty (of China; approx. 1600-1046 BCE), Yin dynasty"
+          "vi": "quotient, business, merchant, dealer, second degree (of the Japanese and Chinese pentatonic scale), Shang dynasty (of China; approx. 1600-1046 BCE), Yin dynasty",
+          "en": "quotient, business, merchant, dealer, second degree (of the Japanese and Chinese pentatonic scale), Shang dynasty (of China; approx. 1600-1046 BCE), Yin dynasty"
         },
         "romaji": "shou"
       },
@@ -340,7 +369,8 @@
         "example": "商会",
         "reading": "ショウカイ",
         "meaning": {
-          "vi": "firm, company"
+          "vi": "firm, company",
+          "en": "firm, company"
         },
         "romaji": "shoukai"
       },
@@ -348,7 +378,8 @@
         "example": "年商",
         "reading": "ネンショウ",
         "meaning": {
-          "en": "yearly (annual) turnover"
+          "en": "yearly (annual) turnover",
+          "vi": "doanh thu hằng năm"
         },
         "romaji": "nenshou"
       },
@@ -356,7 +387,8 @@
         "example": "画商",
         "reading": "ガショウ",
         "meaning": {
-          "vi": "picture dealer, commercial art gallery"
+          "vi": "picture dealer, commercial art gallery",
+          "en": "picture dealer, commercial art gallery"
         },
         "romaji": "gashou"
       }
@@ -366,14 +398,18 @@
         "example": "商う",
         "reading": "あきなう",
         "meaning": {
-          "en": "to trade in (commercial goods), to deal in, to sell"
+          "en": "to trade in (commercial goods), to deal in, to sell",
+          "vi": "buôn bán hàng hóa, kinh doanh, bán"
         },
         "romaji": "akinau"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "亠",
@@ -390,5 +426,7 @@
   },
   "hanViet": [
     "thương"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: người đứng trong quán dùng miệng 口 trao đổi mua bán, nên 商 là thương mại."
 }

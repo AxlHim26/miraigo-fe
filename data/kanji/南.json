@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "minami",
-    "meaning": "south",
+    "meaning": {
+      "en": "south",
+      "vi": "phía nam"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "南極（なんきょく）",
         "meaning": {
-          "english": "south pole"
+          "english": "south pole",
+          "en": "south pole",
+          "vi": "Nam Cực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "南北（なんぼく）",
         "meaning": {
-          "english": "south and north"
+          "english": "south and north",
+          "en": "south and north",
+          "vi": "nam và bắc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "南部（なんぶ）",
         "meaning": {
-          "english": "southern part"
+          "english": "southern part",
+          "en": "southern part",
+          "vi": "phần phía nam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "東南アジア（とうなんアジア）",
         "meaning": {
-          "english": "Southeast Asia"
+          "english": "Southeast Asia",
+          "en": "Southeast Asia",
+          "vi": "Đông Nam Á"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "南（みなみ）",
         "meaning": {
-          "english": "south"
+          "english": "south",
+          "en": "south",
+          "vi": "phía nam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "南半球（みなみはんきゅう）",
         "meaning": {
-          "english": "southern hemisphere"
+          "english": "southern hemisphere",
+          "en": "southern hemisphere",
+          "vi": "bán cầu nam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/minami_06_f.opus",
@@ -213,7 +228,9 @@
     "kanji": {
       "character": "南",
       "meaning": {
-        "english": "south"
+        "english": "south",
+        "en": "south",
+        "vi": "phía nam"
       },
       "strokes": {
         "count": 9,
@@ -268,7 +285,9 @@
         "romaji": "juu"
       },
       "meaning": {
-        "english": "ten"
+        "english": "ten",
+        "en": "ten",
+        "vi": "mười"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/juu0.svg",
@@ -289,7 +308,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "341",
     "strokeCount": 9,
-    "meaning": "south",
+    "meaning": {
+      "en": "south",
+      "vi": "phía nam"
+    },
     "kunyomi": [
       "みなみ"
     ],
@@ -302,7 +324,8 @@
         "example": "南",
         "reading": "ナン",
         "meaning": {
-          "vi": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
+          "vi": "south wind tile, winning hand with a pung (or kong) of south wind tiles",
+          "en": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
         },
         "romaji": "nan"
       },
@@ -310,7 +333,8 @@
         "example": "南海",
         "reading": "ナンカイ",
         "meaning": {
-          "en": "southern sea"
+          "en": "southern sea",
+          "vi": "biển phía nam"
         },
         "romaji": "nankai"
       },
@@ -318,7 +342,8 @@
         "example": "東南",
         "reading": "トウナン",
         "meaning": {
-          "en": "south-east"
+          "en": "south-east",
+          "vi": "đông nam"
         },
         "romaji": "tounan"
       },
@@ -326,7 +351,8 @@
         "example": "西南",
         "reading": "セイナン",
         "meaning": {
-          "en": "south-west"
+          "en": "south-west",
+          "vi": "tây nam"
         },
         "romaji": "seinan"
       },
@@ -334,7 +360,8 @@
         "example": "南",
         "reading": "ナン",
         "meaning": {
-          "vi": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
+          "vi": "south wind tile, winning hand with a pung (or kong) of south wind tiles",
+          "en": "south wind tile, winning hand with a pung (or kong) of south wind tiles"
         },
         "romaji": "nan"
       },
@@ -342,7 +369,8 @@
         "example": "南海",
         "reading": "ナンカイ",
         "meaning": {
-          "en": "southern sea"
+          "en": "southern sea",
+          "vi": "biển phía nam"
         },
         "romaji": "nankai"
       }
@@ -352,7 +380,8 @@
         "example": "南",
         "reading": "みなみ",
         "meaning": {
-          "en": "south"
+          "en": "south",
+          "vi": "phía nam"
         },
         "romaji": "minami"
       },
@@ -360,7 +389,8 @@
         "example": "南アフリカ",
         "reading": "みなみアフリカ",
         "meaning": {
-          "en": "South Africa"
+          "en": "South Africa",
+          "vi": "Nam Phi"
         },
         "romaji": "minamiafurika"
       },
@@ -368,7 +398,8 @@
         "example": "東南",
         "reading": "とうなん",
         "meaning": {
-          "en": "south-east"
+          "en": "south-east",
+          "vi": "đông nam"
         },
         "romaji": "tounan"
       },
@@ -376,14 +407,18 @@
         "example": "西南",
         "reading": "せいなん",
         "meaning": {
-          "en": "south-west"
+          "en": "south-west",
+          "vi": "tây nam"
         },
         "romaji": "seinan"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "mười, đầy đủ"
+      }
     },
     "parts": [
       "冂",
@@ -399,5 +434,7 @@
   "hanViet": [
     "na",
     "nam"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Phần trên như mái che, phần dưới như vật treo, gợi phương nam ở phía dưới bản đồ."
 }

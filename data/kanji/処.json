@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "deal with, treat",
+    "meaning": {
+      "en": "deal with, treat",
+      "vi": "xử lý, đối xử"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "処女（しょじょ）",
         "meaning": {
-          "english": "virgin, maiden"
+          "english": "virgin, maiden",
+          "en": "virgin, maiden",
+          "vi": "trinh nữ, thiếu nữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "処方箋（しょほうせん）",
         "meaning": {
-          "english": "prescription"
+          "english": "prescription",
+          "en": "prescription",
+          "vi": "đơn thuốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "処置する（しょちする）",
         "meaning": {
-          "english": "treat [v.t.]"
+          "english": "treat [v.t.]",
+          "en": "treat [v.t.]",
+          "vi": "điều trị, xử lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "処罰する（しょばつする）",
         "meaning": {
-          "english": "punish"
+          "english": "punish",
+          "en": "punish",
+          "vi": "trừng phạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "処刑する（しょけいする）",
         "meaning": {
-          "english": "execute"
+          "english": "execute",
+          "en": "execute",
+          "vi": "xử tử"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "処分する（しょぶんする）",
         "meaning": {
-          "english": "dispose of, deal with, punish"
+          "english": "dispose of, deal with, punish",
+          "en": "dispose of, deal with, punish",
+          "vi": "xử lý, giải quyết, trừng phạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "処理する（しょりする）",
         "meaning": {
-          "english": "process, deal with"
+          "english": "process, deal with",
+          "en": "process, deal with",
+          "vi": "xử lý, giải quyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "対処する（たいしょする）",
         "meaning": {
-          "english": "deal with, cope"
+          "english": "deal with, cope",
+          "en": "deal with, cope",
+          "vi": "đối phó, ứng phó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "善処する（ぜんしょする）",
         "meaning": {
-          "english": "handle carefully, use discretion"
+          "english": "handle carefully, use discretion",
+          "en": "handle carefully, use discretion",
+          "vi": "xử lý thận trọng, liệu nghi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sho(chi)_06_i.opus",
@@ -191,7 +212,9 @@
     "kanji": {
       "character": "処",
       "meaning": {
-        "english": "deal with, treat"
+        "english": "deal with, treat",
+        "en": "deal with, treat",
+        "vi": "xử lý, đối xử"
       },
       "strokes": {
         "count": 5,
@@ -239,7 +262,9 @@
         "romaji": "kinyou"
       },
       "meaning": {
-        "english": "table"
+        "english": "table",
+        "en": "table",
+        "vi": "bàn"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kinyou0.svg",
@@ -260,7 +285,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "547",
     "strokeCount": 5,
-    "meaning": "dispose, manage, deal with, sentence, condemn, act, behave, place",
+    "meaning": {
+      "en": "dispose, manage, deal with, sentence, condemn, act, behave, place",
+      "vi": "xử trí, quản lý, giải quyết, kết án, lên án, hành động, cư xử, nơi chốn"
+    },
     "kunyomi": [
       "ところ",
       "-こ",
@@ -274,7 +302,8 @@
         "example": "処刑",
         "reading": "ショケイ",
         "meaning": {
-          "en": "execution"
+          "en": "execution",
+          "vi": "sự xử tử"
         },
         "romaji": "shokei"
       },
@@ -282,7 +311,8 @@
         "example": "処遇",
         "reading": "ショグウ",
         "meaning": {
-          "vi": "treatment (of a person), dealing with"
+          "vi": "treatment (of a person), dealing with",
+          "en": "treatment (of a person), dealing with"
         },
         "romaji": "shoguu"
       },
@@ -290,7 +320,8 @@
         "example": "随所",
         "reading": "ズイショ",
         "meaning": {
-          "vi": "everywhere, all over the place, here and there, at every turn"
+          "vi": "everywhere, all over the place, here and there, at every turn",
+          "en": "everywhere, all over the place, here and there, at every turn"
         },
         "romaji": "zuisho"
       },
@@ -298,7 +329,8 @@
         "example": "一所",
         "reading": "イッショ",
         "meaning": {
-          "vi": "one place, the same place, one person, together"
+          "vi": "one place, the same place, one person, together",
+          "en": "one place, the same place, one person, together"
         },
         "romaji": "issho"
       }
@@ -308,7 +340,8 @@
         "example": "所",
         "reading": "ところ",
         "meaning": {
-          "vi": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+          "vi": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about",
+          "en": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
         },
         "romaji": "tokoro"
       },
@@ -316,7 +349,8 @@
         "example": "所々",
         "reading": "ところどころ",
         "meaning": {
-          "vi": "here and there, in places"
+          "vi": "here and there, in places",
+          "en": "here and there, in places"
         },
         "romaji": "tokorodokoro"
       },
@@ -324,7 +358,8 @@
         "example": "一所",
         "reading": "いっしょ",
         "meaning": {
-          "vi": "one place, the same place, one person, together"
+          "vi": "one place, the same place, one person, together",
+          "en": "one place, the same place, one person, together"
         },
         "romaji": "issho"
       },
@@ -332,14 +367,18 @@
         "example": "候処",
         "reading": "そうろうところ",
         "meaning": {
-          "en": "just, but"
+          "en": "just, but",
+          "vi": "vừa đúng lúc, nhưng"
         },
         "romaji": "souroutokoro"
       }
     ],
     "radical": {
       "symbol": "几",
-      "meaning": "table"
+      "meaning": {
+        "en": "table",
+        "vi": "bàn"
+      }
     },
     "parts": [
       "几",
@@ -351,8 +390,10 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51e6.gif",
     "uri": "https://jisho.org/search/%E5%87%A6%23kanji"
   },
+  "jlpt": "N3",
   "hanViet": [
     "xứ",
     "xử"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: chữ 処 như người cầm gậy đứng bên chiếc bàn, gặp việc gì cũng phải xử lý cho ổn thỏa."
 }

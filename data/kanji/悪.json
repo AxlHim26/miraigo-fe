@@ -7,13 +7,17 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "waru, a, warui, warusa, ashi, ashiki",
-    "meaning": "bad, evil",
+    "meaning": {
+      "en": "bad, evil",
+      "vi": "xấu, ác"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "悪魔（あくま）",
         "meaning": {
-          "english": "devil"
+          "en": "devil",
+          "vi": "ác quỷ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "悪事（あくじ）",
         "meaning": {
-          "english": "evil deed"
+          "en": "evil deed",
+          "vi": "việc ác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "最悪（さいあく）",
         "meaning": {
-          "english": "the worst"
+          "en": "the worst",
+          "vi": "tệ nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "悪条件（あくじょうけん）",
         "meaning": {
-          "english": "unfavorable conditions"
+          "en": "unfavorable conditions",
+          "vi": "điều kiện bất lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "悪化する（あっかする）",
         "meaning": {
-          "english": "get worse [v.i.]"
+          "en": "get worse [v.i.]",
+          "vi": "trở nên tệ hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "悪寒（おかん）",
         "meaning": {
-          "english": "chill"
+          "en": "chill",
+          "vi": "cơn rét run"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "悪い（わるい）",
         "meaning": {
-          "english": "bad"
+          "en": "bad",
+          "vi": "xấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "悪口（わるくち）",
         "meaning": {
-          "english": "slander, abuse [n.]"
+          "en": "slander, abuse [n.]",
+          "vi": "lời vu khống, lăng mạ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "悪しからず（あしからず）",
         "meaning": {
-          "english": "don't get me wrong, but ..."
+          "en": "don't get me wrong, but ...",
+          "vi": "đừng hiểu lầm, nhưng..."
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "善し悪し（よしあし）",
         "meaning": {
-          "english": "good or bad"
+          "en": "good or bad",
+          "vi": "tốt hay xấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/waru(i)_06_j.opus",
@@ -296,7 +309,8 @@
     "kanji": {
       "character": "悪",
       "meaning": {
-        "english": "bad, evil"
+        "en": "bad, evil",
+        "vi": "xấu, ác"
       },
       "strokes": {
         "count": 11,
@@ -356,7 +370,8 @@
         "romaji": "kokoro"
       },
       "meaning": {
-        "english": "heart, mind, spirit"
+        "en": "heart, mind, spirit",
+        "vi": "trái tim, tâm trí, tinh thần"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kokoro0.svg",
@@ -377,7 +392,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "530",
     "strokeCount": 11,
-    "meaning": "bad, vice, rascal, false, evil, wrong",
+    "meaning": {
+      "en": "bad, vice, rascal, false, evil, wrong",
+      "vi": "xấu, điều ác, kẻ xấu, giả dối, tà ác, sai trái"
+    },
     "kunyomi": [
       "わる.い",
       "わる-",
@@ -398,7 +416,8 @@
         "example": "悪",
         "reading": "アク",
         "meaning": {
-          "en": "evil, wickedness, (role of) the villain (in theatre, etc.), the bad guy"
+          "en": "evil, wickedness, (role of) the villain (in theatre, etc.), the bad guy",
+          "vi": "cái ác, sự độc ác, vai phản diện, kẻ xấu"
         },
         "romaji": "aku"
       },
@@ -406,6 +425,7 @@
         "example": "悪質",
         "reading": "アクシツ",
         "meaning": {
+          "en": "malicious, vicious, malignant, underhanded, shoddy, inferior, poor-quality, second-rate",
           "vi": "malicious, vicious, malignant, underhanded, shoddy, inferior, poor-quality, second-rate"
         },
         "romaji": "akushitsu"
@@ -414,7 +434,8 @@
         "example": "害悪",
         "reading": "ガイアク",
         "meaning": {
-          "en": "harm, injury, evil (influence)"
+          "en": "harm, injury, evil (influence)",
+          "vi": "tác hại, tổn hại, ảnh hưởng xấu"
         },
         "romaji": "gaiaku"
       },
@@ -422,6 +443,7 @@
         "example": "改悪",
         "reading": "カイアク",
         "meaning": {
+          "en": "changing (something) for the worse, disimprovement, deterioration",
           "vi": "changing (something) for the worse, disimprovement, deterioration"
         },
         "romaji": "kaiaku"
@@ -430,7 +452,8 @@
         "example": "悪寒",
         "reading": "オカン",
         "meaning": {
-          "en": "chill, shakes, ague"
+          "en": "chill, shakes, ague",
+          "vi": "cơn rét run, cơn run bần bật, cơn sốt rét"
         },
         "romaji": "okan"
       },
@@ -438,6 +461,7 @@
         "example": "悪血",
         "reading": "アクチ",
         "meaning": {
+          "en": "impure blood",
           "vi": "impure blood"
         },
         "romaji": "akuchi"
@@ -446,7 +470,8 @@
         "example": "自己嫌悪",
         "reading": "ジコケンオ",
         "meaning": {
-          "en": "self-hatred, self-abhorrence, self-loathing"
+          "en": "self-hatred, self-abhorrence, self-loathing",
+          "vi": "tự căm ghét bản thân, tự ghê tởm bản thân"
         },
         "romaji": "jikoken'o"
       },
@@ -454,7 +479,8 @@
         "example": "好悪",
         "reading": "コウオ",
         "meaning": {
-          "en": "likes and dislikes"
+          "en": "likes and dislikes",
+          "vi": "sở thích và ghét bỏ"
         },
         "romaji": "kouo"
       }
@@ -464,6 +490,7 @@
         "example": "悪い",
         "reading": "わるい",
         "meaning": {
+          "en": "bad, poor, undesirable, poor (quality), inferior, insufficient, evil, sinful, ugly, not beautiful, at fault, to blame, in the wrong, bad (at doing something), unprofitable, unbeneficial, sorry, (my) bad, unforgivable",
           "vi": "bad, poor, undesirable, poor (quality), inferior, insufficient, evil, sinful, ugly, not beautiful, at fault, to blame, in the wrong, bad (at doing something), unprofitable, unbeneficial, sorry, (my) bad, unforgivable"
         },
         "romaji": "warui"
@@ -472,7 +499,8 @@
         "example": "悪い行い",
         "reading": "わるいおこない",
         "meaning": {
-          "en": "bad deed, evil deed"
+          "en": "bad deed, evil deed",
+          "vi": "việc xấu, việc ác"
         },
         "romaji": "waruiokonai"
       },
@@ -480,7 +508,8 @@
         "example": "悪し",
         "reading": "あし",
         "meaning": {
-          "en": "bad, evil"
+          "en": "bad, evil",
+          "vi": "xấu, ác"
         },
         "romaji": "ashi"
       },
@@ -488,7 +517,8 @@
         "example": "悪しからず",
         "reading": "あしからず",
         "meaning": {
-          "en": "don't get me wrong, but ..., I'm sorry"
+          "en": "don't get me wrong, but ..., I'm sorry",
+          "vi": "đừng hiểu lầm, nhưng..., xin lỗi"
         },
         "romaji": "ashikarazu"
       },
@@ -496,7 +526,8 @@
         "example": "難い",
         "reading": "にくい",
         "meaning": {
-          "en": "difficult to ..., hard to ..."
+          "en": "difficult to ..., hard to ...",
+          "vi": "khó để..., khó mà..."
         },
         "romaji": "nikui"
       },
@@ -504,6 +535,7 @@
         "example": "憎い",
         "reading": "にくい",
         "meaning": {
+          "en": "hateful, detestable, abominable, vexing, provoking, amazing, fantastic, admirable, lovely, wonderful",
           "vi": "hateful, detestable, abominable, vexing, provoking, amazing, fantastic, admirable, lovely, wonderful"
         },
         "romaji": "nikui"
@@ -512,7 +544,8 @@
         "example": "安んぞ",
         "reading": "いずくんぞ",
         "meaning": {
-          "en": "how, why"
+          "en": "how, why",
+          "vi": "thế nào, tại sao"
         },
         "romaji": "izukunzo"
       },
@@ -520,7 +553,8 @@
         "example": "憎む",
         "reading": "にくむ",
         "meaning": {
-          "en": "to hate, to detest"
+          "en": "to hate, to detest",
+          "vi": "ghét, căm ghét"
         },
         "romaji": "nikumu"
       }
@@ -531,7 +565,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "trái tim"
+      }
     },
     "parts": [
       "一",

@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "endeavor",
+    "meaning": {
+      "en": "endeavor",
+      "vi": "nỗ lực"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "勉強する（べんきょうする）",
         "meaning": {
-          "english": "study"
+          "english": "study",
+          "en": "study",
+          "vi": "học tập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(kyou)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "勤勉な（きんべんな）",
         "meaning": {
-          "english": "diligent"
+          "english": "diligent",
+          "en": "diligent",
+          "vi": "chăm chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben(kyou)_06_b.opus",
@@ -166,7 +173,9 @@
     "kanji": {
       "character": "勉",
       "meaning": {
-        "english": "endeavor"
+        "english": "endeavor",
+        "en": "endeavor",
+        "vi": "nỗ lực"
       },
       "strokes": {
         "count": 10,
@@ -224,7 +233,9 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power",
+        "en": "power",
+        "vi": "sức mạnh"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -245,7 +256,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "1066",
     "strokeCount": 10,
-    "meaning": "exertion, endeavour, encourage, strive, make effort, diligent",
+    "meaning": {
+      "en": "exertion, endeavour, encourage, strive, make effort, diligent",
+      "vi": "sự nỗ lực, cố gắng, khích lệ, phấn đấu, bỏ công sức, chăm chỉ"
+    },
     "kunyomi": [
       "つと.める"
     ],
@@ -257,7 +271,8 @@
         "example": "勉強",
         "reading": "ベンキョウ",
         "meaning": {
-          "vi": "study, diligence, working hard, experience, lesson (for the future), discount, price reduction"
+          "vi": "học tập, chăm chỉ, làm việc chăm, kinh nghiệm, bài học cho sau này, giảm giá, hạ giá",
+          "en": "study, diligence, working hard, experience, lesson (for the future), discount, price reduction"
         },
         "romaji": "benkyou"
       },
@@ -265,7 +280,8 @@
         "example": "勉学",
         "reading": "ベンガク",
         "meaning": {
-          "vi": "study, pursuit of knowledge"
+          "vi": "học tập, theo đuổi tri thức",
+          "en": "study, pursuit of knowledge"
         },
         "romaji": "bengaku"
       },
@@ -273,7 +289,8 @@
         "example": "猛勉",
         "reading": "モウベン",
         "meaning": {
-          "en": "studying hard, cramming"
+          "en": "studying hard, cramming",
+          "vi": "học chăm, học nhồi"
         },
         "romaji": "mouben"
       },
@@ -281,7 +298,8 @@
         "example": "のこ勉",
         "reading": "ノコベン",
         "meaning": {
-          "vi": "staying behind after school to do private study"
+          "vi": "ở lại sau giờ học để tự học",
+          "en": "staying behind after school to do private study"
         },
         "romaji": "nokoben"
       }
@@ -291,14 +309,18 @@
         "example": "努める",
         "reading": "つとめる",
         "meaning": {
-          "en": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing)"
+          "en": "to endeavor (to do), to endeavour, to try hard, to work hard, to strive, to make an effort, to exert oneself, to devote oneself, to be committed (to doing)",
+          "vi": "cố gắng làm, nỗ lực, chăm chỉ làm việc, phấn đấu, bỏ công sức, dốc sức, tận tâm, cam kết thực hiện"
         },
         "romaji": "tsutomeru"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "sức mạnh, lực"
+      }
     },
     "parts": [
       "儿",
@@ -314,5 +336,7 @@
   "hanViet": [
     "miễn",
     "mẫn"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: phải dùng sức 力 để vượt qua phần khó, nên 勉 là cố gắng."
 }

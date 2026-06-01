@@ -5,7 +5,10 @@
     "query": "刂",
     "found": true,
     "strokeCount": 2,
-    "meaning": "knife, standing sword radical (no. 18)",
+    "meaning": {
+      "en": "knife, standing sword radical (no. 18)",
+      "vi": "bộ đao đứng, bộ số 18"
+    },
     "kunyomi": [],
     "onyomi": [
       "トウ"
@@ -17,7 +20,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20994_frames.png",
@@ -27,5 +33,6 @@
   },
   "hanViet": [
     "đao"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: 刂 là bộ đao đứng, trông như lưỡi dao dựng thẳng bên cạnh chữ khác."
 }

@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1695",
     "strokeCount": 12,
-    "meaning": "industry, kindliness",
+    "meaning": {
+      "en": "industry, kindliness",
+      "vi": "sự chăm chỉ, lòng nhân hậu"
+    },
     "kunyomi": [
       "あつ.い"
     ],
@@ -22,7 +25,8 @@
         "example": "敦厚",
         "reading": "トンコウ",
         "meaning": {
-          "vi": "sincerity and kindheartedness, honesty and simplicity"
+          "vi": "sự chân thành và nhân hậu, thật thà và giản dị",
+          "en": "sincerity and kindheartedness, honesty and simplicity"
         },
         "romaji": "tonkou"
       },
@@ -30,7 +34,8 @@
         "example": "敦朴",
         "reading": "トンボク",
         "meaning": {
-          "vi": "honest and homely, simple"
+          "vi": "thật thà, mộc mạc, giản dị",
+          "en": "honest and homely, simple"
         },
         "romaji": "tonboku"
       }
@@ -41,7 +46,10 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": {
+        "en": "rap",
+        "vi": "đánh nhịp, gõ nhịp"
+      }
     },
     "parts": [
       "乞",
@@ -64,5 +72,7 @@
     "đối",
     "đồn",
     "độn"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: vừa đánh nhịp vừa dạy dỗ, từ đó liên tưởng đến sự cần mẫn và nhân hậu."
 }

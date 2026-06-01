@@ -78,5 +78,11 @@
   },
   "hanViet": [
     "sắc"
-  ]
+  ],
+  "meaning": {
+    "en": "imperial order",
+    "vi": "sắc lệnh của vua"
+  },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 勅 là lời lệnh đầy uy quyền từ bề trên, như một sắc chỉ ban xuống."
 }

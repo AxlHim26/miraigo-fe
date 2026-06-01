@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1881",
     "strokeCount": 6,
-    "meaning": "five, five-man squad, file, line",
+    "meaning": {
+      "en": "five, five-man squad, file, line",
+      "vi": "năm, tiểu đội năm người, hàng ngũ, hàng lối"
+    },
     "kunyomi": [
       "いつつ"
     ],
@@ -19,7 +22,8 @@
         "example": "伍",
         "reading": "ゴ",
         "meaning": {
-          "vi": "company, group, class, troop, rank, file"
+          "vi": "company, group, class, troop, rank, file",
+          "en": "đội, nhóm, hạng, toán lính, hàng ngũ"
         },
         "romaji": "go"
       },
@@ -27,7 +31,8 @@
         "example": "五",
         "reading": "ゴ",
         "meaning": {
-          "en": "five, 5"
+          "en": "five, 5",
+          "vi": "năm, số 5"
         },
         "romaji": "go"
       },
@@ -35,7 +40,8 @@
         "example": "隊伍",
         "reading": "タイゴ",
         "meaning": {
-          "vi": "rank (of troops), line, formation, array, procession"
+          "vi": "rank (of troops), line, formation, array, procession",
+          "en": "hàng ngũ (quân lính), hàng, đội hình, dãy, đoàn diễu hành"
         },
         "romaji": "taigo"
       },
@@ -43,7 +49,8 @@
         "example": "落伍",
         "reading": "ラクゴ",
         "meaning": {
-          "vi": "straggling, falling behind, being left behind, dropping out, falling behind the ranks, falling out of line"
+          "vi": "straggling, falling behind, being left behind, dropping out, falling behind the ranks, falling out of line",
+          "en": "tụt lại, bị bỏ lại phía sau, rời hàng ngũ, lạc đội hình"
         },
         "romaji": "rakugo"
       }
@@ -53,7 +60,8 @@
         "example": "五つ",
         "reading": "いつつ",
         "meaning": {
-          "en": "five, five years of age, eight o'clock (old time system)"
+          "en": "five, five years of age, eight o'clock (old time system)",
+          "vi": "năm, năm tuổi, tám giờ (theo hệ giờ cũ)"
         },
         "romaji": "itsutsu"
       }
@@ -63,7 +71,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "五",

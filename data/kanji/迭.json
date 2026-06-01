@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1907",
     "strokeCount": 8,
-    "meaning": "transfer, alternation",
+    "meaning": {
+      "en": "transfer, alternation",
+      "vi": "luân phiên, thay đổi"
+    },
     "kunyomi": [],
     "onyomi": [
       "テツ"
@@ -18,7 +21,8 @@
         "example": "迭立",
         "reading": "テツリツ",
         "meaning": {
-          "en": "alternate succession (e.g. to throne)"
+          "en": "alternate succession (e.g. to throne)",
+          "vi": "kế vị luân phiên (ví dụ ngôi vua)"
         },
         "romaji": "tetsuritsu"
       }
@@ -31,7 +35,10 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": {
+        "en": "walk",
+        "vi": "đi, bước đi"
+      }
     },
     "parts": [
       "ノ",
@@ -52,5 +59,7 @@
   "hanViet": [
     "tuyển",
     "điệt"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Các bước đi nối tiếp nhau từng lượt, nên nhớ là thay phiên, luân phiên."
 }

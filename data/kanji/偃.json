@@ -5,7 +5,10 @@
     "query": "偃",
     "found": true,
     "strokeCount": 11,
-    "meaning": "dam, weir",
+    "meaning": {
+      "en": "dam, weir",
+      "vi": "đập nước, đập tràn"
+    },
     "kunyomi": [
       "ふ.せる"
     ],
@@ -17,7 +20,8 @@
         "example": "偃臥",
         "reading": "エンガ",
         "meaning": {
-          "en": "lying face down"
+          "en": "lying face down",
+          "vi": "nằm sấp"
         },
         "romaji": "enga"
       },
@@ -25,7 +29,8 @@
         "example": "偃月",
         "reading": "エンゲツ",
         "meaning": {
-          "en": "crescent moon"
+          "en": "crescent moon",
+          "vi": "trăng lưỡi liềm"
         },
         "romaji": "engetsu"
       }
@@ -36,7 +41,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

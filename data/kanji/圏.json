@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1216",
     "strokeCount": 12,
-    "meaning": "sphere, circle, radius, range",
+    "meaning": {
+      "en": "sphere, circle, radius, range",
+      "vi": "phạm vi, vòng tròn, bán kính, khu vực ảnh hưởng"
+    },
     "kunyomi": [
       "かこ.い"
     ],
@@ -20,7 +23,8 @@
         "example": "圏",
         "reading": "ケン",
         "meaning": {
-          "vi": "sphere, circle, range, area, zone, bloc, category"
+          "vi": "sphere, circle, range, area, zone, bloc, category",
+          "en": "sphere, circle, range, area, zone, bloc, category"
         },
         "romaji": "ken"
       },
@@ -28,7 +32,8 @@
         "example": "圏内",
         "reading": "ケンナイ",
         "meaning": {
-          "vi": "inside (a region, area, etc.), within the range (of), within the sphere (of influence, etc.)"
+          "vi": "inside (a region, area, etc.), within the range (of), within the sphere (of influence, etc.)",
+          "en": "inside (a region, area, etc.), within the range (of), within the sphere (of influence, etc.)"
         },
         "romaji": "kennai"
       },
@@ -36,7 +41,8 @@
         "example": "成層圏",
         "reading": "セイソウケン",
         "meaning": {
-          "vi": "stratosphere"
+          "vi": "stratosphere",
+          "en": "stratosphere"
         },
         "romaji": "seisouken"
       },
@@ -44,7 +50,8 @@
         "example": "勢力圏",
         "reading": "セイリョクケン",
         "meaning": {
-          "vi": "sphere of influence"
+          "vi": "sphere of influence",
+          "en": "sphere of influence"
         },
         "romaji": "seiryokuken"
       }
@@ -52,7 +59,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": {
+        "en": "enclosure",
+        "vi": "vây quanh"
+      }
     },
     "parts": [
       "一",
@@ -68,6 +78,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/570f.gif",
     "uri": "https://jisho.org/search/%E5%9C%8F%23kanji"
   },
+  "mnemonic_vi": "Cuộn tròn rồi bao lại thành một vòng, nhớ đến phạm vi hay vòng tròn.",
   "hanViet": [
     "khuyên",
     "quyển"

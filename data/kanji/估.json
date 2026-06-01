@@ -5,7 +5,10 @@
     "query": "估",
     "found": true,
     "strokeCount": 7,
-    "meaning": "price, business, selling",
+    "meaning": {
+      "en": "price, business, selling",
+      "vi": "giá cả, buôn bán, việc bán"
+    },
     "kunyomi": [
       "あきな.う",
       "あた.い"
@@ -18,7 +21,8 @@
         "example": "沽券",
         "reading": "コケン",
         "meaning": {
-          "vi": "dignity, credit, public estimation, face, honor, reputation, deed of sale (for a land, forest or house), sale value, selling price"
+          "vi": "dignity, credit, public estimation, face, honor, reputation, deed of sale (for a land, forest or house), sale value, selling price",
+          "en": "phẩm giá, uy tín, sự đánh giá của công chúng, thể diện, danh dự, danh tiếng, chứng thư bán (đất, rừng hoặc nhà), giá trị bán, giá bán"
         },
         "romaji": "koken"
       },
@@ -26,7 +30,8 @@
         "example": "依估",
         "reading": "イコ",
         "meaning": {
-          "en": "unfairness"
+          "en": "unfairness",
+          "vi": "sự không công bằng"
         },
         "romaji": "iko"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

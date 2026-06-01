@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "child",
+    "meaning": {
+      "en": "child",
+      "vi": "đứa trẻ"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "児童（じどう）",
         "meaning": {
-          "english": "children, juvenile"
+          "english": "children, juvenile",
+          "en": "children, juvenile",
+          "vi": "trẻ em, thiếu niên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)ji_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "園児（えんじ）",
         "meaning": {
-          "english": "kindergarten pupil"
+          "english": "kindergarten pupil",
+          "en": "kindergarten pupil",
+          "vi": "học sinh mẫu giáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)ji_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "幼児（ようじ）",
         "meaning": {
-          "english": "infant, baby, child"
+          "english": "infant, baby, child",
+          "en": "infant, baby, child",
+          "vi": "trẻ sơ sinh, em bé, đứa trẻ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)ji_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "乳児（にゅうじ）",
         "meaning": {
-          "english": "infant, suckling baby"
+          "english": "infant, suckling baby",
+          "en": "infant, suckling baby",
+          "vi": "trẻ sơ sinh, em bé còn bú"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)ji_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "育児（いくじ）",
         "meaning": {
-          "english": "childcare, nursing, upbringing"
+          "english": "childcare, nursing, upbringing",
+          "en": "childcare, nursing, upbringing",
+          "vi": "chăm sóc trẻ, nuôi dưỡng, giáo dục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)ji_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "胎児（たいじ）",
         "meaning": {
-          "english": "embryo"
+          "english": "embryo",
+          "en": "embryo",
+          "vi": "phôi thai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)ji_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "二歳児（にさいじ）",
         "meaning": {
-          "english": "two-year-old"
+          "english": "two-year-old",
+          "en": "two-year-old",
+          "vi": "đứa trẻ hai tuổi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)ji_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "産児制限（さんじせいげん）",
         "meaning": {
-          "english": "birth control"
+          "english": "birth control",
+          "en": "birth control",
+          "vi": "kế hoạch hóa sinh sản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)ji_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "小児科（しょうにか）",
         "meaning": {
-          "english": "pediatrics"
+          "english": "pediatrics",
+          "en": "pediatrics",
+          "vi": "nhi khoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)ji_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "*稚児（ちご）",
         "meaning": {
-          "english": "child in a festival procession"
+          "english": "child in a festival procession",
+          "en": "child in a festival procession",
+          "vi": "đứa trẻ trong đoàn rước lễ hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)ji_06_j.opus",
@@ -206,7 +229,9 @@
     "kanji": {
       "character": "児",
       "meaning": {
-        "english": "child"
+        "english": "child",
+        "en": "child",
+        "vi": "đứa trẻ"
       },
       "strokes": {
         "count": 7,
@@ -258,7 +283,9 @@
         "romaji": "hitoashi"
       },
       "meaning": {
-        "english": "human legs"
+        "english": "human legs",
+        "en": "human legs",
+        "vi": "chân người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
@@ -279,7 +306,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "679",
     "strokeCount": 7,
-    "meaning": "newborn babe, child, young of animals",
+    "meaning": {
+      "en": "newborn babe, child, young of animals",
+      "vi": "trẻ sơ sinh, trẻ nhỏ, con non của động vật"
+    },
     "kunyomi": [
       "こ",
       "-こ",
@@ -295,7 +325,8 @@
         "example": "児",
         "reading": "ジ",
         "meaning": {
-          "en": "child, boy, I, me"
+          "en": "child, boy, I, me",
+          "vi": "đứa trẻ, cậu bé, tôi, ta"
         },
         "romaji": "ji"
       },
@@ -303,7 +334,8 @@
         "example": "児童",
         "reading": "ジドウ",
         "meaning": {
-          "en": "children, juvenile"
+          "en": "children, juvenile",
+          "vi": "trẻ em, thiếu niên"
         },
         "romaji": "jidou"
       },
@@ -311,7 +343,8 @@
         "example": "新生児",
         "reading": "シンセイジ",
         "meaning": {
-          "en": "newborn baby"
+          "en": "newborn baby",
+          "vi": "em bé mới sinh"
         },
         "romaji": "shinseiji"
       },
@@ -319,7 +352,8 @@
         "example": "遺児",
         "reading": "イジ",
         "meaning": {
-          "vi": "orphan, child left by the deceased, abandoned child"
+          "vi": "orphan, child left by the deceased, abandoned child",
+          "en": ""
         },
         "romaji": "iji"
       }
@@ -329,21 +363,26 @@
         "example": "子",
         "reading": "こ",
         "meaning": {
-          "vi": "child, kid, teenager, youngster, young (non-adult) person, (one's) child, offspring, young woman, young (animal), offshoot, interest, new share, player who is not a dealer, young geisha, young prostitute, bird egg, -er (often of young women)"
+          "vi": "child, kid, teenager, youngster, young (non-adult) person, (one's) child, offspring, young woman, young (animal), offshoot, interest, new share, player who is not a dealer, young geisha, young prostitute, bird egg, -er (often of young women)",
+          "en": ""
         },
         "romaji": "ko"
       },
       {
         "example": "【コククジラ】",
         "reading": "gray whale (Eschrichtius robustus), grey whale",
-        "meaning": "",
+        "meaning": {
+          "en": "",
+          "vi": ""
+        },
         "romaji": "gray whale (Eschrichtius robustus), grey whale"
       },
       {
         "example": "恵比寿",
         "reading": "えびす",
         "meaning": {
-          "en": "Ebisu, god of fishing and commerce"
+          "en": "Ebisu, god of fishing and commerce",
+          "vi": "Ebisu, vị thần của nghề cá và thương mại"
         },
         "romaji": "ebisu"
       },
@@ -351,14 +390,18 @@
         "example": "江戸っ子",
         "reading": "えどっこ",
         "meaning": {
-          "en": "(true) Tokyoite, Edoite, Tokyo native, Edokko"
+          "en": "(true) Tokyoite, Edoite, Tokyo native, Edokko",
+          "vi": "người Tokyo chính gốc, người Edo, dân bản địa Tokyo, Edokko"
         },
         "romaji": "edokko"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "儿",

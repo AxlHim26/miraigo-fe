@@ -5,7 +5,10 @@
     "query": "俛",
     "found": true,
     "strokeCount": 9,
-    "meaning": "look down, diligent",
+    "meaning": {
+      "en": "look down, diligent",
+      "vi": "nhìn xuống, siêng năng"
+    },
     "kunyomi": [
       "ふ.せる"
     ],
@@ -21,7 +24,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "儿",

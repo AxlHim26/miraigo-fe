@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1920",
     "strokeCount": 9,
-    "meaning": "cultural progress, perfume",
+    "meaning": {
+      "en": "cultural progress, perfume",
+      "vi": "sự phát triển văn hóa, hương thơm"
+    },
     "kunyomi": [],
     "onyomi": [
       "イク"
@@ -17,7 +20,8 @@
         "example": "郁郁",
         "reading": "イクイク",
         "meaning": {
-          "en": "flourishing, teeming with culture, aromatic, emitting an aroma"
+          "en": "flourishing, teeming with culture, aromatic, emitting an aroma",
+          "vi": "phồn thịnh, đậm chất văn hóa, thơm ngát, tỏa hương"
         },
         "romaji": "ikuiku"
       },
@@ -25,7 +29,8 @@
         "example": "郁郁",
         "reading": "イクイク",
         "meaning": {
-          "en": "flourishing, teeming with culture, aromatic, emitting an aroma"
+          "en": "flourishing, teeming with culture, aromatic, emitting an aroma",
+          "vi": "phồn thịnh, đậm chất văn hóa, thơm ngát, tỏa hương"
         },
         "romaji": "ikuiku"
       },
@@ -33,7 +38,8 @@
         "example": "馥郁",
         "reading": "フクイク",
         "meaning": {
-          "en": "fragrant, sweet-smelling"
+          "en": "fragrant, sweet-smelling",
+          "vi": "thơm ngát, có mùi thơm dễ chịu"
         },
         "romaji": "fukuiku"
       }
@@ -44,7 +50,10 @@
       "forms": [
         "阝"
       ],
-      "meaning": "town (阝 right)"
+      "meaning": {
+        "en": "town (阝 right)",
+        "vi": "ấp, làng (bộ 阝 bên phải)"
+      }
     },
     "parts": [
       "ノ",

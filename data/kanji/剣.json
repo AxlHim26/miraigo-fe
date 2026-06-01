@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1305",
     "strokeCount": 10,
-    "meaning": "sabre, sword, blade, clock hand",
+    "meaning": {
+      "en": "sabre, sword, blade, clock hand",
+      "vi": "kiếm, gươm, lưỡi kiếm, kim đồng hồ"
+    },
     "kunyomi": [
       "つるぎ"
     ],
@@ -20,7 +23,8 @@
         "example": "剣",
         "reading": "ケン",
         "meaning": {
-          "vi": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
+          "vi": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart",
+          "en": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
         },
         "romaji": "ken"
       },
@@ -28,7 +32,8 @@
         "example": "剣士",
         "reading": "ケンシ",
         "meaning": {
-          "en": "swordsman, swordswoman, fencer"
+          "en": "swordsman, swordswoman, fencer",
+          "vi": "kiếm sĩ, đấu kiếm gia"
         },
         "romaji": "kenshi"
       },
@@ -36,7 +41,8 @@
         "example": "銃剣",
         "reading": "ジュウケン",
         "meaning": {
-          "en": "bayonet, guns and swords"
+          "en": "bayonet, guns and swords",
+          "vi": "lưỡi lê, súng và kiếm"
         },
         "romaji": "juuken"
       },
@@ -44,7 +50,8 @@
         "example": "刀剣",
         "reading": "トウケン",
         "meaning": {
-          "en": "sword, dagger, knife, bayonet"
+          "en": "sword, dagger, knife, bayonet",
+          "vi": "kiếm, dao găm, dao, lưỡi lê"
         },
         "romaji": "touken"
       }
@@ -54,7 +61,8 @@
         "example": "剣",
         "reading": "けん",
         "meaning": {
-          "vi": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
+          "vi": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart",
+          "en": "sword (esp. a large, double-edged one), blade, bayonet, swordsmanship, stinger, ovipositor, dart"
         },
         "romaji": "ken"
       },
@@ -62,7 +70,8 @@
         "example": "剣の舞",
         "reading": "つるぎのまい",
         "meaning": {
-          "en": "Sabre Dance"
+          "en": "Sabre Dance",
+          "vi": "Vũ điệu kiếm"
         },
         "romaji": "tsuruginomai"
       },
@@ -70,7 +79,8 @@
         "example": "月の剣",
         "reading": "つきのつるぎ",
         "meaning": {
-          "en": "new moon, crescent moon"
+          "en": "new moon, crescent moon",
+          "vi": "trăng non, trăng lưỡi liềm"
         },
         "romaji": "tsukinotsurugi"
       },
@@ -78,7 +88,8 @@
         "example": "草薙の剣",
         "reading": "くさなぎのつるぎ",
         "meaning": {
-          "vi": "Kusanagi no Tsurugi (alternate name for Ama-no-Murakumo no Tsurugi; the sword of the Imperial regalia), grass-mowing sword"
+          "vi": "Kusanagi no Tsurugi (alternate name for Ama-no-Murakumo no Tsurugi; the sword of the Imperial regalia), grass-mowing sword",
+          "en": "Kusanagi no Tsurugi (alternate name for Ama-no-Murakumo no Tsurugi; the sword of the Imperial regalia), grass-mowing sword"
         },
         "romaji": "kusanaginotsurugi"
       }
@@ -88,7 +99,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "个",
@@ -103,5 +117,6 @@
   },
   "hanViet": [
     "kiếm"
-  ]
+  ],
+  "mnemonic_vi": "Nhìn như một lưỡi kiếm thẳng, nhớ ngay nghĩa kiếm hoặc gươm."
 }

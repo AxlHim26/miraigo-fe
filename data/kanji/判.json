@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "stamp, seal, judge",
+    "meaning": {
+      "en": "stamp, seal, judge",
+      "vi": "con dấu, dấu, phán xét"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "判（はん）",
         "meaning": {
-          "english": "stamp [n.]"
+          "english": "stamp [n.]",
+          "en": "stamp [n.]",
+          "vi": "con dấu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "判事（はんじ）",
         "meaning": {
-          "english": "judge [n.]"
+          "english": "judge [n.]",
+          "en": "judge [n.]",
+          "vi": "thẩm phán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "判決（はんけつ）",
         "meaning": {
-          "english": "judicial decision"
+          "english": "judicial decision",
+          "en": "judicial decision",
+          "vi": "phán quyết tư pháp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "判断する（はんだんする）",
         "meaning": {
-          "english": "judge, decipher"
+          "english": "judge, decipher",
+          "en": "judge, decipher",
+          "vi": "phán đoán, phân biệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "判明する（はんめいする）",
         "meaning": {
-          "english": "prove, turn out"
+          "english": "prove, turn out",
+          "en": "prove, turn out",
+          "vi": "chứng tỏ, hóa ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "批判する（ひはんする）",
         "meaning": {
-          "english": "criticize"
+          "english": "criticize",
+          "en": "criticize",
+          "vi": "phê phán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "評判（ひょうばん）",
         "meaning": {
-          "english": "reputation"
+          "english": "reputation",
+          "en": "reputation",
+          "vi": "danh tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "裁判（さいばん）",
         "meaning": {
-          "english": "trial"
+          "english": "trial",
+          "en": "trial",
+          "vi": "phiên tòa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "裁判所（さいばんしょ）",
         "meaning": {
-          "english": "court"
+          "english": "court",
+          "en": "court",
+          "vi": "tòa án"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/han(ketsu)_06_i.opus",
@@ -211,7 +232,9 @@
     "kanji": {
       "character": "判",
       "meaning": {
-        "english": "stamp, seal, judge"
+        "english": "stamp, seal, judge",
+        "en": "stamp, seal, judge",
+        "vi": "con dấu, dấu, phán xét"
       },
       "strokes": {
         "count": 7,
@@ -263,7 +286,9 @@
         "romaji": "rittou"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/rittou0.svg",
@@ -284,7 +309,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "197",
     "strokeCount": 7,
-    "meaning": "judgement, judgment, signature, stamp, seal",
+    "meaning": {
+      "en": "judgement, judgment, signature, stamp, seal",
+      "vi": "phán đoán, phán quyết, chữ ký, con dấu"
+    },
     "kunyomi": [
       "わか.る"
     ],
@@ -297,7 +325,8 @@
         "example": "判",
         "reading": "ハン",
         "meaning": {
-          "vi": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
+          "vi": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)",
+          "en": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
         },
         "romaji": "han"
       },
@@ -305,7 +334,8 @@
         "example": "判決",
         "reading": "ハンケツ",
         "meaning": {
-          "en": "judicial decision, judgement, judgment, sentence, decree"
+          "en": "judicial decision, judgement, judgment, sentence, decree",
+          "vi": "phán quyết tư pháp, bản án, sắc lệnh"
         },
         "romaji": "hanketsu"
       },
@@ -313,7 +343,8 @@
         "example": "誤判",
         "reading": "ゴハン",
         "meaning": {
-          "en": "misjudgement, misjudgment, erroneous judgement, miscarriage of justice"
+          "en": "misjudgement, misjudgment, erroneous judgement, miscarriage of justice",
+          "vi": "phán đoán sai, xét xử oan, sai lầm tư pháp"
         },
         "romaji": "gohan"
       },
@@ -321,7 +352,8 @@
         "example": "木版",
         "reading": "モクハン",
         "meaning": {
-          "vi": "wood-block printing, wood engraving"
+          "vi": "wood-block printing, wood engraving",
+          "en": "wood-block printing, wood engraving"
         },
         "romaji": "mokuhan"
       },
@@ -329,7 +361,8 @@
         "example": "判",
         "reading": "ハン",
         "meaning": {
-          "vi": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
+          "vi": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)",
+          "en": "seal, stamp, monogram signature, judgment, judgement, size (of paper or books)"
         },
         "romaji": "han"
       },
@@ -337,7 +370,8 @@
         "example": "司法裁判",
         "reading": "シホウサイバン",
         "meaning": {
-          "en": "judicial trial"
+          "en": "judicial trial",
+          "vi": "xét xử tư pháp"
         },
         "romaji": "shihousaiban"
       },
@@ -345,7 +379,8 @@
         "example": "大判",
         "reading": "オオバン",
         "meaning": {
-          "vi": "large size (paper, book, etc.), ōban, large oval gold coin used in the Edo period"
+          "vi": "large size (paper, book, etc.), ōban, large oval gold coin used in the Edo period",
+          "en": "large size (paper, book, etc.), ōban, large oval gold coin used in the Edo period"
         },
         "romaji": "ooban"
       }
@@ -355,7 +390,8 @@
         "example": "分かる",
         "reading": "わかる",
         "meaning": {
-          "vi": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
+          "vi": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!",
+          "en": "to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out, I know!, I think so too!"
         },
         "romaji": "wakaru"
       }
@@ -365,7 +401,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "二",
@@ -381,5 +420,6 @@
   },
   "hanViet": [
     "phán"
-  ]
+  ],
+  "mnemonic_vi": "Tách ra rồi đóng dấu để phán định, nên nhớ là xét và phán."
 }

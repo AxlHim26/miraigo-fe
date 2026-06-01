@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "to, ya, tomeru, tomaru, yamu, yameru",
-    "meaning": "stop",
+    "meaning": {
+      "en": "stop",
+      "vi": "dừng"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "停止する（ていしする）",
         "meaning": {
-          "english": "stop"
+          "english": "stop",
+          "en": "stop",
+          "vi": "dừng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "中止する（ちゅうしする）",
         "meaning": {
-          "english": "cancel"
+          "english": "cancel",
+          "en": "cancel",
+          "vi": "cancel"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "廃止する（はいしする）",
         "meaning": {
-          "english": "abolish"
+          "english": "abolish",
+          "en": "abolish",
+          "vi": "abolish"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "禁止する（きんしする）",
         "meaning": {
-          "english": "prohibit"
+          "english": "prohibit",
+          "en": "prohibit",
+          "vi": "prohibit"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "止まる（とまる）",
         "meaning": {
-          "english": "stop [v.i.]"
+          "english": "stop [v.i.]",
+          "en": "stop [v.i.]",
+          "vi": "stop [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "止める（とめる）",
         "meaning": {
-          "english": "stop [v.t.]"
+          "english": "stop [v.t.]",
+          "en": "stop [v.t.]",
+          "vi": "stop [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "止む（やむ）",
         "meaning": {
-          "english": "(e.g. rain) stop [v.i.]"
+          "english": "(e.g. rain) stop [v.i.]",
+          "en": "(e.g. rain) stop [v.i.]",
+          "vi": "(e.g. rain) stop [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "止める（やめる）",
         "meaning": {
-          "english": "stop [v.t.], give up, quit"
+          "english": "stop [v.t.], give up, quit",
+          "en": "stop [v.t.], give up, quit",
+          "vi": "stop [v.t.], give up, quit"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shi-to(maru)_06_h.opus",
@@ -249,7 +268,9 @@
     "kanji": {
       "character": "止",
       "meaning": {
-        "english": "stop"
+        "english": "stop",
+        "en": "stop",
+        "vi": "dừng"
       },
       "strokes": {
         "count": 4,
@@ -295,7 +316,9 @@
         "romaji": "tomeru"
       },
       "meaning": {
-        "english": "to stop"
+        "english": "to stop",
+        "en": "to stop",
+        "vi": "to stop"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tomeru0.svg",
@@ -316,7 +339,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "310",
     "strokeCount": 4,
-    "meaning": "stop, halt",
+    "meaning": {
+      "en": "stop, halt",
+      "vi": "dừng lại, ngưng"
+    },
     "kunyomi": [
       "と.まる",
       "-ど.まり",
@@ -341,7 +367,8 @@
         "example": "止血",
         "reading": "シケツ",
         "meaning": {
-          "vi": "stopping of bleeding, stanching, hemostasis, haemostasis"
+          "vi": "stopping of bleeding, stanching, hemostasis, haemostasis",
+          "en": "stopping of bleeding, stanching, hemostasis, haemostasis"
         },
         "romaji": "shiketsu"
       },
@@ -349,7 +376,8 @@
         "example": "止音器",
         "reading": "シオンキ",
         "meaning": {
-          "vi": "(piano) damper"
+          "vi": "(piano) damper",
+          "en": "(piano) damper"
         },
         "romaji": "shionki"
       },
@@ -357,7 +385,8 @@
         "example": "抑止",
         "reading": "ヨクシ",
         "meaning": {
-          "en": "check, checkmate, stave off, control, restraint, inhibit, deterrent, deterrence"
+          "en": "check, checkmate, stave off, control, restraint, inhibit, deterrent, deterrence",
+          "vi": "check, checkmate, stave off, control, restraint, inhibit, deterrent, deterrence"
         },
         "romaji": "yokushi"
       },
@@ -365,7 +394,8 @@
         "example": "解止",
         "reading": "カイシ",
         "meaning": {
-          "en": "termination"
+          "en": "termination",
+          "vi": "termination"
         },
         "romaji": "kaishi"
       }
@@ -375,7 +405,8 @@
         "example": "止まる",
         "reading": "とまる",
         "meaning": {
-          "vi": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on"
+          "vi": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on",
+          "en": "to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on"
         },
         "romaji": "tomaru"
       },
@@ -383,7 +414,8 @@
         "example": "止める",
         "reading": "とめる",
         "meaning": {
-          "vi": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody"
+          "vi": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody",
+          "en": "to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody"
         },
         "romaji": "tomeru"
       },
@@ -391,7 +423,8 @@
         "example": "留める",
         "reading": "とどめる",
         "meaning": {
-          "vi": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
+          "vi": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain",
+          "en": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
         },
         "romaji": "todomeru"
       },
@@ -399,7 +432,8 @@
         "example": "止め",
         "reading": "とどめ",
         "meaning": {
-          "vi": "finishing blow, coup de grâce"
+          "vi": "finishing blow, coup de grâce",
+          "en": "finishing blow, coup de grâce"
         },
         "romaji": "todome"
       },
@@ -407,7 +441,8 @@
         "example": "留める",
         "reading": "とどめる",
         "meaning": {
-          "vi": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
+          "vi": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain",
+          "en": "to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain"
         },
         "romaji": "todomeru"
       },
@@ -415,7 +450,8 @@
         "example": "止まる",
         "reading": "とどまる",
         "meaning": {
-          "vi": "to remain, to abide, to stay (in the one place), to be limited to, to be confined to, to only account for"
+          "vi": "to remain, to abide, to stay (in the one place), to be limited to, to be confined to, to only account for",
+          "en": "to remain, to abide, to stay (in the one place), to be limited to, to be confined to, to only account for"
         },
         "romaji": "todomaru"
       },
@@ -423,7 +459,8 @@
         "example": "とどまるところを知らない",
         "reading": "とどまるところをしらない",
         "meaning": {
-          "vi": "knowing no bounds, showing no signs of stopping or slowing down"
+          "vi": "knowing no bounds, showing no signs of stopping or slowing down",
+          "en": "knowing no bounds, showing no signs of stopping or slowing down"
         },
         "romaji": "todomarutokorowoshiranai"
       },
@@ -431,7 +468,8 @@
         "example": "止める",
         "reading": "やめる",
         "meaning": {
-          "vi": "to stop (an activity), to cease, to discontinue, to end, to quit, to cancel, to abandon, to give up, to abolish, to abstain, to refrain"
+          "vi": "to stop (an activity), to cease, to discontinue, to end, to quit, to cancel, to abandon, to give up, to abolish, to abstain, to refrain",
+          "en": "to stop (an activity), to cease, to discontinue, to end, to quit, to cancel, to abandon, to give up, to abolish, to abstain, to refrain"
         },
         "romaji": "yameru"
       },
@@ -439,7 +477,8 @@
         "example": "止む",
         "reading": "やむ",
         "meaning": {
-          "vi": "to cease, to stop, to be over"
+          "vi": "to cease, to stop, to be over",
+          "en": "to cease, to stop, to be over"
         },
         "romaji": "yamu"
       },
@@ -447,7 +486,8 @@
         "example": "やむを得ない",
         "reading": "やむをえない",
         "meaning": {
-          "vi": "cannot be helped, unavoidable"
+          "vi": "cannot be helped, unavoidable",
+          "en": "cannot be helped, unavoidable"
         },
         "romaji": "yamuwoenai"
       },
@@ -455,14 +495,18 @@
         "example": "止す",
         "reading": "よす",
         "meaning": {
-          "vi": "to stop (doing), to cease, to desist, to drop, to lay off, to give up, to quit"
+          "vi": "to stop (doing), to cease, to desist, to drop, to lay off, to give up, to quit",
+          "en": "to stop (doing), to cease, to desist, to drop, to lay off, to give up, to quit"
         },
         "romaji": "yosu"
       }
     ],
     "radical": {
       "symbol": "止",
-      "meaning": "stop"
+      "meaning": {
+        "en": "stop",
+        "vi": "dừng"
+      }
     },
     "parts": [
       "止"
@@ -475,5 +519,7 @@
   "hanViet": [
     "chi",
     "chỉ"
-  ]
+  ],
+  "jlpt_level": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 止 trông như bàn chân khựng lại, nên nhớ là dừng lại."
 }

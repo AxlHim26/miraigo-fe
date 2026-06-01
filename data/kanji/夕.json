@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "yuu",
-    "meaning": "evening",
+    "meaning": {
+      "en": "evening",
+      "vi": "buổi tối"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "一朝一夕（いっちょういっせき）",
         "meaning": {
-          "english": "in a brief space of time"
+          "english": "in a brief space of time",
+          "en": "in a brief space of time",
+          "vi": "trong chốc lát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "夕方（ゆうがた）",
         "meaning": {
-          "english": "evening"
+          "english": "evening",
+          "en": "evening",
+          "vi": "buổi tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "夕食（ゆうしょく）",
         "meaning": {
-          "english": "dinner"
+          "english": "dinner",
+          "en": "dinner",
+          "vi": "bữa tối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "夕日（ゆうひ）",
         "meaning": {
-          "english": "the evening sun"
+          "english": "the evening sun",
+          "en": "the evening sun",
+          "vi": "ánh chiều tà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "夕刊（ゆうかん）",
         "meaning": {
-          "english": "evening paper"
+          "english": "evening paper",
+          "en": "evening paper",
+          "vi": "báo chiều"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "夕暮れ（ゆうぐれ）",
         "meaning": {
-          "english": "twilight"
+          "english": "twilight",
+          "en": "twilight",
+          "vi": "chạng vạng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/seki-yuu_06_f.opus",
@@ -215,7 +230,9 @@
     "kanji": {
       "character": "夕",
       "meaning": {
-        "english": "evening"
+        "english": "evening",
+        "en": "evening",
+        "vi": "buổi tối"
       },
       "strokes": {
         "count": 3,
@@ -259,7 +276,9 @@
         "romaji": "yuube"
       },
       "meaning": {
-        "english": "evening"
+        "english": "evening",
+        "en": "evening",
+        "vi": "buổi tối"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yuube0.svg",
@@ -280,7 +299,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "924",
     "strokeCount": 3,
-    "meaning": "evening",
+    "meaning": {
+      "en": "evening",
+      "vi": "buổi tối"
+    },
     "kunyomi": [
       "ゆう"
     ],
@@ -292,7 +314,8 @@
         "example": "勺",
         "reading": "シャク",
         "meaning": {
-          "vi": "shaku, traditional unit of volume, approx. 18 ml, shaku, traditional unit of area, approx. 0.033 meters square"
+          "vi": "shaku, traditional unit of volume, approx. 18 ml, shaku, traditional unit of area, approx. 0.033 meters square",
+          "en": "shaku, traditional unit of volume, approx. 18 ml; shaku, traditional unit of area, approx. 0.033 square meters"
         },
         "romaji": "shaku"
       },
@@ -300,7 +323,8 @@
         "example": "夕日",
         "reading": "ユウヒ",
         "meaning": {
-          "en": "evening sun, setting sun"
+          "en": "evening sun, setting sun",
+          "vi": "mặt trời chiều, hoàng hôn"
         },
         "romaji": "yuuhi"
       },
@@ -308,7 +332,8 @@
         "example": "秋夕",
         "reading": "シュウセキ",
         "meaning": {
-          "en": "autumn evening"
+          "en": "autumn evening",
+          "vi": "buổi tối mùa thu"
         },
         "romaji": "shuuseki"
       },
@@ -316,7 +341,8 @@
         "example": "一夕",
         "reading": "イッセキ",
         "meaning": {
-          "en": "one evening, some evenings"
+          "en": "one evening, some evenings",
+          "vi": "một buổi tối, vài buổi tối"
         },
         "romaji": "isseki"
       }
@@ -326,7 +352,8 @@
         "example": "夕",
         "reading": "ゆう",
         "meaning": {
-          "en": "evening"
+          "en": "evening",
+          "vi": "buổi tối"
         },
         "romaji": "yuu"
       },
@@ -334,7 +361,8 @@
         "example": "夕べ",
         "reading": "ゆうべ",
         "meaning": {
-          "vi": "evening, evening (of a special event)"
+          "vi": "evening, evening (of a special event)",
+          "en": "evening, evening of a special event"
         },
         "romaji": "yuube"
       },
@@ -342,7 +370,8 @@
         "example": "昨夕",
         "reading": "さくゆう",
         "meaning": {
-          "en": "yesterday evening, last night"
+          "en": "yesterday evening, last night",
+          "vi": "tối qua, đêm qua"
         },
         "romaji": "sakuyuu"
       },
@@ -350,14 +379,18 @@
         "example": "春の夕",
         "reading": "はるのゆう",
         "meaning": {
-          "vi": "spring evening"
+          "vi": "spring evening",
+          "en": "spring evening"
         },
         "romaji": "harunoyuu"
       }
     ],
     "radical": {
       "symbol": "夕",
-      "meaning": "evening, sunset"
+      "meaning": {
+        "en": "evening, sunset",
+        "vi": "evening, sunset"
+      }
     },
     "parts": [
       "夕"
@@ -369,5 +402,7 @@
   },
   "hanViet": [
     "tịch"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: Chữ 夕 giống vầng trăng xế chiều vừa nhô lên, gợi cảnh buổi tối."
 }

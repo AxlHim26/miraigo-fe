@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "single",
+    "meaning": {
+      "en": "single",
+      "vi": "đơn, đơn lẻ"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "簡単な（かんたんな）",
         "meaning": {
-          "english": "simple"
+          "english": "simple",
+          "en": "simple",
+          "vi": "đơn giản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "単純な（たんじゅんな）",
         "meaning": {
-          "english": "simple"
+          "english": "simple",
+          "en": "simple",
+          "vi": "đơn giản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "単語（たんご）",
         "meaning": {
-          "english": "word"
+          "english": "word",
+          "en": "word",
+          "vi": "từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "単独（たんどく）",
         "meaning": {
-          "english": "solo"
+          "english": "solo",
+          "en": "solo",
+          "vi": "đơn ca, solo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "単位（たんい）",
         "meaning": {
-          "english": "unit"
+          "english": "unit",
+          "en": "unit",
+          "vi": "đơn vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "単に（たんに）",
         "meaning": {
-          "english": "merely"
+          "english": "merely",
+          "en": "merely",
+          "vi": "chỉ, chỉ là"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tan(i)_06_f.opus",
@@ -211,7 +226,9 @@
     "kanji": {
       "character": "単",
       "meaning": {
-        "english": "single"
+        "english": "single",
+        "en": "single",
+        "vi": "đơn, đơn lẻ"
       },
       "strokes": {
         "count": 9,
@@ -267,7 +284,9 @@
         "romaji": "tsu"
       },
       "meaning": {
-        "english": "Katakana Tsu"
+        "english": "Katakana Tsu",
+        "en": "Katakana Tsu",
+        "vi": "katakana Tsu"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsu0.svg",
@@ -288,7 +307,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "586",
     "strokeCount": 9,
-    "meaning": "simple, one, single, merely",
+    "meaning": {
+      "en": "simple, one, single, merely",
+      "vi": "đơn giản, một, đơn lẻ, chỉ là"
+    },
     "kunyomi": [
       "ひとえ"
     ],
@@ -300,7 +322,8 @@
         "example": "単",
         "reading": "タン",
         "meaning": {
-          "vi": "single, simple, singles (tennis, badminton, etc.), win bet (bet which predicts the winner of a race)"
+          "vi": "single, simple, singles (tennis, badminton, etc.), win bet (bet which predicts the winner of a race)",
+          "en": "single, simple, singles (tennis, badminton, etc.), win bet (bet which predicts the winner of a race)"
         },
         "romaji": "tan"
       },
@@ -308,7 +331,8 @@
         "example": "単位",
         "reading": "タンイ",
         "meaning": {
-          "en": "unit, denomination, credit (in school), in units of (e.g. \"in thousands\"), in amounts of"
+          "en": "unit, denomination, credit (in school), in units of (e.g. \"in thousands\"), in amounts of",
+          "vi": "đơn vị, mệnh giá, tín chỉ, tính theo đơn vị, tính theo lượng"
         },
         "romaji": "tan'i"
       },
@@ -316,7 +340,8 @@
         "example": "菜単",
         "reading": "サイタン",
         "meaning": {
-          "en": "menu (at a Chinese restaurant)"
+          "en": "menu (at a Chinese restaurant)",
+          "vi": "thực đơn (nhà hàng Hoa)"
         },
         "romaji": "saitan"
       },
@@ -324,7 +349,8 @@
         "example": "指定単",
         "reading": "シテイタン",
         "meaning": {
-          "en": "designated money trust"
+          "en": "designated money trust",
+          "vi": "quỹ tín thác tiền tệ chỉ định"
         },
         "romaji": "shiteitan"
       }
@@ -334,7 +360,8 @@
         "example": "一重",
         "reading": "ひとえ",
         "meaning": {
-          "vi": "one layer, single layer, monopetalous, unlined kimono, single-edged eyelid, eyelid with an epicanthic fold, upper eyelid with no fold"
+          "vi": "one layer, single layer, monopetalous, unlined kimono, single-edged eyelid, eyelid with an epicanthic fold, upper eyelid with no fold",
+          "en": "one layer, single layer, monopetalous, unlined kimono, single-edged eyelid, eyelid with an epicanthic fold, upper eyelid with no fold"
         },
         "romaji": "hitoe"
       },
@@ -342,7 +369,8 @@
         "example": "単衣",
         "reading": "たんい",
         "meaning": {
-          "en": "unlined kimono, one kimono, a single kimono"
+          "en": "unlined kimono, one kimono, a single kimono",
+          "vi": "kimono không lót, một chiếc kimono đơn"
         },
         "romaji": "tan'i"
       },
@@ -350,14 +378,18 @@
         "example": "十二単",
         "reading": "じゅうにひとえ",
         "meaning": {
-          "vi": "twelve-layered ceremonial kimono (worn by a court lady), ajuga (Ajuga nipponensis), bugle"
+          "vi": "twelve-layered ceremonial kimono (worn by a court lady), ajuga (Ajuga nipponensis), bugle",
+          "en": "twelve-layered ceremonial kimono (worn by a court lady), ajuga (Ajuga nipponensis), bugle"
         },
         "romaji": "juunihitoe"
       }
     ],
     "radical": {
       "symbol": "十",
-      "meaning": "ten, complete"
+      "meaning": {
+        "en": "ten, complete",
+        "vi": "mười, đầy đủ"
+      }
     },
     "parts": [
       "十",
@@ -373,5 +405,7 @@
     "đan",
     "đơn",
     "thiền"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Chỉ một lớp, một món riêng lẻ, nên nhớ là đơn, đơn chiếc."
 }

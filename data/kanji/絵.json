@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "picture",
+    "meaning": {
+      "en": "picture",
+      "vi": "hinh anh, buc tranh"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "絵画（かいが）",
         "meaning": {
-          "english": "painting"
+          "english": "painting",
+          "en": "painting",
+          "vi": "hoi hoa, tranh ve"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "絵（え）",
         "meaning": {
-          "english": "drawing, painting"
+          "english": "drawing, painting",
+          "en": "drawing, painting",
+          "vi": "ve, hoi hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "絵はがき（えはがき）",
         "meaning": {
-          "english": "picture postcard"
+          "english": "picture postcard",
+          "en": "picture postcard",
+          "vi": "buu thiep tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "絵描き（えかき）",
         "meaning": {
-          "english": "painter"
+          "english": "painter",
+          "en": "painter",
+          "vi": "hoa si"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "絵本（えほん）",
         "meaning": {
-          "english": "picture book"
+          "english": "picture book",
+          "en": "picture book",
+          "vi": "truyện tranh, sách tranh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "油絵（あぶらえ）",
         "meaning": {
-          "english": "oil painting"
+          "english": "oil painting",
+          "en": "oil painting",
+          "vi": "tranh son dau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "墨絵（すみえ）",
         "meaning": {
-          "english": "ink painting"
+          "english": "ink painting",
+          "en": "ink painting",
+          "vi": "tranh muc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "浮世絵（うきよえ）",
         "meaning": {
-          "english": "ukiyoe print"
+          "english": "ukiyoe print",
+          "en": "ukiyoe print",
+          "vi": "tranh khac go ukiyo-e"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai(ga)_06_h.opus",
@@ -240,7 +259,9 @@
     "kanji": {
       "character": "絵",
       "meaning": {
-        "english": "picture"
+        "english": "picture",
+        "en": "picture",
+        "vi": "hinh anh, buc tranh"
       },
       "strokes": {
         "count": 12,
@@ -302,7 +323,9 @@
         "romaji": "itohen"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread",
+        "en": "thread",
+        "vi": "sợi chỉ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/itohen0.svg",
@@ -323,7 +346,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "895",
     "strokeCount": 12,
-    "meaning": "picture, drawing, painting, sketch",
+    "meaning": {
+      "en": "picture, drawing, painting, sketch",
+      "vi": "tranh, hinh ve, phac thao"
+    },
     "kunyomi": [],
     "onyomi": [
       "カイ",
@@ -334,7 +360,8 @@
         "example": "絵画",
         "reading": "カイガ",
         "meaning": {
-          "vi": "painting, picture"
+          "vi": "painting, picture",
+          "en": "painting, picture"
         },
         "romaji": "kaiga"
       },
@@ -342,7 +369,8 @@
         "example": "絵画館",
         "reading": "カイガカン",
         "meaning": {
-          "vi": "art or picture gallery"
+          "vi": "art or picture gallery",
+          "en": "art or picture gallery"
         },
         "romaji": "kaigakan"
       },
@@ -350,7 +378,8 @@
         "example": "絵",
         "reading": "エ",
         "meaning": {
-          "vi": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage"
+          "vi": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage",
+          "en": "picture, drawing, painting, sketch, image (TV, film, etc.), picture, footage"
         },
         "romaji": "e"
       },
@@ -358,7 +387,8 @@
         "example": "絵の具",
         "reading": "エノグ",
         "meaning": {
-          "vi": "paint, coloring materials, colors, colours"
+          "vi": "paint, coloring materials, colors, colours",
+          "en": "paint, coloring materials, colors, colours"
         },
         "romaji": "enogu"
       },
@@ -366,7 +396,8 @@
         "example": "巴",
         "reading": "トモエ",
         "meaning": {
-          "vi": "tomoe, heraldic design composed of two or more interlocked comma-shaped figures"
+          "vi": "tomoe, heraldic design composed of two or more interlocked comma-shaped figures",
+          "en": "tomoe, heraldic design composed of two or more interlocked comma-shaped figures"
         },
         "romaji": "tomoe"
       },
@@ -374,7 +405,8 @@
         "example": "踏み絵",
         "reading": "フミエ",
         "meaning": {
-          "vi": "fumi-e, fumie, tablet bearing Christian images, on which Edo-period authorities forced suspected Christians to trample, allegiance test, loyalty test"
+          "vi": "fumi-e, fumie, tablet bearing Christian images, on which Edo-period authorities forced suspected Christians to trample, allegiance test, loyalty test",
+          "en": "fumi-e, fumie, tablet bearing Christian images, on which Edo-period authorities forced suspected Christians to trample, allegiance test, loyalty test"
         },
         "romaji": "fumie"
       }
@@ -385,7 +417,10 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": {
+        "en": "silk",
+        "vi": "lụa"
+      }
     },
     "parts": [
       "个",
@@ -402,5 +437,7 @@
   },
   "hanViet": [
     "hội"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Ben trai la soi to, ben phai la hop mau. Goi cac net lai thanh mot buc 絵, tuc la tranh ve."
 }

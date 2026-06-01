@@ -7,14 +7,19 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "itsu, itsutsu",
-    "meaning": "năm",
+    "meaning": {
+      "en": "five",
+      "vi": "năm"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "五月（ごがつ）",
         "meaning": {
           "english": "May",
-          "vietnamese": "tháng Năm"
+          "vietnamese": "tháng Năm",
+          "en": "May",
+          "vi": "tháng Năm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_a.opus",
@@ -30,7 +35,9 @@
         "japanese": "五時間（ごじかん）",
         "meaning": {
           "english": "5 hours",
-          "vietnamese": "5 giờ"
+          "vietnamese": "5 giờ",
+          "en": "5 hours",
+          "vi": "5 giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_b.opus",
@@ -46,7 +53,9 @@
         "japanese": "五階（ごかい）",
         "meaning": {
           "english": "5th floor",
-          "vietnamese": "tầng 5"
+          "vietnamese": "tầng 5",
+          "en": "5th floor",
+          "vi": "tầng 5"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_c.opus",
@@ -62,7 +71,9 @@
         "japanese": "五人（ごにん）",
         "meaning": {
           "english": "5 people",
-          "vietnamese": "5 người"
+          "vietnamese": "5 người",
+          "en": "5 people",
+          "vi": "5 người"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_d.opus",
@@ -78,7 +89,9 @@
         "japanese": "五つ（いつつ）",
         "meaning": {
           "english": "5 (objects)",
-          "vietnamese": "5 (đồ vật)"
+          "vietnamese": "5 (đồ vật)",
+          "en": "5 (objects)",
+          "vi": "5 (đồ vật)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_e.opus",
@@ -94,7 +107,9 @@
         "japanese": "五日（いつか）",
         "meaning": {
           "english": "5 days, 5th of the month",
-          "vietnamese": "5 ngày, ngày 5 trong tháng"
+          "vietnamese": "5 ngày, ngày 5 trong tháng",
+          "en": "5 days, 5th of the month",
+          "vi": "5 ngày, ngày 5 trong tháng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/5_06_f.opus",
@@ -246,7 +261,9 @@
       "character": "五",
       "meaning": {
         "english": "five",
-        "vietnamese": "năm"
+        "vietnamese": "năm",
+        "en": "five",
+        "vi": "năm"
       },
       "strokes": {
         "count": 4,
@@ -293,7 +310,9 @@
       },
       "meaning": {
         "english": "two",
-        "vietnamese": "hai"
+        "vietnamese": "hai",
+        "en": "two",
+        "vi": "hai"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ni0.svg",
@@ -314,7 +333,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "31",
     "strokeCount": 4,
-    "meaning": "năm",
+    "meaning": {
+      "en": "five",
+      "vi": "năm"
+    },
     "kunyomi": [
       "いつ",
       "いつ.つ"
@@ -327,7 +349,8 @@
         "example": "五",
         "reading": "ゴ",
         "meaning": {
-          "en": "five, 5"
+          "en": "five, 5",
+          "vi": "năm, 5"
         },
         "meaningVN": "năm, 5",
         "hanViet": "ngũ",
@@ -338,7 +361,8 @@
         "example": "５月",
         "reading": "ゴガツ",
         "meaning": {
-          "en": "May, fifth month of the lunar calendar"
+          "en": "May, fifth month of the lunar calendar",
+          "vi": "tháng Năm, tháng thứ năm âm lịch"
         },
         "meaningVN": "tháng năm, tháng năm âm lịch",
         "hanViet": "５ nguyệt",
@@ -349,7 +373,8 @@
         "example": "端午",
         "reading": "タンゴ",
         "meaning": {
-          "en": "Boys' Day celebration (May 5), Dragon Boat Festival (China)"
+          "en": "Boys' Day celebration (May 5), Dragon Boat Festival (China)",
+          "vi": "lễ Tết Thiếu nhi nam ngày 5 tháng 5, Tết Đoan Ngọ ở Trung Quốc"
         },
         "meaningVN": "lễ kỷ niệm ngày bé trai (5/5), lễ hội thuyền rồng (trung quốc)",
         "hanViet": "đoan ngọ",
@@ -360,7 +385,8 @@
         "example": "第五",
         "reading": "ダイゴ",
         "meaning": {
-          "en": "fifth"
+          "en": "fifth",
+          "vi": "thứ năm"
         },
         "meaningVN": "thứ năm",
         "hanViet": "đệ ngũ",
@@ -373,7 +399,8 @@
         "example": "五",
         "reading": "ご",
         "meaning": {
-          "en": "five, 5"
+          "en": "five, 5",
+          "vi": "năm, 5"
         },
         "meaningVN": "năm, 5",
         "hanViet": "ngũ",
@@ -384,7 +411,8 @@
         "example": "五つ",
         "reading": "いつつ",
         "meaning": {
-          "en": "five, five years of age, eight o'clock (old time system)"
+          "en": "five, five years of age, eight o'clock (old time system)",
+          "vi": "năm, năm tuổi, tám giờ theo cách tính giờ cũ"
         },
         "meaningVN": "năm, năm tuổi, tám giờ (hệ thống thời gian cũ)",
         "hanViet": "ngũ つ",
@@ -395,7 +423,8 @@
         "example": "五つ",
         "reading": "いつつ",
         "meaning": {
-          "en": "five, five years of age, eight o'clock (old time system)"
+          "en": "five, five years of age, eight o'clock (old time system)",
+          "vi": "năm, năm tuổi, tám giờ theo cách tính giờ cũ"
         },
         "meaningVN": "năm, năm tuổi, tám giờ (hệ thống thời gian cũ)",
         "hanViet": "ngũ つ",
@@ -406,7 +435,8 @@
         "example": "五つ子",
         "reading": "いつつご",
         "meaning": {
-          "vi": "quintuplets"
+          "vi": "sinh năm",
+          "en": "quintuplets"
         },
         "meaningVN": "năm đứa con",
         "hanViet": "ngũ つ tí",
@@ -416,7 +446,10 @@
     ],
     "radical": {
       "symbol": "二",
-      "meaning": "two"
+      "meaning": {
+        "en": "two",
+        "vi": "hai"
+      }
     },
     "parts": [
       "五"
@@ -430,5 +463,7 @@
     "ngũ"
   ],
   "meaningVN": "năm",
-  "hanVietExplain": "ngũ: năm, 5"
+  "hanVietExplain": "ngũ: năm, 5",
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: hai nét trên dưới và nét móc ở giữa gợi hình số năm."
 }

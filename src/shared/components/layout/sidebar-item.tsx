@@ -20,15 +20,12 @@ function SidebarItem({ item, active, onClick, forceBold }: SidebarItemProps) {
   }, [item.id, onClick]);
   const className = cn(
     "flex w-full appearance-none items-center justify-between rounded-xl border-0 bg-transparent px-3 py-2 text-sm font-medium transition",
-    isPlain
-      ? cn(
-          "rounded-lg px-3 py-2 text-[var(--app-muted)] hover:bg-transparent hover:text-[var(--app-fg)]",
-          active && "text-[var(--app-fg)]",
-        )
-      : isDashed
-        ? "border border-dashed border-slate-200 bg-transparent text-slate-500 hover:border-blue-200 hover:text-blue-600 dark:border-[var(--app-border)] dark:text-[var(--app-muted)] dark:hover:border-[var(--app-active-border)] dark:hover:text-[var(--app-active-fg)]"
-        : active
-          ? "border border-slate-200 bg-white text-blue-600 shadow-none dark:border-[var(--app-active-border)] dark:bg-[var(--app-active-bg)] dark:text-[var(--app-active-fg)]"
+    isDashed
+      ? "border border-dashed border-slate-200 bg-transparent text-slate-500 hover:border-blue-200 hover:text-blue-600 dark:border-[var(--app-border)] dark:text-[var(--app-muted)] dark:hover:border-[var(--app-active-border)] dark:hover:text-[var(--app-active-fg)]"
+      : active
+        ? "border border-slate-200 bg-white text-blue-600 shadow-none dark:border-[var(--app-active-border)] dark:bg-[var(--app-active-bg)] dark:text-[var(--app-active-fg)]"
+        : isPlain
+          ? "rounded-lg px-3 py-2 text-[var(--app-muted)] hover:bg-transparent hover:text-[var(--app-fg)]"
           : "text-slate-600 hover:text-slate-900 dark:text-[var(--app-muted)] dark:hover:text-[var(--app-fg)]",
     item.disabled && "cursor-not-allowed opacity-40 hover:bg-transparent hover:text-inherit",
   );

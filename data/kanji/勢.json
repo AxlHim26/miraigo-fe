@@ -412,5 +412,11 @@
   },
   "hanViet": [
     "thế"
-  ]
+  ],
+  "meaning": {
+    "en": "forces, energy, military strength",
+    "vi": "thế lực, năng lượng, sức mạnh quân sự"
+  },
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: 勢 gợi một thế đang dâng lên rất mạnh, có lực và khí thế rõ rệt."
 }

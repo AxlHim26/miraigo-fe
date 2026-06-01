@@ -5,7 +5,10 @@
     "query": "倡",
     "found": true,
     "strokeCount": 10,
-    "meaning": "prostitute, actor",
+    "meaning": {
+      "en": "prostitute, actor",
+      "vi": "kỹ nữ, diễn viên"
+    },
     "kunyomi": [
       "とな.える",
       "わざおぎ"
@@ -18,7 +21,8 @@
         "example": "娼婦",
         "reading": "ショウフ",
         "meaning": {
-          "vi": "prostitute"
+          "vi": "kỹ nữ",
+          "en": "prostitute"
         },
         "romaji": "shoufu"
       },
@@ -26,7 +30,8 @@
         "example": "唱和",
         "reading": "ショウワ",
         "meaning": {
-          "en": "cheering in chorus, saying in unison"
+          "en": "cheering in chorus, saying in unison",
+          "vi": "cổ vũ đồng thanh, cùng đồng thanh nói"
         },
         "romaji": "shouwa"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

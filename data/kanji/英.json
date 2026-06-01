@@ -7,13 +7,17 @@
     "grade": 4,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "distinguished, England",
+    "meaning": {
+      "en": "distinguished, England",
+      "vi": "distinguished, England"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "英語（えいご）",
         "meaning": {
-          "english": "English language"
+          "en": "English language",
+          "vi": "tiếng Anh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "英国（えいこく）",
         "meaning": {
-          "english": "England"
+          "en": "England",
+          "vi": "nước Anh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "英国人（えいこくじん）",
         "meaning": {
-          "english": "English person"
+          "en": "English person",
+          "vi": "English person"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "英会話（えいかいわ）",
         "meaning": {
-          "english": "English conversation"
+          "en": "English conversation",
+          "vi": "English conversation"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "英和辞典（えいわじてん）",
         "meaning": {
-          "english": "English-Japanese dictionary"
+          "en": "English-Japanese dictionary",
+          "vi": "English-Japanese dictionary"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "英雄（えいゆう）",
         "meaning": {
-          "english": "hero"
+          "en": "hero",
+          "vi": "anh hùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ei(go)_06_f.opus",
@@ -207,7 +216,8 @@
     "kanji": {
       "character": "英",
       "meaning": {
-        "english": "distinguished, England"
+        "en": "distinguished, England",
+        "vi": "distinguished, England"
       },
       "strokes": {
         "count": 8,
@@ -261,7 +271,8 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "en": "grass",
+        "vi": "cỏ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -275,6 +286,8 @@
       "classic_nelson": "3927"
     }
   },
+  "jlpt": "N4",
+  "mnemonic_vi": "Cỏ 艹 nở đẹp ở trung tâm gợi hình tinh anh, xuất chúng; cũng dùng trong 英語 là tiếng Anh.",
   "jishoData": {
     "query": "英",
     "found": true,
@@ -282,7 +295,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "430",
     "strokeCount": 8,
-    "meaning": "England, English, hero, outstanding, calyx",
+    "meaning": {
+      "en": "England, English, hero, outstanding, calyx",
+      "vi": "England, English, hero, outstanding, calyx"
+    },
     "kunyomi": [
       "はなぶさ"
     ],
@@ -294,7 +310,8 @@
         "example": "英",
         "reading": "エイ",
         "meaning": {
-          "en": "United Kingdom, Britain, English (language)"
+          "en": "United Kingdom, Britain, English (language)",
+          "vi": "United Kingdom, Britain, English (language)"
         },
         "romaji": "ei"
       },
@@ -302,7 +319,8 @@
         "example": "英語",
         "reading": "エイゴ",
         "meaning": {
-          "en": "English (language)"
+          "en": "English (language)",
+          "vi": "English (language)"
         },
         "romaji": "eigo"
       },
@@ -310,6 +328,7 @@
         "example": "育英",
         "reading": "イクエイ",
         "meaning": {
+          "en": "education of gifted young people, providing financial support to gifted students, education",
           "vi": "education of gifted young people, providing financial support to gifted students, education"
         },
         "romaji": "ikuei"
@@ -318,6 +337,7 @@
         "example": "和英",
         "reading": "ワエイ",
         "meaning": {
+          "en": "Japanese-English, Japanese-English dictionary",
           "vi": "Japanese-English, Japanese-English dictionary"
         },
         "romaji": "waei"
@@ -328,7 +348,8 @@
         "example": "花房",
         "reading": "はなぶさ",
         "meaning": {
-          "en": "calyx, corolla"
+          "en": "calyx, corolla",
+          "vi": "calyx, corolla"
         },
         "romaji": "hanabusa"
       }
@@ -338,7 +359,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [
       "ノ",

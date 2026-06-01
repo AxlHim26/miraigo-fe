@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 3,
     "kunyomi": "ona, onaji, onajiku",
-    "meaning": "same",
+    "meaning": {
+      "en": "same",
+      "vi": "giống nhau"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "同一（どういつ）",
         "meaning": {
-          "english": "identical"
+          "english": "identical",
+          "en": "identical",
+          "vi": "y hệt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ona(ji)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "同様（どうよう）",
         "meaning": {
-          "english": "same"
+          "english": "same",
+          "en": "same",
+          "vi": "giống nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ona(ji)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "同時に（どうじに）",
         "meaning": {
-          "english": "at the same time"
+          "english": "at the same time",
+          "en": "at the same time",
+          "vi": "đồng thời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ona(ji)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "同好会（どうこうかい）",
         "meaning": {
-          "english": "club of like-minded people"
+          "english": "club of like-minded people",
+          "en": "club of like-minded people",
+          "vi": "câu lạc bộ cùng chí hướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ona(ji)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "同窓会（どうそうかい）",
         "meaning": {
-          "english": "alumni meeting"
+          "english": "alumni meeting",
+          "en": "alumni meeting",
+          "vi": "họp cựu học sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ona(ji)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "同意する（どういする）",
         "meaning": {
-          "english": "agree"
+          "english": "agree",
+          "en": "agree",
+          "vi": "đồng ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ona(ji)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "同情する（どうじょうする）",
         "meaning": {
-          "english": "sympathize"
+          "english": "sympathize",
+          "en": "sympathize",
+          "vi": "đồng cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ona(ji)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "同居する（どうきょする）",
         "meaning": {
-          "english": "live together"
+          "english": "live together",
+          "en": "live together",
+          "vi": "sống cùng nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ona(ji)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "共同する（きょうどうする）",
         "meaning": {
-          "english": "collaborate"
+          "english": "collaborate",
+          "en": "collaborate",
+          "vi": "cộng tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ona(ji)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "同じ（おなじ）",
         "meaning": {
-          "english": "same"
+          "english": "same",
+          "en": "same",
+          "vi": "giống nhau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ona(ji)_06_j.opus",
@@ -259,7 +282,9 @@
     "kanji": {
       "character": "同",
       "meaning": {
-        "english": "same"
+        "english": "same",
+        "en": "same",
+        "vi": "giống nhau"
       },
       "strokes": {
         "count": 6,
@@ -309,7 +334,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -330,7 +357,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "15",
     "strokeCount": 6,
-    "meaning": "same, agree, equal",
+    "meaning": {
+      "en": "same, agree, equal",
+      "vi": "giống nhau, đồng ý, bằng nhau"
+    },
     "kunyomi": [
       "おな.じ"
     ],
@@ -342,7 +372,8 @@
         "example": "同",
         "reading": "ドウ",
         "meaning": {
-          "en": "the same, the said, likewise"
+          "en": "the same, the said, likewise",
+          "vi": "cùng một, đã nói ở trên, tương tự"
         },
         "romaji": "dou"
       },
@@ -350,7 +381,8 @@
         "example": "同意",
         "reading": "ドウイ",
         "meaning": {
-          "vi": "agreement, consent, approval, assent, same opinion, same view, same meaning"
+          "vi": "sự đồng ý, chấp thuận, tán thành, cùng ý kiến, cùng quan điểm, cùng nghĩa",
+          "en": "agreement, consent, approval, assent, same opinion, same view, same meaning"
         },
         "romaji": "doui"
       },
@@ -358,7 +390,8 @@
         "example": "合同",
         "reading": "ゴウドウ",
         "meaning": {
-          "vi": "combination, union, joining, incorporation, amalgamation, merger, fusion, combined, joint, united, shared, congruence"
+          "vi": "sự kết hợp, liên hiệp, sáp nhập, hợp nhất, hòa trộn, chung, đồng nhất, tương hợp",
+          "en": "combination, union, joining, incorporation, amalgamation, merger, fusion, combined, joint, united, shared, congruence"
         },
         "romaji": "goudou"
       },
@@ -366,7 +399,8 @@
         "example": "大同",
         "reading": "ダイドウ",
         "meaning": {
-          "en": "general resemblance, being largely the same, uniting with a common goal, Daidō era (806.5.18-810.9.19)"
+          "en": "general resemblance, being largely the same, uniting with a common goal, Daidō era (806.5.18-810.9.19)",
+          "vi": "sự tương đồng nói chung, phần lớn giống nhau, cùng hợp sức vì mục tiêu chung, niên hiệu Daido"
         },
         "romaji": "daidou"
       }
@@ -376,7 +410,8 @@
         "example": "同じ",
         "reading": "おなじ",
         "meaning": {
-          "en": "same, identical, equal, alike, equivalent, anyway, in any case, if one must ..., if one has to ..., as long as ..."
+          "en": "same, identical, equal, alike, equivalent, anyway, in any case, if one must ..., if one has to ..., as long as ...",
+          "vi": "giống nhau, y hệt, bằng nhau, tương tự, tương đương, dù sao đi nữa, trong mọi trường hợp, nếu buộc phải..., miễn là..."
         },
         "romaji": "onaji"
       },
@@ -384,14 +419,18 @@
         "example": "同じく",
         "reading": "おなじく",
         "meaning": {
-          "en": "in the same way, like, likewise, similarly"
+          "en": "in the same way, like, likewise, similarly",
+          "vi": "theo cùng cách, giống như, tương tự"
         },
         "romaji": "onajiku"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "一",
@@ -403,6 +442,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/540c.gif",
     "uri": "https://jisho.org/search/%E5%90%8C%23kanji"
   },
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: mọi thứ nằm chung trong một khung với một miệng 口 bên trong, nên 同 là giống nhau, cùng.",
   "hanViet": [
     "đồng"
   ]

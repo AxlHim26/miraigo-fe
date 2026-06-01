@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1823",
     "strokeCount": 8,
-    "meaning": "two-mat area, approx. thirty-six sq ft",
+    "meaning": {
+      "en": "two-mat area, approx. thirty-six sq ft",
+      "vi": "diện tích hai chiếu, khoảng 36 foot vuông"
+    },
     "kunyomi": [
       "つぼ"
     ],
@@ -21,7 +24,8 @@
         "example": "坪",
         "reading": "つぼ",
         "meaning": {
-          "vi": "tsubo, traditional unit of land area, approx. 3.3 square meters, tsubo, traditional unit of fabric or paper area, approx. 9.18 square centimeters, tsubo, traditional unit of leather or tile area, approx. 918 square centimeters, cubic tsubo (approx. 6 cubic metres)"
+          "vi": "tsubo, traditional unit of land area, approx. 3.3 square meters, tsubo, traditional unit of fabric or paper area, approx. 9.18 square centimeters, tsubo, traditional unit of leather or tile area, approx. 918 square centimeters, cubic tsubo (approx. 6 cubic metres)",
+          "en": "tsubo, traditional unit of land area, approx. 3.3 square meters, tsubo, traditional unit of fabric or paper area, approx. 9.18 square centimeters, tsubo, traditional unit of leather or tile area, approx. 918 square centimeters, cubic tsubo (approx. 6 cubic metres)"
         },
         "romaji": "tsubo"
       },
@@ -29,7 +33,8 @@
         "example": "坪当たり",
         "reading": "つぼあたり",
         "meaning": {
-          "vi": "per tsubo (approx. 3.3 square meters)"
+          "vi": "per tsubo (approx. 3.3 square meters)",
+          "en": "per tsubo (approx. 3.3 square meters)"
         },
         "romaji": "tsuboatari"
       },
@@ -37,7 +42,8 @@
         "example": "米坪",
         "reading": "べいつぼ",
         "meaning": {
-          "vi": "paper weight (in grams per square metre), grammage"
+          "vi": "paper weight (in grams per square metre), grammage",
+          "en": "paper weight (in grams per square metre), grammage"
         },
         "romaji": "beitsubo"
       },
@@ -45,14 +51,18 @@
         "example": "立坪",
         "reading": "りゅうつぼ",
         "meaning": {
-          "vi": "cubic tsubo (approx. 6 cubic metres)"
+          "vi": "cubic tsubo (approx. 6 cubic metres)",
+          "en": "cubic tsubo (approx. 6 cubic metres)"
         },
         "romaji": "ryuutsubo"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "土",
@@ -64,6 +74,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/576a.gif",
     "uri": "https://jisho.org/search/%E5%9D%AA%23kanji"
   },
+  "mnemonic_vi": "Đất và bằng, nhớ một khoảnh đất có diện tích tính theo tsubo.",
   "hanViet": [
     "bình"
   ]

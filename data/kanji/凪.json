@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 6,
-    "meaning": "lull, calm, (kokuji)",
+    "meaning": {
+      "en": "lull, calm, (kokuji)",
+      "vi": "lặng gió, yên ả, chữ quốc tự"
+    },
     "kunyomi": [
       "なぎ",
       "な.ぐ"
@@ -18,7 +21,8 @@
         "example": "凪",
         "reading": "なぎ",
         "meaning": {
-          "en": "calm (at sea), lull"
+          "en": "calm (at sea), lull",
+          "vi": "biển lặng, lúc yên gió"
         },
         "romaji": "nagi"
       },
@@ -26,7 +30,8 @@
         "example": "夕凪",
         "reading": "ゆうなぎ",
         "meaning": {
-          "en": "evening calm"
+          "en": "evening calm",
+          "vi": "lặng gió buổi chiều"
         },
         "romaji": "yuunagi"
       },
@@ -34,7 +39,8 @@
         "example": "逆凪",
         "reading": "さかなぎ",
         "meaning": {
-          "vi": "backfire (of a spell, curse, etc.)"
+          "vi": "backfire (of a spell, curse, etc.)",
+          "en": "backfire (of a spell, curse, etc.)"
         },
         "romaji": "sakanagi"
       },
@@ -42,14 +48,18 @@
         "example": "凪ぐ",
         "reading": "なぐ",
         "meaning": {
-          "en": "to become calm (of the wind, sea, etc.), to die down"
+          "en": "to become calm (of the wind, sea, etc.), to die down",
+          "vi": "trở nên yên lặng, dịu xuống"
         },
         "romaji": "nagu"
       }
     ],
     "radical": {
       "symbol": "几",
-      "meaning": "table"
+      "meaning": {
+        "en": "table",
+        "vi": "bàn"
+      }
     },
     "parts": [
       "几",
@@ -61,5 +71,7 @@
     "uri": "https://jisho.org/search/%E5%87%AA%23kanji"
   },
   "hanViet": null,
-  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu"
+  "hanVietNote": "Không tìm thấy trong các nguồn tra cứu",
+  "mnemonic_vi": "Gợi ý cách nhớ: gió đã dừng trên mặt biển nên mọi thứ lặng yên, đó là 凪.",
+  "jlpt": "N1"
 }

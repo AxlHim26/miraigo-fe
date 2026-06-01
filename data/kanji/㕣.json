@@ -5,14 +5,20 @@
     "query": "㕣",
     "found": true,
     "strokeCount": 5,
-    "meaning": "đầm lầy dưới chân đồi, tên một con sông",
+    "meaning": {
+      "en": "marsh at the foot of a hill, name of a river",
+      "vi": "đầm lầy dưới chân đồi, tên một con sông"
+    },
     "kunyomi": [],
     "onyomi": [],
     "onyomiExamples": [],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "cửa sông, cửa biển"
+      "meaning": {
+        "en": "river mouth, estuary",
+        "vi": "cửa sông, cửa biển"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/13667_frames.png",
@@ -29,7 +35,7 @@
     "en": null
   },
   "meaning": {
-    "vi": "đầm lầy dưới chân đồi, tên một con sông",
-    "en": "đầm lầy dưới chân đồi, tên một con sông"
+    "en": "marsh at the foot of a hill, name of a river",
+    "vi": "đầm lầy dưới chân đồi, tên một con sông"
   }
 }

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1571",
     "strokeCount": 7,
-    "meaning": "display, offer, present, send, exhibit",
+    "meaning": {
+      "en": "display, offer, present, send, exhibit",
+      "vi": "trình ra, dâng, trình bày, gửi, trưng bày"
+    },
     "kunyomi": [],
     "onyomi": [
       "テイ"
@@ -18,7 +21,8 @@
         "example": "呈色",
         "reading": "テイショク",
         "meaning": {
-          "en": "coloration, colouration, color, colour, coloring, colouring"
+          "en": "coloration, colouration, color, colour, coloring, colouring",
+          "vi": "sự lên màu, màu sắc, cách tô màu"
         },
         "romaji": "teishoku"
       },
@@ -26,7 +30,8 @@
         "example": "呈出",
         "reading": "テイシュツ",
         "meaning": {
-          "vi": "present, introduce"
+          "vi": "trình, giới thiệu",
+          "en": "present, introduce"
         },
         "romaji": "teishutsu"
       },
@@ -34,7 +39,8 @@
         "example": "進呈",
         "reading": "シンテイ",
         "meaning": {
-          "vi": "presentation (e.g. of a gift)"
+          "vi": "sự dâng tặng, sự trình biếu",
+          "en": "presentation (e.g. of a gift)"
         },
         "romaji": "shintei"
       },
@@ -42,7 +48,8 @@
         "example": "露呈",
         "reading": "ロテイ",
         "meaning": {
-          "vi": "exposure, disclosure"
+          "vi": "sự phơi bày, tiết lộ",
+          "en": "exposure, disclosure"
         },
         "romaji": "rotei"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -63,5 +73,6 @@
   },
   "hanViet": [
     "trình"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: vật được đặt lên trước mặt vua 王 để trình lên, nên là dâng, trình bày."
 }

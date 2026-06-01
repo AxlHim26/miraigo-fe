@@ -5,14 +5,20 @@
     "query": "㐬",
     "found": true,
     "strokeCount": 7,
-    "meaning": "Ly có mặt dây chuyền",
+    "meaning": {
+      "en": "pendant goblet",
+      "vi": "Ly có mặt dây chuyền"
+    },
     "kunyomi": [],
     "onyomi": [],
     "onyomiExamples": [],
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亠",
-      "meaning": "nắp"
+      "meaning": {
+        "en": "lid",
+        "vi": "nắp"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/13356_frames.png",
@@ -28,7 +34,7 @@
     "en": null
   },
   "meaning": {
-    "vi": "ly có mặt dây chuyền",
-    "en": "Ly có mặt dây chuyền"
+    "en": "pendant goblet",
+    "vi": "ly có mặt dây chuyền"
   }
 }

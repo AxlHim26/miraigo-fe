@@ -7,7 +7,10 @@
     "grade": 3,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "both",
+    "meaning": {
+      "en": "both",
+      "vi": "cả hai"
+    },
     "kstroke": 6,
     "examples": [
       {
@@ -270,7 +273,9 @@
     "kanji": {
       "character": "両",
       "meaning": {
-        "english": "both"
+        "english": "both",
+        "en": "both",
+        "vi": "cả hai"
       },
       "strokes": {
         "count": 6,
@@ -319,7 +324,9 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke",
+        "en": "one, horizontal stroke",
+        "vi": "một, nét ngang"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -340,7 +347,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "247",
     "strokeCount": 6,
-    "meaning": "both, old Japanese coin, counter for carriages (e.g., in a train), two",
+    "meaning": {
+      "en": "both, old Japanese coin, counter for carriages (e.g., in a train), two",
+      "vi": "cả hai, đồng tiền Nhật cổ, từ đếm cho toa xe (ví dụ trên tàu), hai"
+    },
     "kunyomi": [
       "てる",
       "ふたつ"
@@ -420,7 +430,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "一",

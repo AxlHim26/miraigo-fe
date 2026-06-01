@@ -4,8 +4,12 @@
   "jishoData": {
     "query": "几",
     "found": true,
+    "jlptLevel": null,
     "strokeCount": 2,
-    "meaning": "table, table enclosure, table or windy radical (no. 16)",
+    "meaning": {
+      "en": "table, table enclosure, table or windy radical (no. 16)",
+      "vi": "cái bàn, khung bàn, bộ kỷ"
+    },
     "kunyomi": [
       "きにょう"
     ],
@@ -17,7 +21,8 @@
         "example": "几",
         "reading": "オシマズキ",
         "meaning": {
-          "en": "armrest, desk, table"
+          "en": "armrest, desk, table",
+          "vi": "tay vịn, bàn học, cái bàn"
         },
         "romaji": "oshimazuki"
       },
@@ -25,7 +30,8 @@
         "example": "机上",
         "reading": "キジョウ",
         "meaning": {
-          "vi": "on the desk, theoretical, academic, armchair (e.g. plan), desktop, paper, not yet implemented"
+          "vi": "trên bàn giấy, mang tính lý thuyết, trên giấy tờ, chưa triển khai",
+          "en": "on the desk, theoretical, academic, armchair (e.g. plan), desktop, paper, not yet implemented"
         },
         "romaji": "kijou"
       }
@@ -33,7 +39,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "几",
-      "meaning": "table"
+      "meaning": {
+        "en": "table",
+        "vi": "bàn"
+      }
     },
     "parts": [
       "几"
@@ -51,5 +60,6 @@
     "kỉ",
     "kỷ",
     "ỷ"
-  ]
+  ],
+  "mnemonic_vi": "Hình chữ giống chiếc bàn nhỏ có chân cong, nên nhớ là cái bàn hoặc khung bàn."
 }

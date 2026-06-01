@@ -5,7 +5,10 @@
     "query": "亞",
     "found": true,
     "strokeCount": 8,
-    "meaning": "rank, follow",
+    "meaning": {
+      "en": "rank, follow",
+      "vi": "xếp hạng, theo sau"
+    },
     "kunyomi": [
       "つ.ぐ"
     ],
@@ -17,7 +20,8 @@
         "example": "亜",
         "reading": "ア",
         "meaning": {
-          "vi": "sub-, second-rate, inferior, -ous (indicating a low oxidation state), -ite, Asia, Argentina, Arabia, America, American person"
+          "en": "sub-, second-rate, inferior, -ous (indicating a low oxidation state), -ite, Asia, Argentina, Arabia, America, American person",
+          "vi": "phụ, hạng hai, kém hơn, -ous (biểu thị trạng thái oxy hóa thấp), -ite, châu á, argentina, ả rập, châu mỹ, người mỹ"
         },
         "meaningVN": "phụ, hạng hai, kém hơn, -ous (biểu thị trạng thái oxy hóa thấp), -ite, châu á, argentina, ả rập, châu mỹ, người mỹ",
         "hanViet": "a",
@@ -28,7 +32,8 @@
         "example": "東亜",
         "reading": "トウア",
         "meaning": {
-          "en": "East Asia, the Orient"
+          "en": "East Asia, the Orient",
+          "vi": "đông á, phương đông"
         },
         "meaningVN": "đông á, phương đông",
         "hanViet": "đông a",
@@ -39,7 +44,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "二",
-      "meaning": "two"
+      "meaning": {
+        "en": "two",
+        "vi": "hai"
+      }
     },
     "parts": [
       "一",

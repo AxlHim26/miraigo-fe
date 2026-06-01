@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 50,
     "kunyomi": "n/a",
-    "meaning": "officiate, administer",
+    "meaning": {
+      "en": "officiate, administer",
+      "vi": "điều hành, cai quản"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "司法（しほう）",
         "meaning": {
-          "english": "administration of justice, judicial"
+          "english": "administration of justice, judicial",
+          "en": "administration of justice, judicial",
+          "vi": "tư pháp, việc thực thi công lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(su)shi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "司書（ししょ）",
         "meaning": {
-          "english": "librarian"
+          "english": "librarian",
+          "en": "librarian",
+          "vi": "thủ thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(su)shi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "司祭（しさい）",
         "meaning": {
-          "english": "priest, rabbi"
+          "english": "priest, rabbi",
+          "en": "priest, rabbi",
+          "vi": "thầy tu, giáo sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(su)shi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "司令官（しれいかん）",
         "meaning": {
-          "english": "commandant"
+          "english": "commandant",
+          "en": "commandant",
+          "vi": "chỉ huy trưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(su)shi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "司会者（しかいしゃ）",
         "meaning": {
-          "english": "chairperson, moderator, MC"
+          "english": "chairperson, moderator, MC",
+          "en": "chairperson, moderator, MC",
+          "vi": "chủ tọa, người điều phối, MC"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(su)shi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "上司（じょうし）",
         "meaning": {
-          "english": "boss, superior"
+          "english": "boss, superior",
+          "en": "boss, superior",
+          "vi": "cấp trên, ông chủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(su)shi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "寿司（すし）",
         "meaning": {
-          "english": "sushi"
+          "english": "sushi",
+          "en": "sushi",
+          "vi": "sushi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(su)shi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "行司（ぎょうじ）",
         "meaning": {
-          "english": "sumo referee"
+          "english": "sumo referee",
+          "en": "sumo referee",
+          "vi": "trọng tài sumo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(su)shi_06_h.opus",
@@ -184,7 +203,9 @@
     "kanji": {
       "character": "司",
       "meaning": {
-        "english": "officiate, administer"
+        "english": "officiate, administer",
+        "en": "officiate, administer",
+        "vi": "điều hành, cai quản"
       },
       "strokes": {
         "count": 5,
@@ -232,7 +253,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -253,7 +276,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "759",
     "strokeCount": 5,
-    "meaning": "director, official, govt office, rule, administer",
+    "meaning": {
+      "en": "director, official, govt office, rule, administer",
+      "vi": "giám đốc, quan chức, cơ quan chính phủ, cai trị, điều hành"
+    },
     "kunyomi": [
       "つかさど.る"
     ],
@@ -265,7 +291,8 @@
         "example": "司",
         "reading": "シ",
         "meaning": {
-          "vi": "office (government department beneath a bureau under the ritsuryō system)"
+          "vi": "cơ quan (đơn vị dưới cục trong hệ thống ritsuryo)",
+          "en": "office (government department beneath a bureau under the ritsuryō system)"
         },
         "romaji": "shi"
       },
@@ -273,7 +300,8 @@
         "example": "司会",
         "reading": "シカイ",
         "meaning": {
-          "vi": "leading a meeting, presiding over a meeting, officiating at a ceremony, chairmanship, chairman, presenter, host, moderator, master of ceremonies"
+          "vi": "chủ trì cuộc họp, điều hành buổi lễ, chức chủ tọa, chủ tịch, người dẫn chương trình, người chủ trì, MC",
+          "en": "leading a meeting, presiding over a meeting, officiating at a ceremony, chairmanship, chairman, presenter, host, moderator, master of ceremonies"
         },
         "romaji": "shikai"
       },
@@ -281,7 +309,8 @@
         "example": "公司",
         "reading": "コンス",
         "meaning": {
-          "vi": "company (in China), firm"
+          "vi": "công ty (ở Trung Quốc), hãng",
+          "en": "company (in China), firm"
         },
         "romaji": "konsu"
       },
@@ -289,7 +318,8 @@
         "example": "にぎり寿司",
         "reading": "ニギリズシ",
         "meaning": {
-          "vi": "nigirizushi, hand-pressed vinegared rice topped with seafood"
+          "vi": "nigiri sushi, cơm giấm nắm tay phủ hải sản",
+          "en": "nigirizushi, hand-pressed vinegared rice topped with seafood"
         },
         "romaji": "nigirizushi"
       }
@@ -299,14 +329,18 @@
         "example": "司る",
         "reading": "つかさどる",
         "meaning": {
-          "vi": "to be in charge of, to manage, to direct, to administer, to preside over, to rule, to govern, to control"
+          "vi": "chịu trách nhiệm, quản lý, chỉ đạo, điều hành, chủ trì, cai trị, kiểm soát",
+          "en": "to be in charge of, to manage, to direct, to administer, to preside over, to rule, to govern, to control"
         },
         "romaji": "tsukasadoru"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "一",
@@ -318,6 +352,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f8.gif",
     "uri": "https://jisho.org/search/%E5%8F%B8%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: nét bao che lấy miệng 口 như người đứng đầu điều khiển lời nói, nên 司 là quản lý, cai quản.",
   "hanViet": [
     "ti",
     "ty",

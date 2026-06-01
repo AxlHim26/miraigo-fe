@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2123",
     "strokeCount": 4,
-    "meaning": "unlucky, misfortune, bad luck, disaster",
+    "meaning": {
+      "en": "unlucky, misfortune, bad luck, disaster",
+      "vi": "xui xẻo, bất hạnh, vận rủi, tai họa"
+    },
     "kunyomi": [],
     "onyomi": [
       "ヤク"
@@ -18,7 +21,8 @@
         "example": "厄",
         "reading": "ヤク",
         "meaning": {
-          "vi": "misfortune, bad luck, evil, disaster, unlucky year, critical year, year (esp. age 25 and 42 for men, 19 and 33 for women) that is considered unlucky"
+          "vi": "bất hạnh, vận rủi, điều xấu, tai họa, năm hạn, năm tuổi xấu được xem là không may",
+          "en": "misfortune, bad luck, evil, disaster, unlucky year, critical year, year (esp. age 25 and 42 for men, 19 and 33 for women) that is considered unlucky"
         },
         "romaji": "yaku"
       },
@@ -26,7 +30,8 @@
         "example": "厄年",
         "reading": "ヤクドシ",
         "meaning": {
-          "vi": "unlucky year, critical year, year (esp. age 25 and 42 for men, 19 and 33 for women) that is considered unlucky (orig. in Onmyōdō), bad year, annus horribilis"
+          "vi": "năm hạn, năm xấu, năm bị xem là không may (gốc từ Onmyodo), năm đại hạn",
+          "en": "unlucky year, critical year, year (esp. age 25 and 42 for men, 19 and 33 for women) that is considered unlucky (orig. in Onmyōdō), bad year, annus horribilis"
         },
         "romaji": "yakudoshi"
       },
@@ -34,7 +39,8 @@
         "example": "災厄",
         "reading": "サイヤク",
         "meaning": {
-          "en": "calamity, disaster, accident"
+          "en": "calamity, disaster, accident",
+          "vi": "tai họa, thảm họa, tai nạn"
         },
         "romaji": "saiyaku"
       },
@@ -42,7 +48,8 @@
         "example": "大厄",
         "reading": "タイヤク",
         "meaning": {
-          "en": "calamity, disaster, great misfortune, grand climacteric"
+          "en": "calamity, disaster, great misfortune, grand climacteric",
+          "vi": "tai họa, thảm họa, đại nạn, vận hạn lớn"
         },
         "romaji": "taiyaku"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "厂",
-      "meaning": "cliff"
+      "meaning": {
+        "en": "cliff",
+        "vi": "vách đá"
+      }
     },
     "parts": [
       "卩",
@@ -64,5 +74,6 @@
   "hanViet": [
     "ngoả",
     "ách"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: người mắc kẹt dưới vách đá 厂 nên gặp vận xui, tai ách."
 }

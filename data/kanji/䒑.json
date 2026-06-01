@@ -5,7 +5,10 @@
     "query": "䒑",
     "found": true,
     "strokeCount": 6,
-    "meaning": "cỏ",
+    "meaning": {
+      "en": "grass",
+      "vi": "cỏ"
+    },
     "kunyomi": [],
     "onyomi": [],
     "onyomiExamples": [],
@@ -15,7 +18,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "cỏ"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/17553_frames.png",
@@ -30,7 +36,7 @@
     "en": null
   },
   "meaning": {
-    "vi": "cỏ",
-    "en": "cỏ"
+    "en": "grass",
+    "vi": "cỏ"
   }
 }

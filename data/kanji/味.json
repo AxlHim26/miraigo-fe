@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "aji, ajiwau, ajiwai",
-    "meaning": "taste",
+    "meaning": {
+      "en": "taste",
+      "vi": "vị, nếm"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "意味（いみ）",
         "meaning": {
-          "english": "meaning"
+          "english": "meaning",
+          "en": "meaning",
+          "vi": "ý nghĩa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "興味（きょうみ）",
         "meaning": {
-          "english": "interest (in something)"
+          "english": "interest (in something)",
+          "en": "interest (in something)",
+          "vi": "hứng thú, sự quan tâm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "趣味（しゅみ）",
         "meaning": {
-          "english": "hobby"
+          "english": "hobby",
+          "en": "hobby",
+          "vi": "sở thích"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "味噌（みそ）",
         "meaning": {
-          "english": "bean paste"
+          "english": "bean paste",
+          "en": "bean paste",
+          "vi": "tương đậu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "味覚（みかく）",
         "meaning": {
-          "english": "sense of taste"
+          "english": "sense of taste",
+          "en": "sense of taste",
+          "vi": "vị giác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "味（あじ）",
         "meaning": {
-          "english": "flavor"
+          "english": "flavor",
+          "en": "flavor",
+          "vi": "hương vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "後味（あとあじ）",
         "meaning": {
-          "english": "aftertaste"
+          "english": "aftertaste",
+          "en": "aftertaste",
+          "vi": "dư vị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "味わう（あじわう）",
         "meaning": {
-          "english": "taste, appreciate"
+          "english": "taste, appreciate",
+          "en": "taste, appreciate",
+          "vi": "nếm, thưởng thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aji(wau)_06_h.opus",
@@ -264,7 +283,9 @@
     "kanji": {
       "character": "味",
       "meaning": {
-        "english": "taste"
+        "english": "taste",
+        "en": "taste",
+        "vi": "vị, nếm"
       },
       "strokes": {
         "count": 8,
@@ -318,7 +339,9 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -339,7 +362,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "442",
     "strokeCount": 8,
-    "meaning": "flavor, taste",
+    "meaning": {
+      "en": "flavor, taste",
+      "vi": "hương vị, vị"
+    },
     "kunyomi": [
       "あじ",
       "あじ.わう"
@@ -352,21 +378,26 @@
         "example": "味",
         "reading": "ミ",
         "meaning": {
-          "en": "(sense of) taste, counter for kinds of food, drink or medicine"
+          "en": "(sense of) taste, counter for kinds of food, drink or medicine",
+          "vi": "vị giác, lượng từ cho các loại thức ăn, đồ uống hoặc thuốc"
         },
         "romaji": "mi"
       },
       {
         "example": "【ミ】",
         "reading": "-ness (as in &quot;sweetness&quot;), -th (as in &quot;warmth&quot;), a touch of, a tinge of, place, alternating between ... and ..., sometimes ... and sometimes ...",
-        "meaning": "",
+        "meaning": {
+          "en": "",
+          "vi": ""
+        },
         "romaji": "-ness (as in &quot;sweetness&quot;), -th (as in &quot;warmth&quot;), a touch of, a tinge of, place, alternating between ... and ..., sometimes ... and sometimes ..."
       },
       {
         "example": "厚み",
         "reading": "アツミ",
         "meaning": {
-          "vi": "thickness, profundity, depth"
+          "vi": "độ dày, sự sâu sắc, chiều sâu",
+          "en": "thickness, profundity, depth"
         },
         "romaji": "atsumi"
       },
@@ -374,7 +405,8 @@
         "example": "加味",
         "reading": "カミ",
         "meaning": {
-          "en": "seasoning, flavoring, flavouring, addition, inclusion, taking into account"
+          "en": "seasoning, flavoring, flavouring, addition, inclusion, taking into account",
+          "vi": "gia vị, hương liệu, sự thêm vào, bao gồm, tính đến"
         },
         "romaji": "kami"
       }
@@ -384,7 +416,8 @@
         "example": "味",
         "reading": "あじ",
         "meaning": {
-          "vi": "flavor, flavour, taste, charm, appeal, uniqueness, attractiveness, experience, taste (e.g. of victory), smart, clever, witty, strange"
+          "vi": "hương vị, vị, nét hấp dẫn, sự độc đáo, sức lôi cuốn, trải nghiệm, mùi vị của chiến thắng, lanh lợi, hóm hỉnh, lạ",
+          "en": "flavor, flavour, taste, charm, appeal, uniqueness, attractiveness, experience, taste (e.g. of victory), smart, clever, witty, strange"
         },
         "romaji": "aji"
       },
@@ -392,7 +425,8 @@
         "example": "味付け",
         "reading": "あじつけ",
         "meaning": {
-          "en": "seasoning, flavour, flavor"
+          "en": "seasoning, flavour, flavor",
+          "vi": "gia vị, hương liệu"
         },
         "romaji": "ajitsuke"
       },
@@ -400,7 +434,8 @@
         "example": "切れ味",
         "reading": "きれあじ",
         "meaning": {
-          "vi": "sharpness, cutting ability, quickness (of wit), incisiveness, technical proficiency, skill, peppiness (of a ball)"
+          "vi": "độ sắc, khả năng cắt, sự nhanh trí, tính sắc sảo, tay nghề, kỹ năng, độ nảy của bóng",
+          "en": "sharpness, cutting ability, quickness (of wit), incisiveness, technical proficiency, skill, peppiness (of a ball)"
         },
         "romaji": "kireaji"
       },
@@ -408,7 +443,8 @@
         "example": "下味",
         "reading": "したあじ",
         "meaning": {
-          "en": "seasoning of food"
+          "en": "seasoning of food",
+          "vi": "nêm nếm món ăn"
         },
         "romaji": "shitaaji"
       },
@@ -416,14 +452,18 @@
         "example": "味わう",
         "reading": "あじわう",
         "meaning": {
-          "vi": "to taste, to savor, to savour, to relish, to appreciate, to enjoy, to relish, to digest, to experience, to go through, to taste (e.g. victory), to know (e.g. pain)"
+          "vi": "nếm, thưởng thức, cảm nhận, tận hưởng, tiêu hóa, trải qua, nếm mùi, biết được",
+          "en": "to taste, to savor, to savour, to relish, to appreciate, to enjoy, to relish, to digest, to experience, to go through, to taste (e.g. victory), to know (e.g. pain)"
         },
         "romaji": "ajiwau"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "ハ",
@@ -438,6 +478,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5473.gif",
     "uri": "https://jisho.org/search/%E5%91%B3%23kanji"
   },
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng 口 nếm thứ chưa 未 biết rõ, nên 味 là mùi vị, hương vị.",
   "hanViet": [
     "vị"
   ]

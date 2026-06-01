@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "ta, saba, tatsu, sabaku",
-    "meaning": "cut out, judge",
+    "meaning": {
+      "en": "cut out, judge",
+      "vi": "cắt, phán xét"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "裁判（さいばん）",
         "meaning": {
-          "english": "trial, judgment"
+          "english": "trial, judgment",
+          "en": "trial, judgment",
+          "vi": "phiên xử, phán quyết"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "裁判所（さいばんしょ）",
         "meaning": {
-          "english": "court, courthouse"
+          "english": "court, courthouse",
+          "en": "court, courthouse",
+          "vi": "tòa án, pháp đình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "裁縫（さいほう）",
         "meaning": {
-          "english": "sewing"
+          "english": "sewing",
+          "en": "sewing",
+          "vi": "may vá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "裁量（さいりょう）",
         "meaning": {
-          "english": "discretion"
+          "english": "discretion",
+          "en": "discretion",
+          "vi": "sự thận trọng, biết chừng mực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "洋裁（ようさい）",
         "meaning": {
-          "english": "dressmaking"
+          "english": "dressmaking",
+          "en": "dressmaking",
+          "vi": "nghề may"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "制裁（せいさい）",
         "meaning": {
-          "english": "restraint, sanctions, punishment"
+          "english": "restraint, sanctions, punishment",
+          "en": "restraint, sanctions, punishment",
+          "vi": "kiềm chế, chế tài, hình phạt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "体裁（ていさい）",
         "meaning": {
-          "english": "appearance, format, decency"
+          "english": "appearance, format, decency",
+          "en": "appearance, format, decency",
+          "vi": "diện mạo, khuôn thức, sự đứng đắn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "独裁（どくさい）",
         "meaning": {
-          "english": "dictatorship, despotism"
+          "english": "dictatorship, despotism",
+          "en": "dictatorship, despotism",
+          "vi": "chế độ độc tài, chuyên chế"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "総裁（そうさい）",
         "meaning": {
-          "english": "president"
+          "english": "president",
+          "en": "president",
+          "vi": "tổng thống, chủ tịch"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "仲裁する（ちゅうさいする）",
         "meaning": {
-          "english": "arbitrate, intercede"
+          "english": "arbitrate, intercede",
+          "en": "arbitrate, intercede",
+          "vi": "phân xử, dàn xếp, can thiệp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "裁つ（たつ）",
         "meaning": {
-          "english": "cut [v.t.]"
+          "english": "cut [v.t.]",
+          "en": "cut [v.t.]",
+          "vi": "cắt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "裁く（さばく）",
         "meaning": {
-          "english": "judge [v.t.]"
+          "english": "judge [v.t.]",
+          "en": "judge [v.t.]",
+          "vi": "xét xử, phán xét"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sai-saba(ku)_06_l.opus",
@@ -239,7 +266,9 @@
     "kanji": {
       "character": "裁",
       "meaning": {
-        "english": "cut out, judge"
+        "english": "cut out, judge",
+        "en": "cut out, judge",
+        "vi": "cắt, phán xét"
       },
       "strokes": {
         "count": 12,
@@ -301,7 +330,9 @@
         "romaji": "koromo"
       },
       "meaning": {
-        "english": "clothing"
+        "english": "clothing",
+        "en": "clothing",
+        "vi": "y phục, quần áo"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/koromo0.svg",
@@ -322,7 +353,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "297",
     "strokeCount": 12,
-    "meaning": "tailor, judge, decision, cut out (pattern)",
+    "meaning": {
+      "en": "tailor, judge, decision, cut out (pattern)",
+      "vi": "may cắt, xét xử, phán quyết, cắt rập"
+    },
     "kunyomi": [
       "た.つ",
       "さば.く"
@@ -335,7 +369,8 @@
         "example": "裁",
         "reading": "サイ",
         "meaning": {
-          "en": "court"
+          "en": "court",
+          "vi": "tòa án"
         },
         "romaji": "sai"
       },
@@ -343,7 +378,8 @@
         "example": "裁決",
         "reading": "サイケツ",
         "meaning": {
-          "en": "decision, ruling, judgement, judgment"
+          "en": "decision, ruling, judgement, judgment",
+          "vi": "quyết định, phán quyết, bản án"
         },
         "romaji": "saiketsu"
       },
@@ -351,7 +387,8 @@
         "example": "家裁",
         "reading": "カサイ",
         "meaning": {
-          "en": "family court"
+          "en": "family court",
+          "vi": "tòa gia đình"
         },
         "romaji": "kasai"
       },
@@ -359,7 +396,8 @@
         "example": "高裁",
         "reading": "コウサイ",
         "meaning": {
-          "en": "High Court"
+          "en": "High Court",
+          "vi": "tòa án cấp cao"
         },
         "romaji": "kousai"
       }
@@ -369,7 +407,8 @@
         "example": "裁つ",
         "reading": "たつ",
         "meaning": {
-          "en": "to cut (cloth)"
+          "en": "to cut (cloth)",
+          "vi": "cắt vải"
         },
         "romaji": "tatsu"
       },
@@ -377,7 +416,8 @@
         "example": "裁く",
         "reading": "さばく",
         "meaning": {
-          "en": "to judge, to try, to sit in judgement (on), to decide (on)"
+          "en": "to judge, to try, to sit in judgement (on), to decide (on)",
+          "vi": "xét xử, phán xét, ngồi phân xử, quyết định"
         },
         "romaji": "sabaku"
       }
@@ -387,7 +427,10 @@
       "forms": [
         "衤"
       ],
-      "meaning": "clothes"
+      "meaning": {
+        "en": "clothes",
+        "vi": "quần áo"
+      }
     },
     "parts": [
       "亠",
@@ -403,5 +446,7 @@
   },
   "hanViet": [
     "tài"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: Có áo 衣 và lưỡi dao của 戈 để cắt may hoặc phán quyết, nên 裁 là cắt, xét xử."
 }

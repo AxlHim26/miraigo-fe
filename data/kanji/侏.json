@@ -5,7 +5,10 @@
     "query": "侏",
     "found": true,
     "strokeCount": 8,
-    "meaning": "actor, supporting post",
+    "meaning": {
+      "en": "actor, supporting post",
+      "vi": "diễn viên, cột chống"
+    },
     "kunyomi": [],
     "onyomi": [
       "シュ"
@@ -15,7 +18,8 @@
         "example": "朱儒",
         "reading": "シュジュ",
         "meaning": {
-          "en": "dwarf"
+          "en": "dwarf",
+          "vi": "người lùn"
         },
         "romaji": "shuju"
       }
@@ -26,7 +30,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

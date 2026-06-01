@@ -6,7 +6,10 @@
     "found": true,
     "taughtIn": "junior high",
     "strokeCount": 12,
-    "meaning": "a wee bit",
+    "meaning": {
+      "en": "a wee bit",
+      "vi": "một chút xíu"
+    },
     "kunyomi": [
       "わず.か"
     ],
@@ -19,7 +22,8 @@
         "example": "僅々",
         "reading": "キンキン",
         "meaning": {
-          "en": "only, just, merely, no more than"
+          "en": "only, just, merely, no more than",
+          "vi": "chỉ, vừa đúng, đơn thuần, không hơn"
         },
         "romaji": "kinkin"
       },
@@ -27,7 +31,8 @@
         "example": "僅差",
         "reading": "キンサ",
         "meaning": {
-          "en": "narrow margin, slim margin"
+          "en": "narrow margin, slim margin",
+          "vi": "khoảng cách sít sao, chênh lệch nhỏ"
         },
         "romaji": "kinsa"
       },
@@ -35,7 +40,8 @@
         "example": "僅々",
         "reading": "キンキン",
         "meaning": {
-          "en": "only, just, merely, no more than"
+          "en": "only, just, merely, no more than",
+          "vi": "chỉ, vừa đúng, đơn thuần, không hơn"
         },
         "romaji": "kinkin"
       }
@@ -45,7 +51,8 @@
         "example": "僅か",
         "reading": "わずか",
         "meaning": {
-          "en": "a little, a few, small, slight, trifling, meagre, meager, narrow (margin), only, just, merely, no more than"
+          "en": "a little, a few, small, slight, trifling, meagre, meager, narrow (margin), only, just, merely, no more than",
+          "vi": "một ít, vài, nhỏ, nhẹ, không đáng kể, ít ỏi, chênh lệch hẹp, chỉ, vừa đúng, đơn thuần, không hơn"
         },
         "romaji": "wazuka"
       },
@@ -53,7 +60,8 @@
         "example": "僅かしか",
         "reading": "わずかしか",
         "meaning": {
-          "en": "(nothing) but a little"
+          "en": "(nothing) but a little",
+          "vi": "chẳng qua chỉ là một chút"
         },
         "romaji": "wazukashika"
       }
@@ -63,7 +71,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

@@ -383,5 +383,11 @@
   "hanViet": [
     "khu",
     "âu"
-  ]
+  ],
+  "meaning": {
+    "en": "ward, district",
+    "vi": "khu, quận"
+  },
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: 区 là một vùng được khoanh lại thành từng khu riêng biệt."
 }

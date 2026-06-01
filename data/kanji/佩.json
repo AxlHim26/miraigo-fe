@@ -5,7 +5,10 @@
     "query": "佩",
     "found": true,
     "strokeCount": 8,
-    "meaning": "wear, put on (a sword)",
+    "meaning": {
+      "en": "wear, put on (a sword)",
+      "vi": "đeo, mang vào (kiếm)"
+    },
     "kunyomi": [
       "は.く",
       "お.びる",
@@ -19,7 +22,8 @@
         "example": "佩",
         "reading": "ハイ",
         "meaning": {
-          "vi": "type of ancient oriental belt, counter for swords"
+          "en": "type of ancient oriental belt, counter for swords",
+          "vi": "một loại đai cổ phương Đông, từ đếm cho kiếm"
         },
         "romaji": "hai"
       },
@@ -27,7 +31,8 @@
         "example": "佩剣",
         "reading": "ハイケン",
         "meaning": {
-          "en": "wearing a sword"
+          "en": "wearing a sword",
+          "vi": "mang kiếm"
         },
         "romaji": "haiken"
       }
@@ -37,7 +42,8 @@
         "example": "履く",
         "reading": "はく",
         "meaning": {
-          "vi": "to put on (lower-body clothing, e.g. pants, skirt, footwear), to wear, to affix (a sword to one's hip), to affix (a bowstring to a bow)"
+          "en": "to put on (lower-body clothing, e.g. pants, skirt, footwear), to wear, to affix (a sword to one's hip), to affix (a bowstring to a bow)",
+          "vi": "mặc vào (đồ phần thân dưới như quần, váy, giày dép), mang, đeo (kiếm bên hông), mắc dây vào cung"
         },
         "romaji": "haku"
       },
@@ -45,7 +51,8 @@
         "example": "帯びる",
         "reading": "おびる",
         "meaning": {
-          "vi": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with"
+          "en": "to wear (a sword, decoration, etc.), to carry, to bear, to be entrusted with (a mission), to be charged with, to take on, to have (a quality, property, etc.), to have a trace of, to be tinged with",
+          "vi": "mang (kiếm, huy hiệu, v.v.), mang theo, gánh vác, được giao phó (nhiệm vụ), đảm nhận, có (phẩm chất, tính chất, v.v.), phảng phất, nhuốm"
         },
         "romaji": "obiru"
       },
@@ -53,7 +60,8 @@
         "example": "佩びる",
         "reading": "おびる",
         "meaning": {
-          "vi": "to wear, to put on (a sword)"
+          "en": "to wear, to put on (a sword)",
+          "vi": "đeo, mang vào (kiếm)"
         },
         "romaji": "obiru"
       }
@@ -63,7 +71,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

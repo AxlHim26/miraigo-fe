@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1149",
     "strokeCount": 10,
-    "meaning": "wide expanse, abundance, vigorous",
+    "meaning": {
+      "en": "wide expanse, abundance, vigorous",
+      "vi": "rộng lớn, dồi dào, mạnh mẽ"
+    },
     "kunyomi": [
       "おおき.い",
       "ひろ.い"
@@ -20,7 +23,8 @@
         "example": "浩瀚",
         "reading": "コウカン",
         "meaning": {
-          "en": "bulky, voluminous"
+          "en": "bulky, voluminous",
+          "vi": "đồ sộ, nhiều"
         },
         "romaji": "koukan"
       },
@@ -28,7 +32,8 @@
         "example": "浩然",
         "reading": "コウゼン",
         "meaning": {
-          "vi": "broadminded, magnanimous, abundant (of flowing water), plentiful"
+          "vi": "rộng lượng, hào phóng, nước chảy dồi dào, phong phú",
+          "en": "broadminded, magnanimous, abundant (of flowing water), plentiful"
         },
         "romaji": "kouzen"
       }
@@ -40,7 +45,10 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": {
+        "en": "water",
+        "vi": "nước"
+      }
     },
     "parts": [
       "ノ",
@@ -55,5 +63,7 @@
   },
   "hanViet": [
     "hạo"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: ba chấm thủy gặp nét lớn mở rộng, liên tưởng đến dòng nước bao la."
 }

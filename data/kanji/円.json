@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 2,
     "kunyomi": "maru, marui",
-    "meaning": "circle, yen",
+    "meaning": {
+      "en": "circle, yen",
+      "vi": "hình tròn, yên"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "千円（せんえん）",
         "meaning": {
-          "english": "a thousand yen"
+          "english": "a thousand yen",
+          "en": "a thousand yen",
+          "vi": "một nghìn yên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "円高（えんだか）",
         "meaning": {
-          "english": "strong yen"
+          "english": "strong yen",
+          "en": "strong yen",
+          "vi": "đồng yên mạnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "円安（えんやす）",
         "meaning": {
-          "english": "cheap yen"
+          "english": "cheap yen",
+          "en": "cheap yen",
+          "vi": "đồng yên yếu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "円満な（えんまんな）",
         "meaning": {
-          "english": "peaceful"
+          "english": "peaceful",
+          "en": "peaceful",
+          "vi": "yên bình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "円滑な（えんかつな）",
         "meaning": {
-          "english": "smooth"
+          "english": "smooth",
+          "en": "smooth",
+          "vi": "trơn tru"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "円い（まるい）",
         "meaning": {
-          "english": "round"
+          "english": "round",
+          "en": "round",
+          "vi": "tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/en-maru_06_f.opus",
@@ -228,7 +243,9 @@
     "kanji": {
       "character": "円",
       "meaning": {
-        "english": "circle, yen"
+        "english": "circle, yen",
+        "en": "circle, yen",
+        "vi": "hình tròn, yên"
       },
       "strokes": {
         "count": 4,
@@ -274,7 +291,9 @@
         "romaji": "keigamae"
       },
       "meaning": {
-        "english": "to enclose"
+        "english": "to enclose",
+        "en": "to enclose",
+        "vi": "bao quanh"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/keigamae0.svg",
@@ -295,7 +314,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "69",
     "strokeCount": 4,
-    "meaning": "circle, yen, round",
+    "meaning": {
+      "en": "circle, yen, round",
+      "vi": "hình tròn, yên, tròn"
+    },
     "kunyomi": [
       "まる.い",
       "まる",
@@ -311,7 +333,8 @@
         "example": "円",
         "reading": "エン",
         "meaning": {
-          "vi": "yen (Japanese monetary unit), circle"
+          "vi": "yen (Japanese monetary unit), circle",
+          "en": "yen (Japanese monetary unit), circle"
         },
         "romaji": "en"
       },
@@ -319,7 +342,8 @@
         "example": "円滑",
         "reading": "エンカツ",
         "meaning": {
-          "vi": "smooth, undisturbed, uninterrupted, harmonious"
+          "vi": "smooth, undisturbed, uninterrupted, harmonious",
+          "en": "smooth, undisturbed, uninterrupted, harmonious"
         },
         "romaji": "enkatsu"
       },
@@ -327,7 +351,8 @@
         "example": "楕円",
         "reading": "ダエン",
         "meaning": {
-          "vi": "ellipse, oval"
+          "vi": "ellipse, oval",
+          "en": "ellipse, oval"
         },
         "romaji": "daen"
       },
@@ -335,7 +360,8 @@
         "example": "同心円",
         "reading": "ドウシンエン",
         "meaning": {
-          "en": "concentric circles"
+          "en": "concentric circles",
+          "vi": "các vòng tròn đồng tâm"
         },
         "romaji": "doushin'en"
       }
@@ -345,7 +371,8 @@
         "example": "丸い",
         "reading": "まるい",
         "meaning": {
-          "vi": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
+          "vi": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable",
+          "en": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
         },
         "romaji": "marui"
       },
@@ -353,7 +380,8 @@
         "example": "丸",
         "reading": "まる",
         "meaning": {
-          "vi": "circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc."
+          "vi": "circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc.",
+          "en": "circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc."
         },
         "romaji": "maru"
       },
@@ -361,7 +389,8 @@
         "example": "丸い",
         "reading": "まるい",
         "meaning": {
-          "vi": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
+          "vi": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable",
+          "en": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
         },
         "romaji": "marui"
       },
@@ -369,7 +398,8 @@
         "example": "黒円",
         "reading": "くろまる",
         "meaning": {
-          "vi": "black spot, black dot, bull's-eye, middle dot, interpunct"
+          "vi": "black spot, black dot, bull's-eye, middle dot, interpunct",
+          "en": "black spot, black dot, bull's-eye, middle dot, interpunct"
         },
         "romaji": "kuromaru"
       },
@@ -377,7 +407,8 @@
         "example": "円居",
         "reading": "まどい",
         "meaning": {
-          "vi": "sitting in a circle, pleasant gathering"
+          "vi": "sitting in a circle, pleasant gathering",
+          "en": "sitting in a circle, pleasant gathering"
         },
         "romaji": "madoi"
       },
@@ -385,7 +416,8 @@
         "example": "円か",
         "reading": "まどか",
         "meaning": {
-          "en": "round, tranquil, contentedly at ease"
+          "en": "round, tranquil, contentedly at ease",
+          "vi": "tròn, yên ả, thư thái mãn nguyện"
         },
         "romaji": "madoka"
       },
@@ -393,7 +425,8 @@
         "example": "円か",
         "reading": "まどか",
         "meaning": {
-          "en": "round, tranquil, contentedly at ease"
+          "en": "round, tranquil, contentedly at ease",
+          "vi": "tròn, yên ả, thư thái mãn nguyện"
         },
         "romaji": "madoka"
       },
@@ -401,14 +434,18 @@
         "example": "円やか",
         "reading": "まろやか",
         "meaning": {
-          "vi": "round, circular, spherical, mellow (flavour, voice, etc.), mild, smooth"
+          "vi": "round, circular, spherical, mellow (flavour, voice, etc.), mild, smooth",
+          "en": "round, circular, spherical, mellow (flavour, voice, etc.), mild, smooth"
         },
         "romaji": "maroyaka"
       }
     ],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [
       "一",
@@ -423,5 +460,7 @@
   },
   "hanViet": [
     "viên"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: hình bao tròn như đồng xu yên của Nhật."
 }

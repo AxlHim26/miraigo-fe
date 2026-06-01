@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2404",
     "strokeCount": 7,
-    "meaning": "however, but",
+    "meaning": {
+      "en": "however, but",
+      "vi": "tuy nhiên, nhưng"
+    },
     "kunyomi": [
       "ただ.し"
     ],
@@ -21,6 +24,7 @@
         "example": "但し",
         "reading": "ただし",
         "meaning": {
+          "en": "but, however, provided that",
           "vi": "but, however, provided that"
         },
         "romaji": "tadashi"
@@ -29,6 +33,7 @@
         "example": "但し書き",
         "reading": "ただしがき",
         "meaning": {
+          "en": "proviso",
           "vi": "proviso"
         },
         "romaji": "tadashigaki"
@@ -39,7 +44,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

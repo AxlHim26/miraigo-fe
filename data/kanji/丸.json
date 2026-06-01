@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 5,
     "kunyomi": "maru, marui, marumeru",
-    "meaning": "round, suffix for names of ships/people",
+    "meaning": {
+      "en": "round, suffix for names of ships/people",
+      "vi": "tròn, hậu tố cho tên tàu/người"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "丸薬（がんやく）",
         "meaning": {
-          "english": "pill"
+          "english": "pill",
+          "en": "pill",
+          "vi": "viên thuốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_a.opus",
@@ -28,7 +33,9 @@
       {
         "japanese": "弾丸（だんがん）",
         "meaning": {
-          "english": "bullet"
+          "english": "bullet",
+          "en": "bullet",
+          "vi": "viên đạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_b.opus",
@@ -43,7 +50,9 @@
       {
         "japanese": "一丸（いちがん）",
         "meaning": {
-          "english": "one lump"
+          "english": "one lump",
+          "en": "one lump",
+          "vi": "một cục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_c.opus",
@@ -58,7 +67,9 @@
       {
         "japanese": "丸い（まるい）",
         "meaning": {
-          "english": "round, spherical"
+          "english": "round, spherical",
+          "en": "round, spherical",
+          "vi": "tròn, hình cầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_d.opus",
@@ -73,7 +84,9 @@
       {
         "japanese": "丸顔（まるがお）",
         "meaning": {
-          "english": "round face"
+          "english": "round face",
+          "en": "round face",
+          "vi": "mặt tròn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_e.opus",
@@ -88,7 +101,9 @@
       {
         "japanese": "丸っきり（まるっきり）",
         "meaning": {
-          "english": "completely, just as if"
+          "english": "completely, just as if",
+          "en": "completely, just as if",
+          "vi": "hoàn toàn, giống như thể"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_f.opus",
@@ -103,7 +118,9 @@
       {
         "japanese": "丸める（まるめる）",
         "meaning": {
-          "english": "round off, roll up, cajole [v.t.]"
+          "english": "round off, roll up, cajole [v.t.]",
+          "en": "round off, roll up, cajole [v.t.]",
+          "vi": "làm tròn, cuộn lại, dỗ dành [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_g.opus",
@@ -118,7 +135,9 @@
       {
         "japanese": "丸まる（まるまる）",
         "meaning": {
-          "english": "roll up, be rounded off [v.i.]"
+          "english": "roll up, be rounded off [v.i.]",
+          "en": "roll up, be rounded off [v.i.]",
+          "vi": "cuộn lại, làm tròn [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_h.opus",
@@ -133,7 +152,9 @@
       {
         "japanese": "日の丸（ひのまる）",
         "meaning": {
-          "english": "the Japanese flag"
+          "english": "the Japanese flag",
+          "en": "the Japanese flag",
+          "vi": "lá cờ nhật bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_i.opus",
@@ -148,7 +169,9 @@
       {
         "japanese": "日本丸（にほんまる）",
         "meaning": {
-          "english": "Nihonmaru (name of a ship)"
+          "english": "Nihonmaru (name of a ship)",
+          "en": "Nihonmaru (name of a ship)",
+          "vi": "nihonmaru (tên một con tàu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_j.opus",
@@ -163,7 +186,9 @@
       {
         "japanese": "牛若丸（うしわかまる）",
         "meaning": {
-          "english": "Ushiwakamaru (name of a boy)"
+          "english": "Ushiwakamaru (name of a boy)",
+          "en": "Ushiwakamaru (name of a boy)",
+          "vi": "ushiwakamaru (tên con trai)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/maru(meru)_06_k.opus",
@@ -294,7 +319,9 @@
     "kanji": {
       "character": "丸",
       "meaning": {
-        "english": "round, suffix for names of ships/people"
+        "english": "round, suffix for names of ships/people",
+        "en": "round, suffix for names of ships/people",
+        "vi": "tròn, hậu tố cho tên tàu/người"
       },
       "strokes": {
         "count": 3,
@@ -338,7 +365,9 @@
         "romaji": "ten"
       },
       "meaning": {
-        "english": "dot"
+        "english": "dot",
+        "en": "dot",
+        "vi": "dấu chấm"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ten0.svg",
@@ -359,7 +388,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "542",
     "strokeCount": 3,
-    "meaning": "round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",
+    "meaning": {
+      "en": "round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away",
+      "vi": "tròn, trăng tròn, sự hoàn hảo, hậu tố tên tàu, viên thuốc, làm tròn, cuộn lại, co lại, quyến dụ, nói giảm đi"
+    },
     "kunyomi": [
       "まる",
       "まる.める",
@@ -373,7 +405,8 @@
         "example": "丸",
         "reading": "ガン",
         "meaning": {
-          "vi": "fishball, meatball, pill"
+          "vi": "fishball, meatball, pill",
+          "en": "fishball, meatball, pill"
         },
         "meaningVN": "cá viên, thịt viên, viên thuốc",
         "hanViet": "hoàn",
@@ -384,7 +417,8 @@
         "example": "丸剤",
         "reading": "ガンザイ",
         "meaning": {
-          "vi": "pill"
+          "vi": "pill",
+          "en": "pill"
         },
         "meaningVN": "viên thuốc",
         "hanViet": "hoàn tễ",
@@ -395,7 +429,8 @@
         "example": "一丸",
         "reading": "イチガン",
         "meaning": {
-          "vi": "one lump, one body, one group"
+          "vi": "one lump, one body, one group",
+          "en": "one lump, one body, one group"
         },
         "meaningVN": "một khối, một cơ thể, một nhóm",
         "hanViet": "nhất hoàn",
@@ -406,7 +441,8 @@
         "example": "雷丸",
         "reading": "ライガン",
         "meaning": {
-          "vi": "raigan (Omphalia lapidescens), parasitic fungus which grows on bamboo, used in Chinese medicine"
+          "vi": "raigan (Omphalia lapidescens), parasitic fungus which grows on bamboo, used in Chinese medicine",
+          "en": "raigan (Omphalia lapidescens), parasitic fungus which grows on bamboo, used in Chinese medicine"
         },
         "meaningVN": "raigan (omphalia lapidescens), loại nấm ký sinh mọc trên tre, được sử dụng trong y học trung quốc",
         "hanViet": "lôi hoàn",
@@ -419,7 +455,8 @@
         "example": "丸",
         "reading": "まる",
         "meaning": {
-          "vi": "circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc."
+          "vi": "circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc.",
+          "en": "circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc."
         },
         "meaningVN": "hình tròn, toàn bộ, toàn bộ, đầy đủ, hoàn chỉnh, tiền, bột, moola, bao vây bên trong tường lâu đài, rùa mai mềm, hậu tố cho tên tàu, hậu tố cho tên người (đặc biệt là trẻ sơ sinh), hậu tố cho tên kiếm, áo giáp, nhạc cụ, v.v., hậu tố cho tên chó, ngựa, v.v.",
         "hanViet": "hoàn",
@@ -430,7 +467,8 @@
         "example": "丸い",
         "reading": "まるい",
         "meaning": {
-          "vi": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
+          "vi": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable",
+          "en": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
         },
         "meaningVN": "tròn, hình tròn, hình cầu, cong, nhẵn, hài hòa, điềm tĩnh, yên bình, dễ mến, thân thiện",
         "hanViet": "hoàn い",
@@ -441,7 +479,8 @@
         "example": "本丸",
         "reading": "ほんまる",
         "meaning": {
-          "en": "inner citadel, core, center, centre, focus, crux"
+          "en": "inner citadel, core, center, centre, focus, crux",
+          "vi": "thành nội, cốt lõi, trung tâm, trung tâm, tiêu điểm, mấu chốt"
         },
         "meaningVN": "thành nội, cốt lõi, trung tâm, trung tâm, tiêu điểm, mấu chốt",
         "hanViet": "bôn hoàn",
@@ -452,7 +491,8 @@
         "example": "大丸",
         "reading": "だいまる",
         "meaning": {
-          "vi": "Daimaru, Daimaru (Japanese department store chain)"
+          "vi": "Daimaru, Daimaru (Japanese department store chain)",
+          "en": "Daimaru, Daimaru (Japanese department store chain)"
         },
         "meaningVN": "daimaru, daimaru (chuỗi cửa hàng bách hóa nhật bản)",
         "hanViet": "thái hoàn",
@@ -463,7 +503,8 @@
         "example": "丸める",
         "reading": "まるめる",
         "meaning": {
-          "vi": "to make round, to roll up, to curl up, to seduce, to cajole, to explain away, to round off (a fraction), to shave (one's head), to lump together"
+          "vi": "to make round, to roll up, to curl up, to seduce, to cajole, to explain away, to round off (a fraction), to shave (one's head), to lump together",
+          "en": "to make round, to roll up, to curl up, to seduce, to cajole, to explain away, to round off (a fraction), to shave (one's head), to lump together"
         },
         "meaningVN": "làm tròn, cuộn lại, cuộn tròn, dụ dỗ, dỗ dành, giải thích, làm tròn (một phần), cạo (đầu), gộp lại với nhau",
         "hanViet": "hoàn め る",
@@ -474,7 +515,8 @@
         "example": "丸い",
         "reading": "まるい",
         "meaning": {
-          "vi": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
+          "vi": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable",
+          "en": "round, circular, spherical, curved, smooth, harmonious, calm, peaceful, amiable, amicable"
         },
         "meaningVN": "tròn, hình tròn, hình cầu, cong, nhẵn, hài hòa, điềm tĩnh, yên bình, dễ mến, thân thiện",
         "hanViet": "hoàn い",
@@ -485,7 +527,8 @@
         "example": "丸井",
         "reading": "まるい",
         "meaning": {
-          "en": "Marui, Marui (retailer)"
+          "en": "Marui, Marui (retailer)",
+          "vi": "marui, marui (nhà bán lẻ)"
         },
         "meaningVN": "marui, marui (nhà bán lẻ)",
         "hanViet": "hoàn tĩnh",
@@ -495,7 +538,10 @@
     ],
     "radical": {
       "symbol": "丶",
-      "meaning": "dot"
+      "meaning": {
+        "en": "dot",
+        "vi": "dấu chấm"
+      }
     },
     "parts": [
       "丶",

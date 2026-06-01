@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1800",
     "strokeCount": 13,
-    "meaning": "clod, lump, chunk, clot, mass",
+    "meaning": {
+      "en": "clod, lump, chunk, clot, mass",
+      "vi": "cục, khối, mảng, đám"
+    },
     "kunyomi": [
       "かたまり",
       "つちくれ"
@@ -22,7 +25,8 @@
         "example": "塊茎",
         "reading": "カイケイ",
         "meaning": {
-          "en": "tuber"
+          "en": "tuber",
+          "vi": "củ"
         },
         "romaji": "kaikei"
       },
@@ -30,7 +34,8 @@
         "example": "塊鉱",
         "reading": "カイコウ",
         "meaning": {
-          "vi": "lump ore"
+          "vi": "lump ore",
+          "en": "lump ore"
         },
         "romaji": "kaikou"
       },
@@ -38,7 +43,8 @@
         "example": "団塊",
         "reading": "ダンカイ",
         "meaning": {
-          "vi": "mass, lump, clod, clump, nodule, baby boom generation (of 1947-1949), babyboomer (born between 1947-1949)"
+          "vi": "mass, lump, clod, clump, nodule, baby boom generation (of 1947-1949), babyboomer (born between 1947-1949)",
+          "en": "mass, lump, clod, clump, nodule, baby boom generation (of 1947-1949), babyboomer (born between 1947-1949)"
         },
         "romaji": "dankai"
       },
@@ -46,7 +52,8 @@
         "example": "山塊",
         "reading": "サンカイ",
         "meaning": {
-          "en": "mountain mass, massif"
+          "en": "mountain mass, massif",
+          "vi": "khối núi"
         },
         "romaji": "sankai"
       }
@@ -56,7 +63,8 @@
         "example": "塊",
         "reading": "かたまり",
         "meaning": {
-          "vi": "lump, mass, bundle, clump, clod, cluster, group, crowd, embodiment (of an idea, quality, feeling etc.), personification"
+          "vi": "lump, mass, bundle, clump, clod, cluster, group, crowd, embodiment (of an idea, quality, feeling etc.), personification",
+          "en": "lump, mass, bundle, clump, clod, cluster, group, crowd, embodiment (of an idea, quality, feeling etc.), personification"
         },
         "romaji": "katamari"
       },
@@ -64,7 +72,8 @@
         "example": "塊魂",
         "reading": "かたまりだましい",
         "meaning": {
-          "en": "Katamari Damacy (2004 video game)"
+          "en": "Katamari Damacy (2004 video game)",
+          "vi": "Katamari Damacy, trò chơi điện tử năm 2004"
         },
         "romaji": "katamaridamashii"
       },
@@ -72,7 +81,8 @@
         "example": "一塊",
         "reading": "いっかい",
         "meaning": {
-          "vi": "one lump, one group"
+          "vi": "one lump, one group",
+          "en": "one lump, one group"
         },
         "romaji": "ikkai"
       },
@@ -80,14 +90,18 @@
         "example": "拝金主義の塊",
         "reading": "はいきんしゅぎのかたまり",
         "meaning": {
-          "vi": "money-worshiper"
+          "vi": "money-worshiper",
+          "en": "money-worshiper"
         },
         "romaji": "haikinshuginokatamari"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "儿",
@@ -102,6 +116,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/584a.gif",
     "uri": "https://jisho.org/search/%E5%A1%8A%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là đất, 鬼 như một khối gồ lên kỳ quặc, nhìn như cục đất vón lại.",
   "hanViet": [
     "khối"
   ]

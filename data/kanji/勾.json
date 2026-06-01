@@ -6,7 +6,10 @@
     "found": true,
     "taughtIn": "junior high",
     "strokeCount": 4,
-    "meaning": "be bent, slope, capture",
+    "meaning": {
+      "en": "be bent, slope, capture",
+      "vi": "uốn cong, độ dốc, bắt giữ"
+    },
     "kunyomi": [
       "かぎ",
       "ま.がる"
@@ -20,7 +23,8 @@
         "example": "勾配",
         "reading": "コウバイ",
         "meaning": {
-          "vi": "slope, incline, gradient, grade, pitch, slope (of a linear function), gradient (vector calculus)"
+          "vi": "độ dốc, dốc nghiêng, gradient, độ nghiêng, hệ số góc, độ dốc của hàm bậc nhất, gradient trong giải tích",
+          "en": "slope, incline, gradient, grade, pitch, slope (of a linear function), gradient (vector calculus)"
         },
         "romaji": "koubai"
       },
@@ -28,7 +32,8 @@
         "example": "勾引",
         "reading": "コウイン",
         "meaning": {
-          "vi": "arrest, custody, apprehending, abduction"
+          "vi": "bắt giữ, tạm giam, khống chế, bắt cóc",
+          "en": "arrest, custody, apprehending, abduction"
         },
         "romaji": "kouin"
       }
@@ -36,7 +41,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "勹",
-      "meaning": "wrap, embrace"
+      "meaning": {
+        "en": "wrap, embrace",
+        "vi": "bao bọc, ôm lấy"
+      }
     },
     "parts": [
       "勹",
@@ -50,5 +58,7 @@
   "hanViet": [
     "câu",
     "cấu"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Nét cong như cái móc câu nên 勾 gợi ý nghĩa cong, câu, móc lại."
 }

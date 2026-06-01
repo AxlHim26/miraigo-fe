@@ -5,7 +5,10 @@
     "query": "倦",
     "found": true,
     "strokeCount": 11,
-    "meaning": "lose interest in, tire of",
+    "meaning": {
+      "en": "lose interest in, tire of",
+      "vi": "mất hứng thú với, chán ngấy"
+    },
     "kunyomi": [
       "あき.る",
       "あぐ.む",
@@ -21,7 +24,8 @@
         "example": "倦怠",
         "reading": "ケンタイ",
         "meaning": {
-          "en": "weariness, fatigue, languor, boredom, tedium, ennui"
+          "en": "weariness, fatigue, languor, boredom, tedium, ennui",
+          "vi": "sự mệt mỏi, uể oải, chán chường, buồn tẻ, nỗi chán ngán"
         },
         "romaji": "kentai"
       },
@@ -29,7 +33,8 @@
         "example": "倦厭",
         "reading": "ケンエン",
         "meaning": {
-          "en": "weariness"
+          "en": "weariness",
+          "vi": "sự mệt mỏi"
         },
         "romaji": "ken'en"
       }
@@ -39,7 +44,8 @@
         "example": "飽きる",
         "reading": "あきる",
         "meaning": {
-          "vi": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to become sated, to become satiated, to have one's fill"
+          "vi": "chán, mệt vì, mất hứng thú với, dần thấy mỏi mệt vì, phát ngán, quá chán, trở nên buồn chán, trở nên no nê, thấy quá đủ",
+          "en": "to get tired of, to tire of, to lose interest in, to grow weary of, to get fed up with, to get sick of, to become bored with, to become sated, to become satiated, to have one's fill"
         },
         "romaji": "akiru"
       },
@@ -47,7 +53,8 @@
         "example": "倦む",
         "reading": "あぐむ",
         "meaning": {
-          "en": "to get tired of (doing), to lose interest in"
+          "en": "to get tired of (doing), to lose interest in",
+          "vi": "chán việc làm gì đó, mất hứng thú với"
         },
         "romaji": "agumu"
       },
@@ -55,7 +62,8 @@
         "example": "倦ねる",
         "reading": "あぐねる",
         "meaning": {
-          "en": "to tire of, to lose interest in, to be too much for one, to find unmanageable, to be beyond one's control, to not know what to do with"
+          "en": "to tire of, to lose interest in, to be too much for one, to find unmanageable, to be beyond one's control, to not know what to do with",
+          "vi": "chán, mất hứng thú, trở nên quá sức với ai đó, thấy không xử lý nổi, vượt ngoài tầm kiểm soát, không biết phải làm sao"
         },
         "romaji": "aguneru"
       },
@@ -63,7 +71,8 @@
         "example": "倦む",
         "reading": "あぐむ",
         "meaning": {
-          "en": "to get tired of (doing), to lose interest in"
+          "en": "to get tired of (doing), to lose interest in",
+          "vi": "chán việc làm gì đó, mất hứng thú với"
         },
         "romaji": "agumu"
       }
@@ -73,7 +82,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

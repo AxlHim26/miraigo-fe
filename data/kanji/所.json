@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "tokoro",
-    "meaning": "place",
+    "meaning": {
+      "en": "place",
+      "vi": "nơi chốn"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "場所（ばしょ）",
         "meaning": {
-          "english": "place"
+          "english": "place",
+          "en": "place",
+          "vi": "nơi chốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "住所（じゅうしょ）",
         "meaning": {
-          "english": "address"
+          "english": "address",
+          "en": "address",
+          "vi": "địa chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "近所（きんじょ）",
         "meaning": {
-          "english": "neighborhood"
+          "english": "neighborhood",
+          "en": "neighborhood",
+          "vi": "khu lân cận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "役所（やくしょ）",
         "meaning": {
-          "english": "public office"
+          "english": "public office",
+          "en": "public office",
+          "vi": "công sở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "名所（めいしょ）",
         "meaning": {
-          "english": "famous place"
+          "english": "famous place",
+          "en": "famous place",
+          "vi": "danh lam, nơi nổi tiếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "研究所（けんきゅうじょ）",
         "meaning": {
-          "english": "research institute"
+          "english": "research institute",
+          "en": "research institute",
+          "vi": "viện nghiên cứu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "停留所（ていりゅうじょ）",
         "meaning": {
-          "english": "bus stop"
+          "english": "bus stop",
+          "en": "bus stop",
+          "vi": "trạm xe buýt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "所有する（しょゆうする）",
         "meaning": {
-          "english": "possess"
+          "english": "possess",
+          "en": "possess",
+          "vi": "sở hữu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "所（ところ）",
         "meaning": {
-          "english": "place"
+          "english": "place",
+          "en": "place",
+          "vi": "nơi chốn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "台所（だいどころ）",
         "meaning": {
-          "english": "kitchen"
+          "english": "kitchen",
+          "en": "kitchen",
+          "vi": "nhà bếp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "居所（いどころ）",
         "meaning": {
-          "english": "whereabouts"
+          "english": "whereabouts",
+          "en": "whereabouts",
+          "vi": "tung tích, nơi ở"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ba)sho_06_k.opus",
@@ -282,7 +307,9 @@
     "kanji": {
       "character": "所",
       "meaning": {
-        "english": "place"
+        "english": "place",
+        "en": "place",
+        "vi": "nơi chốn"
       },
       "strokes": {
         "count": 8,
@@ -336,7 +363,9 @@
         "romaji": "todare"
       },
       "meaning": {
-        "english": "door"
+        "english": "door",
+        "en": "door",
+        "vi": "cửa"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/todare0.svg",
@@ -357,7 +386,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "221",
     "strokeCount": 8,
-    "meaning": "place, extent",
+    "meaning": {
+      "en": "place, extent",
+      "vi": "nơi chốn, phạm vi"
+    },
     "kunyomi": [
       "ところ",
       "-ところ",
@@ -372,7 +404,8 @@
         "example": "所",
         "reading": "ショ",
         "meaning": {
-          "vi": "counter for places"
+          "vi": "từ đếm cho địa điểm",
+          "en": "counter for places"
         },
         "romaji": "sho"
       },
@@ -380,7 +413,8 @@
         "example": "署員",
         "reading": "ショイン",
         "meaning": {
-          "vi": "staff member, station employee, official"
+          "vi": "nhân viên, nhân viên nhà ga, viên chức",
+          "en": "staff member, station employee, official"
         },
         "romaji": "shoin"
       },
@@ -388,7 +422,8 @@
         "example": "高所",
         "reading": "コウショ",
         "meaning": {
-          "vi": "high place, high ground, height, (high) altitude, elevation, broad (point of) view"
+          "vi": "chỗ cao, vùng đất cao, độ cao, tầm nhìn rộng",
+          "en": "high place, high ground, height, (high) altitude, elevation, broad (point of) view"
         },
         "romaji": "kousho"
       },
@@ -396,7 +431,8 @@
         "example": "随所",
         "reading": "ズイショ",
         "meaning": {
-          "vi": "everywhere, all over the place, here and there, at every turn"
+          "vi": "khắp nơi, chỗ nào cũng có, đây đó, mọi ngả",
+          "en": "everywhere, all over the place, here and there, at every turn"
         },
         "romaji": "zuisho"
       }
@@ -406,7 +442,8 @@
         "example": "所",
         "reading": "ところ",
         "meaning": {
-          "vi": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+          "vi": "nơi chốn, địa điểm, hiện trường, địa chỉ, khu vực, địa phương, nhà riêng, khía cạnh, đoạn văn, phần, không gian, phòng, sự việc, kết quả là, sắp, vừa mới, khoảng chừng",
+          "en": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
         },
         "romaji": "tokoro"
       },
@@ -414,7 +451,8 @@
         "example": "所で",
         "reading": "ところで",
         "meaning": {
-          "en": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.)"
+          "en": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.)",
+          "vi": "nhân tiện, tiện thể, này, dù cho, bất kể là gì hay ở đâu"
         },
         "romaji": "tokorode"
       },
@@ -422,7 +460,8 @@
         "example": "一所",
         "reading": "いっしょ",
         "meaning": {
-          "vi": "one place, the same place, one person, together"
+          "vi": "một chỗ, cùng một nơi, một người, cùng nhau",
+          "en": "one place, the same place, one person, together"
         },
         "romaji": "issho"
       },
@@ -430,7 +469,8 @@
         "example": "痛いところ",
         "reading": "いたいところ",
         "meaning": {
-          "vi": "one's weak point, one's sore spot, raw nerve"
+          "vi": "điểm yếu, chỗ đau, chỗ nhạy cảm",
+          "en": "one's weak point, one's sore spot, raw nerve"
         },
         "romaji": "itaitokoro"
       },
@@ -438,7 +478,8 @@
         "example": "所か",
         "reading": "どころか",
         "meaning": {
-          "en": "far from, anything but, not at all ... but rather ..., not ..., on the contrary, ..., instead of, rather than, let alone, to say nothing of, not to mention, much less, not only ... (but also ...)"
+          "en": "far from, anything but, not at all ... but rather ..., not ..., on the contrary, ..., instead of, rather than, let alone, to say nothing of, not to mention, much less, not only ... (but also ...)",
+          "vi": "không hề, trái lại, thay vì, huống chi, chưa nói đến, không chỉ mà còn"
         },
         "romaji": "dokoroka"
       },
@@ -446,7 +487,8 @@
         "example": "所じゃない",
         "reading": "どころじゃない",
         "meaning": {
-          "vi": "not the time for, not the place for, far from, anything but, ... is out of the question, ... isn't the word for it"
+          "vi": "không đúng lúc, không đúng chỗ, hoàn toàn không phải, điều đó khỏi phải nói tới",
+          "en": "not the time for, not the place for, far from, anything but, ... is out of the question, ... isn't the word for it"
         },
         "romaji": "dokorojanai"
       },
@@ -454,7 +496,8 @@
         "example": "大所",
         "reading": "おおどころ",
         "meaning": {
-          "vi": "wealthy family, important person, bigwig"
+          "vi": "nhà giàu, nhân vật quan trọng, tai to mặt lớn",
+          "en": "wealthy family, important person, bigwig"
         },
         "romaji": "oodokoro"
       },
@@ -462,7 +505,8 @@
         "example": "居所",
         "reading": "いどころ",
         "meaning": {
-          "vi": "whereabouts, address, place of temporary residence"
+          "vi": "nơi ở, địa chỉ, chỗ cư trú tạm",
+          "en": "whereabouts, address, place of temporary residence"
         },
         "romaji": "idokoro"
       },
@@ -470,7 +514,8 @@
         "example": "所",
         "reading": "ところ",
         "meaning": {
-          "vi": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
+          "vi": "nơi chốn, địa điểm, hiện trường, địa chỉ, khu vực, địa phương, nhà riêng, khía cạnh, đoạn văn, phần, không gian, phòng, sự việc, kết quả là, sắp, vừa mới, khoảng chừng",
+          "en": "place, spot, scene, site, address, district, area, locality, one's house, point, aspect, side, facet, passage (in text), part, space, room, thing, matter, whereupon, as a result, about to, on the verge of, was just doing, was in the process of doing, have just done, just finished doing, approximately, around, about"
         },
         "romaji": "tokoro"
       },
@@ -478,7 +523,8 @@
         "example": "所で",
         "reading": "ところで",
         "meaning": {
-          "en": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.)"
+          "en": "by the way, incidentally, well, now, even if, no matter (what, where, how, etc.)",
+          "vi": "nhân tiện, tiện thể, này, dù cho, bất kể là gì hay ở đâu"
         },
         "romaji": "tokorode"
       },
@@ -486,7 +532,8 @@
         "example": "早いとこ",
         "reading": "はやいとこ",
         "meaning": {
-          "vi": "promptly, quickly"
+          "vi": "ngay lập tức, nhanh chóng",
+          "en": "promptly, quickly"
         },
         "romaji": "hayaitoko"
       },
@@ -494,7 +541,8 @@
         "example": "僕んとこ",
         "reading": "ぼくんとこ",
         "meaning": {
-          "vi": "at my place"
+          "vi": "ở chỗ tôi",
+          "en": "at my place"
         },
         "romaji": "bokuntoko"
       }
@@ -505,7 +553,10 @@
         "户",
         "戸"
       ],
-      "meaning": "door, house"
+      "meaning": {
+        "en": "door, house",
+        "vi": "door, house"
+      }
     },
     "parts": [
       "一",
@@ -520,5 +571,7 @@
   },
   "hanViet": [
     "sở"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: Cái rìu 斤 đặt ở một chỗ cố định bên 戶, gợi địa điểm cụ thể, nên 所 là nơi chốn."
 }

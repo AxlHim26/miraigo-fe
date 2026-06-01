@@ -5,7 +5,10 @@
     "query": "些",
     "found": true,
     "strokeCount": 8,
-    "meaning": "a little bit, sometimes",
+    "meaning": {
+      "en": "a little bit, sometimes",
+      "vi": "một chút, đôi khi"
+    },
     "kunyomi": [
       "ち.と",
       "ち.っと",
@@ -20,7 +23,8 @@
         "example": "些細",
         "reading": "ササイ",
         "meaning": {
-          "en": "trivial, trifling, slight, insignificant"
+          "en": "trivial, trifling, slight, insignificant",
+          "vi": "tầm thường, tầm thường, tầm thường, tầm thường"
         },
         "meaningVN": "tầm thường, tầm thường, tầm thường, tầm thường",
         "hanViet": "ta tế",
@@ -31,7 +35,8 @@
         "example": "瑣末",
         "reading": "サマツ",
         "meaning": {
-          "en": "trivial, trifling"
+          "en": "trivial, trifling",
+          "vi": "tầm thường, tầm thường"
         },
         "meaningVN": "tầm thường, tầm thường",
         "hanViet": "toả mạt",
@@ -42,7 +47,8 @@
         "example": "些些",
         "reading": "ササ",
         "meaning": {
-          "en": "trifling, trivial, slight"
+          "en": "trifling, trivial, slight",
+          "vi": "tầm thường, tầm thường, nhẹ nhàng"
         },
         "meaningVN": "tầm thường, tầm thường, nhẹ nhàng",
         "hanViet": "ta ta",
@@ -55,7 +61,8 @@
         "example": "些と",
         "reading": "ちっと",
         "meaning": {
-          "en": "a little bit, a little while"
+          "en": "a little bit, a little while",
+          "vi": "một chút, một chút"
         },
         "meaningVN": "một chút, một chút",
         "hanViet": "ta と",
@@ -66,7 +73,8 @@
         "example": "些と",
         "reading": "ちっと",
         "meaning": {
-          "en": "a little bit, a little while"
+          "en": "a little bit, a little while",
+          "vi": "một chút, một chút"
         },
         "meaningVN": "một chút, một chút",
         "hanViet": "ta と",
@@ -77,7 +85,8 @@
         "example": "些とも",
         "reading": "ちっとも",
         "meaning": {
-          "en": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest"
+          "en": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest",
+          "vi": "(không) chút nào, (không) một chút, (không) chút nào, (không) chút nào"
         },
         "meaningVN": "(không) chút nào, (không) một chút, (không) chút nào, (không) chút nào",
         "hanViet": "ta と も",
@@ -88,7 +97,8 @@
         "example": "些か",
         "reading": "いささか",
         "meaning": {
-          "en": "a little, a bit, somewhat, slightly, rather"
+          "en": "a little, a bit, somewhat, slightly, rather",
+          "vi": "một chút, một chút, hơi, hơi, đúng hơn"
         },
         "meaningVN": "một chút, một chút, hơi, hơi, đúng hơn",
         "hanViet": "ta か",
@@ -98,7 +108,10 @@
     ],
     "radical": {
       "symbol": "二",
-      "meaning": "two"
+      "meaning": {
+        "en": "two",
+        "vi": "hai"
+      }
     },
     "parts": [
       "二",

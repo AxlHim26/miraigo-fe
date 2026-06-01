@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "me, mesu",
-    "meaning": "summon, wear, call",
+    "meaning": {
+      "en": "summon, wear, call",
+      "vi": "trieu goi, mac, goi"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "召集する（しょうしゅうする）",
         "meaning": {
-          "english": "call together, muster"
+          "english": "call together, muster",
+          "en": "call together, muster",
+          "vi": "tap hop, trieu tap"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/me(su)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "召還する（しょうかんする）",
         "meaning": {
-          "english": "recall, call someone back"
+          "english": "recall, call someone back",
+          "en": "recall, call someone back",
+          "vi": "goi quay lai, trieu hoi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/me(su)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "応召する（おうしょうする）",
         "meaning": {
-          "english": "be drafted, be enlisted"
+          "english": "be drafted, be enlisted",
+          "en": "be drafted, be enlisted",
+          "vi": "bi trieu tap, bi tòng quan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/me(su)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "召す（めす）",
         "meaning": {
-          "english": "call, wear, eat, drink [hon.]"
+          "english": "call, wear, eat, drink [hon.]",
+          "en": "call, wear, eat, drink [hon.]",
+          "vi": "goi, mac, an, uong (kinh ngu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/me(su)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "召し使い（めしつかい）",
         "meaning": {
-          "english": "servant"
+          "english": "servant",
+          "en": "servant",
+          "vi": "nguoi hau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/me(su)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "召し上がる（めしあがる）",
         "meaning": {
-          "english": "eat, drink [hon.]"
+          "english": "eat, drink [hon.]",
+          "en": "eat, drink [hon.]",
+          "vi": "an, uong (kinh ngu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/me(su)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "お召し物（おめしもの）",
         "meaning": {
-          "english": "clothing [hon.]"
+          "english": "clothing [hon.]",
+          "en": "clothing [hon.]",
+          "vi": "y phuc (kinh ngu)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/me(su)_06_g.opus",
@@ -176,7 +193,9 @@
     "kanji": {
       "character": "召",
       "meaning": {
-        "english": "summon, wear, call"
+        "english": "summon, wear, call",
+        "en": "summon, wear, call",
+        "vi": "trieu goi, mac, goi"
       },
       "strokes": {
         "count": 5,
@@ -224,7 +243,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "mieng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -245,7 +266,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1540",
     "strokeCount": 5,
-    "meaning": "seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)",
+    "meaning": {
+      "en": "seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)",
+      "vi": "quyen ru, goi, trieu den, mac, mang vao, di xe, mua, an, uong, cam lanh"
+    },
     "kunyomi": [
       "め.す"
     ],
@@ -257,7 +281,8 @@
         "example": "招請",
         "reading": "ショウセイ",
         "meaning": {
-          "en": "invitation"
+          "en": "invitation",
+          "vi": "loi moi"
         },
         "romaji": "shousei"
       },
@@ -265,7 +290,8 @@
         "example": "召集",
         "reading": "ショウシュウ",
         "meaning": {
-          "vi": "convening, calling together (e.g. parliament), call-up (for military service)"
+          "vi": "trieu tap, hop trieu tap nhu quoc hoi, lenh goi nhap ngu",
+          "en": "convening, calling together (e.g. parliament), call-up (for military service)"
         },
         "romaji": "shoushuu"
       }
@@ -275,14 +301,18 @@
         "example": "召す",
         "reading": "めす",
         "meaning": {
-          "vi": "to call, to summon, to send for, to invite, to eat, to drink, to put on, to wear, to buy, to purchase, to take (a bath), to ride, to get in (a vehicle), to take, to catch (a cold), to put on (years), to get old, to strike one's fancy, to please one, to do, to commit seppuku, indicates respect"
+          "vi": "goi, trieu, sai moi den, moi, an, uong, mac, mang, mua, tam, di xe, len xe, lay, cam lanh, them tuoi, gia di, hop y, lam vua long, lam, mo bung tu sat, bieu thi kinh ngu",
+          "en": "to call, to summon, to send for, to invite, to eat, to drink, to put on, to wear, to buy, to purchase, to take (a bath), to ride, to get in (a vehicle), to take, to catch (a cold), to put on (years), to get old, to strike one's fancy, to please one, to do, to commit seppuku, indicates respect"
         },
         "romaji": "mesu"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "mieng, lo mo"
+      }
     },
     "parts": [
       "刀",
@@ -297,5 +327,7 @@
     "chiêu",
     "thiệu",
     "triệu"
-  ]
+  ],
+  "jlpt_level": "N2",
+  "mnemonic_vi": "Miệng nhận lệnh gọi từ phía trên, nhớ là triệu gọi."
 }

@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "kimi",
-    "meaning": "ruler, familiar title, you",
+    "meaning": {
+      "en": "ruler, familiar title, you",
+      "vi": "quân chủ, cách gọi thân mật, bạn"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "君主（くんしゅ）",
         "meaning": {
-          "english": "monarch"
+          "english": "monarch",
+          "en": "monarch",
+          "vi": "quân vương"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kimi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "暴君（ぼうくん）",
         "meaning": {
-          "english": "tyrant"
+          "english": "tyrant",
+          "en": "tyrant",
+          "vi": "bạo chúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kimi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "田中君（たなかくん）",
         "meaning": {
-          "english": "Tanaka (surname)"
+          "english": "Tanaka (surname)",
+          "en": "Tanaka (surname)",
+          "vi": "Tanaka (họ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kimi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "諸君（しょくん）",
         "meaning": {
-          "english": "Ladies and gentlemen!"
+          "english": "Ladies and gentlemen!",
+          "en": "Ladies and gentlemen!",
+          "vi": "Thưa quý ông quý bà!"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kimi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "君臨する（くんりんする）",
         "meaning": {
-          "english": "reign"
+          "english": "reign",
+          "en": "reign",
+          "vi": "triều đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kimi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "君（きみ）",
         "meaning": {
-          "english": "you"
+          "english": "you",
+          "en": "you",
+          "vi": "bạn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kimi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "君が代（きみがよ）",
         "meaning": {
-          "english": "Japanese national anthem"
+          "english": "Japanese national anthem",
+          "en": "Japanese national anthem",
+          "vi": "quốc ca Nhật Bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kimi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "姫君（ひめぎみ）",
         "meaning": {
-          "english": "princess"
+          "english": "princess",
+          "en": "princess",
+          "vi": "công chúa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kimi_06_h.opus",
@@ -211,7 +230,9 @@
     "kanji": {
       "character": "君",
       "meaning": {
-        "english": "ruler, familiar title, you"
+        "english": "ruler, familiar title, you",
+        "en": "ruler, familiar title, you",
+        "vi": "quân chủ, cách gọi thân mật, bạn"
       },
       "strokes": {
         "count": 7,
@@ -263,7 +284,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -284,7 +307,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "947",
     "strokeCount": 7,
-    "meaning": "mister, you, ruler, male name suffix",
+    "meaning": {
+      "en": "mister, you, ruler, male name suffix",
+      "vi": "ngài, bạn, quân chủ, hậu tố tên nam"
+    },
     "kunyomi": [
       "きみ",
       "-ぎみ"
@@ -297,7 +323,8 @@
         "example": "君",
         "reading": "クン",
         "meaning": {
-          "en": "Mr, master, boy, Ms, miss, sir, madam"
+          "en": "Mr, master, boy, Ms, miss, sir, madam",
+          "vi": "ông, cậu chủ, cậu bé, cô, tiểu thư, ngài, bà"
         },
         "romaji": "kun"
       },
@@ -305,7 +332,8 @@
         "example": "君子",
         "reading": "クンシ",
         "meaning": {
-          "vi": "man of virtue, wise man, (true) gentleman, person of high rank, the four gentlemen (plum, chrysanthemum, orchid, and bamboo)"
+          "vi": "người đức hạnh, hiền nhân, quân tử, người địa vị cao, tứ quân tử",
+          "en": "man of virtue, wise man, (true) gentleman, person of high rank, the four gentlemen (plum, chrysanthemum, orchid, and bamboo)"
         },
         "romaji": "kunshi"
       },
@@ -313,7 +341,8 @@
         "example": "夫君",
         "reading": "フクン",
         "meaning": {
-          "en": "(another's) husband"
+          "en": "(another's) husband",
+          "vi": "chồng (của người khác)"
         },
         "romaji": "fukun"
       },
@@ -321,7 +350,8 @@
         "example": "名君",
         "reading": "メイクン",
         "meaning": {
-          "en": "wise ruler, enlightened monarch, benevolent lord"
+          "en": "wise ruler, enlightened monarch, benevolent lord",
+          "vi": "vua sáng suốt, minh quân, chúa nhân từ"
         },
         "romaji": "meikun"
       }
@@ -331,7 +361,8 @@
         "example": "君",
         "reading": "きみ",
         "meaning": {
-          "vi": "you, buddy, pal, monarch, ruler, sovereign, (one's) master, he, she"
+          "vi": "bạn, anh bạn, quân chủ, vua, chủ nhân, anh ấy, cô ấy",
+          "en": "you, buddy, pal, monarch, ruler, sovereign, (one's) master, he, she"
         },
         "romaji": "kimi"
       },
@@ -339,7 +370,8 @@
         "example": "君が代",
         "reading": "きみがよ",
         "meaning": {
-          "vi": "Imperial reign, Kimigayo (Japanese national anthem)"
+          "vi": "ngự trị của hoàng gia, Kimigayo (quốc ca Nhật Bản)",
+          "en": "Imperial reign, Kimigayo (Japanese national anthem)"
         },
         "romaji": "kimigayo"
       },
@@ -347,7 +379,8 @@
         "example": "大君",
         "reading": "おおきみ",
         "meaning": {
-          "vi": "emperor, prince, princess"
+          "vi": "hoàng đế, hoàng tử, công chúa",
+          "en": "emperor, prince, princess"
         },
         "romaji": "ookimi"
       },
@@ -355,14 +388,18 @@
         "example": "嫁が君",
         "reading": "よめがきみ",
         "meaning": {
-          "en": "mouse"
+          "en": "mouse",
+          "vi": "chuột"
         },
         "romaji": "yomegakimi"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "ノ",
@@ -375,6 +412,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/541b.gif",
     "uri": "https://jisho.org/search/%E5%90%9B%23kanji"
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: người cầm gậy ở trên mở miệng ra lệnh bên dưới, nên 君 là quân chủ, ngài.",
   "hanViet": [
     "quân"
   ]

@@ -5,7 +5,10 @@
     "query": "俚",
     "found": true,
     "strokeCount": 9,
-    "meaning": "rustic, ill mannered",
+    "meaning": {
+      "en": "rustic, ill mannered",
+      "vi": "quê mùa, thô lỗ"
+    },
     "kunyomi": [
       "いや.しい"
     ],
@@ -17,7 +20,8 @@
         "example": "俚言",
         "reading": "リゲン",
         "meaning": {
-          "vi": "dialect, language of the common people, colloquial language, slang"
+          "vi": "phương ngữ, ngôn ngữ của dân thường, khẩu ngữ, tiếng lóng",
+          "en": "dialect, language of the common people, colloquial language, slang"
         },
         "romaji": "rigen"
       },
@@ -25,7 +29,8 @@
         "example": "俚諺",
         "reading": "リゲン",
         "meaning": {
-          "vi": "proverb, saying"
+          "vi": "tục ngữ, thành ngữ",
+          "en": "proverb, saying"
         },
         "romaji": "rigen"
       }
@@ -36,7 +41,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

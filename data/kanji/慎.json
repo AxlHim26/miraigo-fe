@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "999",
     "strokeCount": 13,
-    "meaning": "humility, be careful, discreet, prudent",
+    "meaning": {
+      "en": "humility, be careful, discreet, prudent",
+      "vi": "khiêm nhường, cẩn thận, kín đáo, thận trọng"
+    },
     "kunyomi": [
       "つつし.む",
       "つつ.ましい",
@@ -23,7 +26,8 @@
         "example": "慎重",
         "reading": "シンチョウ",
         "meaning": {
-          "vi": "careful, cautious, prudent, discreet, deliberate"
+          "vi": "cẩn thận, thận trọng, kín đáo, chừng mực",
+          "en": "careful, cautious, prudent, discreet, deliberate"
         },
         "romaji": "shinchou"
       },
@@ -31,7 +35,8 @@
         "example": "慎重吟味",
         "reading": "シンチョウギンミ",
         "meaning": {
-          "en": "scrutiny, careful (close) examination (investigation), careful inquiry, careful selection"
+          "en": "scrutiny, careful (close) examination (investigation), careful inquiry, careful selection",
+          "vi": "xem xét kỹ, kiểm tra kỹ, điều tra cẩn thận, tuyển chọn kỹ"
         },
         "romaji": "shinchouginmi"
       },
@@ -39,7 +44,8 @@
         "example": "謹慎",
         "reading": "キンシン",
         "meaning": {
-          "vi": "self restraint, moderating one's own behavior, penitence, discipline, confinement (esp. to one's home), house arrest, suspension (from work or school)"
+          "vi": "tự kiềm chế, tiết chế hành vi, sám hối, kỷ luật, quản thúc tại gia, đình chỉ",
+          "en": "self restraint, moderating one's own behavior, penitence, discipline, confinement (esp. to one's home), house arrest, suspension (from work or school)"
         },
         "romaji": "kinshin"
       },
@@ -47,7 +53,8 @@
         "example": "不謹慎",
         "reading": "フキンシン",
         "meaning": {
-          "vi": "imprudent, indiscreet, immodest, indecent, inconsiderate, inappropriate"
+          "vi": "không thận trọng, thiếu kín đáo, thiếu đứng đắn, không thích hợp",
+          "en": "imprudent, indiscreet, immodest, indecent, inconsiderate, inappropriate"
         },
         "romaji": "fukinshin"
       }
@@ -57,7 +64,8 @@
         "example": "慎む",
         "reading": "つつしむ",
         "meaning": {
-          "vi": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
+          "vi": "cẩn thận, kín đáo, biết chừng mực, kiềm chế, tránh làm quá, giữ mình, thanh sạch, trinh khiết",
+          "en": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
         },
         "romaji": "tsutsushimu"
       },
@@ -65,7 +73,8 @@
         "example": "慎ましい",
         "reading": "つつましい",
         "meaning": {
-          "vi": "modest, reserved, quiet, humble, frugal, simple, plain"
+          "vi": "khiêm tốn, dè dặt, điềm tĩnh, giản dị, tiết kiệm, mộc mạc",
+          "en": "modest, reserved, quiet, humble, frugal, simple, plain"
         },
         "romaji": "tsutsumashii"
       },
@@ -73,7 +82,8 @@
         "example": "慎む",
         "reading": "つつしむ",
         "meaning": {
-          "vi": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
+          "vi": "cẩn thận, kín đáo, biết chừng mực, kiềm chế, tránh làm quá, giữ mình, thanh sạch, trinh khiết",
+          "en": "to be careful, to be discreet, to do in moderation, to refrain (from overdoing), to abstain, to be reverent, to be purified, to be chaste"
         },
         "romaji": "tsutsushimu"
       },
@@ -81,7 +91,8 @@
         "example": "慎み",
         "reading": "つつしみ",
         "meaning": {
-          "en": "modesty, self-control, discretion"
+          "en": "modesty, self-control, discretion",
+          "vi": "sự khiêm nhường, tự kiềm chế, thận trọng"
         },
         "romaji": "tsutsushimi"
       },
@@ -89,7 +100,8 @@
         "example": "慎み",
         "reading": "つつしみ",
         "meaning": {
-          "en": "modesty, self-control, discretion"
+          "en": "modesty, self-control, discretion",
+          "vi": "sự khiêm nhường, tự kiềm chế, thận trọng"
         },
         "romaji": "tsutsushimi"
       },
@@ -97,7 +109,8 @@
         "example": "慎み深い",
         "reading": "つつしみぶかい",
         "meaning": {
-          "en": "discreet, modest, cautious"
+          "en": "discreet, modest, cautious",
+          "vi": "kín đáo, khiêm tốn, cẩn trọng"
         },
         "romaji": "tsutsushimibukai"
       }
@@ -108,7 +121,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "tim, tấm lòng"
+      }
     },
     "parts": [
       "ハ",
@@ -124,5 +140,7 @@
   },
   "hanViet": [
     "thận"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: Tim 忄 đặt cạnh 真 như điều chân thật cần giữ kỹ, nên 慎 là cẩn trọng, thận trọng."
 }

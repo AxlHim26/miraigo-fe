@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "hatara, hataraku, hataraki",
-    "meaning": "work",
+    "meaning": {
+      "en": "work",
+      "vi": "làm việc"
+    },
     "kstroke": 13,
     "examples": [
       {
         "japanese": "労働（ろうどう）",
         "meaning": {
-          "english": "labor"
+          "english": "labor",
+          "en": "labor",
+          "vi": "lao động"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatara(ku)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "稼働する（かどうする）",
         "meaning": {
-          "english": "operate (e.g. machine)"
+          "english": "operate (e.g. machine)",
+          "en": "operate (e.g. machine)",
+          "vi": "vận hành (ví dụ máy móc)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatara(ku)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "働く（はたらく）",
         "meaning": {
-          "english": "work [v.i.]"
+          "english": "work [v.i.]",
+          "en": "work [v.i.]",
+          "vi": "làm việc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatara(ku)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "下働き（したばたらき）",
         "meaning": {
-          "english": "assistant job"
+          "english": "assistant job",
+          "en": "assistant job",
+          "vi": "công việc trợ lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatara(ku)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "共働き（ともばたらき）",
         "meaning": {
-          "english": "dual income"
+          "english": "dual income",
+          "en": "dual income",
+          "vi": "hai nguồn thu nhập"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hatara(ku)_06_e.opus",
@@ -226,7 +239,9 @@
     "kanji": {
       "character": "働",
       "meaning": {
-        "english": "work"
+        "english": "work",
+        "en": "work",
+        "vi": "làm việc"
       },
       "strokes": {
         "count": 13,
@@ -290,7 +305,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -311,7 +328,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "417",
     "strokeCount": 13,
-    "meaning": "work, (kokuji)",
+    "meaning": {
+      "en": "work, (kokuji)",
+      "vi": "làm việc, (quốc tự)"
+    },
     "kunyomi": [
       "はたら.く"
     ],
@@ -323,7 +343,8 @@
         "example": "実働",
         "reading": "ジツドウ",
         "meaning": {
-          "en": "actual work"
+          "en": "actual work",
+          "vi": "công việc thực tế"
         },
         "romaji": "jitsudou"
       },
@@ -331,7 +352,8 @@
         "example": "就働",
         "reading": "シュウドウ",
         "meaning": {
-          "vi": "being employed, working"
+          "vi": "đang được thuê làm, đang làm việc",
+          "en": "being employed, working"
         },
         "romaji": "shuudou"
       }
@@ -341,7 +363,8 @@
         "example": "働く",
         "reading": "はたらく",
         "meaning": {
-          "vi": "to work, to labor, to labour, to function, to operate, to be effective, to work (i.e. ... works), to come into play, to commit (e.g. a crime), to perpetrate, to do, to act, to practise, to practice, to be conjugated"
+          "vi": "làm việc, lao động, hoạt động, vận hành, có hiệu lực, có tác dụng, phát huy tác dụng, gây ra (ví dụ tội ác), thực hiện, làm, hành động, thực hành, được chia (ngữ pháp)",
+          "en": "to work, to labor, to labour, to function, to operate, to be effective, to work (i.e. ... works), to come into play, to commit (e.g. a crime), to perpetrate, to do, to act, to practise, to practice, to be conjugated"
         },
         "romaji": "hataraku"
       }
@@ -351,7 +374,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

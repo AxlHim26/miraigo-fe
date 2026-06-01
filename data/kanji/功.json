@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "merit, success",
+    "meaning": {
+      "en": "merit, success",
+      "vi": "cong lao, thanh cong"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "成功する（せいこうする）",
         "meaning": {
-          "english": "succeed"
+          "english": "succeed",
+          "en": "succeed",
+          "vi": "succeed"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)kou_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "年功序列（ねんこうじょれつ）",
         "meaning": {
-          "english": "achievement"
+          "english": "achievement",
+          "en": "achievement",
+          "vi": "achievement"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)kou_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "功績（こうせき）",
         "meaning": {
-          "english": "seniority system"
+          "english": "seniority system",
+          "en": "seniority system",
+          "vi": "seniority system"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)kou_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "功労者（こうろうしゃ）",
         "meaning": {
-          "english": "meritorious person"
+          "english": "meritorious person",
+          "en": "meritorious person",
+          "vi": "meritorious person"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)kou_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "功徳（くどく）",
         "meaning": {
-          "english": "piousness, charity"
+          "english": "piousness, charity",
+          "en": "piousness, charity",
+          "vi": "piousness, charity"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sei)kou_06_e.opus",
@@ -168,7 +181,9 @@
     "kanji": {
       "character": "功",
       "meaning": {
-        "english": "merit, success"
+        "english": "merit, success",
+        "en": "merit, success",
+        "vi": "cong lao, thanh cong"
       },
       "strokes": {
         "count": 5,
@@ -216,7 +231,9 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power",
+        "en": "power",
+        "vi": "power"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -237,7 +254,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "857",
     "strokeCount": 5,
-    "meaning": "achievement, merits, success, honor, credit",
+    "meaning": {
+      "en": "achievement, merits, success, honor, credit",
+      "vi": "thanh tich, cong lao, thanh cong, danh du, cong trang"
+    },
     "kunyomi": [
       "いさお"
     ],
@@ -250,7 +270,8 @@
         "example": "功",
         "reading": "コウ",
         "meaning": {
-          "vi": "merit, success, meritorious deed, achievement, accumulated experience"
+          "vi": "merit, success, meritorious deed, achievement, accumulated experience",
+          "en": "merit, success, meritorious deed, achievement, accumulated experience"
         },
         "romaji": "kou"
       },
@@ -258,7 +279,8 @@
         "example": "功績",
         "reading": "コウセキ",
         "meaning": {
-          "en": "achievement, meritorious deed, distinguished service, contribution"
+          "en": "achievement, meritorious deed, distinguished service, contribution",
+          "vi": "thanh tich, cong trang, cong lao xuat sac, dong gop"
         },
         "romaji": "kouseki"
       },
@@ -266,7 +288,8 @@
         "example": "即効",
         "reading": "ソッコウ",
         "meaning": {
-          "en": "immediate effect, instant effect"
+          "en": "immediate effect, instant effect",
+          "vi": "immediate effect, instant effect"
         },
         "romaji": "sokkou"
       },
@@ -274,7 +297,8 @@
         "example": "奏功",
         "reading": "ソウコウ",
         "meaning": {
-          "en": "success, achievement, fruition"
+          "en": "success, achievement, fruition",
+          "vi": "success, achievement, fruition"
         },
         "romaji": "soukou"
       },
@@ -282,7 +306,8 @@
         "example": "工夫",
         "reading": "クフウ",
         "meaning": {
-          "vi": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation)"
+          "vi": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation)",
+          "en": "devising (a way), contriving, inventing, thinking up, figuring out, coming up with, working out, device, design, idea, plan, invention, dedication to spiritual improvement (esp. through Zen meditation)"
         },
         "romaji": "kufuu"
       },
@@ -290,7 +315,8 @@
         "example": "効能",
         "reading": "コウノウ",
         "meaning": {
-          "en": "effect, effectiveness, efficacy, virtue, benefit"
+          "en": "effect, effectiveness, efficacy, virtue, benefit",
+          "vi": "effect, effectiveness, efficacy, virtue, benefit"
         },
         "romaji": "kounou"
       }
@@ -300,14 +326,18 @@
         "example": "勲",
         "reading": "いさお",
         "meaning": {
-          "en": "distinguished service, meritorious service"
+          "en": "distinguished service, meritorious service",
+          "vi": "distinguished service, meritorious service"
         },
         "romaji": "isao"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "suc manh, luc"
+      }
     },
     "parts": [
       "力",
@@ -318,7 +348,9 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/529f.gif",
     "uri": "https://jisho.org/search/%E5%8A%9F%23kanji"
   },
+  "jlpt": "N1",
   "hanViet": [
     "công"
-  ]
+  ],
+  "mnemonic_vi": "Goi y cach nho: Dung suc luc 力 de lap cong, thanh 功."
 }

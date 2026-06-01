@@ -5,7 +5,10 @@
     "query": "侖",
     "found": true,
     "strokeCount": 8,
-    "meaning": "think, be methodical",
+    "meaning": {
+      "en": "think, be methodical",
+      "vi": "suy nghĩ, có phương pháp"
+    },
     "kunyomi": [
       "おも.う"
     ],
@@ -20,7 +23,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

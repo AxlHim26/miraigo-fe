@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "history",
+    "meaning": {
+      "en": "history",
+      "vi": "lich su"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "史跡（しせき）",
         "meaning": {
-          "english": "historical landmark"
+          "english": "historical landmark",
+          "en": "historical landmark",
+          "vi": "di tich lich su"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "史料（しりょう）",
         "meaning": {
-          "english": "historical sources"
+          "english": "historical sources",
+          "en": "historical sources",
+          "vi": "su lieu lich su"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "史実（しじつ）",
         "meaning": {
-          "english": "historical fact"
+          "english": "historical fact",
+          "en": "historical fact",
+          "vi": "su thuc lich su"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "史学科（しがくか）",
         "meaning": {
-          "english": "department of history"
+          "english": "department of history",
+          "en": "department of history",
+          "vi": "khoa lich su"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "歴史（れきし）",
         "meaning": {
-          "english": "history"
+          "english": "history",
+          "en": "history",
+          "vi": "lich su"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "世界史（せかいし）",
         "meaning": {
-          "english": "world history"
+          "english": "world history",
+          "en": "world history",
+          "vi": "lich su the gioi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "日本史（にほんし）",
         "meaning": {
-          "english": "history of Japan"
+          "english": "history of Japan",
+          "en": "history of Japan",
+          "vi": "lich su Nhat Ban"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "美術史（びじゅつし）",
         "meaning": {
-          "english": "art history"
+          "english": "art history",
+          "en": "art history",
+          "vi": "lich su my thuat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "文学史（ぶんがくし）",
         "meaning": {
-          "english": "history of literature"
+          "english": "history of literature",
+          "en": "history of literature",
+          "vi": "lich su van hoc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(sekai)shi_06_i.opus",
@@ -227,7 +248,9 @@
     "kanji": {
       "character": "史",
       "meaning": {
-        "english": "history"
+        "english": "history",
+        "en": "history",
+        "vi": "lich su"
       },
       "strokes": {
         "count": 5,
@@ -275,7 +298,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "mieng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -296,7 +321,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "511",
     "strokeCount": 5,
-    "meaning": "history, chronicle",
+    "meaning": {
+      "en": "history, chronicle",
+      "vi": "lich su, su bien"
+    },
     "kunyomi": [],
     "onyomi": [
       "シ"
@@ -306,7 +334,8 @@
         "example": "史",
         "reading": "シ",
         "meaning": {
-          "en": "history"
+          "en": "history",
+          "vi": "lich su"
         },
         "romaji": "shi"
       },
@@ -314,7 +343,8 @@
         "example": "史家",
         "reading": "シカ",
         "meaning": {
-          "en": "historian"
+          "en": "historian",
+          "vi": "su gia"
         },
         "romaji": "shika"
       },
@@ -322,7 +352,8 @@
         "example": "通史",
         "reading": "ツウシ",
         "meaning": {
-          "en": "overview of history"
+          "en": "overview of history",
+          "vi": "tong quan lich su"
         },
         "romaji": "tsuushi"
       },
@@ -330,7 +361,8 @@
         "example": "正史",
         "reading": "セイシ",
         "meaning": {
-          "en": "official history, authorized history"
+          "en": "official history, authorized history",
+          "vi": "chinh su, quoc su duoc cong nhan"
         },
         "romaji": "seishi"
       }
@@ -338,7 +370,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "mieng, lo mo"
+      }
     },
     "parts": [
       "ノ",
@@ -351,5 +386,7 @@
   },
   "hanViet": [
     "sử"
-  ]
+  ],
+  "jlpt_level": "N2",
+  "mnemonic_vi": "Nét giữa như cây bút của sử quan, nhớ là lịch sử và biên chép."
 }

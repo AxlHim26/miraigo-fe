@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2040",
     "strokeCount": 7,
-    "meaning": "pit, hole",
+    "meaning": {
+      "en": "pit, hole",
+      "vi": "hố, lỗ"
+    },
     "kunyomi": [],
     "onyomi": [
       "コウ"
@@ -18,7 +21,8 @@
         "example": "坑",
         "reading": "コウ",
         "meaning": {
-          "vi": "pit (esp. of a mine)"
+          "vi": "pit (esp. of a mine)",
+          "en": "pit (esp. of a mine)"
         },
         "romaji": "kou"
       },
@@ -26,7 +30,8 @@
         "example": "坑口",
         "reading": "コウコウ",
         "meaning": {
-          "vi": "pithead, minehead"
+          "vi": "pithead, minehead",
+          "en": "pithead, minehead"
         },
         "romaji": "koukou"
       },
@@ -34,7 +39,8 @@
         "example": "廃坑",
         "reading": "ハイコウ",
         "meaning": {
-          "en": "closure of a mine, abandoned mine, disused mine"
+          "en": "closure of a mine, abandoned mine, disused mine",
+          "vi": "mỏ đóng cửa, mỏ bỏ hoang, mỏ ngừng sử dụng"
         },
         "romaji": "haikou"
       },
@@ -42,7 +48,8 @@
         "example": "開坑",
         "reading": "カイコウ",
         "meaning": {
-          "vi": "opening of mine"
+          "vi": "opening of mine",
+          "en": "opening of mine"
         },
         "romaji": "kaikou"
       }
@@ -50,7 +57,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "亠",
@@ -62,6 +72,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5751.gif",
     "uri": "https://jisho.org/search/%E5%9D%91%23kanji"
   },
+  "mnemonic_vi": "Đất kết hợp kháng, gợi hố sâu đào xuống trong lòng đất.",
   "hanViet": [
     "khanh"
   ]

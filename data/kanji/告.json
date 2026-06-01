@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "tsu, tsugu, tsugeru",
-    "meaning": "notify, tell, inform",
+    "meaning": {
+      "en": "notify, tell, inform",
+      "vi": "thông báo, nói cho biết, báo tin"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "報告する（ほうこくする）",
         "meaning": {
-          "english": "report [v.t.]"
+          "english": "report [v.t.]",
+          "en": "report [v.t.]",
+          "vi": "báo cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "忠告する（ちゅうこくする）",
         "meaning": {
-          "english": "advise, warn"
+          "english": "advise, warn",
+          "en": "advise, warn",
+          "vi": "khuyên, cảnh báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "警告する（けいこくする）",
         "meaning": {
-          "english": "warn"
+          "english": "warn",
+          "en": "warn",
+          "vi": "cảnh báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "申告する（しんこくする）",
         "meaning": {
-          "english": "file a report"
+          "english": "file a report",
+          "en": "file a report",
+          "vi": "nộp báo cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "告訴する（こくそする）",
         "meaning": {
-          "english": "accuse"
+          "english": "accuse",
+          "en": "accuse",
+          "vi": "tố cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "告白する（こくはくする）",
         "meaning": {
-          "english": "confess"
+          "english": "confess",
+          "en": "confess",
+          "vi": "thú nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "広告（こうこく）",
         "meaning": {
-          "english": "advertisement"
+          "english": "advertisement",
+          "en": "advertisement",
+          "vi": "quảng cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "被告（ひこく）",
         "meaning": {
-          "english": "defendant"
+          "english": "defendant",
+          "en": "defendant",
+          "vi": "bị cáo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "原告（げんこく）",
         "meaning": {
-          "english": "prosecutor"
+          "english": "prosecutor",
+          "en": "prosecutor",
+          "vi": "công tố viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "告げる（つげる）",
         "meaning": {
-          "english": "inform"
+          "english": "inform",
+          "en": "inform",
+          "vi": "thông báo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "告げ口（つげぐち）",
         "meaning": {
-          "english": "tell on (someone) [n.]"
+          "english": "tell on (someone) [n.]",
+          "en": "tell on (someone) [n.]",
+          "vi": "sự mách lẻo, mách tội ai đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koku-tsu(geru)_06_k.opus",
@@ -242,7 +267,9 @@
     "kanji": {
       "character": "告",
       "meaning": {
-        "english": "notify, tell, inform"
+        "english": "notify, tell, inform",
+        "en": "notify, tell, inform",
+        "vi": "thông báo, nói cho biết, báo tin"
       },
       "strokes": {
         "count": 7,
@@ -294,7 +321,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -315,7 +344,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "188",
     "strokeCount": 7,
-    "meaning": "revelation, tell, inform, announce",
+    "meaning": {
+      "en": "revelation, tell, inform, announce",
+      "vi": "sự tiết lộ, nói, báo tin, thông báo"
+    },
     "kunyomi": [
       "つ.げる"
     ],
@@ -327,7 +359,8 @@
         "example": "告訴",
         "reading": "コクソ",
         "meaning": {
-          "vi": "accusation, complaint, charge, suit, legal action, legal proceedings"
+          "vi": "accusation, complaint, charge, suit, legal action, legal proceedings",
+          "en": "accusation, complaint, charge, suit, legal action, legal proceedings"
         },
         "romaji": "kokuso"
       },
@@ -335,7 +368,8 @@
         "example": "告示",
         "reading": "コクジ",
         "meaning": {
-          "en": "notice, bulletin"
+          "en": "notice, bulletin",
+          "vi": "thông báo, bản tin"
         },
         "romaji": "kokuji"
       },
@@ -343,7 +377,8 @@
         "example": "抗告",
         "reading": "コウコク",
         "meaning": {
-          "vi": "appeal, protest, complaint"
+          "vi": "appeal, protest, complaint",
+          "en": "appeal, protest, complaint"
         },
         "romaji": "koukoku"
       },
@@ -351,7 +386,8 @@
         "example": "戒告",
         "reading": "カイコク",
         "meaning": {
-          "en": "admonition, warning, caution"
+          "en": "admonition, warning, caution",
+          "vi": "lời răn bảo, cảnh báo, sự thận trọng"
         },
         "romaji": "kaikoku"
       }
@@ -361,14 +397,18 @@
         "example": "告げる",
         "reading": "つげる",
         "meaning": {
-          "en": "to tell, to inform, to announce, to indicate, to signal, to mark"
+          "en": "to tell, to inform, to announce, to indicate, to signal, to mark",
+          "vi": "nói cho biết, báo tin, thông báo, chỉ ra, ra dấu, đánh dấu"
         },
         "romaji": "tsugeru"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "ノ",
@@ -383,5 +423,7 @@
   "hanViet": [
     "cáo",
     "cốc"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: dùng miệng 口 nói với cả đàn trâu 牛 để báo cho mọi người biết, nên 告 là báo, thông báo."
 }

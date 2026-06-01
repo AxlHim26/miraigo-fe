@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "chikara",
-    "meaning": "power, force",
+    "meaning": {
+      "en": "power, force",
+      "vi": "sức mạnh, lực"
+    },
     "kstroke": 2,
     "examples": [
       {
         "japanese": "体力（たいりょく）",
         "meaning": {
-          "english": "physical strength"
+          "english": "physical strength",
+          "en": "physical strength",
+          "vi": "thể lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "能力（のうりょく）",
         "meaning": {
-          "english": "ability"
+          "english": "ability",
+          "en": "ability",
+          "vi": "năng lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "実力（じつりょく）",
         "meaning": {
-          "english": "real ability"
+          "english": "real ability",
+          "en": "real ability",
+          "vi": "thực lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "努力（どりょく）",
         "meaning": {
-          "english": "effort"
+          "english": "effort",
+          "en": "effort",
+          "vi": "nỗ lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "暴力（ぼうりょく）",
         "meaning": {
-          "english": "violence"
+          "english": "violence",
+          "en": "violence",
+          "vi": "bạo lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "権力（けんりょく）",
         "meaning": {
-          "english": "(political) power"
+          "english": "(political) power",
+          "en": "(political) power",
+          "vi": "quyền lực (chính trị)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "魅力（みりょく）",
         "meaning": {
-          "english": "charm [n.]"
+          "english": "charm [n.]",
+          "en": "charm [n.]",
+          "vi": "sức hấp dẫn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "協力する（きょうりょくする）",
         "meaning": {
-          "english": "cooperate"
+          "english": "cooperate",
+          "en": "cooperate",
+          "vi": "hợp tác"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "人力車（じんりきしゃ）",
         "meaning": {
-          "english": "rickshaw"
+          "english": "rickshaw",
+          "en": "rickshaw",
+          "vi": "xe kéo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "力む（りきむ）",
         "meaning": {
-          "english": "strain"
+          "english": "strain",
+          "en": "strain",
+          "vi": "gắng sức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "力（ちから）",
         "meaning": {
-          "english": "force [n.]"
+          "english": "force [n.]",
+          "en": "force [n.]",
+          "vi": "lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "底力（そこぢから）",
         "meaning": {
-          "english": "latent energy, potentiality"
+          "english": "latent energy, potentiality",
+          "en": "latent energy, potentiality",
+          "vi": "năng lượng tiềm ẩn, tiềm lực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_l.opus",
@@ -271,7 +298,9 @@
     "kanji": {
       "character": "力",
       "meaning": {
-        "english": "power, force"
+        "english": "power, force",
+        "en": "power, force",
+        "vi": "sức mạnh, lực"
       },
       "strokes": {
         "count": 2,
@@ -313,7 +342,9 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power",
+        "en": "power",
+        "vi": "sức mạnh"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -334,7 +365,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "62",
     "strokeCount": 2,
-    "meaning": "power, strength, strong, strain, bear up, exert",
+    "meaning": {
+      "en": "power, strength, strong, strain, bear up, exert",
+      "vi": "sức mạnh, sức lực, mạnh, gắng sức, chịu đựng, dốc sức"
+    },
     "kunyomi": [
       "ちから"
     ],
@@ -348,7 +382,8 @@
         "example": "力",
         "reading": "リョク",
         "meaning": {
-          "vi": "strength, power, proficiency, ability"
+          "vi": "sức mạnh, quyền lực, sự thành thạo, năng lực",
+          "en": "strength, power, proficiency, ability"
         },
         "romaji": "ryoku"
       },
@@ -356,7 +391,8 @@
         "example": "力作",
         "reading": "リキサク",
         "meaning": {
-          "vi": "painstaking piece of work, work of great effort, tour de force, outstanding work, toil, labor, labour"
+          "vi": "tác phẩm công phu, việc làm đầy nỗ lực, kiệt tác, công trình xuất sắc, sự lao lực, lao động",
+          "en": "painstaking piece of work, work of great effort, tour de force, outstanding work, toil, labor, labour"
         },
         "romaji": "rikisaku"
       },
@@ -364,7 +400,8 @@
         "example": "水力",
         "reading": "スイリョク",
         "meaning": {
-          "vi": "hydraulic power, water power"
+          "vi": "thủy lực, sức nước",
+          "en": "hydraulic power, water power"
         },
         "romaji": "suiryoku"
       },
@@ -372,7 +409,8 @@
         "example": "威力",
         "reading": "イリョク",
         "meaning": {
-          "vi": "power, might, authority, influence"
+          "vi": "sức mạnh, uy lực, quyền uy, ảnh hưởng",
+          "en": "power, might, authority, influence"
         },
         "romaji": "iryoku"
       },
@@ -380,7 +418,8 @@
         "example": "力",
         "reading": "リキ",
         "meaning": {
-          "vi": "strength, power, proficiency, ability, the strength of ... people, the strength of ... men"
+          "vi": "sức mạnh, quyền lực, sự thành thạo, năng lực, sức của ... người",
+          "en": "strength, power, proficiency, ability, the strength of ... people, the strength of ... men"
         },
         "romaji": "riki"
       },
@@ -388,7 +427,8 @@
         "example": "力学",
         "reading": "リキガク",
         "meaning": {
-          "en": "mechanics, dynamics"
+          "en": "mechanics, dynamics",
+          "vi": "cơ học, động lực học"
         },
         "romaji": "rikigaku"
       },
@@ -396,7 +436,8 @@
         "example": "地力",
         "reading": "ジリキ",
         "meaning": {
-          "vi": "one's own potential, real ability, one's own strength"
+          "vi": "tiềm năng của bản thân, thực lực, sức riêng của mình",
+          "en": "one's own potential, real ability, one's own strength"
         },
         "romaji": "jiriki"
       },
@@ -404,7 +445,8 @@
         "example": "合力",
         "reading": "ゴウリョク",
         "meaning": {
-          "vi": "resultant force, assistance, help, donation, alms, almsgiving"
+          "vi": "hợp lực, sự trợ giúp, giúp đỡ, quyên góp, bố thí, việc làm từ thiện",
+          "en": "resultant force, assistance, help, donation, alms, almsgiving"
         },
         "romaji": "gouryoku"
       }
@@ -414,7 +456,8 @@
         "example": "力",
         "reading": "ちから",
         "meaning": {
-          "vi": "force, strength, might, vigour, vigor, energy, capability, ability, proficiency, capacity, faculty, efficacy, effect, effort, endeavours, endeavors, exertions, power, authority, influence, good offices, agency, support, help, aid, assistance, stress, emphasis, means, resources"
+          "vi": "lực, sức mạnh, uy lực, sinh lực, năng lượng, khả năng, năng lực, sự thành thạo, hiệu lực, tác dụng, nỗ lực, quyền lực, ảnh hưởng, sự hậu thuẫn, hỗ trợ, trợ giúp, nhấn mạnh, phương tiện, nguồn lực",
+          "en": "force, strength, might, vigour, vigor, energy, capability, ability, proficiency, capacity, faculty, efficacy, effect, effort, endeavours, endeavors, exertions, power, authority, influence, good offices, agency, support, help, aid, assistance, stress, emphasis, means, resources"
         },
         "romaji": "chikara"
       },
@@ -422,7 +465,8 @@
         "example": "力強い",
         "reading": "ちからづよい",
         "meaning": {
-          "vi": "powerful, strong, forceful, vigorous, reassuring, encouraging"
+          "vi": "mạnh mẽ, khỏe, đầy lực, tràn sinh lực, đáng tin cậy, khích lệ",
+          "en": "powerful, strong, forceful, vigorous, reassuring, encouraging"
         },
         "romaji": "chikarazuyoi"
       },
@@ -430,7 +474,8 @@
         "example": "強い力",
         "reading": "つよいちから",
         "meaning": {
-          "en": "strong interaction, strong force"
+          "en": "strong interaction, strong force",
+          "vi": "tương tác mạnh, lực mạnh"
         },
         "romaji": "tsuyoichikara"
       },
@@ -438,14 +483,18 @@
         "example": "弱い力",
         "reading": "よわいちから",
         "meaning": {
-          "en": "weak force, weak interaction"
+          "en": "weak force, weak interaction",
+          "vi": "lực yếu, tương tác yếu"
         },
         "romaji": "yowaichikara"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "sức mạnh, lực"
+      }
     },
     "parts": [
       "力"
@@ -457,5 +506,7 @@
   },
   "hanViet": [
     "lực"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: nét cong như cánh tay đang gồng lên, nên 力 là sức lực."
 }

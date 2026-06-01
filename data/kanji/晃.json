@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1666",
     "strokeCount": 10,
-    "meaning": "clear",
+    "meaning": {
+      "en": "clear",
+      "vi": "sáng rõ"
+    },
     "kunyomi": [
       "あきらか"
     ],
@@ -19,7 +22,8 @@
         "example": "煌々",
         "reading": "コウコウ",
         "meaning": {
-          "en": "brilliant, bright, dazzling"
+          "en": "brilliant, bright, dazzling",
+          "vi": "rực rỡ, sáng chói, lóa mắt"
         },
         "romaji": "koukou"
       },
@@ -27,7 +31,8 @@
         "example": "晃曜",
         "reading": "コウヨウ",
         "meaning": {
-          "en": "dazzling brightness"
+          "en": "dazzling brightness",
+          "vi": "ánh sáng chói lọi"
         },
         "romaji": "kouyou"
       }
@@ -35,7 +40,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "mặt trời, ngày"
+      }
     },
     "parts": [
       "一",
@@ -51,5 +59,7 @@
   "hanViet": [
     "hoàng",
     "hoảng"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: mặt trời phát ánh sáng rực rỡ ở trên cao, nên 晃 là sáng rõ, chói lóa."
 }

@@ -5,7 +5,10 @@
     "query": "丗",
     "found": true,
     "strokeCount": 5,
-    "meaning": "thirty",
+    "meaning": {
+      "en": "thirty",
+      "vi": "ba mươi"
+    },
     "kunyomi": [
       "よ",
       "さんじゅう"
@@ -34,7 +37,10 @@
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "凵",

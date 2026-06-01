@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2442",
     "strokeCount": 17,
-    "meaning": "be profitable, yield profit",
+    "meaning": {
+      "en": "be profitable, yield profit",
+      "vi": "có lãi, sinh lợi"
+    },
     "kunyomi": [
       "もう.ける",
       "もう.かる",
@@ -21,7 +24,8 @@
         "example": "貯蓄",
         "reading": "チョチク",
         "meaning": {
-          "en": "savings"
+          "en": "savings",
+          "vi": "tiền tiết kiệm"
         },
         "romaji": "chochiku"
       },
@@ -29,7 +33,8 @@
         "example": "儲位",
         "reading": "チョイ",
         "meaning": {
-          "vi": "heirship"
+          "en": "heirship",
+          "vi": "quyền thừa kế"
         },
         "romaji": "choi"
       },
@@ -37,7 +42,8 @@
         "example": "嫌儲",
         "reading": "ケンチョ",
         "meaning": {
-          "en": "shady online money-making"
+          "en": "shady online money-making",
+          "vi": "kiếm tiền trực tuyến mờ ám"
         },
         "romaji": "kencho"
       }
@@ -47,7 +53,8 @@
         "example": "儲ける",
         "reading": "もうける",
         "meaning": {
-          "vi": "to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck"
+          "en": "to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck",
+          "vi": "thu lợi, kiếm được, giành được, có con, gặp vận may"
         },
         "romaji": "moukeru"
       },
@@ -55,7 +62,8 @@
         "example": "儲かる",
         "reading": "もうかる",
         "meaning": {
-          "vi": "to be profitable, to yield a profit"
+          "en": "to be profitable, to yield a profit",
+          "vi": "có lợi nhuận, sinh lời"
         },
         "romaji": "moukaru"
       },
@@ -63,7 +71,8 @@
         "example": "儲け",
         "reading": "もうけ",
         "meaning": {
-          "vi": "profit, earnings"
+          "en": "profit, earnings",
+          "vi": "lợi nhuận, thu nhập"
         },
         "romaji": "mouke"
       },
@@ -71,7 +80,8 @@
         "example": "儲ける",
         "reading": "もうける",
         "meaning": {
-          "vi": "to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck"
+          "en": "to profit, to get, to earn, to gain, to have (bear, beget) a child, to have a stroke of luck",
+          "vi": "thu lợi, kiếm được, giành được, có con, gặp vận may"
         },
         "romaji": "moukeru"
       },
@@ -79,7 +89,8 @@
         "example": "嫌儲",
         "reading": "けんちょ",
         "meaning": {
-          "en": "shady online money-making"
+          "en": "shady online money-making",
+          "vi": "kiếm tiền trực tuyến mờ ám"
         },
         "romaji": "kencho"
       }
@@ -89,7 +100,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

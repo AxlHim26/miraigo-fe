@@ -5,7 +5,10 @@
     "query": "冱",
     "found": true,
     "strokeCount": 6,
-    "meaning": "freeze, be cold, be clear, attain skill",
+    "meaning": {
+      "en": "freeze, be cold, be clear, attain skill",
+      "vi": "đóng băng, lạnh buốt, trong rõ, thành thạo"
+    },
     "kunyomi": [
       "さ.える",
       "こお.る",
@@ -21,14 +24,18 @@
         "example": "冴える",
         "reading": "さえる",
         "meaning": {
-          "vi": "to be clear (of a sight, sound, colour, etc.), to be bright, to be vivid, to be crisp, to be clear-headed, to be alert, to be on the ball, to be wide awake, to look upbeat, to be perky, to be cheerful, to master (a skill), to excel at, to cleanly execute, to be satisfying, to become frigid, to become intensely cold"
+          "vi": "to be clear (of a sight, sound, colour, etc.), to be bright, to be vivid, to be crisp, to be clear-headed, to be alert, to be on the ball, to be wide awake, to look upbeat, to be perky, to be cheerful, to master (a skill), to excel at, to cleanly execute, to be satisfying, to become frigid, to become intensely cold",
+          "en": "to be clear (of a sight, sound, colour, etc.), to be bright, to be vivid, to be crisp, to be clear-headed, to be alert, to be on the ball, to be wide awake, to look upbeat, to be perky, to be cheerful, to master (a skill), to excel at, to cleanly execute, to be satisfying, to become frigid, to become intensely cold"
         },
         "romaji": "saeru"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "一",
@@ -39,10 +46,12 @@
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20913_frames.png",
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b1.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b1.gif",
-    "uri": "https://jisho.org/search/%E5%86%B1%23kanji"
+    "uri": "https://jisho.org/search/%E5%86%B1%23kanji",
+    "jlptLevel": null
   },
   "hanViet": [
     "hỗ",
     "hộ"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: hơi lạnh làm mọi thứ đông cứng lại, nên gợi nghĩa đóng băng và rét buốt."
 }

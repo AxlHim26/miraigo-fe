@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 1,
     "kunyomi": "shina",
-    "meaning": "article, goods",
+    "meaning": {
+      "en": "article, goods",
+      "vi": "mặt hàng, hàng hóa"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "品質（ひんしつ）",
         "meaning": {
-          "english": "quality"
+          "english": "quality",
+          "en": "quality",
+          "vi": "chất lượng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "品種（ひんしゅ）",
         "meaning": {
-          "english": "brand"
+          "english": "brand",
+          "en": "brand",
+          "vi": "thương hiệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "作品（さくひん）",
         "meaning": {
-          "english": "work (of fiction, etc.) [n.]"
+          "english": "work (of fiction, etc.) [n.]",
+          "en": "work (of fiction, etc.) [n.]",
+          "vi": "tác phẩm (hư cấu, v.v.)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "製品（せいひん）",
         "meaning": {
-          "english": "manufactured goods"
+          "english": "manufactured goods",
+          "en": "manufactured goods",
+          "vi": "sản phẩm chế tạo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "食品（しょくひん）",
         "meaning": {
-          "english": "food product"
+          "english": "food product",
+          "en": "food product",
+          "vi": "thực phẩm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "商品（しょうひん）",
         "meaning": {
-          "english": "merchandise"
+          "english": "merchandise",
+          "en": "merchandise",
+          "vi": "hàng hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "貴重品（きちょうひん）",
         "meaning": {
-          "english": "valuables"
+          "english": "valuables",
+          "en": "valuables",
+          "vi": "đồ có giá trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "上品な（じょうひんな）",
         "meaning": {
-          "english": "elegant"
+          "english": "elegant",
+          "en": "elegant",
+          "vi": "thanh nhã"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "返品する（へんぴんする）",
         "meaning": {
-          "english": "return (an item)"
+          "english": "return (an item)",
+          "en": "return (an item)",
+          "vi": "trả lại (một món đồ)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "品（しな）",
         "meaning": {
-          "english": "goods"
+          "english": "goods",
+          "en": "goods",
+          "vi": "hàng hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "品物（しなもの）",
         "meaning": {
-          "english": "goods"
+          "english": "goods",
+          "en": "goods",
+          "vi": "hàng hóa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "品切れ（しなぎれ）",
         "meaning": {
-          "english": "out of stock"
+          "english": "out of stock",
+          "en": "out of stock",
+          "vi": "hết hàng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shina_06_l.opus",
@@ -294,7 +321,9 @@
     "kanji": {
       "character": "品",
       "meaning": {
-        "english": "article, goods"
+        "english": "article, goods",
+        "en": "article, goods",
+        "vi": "mặt hàng, hàng hóa"
       },
       "strokes": {
         "count": 9,
@@ -350,7 +379,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -371,7 +402,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "225",
     "strokeCount": 9,
-    "meaning": "goods, refinement, dignity, article, counter for meal courses",
+    "meaning": {
+      "en": "goods, refinement, dignity, article, counter for meal courses",
+      "vi": "hàng hóa, sự tinh tế, phẩm giá, món, lượng từ cho các món ăn"
+    },
     "kunyomi": [
       "しな"
     ],
@@ -384,7 +418,8 @@
         "example": "品",
         "reading": "ヒン",
         "meaning": {
-          "en": "elegance, grace, refinement, class, dignity, article, item, counter for items (of food, etc.), counter for dishes or courses (at a restaurant)"
+          "en": "elegance, grace, refinement, class, dignity, article, item, counter for items (of food, etc.), counter for dishes or courses (at a restaurant)",
+          "vi": "sự tao nhã, duyên dáng, tinh tế, đẳng cấp, phẩm giá, món, mục, lượng từ cho đồ ăn, lượng từ cho món hoặc suất ăn"
         },
         "romaji": "hin"
       },
@@ -392,7 +427,8 @@
         "example": "品位",
         "reading": "ヒンイ",
         "meaning": {
-          "en": "dignity, grace, nobility, grade, quality, fineness, carat, karat"
+          "en": "dignity, grace, nobility, grade, quality, fineness, carat, karat",
+          "vi": "phẩm giá, vẻ duyên dáng, sự cao quý, cấp bậc, chất lượng, độ tinh, cara"
         },
         "romaji": "hin'i"
       },
@@ -400,7 +436,8 @@
         "example": "小品",
         "reading": "ショウヒン",
         "meaning": {
-          "vi": "short piece (of music, writing), small work (painting, sculpture, etc.), literary sketch, essay, small article, small item"
+          "vi": "tác phẩm ngắn, tác phẩm nhỏ, phác thảo văn học, tiểu luận, bài ngắn, món nhỏ",
+          "en": "short piece (of music, writing), small work (painting, sculpture, etc.), literary sketch, essay, small article, small item"
         },
         "romaji": "shouhin"
       },
@@ -408,7 +445,8 @@
         "example": "遺品",
         "reading": "イヒン",
         "meaning": {
-          "vi": "things left (to one) by the deceased, inherited item, estate, memento, keepsake, lost item, lost property"
+          "vi": "di vật, đồ thừa kế, tài sản, kỷ vật, đồ lưu niệm, đồ thất lạc",
+          "en": "things left (to one) by the deceased, inherited item, estate, memento, keepsake, lost item, lost property"
         },
         "romaji": "ihin"
       },
@@ -416,7 +454,8 @@
         "example": "品",
         "reading": "ホン",
         "meaning": {
-          "vi": "court rank, level, grade, chapter, section, volume"
+          "vi": "cấp bậc triều đình, cấp độ, hạng, chương, mục, quyển",
+          "en": "court rank, level, grade, chapter, section, volume"
         },
         "romaji": "hon"
       },
@@ -424,7 +463,8 @@
         "example": "品題",
         "reading": "ホンダイ",
         "meaning": {
-          "vi": "chapter title, section title, volume title"
+          "vi": "tên chương, tên mục, tên tập",
+          "en": "chapter title, section title, volume title"
         },
         "romaji": "hondai"
       },
@@ -432,7 +472,8 @@
         "example": "九品",
         "reading": "クホン",
         "meaning": {
-          "vi": "nine levels of Amitabha's Pure Land, Amitabha's Pure Land, nine-tiered lotus leaf platform in Amitabha's Pure Land"
+          "vi": "chín phẩm của cõi Tịnh Độ A Di Đà, cõi Tịnh Độ A Di Đà, đài sen chín tầng ở Tịnh Độ",
+          "en": "nine levels of Amitabha's Pure Land, Amitabha's Pure Land, nine-tiered lotus leaf platform in Amitabha's Pure Land"
         },
         "romaji": "kuhon"
       }
@@ -442,7 +483,8 @@
         "example": "品",
         "reading": "しな",
         "meaning": {
-          "en": "article, item, thing, goods, stock, quality, flirtatiousness, coquetry"
+          "en": "article, item, thing, goods, stock, quality, flirtatiousness, coquetry",
+          "vi": "món, vật, hàng hóa, tồn kho, chất lượng, vẻ lẳng lơ"
         },
         "romaji": "shina"
       },
@@ -450,7 +492,8 @@
         "example": "品目",
         "reading": "ひんもく",
         "meaning": {
-          "en": "item, commodity, list of articles"
+          "en": "item, commodity, list of articles",
+          "vi": "mặt hàng, hàng hóa, danh mục hàng"
         },
         "romaji": "hinmoku"
       },
@@ -458,7 +501,8 @@
         "example": "一品",
         "reading": "いっぴん",
         "meaning": {
-          "en": "item, article, dish, course, finest item"
+          "en": "item, article, dish, course, finest item",
+          "vi": "món, mục, đĩa thức ăn, suất ăn, món hảo hạng"
         },
         "romaji": "ippin"
       },
@@ -466,14 +510,18 @@
         "example": "極め付きの品",
         "reading": "きわめつきのしな",
         "meaning": {
-          "en": "article of certified genuineness"
+          "en": "article of certified genuineness",
+          "vi": "giấy/chứng thư xác nhận hàng thật"
         },
         "romaji": "kiwametsukinoshina"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -484,6 +532,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54c1.gif",
     "uri": "https://jisho.org/search/%E5%93%81%23kanji"
   },
+  "jlpt": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: ba cái miệng 口 xếp chồng như nhiều món đồ trưng bày, nên 品 là phẩm, hàng hóa.",
   "hanViet": [
     "phẩm"
   ]

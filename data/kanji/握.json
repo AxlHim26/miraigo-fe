@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1003",
     "strokeCount": 12,
-    "meaning": "grip, hold, mould sushi, bribe",
+    "meaning": {
+      "en": "grip, hold, mould sushi, bribe",
+      "vi": "nắm, giữ, nặn sushi, hối lộ"
+    },
     "kunyomi": [
       "にぎ.る"
     ],
@@ -20,6 +23,7 @@
         "example": "握手",
         "reading": "アクシュ",
         "meaning": {
+          "en": "handshake, reconciliation, joining hands, cooperation",
           "vi": "handshake, reconciliation, joining hands, cooperation"
         },
         "romaji": "akushu"
@@ -28,6 +32,7 @@
         "example": "握力",
         "reading": "アクリョク",
         "meaning": {
+          "en": "grip (of hand), grip strength",
           "vi": "grip (of hand), grip strength"
         },
         "romaji": "akuryoku"
@@ -36,7 +41,8 @@
         "example": "一握",
         "reading": "イチアク",
         "meaning": {
-          "en": "a handful (of)"
+          "en": "a handful (of)",
+          "vi": "một nắm, một ít"
         },
         "romaji": "ichiaku"
       },
@@ -44,6 +50,7 @@
         "example": "動向把握",
         "reading": "ドウコウハアク",
         "meaning": {
+          "en": "grasping the trend, firmly understanding how the situation is developing, getting a good sense of how things are changing",
           "vi": "grasping the trend, firmly understanding how the situation is developing, getting a good sense of how things are changing"
         },
         "romaji": "doukouhaaku"
@@ -54,6 +61,7 @@
         "example": "握る",
         "reading": "にぎる",
         "meaning": {
+          "en": "to clasp, to grasp, to grip, to clutch, to hold (the answer), to have (e.g. the solution), to be the key, to be the reason, to seize (power), to hold (the reins), to dominate, to control, to make (nigirizushi, rice ball, etc.), to form (with one's hands), to press into shape, to mold, to mould",
           "vi": "to clasp, to grasp, to grip, to clutch, to hold (the answer), to have (e.g. the solution), to be the key, to be the reason, to seize (power), to hold (the reins), to dominate, to control, to make (nigirizushi, rice ball, etc.), to form (with one's hands), to press into shape, to mold, to mould"
         },
         "romaji": "nigiru"
@@ -64,7 +72,10 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": {
+        "en": "hand",
+        "vi": "tay"
+      }
     },
     "parts": [
       "厶",

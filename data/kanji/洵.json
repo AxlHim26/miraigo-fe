@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 9,
-    "meaning": "alike, truth",
+    "meaning": {
+      "en": "alike, truth",
+      "vi": "giống nhau, sự thật"
+    },
     "kunyomi": [
       "の.ぶ",
       "まこと.に"
@@ -20,7 +23,8 @@
         "example": "洵美",
         "reading": "ジュンビ",
         "meaning": {
-          "en": "exquisite, truly beautiful"
+          "en": "exquisite, truly beautiful",
+          "vi": "tuyệt đẹp, đẹp thật sự"
         },
         "romaji": "junbi"
       }
@@ -30,7 +34,8 @@
         "example": "誠に",
         "reading": "まことに",
         "meaning": {
-          "en": "indeed, really, absolutely, truly, actually, very, quite"
+          "en": "indeed, really, absolutely, truly, actually, very, quite",
+          "vi": "quả thật, thật sự, tuyệt đối, rất, khá"
         },
         "romaji": "makotoni"
       }
@@ -41,7 +46,10 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": {
+        "en": "water",
+        "vi": "nước"
+      }
     },
     "parts": [
       "勹",
@@ -56,5 +64,7 @@
   "hanViet": [
     "tuân",
     "tuần"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: nước bên trái và nét bên phải tạo cảm giác điều gì đó rất thật, rất đúng."
 }

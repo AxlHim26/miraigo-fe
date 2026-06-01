@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 6,
     "kunyomi": "sa, saku",
-    "meaning": "bloom",
+    "meaning": {
+      "en": "bloom",
+      "vi": "nở, nở hoa"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "咲く（さく）",
         "meaning": {
-          "english": "bloom"
+          "english": "bloom",
+          "en": "bloom",
+          "vi": "nở, nở hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gobu)za(ki)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "早咲き（はやざき）",
         "meaning": {
-          "english": "early blooming, early flowering"
+          "english": "early blooming, early flowering",
+          "en": "early blooming, early flowering",
+          "vi": "nở sớm, ra hoa sớm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gobu)za(ki)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "遅咲き（おそざき）",
         "meaning": {
-          "english": "late blooming, late flowering"
+          "english": "late blooming, late flowering",
+          "en": "late blooming, late flowering",
+          "vi": "nở muộn, ra hoa muộn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gobu)za(ki)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "狂い咲き（くるいざき）",
         "meaning": {
-          "english": "flowering out of season"
+          "english": "flowering out of season",
+          "en": "flowering out of season",
+          "vi": "nở trái mùa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gobu)za(ki)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "咲き誇る（さきほこる）",
         "meaning": {
-          "english": "be in full bloom"
+          "english": "be in full bloom",
+          "en": "be in full bloom",
+          "vi": "nở rộ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gobu)za(ki)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "咲き乱れる（さきみだれる）",
         "meaning": {
-          "english": "bloom profusely"
+          "english": "bloom profusely",
+          "en": "bloom profusely",
+          "vi": "nở rực rỡ, nở đầy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gobu)za(ki)_06_f.opus",
@@ -167,7 +182,9 @@
     "kanji": {
       "character": "咲",
       "meaning": {
-        "english": "bloom"
+        "english": "bloom",
+        "en": "bloom",
+        "vi": "nở, nở hoa"
       },
       "strokes": {
         "count": 9,
@@ -223,7 +240,9 @@
         "romaji": "kuchihen"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchihen0.svg",
@@ -244,7 +263,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1534",
     "strokeCount": 9,
-    "meaning": "blossom, bloom",
+    "meaning": {
+      "en": "blossom, bloom",
+      "vi": "nở hoa, nở"
+    },
     "kunyomi": [
       "さ.く",
       "-ざき"
@@ -257,7 +279,8 @@
         "example": "巧笑",
         "reading": "コウショウ",
         "meaning": {
-          "en": "courteous laughter, forced laughter"
+          "en": "courteous laughter, forced laughter",
+          "vi": "tiếng cười xã giao, cười gượng"
         },
         "romaji": "koushou"
       }
@@ -267,14 +290,18 @@
         "example": "咲く",
         "reading": "さく",
         "meaning": {
-          "vi": "to bloom, to flower, to blossom, to open, to rise up (of breaking waves)"
+          "vi": "to bloom, to flower, to blossom, to open, to rise up (of breaking waves)",
+          "en": "to bloom, to flower, to blossom, to open, to rise up (of breaking waves)"
         },
         "romaji": "saku"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "一",
@@ -291,5 +318,7 @@
   },
   "hanViet": [
     "tiếu"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: miệng 口 cười khi hoa nở, nên 咲 là nở hoa."
 }

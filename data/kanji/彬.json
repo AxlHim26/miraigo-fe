@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2174",
     "strokeCount": 11,
-    "meaning": "refined, gentle",
+    "meaning": {
+      "en": "refined, gentle",
+      "vi": "tao nhã, nhã nhặn"
+    },
     "kunyomi": [
       "うるわ.しい",
       "あき.らか"
@@ -21,7 +24,8 @@
         "example": "彬蔚",
         "reading": "ヒンウツ",
         "meaning": {
-          "en": "erudite and refined, handsome"
+          "en": "erudite and refined, handsome",
+          "vi": "học rộng và tao nhã, tuấn tú"
         },
         "romaji": "hin'utsu"
       }
@@ -29,7 +33,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "彡",
-      "meaning": "bristle, beard"
+      "meaning": {
+        "en": "bristle, beard",
+        "vi": "lông cứng, râu"
+      }
     },
     "parts": [
       "彡",
@@ -42,5 +49,7 @@
   },
   "hanViet": [
     "bân"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Nét văn vẻ hòa cùng dáng người tạo cảm giác nhã nhặn, tinh tế."
 }

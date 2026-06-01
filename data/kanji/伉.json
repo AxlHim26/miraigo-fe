@@ -5,7 +5,10 @@
     "query": "伉",
     "found": true,
     "strokeCount": 6,
-    "meaning": "same kind, compare with",
+    "meaning": {
+      "en": "same kind, compare with",
+      "vi": "cùng loại, so sánh với"
+    },
     "kunyomi": [
       "たぐ.い",
       "なら.ぶ"
@@ -18,7 +21,8 @@
         "example": "伉配",
         "reading": "コウハイ",
         "meaning": {
-          "vi": "spouse, married couple"
+          "vi": "spouse, married couple",
+          "en": "vợ chồng, cặp vợ chồng"
         },
         "romaji": "kouhai"
       },
@@ -26,7 +30,8 @@
         "example": "伉儷",
         "reading": "コウレイ",
         "meaning": {
-          "vi": "married couple, spouses, husband and wife"
+          "vi": "married couple, spouses, husband and wife",
+          "en": "vợ chồng, đôi bạn đời, chồng và vợ"
         },
         "romaji": "kourei"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "亠",

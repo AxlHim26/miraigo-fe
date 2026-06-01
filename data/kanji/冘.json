@@ -5,7 +5,10 @@
     "query": "冘",
     "found": true,
     "strokeCount": 4,
-    "meaning": "to move on, doubtful",
+    "meaning": {
+      "en": "to move on, doubtful",
+      "vi": "tiếp tục tiến lên, đáng ngờ"
+    },
     "kunyomi": [
       "おこた.る",
       "ためら.う",
@@ -19,7 +22,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冖",
-      "meaning": "cover"
+      "meaning": {
+        "en": "cover",
+        "vi": "che phủ"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20888_frames.png",

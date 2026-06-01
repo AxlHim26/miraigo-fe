@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "shi, urana, shimeru, uranau",
-    "meaning": "occupy, tell fortunes, hold",
+    "meaning": {
+      "en": "occupy, tell fortunes, hold",
+      "vi": "chiếm giữ, xem bói, nắm giữ"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "占星術（せんせいじゅつ）",
         "meaning": {
-          "english": "astrology"
+          "english": "astrology",
+          "en": "astrology",
+          "vi": "chiêm tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "占領地（せんりょうち）",
         "meaning": {
-          "english": "occupied territory"
+          "english": "occupied territory",
+          "en": "occupied territory",
+          "vi": "vùng bị chiếm đóng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "占拠する（せんきょする）",
         "meaning": {
-          "english": "occupy"
+          "english": "occupy",
+          "en": "occupy",
+          "vi": "chiếm giữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "占有する（せんゆうする）",
         "meaning": {
-          "english": "have exclusive possession"
+          "english": "have exclusive possession",
+          "en": "have exclusive possession",
+          "vi": "chiếm giữ độc quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "独占する（どくせんする）",
         "meaning": {
-          "english": "monopolize"
+          "english": "monopolize",
+          "en": "monopolize",
+          "vi": "độc chiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "占める（しめる）",
         "meaning": {
-          "english": "comprise, occupy"
+          "english": "comprise, occupy",
+          "en": "comprise, occupy",
+          "vi": "chiếm, bao gồm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "独り占めする（ひとりじめする）",
         "meaning": {
-          "english": "monopolize"
+          "english": "monopolize",
+          "en": "monopolize",
+          "vi": "độc chiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "占う（うらなう）",
         "meaning": {
-          "english": "tell one's fortune, divine"
+          "english": "tell one's fortune, divine",
+          "en": "tell one's fortune, divine",
+          "vi": "xem bói, tiên đoán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "占い師（うらないし）",
         "meaning": {
-          "english": "diviner, fortuneteller, palmist"
+          "english": "diviner, fortuneteller, palmist",
+          "en": "diviner, fortuneteller, palmist",
+          "vi": "thầy bói, người xem chỉ tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "星占い（ほしうらない）",
         "meaning": {
-          "english": "astrology, horoscope"
+          "english": "astrology, horoscope",
+          "en": "astrology, horoscope",
+          "vi": "chiêm tinh, tử vi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/urana(u)_06_j.opus",
@@ -218,7 +241,9 @@
     "kanji": {
       "character": "占",
       "meaning": {
-        "english": "occupy, tell fortunes, hold"
+        "english": "occupy, tell fortunes, hold",
+        "en": "occupy, tell fortunes, hold",
+        "vi": "chiếm giữ, xem bói, nắm giữ"
       },
       "strokes": {
         "count": 5,
@@ -266,7 +291,9 @@
         "romaji": "boku"
       },
       "meaning": {
-        "english": "oracle"
+        "english": "oracle",
+        "en": "oracle",
+        "vi": "lời sấm, thần dụ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/boku0.svg",
@@ -287,7 +314,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "694",
     "strokeCount": 5,
-    "meaning": "fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+    "meaning": {
+      "en": "fortune-telling, divining, forecasting, occupy, hold, have, get, take",
+      "vi": "bói toán, tiên đoán, dự báo, chiếm giữ, nắm giữ, có được, lấy"
+    },
     "kunyomi": [
       "し.める",
       "うらな.う"
@@ -300,7 +330,8 @@
         "example": "占領",
         "reading": "センリョウ",
         "meaning": {
-          "vi": "occupying, having (an area) all to oneself, military occupation, possession, capture, seizure"
+          "vi": "occupying, having (an area) all to oneself, military occupation, possession, capture, seizure",
+          "en": "occupying, having (an area) all to oneself, military occupation, possession, capture, seizure"
         },
         "romaji": "senryou"
       },
@@ -308,7 +339,8 @@
         "example": "占拠",
         "reading": "センキョ",
         "meaning": {
-          "vi": "occupation, taking and maintaining exclusive control (of a location)"
+          "vi": "occupation, taking and maintaining exclusive control (of a location)",
+          "en": "occupation, taking and maintaining exclusive control (of a location)"
         },
         "romaji": "senkyo"
       },
@@ -316,7 +348,8 @@
         "example": "寡占",
         "reading": "カセン",
         "meaning": {
-          "vi": "oligopoly, control of a market"
+          "vi": "oligopoly, control of a market",
+          "en": "oligopoly, control of a market"
         },
         "romaji": "kasen"
       },
@@ -324,7 +357,8 @@
         "example": "買い手寡占",
         "reading": "カイテカセン",
         "meaning": {
-          "vi": "oligopsony"
+          "vi": "oligopsony",
+          "en": "oligopsony"
         },
         "romaji": "kaitekasen"
       }
@@ -334,7 +368,8 @@
         "example": "占める",
         "reading": "しめる",
         "meaning": {
-          "vi": "to occupy, to hold, to account for, to make up, to take up"
+          "vi": "to occupy, to hold, to account for, to make up, to take up",
+          "en": "to occupy, to hold, to account for, to make up, to take up"
         },
         "romaji": "shimeru"
       },
@@ -342,14 +377,18 @@
         "example": "占う",
         "reading": "うらなう",
         "meaning": {
-          "vi": "to tell someone's fortune, to divine (the future), to predict, to forecast"
+          "vi": "to tell someone's fortune, to divine (the future), to predict, to forecast",
+          "en": "to tell someone's fortune, to divine (the future), to predict, to forecast"
         },
         "romaji": "uranau"
       }
     ],
     "radical": {
       "symbol": "卜",
-      "meaning": "divination"
+      "meaning": {
+        "en": "divination",
+        "vi": "bói toán"
+      }
     },
     "parts": [
       "卜",
@@ -363,5 +402,7 @@
   "hanViet": [
     "chiêm",
     "chiếm"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Nét 卜 như bói toán đặt trên miệng 口, nhớ cả nghĩa xem bói và chiếm giữ."
 }

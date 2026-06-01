@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2450",
     "strokeCount": 8,
-    "meaning": "wise",
+    "meaning": {
+      "en": "wise",
+      "vi": "thông minh, sáng dạ"
+    },
     "kunyomi": [
       "あわ.れむ",
       "さと.い"
@@ -22,7 +25,8 @@
         "example": "怜悧",
         "reading": "レイリ",
         "meaning": {
-          "vi": "clever, bright, sharp, wise, intelligent, sagacious"
+          "vi": "clever, bright, sharp, wise, intelligent, sagacious",
+          "en": ""
         },
         "romaji": "reiri"
       },
@@ -30,7 +34,8 @@
         "example": "怜悧狡猾",
         "reading": "レイリコウカツ",
         "meaning": {
-          "en": "cunning, crafty, shrewd, guileful"
+          "en": "cunning, crafty, shrewd, guileful",
+          "vi": "xảo quyệt, ranh mãnh, sắc sảo, đầy mưu mẹo"
         },
         "romaji": "reirikoukatsu"
       }
@@ -42,7 +47,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "tim, lòng"
+      }
     },
     "parts": [
       "一",
@@ -59,5 +67,7 @@
     "linh",
     "liên",
     "lân"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: trái tim mà lanh lẹ, sáng suốt thì thành thông minh, nên 怜 là sáng dạ."
 }

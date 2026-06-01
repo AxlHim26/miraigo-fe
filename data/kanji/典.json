@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 5,
     "kunyomi": "n/a",
-    "meaning": "standard work, canon, law code, ceremony",
+    "meaning": {
+      "en": "standard work, canon, law code, ceremony",
+      "vi": "kinh điển, quy điển, bộ luật, nghi lễ"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "典礼（てんれい）",
         "meaning": {
-          "english": "ceremony, ritual, etiquette"
+          "english": "ceremony, ritual, etiquette",
+          "en": "ceremony, ritual, etiquette",
+          "vi": "nghi lễ, nghi thức, lễ nghi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "辞典（じてん）",
         "meaning": {
-          "english": "dictionary"
+          "english": "dictionary",
+          "en": "dictionary",
+          "vi": "từ điển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "事典（じてん）",
         "meaning": {
-          "english": "cyclopedia, encyclopedia"
+          "english": "cyclopedia, encyclopedia",
+          "en": "cyclopedia, encyclopedia",
+          "vi": "bách khoa toàn thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "原典（げんてん）",
         "meaning": {
-          "english": "original"
+          "english": "original",
+          "en": "original",
+          "vi": "nguyên bản"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "古典（こてん）",
         "meaning": {
-          "english": "old book, classics, classic"
+          "english": "old book, classics, classic",
+          "en": "old book, classics, classic",
+          "vi": "sách cổ, kinh điển, tác phẩm kinh điển"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "聖典（せいてん）",
         "meaning": {
-          "english": "scriptures"
+          "english": "scriptures",
+          "en": "scriptures",
+          "vi": "kinh sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "法典（ほうてん）",
         "meaning": {
-          "english": "code of law, body of law"
+          "english": "code of law, body of law",
+          "en": "code of law, body of law",
+          "vi": "bộ luật, hệ thống luật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "式典（しきてん）",
         "meaning": {
-          "english": "ceremony, rites"
+          "english": "ceremony, rites",
+          "en": "ceremony, rites",
+          "vi": "nghi lễ, lễ thức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "祭典（さいてん）",
         "meaning": {
-          "english": "festival"
+          "english": "festival",
+          "en": "festival",
+          "vi": "lễ hội"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "香典（こうでん）",
         "meaning": {
-          "english": "gift given at a funeral"
+          "english": "gift given at a funeral",
+          "en": "gift given at a funeral",
+          "vi": "quà phúng viếng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "典型的な（てんけいてきな）",
         "meaning": {
-          "english": "typical, representative"
+          "english": "typical, representative",
+          "en": "typical, representative",
+          "vi": "tiêu biểu, đại diện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(shiki)ten_06_k.opus",
@@ -220,7 +245,9 @@
     "kanji": {
       "character": "典",
       "meaning": {
-        "english": "standard work, canon, law code, ceremony"
+        "english": "standard work, canon, law code, ceremony",
+        "en": "standard work, canon, law code, ceremony",
+        "vi": "kinh điển, quy điển, bộ luật, nghi lễ"
       },
       "strokes": {
         "count": 8,
@@ -274,7 +301,9 @@
         "romaji": "hachi"
       },
       "meaning": {
-        "english": "eight"
+        "english": "eight",
+        "en": "eight",
+        "vi": "tám"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hachi0.svg",
@@ -295,7 +324,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1055",
     "strokeCount": 8,
-    "meaning": "code, ceremony, law, rule",
+    "meaning": {
+      "en": "code, ceremony, law, rule",
+      "vi": "quy điển, nghi lễ, luật, quy tắc"
+    },
     "kunyomi": [
       "ふみ",
       "のり"
@@ -309,7 +341,8 @@
         "example": "典",
         "reading": "テン",
         "meaning": {
-          "en": "ceremony, celebration, law code, Sweden"
+          "en": "ceremony, celebration, law code, Sweden",
+          "vi": "nghi lễ, lễ mừng, bộ luật, Thụy Điển"
         },
         "romaji": "ten"
       },
@@ -317,7 +350,8 @@
         "example": "典型",
         "reading": "テンケイ",
         "meaning": {
-          "vi": "type, pattern, model, epitome, exemplar, archetype, perfect example"
+          "vi": "type, pattern, model, epitome, exemplar, archetype, perfect example",
+          "en": "type, pattern, model, epitome, exemplar, archetype, perfect example"
         },
         "romaji": "tenkei"
       },
@@ -325,7 +359,8 @@
         "example": "国語辞典",
         "reading": "コクゴジテン",
         "meaning": {
-          "vi": "Japanese-language dictionary, dictionary of a national language"
+          "vi": "Japanese-language dictionary, dictionary of a national language",
+          "en": "Japanese-language dictionary, dictionary of a national language"
         },
         "romaji": "kokugojiten"
       },
@@ -333,7 +368,8 @@
         "example": "拉丁",
         "reading": "ラテン",
         "meaning": {
-          "en": "Latin (language), Latin-American, Latin, Latino, Latin (i.e. relating to the literature, culture, etc. of ancient Rome), Roman"
+          "en": "Latin (language), Latin-American, Latin, Latino, Latin (i.e. relating to the literature, culture, etc. of ancient Rome), Roman",
+          "vi": "tiếng Latin, người Mỹ Latinh, Latin, Latino, thuộc Latin (liên quan đến văn học, văn hóa, v.v. của La Mã cổ đại), La Mã"
         },
         "romaji": "raten"
       },
@@ -341,7 +377,8 @@
         "example": "香典",
         "reading": "コウデン",
         "meaning": {
-          "en": "gift brought to a funeral (usu. money), funeral offering, condolence gift, incense money"
+          "en": "gift brought to a funeral (usu. money), funeral offering, condolence gift, incense money",
+          "vi": "quà mang đến đám tang (thường là tiền), lễ vật phúng viếng, quà chia buồn, tiền hương khói"
         },
         "romaji": "kouden"
       },
@@ -349,7 +386,8 @@
         "example": "経典",
         "reading": "キョウテン",
         "meaning": {
-          "vi": "sacred books, sutras, scriptures (Bible, Koran, etc.)"
+          "vi": "sacred books, sutras, scriptures (Bible, Koran, etc.)",
+          "en": "sacred books, sutras, scriptures (Bible, Koran, etc.)"
         },
         "romaji": "kyouten"
       }
@@ -359,14 +397,18 @@
         "example": "法",
         "reading": "のり",
         "meaning": {
-          "vi": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
+          "vi": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope",
+          "en": "rule, law, regulation, model, pattern, teachings of Buddha, Buddhist doctrine, transverse measurement, measurement across, side-slope, slope"
         },
         "romaji": "nori"
       }
     ],
     "radical": {
       "symbol": "八",
-      "meaning": "eight"
+      "meaning": {
+        "en": "eight",
+        "vi": "tám"
+      }
     },
     "parts": [
       "ハ",

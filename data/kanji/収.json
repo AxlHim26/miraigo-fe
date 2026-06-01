@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 6,
     "kunyomi": "osa, osameru, osamaru",
-    "meaning": "take in, obtain, collect",
+    "meaning": {
+      "en": "take in, obtain, collect",
+      "vi": "thu vao, dat duoc, thu gom"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "収入（しゅうにゅう）",
         "meaning": {
-          "english": "income, receipts, revenue"
+          "english": "income, receipts, revenue",
+          "en": "income, receipts, revenue",
+          "vi": "thu nhap, khoan thu, doanh thu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "収支（しゅうし）",
         "meaning": {
-          "english": "income and expenditure"
+          "english": "income and expenditure",
+          "en": "income and expenditure",
+          "vi": "thu va chi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "月収（げっしゅう）",
         "meaning": {
-          "english": "monthly income"
+          "english": "monthly income",
+          "en": "monthly income",
+          "vi": "thu nhap hang thang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "年収（ねんしゅう）",
         "meaning": {
-          "english": "annual income"
+          "english": "annual income",
+          "en": "annual income",
+          "vi": "thu nhap hang nam"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "領収書（りょうしゅうしょ）",
         "meaning": {
-          "english": "receipt"
+          "english": "receipt",
+          "en": "receipt",
+          "vi": "bien lai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "収穫する（しゅうかくする）",
         "meaning": {
-          "english": "harvest, gather in, reap"
+          "english": "harvest, gather in, reap",
+          "en": "harvest, gather in, reap",
+          "vi": "thu hoach, gom ve, gat hai"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "収集する（しゅうしゅうする）",
         "meaning": {
-          "english": "collect, gather, accumulate"
+          "english": "collect, gather, accumulate",
+          "en": "collect, gather, accumulate",
+          "vi": "thu gom, tap hop, tich luy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "収拾する（しゅうしゅうする）",
         "meaning": {
-          "english": "get under control, handle"
+          "english": "get under control, handle",
+          "en": "get under control, handle",
+          "vi": "kiem soat, xu ly"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "吸収する（きゅうしゅうする）",
         "meaning": {
-          "english": "absorb, assimilate, suck in"
+          "english": "absorb, assimilate, suck in",
+          "en": "absorb, assimilate, suck in",
+          "vi": "hap thu, dong hoa, hut vao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "買収する（ばいしゅうする）",
         "meaning": {
-          "english": "buy, purchase, bribe"
+          "english": "buy, purchase, bribe",
+          "en": "buy, purchase, bribe",
+          "vi": "mua, sam, hoi lo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "収める（おさめる）",
         "meaning": {
-          "english": "pay, deliver, store, keep"
+          "english": "pay, deliver, store, keep",
+          "en": "pay, deliver, store, keep",
+          "vi": "chi tra, giao nop, luu tru, giu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "収まる（おさまる）",
         "meaning": {
-          "english": "fall into place, settle down"
+          "english": "fall into place, settle down",
+          "en": "fall into place, settle down",
+          "vi": "vao khuon, on dinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(nousuru)_06_l.opus",
@@ -256,7 +283,9 @@
     "kanji": {
       "character": "収",
       "meaning": {
-        "english": "take in, obtain, collect"
+        "english": "take in, obtain, collect",
+        "en": "take in, obtain, collect",
+        "vi": "thu vao, dat duoc, thu gom"
       },
       "strokes": {
         "count": 4,
@@ -302,7 +331,9 @@
         "romaji": "mata"
       },
       "meaning": {
-        "english": "again, right hand"
+        "english": "again, right hand",
+        "en": "again, right hand",
+        "vi": "lai nua, ban tay phai"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/mata0.svg",
@@ -323,7 +354,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "337",
     "strokeCount": 4,
-    "meaning": "income, obtain, reap, pay, supply, store",
+    "meaning": {
+      "en": "income, obtain, reap, pay, supply, store",
+      "vi": "thu nhap, thu duoc, thu hoach, chi tra, cung cap, luu tru"
+    },
     "kunyomi": [
       "おさ.める",
       "おさ.まる"
@@ -336,7 +370,8 @@
         "example": "収穫",
         "reading": "シュウカク",
         "meaning": {
-          "vi": "harvest, crop, ingathering, fruits (of one's labors), gain, result, returns, catch (fishing), bag (hunting), haul"
+          "vi": "thu hoach, mua mang, vu gat, thanh qua lao dong, loi ich, ket qua, loi tuc, me ca, san pham san bat, me luoi",
+          "en": "harvest, crop, ingathering, fruits (of one's labors), gain, result, returns, catch (fishing), bag (hunting), haul"
         },
         "romaji": "shuukaku"
       },
@@ -344,7 +379,8 @@
         "example": "収益",
         "reading": "シュウエキ",
         "meaning": {
-          "vi": "earnings, proceeds, returns, revenue"
+          "vi": "thu nhap, tien thu duoc, loi tuc, doanh thu",
+          "en": "earnings, proceeds, returns, revenue"
         },
         "romaji": "shuueki"
       },
@@ -352,7 +388,8 @@
         "example": "徴収",
         "reading": "チョウシュウ",
         "meaning": {
-          "en": "collection (of fees, taxes, etc.), levy"
+          "en": "collection (of fees, taxes, etc.), levy",
+          "vi": "viec thu phi, thue, khoan truy thu"
         },
         "romaji": "choushuu"
       },
@@ -360,7 +397,8 @@
         "example": "増収",
         "reading": "ゾウシュウ",
         "meaning": {
-          "en": "increase in yield"
+          "en": "increase in yield",
+          "vi": "tang san luong"
         },
         "romaji": "zoushuu"
       }
@@ -370,7 +408,8 @@
         "example": "収める",
         "reading": "おさめる",
         "meaning": {
-          "vi": "to put (into), to put away (in), to put back (in), to keep (in), to store (in), to restore (to its place), to include (in an anthology, catalogue, etc.), to contain, to publish (in), to capture (on film), to achieve (results, success, etc.), to obtain, to get, to gain, to win, to make (a profit), to pay (fees, taxes, etc.), to deliver, to supply, to accept (a gift or money), to keep (within a limit), to offer (to a shrine, deity, etc.), to dedicate, to subdue, to suppress, to settle, to finish, to conclude, to wind up, to bring to a close"
+          "vi": "dat vao, cat vao, de lai vao, giu trong, luu tru, tra ve cho dung cho, dua vao tap sach muc luc, chua dung, dang tren, ghi lai tren phim, dat ket qua thanh cong, thu duoc, nhan duoc, co duoc, chien thang, kiem loi, nop phi thue, giao, cung cap, nhan qua tien, giu trong gioi han, dang cung den than, hien dang, khuat phuc, dan ap, giai quyet, ket thuc, ket luan, khép lai, dua den hoi ket",
+          "en": "to put (into), to put away (in), to put back (in), to keep (in), to store (in), to restore (to its place), to include (in an anthology, catalogue, etc.), to contain, to publish (in), to capture (on film), to achieve (results, success, etc.), to obtain, to get, to gain, to win, to make (a profit), to pay (fees, taxes, etc.), to deliver, to supply, to accept (a gift or money), to keep (within a limit), to offer (to a shrine, deity, etc.), to dedicate, to subdue, to suppress, to settle, to finish, to conclude, to wind up, to bring to a close"
         },
         "romaji": "osameru"
       },
@@ -378,14 +417,18 @@
         "example": "収まる",
         "reading": "おさまる",
         "meaning": {
-          "vi": "to fit into (a box, frame, category, etc.), to be contained within, to fall within (e.g. a budget), to settle down (into), to be installed (in one's rightful place), to be returned (to one's original position), to settle into (one's position), to take up (a post), to occupy (a role), to be delivered, to be paid (e.g. taxes), to be settled (dispute, conflict, etc.), to be sorted, to subside (e.g. wind), to calm down, to abate, to be satisfied (e.g. with an answer), to consent, to agree"
+          "vi": "vua trong hop khung loai, nam trong, thuoc pham vi nhu ngan sach, on dinh vao, duoc dat dung vi tri, duoc tra lai vi tri cu, yen vi trong vai tro, dam nhan chuc vu, giu vai tro, duoc giao, duoc nop, duoc giai quyet tranh chap xung dot, duoc sap xep, lang xuong nhu gio, binh tinh lai, giam bot, thoa man voi cau tra loi, dong y, tan thanh",
+          "en": "to fit into (a box, frame, category, etc.), to be contained within, to fall within (e.g. a budget), to settle down (into), to be installed (in one's rightful place), to be returned (to one's original position), to settle into (one's position), to take up (a post), to occupy (a role), to be delivered, to be paid (e.g. taxes), to be settled (dispute, conflict, etc.), to be sorted, to subside (e.g. wind), to calm down, to abate, to be satisfied (e.g. with an answer), to consent, to agree"
         },
         "romaji": "osamaru"
       }
     ],
     "radical": {
       "symbol": "又",
-      "meaning": "right hand"
+      "meaning": {
+        "en": "right hand",
+        "vi": "tay phai"
+      }
     },
     "parts": [
       "又",
@@ -398,5 +441,7 @@
   },
   "hanViet": [
     "thâu"
-  ]
+  ],
+  "jlpt_level": "N3",
+  "mnemonic_vi": "Bàn tay thu vật vào trong, nhớ là thu vào, thu hoạch, thu nhận."
 }

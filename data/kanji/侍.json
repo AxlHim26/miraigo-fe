@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1939",
     "strokeCount": 8,
-    "meaning": "waiter, samurai, wait upon, serve",
+    "meaning": {
+      "en": "waiter, samurai, wait upon, serve",
+      "vi": "người hầu, samurai, hầu hạ, phục vụ"
+    },
     "kunyomi": [
       "さむらい",
       "はべ.る"
@@ -22,7 +25,8 @@
         "example": "侍従",
         "reading": "ジジュウ",
         "meaning": {
-          "en": "chamberlain"
+          "en": "chamberlain",
+          "vi": "thị thần"
         },
         "romaji": "jijuu"
       },
@@ -30,7 +34,8 @@
         "example": "侍医",
         "reading": "ジイ",
         "meaning": {
-          "vi": "court physician"
+          "vi": "ngự y",
+          "en": "court physician"
         },
         "romaji": "jii"
       },
@@ -38,7 +43,8 @@
         "example": "内侍",
         "reading": "ナイシ",
         "meaning": {
-          "en": "maid of honor, maid of honour, lady-in-waiting"
+          "en": "maid of honor, maid of honour, lady-in-waiting",
+          "vi": "thị nữ, cung nữ hầu cận"
         },
         "romaji": "naishi"
       },
@@ -46,7 +52,8 @@
         "example": "陪侍",
         "reading": "バイジ",
         "meaning": {
-          "en": "retainer, attending on the nobility"
+          "en": "retainer, attending on the nobility",
+          "vi": "gia thần, hầu cận giới quý tộc"
         },
         "romaji": "baiji"
       },
@@ -54,7 +61,8 @@
         "example": "内侍",
         "reading": "ナイシ",
         "meaning": {
-          "en": "maid of honor, maid of honour, lady-in-waiting"
+          "en": "maid of honor, maid of honour, lady-in-waiting",
+          "vi": "thị nữ, cung nữ hầu cận"
         },
         "romaji": "naishi"
       }
@@ -64,7 +72,8 @@
         "example": "侍",
         "reading": "さむらい",
         "meaning": {
-          "vi": "warrior (esp. of military retainers of daimyos in the Edo period), samurai, person with a strong backbone, person that does incredible things, person of considerable talent"
+          "vi": "võ sĩ (đặc biệt là gia thần quân sự của daimyo thời Edo), samurai, người có khí phách, người làm được việc phi thường, người rất có tài",
+          "en": "warrior (esp. of military retainers of daimyos in the Edo period), samurai, person with a strong backbone, person that does incredible things, person of considerable talent"
         },
         "romaji": "samurai"
       },
@@ -72,7 +81,8 @@
         "example": "侍蟻",
         "reading": "さむらいあり",
         "meaning": {
-          "vi": "Polyergus samurai (species of amazon ant)"
+          "vi": "kiến Polyergus samurai (một loài kiến amazôn)",
+          "en": "Polyergus samurai (species of amazon ant)"
         },
         "romaji": "samuraiari"
       },
@@ -80,7 +90,8 @@
         "example": "二四六九士",
         "reading": "にしむくさむらい",
         "meaning": {
-          "en": "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)"
+          "en": "nishimuku samurai (mnemonic for remembering the months with fewer than 31 days)",
+          "vi": "nishimuku samurai (mẹo ghi nhớ các tháng có ít hơn 31 ngày)"
         },
         "romaji": "nishimukusamurai"
       },
@@ -88,7 +99,8 @@
         "example": "七人の侍",
         "reading": "しちにんのさむらい",
         "meaning": {
-          "en": "Seven Samurai (film by Akira Kurosawa)"
+          "en": "Seven Samurai (film by Akira Kurosawa)",
+          "vi": "Bảy Võ Sĩ Đạo (phim của Akira Kurosawa)"
         },
         "romaji": "shichininnosamurai"
       },
@@ -96,7 +108,8 @@
         "example": "侍る",
         "reading": "はべる",
         "meaning": {
-          "vi": "to wait upon, to serve"
+          "vi": "hầu hạ, phục vụ",
+          "en": "to wait upon, to serve"
         },
         "romaji": "haberu"
       }
@@ -106,7 +119,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 9,
-    "meaning": "how, what, alas, question mark, exclamation mark",
+    "meaning": {
+      "en": "how, what, alas, question mark, exclamation mark",
+      "vi": "biết bao, gì thay, than ôi, dấu hỏi, dấu cảm thán"
+    },
     "kunyomi": [
       "かな",
       "や"
@@ -19,7 +22,8 @@
         "example": "快哉",
         "reading": "カイサイ",
         "meaning": {
-          "en": "joy, exultation"
+          "en": "joy, exultation",
+          "vi": "niềm vui sướng, hân hoan"
         },
         "romaji": "kaisai"
       },
@@ -27,7 +31,8 @@
         "example": "悦哉",
         "reading": "エッサイ",
         "meaning": {
-          "vi": "musket (male Japanese sparrowhawk)"
+          "vi": "musket (male Japanese sparrowhawk)",
+          "en": "male Japanese sparrowhawk"
         },
         "romaji": "essai"
       }
@@ -37,7 +42,8 @@
         "example": "哉",
         "reading": "かな",
         "meaning": {
-          "en": "how!, what!, alas!"
+          "en": "how!, what!, alas!",
+          "vi": "biết bao!, sao mà!, than ôi!"
         },
         "romaji": "kana"
       },
@@ -45,7 +51,8 @@
         "example": "悲しいかな",
         "reading": "かなしいかな",
         "meaning": {
-          "en": "sad to say, how sad, alas"
+          "en": "sad to say, how sad, alas",
+          "vi": "đáng buồn thay, buồn biết bao, than ôi"
         },
         "romaji": "kanashiikana"
       },
@@ -53,7 +60,8 @@
         "example": "善い哉",
         "reading": "よいかな",
         "meaning": {
-          "en": "well done!, bravo!"
+          "en": "well done!, bravo!",
+          "vi": "làm tốt lắm!, bravo!"
         },
         "romaji": "yoikana"
       },
@@ -61,14 +69,18 @@
         "example": "候哉",
         "reading": "そうろうや",
         "meaning": {
-          "en": "I wonder if ..."
+          "en": "I wonder if ...",
+          "vi": "không biết liệu ..."
         },
         "romaji": "sourouya"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "口",
@@ -82,5 +94,7 @@
   },
   "hanViet": [
     "tai"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Miệng 口 cất tiếng than, 哉 gợi cảm giác thốt lên: than ôi, biết bao."
 }

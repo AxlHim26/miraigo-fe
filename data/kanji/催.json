@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "536",
     "strokeCount": 13,
-    "meaning": "sponsor, hold (a meeting), give (a dinner)",
+    "meaning": {
+      "en": "sponsor, hold (a meeting), give (a dinner)",
+      "vi": "tài trợ, tổ chức (cuộc họp), khoản đãi (bữa ăn)"
+    },
     "kunyomi": [
       "もよう.す",
       "もよお.す"
@@ -21,7 +24,8 @@
         "example": "催涙",
         "reading": "サイルイ",
         "meaning": {
-          "en": "tear-inducing"
+          "en": "tear-inducing",
+          "vi": "gây rơi nước mắt"
         },
         "romaji": "sairui"
       },
@@ -29,7 +33,8 @@
         "example": "催促",
         "reading": "サイソク",
         "meaning": {
-          "vi": "pressing, urging, demanding, demand"
+          "vi": "pressing, urging, demanding, demand",
+          "en": "pressing, urging, demanding, demand"
         },
         "romaji": "saisoku"
       },
@@ -37,7 +42,8 @@
         "example": "共催",
         "reading": "キョウサイ",
         "meaning": {
-          "vi": "joint sponsorship (of an event), cosponsorship, joint hosting"
+          "vi": "joint sponsorship (of an event), cosponsorship, joint hosting",
+          "en": "joint sponsorship (of an event), cosponsorship, joint hosting"
         },
         "romaji": "kyousai"
       },
@@ -45,7 +51,8 @@
         "example": "併催",
         "reading": "ヘイサイ",
         "meaning": {
-          "vi": "combining a pair of events, joint"
+          "vi": "combining a pair of events, joint",
+          "en": "combining a pair of events, joint"
         },
         "romaji": "heisai"
       }
@@ -55,7 +62,8 @@
         "example": "催す",
         "reading": "もよおす",
         "meaning": {
-          "vi": "to hold (an event), to give (a dinner, party, etc.), to feel (sensation, emotion, call of nature, etc.), to show signs of"
+          "vi": "to hold (an event), to give (a dinner, party, etc.), to feel (sensation, emotion, call of nature, etc.), to show signs of",
+          "en": "to hold (an event), to give (a dinner, party, etc.), to feel (sensation, emotion, call of nature, etc.), to show signs of"
         },
         "romaji": "moyoosu"
       }
@@ -65,7 +73,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

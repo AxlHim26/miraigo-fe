@@ -5,7 +5,10 @@
     "query": "佛",
     "found": true,
     "strokeCount": 7,
-    "meaning": "France",
+    "meaning": {
+      "en": "France",
+      "vi": "Pháp"
+    },
     "kunyomi": [
       "ほとけ"
     ],
@@ -18,21 +21,26 @@
         "example": "仏像",
         "reading": "ブツゾウ",
         "meaning": {
-          "en": "statue of Buddha, image of Buddha, Buddhist statue, Buddhist image"
+          "en": "statue of Buddha, image of Buddha, Buddhist statue, Buddhist image",
+          "vi": "tượng Phật, hình tượng Phật, pho tượng Phật, ảnh Phật"
         },
         "romaji": "butsuzou"
       },
       {
         "example": "【ブッダ】",
         "reading": "Buddha",
-        "meaning": "",
+        "meaning": {
+          "en": "",
+          "vi": ""
+        },
         "romaji": "Buddha"
       },
       {
         "example": "胎内仏",
         "reading": "タイナイブツ",
         "meaning": {
-          "en": "small Buddhist image inside another Buddhist image"
+          "en": "small Buddhist image inside another Buddhist image",
+          "vi": "tượng Phật nhỏ đặt trong một tượng Phật khác"
         },
         "romaji": "tainaibutsu"
       },
@@ -40,7 +48,8 @@
         "example": "写仏",
         "reading": "シャブツ",
         "meaning": {
-          "vi": "tracing a picture of a Buddhist image"
+          "en": "tracing a picture of a Buddhist image",
+          "vi": "vẽ đồ theo hình tượng Phật"
         },
         "romaji": "shabutsu"
       },
@@ -48,7 +57,8 @@
         "example": "仏語",
         "reading": "フツゴ",
         "meaning": {
-          "en": "French (language)"
+          "en": "French (language)",
+          "vi": "tiếng Pháp"
         },
         "romaji": "futsugo"
       },
@@ -56,7 +66,8 @@
         "example": "仏国",
         "reading": "フッコク",
         "meaning": {
-          "en": "France"
+          "en": "France",
+          "vi": "Pháp"
         },
         "romaji": "fukkoku"
       }
@@ -66,7 +77,8 @@
         "example": "仏",
         "reading": "ほとけ",
         "meaning": {
-          "vi": "Buddha, Shakyamuni, Buddhist image, figure of Buddha, the dead, dead person, departed soul, merciful person"
+          "en": "Buddha, Shakyamuni, Buddhist image, figure of Buddha, the dead, dead person, departed soul, merciful person",
+          "vi": "Phật, Đức Thích Ca, hình tượng Phật, tượng Phật, người đã khuất, người chết, linh hồn người mất, người nhân từ"
         },
         "romaji": "hotoke"
       },
@@ -74,7 +86,8 @@
         "example": "御仏",
         "reading": "みほとけ",
         "meaning": {
-          "en": "Lord Buddha, The Buddha"
+          "en": "Lord Buddha, The Buddha",
+          "vi": "Đức Phật, Phật Tổ"
         },
         "romaji": "mihotoke"
       }
@@ -84,7 +97,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

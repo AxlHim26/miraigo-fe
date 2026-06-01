@@ -5,7 +5,10 @@
     "query": "侘",
     "found": true,
     "strokeCount": 8,
-    "meaning": "proud, lonely",
+    "meaning": {
+      "en": "proud, lonely",
+      "vi": "kiêu hãnh, cô quạnh"
+    },
     "kunyomi": [
       "わび.しい",
       "ほこ.る",
@@ -20,7 +23,8 @@
         "example": "侘しい",
         "reading": "わびしい",
         "meaning": {
-          "en": "miserable, wretched, lonely, dreary, shabby, comfortless"
+          "en": "miserable, wretched, lonely, dreary, shabby, comfortless",
+          "vi": "khổ sở, thảm hại, cô đơn, ảm đạm, tồi tàn, thiếu tiện nghi"
         },
         "romaji": "wabishii"
       },
@@ -28,7 +32,8 @@
         "example": "侘びる",
         "reading": "わびる",
         "meaning": {
-          "vi": "to be worried, to be grieved, to pine for"
+          "vi": "lo lắng, buồn phiền, khắc khoải mong nhớ",
+          "en": "to be worried, to be grieved, to pine for"
         },
         "romaji": "wabiru"
       }
@@ -38,7 +43,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

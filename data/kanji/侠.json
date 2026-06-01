@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2385",
     "strokeCount": 8,
-    "meaning": "tomboy, chivalry",
+    "meaning": {
+      "en": "tomboy, chivalry",
+      "vi": "tomboy, tinh thần hiệp nghĩa"
+    },
     "kunyomi": [
       "きゃん",
       "おとこだて"
@@ -19,7 +22,8 @@
         "example": "侠客",
         "reading": "キョウカク",
         "meaning": {
-          "vi": "self-styled humanitarian, person acting under the pretence of chivalry while participating in gangs and engaging in gambling"
+          "vi": "kẻ tự xưng là người nghĩa hiệp, hành xử dưới danh nghĩa hiệp nghĩa trong khi tham gia băng nhóm và cờ bạc",
+          "en": "self-styled humanitarian, person acting under the pretence of chivalry while participating in gangs and engaging in gambling"
         },
         "romaji": "kyoukaku"
       },
@@ -27,7 +31,8 @@
         "example": "男気",
         "reading": "オトコギ",
         "meaning": {
-          "vi": "chivalrous spirit, chivalry"
+          "vi": "tinh thần hiệp nghĩa, hiệp nghĩa",
+          "en": "chivalrous spirit, chivalry"
         },
         "romaji": "otokogi"
       },
@@ -35,7 +40,8 @@
         "example": "任侠",
         "reading": "ニンキョウ",
         "meaning": {
-          "vi": "chivalry, chivalrous spirit, helping the weak and fighting the strong, yakuza"
+          "vi": "hiệp nghĩa, tinh thần hiệp nghĩa, giúp kẻ yếu chống kẻ mạnh, yakuza",
+          "en": "chivalry, chivalrous spirit, helping the weak and fighting the strong, yakuza"
         },
         "romaji": "ninkyou"
       },
@@ -43,7 +49,8 @@
         "example": "遊侠",
         "reading": "ユウキョウ",
         "meaning": {
-          "vi": "chivalrous person"
+          "vi": "người hiệp nghĩa",
+          "en": "chivalrous person"
         },
         "romaji": "yuukyou"
       }
@@ -53,7 +60,8 @@
         "example": "侠",
         "reading": "きゃん",
         "meaning": {
-          "vi": "pert, tomboyish, impudent, lively, boisterous, gallant, chivalrous"
+          "vi": "láu lỉnh, kiểu tomboy, xấc xược, hoạt bát, ồn ào, hào hiệp, hiệp nghĩa",
+          "en": "pert, tomboyish, impudent, lively, boisterous, gallant, chivalrous"
         },
         "romaji": "kyan"
       },
@@ -61,7 +69,8 @@
         "example": "お侠",
         "reading": "おきゃん",
         "meaning": {
-          "vi": "pert, tomboyish, impudent, lively, boisterous"
+          "vi": "láu lỉnh, kiểu tomboy, xấc xược, hoạt bát, ồn ào",
+          "en": "pert, tomboyish, impudent, lively, boisterous"
         },
         "romaji": "okyan"
       }
@@ -71,7 +80,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "二",

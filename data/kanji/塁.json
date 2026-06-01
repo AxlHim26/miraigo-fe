@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "651",
     "strokeCount": 12,
-    "meaning": "bases, fort, rampart, walls, base(ball)",
+    "meaning": {
+      "en": "bases, fort, rampart, walls, base(ball)",
+      "vi": "lũy, đồn lũy, gôn gốc trong bóng chày"
+    },
     "kunyomi": [
       "とりで"
     ],
@@ -22,7 +25,8 @@
         "example": "塁",
         "reading": "ルイ",
         "meaning": {
-          "en": "base, bag, sack, fortress, stronghold"
+          "en": "base, bag, sack, fortress, stronghold",
+          "vi": "gôn, bao gôn, đồn lũy, cứ điểm"
         },
         "romaji": "rui"
       },
@@ -30,7 +34,8 @@
         "example": "塁審",
         "reading": "ルイシン",
         "meaning": {
-          "vi": "base umpire"
+          "vi": "base umpire",
+          "en": "base umpire"
         },
         "romaji": "ruishin"
       },
@@ -38,7 +43,8 @@
         "example": "二塁",
         "reading": "ニルイ",
         "meaning": {
-          "en": "second base"
+          "en": "second base",
+          "vi": "gôn số hai"
         },
         "romaji": "nirui"
       },
@@ -46,7 +52,8 @@
         "example": "走塁",
         "reading": "ソウルイ",
         "meaning": {
-          "en": "base running"
+          "en": "base running",
+          "vi": "chạy gôn"
         },
         "romaji": "sourui"
       }
@@ -56,14 +63,18 @@
         "example": "砦",
         "reading": "とりで",
         "meaning": {
-          "en": "fort, fortress, stronghold, fortification"
+          "en": "fort, fortress, stronghold, fortification",
+          "vi": "pháo đài, đồn lũy, công sự"
         },
         "romaji": "toride"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "冫",
@@ -75,6 +86,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5841.gif",
     "uri": "https://jisho.org/search/%E5%A1%81%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: ba lớp đất chồng lên nhau như lũy phòng thủ, cũng gợi các gôn xếp quanh sân bóng chày.",
   "hanViet": [
     "lỗi",
     "luật",

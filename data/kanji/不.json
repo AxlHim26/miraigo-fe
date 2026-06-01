@@ -7,7 +7,10 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "not",
+    "meaning": {
+      "en": "not",
+      "vi": "không"
+    },
     "kstroke": 4,
     "examples": [
       {
@@ -391,7 +394,9 @@
     "kanji": {
       "character": "不",
       "meaning": {
-        "english": "not"
+        "english": "not",
+        "en": "not",
+        "vi": "không"
       },
       "strokes": {
         "count": 4,
@@ -437,7 +442,9 @@
         "romaji": "ichi"
       },
       "meaning": {
-        "english": "one, horizontal stroke"
+        "english": "one, horizontal stroke",
+        "en": "one, horizontal stroke",
+        "vi": "một, nét ngang"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ichi0.svg",
@@ -458,7 +465,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "101",
     "strokeCount": 4,
-    "meaning": "negative, non-, bad, ugly, clumsy",
+    "meaning": {
+      "en": "negative, non-, bad, ugly, clumsy",
+      "vi": "phủ định, phi-, xấu, xí, vụng về"
+    },
     "kunyomi": [],
     "onyomi": [
       "フ",
@@ -571,7 +581,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "ノ",

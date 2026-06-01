@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1730",
     "strokeCount": 3,
-    "meaning": "commonplace, ordinary, mediocre",
+    "meaning": {
+      "en": "commonplace, ordinary, mediocre",
+      "vi": "tầm thường, bình thường, xoàng"
+    },
     "kunyomi": [
       "およ.そ",
       "おうよ.そ",
@@ -23,7 +26,8 @@
         "example": "凡",
         "reading": "ボン",
         "meaning": {
-          "en": "ordinary, common, mediocre"
+          "en": "ordinary, common, mediocre",
+          "vi": "bình thường, phổ thông, tầm thường"
         },
         "romaji": "bon"
       },
@@ -31,7 +35,8 @@
         "example": "凡人",
         "reading": "ボンジン",
         "meaning": {
-          "vi": "ordinary person, average person, mediocre person"
+          "vi": "người bình thường, người tầm thường",
+          "en": "ordinary person, average person, mediocre person"
         },
         "romaji": "bonjin"
       },
@@ -39,7 +44,8 @@
         "example": "超凡",
         "reading": "チョウボン",
         "meaning": {
-          "en": "extraordinary"
+          "en": "extraordinary",
+          "vi": "phi thường"
         },
         "romaji": "choubon"
       },
@@ -47,7 +53,8 @@
         "example": "不凡",
         "reading": "フボン",
         "meaning": {
-          "en": "uncommon, outstanding"
+          "en": "uncommon, outstanding",
+          "vi": "không tầm thường, xuất sắc"
         },
         "romaji": "fubon"
       },
@@ -55,7 +62,8 @@
         "example": "凡百",
         "reading": "ボンピャク",
         "meaning": {
-          "en": "various, many, all kinds of"
+          "en": "various, many, all kinds of",
+          "vi": "đa dạng, nhiều loại, đủ thứ"
         },
         "romaji": "bonpyaku"
       },
@@ -63,7 +71,8 @@
         "example": "凡例",
         "reading": "ハンレイ",
         "meaning": {
-          "vi": "explanatory notes (at the start of a book), introductory remarks, usage guide (e.g. of a dictionary), legend (on maps, drawings, etc.)"
+          "vi": "chú giải, lời dẫn nhập, hướng dẫn sử dụng, bảng chú giải",
+          "en": "explanatory notes (at the start of a book), introductory remarks, usage guide (e.g. of a dictionary), legend (on maps, drawings, etc.)"
         },
         "romaji": "hanrei"
       }
@@ -73,7 +82,8 @@
         "example": "凡そ",
         "reading": "およそ",
         "meaning": {
-          "vi": "about, roughly, approximately, generally, on the whole, as a rule, completely, quite, entirely, altogether, totally, not at all (with neg. verb), outline, gist"
+          "vi": "khoảng, đại khái, nhìn chung, hoàn toàn, toàn bộ, cốt yếu",
+          "en": "about, roughly, approximately, generally, on the whole, as a rule, completely, quite, entirely, altogether, totally, not at all (with neg. verb), outline, gist"
         },
         "romaji": "oyoso"
       },
@@ -81,7 +91,8 @@
         "example": "大凡",
         "reading": "おおよそ",
         "meaning": {
-          "vi": "about, roughly, approximately, generally, on the whole, as a rule, completely, quite, entirely, altogether, totally, not at all (with neg. verb), outline, gist"
+          "vi": "khoảng, đại khái, nhìn chung, hoàn toàn, toàn bộ, cốt yếu",
+          "en": "about, roughly, approximately, generally, on the whole, as a rule, completely, quite, entirely, altogether, totally, not at all (with neg. verb), outline, gist"
         },
         "romaji": "ooyoso"
       },
@@ -89,7 +100,8 @@
         "example": "全て",
         "reading": "すべて",
         "meaning": {
-          "vi": "everything, all, the whole, entirely, completely, wholly, all"
+          "vi": "mọi thứ, tất cả, toàn bộ, hoàn toàn",
+          "en": "everything, all, the whole, entirely, completely, wholly, all"
         },
         "romaji": "subete"
       },
@@ -97,14 +109,18 @@
         "example": "すべての道はローマに通ず",
         "reading": "すべてのみちはローマにつうず",
         "meaning": {
-          "en": "all roads lead to Rome"
+          "en": "all roads lead to Rome",
+          "vi": "mọi con đường đều dẫn tới La Mã"
         },
         "romaji": "subetenomichiharoomanitsuuzu"
       }
     ],
     "radical": {
       "symbol": "几",
-      "meaning": "table"
+      "meaning": {
+        "en": "table",
+        "vi": "bàn"
+      }
     },
     "parts": [
       "丶",
@@ -118,5 +134,6 @@
   "hanViet": [
     "hoàn",
     "phàm"
-  ]
+  ],
+  "mnemonic_vi": "Thêm một chấm vào 几 như đánh dấu điều bình thường, phàm là chuyện thường thấy."
 }

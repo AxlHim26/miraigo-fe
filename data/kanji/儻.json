@@ -5,7 +5,10 @@
     "query": "儻",
     "found": true,
     "strokeCount": 22,
-    "meaning": "excel, surpass, if, perhaps",
+    "meaning": {
+      "en": "excel, surpass, if, perhaps",
+      "vi": "vượt trội, vượt hơn, nếu, có lẽ"
+    },
     "kunyomi": [
       "あるいは",
       "すぐ.れる",
@@ -19,7 +22,8 @@
         "example": "倜儻",
         "reading": "テキトウ",
         "meaning": {
-          "en": "being exceedingly wiser than the common man"
+          "en": "being exceedingly wiser than the common man",
+          "vi": "khôn ngoan vượt xa người thường"
         },
         "romaji": "tekitou"
       }
@@ -30,7 +34,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "冖",

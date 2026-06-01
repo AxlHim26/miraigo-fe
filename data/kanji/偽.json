@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1171",
     "strokeCount": 11,
-    "meaning": "falsehood, lie, deceive, pretend, counterfeit, forgery",
+    "meaning": {
+      "en": "falsehood, lie, deceive, pretend, counterfeit, forgery",
+      "vi": "giả dối, lời nói dối, lừa gạt, giả vờ, hàng giả, sự làm giả"
+    },
     "kunyomi": [
       "いつわ.る",
       "にせ",
@@ -23,7 +26,8 @@
         "example": "偽",
         "reading": "ギ",
         "meaning": {
-          "en": "falseness, falsehood"
+          "en": "falseness, falsehood",
+          "vi": "sự giả dối, điều sai sự thật"
         },
         "romaji": "gi"
       },
@@ -31,7 +35,8 @@
         "example": "偽証",
         "reading": "ギショウ",
         "meaning": {
-          "vi": "false evidence, perjury, false testimony"
+          "vi": "false evidence, perjury, false testimony",
+          "en": "false evidence, perjury, false testimony"
         },
         "romaji": "gishou"
       },
@@ -39,7 +44,8 @@
         "example": "真偽",
         "reading": "シンギ",
         "meaning": {
-          "en": "truth or falsehood, genuineness, authenticity, veracity"
+          "en": "truth or falsehood, genuineness, authenticity, veracity",
+          "vi": "thật hay giả, tính chân thực, tính xác thực, sự thành thật"
         },
         "romaji": "shingi"
       },
@@ -47,7 +53,8 @@
         "example": "詐偽",
         "reading": "サギ",
         "meaning": {
-          "vi": "lie, untruth, prevarication"
+          "vi": "lie, untruth, prevarication",
+          "en": "lie, untruth, prevarication"
         },
         "romaji": "sagi"
       }
@@ -57,7 +64,8 @@
         "example": "偽る",
         "reading": "いつわる",
         "meaning": {
-          "vi": "to lie, to pretend, to feign, to falsify, to deceive, to trick"
+          "vi": "to lie, to pretend, to feign, to falsify, to deceive, to trick",
+          "en": "to lie, to pretend, to feign, to falsify, to deceive, to trick"
         },
         "romaji": "itsuwaru"
       },
@@ -65,7 +73,8 @@
         "example": "偽",
         "reading": "にせ",
         "meaning": {
-          "vi": "imitation, fake, phony, counterfeit, forged, bogus, sham, pseudo-"
+          "vi": "imitation, fake, phony, counterfeit, forged, bogus, sham, pseudo-",
+          "en": "imitation, fake, phony, counterfeit, forged, bogus, sham, pseudo-"
         },
         "romaji": "nise"
       },
@@ -73,7 +82,8 @@
         "example": "偽物",
         "reading": "にせもの",
         "meaning": {
-          "vi": "spurious article, forgery, counterfeit, imitation, sham"
+          "vi": "spurious article, forgery, counterfeit, imitation, sham",
+          "en": "spurious article, forgery, counterfeit, imitation, sham"
         },
         "romaji": "nisemono"
       },
@@ -81,7 +91,8 @@
         "example": "偽り",
         "reading": "いつわり",
         "meaning": {
-          "en": "lie, falsehood, fiction, fabrication"
+          "en": "lie, falsehood, fiction, fabrication",
+          "vi": "lời nói dối, điều giả dối, chuyện hư cấu, điều bịa đặt"
         },
         "romaji": "itsuwari"
       },
@@ -89,7 +100,8 @@
         "example": "偽り語る",
         "reading": "いつわりかたる",
         "meaning": {
-          "vi": "to speak falsely"
+          "vi": "to speak falsely",
+          "en": "to speak falsely"
         },
         "romaji": "itsuwarikataru"
       }
@@ -99,7 +111,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

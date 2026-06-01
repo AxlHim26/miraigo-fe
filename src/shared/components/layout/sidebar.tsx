@@ -35,6 +35,44 @@ const sectionMap = {
   kanji: kanjiSidebarSections,
 };
 
+const normalizePath = (value?: string) => {
+  if (!value || value === "/") {
+    return "/";
+  }
+
+  return value.endsWith("/") ? value.slice(0, -1) : value;
+};
+
+const isPathMatch = (pathname: string, href: string) => {
+  const normalizedPath = normalizePath(pathname);
+  const normalizedHref = normalizePath(href);
+
+  return normalizedPath === normalizedHref || normalizedPath.startsWith(`${normalizedHref}/`);
+};
+
+const isItemMatch = (pathname: string, item: { id: string; href?: string }) => {
+  if (!item.href) {
+    return false;
+  }
+
+  if (item.id === "home") {
+    return normalizePath(pathname) === normalizePath(item.href);
+  }
+
+  return isPathMatch(pathname, item.href);
+};
+
+const resolveActiveHref = (pathname: string, sections: typeof grammarSidebarSections) => {
+  const matches = sections
+    .flatMap((section) => section.items)
+    .filter((item) => isItemMatch(pathname, item))
+    .map((item) => item.href)
+    .filter((href): href is string => Boolean(href))
+    .sort((first, second) => normalizePath(second).length - normalizePath(first).length);
+
+  return matches[0];
+};
+
 type SidebarProps = {
   current: "grammar" | "vocabulary" | "practice" | "courses" | "kanji";
 };
@@ -69,7 +107,10 @@ export default function Sidebar({ current }: SidebarProps) {
     [router, setCommandOpen, setSidebarOpen],
   );
 
-  const activeHref = pathname;
+  const activeHref = React.useMemo(
+    () => resolveActiveHref(pathname, sections),
+    [pathname, sections],
+  );
   const email = authStorage.getEmail() ?? authStorage.getUsername() ?? "";
 
   const handleLogout = React.useCallback(async () => {
@@ -101,8 +142,8 @@ export default function Sidebar({ current }: SidebarProps) {
           <SidebarSection
             key={section.id}
             section={section}
-            activeId={activeHref}
             onItemClick={handleItemClick}
+            {...(activeHref ? { activeId: activeHref } : {})}
           />
         ))}
       </div>

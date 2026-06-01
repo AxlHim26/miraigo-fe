@@ -5,7 +5,10 @@
     "query": "鯵",
     "found": true,
     "strokeCount": 19,
-    "meaning": "horse mackerel",
+    "meaning": {
+      "en": "horse mackerel",
+      "vi": "cá khế"
+    },
     "kunyomi": [
       "あじ"
     ],
@@ -17,14 +20,18 @@
       {
         "example": "【アジ】",
         "reading": "horse mackerel (Carangidae spp., esp. the Japanese horse mackerel, Trachurus japonicus), jack mackerel, pompano, scad",
-        "meaning": "",
+        "meaning": {
+          "en": "horse mackerel, jack mackerel, pompano, scad",
+          "vi": "cá khế, cá nục ngựa, cá giòn, cá bạc má"
+        },
         "romaji": "horse mackerel (Carangidae spp., esp. the Japanese horse mackerel, Trachurus japonicus), jack mackerel, pompano, scad"
       },
       {
         "example": "アジの開き",
         "reading": "あじのひらき",
         "meaning": {
-          "vi": "horse mackerel, cut open and dried"
+          "vi": "horse mackerel, cut open and dried",
+          "en": "horse mackerel, cut open and dried"
         },
         "romaji": "ajinohiraki"
       },
@@ -32,7 +39,8 @@
         "example": "秋鯵",
         "reading": "あきあじ",
         "meaning": {
-          "en": "horse mackerel caught in autumn"
+          "en": "horse mackerel caught in autumn",
+          "vi": "cá khế đánh bắt vào mùa thu"
         },
         "romaji": "akiaji"
       },
@@ -40,14 +48,18 @@
         "example": "開き鯵",
         "reading": "ひらきあじ",
         "meaning": {
-          "vi": "split and dried saurel"
+          "vi": "split and dried saurel",
+          "en": "split and dried saurel"
         },
         "romaji": "hirakiaji"
       }
     ],
     "radical": {
       "symbol": "魚",
-      "meaning": "fish"
+      "meaning": {
+        "en": "fish",
+        "vi": "cá"
+      }
     },
     "parts": [
       "厶",

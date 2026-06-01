@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "ito",
-    "meaning": "thread",
+    "meaning": {
+      "en": "thread",
+      "vi": "sợi chỉ"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "綿糸（めんし）",
         "meaning": {
-          "english": "cotton yarn"
+          "english": "cotton yarn",
+          "en": "cotton yarn",
+          "vi": "sợi bông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "抜糸する（ばっしする）",
         "meaning": {
-          "english": "remove stitches"
+          "english": "remove stitches",
+          "en": "remove stitches",
+          "vi": "tháo đường chỉ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "糸（いと）",
         "meaning": {
-          "english": "thread, yarn, string"
+          "english": "thread, yarn, string",
+          "en": "thread, yarn, string",
+          "vi": "sợi chỉ, sợi len, dây"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "糸口（いとぐち）",
         "meaning": {
-          "english": "beginning, start, clue"
+          "english": "beginning, start, clue",
+          "en": "beginning, start, clue",
+          "vi": "khởi đầu, bắt đầu, manh mối"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "毛糸（けいと）",
         "meaning": {
-          "english": "knitting wool"
+          "english": "knitting wool",
+          "en": "knitting wool",
+          "vi": "len đan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "縦糸（たていと）",
         "meaning": {
-          "english": "warp"
+          "english": "warp",
+          "en": "warp",
+          "vi": "sợi dọc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "横糸（よこいと）",
         "meaning": {
-          "english": "woof"
+          "english": "woof",
+          "en": "woof",
+          "vi": "sợi ngang"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ito_06_g.opus",
@@ -197,7 +214,9 @@
     "kanji": {
       "character": "糸",
       "meaning": {
-        "english": "thread"
+        "english": "thread",
+        "en": "thread",
+        "vi": "sợi chỉ"
       },
       "strokes": {
         "count": 6,
@@ -247,7 +266,9 @@
         "romaji": "ito"
       },
       "meaning": {
-        "english": "thread"
+        "english": "thread",
+        "en": "thread",
+        "vi": "sợi chỉ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ito0.svg",
@@ -268,7 +289,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1488",
     "strokeCount": 6,
-    "meaning": "thread",
+    "meaning": {
+      "en": "thread",
+      "vi": "sợi chỉ"
+    },
     "kunyomi": [
       "いと"
     ],
@@ -280,7 +304,8 @@
         "example": "糸",
         "reading": "シ",
         "meaning": {
-          "en": "thread, 0.0001, one ten-thousandth"
+          "en": "thread, 0.0001, one ten-thousandth",
+          "vi": "sợi chỉ, 0,0001, một phần vạn"
         },
         "romaji": "shi"
       },
@@ -288,7 +313,8 @@
         "example": "糸雨",
         "reading": "シウ",
         "meaning": {
-          "en": "drizzle, light rain, fine rain"
+          "en": "drizzle, light rain, fine rain",
+          "vi": "mưa phùn, mưa nhẹ, mưa lất phất"
         },
         "romaji": "shiu"
       },
@@ -296,7 +322,8 @@
         "example": "蚕糸",
         "reading": "サンシ",
         "meaning": {
-          "en": "silk thread, silk yarn"
+          "en": "silk thread, silk yarn",
+          "vi": "chỉ tơ, sợi tơ"
         },
         "romaji": "sanshi"
       },
@@ -304,7 +331,8 @@
         "example": "金糸",
         "reading": "キンシ",
         "meaning": {
-          "en": "gold thread"
+          "en": "gold thread",
+          "vi": "chỉ vàng"
         },
         "romaji": "kinshi"
       }
@@ -314,7 +342,8 @@
         "example": "糸",
         "reading": "いと",
         "meaning": {
-          "en": "thread, yarn, string"
+          "en": "thread, yarn, string",
+          "vi": "sợi chỉ, sợi len, dây"
         },
         "romaji": "ito"
       },
@@ -322,7 +351,8 @@
         "example": "糸口",
         "reading": "いとぐち",
         "meaning": {
-          "vi": "beginning, start, first step, clue, lead, hint, thread end"
+          "vi": "beginning, start, first step, clue, lead, hint, thread end",
+          "en": "beginning, start, first step, clue, lead, hint, thread end"
         },
         "romaji": "itoguchi"
       },
@@ -330,7 +360,8 @@
         "example": "横糸",
         "reading": "よこいと",
         "meaning": {
-          "en": "weft, woof (crosswise threads on a loom)"
+          "en": "weft, woof (crosswise threads on a loom)",
+          "vi": "sợi ngang, sợi ngang trên khung cửi"
         },
         "romaji": "yokoito"
       },
@@ -338,7 +369,8 @@
         "example": "生糸",
         "reading": "きいと",
         "meaning": {
-          "en": "raw silk thread"
+          "en": "raw silk thread",
+          "vi": "sợi tơ sống"
         },
         "romaji": "kiito"
       }
@@ -348,7 +380,10 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": {
+        "en": "silk",
+        "vi": "lụa"
+      }
     },
     "parts": [
       "小",
@@ -362,5 +397,7 @@
   },
   "hanViet": [
     "mịch"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: Những sợi chỉ mảnh quấn lại với nhau, nên 糸 là sợi chỉ."
 }

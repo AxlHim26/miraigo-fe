@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "tayori, tayo",
-    "meaning": "mail, post, convenient, excrement",
+    "meaning": {
+      "en": "mail, post, convenient, excrement",
+      "vi": "thư tín, bưu điện, tiện lợi, phân"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "郵便（ゆうびん）",
         "meaning": {
-          "english": "postal service"
+          "english": "postal service",
+          "en": "postal service",
+          "vi": "dịch vụ bưu chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben-tayo(ri)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "別便（べつびん）",
         "meaning": {
-          "english": "separate mail"
+          "english": "separate mail",
+          "en": "separate mail",
+          "vi": "thư gửi riêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben-tayo(ri)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "宅急便（たっきゅうびん）",
         "meaning": {
-          "english": "express home delivery"
+          "english": "express home delivery",
+          "en": "express home delivery",
+          "vi": "giao hàng nhanh đến tận nhà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben-tayo(ri)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "便利な（べんりな）",
         "meaning": {
-          "english": "convenient"
+          "english": "convenient",
+          "en": "convenient",
+          "vi": "tiện lợi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben-tayo(ri)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "不便な（ふべんな）",
         "meaning": {
-          "english": "inconvenient"
+          "english": "inconvenient",
+          "en": "inconvenient",
+          "vi": "bất tiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben-tayo(ri)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "便所（べんじょ）",
         "meaning": {
-          "english": "toilet"
+          "english": "toilet",
+          "en": "toilet",
+          "vi": "nhà vệ sinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben-tayo(ri)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "大便（だいべん）",
         "meaning": {
-          "english": "feces"
+          "english": "feces",
+          "en": "feces",
+          "vi": "phân"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben-tayo(ri)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "小便（しょうべん）",
         "meaning": {
-          "english": "urine"
+          "english": "urine",
+          "en": "urine",
+          "vi": "nước tiểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben-tayo(ri)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "便り（たより）",
         "meaning": {
-          "english": "news, letter"
+          "english": "news, letter",
+          "en": "news, letter",
+          "vi": "tin tức, thư"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ben-tayo(ri)_06_i.opus",
@@ -263,7 +284,9 @@
     "kanji": {
       "character": "便",
       "meaning": {
-        "english": "mail, post, convenient, excrement"
+        "english": "mail, post, convenient, excrement",
+        "en": "mail, post, convenient, excrement",
+        "vi": "thư tín, bưu điện, tiện lợi, phân"
       },
       "strokes": {
         "count": 9,
@@ -319,7 +342,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -340,7 +365,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "729",
     "strokeCount": 9,
-    "meaning": "convenience, facility, excrement, feces, letter, chance",
+    "meaning": {
+      "en": "convenience, facility, excrement, feces, letter, chance",
+      "vi": "sự tiện lợi, cơ sở vật chất, phân, thư từ, cơ hội"
+    },
     "kunyomi": [
       "たよ.り"
     ],
@@ -353,7 +381,8 @@
         "example": "便",
         "reading": "ベン",
         "meaning": {
-          "vi": "convenience, service, facility, accommodation, excreta (esp. faeces), excrement, stool"
+          "vi": "sự tiện lợi, dịch vụ, cơ sở vật chất, chỗ ở, chất bài tiết (đặc biệt là phân), phân, phân thải",
+          "en": "convenience, service, facility, accommodation, excreta (esp. faeces), excrement, stool"
         },
         "romaji": "ben"
       },
@@ -361,7 +390,8 @@
         "example": "便宜",
         "reading": "ベンギ",
         "meaning": {
-          "vi": "convenience, accommodation, advantage, benefit, expediency"
+          "vi": "sự tiện lợi, chỗ ở, lợi thế, lợi ích, tính thuận tiện",
+          "en": "convenience, accommodation, advantage, benefit, expediency"
         },
         "romaji": "bengi"
       },
@@ -369,7 +399,8 @@
         "example": "利便",
         "reading": "リベン",
         "meaning": {
-          "en": "convenience"
+          "en": "convenience",
+          "vi": "sự tiện lợi"
         },
         "romaji": "riben"
       },
@@ -377,7 +408,8 @@
         "example": "大便",
         "reading": "ダイベン",
         "meaning": {
-          "en": "feces, faeces, excrement, stool"
+          "en": "feces, faeces, excrement, stool",
+          "vi": "phân, chất bài tiết, phân thải"
         },
         "romaji": "daiben"
       },
@@ -385,7 +417,8 @@
         "example": "便",
         "reading": "ビン",
         "meaning": {
-          "vi": "flight (e.g. airline flight), trip (e.g. train trip), service, mail, post, letter, opportunity, chance"
+          "vi": "chuyến đi (như chuyến bay), hành trình (như chuyến tàu), dịch vụ, thư tín, bưu điện, thư, cơ hội, dịp may",
+          "en": "flight (e.g. airline flight), trip (e.g. train trip), service, mail, post, letter, opportunity, chance"
         },
         "romaji": "bin"
       },
@@ -393,7 +426,8 @@
         "example": "便宜",
         "reading": "ベンギ",
         "meaning": {
-          "vi": "convenience, accommodation, advantage, benefit, expediency"
+          "vi": "sự tiện lợi, chỗ ở, lợi thế, lợi ích, tính thuận tiện",
+          "en": "convenience, accommodation, advantage, benefit, expediency"
         },
         "romaji": "bengi"
       },
@@ -401,7 +435,8 @@
         "example": "穏便",
         "reading": "オンビン",
         "meaning": {
-          "vi": "gentle, peaceable, amicable, quiet, without fuss, simply"
+          "vi": "nhẹ nhàng, ôn hòa, thân thiện, yên lặng, không rườm rà, đơn giản",
+          "en": "gentle, peaceable, amicable, quiet, without fuss, simply"
         },
         "romaji": "onbin"
       },
@@ -409,7 +444,8 @@
         "example": "増便",
         "reading": "ゾウビン",
         "meaning": {
-          "en": "increase in the number of flights"
+          "en": "increase in the number of flights",
+          "vi": "sự gia tăng số chuyến bay"
         },
         "romaji": "zoubin"
       }
@@ -419,7 +455,8 @@
         "example": "便り",
         "reading": "たより",
         "meaning": {
-          "vi": "news, tidings, information, correspondence, letter"
+          "vi": "tin tức, thông tin, thư từ, thư",
+          "en": "news, tidings, information, correspondence, letter"
         },
         "romaji": "tayori"
       },
@@ -427,7 +464,8 @@
         "example": "便りがないのはよい便り",
         "reading": "たよりがないのはよいたより",
         "meaning": {
-          "en": "no news is good news"
+          "en": "no news is good news",
+          "vi": "không có tin tức tức là tin tốt"
         },
         "romaji": "tayoriganainohayoitayori"
       }
@@ -437,7 +475,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ノ",

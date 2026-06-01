@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 10,
-    "meaning": "late, quiet, sets (sun)",
+    "meaning": {
+      "en": "late, quiet, sets (sun)",
+      "vi": "muộn, yên tĩnh, lặn (mặt trời)"
+    },
     "kunyomi": [
       "おそ.い"
     ],
@@ -18,7 +21,8 @@
         "example": "晏如",
         "reading": "アンジョ",
         "meaning": {
-          "en": "calm, tranquil"
+          "en": "calm, tranquil",
+          "vi": "yên bình, thanh thản"
         },
         "romaji": "anjo"
       },
@@ -26,7 +30,8 @@
         "example": "晏然",
         "reading": "アンゼン",
         "meaning": {
-          "en": "calm, tranquil"
+          "en": "calm, tranquil",
+          "vi": "yên bình, thanh thản"
         },
         "romaji": "anzen"
       }
@@ -34,7 +39,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "mặt trời, ngày"
+      }
     },
     "parts": [
       "女",
@@ -49,5 +57,7 @@
   "hanViet": [
     "yến",
     "án"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: mặt trời ở trên, bên dưới là sự yên ổn, gợi cảnh chiều tà muộn mà tĩnh lặng."
 }

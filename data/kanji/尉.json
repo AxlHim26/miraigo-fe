@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2007",
     "strokeCount": 11,
-    "meaning": "military officer, jailer, old man, rank",
+    "meaning": {
+      "en": "military officer, jailer, old man, rank",
+      "vi": "sĩ quan quân đội, cai ngục, ông lão, cấp bậc"
+    },
     "kunyomi": [],
     "onyomi": [
       "イ",
@@ -19,6 +22,7 @@
         "example": "尉官",
         "reading": "イカン",
         "meaning": {
+          "en": "officer below the rank of major, company officer",
           "vi": "officer below the rank of major, company officer"
         },
         "romaji": "ikan"
@@ -27,7 +31,8 @@
         "example": "中尉",
         "reading": "チュウイ",
         "meaning": {
-          "en": "first lieutenant, lieutenant junior grade"
+          "en": "first lieutenant, lieutenant junior grade",
+          "vi": "trung úy hạng nhất, trung úy hải quân cấp thấp"
         },
         "romaji": "chuui"
       },
@@ -35,7 +40,8 @@
         "example": "少尉",
         "reading": "ショウイ",
         "meaning": {
-          "en": "second lieutenant, sublieutenant, ensign"
+          "en": "second lieutenant, sublieutenant, ensign",
+          "vi": "thiếu úy, chuẩn úy hải quân, quân kỳ"
         },
         "romaji": "shoui"
       },
@@ -43,6 +49,7 @@
         "example": "尉",
         "reading": "ジョウ",
         "meaning": {
+          "en": "inspector (third highest of the four administrative ranks of the ritsuryō system), old man, white ash (of charcoal)",
           "vi": "inspector (third highest of the four administrative ranks of the ritsuryō system), old man, white ash (of charcoal)"
         },
         "romaji": "jou"
@@ -51,6 +58,7 @@
         "example": "尉鶲",
         "reading": "ジョウビタキ",
         "meaning": {
+          "en": "Daurian redstart (Phoenicurus auroreus)",
           "vi": "Daurian redstart (Phoenicurus auroreus)"
         },
         "romaji": "joubitaki"
@@ -59,7 +67,8 @@
         "example": "黒式尉",
         "reading": "コクシキジョウ",
         "meaning": {
-          "en": "noh mask used for old man roles (usu. black)"
+          "en": "noh mask used for old man roles (usu. black)",
+          "vi": "mặt nạ Noh dùng cho vai ông lão (thường màu đen)"
         },
         "romaji": "kokushikijou"
       }
@@ -67,7 +76,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "寸",
-      "meaning": "thumb, inch"
+      "meaning": {
+        "en": "thumb, inch",
+        "vi": "ngón cái, inch"
+      }
     },
     "parts": [
       "二",

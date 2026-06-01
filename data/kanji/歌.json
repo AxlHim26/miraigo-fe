@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "uta, utau",
-    "meaning": "song",
+    "meaning": {
+      "en": "song",
+      "vi": "bai hat"
+    },
     "kstroke": 14,
     "examples": [
       {
         "japanese": "歌手（かしゅ）",
         "meaning": {
-          "english": "singer"
+          "english": "singer",
+          "en": "singer",
+          "vi": "ca si"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "歌詞（かし）",
         "meaning": {
-          "english": "song lyrics"
+          "english": "song lyrics",
+          "en": "song lyrics",
+          "vi": "loi bai hat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "歌舞伎（かぶき）",
         "meaning": {
-          "english": "Japanese classical drama"
+          "english": "Japanese classical drama",
+          "en": "Japanese classical drama",
+          "vi": "kich co dien Nhat Ban"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "国歌（こっか）",
         "meaning": {
-          "english": "national anthem"
+          "english": "national anthem",
+          "en": "national anthem",
+          "vi": "quoc ca"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "和歌（わか）",
         "meaning": {
-          "english": "Japanese poem"
+          "english": "Japanese poem",
+          "en": "Japanese poem",
+          "vi": "tho Nhat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "短歌（たんか）",
         "meaning": {
-          "english": "31-syllable Japanese poem"
+          "english": "31-syllable Japanese poem",
+          "en": "31-syllable Japanese poem",
+          "vi": "bai tho Nhat 31 am"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "歌（うた）",
         "meaning": {
-          "english": "song"
+          "english": "song",
+          "en": "song",
+          "vi": "bai hat"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "歌う（うたう）",
         "meaning": {
-          "english": "sing"
+          "english": "sing",
+          "en": "sing",
+          "vi": "hát"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka-uta_06_h.opus",
@@ -262,7 +281,9 @@
     "kanji": {
       "character": "歌",
       "meaning": {
-        "english": "song"
+        "english": "song",
+        "en": "song",
+        "vi": "bai hat"
       },
       "strokes": {
         "count": 14,
@@ -328,7 +349,9 @@
         "romaji": "akubi"
       },
       "meaning": {
-        "english": "to lack, yawn"
+        "english": "to lack, yawn",
+        "en": "to lack, yawn",
+        "vi": "ngam nguap, thieu"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/akubi0.svg",
@@ -349,7 +372,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "519",
     "strokeCount": 14,
-    "meaning": "song, sing",
+    "meaning": {
+      "en": "song, sing",
+      "vi": "bai hat, ca hat"
+    },
     "kunyomi": [
       "うた",
       "うた.う"
@@ -362,7 +388,8 @@
         "example": "歌劇",
         "reading": "カゲキ",
         "meaning": {
-          "vi": "opera"
+          "vi": "opera",
+          "en": "opera"
         },
         "romaji": "kageki"
       },
@@ -370,7 +397,8 @@
         "example": "歌曲",
         "reading": "カキョク",
         "meaning": {
-          "en": "melody, tune, song"
+          "en": "melody, tune, song",
+          "vi": "giai dieu, bai hat"
         },
         "romaji": "kakyoku"
       },
@@ -378,7 +406,8 @@
         "example": "演歌",
         "reading": "エンカ",
         "meaning": {
-          "vi": "enka, traditional-style Japanese popular ballad, troubadour"
+          "vi": "enka, traditional-style Japanese popular ballad, troubadour",
+          "en": "enka, traditional-style Japanese popular ballad, troubadour"
         },
         "romaji": "enka"
       },
@@ -386,7 +415,8 @@
         "example": "和歌",
         "reading": "ワカ",
         "meaning": {
-          "vi": "waka, classic Japanese poem, esp. a tanka, often 31 morae"
+          "vi": "waka, classic Japanese poem, esp. a tanka, often 31 morae",
+          "en": "waka, classic Japanese poem, esp. a tanka, often 31 morae"
         },
         "romaji": "waka"
       }
@@ -396,7 +426,8 @@
         "example": "歌",
         "reading": "うた",
         "meaning": {
-          "vi": "song, singing, classical Japanese poem (esp. tanka), modern poetry"
+          "vi": "song, singing, classical Japanese poem (esp. tanka), modern poetry",
+          "en": "song, singing, classical Japanese poem (esp. tanka), modern poetry"
         },
         "romaji": "uta"
       },
@@ -404,7 +435,8 @@
         "example": "歌合",
         "reading": "うたあわせ",
         "meaning": {
-          "vi": "poetry contest"
+          "vi": "poetry contest",
+          "en": "poetry contest"
         },
         "romaji": "utaawase"
       },
@@ -412,7 +444,8 @@
         "example": "短歌",
         "reading": "たんか",
         "meaning": {
-          "vi": "tanka, 31-mora Japanese poem"
+          "vi": "tanka, 31-mora Japanese poem",
+          "en": "tanka, 31-mora Japanese poem"
         },
         "romaji": "tanka"
       },
@@ -420,7 +453,8 @@
         "example": "替え歌",
         "reading": "かえうた",
         "meaning": {
-          "vi": "parody (of a song), new lyrics to an old melody, song parody"
+          "vi": "parody (of a song), new lyrics to an old melody, song parody",
+          "en": "parody (of a song), new lyrics to an old melody, song parody"
         },
         "romaji": "kaeuta"
       },
@@ -428,7 +462,8 @@
         "example": "歌う",
         "reading": "うたう",
         "meaning": {
-          "vi": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"
+          "vi": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)",
+          "en": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"
         },
         "romaji": "utau"
       },
@@ -436,14 +471,18 @@
         "example": "歌うたい",
         "reading": "うたうたい",
         "meaning": {
-          "en": "singer, vocalist, nagauta singer (in kabuki), singer of noh chants"
+          "en": "singer, vocalist, nagauta singer (in kabuki), singer of noh chants",
+          "vi": "ca si, nguoi hat nagauta, nguoi hat noh"
         },
         "romaji": "utautai"
       }
     ],
     "radical": {
       "symbol": "欠",
-      "meaning": "lack, yawn"
+      "meaning": {
+        "en": "lack, yawn",
+        "vi": "thieu, ngam nguap"
+      }
     },
     "parts": [
       "一",
@@ -458,5 +497,7 @@
   },
   "hanViet": [
     "ca"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Hai cai mieng cung phat ra am thanh, o giua la co the. Nhin vao la nho 歌 la bai hat, ca hat."
 }

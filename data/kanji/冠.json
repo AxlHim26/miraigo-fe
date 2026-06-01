@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1503",
     "strokeCount": 9,
-    "meaning": "crown, best, peerless",
+    "meaning": {
+      "en": "crown, best, peerless",
+      "vi": "vương miện, đứng đầu, vô song"
+    },
     "kunyomi": [
       "かんむり"
     ],
@@ -20,7 +23,8 @@
         "example": "冠",
         "reading": "カンムリ",
         "meaning": {
-          "vi": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles"
+          "vi": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles",
+          "en": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles"
         },
         "romaji": "kanmuri"
       },
@@ -28,7 +32,8 @@
         "example": "冠婚葬祭",
         "reading": "カンコンソウサイ",
         "meaning": {
-          "vi": "important ceremonial occasions in family relationships"
+          "vi": "important ceremonial occasions in family relationships",
+          "en": "important ceremonial occasions in family relationships"
         },
         "romaji": "kankonsousai"
       },
@@ -36,7 +41,8 @@
         "example": "宝冠",
         "reading": "ホウカン",
         "meaning": {
-          "en": "diadem, jeweled crown"
+          "en": "diadem, jeweled crown",
+          "vi": "mũ miện nạm ngọc, vương miện gắn ngọc"
         },
         "romaji": "houkan"
       },
@@ -44,7 +50,8 @@
         "example": "月桂冠",
         "reading": "ゲッケイカン",
         "meaning": {
-          "en": "laurel wreath"
+          "en": "laurel wreath",
+          "vi": "vòng nguyệt quế"
         },
         "romaji": "gekkeikan"
       }
@@ -54,7 +61,8 @@
         "example": "冠",
         "reading": "かんむり",
         "meaning": {
-          "vi": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles"
+          "vi": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles",
+          "en": "traditional cap worn by Shinto clergy and courtiers, crown, diadem, coronet, top kanji radical, first verse of a haikai, etc., best, peerless, first, name, title, named sponsorship of a program, event, team, etc., counter for titles"
         },
         "romaji": "kanmuri"
       },
@@ -62,7 +70,8 @@
         "example": "冠海雀",
         "reading": "かんむりうみすずめ",
         "meaning": {
-          "vi": "Japanese murrelet (Synthliboramphus wumizusume), crested murrelet"
+          "vi": "Japanese murrelet (Synthliboramphus wumizusume), crested murrelet",
+          "en": "Japanese murrelet (Synthliboramphus wumizusume), crested murrelet"
         },
         "romaji": "kanmuriumisuzume"
       },
@@ -70,7 +79,8 @@
         "example": "初冠",
         "reading": "ういこうぶり",
         "meaning": {
-          "vi": "crowning a boy for the first time at a coming-of-age ceremony, noh cap with a rolled or drooping tail (indicative of nobility)"
+          "vi": "crowning a boy for the first time at a coming-of-age ceremony, noh cap with a rolled or drooping tail (indicative of nobility)",
+          "en": "crowning a boy for the first time at a coming-of-age ceremony, noh cap with a rolled or drooping tail (indicative of nobility)"
         },
         "romaji": "uikouburi"
       },
@@ -78,14 +88,18 @@
         "example": "老冠",
         "reading": "おいかんむり",
         "meaning": {
-          "vi": "kanji \"old\" radical at top"
+          "vi": "kanji \"old\" radical at top",
+          "en": "kanji \"old\" radical at top"
         },
         "romaji": "oikanmuri"
       }
     ],
     "radical": {
       "symbol": "冖",
-      "meaning": "cover"
+      "meaning": {
+        "en": "cover",
+        "vi": "che phủ"
+      }
     },
     "parts": [
       "儿",
@@ -101,5 +115,6 @@
   "hanViet": [
     "quan",
     "quán"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: chiếc mũ phủ trên đầu thành vương miện, nên nhớ đến nghĩa vương miện và đứng đầu."
 }

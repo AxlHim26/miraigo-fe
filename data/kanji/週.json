@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "n/a",
-    "meaning": "week",
+    "meaning": {
+      "en": "week",
+      "vi": "tuần"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "今週（こんしゅう）",
         "meaning": {
-          "english": "this week"
+          "english": "this week",
+          "en": "this week",
+          "vi": "tuần này"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(matsu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "先週（せんしゅう）",
         "meaning": {
-          "english": "last week"
+          "english": "last week",
+          "en": "last week",
+          "vi": "tuần trước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(matsu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "来週（らいしゅう）",
         "meaning": {
-          "english": "next week"
+          "english": "next week",
+          "en": "next week",
+          "vi": "tuần sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(matsu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "週末（しゅうまつ）",
         "meaning": {
-          "english": "weekend"
+          "english": "weekend",
+          "en": "weekend",
+          "vi": "cuối tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(matsu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "一週間（いっしゅうかん）",
         "meaning": {
-          "english": "one week"
+          "english": "one week",
+          "en": "one week",
+          "vi": "một tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu(matsu)_06_e.opus",
@@ -223,7 +236,9 @@
     "kanji": {
       "character": "週",
       "meaning": {
-        "english": "week"
+        "english": "week",
+        "en": "week",
+        "vi": "tuần"
       },
       "strokes": {
         "count": 11,
@@ -283,7 +298,9 @@
         "romaji": "shinnyou"
       },
       "meaning": {
-        "english": "road, walk, to advance"
+        "english": "road, walk, to advance",
+        "en": "road, walk, to advance",
+        "vi": "đường, đi bộ, tiến lên"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shinnyou0.svg",
@@ -301,10 +318,13 @@
     "query": "週",
     "found": true,
     "taughtIn": "grade 2",
-    "jlptLevel": "N4",
+    "jlptLevel": "N5",
     "newspaperFrequencyRank": "540",
     "strokeCount": 11,
-    "meaning": "week",
+    "meaning": {
+      "en": "week",
+      "vi": "tuần"
+    },
     "kunyomi": [],
     "onyomi": [
       "シュウ"
@@ -314,7 +334,8 @@
         "example": "週",
         "reading": "シュウ",
         "meaning": {
-          "en": "week"
+          "en": "week",
+          "vi": "tuần"
         },
         "romaji": "shuu"
       },
@@ -322,7 +343,8 @@
         "example": "週明け",
         "reading": "シュウアケ",
         "meaning": {
-          "en": "beginning of next week (usu. Monday), early next week"
+          "en": "beginning of next week (usu. Monday), early next week",
+          "vi": "đầu tuần sau, đầu tuần tới"
         },
         "romaji": "shuuake"
       },
@@ -330,7 +352,8 @@
         "example": "前週",
         "reading": "ゼンシュウ",
         "meaning": {
-          "en": "last week, the week before"
+          "en": "last week, the week before",
+          "vi": "tuần trước, tuần trước nữa"
         },
         "romaji": "zenshuu"
       },
@@ -338,7 +361,8 @@
         "example": "隔週",
         "reading": "カクシュウ",
         "meaning": {
-          "en": "every other week, every two weeks"
+          "en": "every other week, every two weeks",
+          "vi": "hai tuần một lần"
         },
         "romaji": "kakushuu"
       }
@@ -351,7 +375,10 @@
         "⻌",
         "⻍"
       ],
-      "meaning": "walk"
+      "meaning": {
+        "en": "walk",
+        "vi": "đi bộ"
+      }
     },
     "parts": [
       "冂",
@@ -366,5 +393,6 @@
   },
   "hanViet": [
     "chu"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: đi hết một vòng đường rồi lại quay lại, đó là một 週, tức một tuần."
 }

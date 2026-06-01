@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2107",
     "strokeCount": 5,
-    "meaning": "captured, criminal, arrest, catch",
+    "meaning": {
+      "en": "captured, criminal, arrest, catch",
+      "vi": "bị bắt, tội phạm, bắt giữ, tóm lấy"
+    },
     "kunyomi": [
       "とら.われる"
     ],
@@ -20,7 +23,8 @@
         "example": "囚",
         "reading": "シュウ",
         "meaning": {
-          "vi": "imprisonment, captive, prisoner"
+          "vi": "imprisonment, captive, prisoner",
+          "en": "imprisonment, captive, prisoner"
         },
         "romaji": "shuu"
       },
@@ -28,7 +32,8 @@
         "example": "囚人",
         "reading": "シュウジン",
         "meaning": {
-          "vi": "prisoner, convict"
+          "vi": "prisoner, convict",
+          "en": "prisoner, convict"
         },
         "romaji": "shuujin"
       },
@@ -36,7 +41,8 @@
         "example": "確定死刑囚",
         "reading": "カクテイシケイシュウ",
         "meaning": {
-          "en": "criminal condemned to death, convict on death row"
+          "en": "criminal condemned to death, convict on death row",
+          "vi": "tội phạm bị kết án tử hình, tử tù"
         },
         "romaji": "kakuteishikeishuu"
       },
@@ -44,7 +50,8 @@
         "example": "罪囚",
         "reading": "ザイシュウ",
         "meaning": {
-          "vi": "prisoner, convict"
+          "vi": "prisoner, convict",
+          "en": "prisoner, convict"
         },
         "romaji": "zaishuu"
       }
@@ -54,14 +61,18 @@
         "example": "囚われる",
         "reading": "とらわれる",
         "meaning": {
-          "vi": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
+          "vi": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by",
+          "en": "to be caught, to be captured, to be taken prisoner, to be arrested, to be apprehended, to be seized with (fear, etc.), to be a slave to, to stick to, to adhere to, to be swayed by"
         },
         "romaji": "torawareru"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": {
+        "en": "enclosure",
+        "vi": "vòng bao, khu bao quanh"
+      }
     },
     "parts": [
       "人",
@@ -74,5 +85,7 @@
   },
   "hanViet": [
     "tù"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: người 人 bị vây trong khung 囗, nên 囚 là tù nhân, bị bắt giữ."
 }

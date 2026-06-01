@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "ka, kariru",
-    "meaning": "borrow",
+    "meaning": {
+      "en": "borrow",
+      "vi": "mượn"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "拝借する（はいしゃくする）",
         "meaning": {
-          "english": "borrow [hum.]"
+          "english": "borrow [hum.]",
+          "en": "borrow [hum.]",
+          "vi": "mượn (cách nói khiêm nhường)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(riru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "借金（しゃっきん）",
         "meaning": {
-          "english": "debt"
+          "english": "debt",
+          "en": "debt",
+          "vi": "món nợ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(riru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "借家（しゃくや）",
         "meaning": {
-          "english": "rented house"
+          "english": "rented house",
+          "en": "rented house",
+          "vi": "nhà thuê"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(riru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "借りる（かりる）",
         "meaning": {
-          "english": "borrow"
+          "english": "borrow",
+          "en": "borrow",
+          "vi": "mượn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ka(riru)_06_d.opus",
@@ -166,7 +177,9 @@
     "kanji": {
       "character": "借",
       "meaning": {
-        "english": "borrow"
+        "english": "borrow",
+        "en": "borrow",
+        "vi": "mượn"
       },
       "strokes": {
         "count": 10,
@@ -224,7 +237,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -245,7 +260,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "932",
     "strokeCount": 10,
-    "meaning": "borrow, rent",
+    "meaning": {
+      "en": "borrow, rent",
+      "vi": "mượn, thuê"
+    },
     "kunyomi": [
       "か.りる"
     ],
@@ -257,7 +275,8 @@
         "example": "借家",
         "reading": "シャクヤ",
         "meaning": {
-          "en": "rented house, house for rent"
+          "en": "rented house, house for rent",
+          "vi": "nhà thuê, nhà cho thuê"
         },
         "romaji": "shakuya"
       },
@@ -265,7 +284,8 @@
         "example": "借地",
         "reading": "シャクチ",
         "meaning": {
-          "en": "leased land"
+          "en": "leased land",
+          "vi": "đất thuê"
         },
         "romaji": "shakuchi"
       },
@@ -273,7 +293,8 @@
         "example": "賃借",
         "reading": "チンシャク",
         "meaning": {
-          "en": "renting, rental, hiring, leasing (from)"
+          "en": "renting, rental, hiring, leasing (from)",
+          "vi": "việc thuê, sự cho thuê, thuê mướn, thuê từ"
         },
         "romaji": "chinshaku"
       },
@@ -281,7 +302,8 @@
         "example": "賃貸借",
         "reading": "チンタイシャク",
         "meaning": {
-          "en": "renting, leasing"
+          "en": "renting, leasing",
+          "vi": "việc thuê, cho thuê"
         },
         "romaji": "chintaishaku"
       }
@@ -291,7 +313,8 @@
         "example": "借りる",
         "reading": "かりる",
         "meaning": {
-          "vi": "to borrow, to rent, to hire, to make use of (another's help, wisdom, etc.), to obtain, to receive, to use (for another purpose), to put to a different use"
+          "vi": "mượn, thuê, thuê dùng, tận dụng (sự giúp đỡ, trí tuệ của người khác, v.v.), đạt được, nhận được, dùng cho mục đích khác, chuyển sang công dụng khác",
+          "en": "to borrow, to rent, to hire, to make use of (another's help, wisdom, etc.), to obtain, to receive, to use (for another purpose), to put to a different use"
         },
         "romaji": "kariru"
       },
@@ -299,7 +322,8 @@
         "example": "借りる時の地蔵顔、済す時の閻魔顔",
         "reading": "かりるときのじぞうがお、なすときのえんまがお",
         "meaning": {
-          "vi": "people look friendly when they ask for a loan but not so much when they repay it, when borrowing (the money), the face of the (bodhisattva) Kshitigarbha; when returning it, the face of the (hell king) Yama"
+          "vi": "lúc vay thì mặt mũi hiền lành, lúc trả thì không còn vậy; khi vay tiền thì mặt như Địa Tạng Bồ Tát, khi trả thì mặt như Diêm Vương",
+          "en": "people look friendly when they ask for a loan but not so much when they repay it, when borrowing (the money), the face of the (bodhisattva) Kshitigarbha; when returning it, the face of the (hell king) Yama"
         },
         "romaji": "karirutokinojizougao,nasutokinoenmagao"
       }
@@ -309,7 +333,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "二",

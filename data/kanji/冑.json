@@ -5,7 +5,10 @@
     "query": "冑",
     "found": true,
     "strokeCount": 9,
-    "meaning": "helmet",
+    "meaning": {
+      "en": "helmet",
+      "vi": "mũ giáp"
+    },
     "kunyomi": [
       "かぶと",
       "よろい"
@@ -18,7 +21,8 @@
         "example": "甲冑",
         "reading": "カッチュウ",
         "meaning": {
-          "en": "armor and helmet"
+          "en": "armor and helmet",
+          "vi": "áo giáp và mũ giáp"
         },
         "romaji": "katchuu"
       },
@@ -26,7 +30,8 @@
         "example": "華冑",
         "reading": "カチュウ",
         "meaning": {
-          "en": "aristocracy, nobility"
+          "en": "aristocracy, nobility",
+          "vi": "tầng lớp quý tộc, giới quý tộc"
         },
         "romaji": "kachuu"
       }
@@ -36,7 +41,8 @@
         "example": "兜",
         "reading": "かぶと",
         "meaning": {
-          "vi": "helmet (of a warrior), headpiece"
+          "vi": "helmet (of a warrior), headpiece",
+          "en": "helmet (of a warrior), headpiece"
         },
         "romaji": "kabuto"
       },
@@ -44,7 +50,8 @@
         "example": "兜魚",
         "reading": "かぶとうお",
         "meaning": {
-          "vi": "large-headed midnight fish (Poromitra crassiceps), armored fish, armoured fish"
+          "vi": "large-headed midnight fish (Poromitra crassiceps), armored fish, armoured fish",
+          "en": "large-headed midnight fish (Poromitra crassiceps), armored fish, armoured fish"
         },
         "romaji": "kabutouo"
       },
@@ -52,14 +59,18 @@
         "example": "内兜",
         "reading": "うちかぶと",
         "meaning": {
-          "en": "inside of a helmet, hidden circumstances"
+          "en": "inside of a helmet, hidden circumstances",
+          "vi": "mặt trong của mũ giáp, hoàn cảnh ẩn khuất"
         },
         "romaji": "uchikabuto"
       }
     ],
     "radical": {
       "symbol": "冂",
-      "meaning": "open country"
+      "meaning": {
+        "en": "open country",
+        "vi": "vùng đồng trống"
+      }
     },
     "parts": [
       "二",

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1158",
     "strokeCount": 15,
-    "meaning": "consolation, amusement, seduce, cheer, make sport of, comfort, console",
+    "meaning": {
+      "en": "consolation, amusement, seduce, cheer, make sport of, comfort, console",
+      "vi": "an ủi, giải khuây, quyến rũ, làm vui, trêu chọc, an ủi, vỗ về"
+    },
     "kunyomi": [
       "なぐさ.める",
       "なぐさ.む"
@@ -21,7 +24,8 @@
         "example": "慰謝",
         "reading": "イシャ",
         "meaning": {
-          "en": "consolation"
+          "en": "consolation",
+          "vi": "sự an ủi"
         },
         "romaji": "isha"
       },
@@ -29,7 +33,8 @@
         "example": "慰安",
         "reading": "イアン",
         "meaning": {
-          "en": "solace, relaxation"
+          "en": "solace, relaxation",
+          "vi": "sự khuây khỏa, thư giãn"
         },
         "romaji": "ian"
       },
@@ -37,6 +42,7 @@
         "example": "弔慰",
         "reading": "チョウイ",
         "meaning": {
+          "en": "condolence, sympathy",
           "vi": "condolence, sympathy"
         },
         "romaji": "choui"
@@ -45,7 +51,8 @@
         "example": "自慰",
         "reading": "ジイ",
         "meaning": {
-          "en": "masturbation, onanism, self-consolation"
+          "en": "masturbation, onanism, self-consolation",
+          "vi": "thủ dâm, tự an ủi"
         },
         "romaji": "jii"
       }
@@ -55,7 +62,8 @@
         "example": "慰める",
         "reading": "なぐさめる",
         "meaning": {
-          "en": "to comfort, to console, to amuse"
+          "en": "to comfort, to console, to amuse",
+          "vi": "an ủi, vỗ về, giải khuây"
         },
         "romaji": "nagusameru"
       },
@@ -63,6 +71,7 @@
         "example": "慰む",
         "reading": "なぐさむ",
         "meaning": {
+          "en": "to feel comforted, to be in good spirits, to feel better, to forget one's worries, to trifle with, to fool around with",
           "vi": "to feel comforted, to be in good spirits, to feel better, to forget one's worries, to trifle with, to fool around with"
         },
         "romaji": "nagusamu"
@@ -74,7 +83,10 @@
         "忄",
         "⺗"
       ],
-      "meaning": "heart"
+      "meaning": {
+        "en": "heart",
+        "vi": "tim"
+      }
     },
     "parts": [
       "二",

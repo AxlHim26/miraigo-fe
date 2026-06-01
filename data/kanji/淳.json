@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1629",
     "strokeCount": 11,
-    "meaning": "pure",
+    "meaning": {
+      "en": "pure",
+      "vi": "thuần khiết"
+    },
     "kunyomi": [
       "あつ.い"
     ],
@@ -20,7 +23,8 @@
         "example": "純朴",
         "reading": "ジュンボク",
         "meaning": {
-          "vi": "simple and honest, unsophisticated, simpleminded, naive, unspoiled"
+          "vi": "đơn giản và thật thà, mộc mạc, ngây thơ, chưa bị va đập",
+          "en": "simple and honest, unsophisticated, simpleminded, naive, unspoiled"
         },
         "romaji": "junboku"
       },
@@ -28,7 +32,8 @@
         "example": "淳久堂",
         "reading": "ジュンクドウ",
         "meaning": {
-          "vi": "Junkudo (Japanese bookstore chain)"
+          "vi": "Junkudo, chuỗi nhà sách của Nhật Bản",
+          "en": "Junkudo (Japanese bookstore chain)"
         },
         "romaji": "junkudou"
       }
@@ -40,7 +45,10 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": {
+        "en": "water",
+        "vi": "nước"
+      }
     },
     "parts": [
       "亠",
@@ -55,5 +63,7 @@
   },
   "hanViet": [
     "thuần"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: nước trong bên trái kết hợp nét thuần bên phải, dễ nhớ sự thuần khiết mộc mạc."
 }

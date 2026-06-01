@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "a, atari, ataru, ateru",
-    "meaning": "present, hit",
+    "meaning": {
+      "en": "present, hit",
+      "vi": "hiện tại, trúng"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "当日（とうじつ）",
         "meaning": {
-          "english": "very day"
+          "english": "very day",
+          "en": "very day",
+          "vi": "ngày hôm đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "当時（とうじ）",
         "meaning": {
-          "english": "in those days, then, at the time"
+          "english": "in those days, then, at the time",
+          "en": "in those days, then, at the time",
+          "vi": "thuở đó, lúc bấy giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "本当（ほんとう）",
         "meaning": {
-          "english": "truth"
+          "english": "truth",
+          "en": "truth",
+          "vi": "sự thật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "弁当（べんとう）",
         "meaning": {
-          "english": "lunch vendor, boxed lunch"
+          "english": "lunch vendor, boxed lunch",
+          "en": "lunch vendor, boxed lunch",
+          "vi": "người bán cơm hộp, cơm hộp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "当選する（とうせんする）",
         "meaning": {
-          "english": "be elected, win a prize"
+          "english": "be elected, win a prize",
+          "en": "be elected, win a prize",
+          "vi": "đắc cử, trúng thưởng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "担当する（たんとうする）",
         "meaning": {
-          "english": "have responsibility for"
+          "english": "have responsibility for",
+          "en": "have responsibility for",
+          "vi": "phụ trách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "当たる（あたる）",
         "meaning": {
-          "english": "be hit [v.i.]"
+          "english": "be hit [v.i.]",
+          "en": "be hit [v.i.]",
+          "vi": "bị trúng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "日当たり（ひあたり）",
         "meaning": {
-          "english": "exposure to the sun"
+          "english": "exposure to the sun",
+          "en": "exposure to the sun",
+          "vi": "phơi nắng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "当たり前（あたりまえ）",
         "meaning": {
-          "english": "usual, natural, ordinary"
+          "english": "usual, natural, ordinary",
+          "en": "usual, natural, ordinary",
+          "vi": "thông thường, tự nhiên, bình thường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "当てる（あてる）",
         "meaning": {
-          "english": "hit [v.t.]"
+          "english": "hit [v.t.]",
+          "en": "hit [v.t.]",
+          "vi": "đánh trúng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "手当てする（てあてする）",
         "meaning": {
-          "english": "provide medical care"
+          "english": "provide medical care",
+          "en": "provide medical care",
+          "vi": "chữa trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/a(taru)_06_k.opus",
@@ -308,7 +333,9 @@
     "kanji": {
       "character": "当",
       "meaning": {
-        "english": "present, hit"
+        "english": "present, hit",
+        "en": "present, hit",
+        "vi": "hiện tại, trúng"
       },
       "strokes": {
         "count": 6,
@@ -357,7 +384,9 @@
         "romaji": "shoukanmuri"
       },
       "meaning": {
-        "english": "small"
+        "english": "small",
+        "en": "small",
+        "vi": "nhỏ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shoukanmuri0.svg",
@@ -378,7 +407,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "91",
     "strokeCount": 6,
-    "meaning": "hit, right, appropriate, himself",
+    "meaning": {
+      "en": "hit, right, appropriate, himself",
+      "vi": "trúng, đúng, thích hợp, chính bản thân"
+    },
     "kunyomi": [
       "あ.たる",
       "あ.たり",
@@ -395,7 +427,8 @@
         "example": "当",
         "reading": "トウ",
         "meaning": {
-          "en": "this, our, the ... in question, the said ..., right, justice, fairness, checking account"
+          "en": "this, our, the ... in question, the said ..., right, justice, fairness, checking account",
+          "vi": "đây, của chúng tôi, điều đang nói đến, lẽ phải, công bằng, tài khoản vãng lai"
         },
         "romaji": "tou"
       },
@@ -403,7 +436,8 @@
         "example": "当確",
         "reading": "トウカク",
         "meaning": {
-          "vi": "projected to win, sure to be elected, home free"
+          "vi": "projected to win, sure to be elected, home free",
+          "en": "projected to win, sure to be elected, home free"
         },
         "romaji": "toukaku"
       },
@@ -411,7 +445,8 @@
         "example": "順当",
         "reading": "ジュントウ",
         "meaning": {
-          "vi": "proper, right, reasonable"
+          "vi": "proper, right, reasonable",
+          "en": "proper, right, reasonable"
         },
         "romaji": "juntou"
       },
@@ -419,7 +454,8 @@
         "example": "過当",
         "reading": "カトウ",
         "meaning": {
-          "en": "excessive, exorbitant"
+          "en": "excessive, exorbitant",
+          "vi": "quá mức, cắt cổ"
         },
         "romaji": "katou"
       }
@@ -429,7 +465,8 @@
         "example": "当たる",
         "reading": "あたる",
         "meaning": {
-          "vi": "to be hit, to strike, to touch, to be in contact, to be affixed, to be equivalent to, to be applicable, to apply to, to be right on the money (of a prediction, criticism, etc.), to be selected (in a lottery, etc.), to win, to be successful, to go well, to be a hit, to face, to confront, to lie (in the direction of), to undertake, to be assigned, to be stricken (by food poisoning, heat, etc.), to be afflicted, to be called on (e.g. by a teacher), to treat (esp. harshly), to lash out at, to be unnecessary, to be hitting well, to be on a hitting streak, to feel a bite (in fishing), (of fruit, etc.) to be bruised, to spoil, to feel (something) out, to probe into, to check (i.e. by comparison), to shave, to be a relative of a person, to be a ... in relation to ..., to stand in a relationship"
+          "vi": "to be hit, to strike, to touch, to be in contact, to be affixed, to be equivalent to, to be applicable, to apply to, to be right on the money (of a prediction, criticism, etc.), to be selected (in a lottery, etc.), to win, to be successful, to go well, to be a hit, to face, to confront, to lie (in the direction of), to undertake, to be assigned, to be stricken (by food poisoning, heat, etc.), to be afflicted, to be called on (e.g. by a teacher), to treat (esp. harshly), to lash out at, to be unnecessary, to be hitting well, to be on a hitting streak, to feel a bite (in fishing), (of fruit, etc.) to be bruised, to spoil, to feel (something) out, to probe into, to check (i.e. by comparison), to shave, to be a relative of a person, to be a ... in relation to ..., to stand in a relationship",
+          "en": "to be hit, to strike, to touch, to be in contact, to be affixed, to be equivalent to, to be applicable, to apply to, to be right on the money (of a prediction, criticism, etc.), to be selected (in a lottery, etc.), to win, to be successful, to go well, to be a hit, to face, to confront, to lie (in the direction of), to undertake, to be assigned, to be stricken (by food poisoning, heat, etc.), to be afflicted, to be called on (e.g. by a teacher), to treat (esp. harshly), to lash out at, to be unnecessary, to be hitting well, to be on a hitting streak, to feel a bite (in fishing), (of fruit, etc.) to be bruised, to spoil, to feel (something) out, to probe into, to check (i.e. by comparison), to shave, to be a relative of a person, to be a ... in relation to ..., to stand in a relationship"
         },
         "romaji": "ataru"
       },
@@ -437,7 +474,8 @@
         "example": "当たるも八卦当たらぬも八卦",
         "reading": "あたるもはっけあたらぬもはっけ",
         "meaning": {
-          "vi": "a prediction may or may not come true, only god knows what will happen"
+          "vi": "a prediction may or may not come true, only god knows what will happen",
+          "en": "a prediction may or may not come true, only god knows what will happen"
         },
         "romaji": "atarumohakkeataranumohakke"
       },
@@ -445,7 +483,8 @@
         "example": "当たり",
         "reading": "あたり",
         "meaning": {
-          "vi": "hit, success, guess, prediction, affability, friendliness, sensation, touch, bruise (on fruit), situation in which a stone or chain of stones may be captured on the next move, bite (of a fish on a hook), strike, per, each"
+          "vi": "hit, success, guess, prediction, affability, friendliness, sensation, touch, bruise (on fruit), situation in which a stone or chain of stones may be captured on the next move, bite (of a fish on a hook), strike, per, each",
+          "en": "hit, success, guess, prediction, affability, friendliness, sensation, touch, bruise (on fruit), situation in which a stone or chain of stones may be captured on the next move, bite (of a fish on a hook), strike, per, each"
         },
         "romaji": "atari"
       },
@@ -453,7 +492,8 @@
         "example": "当たり前",
         "reading": "あたりまえ",
         "meaning": {
-          "vi": "natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm"
+          "vi": "natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm",
+          "en": "natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm"
         },
         "romaji": "atarimae"
       },
@@ -461,7 +501,8 @@
         "example": "坪当たり",
         "reading": "つぼあたり",
         "meaning": {
-          "vi": "per tsubo (approx. 3.3 square meters)"
+          "vi": "per tsubo (approx. 3.3 square meters)",
+          "en": "per tsubo (approx. 3.3 square meters)"
         },
         "romaji": "tsuboatari"
       },
@@ -469,7 +510,8 @@
         "example": "当てる",
         "reading": "あてる",
         "meaning": {
-          "vi": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)"
+          "vi": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)",
+          "en": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)"
         },
         "romaji": "ateru"
       },
@@ -477,7 +519,8 @@
         "example": "当て",
         "reading": "あて",
         "meaning": {
-          "vi": "aim, object, purpose, end, expectations, prospects, hopes, something that can be relied upon, snack served with alcoholic drink, pad, guard, blow, strike, addressed to, per"
+          "vi": "aim, object, purpose, end, expectations, prospects, hopes, something that can be relied upon, snack served with alcoholic drink, pad, guard, blow, strike, addressed to, per",
+          "en": "aim, object, purpose, end, expectations, prospects, hopes, something that can be relied upon, snack served with alcoholic drink, pad, guard, blow, strike, addressed to, per"
         },
         "romaji": "ate"
       },
@@ -485,7 +528,8 @@
         "example": "当てる",
         "reading": "あてる",
         "meaning": {
-          "vi": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)"
+          "vi": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)",
+          "en": "to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)"
         },
         "romaji": "ateru"
       },
@@ -493,7 +537,8 @@
         "example": "引き当て",
         "reading": "ひきあて",
         "meaning": {
-          "en": "mortgage, security"
+          "en": "mortgage, security",
+          "vi": "thế chấp, vật bảo đảm"
         },
         "romaji": "hikiate"
       },
@@ -501,7 +546,8 @@
         "example": "額当て",
         "reading": "ひたいあて",
         "meaning": {
-          "vi": "(military) headband with reinforced metal plate, red headband"
+          "vi": "(military) headband with reinforced metal plate, red headband",
+          "en": "(military) headband with reinforced metal plate, red headband"
         },
         "romaji": "hitaiate"
       },
@@ -509,7 +555,8 @@
         "example": "当に",
         "reading": "まさに",
         "meaning": {
-          "en": "really (ought to), certainly (should), naturally"
+          "en": "really (ought to), certainly (should), naturally",
+          "vi": "thật sự nên, chắc chắn nên, tự nhiên là"
         },
         "romaji": "masani"
       }
@@ -519,7 +566,10 @@
       "forms": [
         "彑"
       ],
-      "meaning": "pig snout"
+      "meaning": {
+        "en": "pig snout",
+        "vi": "mõm lợn"
+      }
     },
     "parts": [
       "ヨ",
@@ -534,5 +584,7 @@
     "đang",
     "đáng",
     "đương"
-  ]
+  ],
+  "jlpt": "N3",
+  "mnemonic_vi": "Gợi ý cách nhớ: bàn tay nhỏ đặt đúng chỗ nên thành đúng, trúng."
 }

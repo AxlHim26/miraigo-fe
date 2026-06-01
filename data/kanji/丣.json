@@ -5,7 +5,10 @@
     "query": "丣",
     "found": true,
     "strokeCount": 7,
-    "meaning": "the tenth of the twelve Terrestrial Branches (ancient form)",
+    "meaning": {
+      "en": "the tenth of the twelve Terrestrial Branches (ancient form)",
+      "vi": "chi thứ mười trong mười hai Địa Chi (dạng cổ)"
+    },
     "kunyomi": [
       "とり"
     ],
@@ -16,7 +19,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [],
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20003_frames.png",

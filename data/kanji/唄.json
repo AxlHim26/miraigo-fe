@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2051",
     "strokeCount": 10,
-    "meaning": "song, ballad",
+    "meaning": {
+      "en": "song, ballad",
+      "vi": "bài hát, khúc ca"
+    },
     "kunyomi": [
       "うた",
       "うた.う"
@@ -21,7 +24,8 @@
         "example": "貝葉",
         "reading": "バイヨウ",
         "meaning": {
-          "vi": "palm-leaf manuscript"
+          "vi": "palm-leaf manuscript",
+          "en": "palm-leaf manuscript"
         },
         "romaji": "baiyou"
       },
@@ -29,7 +33,8 @@
         "example": "梵唄",
         "reading": "ボンバイ",
         "meaning": {
-          "vi": "song praising the virtues of the Buddha, chanting of Buddhist hymns"
+          "vi": "song praising the virtues of the Buddha, chanting of Buddhist hymns",
+          "en": "song praising the virtues of the Buddha, chanting of Buddhist hymns"
         },
         "romaji": "bonbai"
       }
@@ -39,7 +44,8 @@
         "example": "歌",
         "reading": "うた",
         "meaning": {
-          "vi": "song, singing, classical Japanese poem (esp. tanka), modern poetry"
+          "vi": "song, singing, classical Japanese poem (esp. tanka), modern poetry",
+          "en": "song, singing, classical Japanese poem (especially tanka), modern poetry"
         },
         "romaji": "uta"
       },
@@ -47,7 +53,8 @@
         "example": "歌う",
         "reading": "うたう",
         "meaning": {
-          "vi": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"
+          "vi": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)",
+          "en": "to sing, to sing of (love, beauty, etc.) in a poem, to express in poetic form, to recite a poem"
         },
         "romaji": "utau"
       },
@@ -55,7 +62,8 @@
         "example": "長唄",
         "reading": "ながうた",
         "meaning": {
-          "vi": "long epic song with shamisen accompaniment (developed in Edo in the early 17th century)"
+          "vi": "long epic song with shamisen accompaniment (developed in Edo in the early 17th century)",
+          "en": "long epic song with shamisen accompaniment (developed in Edo in the early 17th century)"
         },
         "romaji": "nagauta"
       },
@@ -63,7 +71,8 @@
         "example": "紡ぎ歌",
         "reading": "つむぎうた",
         "meaning": {
-          "vi": "spinning song"
+          "vi": "spinning song",
+          "en": "spinning song"
         },
         "romaji": "tsumugiuta"
       },
@@ -71,14 +80,18 @@
         "example": "歌う",
         "reading": "うたう",
         "meaning": {
-          "vi": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)"
+          "vi": "to sing, to sing of (love, beauty, etc.) in a poem, to express in the form of a poem, to recite (a poem)",
+          "en": "to sing, to sing of (love, beauty, etc.) in a poem, to express in poetic form, to recite a poem"
         },
         "romaji": "utau"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "ハ",
@@ -95,5 +108,7 @@
     "bái",
     "bại",
     "bối"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Miệng 口 cất giọng thành bài ca, nên 唄 là khúc hát."
 }

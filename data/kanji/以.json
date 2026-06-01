@@ -7,13 +7,17 @@
     "grade": 4,
     "hint_group": 2,
     "kunyomi": "mo, motte",
-    "meaning": "to the ... of, by means of",
+    "meaning": {
+      "en": "to the ... of, by means of",
+      "vi": "đến mức..., bằng phương tiện"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "以上（いじょう）",
         "meaning": {
-          "english": "more than"
+          "en": "more than",
+          "vi": "nhiều hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "以下（いか）",
         "meaning": {
-          "english": "less than"
+          "en": "less than",
+          "vi": "ít hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "以来（いらい）",
         "meaning": {
-          "english": "since"
+          "en": "since",
+          "vi": "kể từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "以外（いがい）",
         "meaning": {
-          "english": "except"
+          "en": "except",
+          "vi": "ngoại trừ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "以内（いない）",
         "meaning": {
-          "english": "within, less than"
+          "en": "within, less than",
+          "vi": "trong phạm vi, ít hơn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "以降（いこう）",
         "meaning": {
-          "english": "hereafter, thereafter"
+          "en": "hereafter, thereafter",
+          "vi": "sau đây, từ đó về sau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "以心伝心（いしんでんしん）",
         "meaning": {
-          "english": "tacit understanding"
+          "en": "tacit understanding",
+          "vi": "sự thấu hiểu ngầm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "以って（もって）",
         "meaning": {
-          "english": "with, by means of"
+          "en": "with, by means of",
+          "vi": "bằng, bằng phương tiện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(nai)_06_h.opus",
@@ -261,7 +272,8 @@
     "kanji": {
       "character": "以",
       "meaning": {
-        "english": "to the ... of, by means of"
+        "en": "to the ... of, by means of",
+        "vi": "đến mức..., bằng phương tiện"
       },
       "strokes": {
         "count": 5,
@@ -309,7 +321,8 @@
         "romaji": "hito"
       },
       "meaning": {
-        "english": "person"
+        "en": "person",
+        "vi": "person"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hito0.svg",
@@ -330,7 +343,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "126",
     "strokeCount": 5,
-    "meaning": "by means of, because, in view of, compared with",
+    "meaning": {
+      "en": "by means of, because, in view of, compared with",
+      "vi": "bằng cách, bởi vì, xét theo, so với"
+    },
     "kunyomi": [
       "もっ.て"
     ],
@@ -342,7 +358,8 @@
         "example": "以降",
         "reading": "イコウ",
         "meaning": {
-          "en": "on and after, from ... onward, since"
+          "en": "on and after, from ... onward, since",
+          "vi": "vào và sau đó, từ ... trở đi, kể từ"
         },
         "romaji": "ikou"
       },
@@ -350,6 +367,7 @@
         "example": "以下",
         "reading": "イカ",
         "meaning": {
+          "en": "not exceeding ..., not more than ..., ... and under, ... and below, ... or fewer, below (a standard, level, etc.), under, beneath, less than, the following, the below-mentioned, the rest, followed by ..., including ..., ... and other (employees, officials, etc.)",
           "vi": "not exceeding ..., not more than ..., ... and under, ... and below, ... or fewer, below (a standard, level, etc.), under, beneath, less than, the following, the below-mentioned, the rest, followed by ..., including ..., ... and other (employees, officials, etc.)"
         },
         "romaji": "ika"
@@ -358,6 +376,7 @@
         "example": "縞曹以",
         "reading": "シマソイ",
         "meaning": {
+          "en": "threestripe rockfish (Sebastes trivittatus)",
           "vi": "threestripe rockfish (Sebastes trivittatus)"
         },
         "romaji": "shimasoi"
@@ -366,6 +385,7 @@
         "example": "斑曹以",
         "reading": "ムラソイ",
         "meaning": {
+          "en": "spotbelly rockfish (Sebastes pachycephalus)",
           "vi": "spotbelly rockfish (Sebastes pachycephalus)"
         },
         "romaji": "murasoi"
@@ -376,6 +396,7 @@
         "example": "以て",
         "reading": "もって",
         "meaning": {
+          "en": "with, by, by means of, because of, on account of, for, due to, on (a day, date), at (a time), as of (e.g. today), adds emphasis to preceding word, in addition (to being), moreover, as well as, and, therefore, and so, hence",
           "vi": "with, by, by means of, because of, on account of, for, due to, on (a day, date), at (a time), as of (e.g. today), adds emphasis to preceding word, in addition (to being), moreover, as well as, and, therefore, and so, hence"
         },
         "romaji": "motte"
@@ -384,6 +405,7 @@
         "example": "以ってしても",
         "reading": "もってしても",
         "meaning": {
+          "en": "(not) even when using ..., (not) even with the help of ..., (not) even by ...",
           "vi": "(not) even when using ..., (not) even with the help of ..., (not) even by ..."
         },
         "romaji": "motteshitemo"
@@ -394,7 +416,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "丶",

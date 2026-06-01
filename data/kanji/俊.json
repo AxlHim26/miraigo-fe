@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1007",
     "strokeCount": 9,
-    "meaning": "sagacious, genius, excellence",
+    "meaning": {
+      "en": "sagacious, genius, excellence",
+      "vi": "thông tuệ, thiên tài, xuất sắc"
+    },
     "kunyomi": [],
     "onyomi": [
       "シュン"
@@ -18,7 +21,8 @@
         "example": "俊",
         "reading": "シュン",
         "meaning": {
-          "en": "excellence, genius"
+          "en": "excellence, genius",
+          "vi": "xuất sắc, thiên tài"
         },
         "romaji": "shun"
       },
@@ -26,7 +30,8 @@
         "example": "俊足",
         "reading": "シュンソク",
         "meaning": {
-          "vi": "swiftness of foot, fast runner, swift horse, fleet steed, person of great talent, gifted person"
+          "vi": "bước chân nhanh nhẹn, người chạy nhanh, ngựa phi nhanh, tuấn mã, người rất tài năng, người có năng khiếu",
+          "en": "swiftness of foot, fast runner, swift horse, fleet steed, person of great talent, gifted person"
         },
         "romaji": "shunsoku"
       },
@@ -34,7 +39,8 @@
         "example": "英俊",
         "reading": "エイシュン",
         "meaning": {
-          "vi": "genius, prodigy"
+          "vi": "thiên tài, thần đồng",
+          "en": "genius, prodigy"
         },
         "romaji": "eishun"
       }
@@ -45,7 +51,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "儿",

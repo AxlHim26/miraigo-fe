@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "728",
     "strokeCount": 13,
-    "meaning": "bond, loan, debt",
+    "meaning": {
+      "en": "bond, loan, debt",
+      "vi": "trái phiếu, khoản vay, món nợ"
+    },
     "kunyomi": [],
     "onyomi": [
       "サイ"
@@ -18,7 +21,8 @@
         "example": "債",
         "reading": "サイ",
         "meaning": {
-          "en": "debt, loan"
+          "en": "debt, loan",
+          "vi": "món nợ, khoản vay"
         },
         "romaji": "sai"
       },
@@ -26,7 +30,8 @@
         "example": "債権",
         "reading": "サイケン",
         "meaning": {
-          "en": "credit, claim"
+          "en": "credit, claim",
+          "vi": "tín dụng, yêu sách"
         },
         "romaji": "saiken"
       },
@@ -34,7 +39,8 @@
         "example": "割引債",
         "reading": "ワリビキサイ",
         "meaning": {
-          "en": "discount bond"
+          "en": "discount bond",
+          "vi": "trái phiếu chiết khấu"
         },
         "romaji": "waribikisai"
       },
@@ -42,7 +48,8 @@
         "example": "起債",
         "reading": "キサイ",
         "meaning": {
-          "en": "issuing of bonds"
+          "en": "issuing of bonds",
+          "vi": "việc phát hành trái phiếu"
         },
         "romaji": "kisai"
       }
@@ -53,7 +60,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

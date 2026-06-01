@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kawa",
-    "meaning": "side",
+    "meaning": {
+      "en": "side",
+      "vi": "bên, phía"
+    },
     "kstroke": 11,
     "examples": [
       {
         "japanese": "側面（そくめん）",
         "meaning": {
-          "english": "side"
+          "english": "side",
+          "en": "side",
+          "vi": "bên, phía"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(men)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "側近（そっきん）",
         "meaning": {
-          "english": "close advisor"
+          "english": "close advisor",
+          "en": "close advisor",
+          "vi": "cố vấn thân cận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(men)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "東側（ひがしがわ）",
         "meaning": {
-          "english": "east side"
+          "english": "east side",
+          "en": "east side",
+          "vi": "phía đông"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(men)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "右側（みぎがわ）",
         "meaning": {
-          "english": "right side"
+          "english": "right side",
+          "en": "right side",
+          "vi": "bên phải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(men)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "反対側（はんたいがわ）",
         "meaning": {
-          "english": "opposite side"
+          "english": "opposite side",
+          "en": "opposite side",
+          "vi": "phía đối diện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(men)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "内側（うちがわ）",
         "meaning": {
-          "english": "inside"
+          "english": "inside",
+          "en": "inside",
+          "vi": "bên trong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soku(men)_06_f.opus",
@@ -211,7 +226,9 @@
     "kanji": {
       "character": "側",
       "meaning": {
-        "english": "side"
+        "english": "side",
+        "en": "side",
+        "vi": "bên, phía"
       },
       "strokes": {
         "count": 11,
@@ -271,7 +288,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -292,7 +311,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "216",
     "strokeCount": 11,
-    "meaning": "side, lean, oppose, regret",
+    "meaning": {
+      "en": "side, lean, oppose, regret",
+      "vi": "bên, nghiêng, chống đối, hối tiếc"
+    },
     "kunyomi": [
       "かわ",
       "がわ",
@@ -306,7 +328,8 @@
         "example": "側",
         "reading": "ソク",
         "meaning": {
-          "vi": "first principle of the Eight Principles of Yong, tiny dash or speck"
+          "vi": "first principle of the Eight Principles of Yong, tiny dash or speck",
+          "en": "first principle of the Eight Principles of Yong, tiny dash or speck"
         },
         "romaji": "soku"
       },
@@ -314,7 +337,8 @@
         "example": "側",
         "reading": "ソバ",
         "meaning": {
-          "vi": "near, close, beside, vicinity, proximity, besides, while, third person"
+          "vi": "near, close, beside, vicinity, proximity, besides, while, third person",
+          "en": "near, close, beside, vicinity, proximity, besides, while, third person"
         },
         "romaji": "soba"
       },
@@ -322,7 +346,8 @@
         "example": "最外側",
         "reading": "サイガイソク",
         "meaning": {
-          "en": "outermost (side)"
+          "en": "outermost (side)",
+          "vi": "phía ngoài cùng"
         },
         "romaji": "saigaisoku"
       },
@@ -330,7 +355,8 @@
         "example": "体側",
         "reading": "タイソク",
         "meaning": {
-          "en": "side of a body"
+          "en": "side of a body",
+          "vi": "bên hông cơ thể"
         },
         "romaji": "taisoku"
       }
@@ -340,7 +366,8 @@
         "example": "側",
         "reading": "がわ",
         "meaning": {
-          "vi": "side (of something, or taking someone's side), part, (watch) case"
+          "vi": "side (of something, or taking someone's side), part, (watch) case",
+          "en": "side (of something, or taking someone's side), part, (watch) case"
         },
         "romaji": "gawa"
       },
@@ -348,7 +375,8 @@
         "example": "側板",
         "reading": "がわいた",
         "meaning": {
-          "vi": "stringer, slanted staircase beam, side plate, side panel, side sheet"
+          "vi": "stringer, slanted staircase beam, side plate, side panel, side sheet",
+          "en": "stringer, slanted staircase beam, side plate, side panel, side sheet"
         },
         "romaji": "gawaita"
       },
@@ -356,7 +384,8 @@
         "example": "裏っかわ",
         "reading": "うらっかわ",
         "meaning": {
-          "en": "the reverse (side), back (side), other side, hidden side, behind the scenes"
+          "en": "the reverse (side), back (side), other side, hidden side, behind the scenes",
+          "vi": "mặt trái, mặt sau, phía bên kia, mặt khuất, hậu trường"
         },
         "romaji": "urakkawa"
       },
@@ -364,7 +393,8 @@
         "example": "上っ側",
         "reading": "うわっかわ",
         "meaning": {
-          "vi": "upper side, surface"
+          "vi": "upper side, surface",
+          "en": "upper side, surface"
         },
         "romaji": "uwakkawa"
       },
@@ -372,7 +402,8 @@
         "example": "側",
         "reading": "がわ",
         "meaning": {
-          "vi": "side (of something, or taking someone's side), part, (watch) case"
+          "vi": "side (of something, or taking someone's side), part, (watch) case",
+          "en": "side (of something, or taking someone's side), part, (watch) case"
         },
         "romaji": "gawa"
       },
@@ -380,7 +411,8 @@
         "example": "側板",
         "reading": "がわいた",
         "meaning": {
-          "vi": "stringer, slanted staircase beam, side plate, side panel, side sheet"
+          "vi": "stringer, slanted staircase beam, side plate, side panel, side sheet",
+          "en": "stringer, slanted staircase beam, side plate, side panel, side sheet"
         },
         "romaji": "gawaita"
       },
@@ -388,7 +420,8 @@
         "example": "縁側",
         "reading": "えんがわ",
         "meaning": {
-          "vi": "engawa, external corridor on the outer side of traditional Japanese houses, bone at the base of a fin (esp. of a flatfish), meat at the base of a fin"
+          "vi": "engawa, external corridor on the outer side of traditional Japanese houses, bone at the base of a fin (esp. of a flatfish), meat at the base of a fin",
+          "en": "engawa, external corridor on the outer side of traditional Japanese houses, bone at the base of a fin (esp. of a flatfish), meat at the base of a fin"
         },
         "romaji": "engawa"
       },
@@ -396,7 +429,8 @@
         "example": "日本海側",
         "reading": "にほんかいがわ",
         "meaning": {
-          "vi": "Sea of Japan seaboard"
+          "vi": "Sea of Japan seaboard",
+          "en": "Sea of Japan seaboard"
         },
         "romaji": "nihonkaigawa"
       },
@@ -404,7 +438,8 @@
         "example": "側",
         "reading": "そば",
         "meaning": {
-          "vi": "near, close, beside, vicinity, proximity, besides, while, third person"
+          "vi": "near, close, beside, vicinity, proximity, besides, while, third person",
+          "en": "near, close, beside, vicinity, proximity, besides, while, third person"
         },
         "romaji": "soba"
       },
@@ -412,7 +447,8 @@
         "example": "側泳",
         "reading": "そばえい",
         "meaning": {
-          "en": "side stroke"
+          "en": "side stroke",
+          "vi": "nét phẩy ngang bên"
         },
         "romaji": "sobaei"
       },
@@ -420,7 +456,8 @@
         "example": "お側",
         "reading": "おそば",
         "meaning": {
-          "vi": "near, close, beside, vicinity, proximity, besides, while, attendant, retainer, vassal"
+          "vi": "near, close, beside, vicinity, proximity, besides, while, attendant, retainer, vassal",
+          "en": "near, close, beside, vicinity, proximity, besides, while, attendant, retainer, vassal"
         },
         "romaji": "osoba"
       }
@@ -430,7 +467,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

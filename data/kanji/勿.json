@@ -5,7 +5,10 @@
     "query": "勿",
     "found": true,
     "strokeCount": 4,
-    "meaning": "not, must not, do not, be not",
+    "meaning": {
+      "en": "not, must not, do not, be not",
+      "vi": "không, chớ, đừng, không được"
+    },
     "kunyomi": [
       "なか.れ",
       "なし"
@@ -20,7 +23,8 @@
         "example": "勿論",
         "reading": "モチロン",
         "meaning": {
-          "en": "of course, certainly, naturally"
+          "en": "of course, certainly, naturally",
+          "vi": "dĩ nhiên, tất nhiên, đương nhiên"
         },
         "romaji": "mochiron"
       }
@@ -30,14 +34,18 @@
         "example": "勿れ",
         "reading": "なかれ",
         "meaning": {
-          "en": "must not, do not"
+          "en": "must not, do not",
+          "vi": "không được, chớ"
         },
         "romaji": "nakare"
       }
     ],
     "radical": {
       "symbol": "勹",
-      "meaning": "wrap, embrace"
+      "meaning": {
+        "en": "wrap, embrace",
+        "vi": "bao bọc, ôm lấy"
+      }
     },
     "parts": [
       "ノ",
@@ -51,5 +59,7 @@
   },
   "hanViet": [
     "vật"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Thấy dấu cấm ngắn gọn như lời nhắc “chớ làm” nên nhớ 勿 là đừng, chớ."
 }

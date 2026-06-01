@@ -326,5 +326,11 @@
   },
   "hanViet": [
     "mộ"
-  ]
+  ],
+  "meaning": {
+    "en": "recruit, campaign, gather (contributions), enlist, grow violent",
+    "vi": "chiêu mộ, vận động, quyên góp, tuyển vào, trở nên dữ dội"
+  },
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: 募 như đang giăng lời kêu gọi để chiêu mộ người và quyên góp sức lực."
 }

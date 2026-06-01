@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1816",
     "strokeCount": 6,
-    "meaning": "fell, strike, attack, punish",
+    "meaning": {
+      "en": "fell, strike, attack, punish",
+      "vi": "đốn hạ, đánh, tấn công, trừng phạt"
+    },
     "kunyomi": [
       "き.る",
       "そむ.く",
@@ -25,7 +28,8 @@
         "example": "伐木",
         "reading": "バツボク",
         "meaning": {
-          "en": "felling, logging"
+          "en": "felling, logging",
+          "vi": "sự đốn cây, khai thác gỗ"
         },
         "romaji": "batsuboku"
       },
@@ -33,7 +37,8 @@
         "example": "間伐",
         "reading": "カンバツ",
         "meaning": {
-          "vi": "periodic thinning (e.g. forest)"
+          "vi": "periodic thinning (e.g. forest)",
+          "en": "tỉa thưa định kỳ (ví dụ rừng)"
         },
         "romaji": "kanbatsu"
       },
@@ -41,7 +46,8 @@
         "example": "乱伐",
         "reading": "ランバツ",
         "meaning": {
-          "en": "reckless deforestation, overcutting of forests"
+          "en": "reckless deforestation, overcutting of forests",
+          "vi": "phá rừng bừa bãi, khai thác rừng quá mức"
         },
         "romaji": "ranbatsu"
       }
@@ -51,7 +57,8 @@
         "example": "伐る",
         "reading": "きる",
         "meaning": {
-          "en": "to cut down (e.g. trees)"
+          "en": "to cut down (e.g. trees)",
+          "vi": "đốn hạ (ví dụ cây cối)"
         },
         "romaji": "kiru"
       },
@@ -59,7 +66,8 @@
         "example": "討つ",
         "reading": "うつ",
         "meaning": {
-          "en": "to attack, to destroy, to defeat, to conquer, to avenge"
+          "en": "to attack, to destroy, to defeat, to conquer, to avenge",
+          "vi": "tấn công, phá hủy, đánh bại, chinh phục, trả thù"
         },
         "romaji": "utsu"
       }
@@ -69,7 +77,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

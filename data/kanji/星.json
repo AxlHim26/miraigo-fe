@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "hoshi",
-    "meaning": "star",
+    "meaning": {
+      "en": "star",
+      "vi": "ngôi sao"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "星座（せいざ）",
         "meaning": {
-          "english": "constellation"
+          "english": "constellation",
+          "en": "constellation",
+          "vi": "chòm sao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "星雲（せいうん）",
         "meaning": {
-          "english": "nebula, galaxy"
+          "english": "nebula, galaxy",
+          "en": "nebula, galaxy",
+          "vi": "tinh vân, ngân hà"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "惑星（わくせい）",
         "meaning": {
-          "english": "planet"
+          "english": "planet",
+          "en": "planet",
+          "vi": "hành tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "衛星（えいせい）",
         "meaning": {
-          "english": "satellite"
+          "english": "satellite",
+          "en": "satellite",
+          "vi": "vệ tinh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "火星（かせい）",
         "meaning": {
-          "english": "Mars"
+          "english": "Mars",
+          "en": "Mars",
+          "vi": "sao Hỏa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "一等星（いっとうせい）",
         "meaning": {
-          "english": "first-magnitude star"
+          "english": "first-magnitude star",
+          "en": "first-magnitude star",
+          "vi": "sao hạng nhất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "北極星（ほっきょくせい）",
         "meaning": {
-          "english": "Polaris, north star"
+          "english": "Polaris, north star",
+          "en": "Polaris, north star",
+          "vi": "sao Bắc Cực"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "明星（みょうじょう）",
         "meaning": {
-          "english": "morning star, Venus, Lucifer"
+          "english": "morning star, Venus, Lucifer",
+          "en": "morning star, Venus, Lucifer",
+          "vi": "sao Mai, sao Kim"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "星（ほし）",
         "meaning": {
-          "english": "star"
+          "english": "star",
+          "en": "star",
+          "vi": "ngôi sao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "星占い（ほしうらない）",
         "meaning": {
-          "english": "astrology, horoscope"
+          "english": "astrology, horoscope",
+          "en": "astrology, horoscope",
+          "vi": "chiêm tinh, tử vi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hoshi_06_j.opus",
@@ -408,5 +431,7 @@
   },
   "hanViet": [
     "tinh"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: mặt trời 日 phát ra ánh sáng như những hạt sống 生 trên trời, thành các vì sao."
 }

@@ -7,13 +7,17 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "kaeri, kaerimiru, habu, habuku",
-    "meaning": "ministry, save, reflect on, omit",
+    "meaning": {
+      "en": "ministry, save, reflect on, omit",
+      "vi": "ministry, save, reflect on, omit"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "反省する（はんせいする）",
         "meaning": {
-          "english": "reflect on, think over"
+          "en": "reflect on, think over",
+          "vi": "reflect on, think over"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "帰省する（きせいする）",
         "meaning": {
-          "english": "go home (for a holiday)"
+          "en": "go home (for a holiday)",
+          "vi": "go home (for a holiday)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "省庁（しょうちょう）",
         "meaning": {
-          "english": "ministries & government offices"
+          "en": "ministries & government offices",
+          "vi": "ministries & government offices"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "省エネ（しょうエネ）",
         "meaning": {
-          "english": "economical use of energy"
+          "en": "economical use of energy",
+          "vi": "economical use of energy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "大蔵省（おおくらしょう）",
         "meaning": {
-          "english": "Ministry of Finance"
+          "en": "Ministry of Finance",
+          "vi": "Ministry of Finance"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "省略する（しょうりゃくする）",
         "meaning": {
-          "english": "omit, abbreviate"
+          "en": "omit, abbreviate",
+          "vi": "omit, abbreviate"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "省みる（かえりみる）",
         "meaning": {
-          "english": "reflect on"
+          "en": "reflect on",
+          "vi": "reflect on"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "省く（はぶく）",
         "meaning": {
-          "english": "omit"
+          "en": "omit",
+          "vi": "omit"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/habu(ku)_06_h.opus",
@@ -219,7 +230,8 @@
     "kanji": {
       "character": "省",
       "meaning": {
-        "english": "ministry, save, reflect on, omit"
+        "en": "ministry, save, reflect on, omit",
+        "vi": "ministry, save, reflect on, omit"
       },
       "strokes": {
         "count": 9,
@@ -275,7 +287,8 @@
         "romaji": "me"
       },
       "meaning": {
-        "english": "eye"
+        "en": "eye",
+        "vi": "eye"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/me0.svg",
@@ -289,6 +302,8 @@
       "classic_nelson": "218"
     }
   },
+  "jlpt": "N2",
+  "mnemonic_vi": "少 ở trên mắt 目 như nhìn lại thật ít, thật kỹ: tự xét mình và tiết kiệm, lược bớt.",
   "jishoData": {
     "query": "省",
     "found": true,
@@ -296,7 +311,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "548",
     "strokeCount": 9,
-    "meaning": "government ministry, conserve, omit",
+    "meaning": {
+      "en": "government ministry, conserve, omit",
+      "vi": "government ministry, conserve, omit"
+    },
     "kunyomi": [
       "かえり.みる",
       "はぶ.く"
@@ -310,7 +328,8 @@
         "example": "省察",
         "reading": "セイサツ",
         "meaning": {
-          "en": "reflection, consideration"
+          "en": "reflection, consideration",
+          "vi": "reflection, consideration"
         },
         "romaji": "seisatsu"
       },
@@ -318,6 +337,7 @@
         "example": "省思",
         "reading": "セイシ",
         "meaning": {
+          "en": "reflection, reexamination, contemplation",
           "vi": "reflection, reexamination, contemplation"
         },
         "romaji": "seishi"
@@ -326,7 +346,8 @@
         "example": "三省",
         "reading": "サンセイ",
         "meaning": {
-          "en": "frequent reflection, frequent meditation"
+          "en": "frequent reflection, frequent meditation",
+          "vi": "frequent reflection, frequent meditation"
         },
         "romaji": "sansei"
       },
@@ -334,6 +355,7 @@
         "example": "内省",
         "reading": "ナイセイ",
         "meaning": {
+          "en": "introspection, reflection on one's self",
           "vi": "introspection, reflection on one's self"
         },
         "romaji": "naisei"
@@ -342,6 +364,7 @@
         "example": "省",
         "reading": "ショウ",
         "meaning": {
+          "en": "ministry, department, province (of China), saving, conserving",
           "vi": "ministry, department, province (of China), saving, conserving"
         },
         "romaji": "shou"
@@ -350,7 +373,8 @@
         "example": "省エネルギー",
         "reading": "ショウエネルギー",
         "meaning": {
-          "en": "energy conservation, economical use of energy, energy-saving"
+          "en": "energy conservation, economical use of energy, energy-saving",
+          "vi": "energy conservation, economical use of energy, energy-saving"
         },
         "romaji": "shouenerugii"
       },
@@ -358,6 +382,7 @@
         "example": "郵政省",
         "reading": "ユウセイショウ",
         "meaning": {
+          "en": "(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications)",
           "vi": "(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications)"
         },
         "romaji": "yuuseishou"
@@ -366,7 +391,8 @@
         "example": "厚生省",
         "reading": "コウセイショウ",
         "meaning": {
-          "en": "(former) Ministry of Health and Welfare"
+          "en": "(former) Ministry of Health and Welfare",
+          "vi": "(former) Ministry of Health and Welfare"
         },
         "romaji": "kouseishou"
       }
@@ -376,6 +402,7 @@
         "example": "省みる",
         "reading": "かえりみる",
         "meaning": {
+          "en": "to reflect on (oneself, past conduct, etc.), to contemplate, to examine, to think over, to introspect",
           "vi": "to reflect on (oneself, past conduct, etc.), to contemplate, to examine, to think over, to introspect"
         },
         "romaji": "kaerimiru"
@@ -384,14 +411,18 @@
         "example": "省く",
         "reading": "はぶく",
         "meaning": {
-          "en": "to omit, to leave out, to exclude, to eliminate, to curtail, to save, to cut down, to economize, to economise"
+          "en": "to omit, to leave out, to exclude, to eliminate, to curtail, to save, to cut down, to economize, to economise",
+          "vi": "to omit, to leave out, to exclude, to eliminate, to curtail, to save, to cut down, to economize, to economise"
         },
         "romaji": "habuku"
       }
     ],
     "radical": {
       "symbol": "目",
-      "meaning": "eye"
+      "meaning": {
+        "en": "eye",
+        "vi": "eye"
+      }
     },
     "parts": [
       "ノ",

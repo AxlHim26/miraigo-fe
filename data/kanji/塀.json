@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1991",
     "strokeCount": 12,
-    "meaning": "fence, wall, (kokuji)",
+    "meaning": {
+      "en": "fence, wall, (kokuji)",
+      "vi": "hàng rào, tường rào, chữ quốc tự"
+    },
     "kunyomi": [],
     "onyomi": [
       "ヘイ",
@@ -19,7 +22,8 @@
         "example": "塀",
         "reading": "ヘイ",
         "meaning": {
-          "en": "wall, fence"
+          "en": "wall, fence",
+          "vi": "tường, hàng rào"
         },
         "romaji": "hei"
       },
@@ -27,7 +31,8 @@
         "example": "塀越し",
         "reading": "ヘイゴシ",
         "meaning": {
-          "en": "over a wall, crossing a fence"
+          "en": "over a wall, crossing a fence",
+          "vi": "qua bức tường, vượt hàng rào"
         },
         "romaji": "heigoshi"
       },
@@ -35,7 +40,8 @@
         "example": "土塀",
         "reading": "ドベイ",
         "meaning": {
-          "vi": "mud wall, earthen wall, plaster wall"
+          "vi": "mud wall, earthen wall, plaster wall",
+          "en": "mud wall, earthen wall, plaster wall"
         },
         "romaji": "dobei"
       },
@@ -43,7 +49,8 @@
         "example": "高塀",
         "reading": "タカベイ",
         "meaning": {
-          "en": "tall fence"
+          "en": "tall fence",
+          "vi": "hàng rào cao"
         },
         "romaji": "takabei"
       }
@@ -51,7 +58,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "ノ",
@@ -68,6 +78,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5840.gif",
     "uri": "https://jisho.org/search/%E5%A1%80%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là đất, 屏 gợi bức chắn, ghép lại thành bức tường rào bao quanh.",
   "hanViet": [
     "bính"
   ]

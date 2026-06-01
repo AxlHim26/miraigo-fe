@@ -7,13 +7,17 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "element, plain",
+    "meaning": {
+      "en": "element, plain",
+      "vi": "element, plain"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "要素（ようそ）",
         "meaning": {
-          "english": "element"
+          "en": "element",
+          "vi": "yếu tố"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "酸素（さんそ）",
         "meaning": {
-          "english": "oxygen"
+          "en": "oxygen",
+          "vi": "oxy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "素材（そざい）",
         "meaning": {
-          "english": "raw materials"
+          "en": "raw materials",
+          "vi": "nguyên liệu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "素朴な（そぼくな）",
         "meaning": {
-          "english": "simple, artless"
+          "en": "simple, artless",
+          "vi": "simple, artless"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "簡素な（かんそな）",
         "meaning": {
-          "english": "simple, plain"
+          "en": "simple, plain",
+          "vi": "đơn giản, bình dị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "質素な（しっそな）",
         "meaning": {
-          "english": "frugal"
+          "en": "frugal",
+          "vi": "tiết kiệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "素晴らしい（すばらしい）",
         "meaning": {
-          "english": "wonderful, splendid"
+          "en": "wonderful, splendid",
+          "vi": "wonderful, splendid"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "素足（すあし）",
         "meaning": {
-          "english": "bare feet"
+          "en": "bare feet",
+          "vi": "bare feet"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "素敵な（すてきな）",
         "meaning": {
-          "english": "lovely, beautiful"
+          "en": "lovely, beautiful",
+          "vi": "xinh đẹp, đẹp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "素直な（すなおな）",
         "meaning": {
-          "english": "obedient, docile"
+          "en": "obedient, docile",
+          "vi": "obedient, docile"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "*素人（しろうと）",
         "meaning": {
-          "english": "amateur, novice"
+          "en": "amateur, novice",
+          "vi": "người mới, tay mơ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/su-moto_06_k.opus",
@@ -255,7 +269,8 @@
     "kanji": {
       "character": "素",
       "meaning": {
-        "english": "element, plain"
+        "en": "element, plain",
+        "vi": "element, plain"
       },
       "strokes": {
         "count": 10,
@@ -313,7 +328,8 @@
         "romaji": "ito"
       },
       "meaning": {
-        "english": "thread"
+        "en": "thread",
+        "vi": "sợi chỉ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ito0.svg",
@@ -327,6 +343,8 @@
       "classic_nelson": "3511"
     }
   },
+  "jlpt": "N2",
+  "mnemonic_vi": "Tơ 糸 ở dạng nguyên sơ chưa nhuộm gợi ý sự mộc mạc, chất liệu gốc, yếu tố cơ bản.",
   "jishoData": {
     "query": "素",
     "found": true,
@@ -334,7 +352,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "660",
     "strokeCount": 10,
-    "meaning": "elementary, principle, naked, uncovered",
+    "meaning": {
+      "en": "elementary, principle, naked, uncovered",
+      "vi": "elementary, principle, naked, uncovered"
+    },
     "kunyomi": [
       "もと"
     ],
@@ -347,6 +368,7 @@
         "example": "素",
         "reading": "ソ",
         "meaning": {
+          "en": "white silk, prime, principle",
           "vi": "white silk, prime, principle"
         },
         "romaji": "so"
@@ -355,6 +377,7 @@
         "example": "素案",
         "reading": "ソアン",
         "meaning": {
+          "en": "rough plan, draft",
           "vi": "rough plan, draft"
         },
         "romaji": "soan"
@@ -363,7 +386,8 @@
         "example": "栄養素",
         "reading": "エイヨウソ",
         "meaning": {
-          "en": "nutrient"
+          "en": "nutrient",
+          "vi": "nutrient"
         },
         "romaji": "eiyouso"
       },
@@ -371,7 +395,8 @@
         "example": "酵素",
         "reading": "コウソ",
         "meaning": {
-          "en": "enzyme"
+          "en": "enzyme",
+          "vi": "enzyme"
         },
         "romaji": "kouso"
       },
@@ -379,6 +404,7 @@
         "example": "素",
         "reading": "ス",
         "meaning": {
+          "en": "one's nature, one's feelings, oneself, plain, unadorned, undecorated, unadulterated, au naturel, mere, poor, exceedingly",
           "vi": "one's nature, one's feelings, oneself, plain, unadorned, undecorated, unadulterated, au naturel, mere, poor, exceedingly"
         },
         "romaji": "su"
@@ -387,6 +413,7 @@
         "example": "素顔",
         "reading": "スガオ",
         "meaning": {
+          "en": "face with no make-up, unpainted face, true face (of a country, celebrity, etc.), real face, true picture, real nature, sober face, sobriety",
           "vi": "face with no make-up, unpainted face, true face (of a country, celebrity, etc.), real face, true picture, real nature, sober face, sobriety"
         },
         "romaji": "sugao"
@@ -395,6 +422,7 @@
         "example": "空素",
         "reading": "カラス",
         "meaning": {
+          "en": "dealt hand containing only 1-point cards (scoring combination)",
           "vi": "dealt hand containing only 1-point cards (scoring combination)"
         },
         "romaji": "karasu"
@@ -403,7 +431,8 @@
         "example": "鉤素",
         "reading": "ハリス",
         "meaning": {
-          "en": "snell (fishing), leader, trace, cast"
+          "en": "snell (fishing), leader, trace, cast",
+          "vi": "snell (fishing), leader, trace, cast"
         },
         "romaji": "harisu"
       }
@@ -413,6 +442,7 @@
         "example": "元",
         "reading": "もと",
         "meaning": {
+          "en": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)",
           "vi": "origin, source, beginning, basis, base, foundation, root, cause, (raw) material, ingredient, base, mix (e.g. for a cake), (soup) stock, (one's) side, capital, principal, cost price, root (of a plant), (tree) trunk, part (of a brush, chopsticks, etc.) one holds (with the hand), first three lines of a waka, counter for plants or trees, counter for falcons (in falconry)"
         },
         "romaji": "moto"
@@ -421,7 +451,8 @@
         "example": "元より",
         "reading": "もとより",
         "meaning": {
-          "en": "from the beginning, from the first, all along, originally, of course, not to mention ..., not only ... but also ..., to say nothing of ..."
+          "en": "from the beginning, from the first, all along, originally, of course, not to mention ..., not only ... but also ..., to say nothing of ...",
+          "vi": "from the beginning, from the first, all along, originally, of course, not to mention ..., not only ... but also ..., to say nothing of ..."
         },
         "romaji": "motoyori"
       },
@@ -429,7 +460,8 @@
         "example": "味の素",
         "reading": "あじのもと",
         "meaning": {
-          "en": "Ajinomoto, brand name of monosodium glutamate (MSG)"
+          "en": "Ajinomoto, brand name of monosodium glutamate (MSG)",
+          "vi": "Ajinomoto, brand name of monosodium glutamate (MSG)"
         },
         "romaji": "ajinomoto"
       },
@@ -437,7 +469,8 @@
         "example": "味の素",
         "reading": "あじのもと",
         "meaning": {
-          "en": "Ajinomoto Co. Inc."
+          "en": "Ajinomoto Co. Inc.",
+          "vi": "Ajinomoto Co. Inc."
         },
         "romaji": "ajinomoto"
       }
@@ -447,7 +480,10 @@
       "forms": [
         "糹"
       ],
-      "meaning": "silk"
+      "meaning": {
+        "en": "silk",
+        "vi": "silk"
+      }
     },
     "parts": [
       "二",

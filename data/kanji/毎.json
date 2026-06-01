@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 2,
     "kunyomi": "goto",
-    "meaning": "every",
+    "meaning": {
+      "en": "every",
+      "vi": "mỗi, mọi"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "毎朝（まいあさ）",
         "meaning": {
-          "english": "every morning"
+          "english": "every morning",
+          "en": "every morning",
+          "vi": "mỗi sáng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "毎日（まいにち）",
         "meaning": {
-          "english": "every day"
+          "english": "every day",
+          "en": "every day",
+          "vi": "mỗi ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "毎回（まいかい）",
         "meaning": {
-          "english": "every time"
+          "english": "every time",
+          "en": "every time",
+          "vi": "mọi lúc, mỗi lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "毎度（まいど）",
         "meaning": {
-          "english": "each time"
+          "english": "each time",
+          "en": "each time",
+          "vi": "mỗi lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "毎週（まいしゅう）",
         "meaning": {
-          "english": "every week"
+          "english": "every week",
+          "en": "every week",
+          "vi": "mỗi tuần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "三日毎に（みっかごとに）",
         "meaning": {
-          "english": "every 3 days"
+          "english": "every 3 days",
+          "en": "every 3 days",
+          "vi": "mỗi 3 ngày"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/goto_06_f.opus",
@@ -222,7 +237,9 @@
     "kanji": {
       "character": "毎",
       "meaning": {
-        "english": "every"
+        "english": "every",
+        "en": "every",
+        "vi": "mỗi, mọi"
       },
       "strokes": {
         "count": 6,
@@ -272,7 +289,9 @@
         "romaji": "nakare"
       },
       "meaning": {
-        "english": "not, mother"
+        "english": "not, mother",
+        "en": "not, mother",
+        "vi": "không, mẹ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/nakare0.svg",
@@ -293,7 +312,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "436",
     "strokeCount": 6,
-    "meaning": "every",
+    "meaning": {
+      "en": "every",
+      "vi": "mỗi, mọi"
+    },
     "kunyomi": [
       "ごと",
       "-ごと.に"
@@ -306,7 +328,8 @@
         "example": "毎",
         "reading": "マイ",
         "meaning": {
-          "en": "every (usu. with events, e.g. every weekend), each"
+          "en": "every (usu. with events, e.g. every weekend), each",
+          "vi": "mỗi, mọi"
         },
         "romaji": "mai"
       },
@@ -314,7 +337,8 @@
         "example": "毎朝",
         "reading": "マイアサ",
         "meaning": {
-          "en": "every morning"
+          "en": "every morning",
+          "vi": "mỗi sáng"
         },
         "romaji": "maiasa"
       },
@@ -322,7 +346,8 @@
         "example": "毎々",
         "reading": "マイマイ",
         "meaning": {
-          "en": "each time, frequently, always"
+          "en": "each time, frequently, always",
+          "vi": "mỗi lần, thường xuyên, luôn luôn"
         },
         "romaji": "maimai"
       }
@@ -332,7 +357,8 @@
         "example": "毎",
         "reading": "ごと",
         "meaning": {
-          "en": "each, every"
+          "en": "each, every",
+          "vi": "mỗi, mọi"
         },
         "romaji": "goto"
       },
@@ -340,7 +366,8 @@
         "example": "毎に",
         "reading": "ごとに",
         "meaning": {
-          "en": "one by one, each, every, at intervals of"
+          "en": "one by one, each, every, at intervals of",
+          "vi": "từng cái một, mỗi, mọi, theo khoảng"
         },
         "romaji": "gotoni"
       },
@@ -348,7 +375,8 @@
         "example": "月ごと",
         "reading": "つきごと",
         "meaning": {
-          "en": "monthly"
+          "en": "monthly",
+          "vi": "hàng tháng"
         },
         "romaji": "tsukigoto"
       },
@@ -356,7 +384,8 @@
         "example": "戸ごと",
         "reading": "こごと",
         "meaning": {
-          "en": "every house, each household"
+          "en": "every house, each household",
+          "vi": "mọi nhà, từng hộ"
         },
         "romaji": "kogoto"
       }
@@ -367,7 +396,10 @@
         "母",
         "⺟"
       ],
-      "meaning": "mother, do not"
+      "meaning": {
+        "en": "mother, do not",
+        "vi": "mẹ, đừng"
+      }
     },
     "parts": [
       "乞",
@@ -381,5 +413,6 @@
   },
   "hanViet": [
     "mỗi"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: việc gì lặp đi lặp lại từng lần một thì thành 毎, nghĩa là mỗi, mọi."
 }

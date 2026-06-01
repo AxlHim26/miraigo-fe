@@ -7,13 +7,18 @@
     "grade": 3,
     "hint_group": 6,
     "kunyomi": "no, nomu",
-    "meaning": "drink",
+    "meaning": {
+      "en": "drink",
+      "vi": "uống"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "飲食店（いんしょくてん）",
         "meaning": {
-          "english": "restaurant"
+          "english": "restaurant",
+          "en": "restaurant",
+          "vi": "restaurant"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "飲酒運転（いんしゅうんてん）",
         "meaning": {
-          "english": "drunk driving"
+          "english": "drunk driving",
+          "en": "drunk driving",
+          "vi": "drunk driving"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "飲料水（いんりょうすい）",
         "meaning": {
-          "english": "drinking water"
+          "english": "drinking water",
+          "en": "drinking water",
+          "vi": "drinking water"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "飲む（のむ）",
         "meaning": {
-          "english": "drink"
+          "english": "drink",
+          "en": "drink",
+          "vi": "uống"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "飲み屋（のみや）",
         "meaning": {
-          "english": "bar"
+          "english": "bar",
+          "en": "bar",
+          "vi": "bar"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "飲み物（のみもの）",
         "meaning": {
-          "english": "beverage"
+          "english": "beverage",
+          "en": "beverage",
+          "vi": "beverage"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-no(mu)_06_f.opus",
@@ -224,7 +239,9 @@
     "kanji": {
       "character": "飲",
       "meaning": {
-        "english": "drink"
+        "english": "drink",
+        "en": "drink",
+        "vi": "uống"
       },
       "strokes": {
         "count": 12,
@@ -286,7 +303,9 @@
         "romaji": "shokuhen"
       },
       "meaning": {
-        "english": "food, to eat"
+        "english": "food, to eat",
+        "en": "food, to eat",
+        "vi": "food, to eat"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shokuhen0.svg",
@@ -307,7 +326,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "969",
     "strokeCount": 12,
-    "meaning": "drink, smoke, take",
+    "meaning": {
+      "en": "drink, smoke, take",
+      "vi": "uống, hút, dùng"
+    },
     "kunyomi": [
       "の.む",
       "-の.み"
@@ -321,7 +343,8 @@
         "example": "飲",
         "reading": "イン",
         "meaning": {
-          "vi": "drinking (sometimes esp. alcohol), drink, drinking party"
+          "vi": "drinking (sometimes esp. alcohol), drink, drinking party",
+          "en": "drinking (sometimes esp. alcohol), drink, drinking party"
         },
         "romaji": "in"
       },
@@ -329,7 +352,8 @@
         "example": "飲酒",
         "reading": "インシュ",
         "meaning": {
-          "en": "drinking alcohol"
+          "en": "drinking alcohol",
+          "vi": "drinking alcohol"
         },
         "romaji": "inshu"
       },
@@ -337,7 +361,8 @@
         "example": "暴飲",
         "reading": "ボウイン",
         "meaning": {
-          "en": "heavy drinking"
+          "en": "heavy drinking",
+          "vi": "heavy drinking"
         },
         "romaji": "bouin"
       },
@@ -345,7 +370,8 @@
         "example": "愛飲",
         "reading": "アイイン",
         "meaning": {
-          "en": "drinking habitually, being fond of (a drink)"
+          "en": "drinking habitually, being fond of (a drink)",
+          "vi": "drinking habitually, being fond of (a drink)"
         },
         "romaji": "aiin"
       },
@@ -353,7 +379,8 @@
         "example": "飲食",
         "reading": "インショク",
         "meaning": {
-          "en": "food and drink, eating and drinking"
+          "en": "food and drink, eating and drinking",
+          "vi": "food and drink, eating and drinking"
         },
         "romaji": "inshoku"
       },
@@ -361,7 +388,8 @@
         "example": "飲酒",
         "reading": "オンジュ",
         "meaning": {
-          "vi": "consumption of alcohol (as prohibited by one of the Buddhist precepts), Buddhist precept prohibiting the consumption of alcohol"
+          "vi": "consumption of alcohol (as prohibited by one of the Buddhist precepts), Buddhist precept prohibiting the consumption of alcohol",
+          "en": "consumption of alcohol (as prohibited by one of the Buddhist precepts), Buddhist precept prohibiting the consumption of alcohol"
         },
         "romaji": "onju"
       }
@@ -371,7 +399,8 @@
         "example": "飲む",
         "reading": "のむ",
         "meaning": {
-          "vi": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
+          "vi": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)",
+          "en": "to drink, to swallow, to take (medicine), to smoke (tobacco), to swallow up, to engulf, to suppress (one's anger, bitter feelings, etc.), to keep down, to hold back, to swallow (one's tears), to catch (one's breath), to accept (a demand, conditions, etc.), to agree to, to make light of (someone), to think nothing of, to overwhelm, to overawe, to carry (a concealed dagger, etc.), to conceal (up one's sleeve, etc.)"
         },
         "romaji": "nomu"
       },
@@ -379,7 +408,8 @@
         "example": "飲む打つ買う",
         "reading": "のむうつかう",
         "meaning": {
-          "vi": "drinking, gambling, and buying women in prostitution"
+          "vi": "drinking, gambling, and buying women in prostitution",
+          "en": "drinking, gambling, and buying women in prostitution"
         },
         "romaji": "nomuutsukau"
       }
@@ -389,7 +419,10 @@
       "forms": [
         "飠"
       ],
-      "meaning": "eat, food"
+      "meaning": {
+        "en": "eat, food",
+        "vi": "ăn, thức ăn"
+      }
     },
     "parts": [
       "欠",
@@ -403,5 +436,7 @@
   "hanViet": [
     "ấm",
     "ẩm"
-  ]
+  ],
+  "jlpt_level": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 飲 có bộ ăn uống và bên phải như đang há miệng, gợi hành động uống."
 }

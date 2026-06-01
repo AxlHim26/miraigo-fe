@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "katamu, kashi, katamukeru, katamuku, kashigeru",
-    "meaning": "incline, lean, tilt",
+    "meaning": {
+      "en": "incline, lean, tilt",
+      "vi": "nghiêng, nghiêng về, chếch"
+    },
     "kstroke": 13,
     "examples": [
       {
         "japanese": "傾向（けいこう）",
         "meaning": {
-          "english": "tendency, trend, inclination"
+          "english": "tendency, trend, inclination",
+          "en": "tendency, trend, inclination",
+          "vi": "xu hướng, chiều hướng, khuynh hướng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "傾度（けいど）",
         "meaning": {
-          "english": "degree of inclination"
+          "english": "degree of inclination",
+          "en": "degree of inclination",
+          "vi": "độ nghiêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "傾斜する（けいしゃする）",
         "meaning": {
-          "english": "incline, slant, slope"
+          "english": "incline, slant, slope",
+          "en": "incline, slant, slope",
+          "vi": "nghiêng, dốc, độ dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "右傾する（うけいする）",
         "meaning": {
-          "english": "lean to the (political) right"
+          "english": "lean to the (political) right",
+          "en": "lean to the (political) right",
+          "vi": "ngả sang cánh hữu (về chính trị)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "左傾する（さけいする）",
         "meaning": {
-          "english": "leaning the (political) left"
+          "english": "leaning the (political) left",
+          "en": "leaning the (political) left",
+          "vi": "ngả sang cánh tả (về chính trị)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "傾ける（かたむける）",
         "meaning": {
-          "english": "lean, tip, tilt, slant [v.t.]"
+          "english": "lean, tip, tilt, slant [v.t.]",
+          "en": "lean, tip, tilt, slant [v.t.]",
+          "vi": "làm nghiêng, làm chếch, làm dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "傾く（かたむく）",
         "meaning": {
-          "english": "lean, tip, tilt, slant [v.i.]"
+          "english": "lean, tip, tilt, slant [v.i.]",
+          "en": "lean, tip, tilt, slant [v.i.]",
+          "vi": "nghiêng, chếch, dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "傾き（かたむき）",
         "meaning": {
-          "english": "slope, inclination"
+          "english": "slope, inclination",
+          "en": "slope, inclination",
+          "vi": "độ dốc, độ nghiêng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "傾げる（かしげる）",
         "meaning": {
-          "english": "lean, tip, tilt, slant [v.t.]"
+          "english": "lean, tip, tilt, slant [v.t.]",
+          "en": "lean, tip, tilt, slant [v.t.]",
+          "vi": "làm nghiêng, làm chếch, làm dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "傾ぐ（かしぐ）",
         "meaning": {
-          "english": "lean, tip, tilt, slant [v.i.]"
+          "english": "lean, tip, tilt, slant [v.i.]",
+          "en": "lean, tip, tilt, slant [v.i.]",
+          "vi": "nghiêng, chếch, dốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katamu(ku)_06_j.opus",
@@ -235,7 +258,9 @@
     "kanji": {
       "character": "傾",
       "meaning": {
-        "english": "incline, lean, tilt"
+        "english": "incline, lean, tilt",
+        "en": "incline, lean, tilt",
+        "vi": "nghiêng, nghiêng về, chếch"
       },
       "strokes": {
         "count": 13,
@@ -299,7 +324,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -320,7 +347,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "938",
     "strokeCount": 13,
-    "meaning": "lean, incline, tilt, trend, wane, sink, ruin, bias",
+    "meaning": {
+      "en": "lean, incline, tilt, trend, wane, sink, ruin, bias",
+      "vi": "nghiêng, nghiêng về, chếch, xu hướng, suy giảm, lún xuống, suy sụp, thiên kiến"
+    },
     "kunyomi": [
       "かたむ.く",
       "かたむ.ける",
@@ -336,7 +366,8 @@
         "example": "傾斜",
         "reading": "ケイシャ",
         "meaning": {
-          "vi": "inclination, slant, slope, bevel, list, dip, tilt, lean"
+          "vi": "độ nghiêng, độ chếch, độ dốc, mép vát, sự nghiêng lệch, chúc xuống, sự nghiêng, độ ngả",
+          "en": "inclination, slant, slope, bevel, list, dip, tilt, lean"
         },
         "romaji": "keisha"
       },
@@ -344,7 +375,8 @@
         "example": "傾向",
         "reading": "ケイコウ",
         "meaning": {
-          "en": "tendency, trend, inclination"
+          "en": "tendency, trend, inclination",
+          "vi": "xu hướng, chiều hướng, khuynh hướng"
         },
         "romaji": "keikou"
       },
@@ -352,7 +384,8 @@
         "example": "前傾",
         "reading": "ゼンケイ",
         "meaning": {
-          "en": "forward inclination (of the body), bending forward, anteversion"
+          "en": "forward inclination (of the body), bending forward, anteversion",
+          "vi": "sự nghiêng người về phía trước, cúi người về trước, tư thế ngả trước"
         },
         "romaji": "zenkei"
       },
@@ -360,7 +393,8 @@
         "example": "右傾",
         "reading": "ウケイ",
         "meaning": {
-          "vi": "leaning to the right, leaning to the (political) right, rightist tendency, becoming right-wing"
+          "vi": "ngả sang phải, ngả sang cánh hữu (về chính trị), xu hướng cánh hữu, trở nên thiên hữu",
+          "en": "leaning to the right, leaning to the (political) right, rightist tendency, becoming right-wing"
         },
         "romaji": "ukei"
       }
@@ -370,7 +404,8 @@
         "example": "傾く",
         "reading": "かたむく",
         "meaning": {
-          "vi": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.)"
+          "vi": "nghiêng về, chếch, chao đảo, nghiêng hẳn, có xu hướng, thiên về, dễ rơi vào, lặn xuống (mặt trời, mặt trăng), chìm xuống, suy giảm, tàn dần, rút xuống, sa sút, có khuynh hướng, có xu hướng (đến), dần nghiêng về (ý kiến, v.v.)",
+          "en": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.)"
         },
         "romaji": "katamuku"
       },
@@ -378,7 +413,8 @@
         "example": "傾ける",
         "reading": "かたむける",
         "meaning": {
-          "vi": "to incline, to lean, to tip, to tilt, to slant, to bend, to list, to devote oneself to, to concentrate on, to pour one's energy into, to ruin, to squander, to empty, to drink (alcohol)"
+          "vi": "nghiêng, ngả, chúc, chếch, uốn cong, nghiêng lệch, dốc sức vào, tập trung vào, dồn năng lượng vào, làm suy sụp, tiêu xài hoang phí, làm cạn, uống (rượu)",
+          "en": "to incline, to lean, to tip, to tilt, to slant, to bend, to list, to devote oneself to, to concentrate on, to pour one's energy into, to ruin, to squander, to empty, to drink (alcohol)"
         },
         "romaji": "katamukeru"
       },
@@ -386,7 +422,8 @@
         "example": "傾く",
         "reading": "かたむく",
         "meaning": {
-          "vi": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.)"
+          "vi": "nghiêng về, chếch, chao đảo, nghiêng hẳn, có xu hướng, thiên về, dễ rơi vào, lặn xuống (mặt trời, mặt trăng), chìm xuống, suy giảm, tàn dần, rút xuống, sa sút, có khuynh hướng, có xu hướng (đến), dần nghiêng về (ý kiến, v.v.)",
+          "en": "to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to, to go down (sun, moon), to sink, to decline, to wane, to ebb, to fall away, to tend (towards), to be inclined (to), to come around to (opinion, etc.)"
         },
         "romaji": "katamuku"
       },
@@ -394,7 +431,8 @@
         "example": "傾げる",
         "reading": "かしげる",
         "meaning": {
-          "vi": "to tilt (esp. head), to lean, to incline, to slant"
+          "vi": "nghiêng (đặc biệt là đầu), ngả, nghiêng về, chếch",
+          "en": "to tilt (esp. head), to lean, to incline, to slant"
         },
         "romaji": "kashigeru"
       },
@@ -402,7 +440,8 @@
         "example": "傾げる",
         "reading": "かしげる",
         "meaning": {
-          "vi": "to tilt (esp. head), to lean, to incline, to slant"
+          "vi": "nghiêng (đặc biệt là đầu), ngả, nghiêng về, chếch",
+          "en": "to tilt (esp. head), to lean, to incline, to slant"
         },
         "romaji": "kashigeru"
       }
@@ -412,7 +451,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "ハ",

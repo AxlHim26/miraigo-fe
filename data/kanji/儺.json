@@ -5,7 +5,10 @@
     "query": "儺",
     "found": true,
     "strokeCount": 21,
-    "meaning": "exorcism",
+    "meaning": {
+      "en": "exorcism",
+      "vi": "trừ tà"
+    },
     "kunyomi": [
       "おにやらい"
     ],
@@ -18,7 +21,8 @@
         "example": "儺",
         "reading": "ナ",
         "meaning": {
-          "vi": "(ceremony of) driving out evil spirits"
+          "en": "(ceremony of) driving out evil spirits",
+          "vi": "nghi thức xua đuổi tà ma"
         },
         "romaji": "na"
       },
@@ -26,7 +30,8 @@
         "example": "追儺",
         "reading": "ツイナ",
         "meaning": {
-          "vi": "(ceremony of) driving out evil spirits"
+          "en": "(ceremony of) driving out evil spirits",
+          "vi": "nghi thức xua đuổi tà ma"
         },
         "romaji": "tsuina"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "二",

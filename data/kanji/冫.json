@@ -5,7 +5,10 @@
     "query": "冫",
     "found": true,
     "strokeCount": 2,
-    "meaning": "two-stroke water radical or ice radical (no. 15)",
+    "meaning": {
+      "en": "two-stroke water radical or ice radical (no. 15)",
+      "vi": "bộ thủy hai nét hoặc bộ băng, bộ số 15"
+    },
     "kunyomi": [
       "こおり"
     ],
@@ -16,7 +19,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "冫"
@@ -24,9 +30,11 @@
     "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20907_frames.png",
     "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051ab.svg",
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51ab.gif",
-    "uri": "https://jisho.org/search/%E5%86%AB%23kanji"
+    "uri": "https://jisho.org/search/%E5%86%AB%23kanji",
+    "jlptLevel": null
   },
   "hanViet": [
     "băng"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: hai nét lạnh như hai vệt băng, đây là bộ băng."
 }

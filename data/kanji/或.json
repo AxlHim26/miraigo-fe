@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "2378",
     "strokeCount": 8,
-    "meaning": "some, one, or, possibly, a certain",
+    "meaning": {
+      "en": "some, one, or, possibly, a certain",
+      "vi": "một vài, một, hoặc, có thể, nào đó"
+    },
     "kunyomi": [
       "あ.る",
       "あるい",
@@ -23,7 +26,8 @@
         "example": "或る",
         "reading": "ある",
         "meaning": {
-          "en": "a certain ..., some ..."
+          "en": "a certain ..., some ...",
+          "vi": "một ... nào đó, vài ..."
         },
         "romaji": "aru"
       },
@@ -31,7 +35,8 @@
         "example": "或いは",
         "reading": "あるいは",
         "meaning": {
-          "vi": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
+          "vi": "hoặc, hoặc là ... hoặc, có lẽ, có thể, một số ... còn số khác ..., lúc thì ... lúc khác ...",
+          "en": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
         },
         "romaji": "aruiha"
       },
@@ -39,7 +44,8 @@
         "example": "或いは",
         "reading": "あるいは",
         "meaning": {
-          "vi": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
+          "vi": "hoặc, hoặc là ... hoặc, có lẽ, có thể, một số ... còn số khác ..., lúc thì ... lúc khác ...",
+          "en": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
         },
         "romaji": "aruiha"
       },
@@ -47,14 +53,18 @@
         "example": "或いは",
         "reading": "あるいは",
         "meaning": {
-          "vi": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
+          "vi": "hoặc, hoặc là ... hoặc, có lẽ, có thể, một số ... còn số khác ..., lúc thì ... lúc khác ...",
+          "en": "or, either ... or, maybe, perhaps, possibly, some ... and others ..., sometimes ... and at other times ..."
         },
         "romaji": "aruiha"
       }
     ],
     "radical": {
       "symbol": "戈",
-      "meaning": "spear, halberd"
+      "meaning": {
+        "en": "spear, halberd",
+        "vi": "giáo, kích"
+      }
     },
     "parts": [
       "一",

@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1927",
     "strokeCount": 13,
-    "meaning": "camphor tree",
+    "meaning": {
+      "en": "camphor tree",
+      "vi": "cây long não"
+    },
     "kunyomi": [
       "くす",
       "くすのき"
@@ -24,7 +27,8 @@
         "example": "樟",
         "reading": "くすのき",
         "meaning": {
-          "vi": "camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"
+          "vi": "cây long não (Cinnamomum camphora), gỗ long não, nguyệt quế long não",
+          "en": "camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"
         },
         "romaji": "kusunoki"
       },
@@ -32,14 +36,18 @@
         "example": "樟",
         "reading": "くすのき",
         "meaning": {
-          "vi": "camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"
+          "vi": "cây long não (Cinnamomum camphora), gỗ long não, nguyệt quế long não",
+          "en": "camphor tree (Cinnamomum camphora), camphorwood, camphor laurel"
         },
         "romaji": "kusunoki"
       }
     ],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "cây"
+      }
     },
     "parts": [
       "冂",
@@ -55,5 +63,7 @@
   },
   "hanViet": [
     "nam"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: hai bên đều gợi về cây, ở giữa như chữ nam, để nhớ đến cây long não to và sống lâu năm."
 }

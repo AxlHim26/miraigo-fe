@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "tsuchi",
-    "meaning": "soil, earth, ground",
+    "meaning": {
+      "en": "soil, earth, ground",
+      "vi": "đất, mặt đất, thổ nhưỡng"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "土曜日（どようび）",
         "meaning": {
-          "english": "Saturday"
+          "english": "Saturday",
+          "en": "Saturday",
+          "vi": "thứ Bảy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "土日（どにち）",
         "meaning": {
-          "english": "Saturday and Sunday"
+          "english": "Saturday and Sunday",
+          "en": "Saturday and Sunday",
+          "vi": "thứ Bảy và Chủ nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "郷土（きょうど）",
         "meaning": {
-          "english": "birth place"
+          "english": "birth place",
+          "en": "birth place",
+          "vi": "quê quán"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "土地（とち）",
         "meaning": {
-          "english": "plot of land"
+          "english": "plot of land",
+          "en": "plot of land",
+          "vi": "mảnh đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "土（つち）",
         "meaning": {
-          "english": "soil"
+          "english": "soil",
+          "en": "soil",
+          "vi": "đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "土色（つちいろ）",
         "meaning": {
-          "english": "earth colored"
+          "english": "earth colored",
+          "en": "earth colored",
+          "vi": "màu đất"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "*土産（みやげ）",
         "meaning": {
-          "english": "local product, souvenir"
+          "english": "local product, souvenir",
+          "en": "local product, souvenir",
+          "vi": "đặc sản địa phương, quà lưu niệm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuchi_06_g.opus",
@@ -234,7 +251,9 @@
     "kanji": {
       "character": "土",
       "meaning": {
-        "english": "soil, earth, ground"
+        "english": "soil, earth, ground",
+        "en": "soil, earth, ground",
+        "vi": "đất, mặt đất, thổ nhưỡng"
       },
       "strokes": {
         "count": 3,
@@ -278,7 +297,9 @@
         "romaji": "tsuchi"
       },
       "meaning": {
-        "english": "earth"
+        "english": "earth",
+        "en": "earth",
+        "vi": "đất"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
@@ -299,7 +320,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "307",
     "strokeCount": 3,
-    "meaning": "soil, earth, ground, Turkey",
+    "meaning": {
+      "en": "soil, earth, ground, Turkey",
+      "vi": "đất, mặt đất, thổ nhưỡng, Thổ Nhĩ Kỳ"
+    },
     "kunyomi": [
       "つち"
     ],
@@ -312,7 +336,8 @@
         "example": "土",
         "reading": "ド",
         "meaning": {
-          "en": "Saturday, earth, dirt, soil, land, lands, ground, earth (third of the five elements)"
+          "en": "Saturday, earth, dirt, soil, land, lands, ground, earth (third of the five elements)",
+          "vi": "thứ Bảy, đất, bụi đất, thổ nhưỡng, đất đai, mặt đất, hành Thổ"
         },
         "romaji": "do"
       },
@@ -320,7 +345,8 @@
         "example": "土地",
         "reading": "トチ",
         "meaning": {
-          "vi": "plot of land, lot, soil, locality, region, place"
+          "vi": "plot of land, lot, soil, locality, region, place",
+          "en": ""
         },
         "romaji": "tochi"
       },
@@ -328,7 +354,8 @@
         "example": "浄土",
         "reading": "ジョウド",
         "meaning": {
-          "vi": "pure land (esp. the Western Pure Land paradise of Amitabha), (Buddhist) paradise, Pure Land Buddhism"
+          "vi": "pure land (esp. the Western Pure Land paradise of Amitabha), (Buddhist) paradise, Pure Land Buddhism",
+          "en": ""
         },
         "romaji": "joudo"
       },
@@ -336,21 +363,26 @@
         "example": "郷土",
         "reading": "キョウド",
         "meaning": {
-          "vi": "native place, birth-place, one's old home, province, region, locality"
+          "vi": "native place, birth-place, one's old home, province, region, locality",
+          "en": ""
         },
         "romaji": "kyoudo"
       },
       {
         "example": "【ト】",
         "reading": "Turkey",
-        "meaning": "",
+        "meaning": {
+          "en": "",
+          "vi": ""
+        },
         "romaji": "Turkey"
       },
       {
         "example": "時計",
         "reading": "トケイ",
         "meaning": {
-          "vi": "clock, watch, timepiece"
+          "vi": "clock, watch, timepiece",
+          "en": ""
         },
         "romaji": "tokei"
       },
@@ -358,7 +390,8 @@
         "example": "下土",
         "reading": "カド",
         "meaning": {
-          "en": "lower world, this world, the earth"
+          "en": "lower world, this world, the earth",
+          "vi": "trần gian, thế gian, mặt đất"
         },
         "romaji": "kado"
       },
@@ -366,7 +399,8 @@
         "example": "日ト",
         "reading": "ニット",
         "meaning": {
-          "vi": "Japan and Turkey, Japanese-Turkish"
+          "vi": "Japan and Turkey, Japanese-Turkish",
+          "en": ""
         },
         "romaji": "nitto"
       }
@@ -376,7 +410,8 @@
         "example": "土",
         "reading": "つち",
         "meaning": {
-          "vi": "earth, soil, dirt, clay, mud, the earth (historically, esp. as opposed to the heavens), the ground, the land, low-quality torinoko-gami (containing mud), (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)"
+          "vi": "earth, soil, dirt, clay, mud, the earth (historically, esp. as opposed to the heavens), the ground, the land, low-quality torinoko-gami (containing mud), (period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)",
+          "en": ""
         },
         "romaji": "tsuchi"
       },
@@ -384,7 +419,8 @@
         "example": "土方",
         "reading": "どかた",
         "meaning": {
-          "en": "construction worker, laborer (labourer), navvy"
+          "en": "construction worker, laborer (labourer), navvy",
+          "vi": "công nhân xây dựng, lao động chân tay"
         },
         "romaji": "dokata"
       },
@@ -392,7 +428,8 @@
         "example": "盛り土",
         "reading": "もりど",
         "meaning": {
-          "en": "embankment (for road, railway, etc.), raising the ground level, fill"
+          "en": "embankment (for road, railway, etc.), raising the ground level, fill",
+          "vi": "bờ đắp, nền đất đắp cao"
         },
         "romaji": "morido"
       },
@@ -400,14 +437,18 @@
         "example": "赤土",
         "reading": "あかつち",
         "meaning": {
-          "vi": "red clay, red earth, laterite, dark-red paint"
+          "vi": "red clay, red earth, laterite, dark-red paint",
+          "en": ""
         },
         "romaji": "akatsuchi"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "土"
@@ -417,6 +458,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/571f.gif",
     "uri": "https://jisho.org/search/%E5%9C%9F%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: nét ngang nằm trên nền đất như một mầm cây mọc lên từ mặt đất.",
   "hanViet": [
     "thổ",
     "đỗ",

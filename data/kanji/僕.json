@@ -7,13 +7,18 @@
     "grade": null,
     "hint_group": 2,
     "kunyomi": "n/a",
-    "meaning": "I, manservant",
+    "meaning": {
+      "en": "I, manservant",
+      "vi": "tôi, người hầu nam"
+    },
     "kstroke": 14,
     "examples": [
       {
         "japanese": "僕（ぼく）",
         "meaning": {
-          "english": "I (masculine)"
+          "english": "I (masculine)",
+          "en": "I (masculine)",
+          "vi": "tôi (cách xưng nam)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(ra)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "従僕（じゅうぼく）",
         "meaning": {
-          "english": "servant"
+          "english": "servant",
+          "en": "servant",
+          "vi": "người hầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(ra)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "下僕（げぼく）",
         "meaning": {
-          "english": "servant"
+          "english": "servant",
+          "en": "servant",
+          "vi": "người hầu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(ra)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "公僕（こうぼく）",
         "meaning": {
-          "english": "public servant"
+          "english": "public servant",
+          "en": "public servant",
+          "vi": "công chức"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/boku(ra)_06_d.opus",
@@ -161,7 +172,9 @@
     "kanji": {
       "character": "僕",
       "meaning": {
-        "english": "I, manservant"
+        "english": "I, manservant",
+        "en": "I, manservant",
+        "vi": "tôi, người hầu nam"
       },
       "strokes": {
         "count": 14,
@@ -227,7 +240,9 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "english": "person ",
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -248,7 +263,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1236",
     "strokeCount": 14,
-    "meaning": "me, I (male), servant, manservant",
+    "meaning": {
+      "en": "me, I (male), servant, manservant",
+      "vi": "tôi, ta (nam), người hầu, người hầu nam"
+    },
     "kunyomi": [
       "しもべ"
     ],
@@ -260,7 +278,8 @@
         "example": "僕",
         "reading": "ボク",
         "meaning": {
-          "en": "I, me, you, manservant"
+          "en": "I, me, you, manservant",
+          "vi": "ta, tôi, ngươi, người hầu nam"
         },
         "romaji": "boku"
       },
@@ -268,7 +287,8 @@
         "example": "僕たち",
         "reading": "ボクタチ",
         "meaning": {
-          "en": "we"
+          "en": "we",
+          "vi": "chúng tôi"
         },
         "romaji": "bokutachi"
       },
@@ -276,7 +296,8 @@
         "example": "校僕",
         "reading": "コウボク",
         "meaning": {
-          "en": "student studying and working at the school"
+          "en": "student studying and working at the school",
+          "vi": "học sinh vừa học vừa làm tại trường"
         },
         "romaji": "kouboku"
       },
@@ -284,7 +305,8 @@
         "example": "童僕",
         "reading": "ドウボク",
         "meaning": {
-          "vi": "young male servant, page"
+          "vi": "tiểu đồng nam, cậu hầu",
+          "en": "young male servant, page"
         },
         "romaji": "douboku"
       }
@@ -294,7 +316,8 @@
         "example": "僕",
         "reading": "しもべ",
         "meaning": {
-          "en": "servant, manservant, menial"
+          "en": "servant, manservant, menial",
+          "vi": "người hầu, người hầu nam, kẻ làm việc vặt"
         },
         "romaji": "shimobe"
       },
@@ -302,7 +325,8 @@
         "example": "神の僕",
         "reading": "かみのしもべ",
         "meaning": {
-          "en": "Servant of God"
+          "en": "Servant of God",
+          "vi": "Tôi tớ của Chúa"
         },
         "romaji": "kaminoshimobe"
       }
@@ -312,7 +336,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "二",

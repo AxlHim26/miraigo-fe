@@ -5,7 +5,10 @@
     "query": "倪",
     "found": true,
     "strokeCount": 10,
-    "meaning": "stare",
+    "meaning": {
+      "en": "stare",
+      "vi": "nhìn chằm chằm"
+    },
     "kunyomi": [
       "きわ"
     ],
@@ -18,7 +21,8 @@
         "example": "倪雲林",
         "reading": "ゲイウンリン",
         "meaning": {
-          "vi": "Chinese painter (1301-1374)"
+          "vi": "họa sĩ Trung Quốc (1301-1374)",
+          "en": "Chinese painter (1301-1374)"
         },
         "romaji": "geiunrin"
       },
@@ -26,7 +30,8 @@
         "example": "睥睨",
         "reading": "ヘイゲイ",
         "meaning": {
-          "vi": "glaring at, scowling at, looking contemptuously at, frowning down upon, domineering with a coercive look"
+          "vi": "trừng mắt nhìn, cau có nhìn, nhìn khinh miệt, cau mày nhìn xuống, lấn át bằng ánh nhìn uy hiếp",
+          "en": "glaring at, scowling at, looking contemptuously at, frowning down upon, domineering with a coercive look"
         },
         "romaji": "heigei"
       },
@@ -34,7 +39,8 @@
         "example": "端倪",
         "reading": "タンゲイ",
         "meaning": {
-          "en": "conjecture, surmise"
+          "en": "conjecture, surmise",
+          "vi": "phỏng đoán, suy đoán"
         },
         "romaji": "tangei"
       }
@@ -45,7 +51,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "儿",

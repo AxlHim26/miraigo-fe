@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "nani, nan",
-    "meaning": "what, how many",
+    "meaning": {
+      "en": "what, how many",
+      "vi": "gì, bao nhiêu"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "幾何学（きかがく）",
         "meaning": {
-          "english": "geometry"
+          "en": "geometry",
+          "vi": "hình học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "何（なに）",
         "meaning": {
-          "english": "what"
+          "en": "what",
+          "vi": "gì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "何色（なにいろ）",
         "meaning": {
-          "english": "what color"
+          "en": "what color",
+          "vi": "màu gì"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "何しろ（なにしろ）",
         "meaning": {
-          "english": "at any rate, anyway"
+          "en": "at any rate, anyway",
+          "vi": "at any rate, anyway"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "何か（なにか）",
         "meaning": {
-          "english": "something"
+          "en": "something",
+          "vi": "điều gì đó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "何分（なんぷん）",
         "meaning": {
-          "english": "how many minutes"
+          "en": "how many minutes",
+          "vi": "how many minutes"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "何時（なんじ）",
         "meaning": {
-          "english": "what time"
+          "en": "what time",
+          "vi": "mấy giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "何回（なんかい）",
         "meaning": {
-          "english": "how many times"
+          "en": "how many times",
+          "vi": "how many times"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "何百（なんびゃく）",
         "meaning": {
-          "english": "hundreds"
+          "en": "hundreds",
+          "vi": "hundreds"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "何度も（なんども）",
         "meaning": {
-          "english": "many times"
+          "en": "many times",
+          "vi": "nhiều lần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "何才（なんさい）",
         "meaning": {
-          "english": "how old"
+          "en": "how old",
+          "vi": "how old"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nani_06_k.opus",
@@ -286,7 +300,8 @@
     "kanji": {
       "character": "何",
       "meaning": {
-        "english": "what, how many"
+        "en": "what, how many",
+        "vi": "gì, bao nhiêu"
       },
       "strokes": {
         "count": 7,
@@ -338,7 +353,8 @@
         "romaji": "ninben"
       },
       "meaning": {
-        "english": "person "
+        "en": "person ",
+        "vi": "người"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/ninben0.svg",
@@ -359,7 +375,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "340",
     "strokeCount": 7,
-    "meaning": "what",
+    "meaning": {
+      "en": "what",
+      "vi": "gì"
+    },
     "kunyomi": [
       "なに",
       "なん",
@@ -374,7 +393,8 @@
         "example": "非可換幾何",
         "reading": "ヒカカンキカ",
         "meaning": {
-          "en": "noncommutative geometry, NCG"
+          "en": "noncommutative geometry, NCG",
+          "vi": "hình học không giao hoán, NCG"
         },
         "romaji": "hikakankika"
       }
@@ -384,6 +404,7 @@
         "example": "何",
         "reading": "なに",
         "meaning": {
+          "en": "what, you-know-what, that thing, whatsit, whachamacallit, what's-his-name, what's-her-name, penis, (one's) thing, dick, (not) at all, (not) in the slightest, what?, huh?, hey!, come on!, oh, no (it's fine), why (it's nothing), oh (certainly not)",
           "vi": "what, you-know-what, that thing, whatsit, whachamacallit, what's-his-name, what's-her-name, penis, (one's) thing, dick, (not) at all, (not) in the slightest, what?, huh?, hey!, come on!, oh, no (it's fine), why (it's nothing), oh (certainly not)"
         },
         "romaji": "nani"
@@ -392,7 +413,8 @@
         "example": "何か",
         "reading": "なにか",
         "meaning": {
-          "en": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)?"
+          "en": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)?",
+          "vi": "điều gì đó, một vài, bất kỳ, bằng cách nào đó, vì lý do nào đó, vậy thì sao, ý bạn là gì"
         },
         "romaji": "nanika"
       },
@@ -400,6 +422,7 @@
         "example": "何々",
         "reading": "なになに",
         "meaning": {
+          "en": "what, so-and-so, such and such, something (or other), what?, wait, hang on, well, well, let's see, no, oh (not at all), please, there, there",
           "vi": "what, so-and-so, such and such, something (or other), what?, wait, hang on, well, well, let's see, no, oh (not at all), please, there, there"
         },
         "romaji": "naninani"
@@ -408,7 +431,8 @@
         "example": "何",
         "reading": "なん",
         "meaning": {
-          "en": "what, how many, many, a lot of, several, a few, some"
+          "en": "what, how many, many, a lot of, several, a few, some",
+          "vi": "gì, bao nhiêu, nhiều, khá nhiều, vài, một ít, một số"
         },
         "romaji": "nan"
       },
@@ -416,7 +440,8 @@
         "example": "何か",
         "reading": "なにか",
         "meaning": {
-          "en": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)?"
+          "en": "something, some, any, somehow, for some reason, (so) what (are you trying to say)?, what (do you mean)?",
+          "vi": "điều gì đó, một vài, bất kỳ, bằng cách nào đó, vì lý do nào đó, vậy thì sao, ý bạn là gì"
         },
         "romaji": "nanika"
       }
@@ -426,7 +451,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

@@ -5,7 +5,10 @@
     "query": "唖",
     "found": true,
     "strokeCount": 10,
-    "meaning": "mute, dumb",
+    "meaning": {
+      "en": "mute, dumb",
+      "vi": "câm, không nói được"
+    },
     "kunyomi": [
       "おし"
     ],
@@ -18,6 +21,7 @@
         "example": "唖",
         "reading": "オシ",
         "meaning": {
+          "en": "muteness, speech impairment, mute, deaf-mute",
           "vi": "muteness, speech impairment, mute, deaf-mute"
         },
         "romaji": "oshi"
@@ -26,7 +30,8 @@
         "example": "唖々",
         "reading": "アア",
         "meaning": {
-          "en": "caw (of a crow, etc.)"
+          "en": "caw (of a crow, etc.)",
+          "vi": "tiếng quạ kêu quang quác"
         },
         "romaji": "aa"
       },
@@ -34,7 +39,8 @@
         "example": "唖々",
         "reading": "アア",
         "meaning": {
-          "en": "caw (of a crow, etc.)"
+          "en": "caw (of a crow, etc.)",
+          "vi": "tiếng quạ kêu quang quác"
         },
         "romaji": "aa"
       },
@@ -42,7 +48,8 @@
         "example": "盲唖",
         "reading": "モウア",
         "meaning": {
-          "en": "blind and dumb"
+          "en": "blind and dumb",
+          "vi": "mù và câm"
         },
         "romaji": "moua"
       }
@@ -52,6 +59,7 @@
         "example": "唖",
         "reading": "おし",
         "meaning": {
+          "en": "muteness, speech impairment, mute, deaf-mute",
           "vi": "muteness, speech impairment, mute, deaf-mute"
         },
         "romaji": "oshi"
@@ -60,14 +68,18 @@
         "example": "唖蝉",
         "reading": "おしぜみ",
         "meaning": {
-          "en": "voiceless cicada (female), Asian cicada"
+          "en": "voiceless cicada (female), Asian cicada",
+          "vi": "ve cái không kêu, ve châu Á"
         },
         "romaji": "oshizemi"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "一",

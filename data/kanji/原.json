@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "hara",
-    "meaning": "plain, original",
+    "meaning": {
+      "en": "plain, original",
+      "vi": "plain, original"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "原稿（げんこう）",
         "meaning": {
-          "english": "manuscript"
+          "en": "manuscript",
+          "vi": "bản thảo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-hara_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "原因（げんいん）",
         "meaning": {
-          "english": "cause, origin"
+          "en": "cause, origin",
+          "vi": "nguyên nhân, nguồn gốc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-hara_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "原則（げんそく）",
         "meaning": {
-          "english": "principle"
+          "en": "principle",
+          "vi": "nguyên lý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-hara_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "原点（げんてん）",
         "meaning": {
-          "english": "starting point"
+          "en": "starting point",
+          "vi": "starting point"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-hara_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "原爆（げんばく）",
         "meaning": {
-          "english": "atomic bomb"
+          "en": "atomic bomb",
+          "vi": "atomic bomb"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-hara_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "原告（げんこく）",
         "meaning": {
-          "english": "plaintiff"
+          "en": "plaintiff",
+          "vi": "plaintiff"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-hara_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "高原（こうげん）",
         "meaning": {
-          "english": "plateau"
+          "en": "plateau",
+          "vi": "plateau"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-hara_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "原始的な（げんしてきな）",
         "meaning": {
-          "english": "primitive"
+          "en": "primitive",
+          "vi": "primitive"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-hara_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "野原（のはら）",
         "meaning": {
-          "english": "field"
+          "en": "field",
+          "vi": "field"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gen-hara_06_i.opus",
@@ -251,7 +263,8 @@
     "kanji": {
       "character": "原",
       "meaning": {
-        "english": "plain, original"
+        "en": "plain, original",
+        "vi": "plain, original"
       },
       "strokes": {
         "count": 10,
@@ -309,7 +322,8 @@
         "romaji": "gandare"
       },
       "meaning": {
-        "english": "cliff"
+        "en": "cliff",
+        "vi": "cliff"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gandare0.svg",
@@ -323,6 +337,8 @@
       "classic_nelson": "825"
     }
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Vách đá 厂 che dòng suối nhỏ 泉 ở đồng bằng: hình ảnh nguồn gốc ban đầu, nguyên sơ.",
   "jishoData": {
     "query": "原",
     "found": true,
@@ -330,7 +346,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "172",
     "strokeCount": 10,
-    "meaning": "meadow, original, primitive, field, plain, prairie, tundra, wilderness",
+    "meaning": {
+      "en": "meadow, original, primitive, field, plain, prairie, tundra, wilderness",
+      "vi": "meadow, original, primitive, field, plain, prairie, tundra, wilderness"
+    },
     "kunyomi": [
       "はら"
     ],
@@ -342,6 +361,7 @@
         "example": "原",
         "reading": "ゲン",
         "meaning": {
+          "en": "original, primitive, primary, fundamental, proto-",
           "vi": "original, primitive, primary, fundamental, proto-"
         },
         "romaji": "gen"
@@ -350,6 +370,7 @@
         "example": "原案",
         "reading": "ゲンアン",
         "meaning": {
+          "en": "original plan, original bill, original motion, draft",
           "vi": "original plan, original bill, original motion, draft"
         },
         "romaji": "gen'an"
@@ -358,7 +379,8 @@
         "example": "中原",
         "reading": "チュウゲン",
         "meaning": {
-          "en": "middle of a field, middle of a country, field of contest"
+          "en": "middle of a field, middle of a country, field of contest",
+          "vi": "middle of a field, middle of a country, field of contest"
         },
         "romaji": "chuugen"
       },
@@ -366,7 +388,8 @@
         "example": "抗原",
         "reading": "コウゲン",
         "meaning": {
-          "en": "antigen"
+          "en": "antigen",
+          "vi": "antigen"
         },
         "romaji": "kougen"
       }
@@ -376,6 +399,7 @@
         "example": "原",
         "reading": "はら",
         "meaning": {
+          "en": "field, plain, prairie, tundra, moor, wilderness",
           "vi": "field, plain, prairie, tundra, moor, wilderness"
         },
         "romaji": "hara"
@@ -384,6 +408,7 @@
         "example": "原っぱ",
         "reading": "はらっぱ",
         "meaning": {
+          "en": "open field, empty lot, plain",
           "vi": "open field, empty lot, plain"
         },
         "romaji": "harappa"
@@ -392,6 +417,7 @@
         "example": "海原",
         "reading": "うなばら",
         "meaning": {
+          "en": "ocean, sea, the deep",
           "vi": "ocean, sea, the deep"
         },
         "romaji": "unabara"
@@ -400,14 +426,18 @@
         "example": "笹原",
         "reading": "ささはら",
         "meaning": {
-          "en": "field of bamboo grass"
+          "en": "field of bamboo grass",
+          "vi": "field of bamboo grass"
         },
         "romaji": "sasahara"
       }
     ],
     "radical": {
       "symbol": "厂",
-      "meaning": "cliff"
+      "meaning": {
+        "en": "cliff",
+        "vi": "cliff"
+      }
     },
     "parts": [
       "厂",

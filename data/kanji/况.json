@@ -4,8 +4,12 @@
   "jishoData": {
     "query": "况",
     "found": true,
+    "jlptLevel": null,
     "strokeCount": 7,
-    "meaning": "still more, still less",
+    "meaning": {
+      "en": "still more, still less",
+      "vi": "huống chi, huống hồ, lại càng hơn nữa"
+    },
     "kunyomi": [
       "まし.て",
       "いわ.んや",
@@ -20,14 +24,18 @@
         "example": "況んや",
         "reading": "いわんや",
         "meaning": {
-          "vi": "much more, not to mention, not to speak of, to say nothing of, let alone"
+          "vi": "much more, not to mention, not to speak of, to say nothing of, let alone",
+          "en": "much more, not to mention, not to speak of, to say nothing of, let alone"
         },
         "romaji": "iwan'ya"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "儿",
@@ -41,5 +49,6 @@
   },
   "hanViet": [
     "huống"
-  ]
+  ],
+  "mnemonic_vi": "Bộ băng 冫 đứng cạnh anh em 兄, gợi cảnh huống lạnh lẽo nên liên tưởng đến tình huống, huống chi."
 }

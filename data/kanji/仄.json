@@ -5,7 +5,10 @@
     "query": "仄",
     "found": true,
     "strokeCount": 4,
-    "meaning": "be seen dimly, suggest, intimate, faint, stupid, hint",
+    "meaning": {
+      "en": "be seen dimly, suggest, intimate, faint, stupid, hint",
+      "vi": "thấy lờ mờ, gợi ý, ám chỉ, mơ hồ, đần độn, manh mối"
+    },
     "kunyomi": [
       "ほの.か",
       "ほの-",
@@ -21,7 +24,8 @@
         "example": "仄韻",
         "reading": "ソクイン",
         "meaning": {
-          "en": "oblique-tone rhyme (of Chinese)"
+          "en": "oblique-tone rhyme (of Chinese)",
+          "vi": "vần trắc (trong tiếng Trung)"
         },
         "romaji": "sokuin"
       },
@@ -29,7 +33,8 @@
         "example": "仄声",
         "reading": "ソクセイ",
         "meaning": {
-          "en": "oblique tones (the three tones of Chinese that exclude the high-level, or first, tone)"
+          "en": "oblique tones (the three tones of Chinese that exclude the high-level, or first, tone)",
+          "vi": "các thanh trắc (ba thanh của tiếng Trung, không gồm thanh ngang hay thanh thứ nhất)"
         },
         "romaji": "sokusei"
       }
@@ -39,7 +44,8 @@
         "example": "仄か",
         "reading": "ほのか",
         "meaning": {
-          "en": "faint, indistinct, dim, vague, subtle, delicate"
+          "en": "faint, indistinct, dim, vague, subtle, delicate",
+          "vi": "mờ nhạt, không rõ, lờ mờ, mơ hồ, tinh tế, mong manh"
         },
         "romaji": "honoka"
       },
@@ -47,7 +53,8 @@
         "example": "仄めかす",
         "reading": "ほのめかす",
         "meaning": {
-          "vi": "to hint at, to intimate, to suggest, to allude to, to imply"
+          "vi": "ám chỉ, gợi ý, nói bóng gió, hàm ý",
+          "en": "to hint at, to intimate, to suggest, to allude to, to imply"
         },
         "romaji": "honomekasu"
       },
@@ -55,7 +62,8 @@
         "example": "仄めく",
         "reading": "ほのめく",
         "meaning": {
-          "en": "to be seen dimly, to glimmer"
+          "en": "to be seen dimly, to glimmer",
+          "vi": "thấp thoáng hiện ra, le lói"
         },
         "romaji": "honomeku"
       }
@@ -65,7 +73,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "人",

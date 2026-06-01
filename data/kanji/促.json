@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "998",
     "strokeCount": 9,
-    "meaning": "stimulate, urge, press, demand, incite",
+    "meaning": {
+      "en": "stimulate, urge, press, demand, incite",
+      "vi": "thúc đẩy, giục giã, ép buộc, yêu cầu, kích động"
+    },
     "kunyomi": [
       "うなが.す"
     ],
@@ -20,7 +23,8 @@
         "example": "促進",
         "reading": "ソクシン",
         "meaning": {
-          "vi": "promotion, acceleration, encouragement, facilitation, spurring on"
+          "vi": "sự thúc đẩy, tăng tốc, khuyến khích, tạo điều kiện, cổ vũ",
+          "en": "promotion, acceleration, encouragement, facilitation, spurring on"
         },
         "romaji": "sokushin"
       },
@@ -28,7 +32,8 @@
         "example": "促成",
         "reading": "ソクセイ",
         "meaning": {
-          "vi": "promotion of growth"
+          "vi": "thúc đẩy tăng trưởng",
+          "en": "promotion of growth"
         },
         "romaji": "sokusei"
       },
@@ -36,7 +41,8 @@
         "example": "督促",
         "reading": "トクソク",
         "meaning": {
-          "vi": "urge, demand, importunity"
+          "vi": "sự thúc ép, yêu cầu, sự nài nỉ",
+          "en": "urge, demand, importunity"
         },
         "romaji": "tokusoku"
       },
@@ -44,7 +50,8 @@
         "example": "矢の催促",
         "reading": "ヤノサイソク",
         "meaning": {
-          "vi": "strongly and repeatedly urging (demanding, requesting, pressing)"
+          "vi": "liên tục và mạnh mẽ thúc giục (đòi hỏi, yêu cầu, ép buộc)",
+          "en": "strongly and repeatedly urging (demanding, requesting, pressing)"
         },
         "romaji": "yanosaisoku"
       }
@@ -54,7 +61,8 @@
         "example": "促す",
         "reading": "うながす",
         "meaning": {
-          "vi": "to urge, to encourage, to press, to prompt, to draw (attention to), to stimulate (e.g. growth), to hasten (e.g. development), to quicken, to accelerate, to promote"
+          "vi": "thúc giục, khuyến khích, ép, nhắc nhở, thu hút (sự chú ý), kích thích (ví dụ tăng trưởng), thúc nhanh (ví dụ phát triển), làm mau hơn, tăng tốc, thúc đẩy",
+          "en": "to urge, to encourage, to press, to prompt, to draw (attention to), to stimulate (e.g. growth), to hasten (e.g. development), to quicken, to accelerate, to promote"
         },
         "romaji": "unagasu"
       }
@@ -64,7 +72,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1827",
     "strokeCount": 10,
-    "meaning": "recreation, pleasure",
+    "meaning": {
+      "en": "recreation, pleasure",
+      "vi": "giải trí, vui thú"
+    },
     "kunyomi": [],
     "onyomi": [
       "ゴ"
@@ -18,7 +21,8 @@
         "example": "娯楽",
         "reading": "ゴラク",
         "meaning": {
-          "vi": "amusement, entertainment, recreation, pleasure, pastime, hobby"
+          "vi": "amusement, entertainment, recreation, pleasure, pastime, hobby",
+          "en": "amusement, entertainment, recreation, pleasure, pastime, hobby"
         },
         "romaji": "goraku"
       },
@@ -26,7 +30,8 @@
         "example": "娯遊",
         "reading": "ゴユウ",
         "meaning": {
-          "vi": "amusement, pleasure, recreation, leisure"
+          "vi": "amusement, pleasure, recreation, leisure",
+          "en": "amusement, pleasure, recreation, leisure"
         },
         "romaji": "goyuu"
       }
@@ -34,7 +39,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "女",
-      "meaning": "woman, female"
+      "meaning": {
+        "en": "woman, female",
+        "vi": "phụ nữ, nữ"
+      }
     },
     "parts": [
       "ハ",
@@ -48,5 +56,7 @@
   },
   "hanViet": [
     "ngu"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Chữ gợi hình niềm vui thư giãn, nên nhớ là giải trí và vui thú."
 }

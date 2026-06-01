@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1403",
     "strokeCount": 11,
-    "meaning": "disclose, open, say",
+    "meaning": {
+      "en": "disclose, open, say",
+      "vi": "mở ra, khai mở, nói ra"
+    },
     "kunyomi": [
       "ひら.く",
       "さと.す"
@@ -21,7 +24,8 @@
         "example": "啓発",
         "reading": "ケイハツ",
         "meaning": {
-          "vi": "enlightenment, development, edification, public awareness, illumination, education, inspiration"
+          "vi": "enlightenment, development, edification, public awareness, illumination, education, inspiration",
+          "en": "enlightenment, development, edification, public awareness, illumination, education, inspiration"
         },
         "romaji": "keihatsu"
       },
@@ -29,7 +33,8 @@
         "example": "啓蒙",
         "reading": "ケイモウ",
         "meaning": {
-          "en": "enlightenment, illumination"
+          "en": "enlightenment, illumination",
+          "vi": "khai sáng, soi sáng"
         },
         "romaji": "keimou"
       },
@@ -37,7 +42,8 @@
         "example": "拝啓",
         "reading": "ハイケイ",
         "meaning": {
-          "en": "Dear (so and so), Dear Sir, Dear Madam, To Whom It May Concern"
+          "en": "Dear (so and so), Dear Sir, Dear Madam, To Whom It May Concern",
+          "vi": "Kính gửi ..., Kính thưa ông/bà, Kính gửi người liên quan"
         },
         "romaji": "haikei"
       },
@@ -45,7 +51,8 @@
         "example": "敬啓",
         "reading": "ケイケイ",
         "meaning": {
-          "en": "salutation at the end of a formal letter"
+          "en": "salutation at the end of a formal letter",
+          "vi": "lời kính cẩn ở cuối thư trang trọng"
         },
         "romaji": "keikei"
       }
@@ -55,14 +62,18 @@
         "example": "啓く",
         "reading": "ひらく",
         "meaning": {
-          "en": "to enlighten, to edify"
+          "en": "to enlighten, to edify",
+          "vi": "khai sáng, giáo hoá"
         },
         "romaji": "hiraku"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, chỗ mở"
+      }
     },
     "parts": [
       "一",
@@ -80,5 +91,7 @@
   "hanViet": [
     "khải",
     "khởi"
-  ]
+  ],
+  "jlpt_level": "N1",
+  "mnemonic_vi": "Mở miệng 口 để nói rõ và khai mở điều gì đó, nên 啓 là khai mở, bày tỏ."
 }

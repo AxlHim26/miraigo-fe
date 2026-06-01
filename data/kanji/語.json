@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kata, kataru",
-    "meaning": "language, word, tell",
+    "meaning": {
+      "en": "language, word, tell",
+      "vi": "ngôn ngữ, từ ngữ, kể"
+    },
     "kstroke": 14,
     "examples": [
       {
         "japanese": "単語（たんご）",
         "meaning": {
-          "english": "word"
+          "english": "word",
+          "en": "word",
+          "vi": "từ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "英語（えいご）",
         "meaning": {
-          "english": "English language"
+          "english": "English language",
+          "en": "English language",
+          "vi": "tiếng Anh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "敬語（けいご）",
         "meaning": {
-          "english": "polite speech"
+          "english": "polite speech",
+          "en": "polite speech",
+          "vi": "kính ngữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "言語学（げんごがく）",
         "meaning": {
-          "english": "linguistics"
+          "english": "linguistics",
+          "en": "linguistics",
+          "vi": "ngôn ngữ học"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "日本語（にほんご）",
         "meaning": {
-          "english": "Japanese language"
+          "english": "Japanese language",
+          "en": "Japanese language",
+          "vi": "tiếng Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "標準語（ひょうじゅんご）",
         "meaning": {
-          "english": "standard Japanese"
+          "english": "standard Japanese",
+          "en": "standard Japanese",
+          "vi": "tiếng Nhật chuẩn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "外国語（がいこくご）",
         "meaning": {
-          "english": "foreign language"
+          "english": "foreign language",
+          "en": "foreign language",
+          "vi": "ngoại ngữ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(ru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "語る（かたる）",
         "meaning": {
-          "english": "talk"
+          "english": "talk",
+          "en": "talk",
+          "vi": "nói chuyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(ru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "物語（ものがたり）",
         "meaning": {
-          "english": "story"
+          "english": "story",
+          "en": "story",
+          "vi": "câu chuyện"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kata(ru)_06_i.opus",
@@ -282,7 +303,9 @@
     "kanji": {
       "character": "語",
       "meaning": {
-        "english": "language, word, tell"
+        "english": "language, word, tell",
+        "en": "language, word, tell",
+        "vi": "ngôn ngữ, từ ngữ, kể"
       },
       "strokes": {
         "count": 14,
@@ -348,7 +371,9 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say",
+        "en": "words, to speak, say",
+        "vi": "lời nói, nói"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -369,7 +394,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "301",
     "strokeCount": 14,
-    "meaning": "word, speech, language",
+    "meaning": {
+      "en": "word, speech, language",
+      "vi": "từ ngữ, lời nói, ngôn ngữ"
+    },
     "kunyomi": [
       "かた.る",
       "かた.らう"
@@ -382,7 +410,8 @@
         "example": "語",
         "reading": "ゴ",
         "meaning": {
-          "vi": "word, term, language, speech"
+          "vi": "từ, thuật ngữ, ngôn ngữ, lời nói",
+          "en": "word, term, language, speech"
         },
         "romaji": "go"
       },
@@ -390,7 +419,8 @@
         "example": "語学",
         "reading": "ゴガク",
         "meaning": {
-          "en": "study of foreign languages, linguistics"
+          "en": "study of foreign languages, linguistics",
+          "vi": "nghiên cứu ngoại ngữ, ngôn ngữ học"
         },
         "romaji": "gogaku"
       },
@@ -398,7 +428,8 @@
         "example": "標語",
         "reading": "ヒョウゴ",
         "meaning": {
-          "en": "motto, slogan, catchword"
+          "en": "motto, slogan, catchword",
+          "vi": "khẩu hiệu, phương châm"
         },
         "romaji": "hyougo"
       },
@@ -406,7 +437,8 @@
         "example": "造語",
         "reading": "ゾウゴ",
         "meaning": {
-          "en": "coinage, invention of a new word, coined word"
+          "en": "coinage, invention of a new word, coined word",
+          "vi": "từ mới được tạo ra, sự đặt từ"
         },
         "romaji": "zougo"
       }
@@ -416,7 +448,8 @@
         "example": "語る",
         "reading": "かたる",
         "meaning": {
-          "vi": "to talk about, to speak of, to tell, to narrate, to recite, to chant, to indicate, to show"
+          "vi": "nói về, kể, thuật lại, ngâm đọc, chỉ ra, cho thấy",
+          "en": "to talk about, to speak of, to tell, to narrate, to recite, to chant, to indicate, to show"
         },
         "romaji": "kataru"
       },
@@ -424,7 +457,8 @@
         "example": "語るに落ちる",
         "reading": "かたるにおちる",
         "meaning": {
-          "vi": "to let slip a secret, to let the cat out of the bag"
+          "vi": "lỡ tiết lộ bí mật",
+          "en": "to let slip a secret, to let the cat out of the bag"
         },
         "romaji": "kataruniochiru"
       },
@@ -432,7 +466,8 @@
         "example": "語らう",
         "reading": "かたらう",
         "meaning": {
-          "vi": "to talk, to tell, to recite, to pledge, to conspire with"
+          "vi": "nói, kể, đọc, cam kết, thông đồng",
+          "en": "to talk, to tell, to recite, to pledge, to conspire with"
         },
         "romaji": "katarau"
       }
@@ -442,7 +477,10 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": {
+        "en": "speech",
+        "vi": "lời nói"
+      }
     },
     "parts": [
       "五",
@@ -458,5 +496,6 @@
     "ngứ",
     "ngữ",
     "ngự"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: 言 là lời nói, 吾 là ta, ghép lại thành 語 là ngôn ngữ hay lời nói ra."
 }

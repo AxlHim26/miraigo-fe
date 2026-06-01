@@ -108,9 +108,6 @@ export default function KanjiGrid({ level }: KanjiGridProps) {
   }, [data, search]);
 
   const totalPages = data?.totalPages ?? 1;
-  const total = data?.total ?? 0;
-  const startNum = (page - 1) * PAGE_SIZE + 1;
-  const endNum = Math.min(page * PAGE_SIZE, total);
 
   const paginationButtons = React.useMemo(() => {
     const pages: (number | "...")[] = [];
@@ -133,7 +130,7 @@ export default function KanjiGrid({ level }: KanjiGridProps) {
             Kho Hán tự {LEVEL_LABELS[level] ?? level}
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Phát triển lộ trình học tập tối ưu (Thời gian load kanji hơi lâu có thể từ 5-20s)
+            Phát triển lộ trình học tập tối ưu
           </Typography>
         </div>
 
@@ -160,10 +157,6 @@ export default function KanjiGrid({ level }: KanjiGridProps) {
               {lang.toUpperCase()}
             </button>
           </Tooltip>
-
-          <span className="rounded-lg border border-[var(--app-border)] bg-[var(--app-card)] px-3 py-2 text-xs font-semibold text-[var(--app-muted)]">
-            Trang {page}/{totalPages}
-          </span>
         </div>
       </div>
 
@@ -231,10 +224,7 @@ export default function KanjiGrid({ level }: KanjiGridProps) {
 
       {/* Pagination */}
       {totalPages > 1 && (
-        <div className="flex items-center justify-center gap-2 pb-4">
-          <span className="mr-4 text-xs text-[var(--app-muted)]">
-            Hiển thị {startNum} – {endNum} trong số {total} Hán tự
-          </span>
+        <div className="flex flex-wrap items-center justify-end gap-2 pb-4">
           <button
             type="button"
             disabled={page <= 1}

@@ -6,7 +6,10 @@
     "found": true,
     "newspaperFrequencyRank": "1585",
     "strokeCount": 9,
-    "meaning": "crotch, thigh, groin, fork, junction, (kokuji)",
+    "meaning": {
+      "en": "crotch, thigh, groin, fork, junction, (kokuji)",
+      "vi": "háng, đùi, bẹn, chạc, ngã rẽ, (quốc tự)"
+    },
     "kunyomi": [
       "また"
     ],
@@ -17,7 +20,8 @@
         "example": "股",
         "reading": "また",
         "meaning": {
-          "en": "groin, thigh, crotch, crutch, fork (in a tree, road, river, etc.), tines (of a fork)"
+          "en": "groin, thigh, crotch, crutch, fork (in a tree, road, river, etc.), tines (of a fork)",
+          "vi": "bẹn, đùi, háng, nạng, chạc (của cây, đường, sông, v.v.), răng chĩa"
         },
         "romaji": "mata"
       },
@@ -25,7 +29,8 @@
         "example": "二股",
         "reading": "ふたまた",
         "meaning": {
-          "vi": "seeing two people (i.e. romantically) at the same time, two-timing, bifurcation, fork, branch, dichotomy, fence-sitting, playing it both ways, parting of the ways"
+          "vi": "quen cùng lúc hai người (theo nghĩa tình cảm), bắt cá hai tay, sự phân đôi, chạc, nhánh, sự phân chia đôi, đứng giữa hai phía, chơi cả hai bên, ngã rẽ chia đường",
+          "en": "seeing two people (i.e. romantically) at the same time, two-timing, bifurcation, fork, branch, dichotomy, fence-sitting, playing it both ways, parting of the ways"
         },
         "romaji": "futamata"
       }
@@ -35,7 +40,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

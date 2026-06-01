@@ -4,12 +4,15 @@
   "jishoData": {
     "query": "㐄",
     "found": false,
-    "meaning": "bước chân"
+    "meaning": {
+      "en": "footsteps",
+      "vi": "bước chân"
+    }
   },
   "hanViet": null,
   "hanVietNote": "Không tìm thấy trong các nguồn tra cứu",
   "meaning": {
-    "vi": "bước chân",
-    "en": "bước chân"
+    "en": "footsteps",
+    "vi": "bước chân"
   }
 }

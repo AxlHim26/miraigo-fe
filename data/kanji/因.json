@@ -7,13 +7,18 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "yoru, yo",
-    "meaning": "cause, depend, be limited",
+    "meaning": {
+      "en": "cause, depend, be limited",
+      "vi": "nguyên nhân, phụ thuộc, bị giới hạn"
+    },
     "kstroke": 6,
     "examples": [
       {
         "japanese": "因子（いんし）",
         "meaning": {
-          "english": "factor, element"
+          "english": "factor, element",
+          "en": "factor, element",
+          "vi": "yếu tố, thành phần"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "因数（いんすう）",
         "meaning": {
-          "english": "factor (math)"
+          "english": "factor (math)",
+          "en": "factor (math)",
+          "vi": "ước số, nhân tử (toán học)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "因縁（いんねん）",
         "meaning": {
-          "english": "fate, destiny"
+          "english": "fate, destiny",
+          "en": "fate, destiny",
+          "vi": "duyên số, định mệnh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "因果関係（いんがかんけい）",
         "meaning": {
-          "english": "causal relationship, nexus"
+          "english": "causal relationship, nexus",
+          "en": "causal relationship, nexus",
+          "vi": "quan hệ nhân quả, mối liên hệ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "死因（しいん）",
         "meaning": {
-          "english": "cause of death"
+          "english": "cause of death",
+          "en": "cause of death",
+          "vi": "nguyên nhân tử vong"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "原因（げんいん）",
         "meaning": {
-          "english": "cause, origin, source"
+          "english": "cause, origin, source",
+          "en": "cause, origin, source",
+          "vi": "nguyên nhân, nguồn gốc, xuất xứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "因る（よる）",
         "meaning": {
-          "english": "come from, be due to"
+          "english": "come from, be due to",
+          "en": "come from, be due to",
+          "vi": "bắt nguồn từ, là do"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in(nen)_06_g.opus",
@@ -197,7 +214,9 @@
     "kanji": {
       "character": "因",
       "meaning": {
-        "english": "cause, depend, be limited"
+        "english": "cause, depend, be limited",
+        "en": "cause, depend, be limited",
+        "vi": "nguyên nhân, phụ thuộc, bị giới hạn"
       },
       "strokes": {
         "count": 6,
@@ -247,7 +266,9 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries",
+        "en": "border, territorial boundaries",
+        "vi": "ranh giới, biên cương"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -268,7 +289,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "636",
     "strokeCount": 6,
-    "meaning": "cause, factor, be associated with, depend on, be limited to",
+    "meaning": {
+      "en": "cause, factor, be associated with, depend on, be limited to",
+      "vi": "nguyên nhân, yếu tố, liên quan tới, phụ thuộc vào, bị giới hạn trong"
+    },
     "kunyomi": [
       "よ.る",
       "ちな.む"
@@ -281,7 +305,8 @@
         "example": "因",
         "reading": "イン",
         "meaning": {
-          "vi": "cause, factor, hetu (direct cause, esp. as opposed to indirect conditions), the basis of one's argument (in hetuvidya)"
+          "vi": "cause, factor, hetu (direct cause, esp. as opposed to indirect conditions), the basis of one's argument (in hetuvidya)",
+          "en": "cause, factor, hetu (direct cause, esp. as opposed to indirect conditions), the basis of one's argument (in hetuvidya)"
         },
         "romaji": "in"
       },
@@ -289,7 +314,8 @@
         "example": "因縁",
         "reading": "インネン",
         "meaning": {
-          "vi": "fate, destiny, connection, tie, bond, origin, pretext, justification, hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things)"
+          "vi": "fate, destiny, connection, tie, bond, origin, pretext, justification, hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things)",
+          "en": "fate, destiny, connection, tie, bond, origin, pretext, justification, hetu and prataya (direct causes and indirect conditions, which underlie the actions of all things)"
         },
         "romaji": "innen"
       },
@@ -297,7 +323,8 @@
         "example": "主因",
         "reading": "シュイン",
         "meaning": {
-          "vi": "primary cause, main factor"
+          "vi": "primary cause, main factor",
+          "en": "primary cause, main factor"
         },
         "romaji": "shuin"
       },
@@ -305,7 +332,8 @@
         "example": "勝因",
         "reading": "ショウイン",
         "meaning": {
-          "en": "cause of victory, reason for (one's) success"
+          "en": "cause of victory, reason for (one's) success",
+          "vi": "nguyên nhân chiến thắng, lý do thành công"
         },
         "romaji": "shouin"
       }
@@ -315,7 +343,8 @@
         "example": "依る",
         "reading": "よる",
         "meaning": {
-          "vi": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
+          "vi": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at",
+          "en": "to be due to, to be caused by, to depend on, to turn on, to be based on, to come from, to be based at (a location, an organization), to be headquartered at"
         },
         "romaji": "yoru"
       },
@@ -323,7 +352,8 @@
         "example": "よるところが大きい",
         "reading": "よるところがおおきい",
         "meaning": {
-          "vi": "depending largely on, playing a large role in, due largely to"
+          "vi": "depending largely on, playing a large role in, due largely to",
+          "en": "depending largely on, playing a large role in, due largely to"
         },
         "romaji": "yorutokorogaookii"
       },
@@ -331,14 +361,18 @@
         "example": "因む",
         "reading": "ちなむ",
         "meaning": {
-          "en": "to be associated (with), to be connected (with)"
+          "en": "to be associated (with), to be connected (with)",
+          "vi": "có liên quan tới, có kết nối với"
         },
         "romaji": "chinamu"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": {
+        "en": "enclosure",
+        "vi": "vây quanh"
+      }
     },
     "parts": [
       "囗",
@@ -349,6 +383,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56e0.gif",
     "uri": "https://jisho.org/search/%E5%9B%A0%23kanji"
   },
+  "mnemonic_vi": "Khung bao quanh chữ đại, gợi nguyên nhân bị bao bọc bên trong nên thành cái nhân, cái cớ.",
   "hanViet": [
     "nhân"
   ]

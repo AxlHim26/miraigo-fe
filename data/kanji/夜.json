@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 6,
     "kunyomi": "yo, yoru",
-    "meaning": "night",
+    "meaning": {
+      "en": "night",
+      "vi": "đêm"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "今夜（こんや）",
         "meaning": {
-          "english": "tonight"
+          "english": "tonight",
+          "en": "tonight",
+          "vi": "tối nay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "深夜（しんや）",
         "meaning": {
-          "english": "midnight"
+          "english": "midnight",
+          "en": "midnight",
+          "vi": "nửa đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "夜間（やかん）",
         "meaning": {
-          "english": "nighttime"
+          "english": "nighttime",
+          "en": "nighttime",
+          "vi": "ban đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "徹夜する（てつやする）",
         "meaning": {
-          "english": "stay up all night"
+          "english": "stay up all night",
+          "en": "stay up all night",
+          "vi": "thức suốt đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "夜更かしする（よふかしする）",
         "meaning": {
-          "english": "stay up late"
+          "english": "stay up late",
+          "en": "stay up late",
+          "vi": "thức khuya"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "夜中（よなか）",
         "meaning": {
-          "english": "late at night"
+          "english": "late at night",
+          "en": "late at night",
+          "vi": "đêm khuya"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "夜明け（よあけ）",
         "meaning": {
-          "english": "dawn"
+          "english": "dawn",
+          "en": "dawn",
+          "vi": "bình minh"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "夜空（よぞら）",
         "meaning": {
-          "english": "night sky"
+          "english": "night sky",
+          "en": "night sky",
+          "vi": "bầu trời đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "月夜（つきよ）",
         "meaning": {
-          "english": "moonlit night"
+          "english": "moonlit night",
+          "en": "moonlit night",
+          "vi": "đêm trăng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "夜（よる）",
         "meaning": {
-          "english": "night"
+          "english": "night",
+          "en": "night",
+          "vi": "đêm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/yoru_06_j.opus",
@@ -270,7 +293,9 @@
     "kanji": {
       "character": "夜",
       "meaning": {
-        "english": "night"
+        "english": "night",
+        "en": "night",
+        "vi": "đêm"
       },
       "strokes": {
         "count": 8,
@@ -324,7 +349,9 @@
         "romaji": "yuube"
       },
       "meaning": {
-        "english": "evening"
+        "english": "evening",
+        "en": "evening",
+        "vi": "buổi tối"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yuube0.svg",
@@ -342,10 +369,13 @@
     "query": "夜",
     "found": true,
     "taughtIn": "grade 2",
-    "jlptLevel": "N4",
+    "jlptLevel": "N5",
     "newspaperFrequencyRank": "487",
     "strokeCount": 8,
-    "meaning": "night, evening",
+    "meaning": {
+      "en": "night, evening",
+      "vi": "đêm, buổi tối"
+    },
     "kunyomi": [
       "よ",
       "よる"
@@ -358,7 +388,8 @@
         "example": "夜",
         "reading": "ヤ",
         "meaning": {
-          "en": "counter for nights"
+          "en": "counter for nights",
+          "vi": "lượng từ đếm đêm"
         },
         "romaji": "ya"
       },
@@ -366,7 +397,8 @@
         "example": "夜間",
         "reading": "ヤカン",
         "meaning": {
-          "en": "night, nighttime"
+          "en": "night, nighttime",
+          "vi": "đêm, ban đêm"
         },
         "romaji": "yakan"
       },
@@ -374,7 +406,8 @@
         "example": "同夜",
         "reading": "ドウヤ",
         "meaning": {
-          "en": "the same night, that night"
+          "en": "the same night, that night",
+          "vi": "đêm đó, cùng đêm ấy"
         },
         "romaji": "douya"
       },
@@ -382,7 +415,8 @@
         "example": "通夜",
         "reading": "ツヤ",
         "meaning": {
-          "en": "all-night vigil over a body, wake"
+          "en": "all-night vigil over a body, wake",
+          "vi": "thức canh đêm bên thi hài"
         },
         "romaji": "tsuya"
       }
@@ -392,7 +426,8 @@
         "example": "夜",
         "reading": "よる",
         "meaning": {
-          "en": "night, evening, dinner"
+          "en": "night, evening, dinner",
+          "vi": "đêm, tối, bữa tối"
         },
         "romaji": "yoru"
       },
@@ -400,7 +435,8 @@
         "example": "夜明け",
         "reading": "よあけ",
         "meaning": {
-          "en": "dawn, daybreak"
+          "en": "dawn, daybreak",
+          "vi": "rạng sáng, bình minh"
         },
         "romaji": "yoake"
       },
@@ -408,7 +444,8 @@
         "example": "毎夜",
         "reading": "まいよ",
         "meaning": {
-          "en": "every evening, every night"
+          "en": "every evening, every night",
+          "vi": "mỗi tối, mỗi đêm"
         },
         "romaji": "maiyo"
       },
@@ -416,7 +453,8 @@
         "example": "短夜",
         "reading": "みじかよ",
         "meaning": {
-          "en": "short summer night"
+          "en": "short summer night",
+          "vi": "đêm hè ngắn"
         },
         "romaji": "mijikayo"
       },
@@ -424,7 +462,8 @@
         "example": "夜",
         "reading": "よる",
         "meaning": {
-          "en": "night, evening, dinner"
+          "en": "night, evening, dinner",
+          "vi": "đêm, tối, bữa tối"
         },
         "romaji": "yoru"
       },
@@ -432,7 +471,8 @@
         "example": "夜ご飯",
         "reading": "よるごはん",
         "meaning": {
-          "en": "dinner, evening meal"
+          "en": "dinner, evening meal",
+          "vi": "bữa tối"
         },
         "romaji": "yorugohan"
       },
@@ -440,7 +480,8 @@
         "example": "御寝",
         "reading": "およる",
         "meaning": {
-          "vi": "sleep, rest"
+          "vi": "ngủ, nghỉ ngơi",
+          "en": "sleep, rest"
         },
         "romaji": "oyoru"
       },
@@ -448,14 +489,18 @@
         "example": "銀河鉄道の夜",
         "reading": "ぎんがてつどうのよる",
         "meaning": {
-          "en": "Night on the Galactic Railroad (novel by Kenji Miyazawa), Milky Way Railroad"
+          "en": "Night on the Galactic Railroad (novel by Kenji Miyazawa), Milky Way Railroad",
+          "vi": "Đêm trên tuyến đường sắt Ngân Hà, Đường sắt Ngân Hà"
         },
         "romaji": "gingatetsudounoyoru"
       }
     ],
     "radical": {
       "symbol": "夕",
-      "meaning": "evening, sunset"
+      "meaning": {
+        "en": "evening, sunset",
+        "vi": "buổi chiều tối, hoàng hôn"
+      }
     },
     "parts": [
       "亠",
@@ -470,5 +515,6 @@
   "hanViet": [
     "dạ",
     "dịch"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: mái trời tối xuống, con người nghỉ ngơi, nên 夜 là đêm."
 }

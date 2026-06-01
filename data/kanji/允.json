@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2358",
     "strokeCount": 4,
-    "meaning": "license, sincerity, permit",
+    "meaning": {
+      "en": "license, sincerity, permit",
+      "vi": "cho phép, thành thực, chấp thuận"
+    },
     "kunyomi": [
       "じょう",
       "まこと.に",
@@ -21,7 +24,8 @@
         "example": "允可",
         "reading": "インカ",
         "meaning": {
-          "vi": "permission, assent, compliance"
+          "en": "permission, assent, compliance",
+          "vi": "sự cho phép, đồng ý, tuân thuận"
         },
         "romaji": "inka"
       },
@@ -29,7 +33,8 @@
         "example": "允許",
         "reading": "インキョ",
         "meaning": {
-          "vi": "permission, licence, license"
+          "en": "permission, licence, license",
+          "vi": "sự cho phép, giấy phép"
         },
         "romaji": "inkyo"
       },
@@ -37,7 +42,8 @@
         "example": "承允",
         "reading": "ショウイン",
         "meaning": {
-          "vi": "consent, acceptance, agreement"
+          "en": "consent, acceptance, agreement",
+          "vi": "sự đồng ý, chấp nhận, thỏa thuận"
         },
         "romaji": "shouin"
       }
@@ -47,14 +53,18 @@
         "example": "雅楽允",
         "reading": "うたのじょう",
         "meaning": {
-          "en": "second assistant court musician (ritsuryō system)"
+          "en": "second assistant court musician (ritsuryō system)",
+          "vi": "phó nhạc công triều đình bậc hai trong hệ thống luật lệnh"
         },
         "romaji": "utanojou"
       }
     ],
     "radical": {
       "symbol": "儿",
-      "meaning": "legs"
+      "meaning": {
+        "en": "legs",
+        "vi": "chân"
+      }
     },
     "parts": [
       "儿",

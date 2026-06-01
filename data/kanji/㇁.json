@@ -4,12 +4,15 @@
   "jishoData": {
     "query": "㇁",
     "found": false,
-    "meaning": "bộ thủ"
+    "meaning": {
+      "en": "radical",
+      "vi": "bộ thủ"
+    }
   },
   "hanViet": null,
   "hanVietNote": "Không tìm thấy trong các nguồn tra cứu",
   "meaning": {
-    "vi": "bộ thủ",
-    "en": "bộ thủ"
+    "en": "radical",
+    "vi": "bộ thủ"
   }
 }

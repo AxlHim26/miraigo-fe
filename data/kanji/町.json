@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 1,
     "kunyomi": "machi",
-    "meaning": "town",
+    "meaning": {
+      "en": "town",
+      "vi": "thị trấn"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "町長（ちょうちょう）",
         "meaning": {
-          "english": "town headman"
+          "english": "town headman",
+          "en": "town headman",
+          "vi": "town headman"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-machi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "町名（ちょうめい）",
         "meaning": {
-          "english": "name of a town"
+          "english": "name of a town",
+          "en": "name of a town",
+          "vi": "name of a town"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-machi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "市町村（しちょうそん）",
         "meaning": {
-          "english": "cities, towns and villages"
+          "english": "cities, towns and villages",
+          "en": "cities, towns and villages",
+          "vi": "cities, towns and villages"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-machi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "町（まち）",
         "meaning": {
-          "english": "town"
+          "english": "town",
+          "en": "town",
+          "vi": "thị trấn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-machi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "町並み（まちなみ）",
         "meaning": {
-          "english": "the appearance of a town/street"
+          "english": "the appearance of a town/street",
+          "en": "the appearance of a town/street",
+          "vi": "the appearance of a town/street"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-machi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "下町（したまち）",
         "meaning": {
-          "english": "old commercial area of Tokyo"
+          "english": "old commercial area of Tokyo",
+          "en": "old commercial area of Tokyo",
+          "vi": "old commercial area of Tokyo"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chou-machi_06_f.opus",
@@ -234,7 +249,9 @@
     "kanji": {
       "character": "町",
       "meaning": {
-        "english": "town"
+        "english": "town",
+        "en": "town",
+        "vi": "thị trấn"
       },
       "strokes": {
         "count": 7,
@@ -286,7 +303,9 @@
         "romaji": "tahen"
       },
       "meaning": {
-        "english": "rice paddy"
+        "english": "rice paddy",
+        "en": "rice paddy",
+        "vi": "rice paddy"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/tahen0.svg",
@@ -307,7 +326,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "292",
     "strokeCount": 7,
-    "meaning": "town, village, block, street",
+    "meaning": {
+      "en": "town, village, block, street",
+      "vi": "thị trấn, làng, khu phố, con phố"
+    },
     "kunyomi": [
       "まち"
     ],
@@ -319,7 +341,8 @@
         "example": "町",
         "reading": "チョウ",
         "meaning": {
-          "vi": "town, block, neighbourhood, neighborhood, street, chō (unit of length, approx. 109.09 m), chō (unit of land area, approx. 0.99 hectares)"
+          "vi": "town, block, neighbourhood, neighborhood, street, chō (unit of length, approx. 109.09 m), chō (unit of land area, approx. 0.99 hectares)",
+          "en": "town, block, neighbourhood, neighborhood, street, chō (unit of length, approx. 109.09 m), chō (unit of land area, approx. 0.99 hectares)"
         },
         "romaji": "chou"
       },
@@ -327,7 +350,8 @@
         "example": "町議会",
         "reading": "チョウギカイ",
         "meaning": {
-          "en": "town council"
+          "en": "town council",
+          "vi": "town council"
         },
         "romaji": "chougikai"
       },
@@ -335,7 +359,8 @@
         "example": "同町",
         "reading": "ドウチョウ",
         "meaning": {
-          "en": "the same town, that town"
+          "en": "the same town, that town",
+          "vi": "the same town, that town"
         },
         "romaji": "douchou"
       },
@@ -343,7 +368,8 @@
         "example": "門前町",
         "reading": "モンゼンマチ",
         "meaning": {
-          "vi": "town originally built around a temple or shrine"
+          "vi": "town originally built around a temple or shrine",
+          "en": "town originally built around a temple or shrine"
         },
         "romaji": "monzenmachi"
       }
@@ -353,7 +379,8 @@
         "example": "町",
         "reading": "まち",
         "meaning": {
-          "en": "town, block, neighbourhood, neighborhood, downtown, main street, street, road"
+          "en": "town, block, neighbourhood, neighborhood, downtown, main street, street, road",
+          "vi": "town, block, neighbourhood, neighborhood, downtown, main street, street, road"
         },
         "romaji": "machi"
       },
@@ -361,7 +388,8 @@
         "example": "街角",
         "reading": "まちかど",
         "meaning": {
-          "en": "street corner"
+          "en": "street corner",
+          "vi": "street corner"
         },
         "romaji": "machikado"
       },
@@ -369,7 +397,8 @@
         "example": "室町",
         "reading": "むろまち",
         "meaning": {
-          "vi": "Muromachi period (1336-1573)"
+          "vi": "Muromachi period (1336-1573)",
+          "en": "Muromachi period (1336-1573)"
         },
         "romaji": "muromachi"
       },
@@ -377,14 +406,18 @@
         "example": "門前町",
         "reading": "もんぜんまち",
         "meaning": {
-          "vi": "town originally built around a temple or shrine"
+          "vi": "town originally built around a temple or shrine",
+          "en": "town originally built around a temple or shrine"
         },
         "romaji": "monzenmachi"
       }
     ],
     "radical": {
       "symbol": "田",
-      "meaning": "field"
+      "meaning": {
+        "en": "field",
+        "vi": "ruộng"
+      }
     },
     "parts": [
       "一",
@@ -399,5 +432,7 @@
   "hanViet": [
     "đinh",
     "đỉnh"
-  ]
+  ],
+  "jlpt_level": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 町 ghép ruộng với con đường thẳng, tưởng tượng các dãy phố chia ô thành thị trấn."
 }

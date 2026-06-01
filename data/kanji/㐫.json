@@ -4,12 +4,15 @@
   "jishoData": {
     "query": "㐫",
     "found": false,
-    "meaning": "hung ác"
+    "meaning": {
+      "en": "ferocious",
+      "vi": "hung ác"
+    }
   },
   "hanViet": null,
   "hanVietNote": "Không tìm thấy trong các nguồn tra cứu",
   "meaning": {
-    "vi": "hung ác",
-    "en": "hung ác"
+    "en": "ferocious",
+    "vi": "hung ác"
   }
 }

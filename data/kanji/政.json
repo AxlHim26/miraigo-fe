@@ -7,13 +7,17 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "matsurigoto",
-    "meaning": "political administration, government, rule",
+    "meaning": {
+      "en": "political administration, government, rule",
+      "vi": "political administration, government, rule"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "政府（せいふ）",
         "meaning": {
-          "english": "government"
+          "en": "government",
+          "vi": "chính phủ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "政治（せいじ）",
         "meaning": {
-          "english": "politics"
+          "en": "politics",
+          "vi": "chính trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "政権（せいけん）",
         "meaning": {
-          "english": "political power"
+          "en": "political power",
+          "vi": "chính quyền"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "政策（せいさく）",
         "meaning": {
-          "english": "policy"
+          "en": "policy",
+          "vi": "chính sách"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "政党（せいとう）",
         "meaning": {
-          "english": "political party"
+          "en": "political party",
+          "vi": "political party"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "政界（せいかい）",
         "meaning": {
-          "english": "political world"
+          "en": "political world",
+          "vi": "political world"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "政局（せいきょく）",
         "meaning": {
-          "english": "political situation"
+          "en": "political situation",
+          "vi": "political situation"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "政治家（せいじか）",
         "meaning": {
-          "english": "politician"
+          "en": "politician",
+          "vi": "politician"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "行政（ぎょうせい）",
         "meaning": {
-          "english": "administration"
+          "en": "administration",
+          "vi": "administration"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "財政（ざいせい）",
         "meaning": {
-          "english": "financial affairs"
+          "en": "financial affairs",
+          "vi": "financial affairs"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "摂政（せっしょう）",
         "meaning": {
-          "english": "regency"
+          "en": "regency",
+          "vi": "regency"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_k.opus",
@@ -145,7 +159,8 @@
       {
         "japanese": "政（まつりごと）",
         "meaning": {
-          "english": "politics"
+          "en": "politics",
+          "vi": "chính trị"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(gyou)sei_06_l.opus",
@@ -280,7 +295,8 @@
     "kanji": {
       "character": "政",
       "meaning": {
-        "english": "political administration, government, rule"
+        "en": "political administration, government, rule",
+        "vi": "political administration, government, rule"
       },
       "strokes": {
         "count": 9,
@@ -336,7 +352,8 @@
         "romaji": "bokuzukuri"
       },
       "meaning": {
-        "english": "activity, to strike, hit"
+        "en": "activity, to strike, hit",
+        "vi": "activity, to strike, hit"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
@@ -350,6 +367,8 @@
       "classic_nelson": "2045"
     }
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Chính 正 kết hợp hành động 攵: cai trị sao cho ngay chính, thành chính trị.",
   "jishoData": {
     "query": "政",
     "found": true,
@@ -357,7 +376,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "17",
     "strokeCount": 9,
-    "meaning": "politics, government",
+    "meaning": {
+      "en": "politics, government",
+      "vi": "politics, government"
+    },
     "kunyomi": [
       "まつりごと",
       "まん"
@@ -371,7 +393,8 @@
         "example": "政",
         "reading": "マツリゴト",
         "meaning": {
-          "en": "rule, government"
+          "en": "rule, government",
+          "vi": "rule, government"
         },
         "romaji": "matsurigoto"
       },
@@ -379,6 +402,7 @@
         "example": "政界",
         "reading": "セイカイ",
         "meaning": {
+          "en": "(world of) politics, political world, political circles",
           "vi": "(world of) politics, political world, political circles"
         },
         "romaji": "seikai"
@@ -387,7 +411,8 @@
         "example": "農政",
         "reading": "ノウセイ",
         "meaning": {
-          "en": "agricultural administration"
+          "en": "agricultural administration",
+          "vi": "agricultural administration"
         },
         "romaji": "nousei"
       },
@@ -395,6 +420,7 @@
         "example": "帝政",
         "reading": "テイセイ",
         "meaning": {
+          "en": "imperial government, imperialism, monarchical rule",
           "vi": "imperial government, imperialism, monarchical rule"
         },
         "romaji": "teisei"
@@ -403,7 +429,8 @@
         "example": "摂政",
         "reading": "セッショウ",
         "meaning": {
-          "en": "regency, regent"
+          "en": "regency, regent",
+          "vi": "regency, regent"
         },
         "romaji": "sesshou"
       }
@@ -413,7 +440,8 @@
         "example": "政",
         "reading": "まつりごと",
         "meaning": {
-          "en": "rule, government"
+          "en": "rule, government",
+          "vi": "rule, government"
         },
         "romaji": "matsurigoto"
       },
@@ -421,6 +449,7 @@
         "example": "政所",
         "reading": "まんどころ",
         "meaning": {
+          "en": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines",
           "vi": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines"
         },
         "romaji": "mandokoro"
@@ -429,6 +458,7 @@
         "example": "太政",
         "reading": "おおまつりごと",
         "meaning": {
+          "en": "(Japanese) imperial government",
           "vi": "(Japanese) imperial government"
         },
         "romaji": "oomatsurigoto"
@@ -437,6 +467,7 @@
         "example": "政所",
         "reading": "まんどころ",
         "meaning": {
+          "en": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines",
           "vi": "official in charge of the administration of domains and general affairs of powerful noble families (from the middle of the Heian period), titled lady (legal wife of an important official), government office related to finances (Kamakura and Muromachi periods), clerk working for large temples and shrines"
         },
         "romaji": "mandokoro"
@@ -447,7 +478,10 @@
       "forms": [
         "攵"
       ],
-      "meaning": "rap"
+      "meaning": {
+        "en": "rap",
+        "vi": "rap"
+      }
     },
     "parts": [
       "一",

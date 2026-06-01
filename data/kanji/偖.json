@@ -5,7 +5,10 @@
     "query": "偖",
     "found": true,
     "strokeCount": 11,
-    "meaning": "well, now",
+    "meaning": {
+      "en": "well, now",
+      "vi": "nào, bây giờ"
+    },
     "kunyomi": [
       "さて"
     ],
@@ -18,7 +21,8 @@
         "example": "偖",
         "reading": "さて",
         "meaning": {
-          "en": "well, now, then"
+          "en": "well, now, then",
+          "vi": "nào, bây giờ, thế thì"
         },
         "romaji": "sate"
       }
@@ -28,7 +32,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

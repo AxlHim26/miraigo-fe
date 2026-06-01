@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1057",
     "strokeCount": 6,
-    "meaning": "handle, entertain, thresh, strip",
+    "meaning": {
+      "en": "handle, entertain, thresh, strip",
+      "vi": "xử lý, tiếp đãi, đập tuốt, tuốt bỏ"
+    },
     "kunyomi": [
       "あつか.い",
       "あつか.う",
@@ -25,7 +28,8 @@
         "example": "扱い",
         "reading": "あつかい",
         "meaning": {
-          "vi": "treatment, service, dealing (with), handling, management, handling (of a machine, tool, etc.), operation, use, treating as, treating like"
+          "vi": "sự đối xử, phục vụ, xử lý, cách xử lý, quản lý, cách vận hành (máy móc, công cụ...), thao tác, sử dụng, coi như, đối xử như",
+          "en": "treatment, service, dealing (with), handling, management, handling (of a machine, tool, etc.), operation, use, treating as, treating like"
         },
         "romaji": "atsukai"
       },
@@ -33,7 +37,8 @@
         "example": "扱い方",
         "reading": "あつかいかた",
         "meaning": {
-          "en": "how to manage (e.g. case), how to handle (e.g. machine), way with (e.g. children, animal)"
+          "en": "how to manage (e.g. case), how to handle (e.g. machine), way with (e.g. children, animal)",
+          "vi": "cách xử lý (ví dụ vụ việc), cách vận hành (ví dụ máy móc), cách ứng xử với (ví dụ trẻ em, động vật)"
         },
         "romaji": "atsukaikata"
       },
@@ -41,7 +46,8 @@
         "example": "扱う",
         "reading": "あつかう",
         "meaning": {
-          "vi": "to deal with (a person), to treat, to handle, to take care of, to entertain, to deal with (a problem), to handle, to manage, to operate (e.g. a machine), to handle, to work, to deal in, to sell, to cover (a topic), to treat, to discuss, to take up, to treat A as B, to mediate (an argument), to be too much for one, to find unmanageable, to gossip"
+          "vi": "đối xử với (người), xử lý, chăm sóc, tiếp đãi, giải quyết (vấn đề), quản lý, vận hành (ví dụ máy móc), thao tác, làm việc, kinh doanh, bán, đề cập (một chủ đề), bàn luận, đem ra xử lý, coi A là B, dàn xếp (tranh cãi), vượt quá khả năng của ai đó, thấy khó xử lý, buôn chuyện",
+          "en": "to deal with (a person), to treat, to handle, to take care of, to entertain, to deal with (a problem), to handle, to manage, to operate (e.g. a machine), to handle, to work, to deal in, to sell, to cover (a topic), to treat, to discuss, to take up, to treat A as B, to mediate (an argument), to be too much for one, to find unmanageable, to gossip"
         },
         "romaji": "atsukau"
       },
@@ -49,7 +55,8 @@
         "example": "扱く",
         "reading": "こく",
         "meaning": {
-          "vi": "to thresh, to strip"
+          "vi": "đập tuốt, tuốt bỏ",
+          "en": "to thresh, to strip"
         },
         "romaji": "koku"
       }
@@ -59,7 +66,10 @@
       "forms": [
         "扌龵"
       ],
-      "meaning": "hand"
+      "meaning": {
+        "en": "hand",
+        "vi": "tay"
+      }
     },
     "parts": [
       "及",

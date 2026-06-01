@@ -5,7 +5,10 @@
     "query": "佰",
     "found": true,
     "strokeCount": 8,
-    "meaning": "hundred, leader of 100 men, east-west path between paddies",
+    "meaning": {
+      "en": "hundred, leader of 100 men, east-west path between paddies",
+      "vi": "trăm, người chỉ huy một trăm người, lối đi đông tây giữa các thửa ruộng"
+    },
     "kunyomi": [
       "おさ"
     ],
@@ -18,7 +21,8 @@
         "example": "百",
         "reading": "ヒャク",
         "meaning": {
-          "en": "hundred, 100"
+          "en": "hundred, 100",
+          "vi": "trăm, 100"
         },
         "romaji": "hyaku"
       },
@@ -26,7 +30,8 @@
         "example": "百",
         "reading": "ヒャク",
         "meaning": {
-          "en": "hundred, 100"
+          "en": "hundred, 100",
+          "vi": "trăm, 100"
         },
         "romaji": "hyaku"
       }
@@ -37,7 +42,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

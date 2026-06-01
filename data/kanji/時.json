@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "toki",
-    "meaning": "time",
+    "meaning": {
+      "en": "time",
+      "vi": "thời gian"
+    },
     "kstroke": 10,
     "examples": [
       {
         "japanese": "時間（じかん）",
         "meaning": {
-          "english": "time"
+          "english": "time",
+          "en": "time",
+          "vi": "thời gian"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-toki_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "時代（じだい）",
         "meaning": {
-          "english": "era"
+          "english": "era",
+          "en": "era",
+          "vi": "thời đại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-toki_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "一時間（いちじかん）",
         "meaning": {
-          "english": "one hour"
+          "english": "one hour",
+          "en": "one hour",
+          "vi": "một giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-toki_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "一時（いちじ）",
         "meaning": {
-          "english": "one o'clock"
+          "english": "one o'clock",
+          "en": "one o'clock",
+          "vi": "một giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-toki_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "同時（どうじ）",
         "meaning": {
-          "english": "simultaneous(ly)"
+          "english": "simultaneous(ly)",
+          "en": "simultaneous(ly)",
+          "vi": "đồng thời"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-toki_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "当時（とうじ）",
         "meaning": {
-          "english": "in those days, then, at that time"
+          "english": "in those days, then, at that time",
+          "en": "in those days, then, at that time",
+          "vi": "hồi đó, khi ấy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-toki_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "日時（にちじ）",
         "meaning": {
-          "english": "date and time"
+          "english": "date and time",
+          "en": "date and time",
+          "vi": "ngày giờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-toki_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "時（とき）",
         "meaning": {
-          "english": "time, occasion"
+          "english": "time, occasion",
+          "en": "time, occasion",
+          "vi": "thời điểm, dịp"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-toki_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "時々（ときどき）",
         "meaning": {
-          "english": "sometimes"
+          "english": "sometimes",
+          "en": "sometimes",
+          "vi": "đôi khi"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-toki_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "昼時（ひるどき）",
         "meaning": {
-          "english": "noon"
+          "english": "noon",
+          "en": "noon",
+          "vi": "buổi trưa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ji-toki_06_j.opus",
@@ -295,7 +318,9 @@
     "kanji": {
       "character": "時",
       "meaning": {
-        "english": "time"
+        "english": "time",
+        "en": "time",
+        "vi": "thời gian"
       },
       "strokes": {
         "count": 10,
@@ -353,7 +378,9 @@
         "romaji": "hihen"
       },
       "meaning": {
-        "english": "sun, day, time"
+        "english": "sun, day, time",
+        "en": "sun, day, time",
+        "vi": "mặt trời, ngày, thời gian"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hihen0.svg",
@@ -374,7 +401,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "16",
     "strokeCount": 10,
-    "meaning": "time, hour",
+    "meaning": {
+      "en": "time, hour",
+      "vi": "thời gian, giờ"
+    },
     "kunyomi": [
       "とき",
       "-どき"
@@ -387,7 +417,8 @@
         "example": "時",
         "reading": "ジ",
         "meaning": {
-          "vi": "hour, o'clock, (specified) time, when ..., during ..."
+          "vi": "giờ, giờ đồng hồ, thời điểm xác định, khi, trong lúc",
+          "en": "hour, o'clock, (specified) time, when ..., during ..."
         },
         "romaji": "ji"
       },
@@ -395,7 +426,8 @@
         "example": "時価",
         "reading": "ジカ",
         "meaning": {
-          "vi": "current value, price, market value"
+          "vi": "giá hiện tại, giá thị trường",
+          "en": "current value, price, market value"
         },
         "romaji": "jika"
       },
@@ -403,7 +435,8 @@
         "example": "零時",
         "reading": "レイジ",
         "meaning": {
-          "en": "twelve o'clock, midnight, noon"
+          "en": "twelve o'clock, midnight, noon",
+          "vi": "mười hai giờ, nửa đêm, buổi trưa"
         },
         "romaji": "reiji"
       },
@@ -411,7 +444,8 @@
         "example": "平時",
         "reading": "ヘイジ",
         "meaning": {
-          "vi": "peacetime, time of peace, ordinary times, normal times"
+          "vi": "thời bình, thời thường",
+          "en": "peacetime, time of peace, ordinary times, normal times"
         },
         "romaji": "heiji"
       }
@@ -421,7 +455,8 @@
         "example": "時",
         "reading": "とき",
         "meaning": {
-          "vi": "time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense"
+          "vi": "thời gian, giờ, khoảnh khắc, dịp, trường hợp, cơ hội, mùa, thời thế, thời đại, ngày, thì",
+          "en": "time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense"
         },
         "romaji": "toki"
       },
@@ -429,7 +464,8 @@
         "example": "時折",
         "reading": "ときおり",
         "meaning": {
-          "en": "sometimes, at intervals, occasionally, on occasion, from time to time"
+          "en": "sometimes, at intervals, occasionally, on occasion, from time to time",
+          "vi": "đôi khi, thỉnh thoảng"
         },
         "romaji": "tokiori"
       },
@@ -437,7 +473,8 @@
         "example": "切り替え時",
         "reading": "きりかえとき",
         "meaning": {
-          "vi": "time to switch over, response time"
+          "vi": "thời điểm chuyển đổi, thời gian đáp ứng",
+          "en": "time to switch over, response time"
         },
         "romaji": "kirikaetoki"
       },
@@ -445,14 +482,18 @@
         "example": "逢魔が時",
         "reading": "おうまがとき",
         "meaning": {
-          "en": "twilight (traditionally regarded as a time when accidents and disasters are frequent)"
+          "en": "twilight (traditionally regarded as a time when accidents and disasters are frequent)",
+          "vi": "chạng vạng, lúc tranh tối tranh sáng"
         },
         "romaji": "oumagatoki"
       }
     ],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "mặt trời, ngày"
+      }
     },
     "parts": [
       "土",
@@ -467,5 +508,6 @@
   "hanViet": [
     "thì",
     "thời"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: 日 là mặt trời và 寺 như ngôi chùa báo giờ, ghép lại thành 時 là thời gian."
 }

@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1738",
     "strokeCount": 4,
-    "meaning": "reap, cut, clip, trim, prune",
+    "meaning": {
+      "en": "reap, cut, clip, trim, prune",
+      "vi": "gặt, cắt, xén, tỉa"
+    },
     "kunyomi": [
       "か.る"
     ],
@@ -21,7 +24,8 @@
         "example": "刈除",
         "reading": "ガイジョ",
         "meaning": {
-          "en": "removal, cut off, mowing"
+          "en": "removal, cut off, mowing",
+          "vi": "sự cắt bỏ, cắt rời, cắt cỏ"
         },
         "romaji": "gaijo"
       },
@@ -29,7 +33,8 @@
         "example": "刈除",
         "reading": "ガイジョ",
         "meaning": {
-          "en": "removal, cut off, mowing"
+          "en": "removal, cut off, mowing",
+          "vi": "sự cắt bỏ, cắt rời, cắt cỏ"
         },
         "romaji": "gaijo"
       }
@@ -39,7 +44,8 @@
         "example": "刈る",
         "reading": "かる",
         "meaning": {
-          "vi": "to cut (grass, hair, etc.), to mow, to clip, to trim, to prune, to shear, to reap, to harvest"
+          "vi": "to cut (grass, hair, etc.), to mow, to clip, to trim, to prune, to shear, to reap, to harvest",
+          "en": "to cut (grass, hair, etc.), to mow, to clip, to trim, to prune, to shear, to reap, to harvest"
         },
         "romaji": "karu"
       },
@@ -47,7 +53,8 @@
         "example": "刈萱",
         "reading": "かるかや",
         "meaning": {
-          "vi": "Themeda triandra var. japonica (variety of kangaroo grass), Cymbopogon tortilis var. goeringii (variety of grass closely related to lemongrass), thatching grass, thatching sedge"
+          "vi": "Themeda triandra var. japonica (variety of kangaroo grass), Cymbopogon tortilis var. goeringii (variety of grass closely related to lemongrass), thatching grass, thatching sedge",
+          "en": "Themeda triandra var. japonica (variety of kangaroo grass), Cymbopogon tortilis var. goeringii (variety of grass closely related to lemongrass), thatching grass, thatching sedge"
         },
         "romaji": "karukaya"
       }
@@ -57,7 +64,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "刈"
@@ -69,5 +79,6 @@
   },
   "hanViet": [
     "ngải"
-  ]
+  ],
+  "mnemonic_vi": "Bộ dao đang lia qua cỏ, gợi hình ảnh gặt hoặc cắt tỉa."
 }

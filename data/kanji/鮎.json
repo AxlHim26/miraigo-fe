@@ -7,7 +7,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "2201",
     "strokeCount": 16,
-    "meaning": "freshwater trout, smelt",
+    "meaning": {
+      "en": "freshwater trout, smelt",
+      "vi": "cá hồi nước ngọt, cá ayu"
+    },
     "kunyomi": [
       "あゆ",
       "なまず"
@@ -22,7 +25,8 @@
         "example": "鮎",
         "reading": "あゆ",
         "meaning": {
-          "vi": "ayu (Plecoglossus altivelis), sweetfish"
+          "vi": "cá ayu (Plecoglossus altivelis), cá ngọt",
+          "en": "ayu (Plecoglossus altivelis), sweetfish"
         },
         "romaji": "ayu"
       },
@@ -30,7 +34,8 @@
         "example": "鮎掛け",
         "reading": "あゆかけ",
         "meaning": {
-          "vi": "fourspine sculpin (Cottus kazika)"
+          "vi": "cá bống gai bốn gai (Cottus kazika)",
+          "en": "fourspine sculpin (Cottus kazika)"
         },
         "romaji": "ayukake"
       },
@@ -38,7 +43,8 @@
         "example": "琉球鮎",
         "reading": "りゅうきゅうあゆ",
         "meaning": {
-          "vi": "Ryukyu sweetfish (Plecoglossus altivelis ryukyuensis)"
+          "vi": "cá ayu Ryukyu (Plecoglossus altivelis ryukyuensis)",
+          "en": "Ryukyu sweetfish (Plecoglossus altivelis ryukyuensis)"
         },
         "romaji": "ryuukyuuayu"
       },
@@ -46,14 +52,18 @@
         "example": "若鮎",
         "reading": "わかあゆ",
         "meaning": {
-          "en": "young sweetfish"
+          "en": "young sweetfish",
+          "vi": "cá ayu non"
         },
         "romaji": "wakaayu"
       }
     ],
     "radical": {
       "symbol": "魚",
-      "meaning": "fish"
+      "meaning": {
+        "en": "fish",
+        "vi": "cá"
+      }
     },
     "parts": [
       "卜",

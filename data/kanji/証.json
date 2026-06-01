@@ -7,13 +7,17 @@
     "grade": 5,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "prove, certificate",
+    "meaning": {
+      "en": "prove, certificate",
+      "vi": "prove, certificate"
+    },
     "kstroke": 12,
     "examples": [
       {
         "japanese": "証拠（しょうこ）",
         "meaning": {
-          "english": "evidence, proof"
+          "en": "evidence, proof",
+          "vi": "bằng chứng, chứng cứ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "証人（しょうにん）",
         "meaning": {
-          "english": "witness [n.]"
+          "en": "witness [n.]",
+          "vi": "nhân chứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "証言（しょうげん）",
         "meaning": {
-          "english": "testimony"
+          "en": "testimony",
+          "vi": "lời chứng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "証書（しょうしょ）",
         "meaning": {
-          "english": "certificate"
+          "en": "certificate",
+          "vi": "giấy chứng nhận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "証券（しょうけん）",
         "meaning": {
-          "english": "bonds, stock certificates"
+          "en": "bonds, stock certificates",
+          "vi": "bonds, stock certificates"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "免許証（めんきょしょう）",
         "meaning": {
-          "english": "(driver's) license"
+          "en": "(driver's) license",
+          "vi": "(driver's) license"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "保証する（ほしょうする）",
         "meaning": {
-          "english": "guarantee [v.t.]"
+          "en": "guarantee [v.t.]",
+          "vi": "guarantee [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "証明する（しょうめいする）",
         "meaning": {
-          "english": "prove, verify"
+          "en": "prove, verify",
+          "vi": "prove, verify"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "検証する（けんしょうする）",
         "meaning": {
-          "english": "inspect"
+          "en": "inspect",
+          "vi": "inspect"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(menkyo)shou_06_i.opus",
@@ -216,7 +228,8 @@
     "kanji": {
       "character": "証",
       "meaning": {
-        "english": "prove, certificate"
+        "en": "prove, certificate",
+        "vi": "prove, certificate"
       },
       "strokes": {
         "count": 12,
@@ -278,7 +291,8 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "en": "words, to speak, say",
+        "vi": "words, to speak, say"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -292,6 +306,8 @@
       "classic_nelson": "4341"
     }
   },
+  "jlpt": "N3",
+  "mnemonic_vi": "Lời nói 言 đi kèm sự đúng đắn 正 sẽ thành bằng chứng xác thực.",
   "jishoData": {
     "query": "証",
     "found": true,
@@ -299,7 +315,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "306",
     "strokeCount": 12,
-    "meaning": "evidence, proof, certificate",
+    "meaning": {
+      "en": "evidence, proof, certificate",
+      "vi": "evidence, proof, certificate"
+    },
     "kunyomi": [
       "あかし"
     ],
@@ -311,6 +330,7 @@
         "example": "証",
         "reading": "ショウ",
         "meaning": {
+          "en": "proof, evidence, certificate, license, permit, membership card, ID card, enlightenment, symptoms (in Chinese medicine), patient's condition",
           "vi": "proof, evidence, certificate, license, permit, membership card, ID card, enlightenment, symptoms (in Chinese medicine), patient's condition"
         },
         "romaji": "shou"
@@ -319,7 +339,8 @@
         "example": "証券",
         "reading": "ショウケン",
         "meaning": {
-          "en": "bond, bill, certificate, security"
+          "en": "bond, bill, certificate, security",
+          "vi": "bond, bill, certificate, security"
         },
         "romaji": "shouken"
       },
@@ -327,6 +348,7 @@
         "example": "査証",
         "reading": "サショウ",
         "meaning": {
+          "en": "visa, endorsing (e.g. a passport), stamping",
           "vi": "visa, endorsing (e.g. a passport), stamping"
         },
         "romaji": "sashou"
@@ -335,6 +357,7 @@
         "example": "偽証",
         "reading": "ギショウ",
         "meaning": {
+          "en": "false evidence, perjury, false testimony",
           "vi": "false evidence, perjury, false testimony"
         },
         "romaji": "gishou"
@@ -345,6 +368,7 @@
         "example": "証",
         "reading": "あかし",
         "meaning": {
+          "en": "proof, evidence, sign, testimony, testament (to something), vindication, witnessing, testifying, testimony",
           "vi": "proof, evidence, sign, testimony, testament (to something), vindication, witnessing, testifying, testimony"
         },
         "romaji": "akashi"
@@ -353,6 +377,7 @@
         "example": "証として",
         "reading": "あかしとして",
         "meaning": {
+          "en": "in sign of, in proof of",
           "vi": "in sign of, in proof of"
         },
         "romaji": "akashitoshite"
@@ -363,7 +388,10 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": {
+        "en": "speech",
+        "vi": "speech"
+      }
     },
     "parts": [
       "一",

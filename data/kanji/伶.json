@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 7,
-    "meaning": "actor",
+    "meaning": {
+      "en": "actor",
+      "vi": "diễn viên"
+    },
     "kunyomi": [
       "わざおぎ"
     ],
@@ -19,7 +22,8 @@
         "example": "伶官",
         "reading": "レイカン",
         "meaning": {
-          "en": "court musician"
+          "en": "court musician",
+          "vi": "nhạc công cung đình"
         },
         "romaji": "reikan"
       },
@@ -27,7 +31,8 @@
         "example": "伶人",
         "reading": "レイジン",
         "meaning": {
-          "en": "court musician, minstrel"
+          "en": "court musician, minstrel",
+          "vi": "nhạc công cung đình, nghệ sĩ hát rong"
         },
         "romaji": "reijin"
       }
@@ -38,7 +43,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "一",

@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "haka, hakaru, hakari, hakarau",
-    "meaning": "plan, compute, measure",
+    "meaning": {
+      "en": "plan, compute, measure",
+      "vi": "lap ke hoach, tinh toan, do luong"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "時計（とけい）",
         "meaning": {
-          "english": "watch, clock"
+          "english": "watch, clock",
+          "en": "watch, clock",
+          "vi": "dong ho"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "統計（とうけい）",
         "meaning": {
-          "english": "statistics"
+          "english": "statistics",
+          "en": "statistics",
+          "vi": "thong ke"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "会計士（かいけいし）",
         "meaning": {
-          "english": "accountant"
+          "english": "accountant",
+          "en": "accountant",
+          "vi": "kế toán viên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "腕時計（うでどけい）",
         "meaning": {
-          "english": "wristwatch"
+          "english": "wristwatch",
+          "en": "wristwatch",
+          "vi": "dong ho deo tay"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "体温計（たいおんけい）",
         "meaning": {
-          "english": "medical thermometer"
+          "english": "medical thermometer",
+          "en": "medical thermometer",
+          "vi": "nhiet ke y te"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "温度計（おんどけい）",
         "meaning": {
-          "english": "thermometer"
+          "english": "thermometer",
+          "en": "thermometer",
+          "vi": "nhiet ke"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "計画する（けいかくする）",
         "meaning": {
-          "english": "plan [v.t.]"
+          "english": "plan [v.t.]",
+          "en": "plan [v.t.]",
+          "vi": "kế hoạch [v.t.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "計算する（けいさんする）",
         "meaning": {
-          "english": "calculate"
+          "english": "calculate",
+          "en": "calculate",
+          "vi": "tinh toan"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "設計する（せっけいする）",
         "meaning": {
-          "english": "design"
+          "english": "design",
+          "en": "design",
+          "vi": "thiet ke"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "合計する（ごうけいする）",
         "meaning": {
-          "english": "add up"
+          "english": "add up",
+          "en": "add up",
+          "vi": "cộng lại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "計る（はかる）",
         "meaning": {
-          "english": "measure"
+          "english": "measure",
+          "en": "measure",
+          "vi": "đo đạc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kei-haka(ru)_06_k.opus",
@@ -292,7 +317,9 @@
     "kanji": {
       "character": "計",
       "meaning": {
-        "english": "plan, compute, measure"
+        "english": "plan, compute, measure",
+        "en": "plan, compute, measure",
+        "vi": "lap ke hoach, tinh toan, do luong"
       },
       "strokes": {
         "count": 9,
@@ -348,7 +375,9 @@
         "romaji": "gonben"
       },
       "meaning": {
-        "english": "words, to speak, say"
+        "english": "words, to speak, say",
+        "en": "words, to speak, say",
+        "vi": "words, to speak, say"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/gonben0.svg",
@@ -369,7 +398,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "228",
     "strokeCount": 9,
-    "meaning": "plot, plan, scheme, measure",
+    "meaning": {
+      "en": "plot, plan, scheme, measure",
+      "vi": "am muu, ke hoach, bien phap"
+    },
     "kunyomi": [
       "はか.る",
       "はか.らう"
@@ -382,7 +414,8 @@
         "example": "計",
         "reading": "ケイ",
         "meaning": {
-          "vi": "plan, meter, measuring device, (in) total, total (of)"
+          "vi": "plan, meter, measuring device, (in) total, total (of)",
+          "en": "plan, meter, measuring device, (in) total, total (of)"
         },
         "romaji": "kei"
       },
@@ -390,7 +423,8 @@
         "example": "計画",
         "reading": "ケイカク",
         "meaning": {
-          "vi": "plan, project, schedule, scheme, program, programme"
+          "vi": "plan, project, schedule, scheme, program, programme",
+          "en": "plan, project, schedule, scheme, program, programme"
         },
         "romaji": "keikaku"
       },
@@ -398,7 +432,8 @@
         "example": "生計",
         "reading": "セイケイ",
         "meaning": {
-          "en": "livelihood, living"
+          "en": "livelihood, living",
+          "vi": "sinh ke, cuoc song"
         },
         "romaji": "seikei"
       },
@@ -406,7 +441,8 @@
         "example": "推計",
         "reading": "スイケイ",
         "meaning": {
-          "en": "estimate, estimation"
+          "en": "estimate, estimation",
+          "vi": "uoc tinh, du tinh"
         },
         "romaji": "suikei"
       }
@@ -416,7 +452,8 @@
         "example": "計る",
         "reading": "はかる",
         "meaning": {
-          "en": "to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise"
+          "en": "to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise",
+          "vi": "do, can, do dac, tinh thoi gian, uoc luong, suy doan"
         },
         "romaji": "hakaru"
       },
@@ -424,7 +461,8 @@
         "example": "計らう",
         "reading": "はからう",
         "meaning": {
-          "vi": "to manage, to arrange, to see to (a matter), to dispose of, to consult (with), to talk (to)"
+          "vi": "to manage, to arrange, to see to (a matter), to dispose of, to consult (with), to talk (to)",
+          "en": "to manage, to arrange, to see to (a matter), to dispose of, to consult (with), to talk (to)"
         },
         "romaji": "hakarau"
       }
@@ -434,7 +472,10 @@
       "forms": [
         "訁"
       ],
-      "meaning": "speech"
+      "meaning": {
+        "en": "speech",
+        "vi": "speech"
+      }
     },
     "parts": [
       "十",
@@ -448,5 +489,7 @@
   "hanViet": [
     "kê",
     "kế"
-  ]
+  ],
+  "jlpt": "N4",
+  "mnemonic_vi": "Ben trai la loi noi, ben phai la so dem muoi. Noi ra con so de tinh toan nen 計 la tinh, ke hoach."
 }

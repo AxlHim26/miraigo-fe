@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 6,
     "kunyomi": "hana",
-    "meaning": "flower",
+    "meaning": {
+      "en": "flower",
+      "vi": "hoa"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "花壇（かだん）",
         "meaning": {
-          "english": "flower bed"
+          "english": "flower bed",
+          "en": "flower bed",
+          "vi": "bồn hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "花瓶（かびん）",
         "meaning": {
-          "english": "vase"
+          "english": "vase",
+          "en": "vase",
+          "vi": "lọ hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "造花（ぞうか）",
         "meaning": {
-          "english": "artificial flowers"
+          "english": "artificial flowers",
+          "en": "artificial flowers",
+          "vi": "hoa giả"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "花粉（かふん）",
         "meaning": {
-          "english": "pollen"
+          "english": "pollen",
+          "en": "pollen",
+          "vi": "phấn hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "開花する（かいかする）",
         "meaning": {
-          "english": "bloom"
+          "english": "bloom",
+          "en": "bloom",
+          "vi": "nở hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "花（はな）",
         "meaning": {
-          "english": "flower"
+          "english": "flower",
+          "en": "flower",
+          "vi": "hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "花屋（はなや）",
         "meaning": {
-          "english": "florist"
+          "english": "florist",
+          "en": "florist",
+          "vi": "người bán hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "生け花（いけばな）",
         "meaning": {
-          "english": "flower arrangement"
+          "english": "flower arrangement",
+          "en": "flower arrangement",
+          "vi": "cắm hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "花嫁（はなよめ）",
         "meaning": {
-          "english": "bride"
+          "english": "bride",
+          "en": "bride",
+          "vi": "cô dâu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "花火（はなび）",
         "meaning": {
-          "english": "fireworks"
+          "english": "fireworks",
+          "en": "fireworks",
+          "vi": "pháo hoa"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_j.opus",
@@ -133,7 +156,9 @@
       {
         "japanese": "お花見（おはなみ）",
         "meaning": {
-          "english": "cherry-blossom viewing"
+          "english": "cherry-blossom viewing",
+          "en": "cherry-blossom viewing",
+          "vi": "ngắm hoa anh đào"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_k.opus",
@@ -145,7 +170,9 @@
       {
         "japanese": "草花（くさばな）",
         "meaning": {
-          "english": "plants and flowers"
+          "english": "plants and flowers",
+          "en": "plants and flowers",
+          "vi": "cây cỏ và hoa lá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hana(bi)_06_l.opus",
@@ -286,7 +313,9 @@
     "kanji": {
       "character": "花",
       "meaning": {
-        "english": "flower"
+        "english": "flower",
+        "en": "flower",
+        "vi": "hoa"
       },
       "strokes": {
         "count": 7,
@@ -338,7 +367,9 @@
         "romaji": "kusakanmuri"
       },
       "meaning": {
-        "english": "grass"
+        "english": "grass",
+        "en": "grass",
+        "vi": "cỏ"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
@@ -359,7 +390,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "578",
     "strokeCount": 7,
-    "meaning": "flower",
+    "meaning": {
+      "en": "flower",
+      "vi": "hoa"
+    },
     "kunyomi": [
       "はな"
     ],
@@ -372,7 +406,8 @@
         "example": "花形",
         "reading": "ハナガタ",
         "meaning": {
-          "vi": "floral pattern, flourish, ornament, star (actor, player, etc.)"
+          "vi": "floral pattern, flourish, ornament, star (actor, player, etc.)",
+          "en": ""
         },
         "romaji": "hanagata"
       },
@@ -380,7 +415,8 @@
         "example": "花園",
         "reading": "ハナゾノ",
         "meaning": {
-          "en": "flower garden"
+          "en": "flower garden",
+          "vi": "vườn hoa"
         },
         "romaji": "hanazono"
       },
@@ -388,7 +424,8 @@
         "example": "献花",
         "reading": "ケンカ",
         "meaning": {
-          "en": "flower offering, floral tribute, laying flowers"
+          "en": "flower offering, floral tribute, laying flowers",
+          "vi": "dâng hoa, vòng hoa viếng"
         },
         "romaji": "kenka"
       },
@@ -396,7 +433,8 @@
         "example": "雄花",
         "reading": "オバナ",
         "meaning": {
-          "en": "male flower, staminate flower"
+          "en": "male flower, staminate flower",
+          "vi": "hoa đực"
         },
         "romaji": "obana"
       },
@@ -404,7 +442,8 @@
         "example": "花かご",
         "reading": "ハナカゴ",
         "meaning": {
-          "vi": "flower basket, flower basket (or plate) used for flower-scattering rituals"
+          "vi": "flower basket, flower basket (or plate) used for flower-scattering rituals",
+          "en": ""
         },
         "romaji": "hanakago"
       },
@@ -412,7 +451,8 @@
         "example": "華香",
         "reading": "ケコウ",
         "meaning": {
-          "en": "flowers and incense (given as a Buddhist offering)"
+          "en": "flowers and incense (given as a Buddhist offering)",
+          "vi": "hương hoa cúng Phật"
         },
         "romaji": "kekou"
       },
@@ -420,7 +460,8 @@
         "example": "天花",
         "reading": "テンゲ",
         "meaning": {
-          "vi": "flowers that bloom in the heavens, paper flowers scattered before the Buddha's image"
+          "vi": "flowers that bloom in the heavens, paper flowers scattered before the Buddha's image",
+          "en": ""
         },
         "romaji": "tenge"
       }
@@ -430,7 +471,8 @@
         "example": "花",
         "reading": "はな",
         "meaning": {
-          "vi": "flower, blossom, bloom, petal, cherry blossom, beauty, blooming (esp. of cherry blossoms), ikebana, hanafuda, (the) best, glorious, lovely"
+          "vi": "flower, blossom, bloom, petal, cherry blossom, beauty, blooming (esp. of cherry blossoms), ikebana, hanafuda, (the) best, glorious, lovely",
+          "en": ""
         },
         "romaji": "hana"
       },
@@ -438,7 +480,8 @@
         "example": "花形",
         "reading": "はながた",
         "meaning": {
-          "vi": "floral pattern, flourish, ornament, star (actor, player, etc.)"
+          "vi": "floral pattern, flourish, ornament, star (actor, player, etc.)",
+          "en": ""
         },
         "romaji": "hanagata"
       },
@@ -446,7 +489,8 @@
         "example": "菜の花",
         "reading": "なのはな",
         "meaning": {
-          "vi": "rape blossoms, rapeseed flowers"
+          "vi": "rape blossoms, rapeseed flowers",
+          "en": ""
         },
         "romaji": "nanohana"
       },
@@ -454,7 +498,8 @@
         "example": "紅花",
         "reading": "べにばな",
         "meaning": {
-          "en": "safflower (Carthamus tinctorius)"
+          "en": "safflower (Carthamus tinctorius)",
+          "vi": "hoa rum"
         },
         "romaji": "benibana"
       }
@@ -464,7 +509,10 @@
       "forms": [
         "艹"
       ],
-      "meaning": "grass"
+      "meaning": {
+        "en": "grass",
+        "vi": "cỏ"
+      }
     },
     "parts": [
       "匕",
@@ -478,5 +526,6 @@
   },
   "hanViet": [
     "hoa"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: cỏ phía trên, người phía dưới như bông hoa nở trên cành."
 }

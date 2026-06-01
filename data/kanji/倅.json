@@ -5,7 +5,10 @@
     "query": "倅",
     "found": true,
     "strokeCount": 10,
-    "meaning": "son, my son",
+    "meaning": {
+      "en": "son, my son",
+      "vi": "con trai, con trai tôi"
+    },
     "kunyomi": [
       "せがれ"
     ],
@@ -20,7 +23,8 @@
         "example": "倅",
         "reading": "せがれ",
         "meaning": {
-          "vi": "son, punk, brat, penis"
+          "vi": "con trai, thằng nhóc, đồ ranh con, dương vật",
+          "en": "son, punk, brat, penis"
         },
         "romaji": "segare"
       },
@@ -28,7 +32,8 @@
         "example": "小倅",
         "reading": "こせがれ",
         "meaning": {
-          "en": "one's son, you little bastard, you little brat"
+          "en": "one's son, you little bastard, you little brat",
+          "vi": "con trai của ai đó, đồ nhóc ranh, đồ quỷ con"
         },
         "romaji": "kosegare"
       }
@@ -38,7 +43,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "亠",

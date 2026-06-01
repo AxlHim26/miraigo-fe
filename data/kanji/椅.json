@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "2245",
     "strokeCount": 12,
-    "meaning": "chair",
+    "meaning": {
+      "en": "chair",
+      "vi": "ghế"
+    },
     "kunyomi": [],
     "onyomi": [
       "イ"
@@ -17,6 +20,7 @@
         "example": "椅子",
         "reading": "イス",
         "meaning": {
+          "en": "chair, seat, stool, bench, post, position, seat, office",
           "vi": "chair, seat, stool, bench, post, position, seat, office"
         },
         "romaji": "isu"
@@ -25,6 +29,7 @@
         "example": "倚子",
         "reading": "イシ",
         "meaning": {
+          "en": "traditional square chair with armrests and a torii-shaped back (used by the emperor, etc. during ceremonies)",
           "vi": "traditional square chair with armrests and a torii-shaped back (used by the emperor, etc. during ceremonies)"
         },
         "romaji": "ishi"
@@ -33,7 +38,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "木",
-      "meaning": "tree"
+      "meaning": {
+        "en": "tree",
+        "vi": "cây"
+      }
     },
     "parts": [
       "一",

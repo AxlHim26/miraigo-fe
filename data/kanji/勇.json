@@ -7,13 +7,18 @@
     "grade": 4,
     "hint_group": 1,
     "kunyomi": "isa, isamu, isamashii",
-    "meaning": "brave, be spirited, encouraged",
+    "meaning": {
+      "en": "brave, be spirited, encouraged",
+      "vi": "dũng cảm, đầy khí thế, được khích lệ"
+    },
     "kstroke": 9,
     "examples": [
       {
         "japanese": "勇気（ゆうき）",
         "meaning": {
-          "english": "courage"
+          "english": "courage",
+          "en": "courage",
+          "vi": "lòng dũng cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "勇士（ゆうし）",
         "meaning": {
-          "english": "brave warrior"
+          "english": "brave warrior",
+          "en": "brave warrior",
+          "vi": "dũng sĩ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "武勇伝（ぶゆうでん）",
         "meaning": {
-          "english": "tale of heroic exploits"
+          "english": "tale of heroic exploits",
+          "en": "tale of heroic exploits",
+          "vi": "câu chuyện anh hùng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "勇敢な（ゆうかんな）",
         "meaning": {
-          "english": "brave"
+          "english": "brave",
+          "en": "brave",
+          "vi": "dũng cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "勇退する（ゆうたいする）",
         "meaning": {
-          "english": "retire voluntarily"
+          "english": "retire voluntarily",
+          "en": "retire voluntarily",
+          "vi": "tự nguyện nghỉ hưu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "勇ましい（いさましい）",
         "meaning": {
-          "english": "brave"
+          "english": "brave",
+          "en": "brave",
+          "vi": "dũng cảm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/isa(mashii)_06_f.opus",
@@ -172,7 +187,9 @@
     "kanji": {
       "character": "勇",
       "meaning": {
-        "english": "brave, be spirited, encouraged"
+        "english": "brave, be spirited, encouraged",
+        "en": "brave, be spirited, encouraged",
+        "vi": "dũng cảm, đầy khí thế, được khích lệ"
       },
       "strokes": {
         "count": 9,
@@ -228,7 +245,9 @@
         "romaji": "chikara"
       },
       "meaning": {
-        "english": "power"
+        "english": "power",
+        "en": "power",
+        "vi": "sức mạnh"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/chikara0.svg",
@@ -249,7 +268,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "1319",
     "strokeCount": 9,
-    "meaning": "courage, cheer up, be in high spirits, bravery, heroism",
+    "meaning": {
+      "en": "courage, cheer up, be in high spirits, bravery, heroism",
+      "vi": "dũng khí, phấn chấn lên, hăng hái, sự dũng cảm, tinh thần anh hùng"
+    },
     "kunyomi": [
       "いさ.む"
     ],
@@ -261,7 +283,8 @@
         "example": "勇",
         "reading": "ユウ",
         "meaning": {
-          "en": "bravery, courage, heroism"
+          "en": "bravery, courage, heroism",
+          "vi": "sự dũng cảm, lòng can đảm, chủ nghĩa anh hùng"
         },
         "romaji": "yuu"
       },
@@ -269,7 +292,8 @@
         "example": "勇気",
         "reading": "ユウキ",
         "meaning": {
-          "en": "courage, bravery, valour, valor, nerve, boldness"
+          "en": "courage, bravery, valour, valor, nerve, boldness",
+          "vi": "can đảm, dũng cảm, lòng quả cảm, gan dạ, táo bạo"
         },
         "romaji": "yuuki"
       },
@@ -277,7 +301,8 @@
         "example": "義勇",
         "reading": "ギユウ",
         "meaning": {
-          "en": "heroism, loyalty and courage"
+          "en": "heroism, loyalty and courage",
+          "vi": "chủ nghĩa anh hùng, trung nghĩa và dũng cảm"
         },
         "romaji": "giyuu"
       },
@@ -285,7 +310,8 @@
         "example": "武勇",
         "reading": "ブユウ",
         "meaning": {
-          "vi": "bravery, military prowess, valour, valor"
+          "vi": "sự dũng cảm, tài võ nghệ, lòng quả cảm",
+          "en": "bravery, military prowess, valour, valor"
         },
         "romaji": "buyuu"
       }
@@ -295,14 +321,18 @@
         "example": "勇む",
         "reading": "いさむ",
         "meaning": {
-          "vi": "to be in high spirits, to be encouraged, to be lively, to cheer up"
+          "vi": "phấn chấn, được khích lệ, tươi vui, vực dậy tinh thần",
+          "en": "to be in high spirits, to be encouraged, to be lively, to cheer up"
         },
         "romaji": "isamu"
       }
     ],
     "radical": {
       "symbol": "力",
-      "meaning": "power, force"
+      "meaning": {
+        "en": "power, force",
+        "vi": "sức mạnh, lực"
+      }
     },
     "parts": [
       "マ",
@@ -316,5 +346,7 @@
   },
   "hanViet": [
     "dũng"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: có sức 力 và khí thế nên thành 勇, nghĩa là dũng cảm."
 }

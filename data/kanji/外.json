@@ -7,13 +7,17 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "soto, hoka, hazu, hazusu, hazureru",
-    "meaning": "outside",
+    "meaning": {
+      "en": "outside",
+      "vi": "bên ngoài"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "外国（がいこく）",
         "meaning": {
-          "english": "foreign country"
+          "en": "foreign country",
+          "vi": "nước ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_a.opus",
@@ -25,7 +29,8 @@
       {
         "japanese": "外部（がいぶ）",
         "meaning": {
-          "english": "the outside"
+          "en": "the outside",
+          "vi": "phía ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_b.opus",
@@ -37,7 +42,8 @@
       {
         "japanese": "国外（こくがい）",
         "meaning": {
-          "english": "outside the country"
+          "en": "outside the country",
+          "vi": "ngoài nước"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_c.opus",
@@ -49,7 +55,8 @@
       {
         "japanese": "海外旅行（かいがいりょこう）",
         "meaning": {
-          "english": "overseas travel"
+          "en": "overseas travel",
+          "vi": "du lịch nước ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_d.opus",
@@ -61,7 +68,8 @@
       {
         "japanese": "意外な（いがいな）",
         "meaning": {
-          "english": "surprising"
+          "en": "surprising",
+          "vi": "đáng ngạc nhiên"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_e.opus",
@@ -73,7 +81,8 @@
       {
         "japanese": "外食する（がいしょくする）",
         "meaning": {
-          "english": "eat out"
+          "en": "eat out",
+          "vi": "ăn ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_f.opus",
@@ -85,7 +94,8 @@
       {
         "japanese": "外出する（がいしゅつする）",
         "meaning": {
-          "english": "go out"
+          "en": "go out",
+          "vi": "ra ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_g.opus",
@@ -97,7 +107,8 @@
       {
         "japanese": "外科（げか）",
         "meaning": {
-          "english": "surgical department"
+          "en": "surgical department",
+          "vi": "khoa ngoại"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_h.opus",
@@ -109,7 +120,8 @@
       {
         "japanese": "外（そと）",
         "meaning": {
-          "english": "outside"
+          "en": "outside",
+          "vi": "bên ngoài"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_i.opus",
@@ -121,7 +133,8 @@
       {
         "japanese": "思いの外（おもいのほか）",
         "meaning": {
-          "english": "unexpected"
+          "en": "unexpected",
+          "vi": "bất ngờ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_j.opus",
@@ -133,7 +146,8 @@
       {
         "japanese": "外す（はずす）",
         "meaning": {
-          "english": "remove [v.t.]"
+          "en": "remove [v.t.]",
+          "vi": "tháo ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_k.opus",
@@ -145,7 +159,8 @@
       {
         "japanese": "外れる（はずれる）",
         "meaning": {
-          "english": "be disconnected [v.i.]"
+          "en": "be disconnected [v.i.]",
+          "vi": "bị tuột ra"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/soto_06_l.opus",
@@ -306,7 +321,8 @@
     "kanji": {
       "character": "外",
       "meaning": {
-        "english": "outside"
+        "en": "outside",
+        "vi": "bên ngoài"
       },
       "strokes": {
         "count": 5,
@@ -354,7 +370,8 @@
         "romaji": "yuube"
       },
       "meaning": {
-        "english": "evening"
+        "en": "evening",
+        "vi": "buổi tối"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yuube0.svg",
@@ -375,7 +392,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "81",
     "strokeCount": 5,
-    "meaning": "outside",
+    "meaning": {
+      "en": "outside",
+      "vi": "bên ngoài"
+    },
     "kunyomi": [
       "そと",
       "ほか",
@@ -392,7 +412,8 @@
         "example": "外",
         "reading": "ガイ",
         "meaning": {
-          "en": "outside ..., beyond ..., not included in ..."
+          "en": "outside ..., beyond ..., not included in ...",
+          "vi": "bên ngoài..., vượt ra ngoài..., không bao gồm trong..."
         },
         "romaji": "gai"
       },
@@ -400,6 +421,7 @@
         "example": "外圧",
         "reading": "ガイアツ",
         "meaning": {
+          "en": "external pressure, outside pressure, foreign pressure",
           "vi": "external pressure, outside pressure, foreign pressure"
         },
         "romaji": "gaiatsu"
@@ -408,6 +430,7 @@
         "example": "渉外",
         "reading": "ショウガイ",
         "meaning": {
+          "en": "public relations, client liaison, client relations",
           "vi": "public relations, client liaison, client relations"
         },
         "romaji": "shougai"
@@ -416,7 +439,8 @@
         "example": "在外",
         "reading": "ザイガイ",
         "meaning": {
-          "en": "overseas, abroad"
+          "en": "overseas, abroad",
+          "vi": "hải ngoại, ở nước ngoài"
         },
         "romaji": "zaigai"
       },
@@ -424,6 +448,7 @@
         "example": "外科",
         "reading": "ゲカ",
         "meaning": {
+          "en": "surgery (branch of medicine), department of surgery",
           "vi": "surgery (branch of medicine), department of surgery"
         },
         "romaji": "geka"
@@ -432,7 +457,8 @@
         "example": "外科医",
         "reading": "ゲカイ",
         "meaning": {
-          "en": "surgeon"
+          "en": "surgeon",
+          "vi": "bác sĩ phẫu thuật"
         },
         "romaji": "gekai"
       }
@@ -442,6 +468,7 @@
         "example": "外",
         "reading": "そと",
         "meaning": {
+          "en": "outside, exterior, the open (air), other place, somewhere else, outside one's group (family, company, etc.)",
           "vi": "outside, exterior, the open (air), other place, somewhere else, outside one's group (family, company, etc.)"
         },
         "romaji": "soto"
@@ -450,7 +477,8 @@
         "example": "外壁",
         "reading": "がいへき",
         "meaning": {
-          "en": "outer wall"
+          "en": "outer wall",
+          "vi": "tường ngoài"
         },
         "romaji": "gaiheki"
       },
@@ -458,7 +486,8 @@
         "example": "大外",
         "reading": "おおそと",
         "meaning": {
-          "en": "far out wide, far outside"
+          "en": "far out wide, far outside",
+          "vi": "rất xa bên ngoài"
         },
         "romaji": "oosoto"
       },
@@ -466,7 +495,8 @@
         "example": "家の外",
         "reading": "いえのそと",
         "meaning": {
-          "en": "outside the house"
+          "en": "outside the house",
+          "vi": "ngoài nhà"
         },
         "romaji": "ienosoto"
       },
@@ -474,6 +504,7 @@
         "example": "他",
         "reading": "ほか",
         "meaning": {
+          "en": "another place, some other place, somewhere else, outside, another (person or thing), other, different, something else, someone else, the rest, et al., beyond (one's expectations, imagination, etc.), outside, except, but, other than, apart from, besides, in addition to, as well as, on top of",
           "vi": "another place, some other place, somewhere else, outside, another (person or thing), other, different, something else, someone else, the rest, et al., beyond (one's expectations, imagination, etc.), outside, except, but, other than, apart from, besides, in addition to, as well as, on top of"
         },
         "romaji": "hoka"
@@ -482,7 +513,8 @@
         "example": "他に",
         "reading": "ほかに",
         "meaning": {
-          "en": "else, in addition, besides"
+          "en": "else, in addition, besides",
+          "vi": "ngoài ra, thêm vào đó"
         },
         "romaji": "hokani"
       },
@@ -490,7 +522,8 @@
         "example": "この外",
         "reading": "このほか",
         "meaning": {
-          "en": "besides, moreover, in addition"
+          "en": "besides, moreover, in addition",
+          "vi": "ngoài ra, hơn nữa, thêm vào đó"
         },
         "romaji": "konohoka"
       },
@@ -498,6 +531,7 @@
         "example": "思いのほか",
         "reading": "おもいのほか",
         "meaning": {
+          "en": "unexpectedly, surprisingly",
           "vi": "unexpectedly, surprisingly"
         },
         "romaji": "omoinohoka"
@@ -506,6 +540,7 @@
         "example": "外す",
         "reading": "はずす",
         "meaning": {
+          "en": "to remove, to take off, to detach, to unfasten, to undo, to drop (e.g. from a team), to remove (from a position), to exclude, to expel, to leave (e.g. one's seat), to go away from, to step out, to slip away, to dodge (a question, blow, etc.), to evade, to sidestep, to avoid (e.g. peak season), to miss (a target, chance, punch, etc.)",
           "vi": "to remove, to take off, to detach, to unfasten, to undo, to drop (e.g. from a team), to remove (from a position), to exclude, to expel, to leave (e.g. one's seat), to go away from, to step out, to slip away, to dodge (a question, blow, etc.), to evade, to sidestep, to avoid (e.g. peak season), to miss (a target, chance, punch, etc.)"
         },
         "romaji": "hazusu"
@@ -514,6 +549,7 @@
         "example": "外れる",
         "reading": "はずれる",
         "meaning": {
+          "en": "to be disconnected, to get out of place, to be off, to be out (e.g. of gear), to miss the mark, to get it wrong (e.g. guess, expectation), to draw a blank (e.g. lottery), to be removed, to be excluded, to be contrary to, to go against",
           "vi": "to be disconnected, to get out of place, to be off, to be out (e.g. of gear), to miss the mark, to get it wrong (e.g. guess, expectation), to draw a blank (e.g. lottery), to be removed, to be excluded, to be contrary to, to go against"
         },
         "romaji": "hazureru"
@@ -521,7 +557,10 @@
     ],
     "radical": {
       "symbol": "夕",
-      "meaning": "evening, sunset"
+      "meaning": {
+        "en": "evening, sunset",
+        "vi": "buổi tối, hoàng hôn"
+      }
     },
     "parts": [
       "卜",
@@ -534,5 +573,7 @@
   },
   "hanViet": [
     "ngoại"
-  ]
+  ],
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: bên ngoài là chỗ trăng夕 ló ra cạnh nét卜, nhìn lệch hẳn ra ngoài."
 }

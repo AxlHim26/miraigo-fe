@@ -5,7 +5,10 @@
     "query": "儂",
     "found": true,
     "strokeCount": 15,
-    "meaning": "I, my, he, his, me (used by old people)",
+    "meaning": {
+      "en": "I, my, he, his, me (used by old people)",
+      "vi": "ta, của ta, ông ấy, của ông ấy, tôi (cách nói của người già)"
+    },
     "kunyomi": [
       "わし",
       "かれ"
@@ -20,7 +23,8 @@
         "example": "儂",
         "reading": "わし",
         "meaning": {
-          "en": "I, me"
+          "en": "I, me",
+          "vi": "ta, tôi"
         },
         "romaji": "washi"
       },
@@ -28,7 +32,8 @@
         "example": "私等",
         "reading": "わしら",
         "meaning": {
-          "en": "we, us"
+          "en": "we, us",
+          "vi": "chúng ta, chúng tôi"
         },
         "romaji": "washira"
       }
@@ -38,7 +43,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

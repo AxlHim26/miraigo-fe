@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "814",
     "strokeCount": 9,
-    "meaning": "plane, sharpen, whittle, pare, shave",
+    "meaning": {
+      "en": "plane, sharpen, whittle, pare, shave",
+      "vi": "gọt, mài, chuốt, bào, cạo"
+    },
     "kunyomi": [
       "けず.る",
       "はつ.る",
@@ -22,7 +25,8 @@
         "example": "削除",
         "reading": "サクジョ",
         "meaning": {
-          "en": "deletion, elimination, erasure, striking out"
+          "en": "deletion, elimination, erasure, striking out",
+          "vi": "xóa bỏ, loại bỏ, gạch bỏ"
         },
         "romaji": "sakujo"
       },
@@ -30,7 +34,8 @@
         "example": "削減",
         "reading": "サクゲン",
         "meaning": {
-          "en": "cut, reduction, curtailment"
+          "en": "cut, reduction, curtailment",
+          "vi": "cắt giảm, giảm bớt"
         },
         "romaji": "sakugen"
       },
@@ -38,7 +43,8 @@
         "example": "掘削",
         "reading": "クッサク",
         "meaning": {
-          "en": "digging out, excavation"
+          "en": "digging out, excavation",
+          "vi": "đào lên, khai quật"
         },
         "romaji": "kussaku"
       },
@@ -46,7 +52,8 @@
         "example": "開削",
         "reading": "カイサク",
         "meaning": {
-          "en": "excavation, cutting, digging"
+          "en": "excavation, cutting, digging",
+          "vi": "khai quật, cắt, đào"
         },
         "romaji": "kaisaku"
       }
@@ -56,7 +63,8 @@
         "example": "削る",
         "reading": "けずる",
         "meaning": {
-          "vi": "to shave (wood, leather, etc.), to sharpen (e.g. pencil), to plane, to whittle, to pare, to scrape off, to erode, to cut down (budget, expenses, staff, time, etc.), to curtail, to reduce, to delete, to erase, to remove, to cross out, to strike out"
+          "vi": "to shave (wood, leather, etc.), to sharpen (e.g. pencil), to plane, to whittle, to pare, to scrape off, to erode, to cut down (budget, expenses, staff, time, etc.), to curtail, to reduce, to delete, to erase, to remove, to cross out, to strike out",
+          "en": "to shave (wood, leather, etc.), to sharpen (e.g. pencil), to plane, to whittle, to pare, to scrape off, to erode, to cut down (budget, expenses, staff, time, etc.), to curtail, to reduce, to delete, to erase, to remove, to cross out, to strike out"
         },
         "romaji": "kezuru"
       },
@@ -64,7 +72,8 @@
         "example": "削る",
         "reading": "はつる",
         "meaning": {
-          "vi": "to shave off (esp. concrete), to take a percentage, to take a cut"
+          "vi": "to shave off (esp. concrete), to take a percentage, to take a cut",
+          "en": "to shave off (esp. concrete), to take a percentage, to take a cut"
         },
         "romaji": "hatsuru"
       },
@@ -72,7 +81,8 @@
         "example": "削ぐ",
         "reading": "そぐ",
         "meaning": {
-          "vi": "to chip (off), to shave off, to slice off, to cut off, to sharpen, to dampen (one's enthusiasm, interest, etc.), to reduce, to diminish, to weaken, to spoil"
+          "vi": "to chip (off), to shave off, to slice off, to cut off, to sharpen, to dampen (one's enthusiasm, interest, etc.), to reduce, to diminish, to weaken, to spoil",
+          "en": "to chip (off), to shave off, to slice off, to cut off, to sharpen, to dampen (one's enthusiasm, interest, etc.), to reduce, to diminish, to weaken, to spoil"
         },
         "romaji": "sogu"
       }
@@ -82,7 +92,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "刈",
@@ -97,5 +110,6 @@
   "hanViet": [
     "sảo",
     "tước"
-  ]
+  ],
+  "mnemonic_vi": "Lưỡi dao gọt bớt từng lớp, nên nhớ là gọt hay cắt giảm."
 }

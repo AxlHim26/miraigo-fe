@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 13,
-    "meaning": "deep and broad (water)",
+    "meaning": {
+      "en": "deep and broad (water)",
+      "vi": "nước sâu và rộng"
+    },
     "kunyomi": [
       "ひろ.い"
     ],
@@ -18,7 +21,8 @@
         "example": "滉瀁",
         "reading": "コウヨウ",
         "meaning": {
-          "vi": "wide and deep (of a body of water)"
+          "vi": "wide and deep (of a body of water)",
+          "en": "wide and deep (of a body of water)"
         },
         "romaji": "kouyou"
       }
@@ -30,7 +34,10 @@
         "氵",
         "氺"
       ],
-      "meaning": "water"
+      "meaning": {
+        "en": "water",
+        "vi": "water"
+      }
     },
     "parts": [
       "儿",
@@ -45,5 +52,7 @@
   },
   "hanViet": [
     "hoảng"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Nước trải rộng và sâu nên mang nghĩa mênh mang, sâu rộng."
 }

@@ -5,7 +5,10 @@
     "query": "丱",
     "found": true,
     "strokeCount": 5,
-    "meaning": "saguaro-like kanji, horn-shaped locks of hair, young, tender",
+    "meaning": {
+      "en": "saguaro-like kanji, horn-shaped locks of hair, young, tender",
+      "vi": "chữ kanji giống xương rồng saguaro, tóc chỏm hình sừng, trẻ, non"
+    },
     "kunyomi": [],
     "onyomi": [
       "カン",
@@ -16,7 +19,8 @@
         "example": "童丱",
         "reading": "ドウカン",
         "meaning": {
-          "en": "child"
+          "en": "child",
+          "vi": "đứa trẻ"
         },
         "meaningVN": "đứa trẻ",
         "hanViet": "đồng quán",
@@ -27,7 +31,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "丨",
-      "meaning": "line"
+      "meaning": {
+        "en": "line",
+        "vi": "nét dọc"
+      }
     },
     "parts": [
       "ノ",

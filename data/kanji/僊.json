@@ -5,7 +5,10 @@
     "query": "僊",
     "found": true,
     "strokeCount": 13,
-    "meaning": "hermit",
+    "meaning": {
+      "en": "hermit",
+      "vi": "ẩn sĩ"
+    },
     "kunyomi": [],
     "onyomi": [
       "セン"
@@ -15,7 +18,8 @@
         "example": "仙",
         "reading": "セン",
         "meaning": {
-          "en": "hermit, wizard, wizardry"
+          "en": "hermit, wizard, wizardry",
+          "vi": "ẩn sĩ, pháp sư, phép thuật"
         },
         "romaji": "sen"
       },
@@ -23,7 +27,8 @@
         "example": "仙人",
         "reading": "センニン",
         "meaning": {
-          "vi": "immortal mountain wizard (in Taoism), mountain man (esp. a hermit), person not bound by earthly desires"
+          "vi": "tiên núi bất tử (trong Đạo giáo), người ở núi (đặc biệt là ẩn sĩ), người không bị ràng buộc bởi dục vọng trần thế",
+          "en": "immortal mountain wizard (in Taoism), mountain man (esp. a hermit), person not bound by earthly desires"
         },
         "romaji": "sennin"
       },
@@ -31,7 +36,8 @@
         "example": "神仙",
         "reading": "シンセン",
         "meaning": {
-          "vi": "immortal mountain wizard (in Taoism), Taoist immortal, supernatural being, (in Japan) 11th note of the ancient chromatic scale (approx. C)"
+          "vi": "tiên núi bất tử (trong Đạo giáo), tiên nhân Đạo giáo, thực thể siêu nhiên, (ở Nhật) nốt thứ 11 của thang âm cổ (xấp xỉ C)",
+          "en": "immortal mountain wizard (in Taoism), Taoist immortal, supernatural being, (in Japan) 11th note of the ancient chromatic scale (approx. C)"
         },
         "romaji": "shinsen"
       }
@@ -42,7 +48,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

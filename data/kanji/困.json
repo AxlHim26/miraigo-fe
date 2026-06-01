@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "koma, komaru",
-    "meaning": "be in trouble",
+    "meaning": {
+      "en": "be in trouble",
+      "vi": "gặp rắc rối, khốn khó"
+    },
     "kstroke": 7,
     "examples": [
       {
         "japanese": "困惑する（こんわくする）",
         "meaning": {
-          "english": "be bewildered"
+          "english": "be bewildered",
+          "en": "be bewildered",
+          "vi": "bối rối, lúng túng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "困難（こんなん）",
         "meaning": {
-          "english": "difficulty"
+          "english": "difficulty",
+          "en": "difficulty",
+          "vi": "khó khăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "貧困（ひんこん）",
         "meaning": {
-          "english": "poverty"
+          "english": "poverty",
+          "en": "poverty",
+          "vi": "nghèo khó"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "困る（こまる）",
         "meaning": {
-          "english": "have trouble"
+          "english": "have trouble",
+          "en": "have trouble",
+          "vi": "gặp khó khăn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/koma(ru)_06_d.opus",
@@ -210,7 +221,9 @@
     "kanji": {
       "character": "困",
       "meaning": {
-        "english": "be in trouble"
+        "english": "be in trouble",
+        "en": "be in trouble",
+        "vi": "gặp rắc rối, khốn khó"
       },
       "strokes": {
         "count": 7,
@@ -262,7 +275,9 @@
         "romaji": "kunigamae"
       },
       "meaning": {
-        "english": "border, territorial boundaries"
+        "english": "border, territorial boundaries",
+        "en": "border, territorial boundaries",
+        "vi": "ranh giới, biên cương"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
@@ -283,7 +298,10 @@
     "jlptLevel": "N3",
     "newspaperFrequencyRank": "843",
     "strokeCount": 7,
-    "meaning": "quandary, become distressed, annoyed",
+    "meaning": {
+      "en": "quandary, become distressed, annoyed",
+      "vi": "cảnh khó xử, khổ sở, bực bội"
+    },
     "kunyomi": [
       "こま.る"
     ],
@@ -295,7 +313,8 @@
         "example": "困惑",
         "reading": "コンワク",
         "meaning": {
-          "vi": "bewilderment, perplexity, embarrassment, discomfiture, bafflement"
+          "vi": "bewilderment, perplexity, embarrassment, discomfiture, bafflement",
+          "en": "bewilderment, perplexity, embarrassment, discomfiture, bafflement"
         },
         "romaji": "konwaku"
       },
@@ -303,7 +322,8 @@
         "example": "困難",
         "reading": "コンナン",
         "meaning": {
-          "vi": "difficulty, hardship, trouble, distress, infeasibility, inability (to carry out)"
+          "vi": "difficulty, hardship, trouble, distress, infeasibility, inability (to carry out)",
+          "en": "difficulty, hardship, trouble, distress, infeasibility, inability (to carry out)"
         },
         "romaji": "konnan"
       },
@@ -311,7 +331,8 @@
         "example": "絶対貧困",
         "reading": "ゼッタイヒンコン",
         "meaning": {
-          "vi": "absolute poverty"
+          "vi": "absolute poverty",
+          "en": "absolute poverty"
         },
         "romaji": "zettaihinkon"
       },
@@ -319,7 +340,8 @@
         "example": "絶対的貧困",
         "reading": "ゼッタイテキヒンコン",
         "meaning": {
-          "vi": "absolute poverty"
+          "vi": "absolute poverty",
+          "en": "absolute poverty"
         },
         "romaji": "zettaitekihinkon"
       }
@@ -329,14 +351,18 @@
         "example": "困る",
         "reading": "こまる",
         "meaning": {
-          "vi": "to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed, to be bothered, to be inconvenienced, to be annoyed, to be badly off, to be hard up, to be in straitened circumstances"
+          "vi": "to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed, to be bothered, to be inconvenienced, to be annoyed, to be badly off, to be hard up, to be in straitened circumstances",
+          "en": "to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed, to be bothered, to be inconvenienced, to be annoyed, to be badly off, to be hard up, to be in straitened circumstances"
         },
         "romaji": "komaru"
       }
     ],
     "radical": {
       "symbol": "囗",
-      "meaning": "enclosure"
+      "meaning": {
+        "en": "enclosure",
+        "vi": "vây quanh"
+      }
     },
     "parts": [
       "囗",
@@ -347,6 +373,7 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56f0.gif",
     "uri": "https://jisho.org/search/%E5%9B%B0%23kanji"
   },
+  "mnemonic_vi": "Cây bị nhốt trong khung, gợi cảnh bị kẹt nên thành khốn khó.",
   "hanViet": [
     "khốn"
   ]

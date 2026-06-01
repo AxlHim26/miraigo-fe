@@ -5,7 +5,10 @@
     "query": "僂",
     "found": true,
     "strokeCount": 13,
-    "meaning": "bend over",
+    "meaning": {
+      "en": "bend over",
+      "vi": "khom người"
+    },
     "kunyomi": [
       "かが.む"
     ],
@@ -18,7 +21,8 @@
         "example": "佝僂",
         "reading": "クル",
         "meaning": {
-          "vi": "rickets, person with rickets, hunchback"
+          "vi": "còi xương, người bị còi xương, người gù",
+          "en": "rickets, person with rickets, hunchback"
         },
         "romaji": "kuru"
       }
@@ -29,7 +33,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

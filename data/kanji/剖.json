@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1918",
     "strokeCount": 10,
-    "meaning": "divide",
+    "meaning": {
+      "en": "divide",
+      "vi": "chia, tách"
+    },
     "kunyomi": [],
     "onyomi": [
       "ボウ"
@@ -18,7 +21,8 @@
         "example": "剖検",
         "reading": "ボウケン",
         "meaning": {
-          "vi": "autopsy, necropsy"
+          "vi": "autopsy, necropsy",
+          "en": "autopsy, necropsy"
         },
         "romaji": "bouken"
       },
@@ -26,7 +30,8 @@
         "example": "法医解剖",
         "reading": "ホウイカイボウ",
         "meaning": {
-          "vi": "medicolegal autopsy, forensic autopsy"
+          "vi": "medicolegal autopsy, forensic autopsy",
+          "en": "medicolegal autopsy, forensic autopsy"
         },
         "romaji": "houikaibou"
       },
@@ -34,7 +39,8 @@
         "example": "行政解剖",
         "reading": "ギョウセイカイボウ",
         "meaning": {
-          "vi": "autopsy initiated by government authorities"
+          "vi": "autopsy initiated by government authorities",
+          "en": "autopsy initiated by government authorities"
         },
         "romaji": "gyouseikaibou"
       }
@@ -45,7 +51,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "刈",
@@ -59,5 +68,6 @@
   },
   "hanViet": [
     "phẫu"
-  ]
+  ],
+  "mnemonic_vi": "Con dao mổ tách một vật ra làm đôi, nên nhớ là mổ xẻ."
 }

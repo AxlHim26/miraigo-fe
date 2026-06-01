@@ -5,7 +5,10 @@
     "query": "乢",
     "found": true,
     "strokeCount": 4,
-    "meaning": "mountain saddle",
+    "meaning": {
+      "en": "mountain saddle",
+      "vi": "yên núi"
+    },
     "kunyomi": [
       "たわ",
       "たお"
@@ -22,7 +25,10 @@
         "⺄",
         "乚"
       ],
-      "meaning": "second"
+      "meaning": {
+        "en": "second",
+        "vi": "thứ hai"
+      }
     },
     "parts": [
       "乙",

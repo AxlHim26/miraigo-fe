@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "newspaperFrequencyRank": "1375",
     "strokeCount": 3,
-    "meaning": "length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely",
+    "meaning": {
+      "en": "length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely",
+      "vi": "chiều dài, mười shaku, thước đo, ông, bà, chiều cao, tầm vóc, tất cả những gì một người có, chỉ, vậy thôi, đơn thuần"
+    },
     "kunyomi": [
       "たけ",
       "だけ"
@@ -222,7 +225,10 @@
     ],
     "radical": {
       "symbol": "一",
-      "meaning": "one"
+      "meaning": {
+        "en": "one",
+        "vi": "một"
+      }
     },
     "parts": [
       "ノ",

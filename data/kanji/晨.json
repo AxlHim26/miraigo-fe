@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 11,
-    "meaning": "morning, early",
+    "meaning": {
+      "en": "morning, early",
+      "vi": "buổi sáng sớm"
+    },
     "kunyomi": [
       "あした",
       "とき",
@@ -20,7 +23,8 @@
         "example": "晨朝",
         "reading": "ジンジョウ",
         "meaning": {
-          "en": "around six o'clock AM, dawn service"
+          "en": "around six o'clock AM, dawn service",
+          "vi": "khoảng sáu giờ sáng, lễ rạng đông"
         },
         "romaji": "jinjou"
       }
@@ -28,7 +32,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "日",
-      "meaning": "sun, day"
+      "meaning": {
+        "en": "sun, day",
+        "vi": "mặt trời, ngày"
+      }
     },
     "parts": [
       "日",
@@ -42,5 +49,7 @@
   },
   "hanViet": [
     "thần"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Mặt trời vừa lên là buổi sớm tinh mơ."
 }

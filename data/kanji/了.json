@@ -7,13 +7,17 @@
     "grade": null,
     "hint_group": 1,
     "kunyomi": "n/a",
-    "meaning": "finish, complete, understand",
+    "meaning": {
+      "en": "finish, complete, understand",
+      "vi": "kết thúc, hoàn thành, hiểu"
+    },
     "kstroke": 2,
     "examples": [
       {
         "japanese": "未了（みりょう）",
         "meaning": {
-          "english": "unfinished, yet not finished [n.]"
+          "en": "unfinished, yet not finished [n.]",
+          "vi": "chưa hoàn thành, chưa hoàn thành [n.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_a.opus",
@@ -28,7 +32,8 @@
       {
         "japanese": "了解する（りょうかいする）",
         "meaning": {
-          "english": "consent, comprehend"
+          "en": "consent, comprehend",
+          "vi": "đồng ý, hiểu"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_b.opus",
@@ -43,7 +48,8 @@
       {
         "japanese": "了承する（りょうしょうする）",
         "meaning": {
-          "english": "approve, consent"
+          "en": "approve, consent",
+          "vi": "chấp thuận, đồng ý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_c.opus",
@@ -58,7 +64,8 @@
       {
         "japanese": "完了する（かんりょうする）",
         "meaning": {
-          "english": "complete, conclude"
+          "en": "complete, conclude",
+          "vi": "hoàn thành, kết luận"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_d.opus",
@@ -73,7 +80,8 @@
       {
         "japanese": "終了する（しゅうりょうする）",
         "meaning": {
-          "english": "close, end"
+          "en": "close, end",
+          "vi": "đóng, kết thúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_e.opus",
@@ -88,7 +96,8 @@
       {
         "japanese": "満了する（まんりょうする）",
         "meaning": {
-          "english": "expire, terminate"
+          "en": "expire, terminate",
+          "vi": "hết hạn, chấm dứt"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_f.opus",
@@ -103,7 +112,8 @@
       {
         "japanese": "修了する（しゅうりょうする）",
         "meaning": {
-          "english": "complete, finish"
+          "en": "complete, finish",
+          "vi": "hoàn thành, kết thúc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_g.opus",
@@ -196,7 +206,8 @@
     "kanji": {
       "character": "了",
       "meaning": {
-        "english": "finish, complete, understand"
+        "en": "finish, complete, understand",
+        "vi": "kết thúc, hoàn thành, hiểu"
       },
       "strokes": {
         "count": 2,
@@ -238,7 +249,8 @@
         "romaji": "hanebou"
       },
       "meaning": {
-        "english": "vertical stroke with a hook"
+        "en": "vertical stroke with a hook",
+        "vi": "nét sổ có móc"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/hanebou0.svg",
@@ -259,7 +271,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "792",
     "strokeCount": 2,
-    "meaning": "complete, finish",
+    "meaning": {
+      "en": "complete, finish",
+      "vi": "hoàn tất, kết thúc"
+    },
     "kunyomi": [],
     "onyomi": [
       "リョウ"
@@ -269,7 +284,8 @@
         "example": "了",
         "reading": "リョウ",
         "meaning": {
-          "vi": "finish, completion, the end"
+          "en": "finish, completion, the end",
+          "vi": "sự kết thúc, sự hoàn thành, sự kết thúc"
         },
         "meaningVN": "sự kết thúc, sự hoàn thành, sự kết thúc",
         "hanViet": "liễu",
@@ -280,7 +296,8 @@
         "example": "諒",
         "reading": "リョウ",
         "meaning": {
-          "en": "fact, truth, understanding, consideration"
+          "en": "fact, truth, understanding, consideration",
+          "vi": "sự thật, sự thật, sự hiểu biết, sự cân nhắc"
         },
         "meaningVN": "sự thật, sự thật, sự hiểu biết, sự cân nhắc",
         "hanViet": "lượng",
@@ -291,7 +308,8 @@
         "example": "満了",
         "reading": "マンリョウ",
         "meaning": {
-          "vi": "expiration, termination"
+          "en": "expiration, termination",
+          "vi": "hết hạn, chấm dứt"
         },
         "meaningVN": "hết hạn, chấm dứt",
         "hanViet": "mãn liễu",
@@ -302,7 +320,8 @@
         "example": "未了",
         "reading": "ミリョウ",
         "meaning": {
-          "en": "unfinished, unfilled (order), unexecuted"
+          "en": "unfinished, unfilled (order), unexecuted",
+          "vi": "chưa hoàn thành, chưa thực hiện (lệnh), chưa được thực hiện"
         },
         "meaningVN": "chưa hoàn thành, chưa thực hiện (lệnh), chưa được thực hiện",
         "hanViet": "mùi liễu",
@@ -313,7 +332,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "亅",
-      "meaning": "hook"
+      "meaning": {
+        "en": "hook",
+        "vi": "móc"
+      }
     },
     "parts": [
       "一",

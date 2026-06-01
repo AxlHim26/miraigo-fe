@@ -7,7 +7,10 @@
     "taughtIn": "junior high",
     "jlptLevel": "N1",
     "strokeCount": 13,
-    "meaning": "model, molding",
+    "meaning": {
+      "en": "model, molding",
+      "vi": "nặn mẫu, đúc hình"
+    },
     "kunyomi": [
       "でく"
     ],
@@ -19,7 +22,8 @@
         "example": "塑性",
         "reading": "ソセイ",
         "meaning": {
-          "vi": "plasticity"
+          "vi": "plasticity",
+          "en": "plasticity"
         },
         "romaji": "sosei"
       },
@@ -27,7 +31,8 @@
         "example": "塑性限界",
         "reading": "ソセイゲンカイ",
         "meaning": {
-          "vi": "plastic limit"
+          "vi": "plastic limit",
+          "en": "plastic limit"
         },
         "romaji": "soseigenkai"
       },
@@ -35,7 +40,8 @@
         "example": "彫塑",
         "reading": "チョウソ",
         "meaning": {
-          "vi": "carving, engraving, clay model, plastic art"
+          "vi": "carving, engraving, clay model, plastic art",
+          "en": "carving, engraving, clay model, plastic art"
         },
         "romaji": "chouso"
       },
@@ -43,7 +49,8 @@
         "example": "泥塑",
         "reading": "デイソ",
         "meaning": {
-          "en": "unfired clay figurine"
+          "en": "unfired clay figurine",
+          "vi": "tượng đất chưa nung"
         },
         "romaji": "deiso"
       }
@@ -51,7 +58,10 @@
     "kunyomiExamples": [],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "土",
@@ -64,6 +74,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5851.gif",
     "uri": "https://jisho.org/search/%E5%A1%91%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là chất liệu nặn, phần trên như bàn tay đang vuốt tạo hình, thành hành động nặn mẫu.",
   "hanViet": [
     "tố"
   ]

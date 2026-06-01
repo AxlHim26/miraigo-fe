@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "iwa",
-    "meaning": "rock",
+    "meaning": {
+      "en": "rock",
+      "vi": "đá tảng"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "岩石（がんせき）",
         "meaning": {
-          "english": "rock [n.]"
+          "english": "rock [n.]",
+          "en": "rock [n.]",
+          "vi": "tảng đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "岩塩（がんえん）",
         "meaning": {
-          "english": "rock salt"
+          "english": "rock salt",
+          "en": "rock salt",
+          "vi": "muối mỏ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "火山岩（かざんがん）",
         "meaning": {
-          "english": "volcanic rock, igneous rock"
+          "english": "volcanic rock, igneous rock",
+          "en": "volcanic rock, igneous rock",
+          "vi": "đá núi lửa, đá magma"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "岩（いわ）",
         "meaning": {
-          "english": "rock, crag"
+          "english": "rock, crag",
+          "en": "rock, crag",
+          "vi": "đá, vách đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "岩山（いわやま）",
         "meaning": {
-          "english": "rocky mountain"
+          "english": "rocky mountain",
+          "en": "rocky mountain",
+          "vi": "núi đá"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gan-iwa_06_e.opus",
@@ -167,7 +180,9 @@
     "kanji": {
       "character": "岩",
       "meaning": {
-        "english": "rock"
+        "english": "rock",
+        "en": "rock",
+        "vi": "đá tảng"
       },
       "strokes": {
         "count": 8,
@@ -221,7 +236,9 @@
         "romaji": "yamakanmuri"
       },
       "meaning": {
-        "english": "mountain"
+        "english": "mountain",
+        "en": "mountain",
+        "vi": "núi"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/yamakanmuri0.svg",
@@ -242,7 +259,10 @@
     "jlptLevel": "N2",
     "newspaperFrequencyRank": "787",
     "strokeCount": 8,
-    "meaning": "boulder, rock, cliff",
+    "meaning": {
+      "en": "boulder, rock, cliff",
+      "vi": "tảng đá, vách đá"
+    },
     "kunyomi": [
       "いわ"
     ],
@@ -254,7 +274,8 @@
         "example": "岩盤",
         "reading": "ガンバン",
         "meaning": {
-          "en": "bedrock"
+          "en": "bedrock",
+          "vi": "đá gốc"
         },
         "romaji": "ganban"
       },
@@ -262,7 +283,8 @@
         "example": "岩石",
         "reading": "ガンセキ",
         "meaning": {
-          "en": "rock"
+          "en": "rock",
+          "vi": "đá tảng"
         },
         "romaji": "ganseki"
       },
@@ -270,7 +292,8 @@
         "example": "砂岩",
         "reading": "サガン",
         "meaning": {
-          "en": "sandstone"
+          "en": "sandstone",
+          "vi": "đá sa thạch"
         },
         "romaji": "sagan"
       },
@@ -278,7 +301,8 @@
         "example": "石灰岩",
         "reading": "セッカイガン",
         "meaning": {
-          "en": "limestone"
+          "en": "limestone",
+          "vi": "đá vôi"
         },
         "romaji": "sekkaigan"
       }
@@ -288,7 +312,8 @@
         "example": "岩",
         "reading": "いわ",
         "meaning": {
-          "en": "rock, boulder, crag"
+          "en": "rock, boulder, crag",
+          "vi": "đá, tảng đá, vách đá"
         },
         "romaji": "iwa"
       },
@@ -296,7 +321,8 @@
         "example": "岩間",
         "reading": "いわま",
         "meaning": {
-          "en": "among rocks"
+          "en": "among rocks",
+          "vi": "giữa các tảng đá"
         },
         "romaji": "iwama"
       },
@@ -304,7 +330,8 @@
         "example": "一枚岩",
         "reading": "いちまいいわ",
         "meaning": {
-          "vi": "monolith, large slab of rock, unity (of a group, organization, etc.), unanimity, solidarity"
+          "vi": "monolith, large slab of rock, unity (of a group, organization, etc.), unanimity, solidarity",
+          "en": "monolith, large slab of rock, unity (of a group, organization, etc.), unanimity, solidarity"
         },
         "romaji": "ichimaiiwa"
       },
@@ -312,14 +339,18 @@
         "example": "浮岩",
         "reading": "うきいわ",
         "meaning": {
-          "vi": "rock partially submerged in water, rock partially emerging from the water, pumice stone"
+          "vi": "rock partially submerged in water, rock partially emerging from the water, pumice stone",
+          "en": "rock partially submerged in water, rock partially emerging from the water, pumice stone"
         },
         "romaji": "ukiiwa"
       }
     ],
     "radical": {
       "symbol": "山",
-      "meaning": "mountain"
+      "meaning": {
+        "en": "mountain",
+        "vi": "núi"
+      }
     },
     "parts": [
       "口",
@@ -333,5 +364,7 @@
   },
   "hanViet": [
     "nham"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: núi có tảng đá lớn nhô ra chính là vách đá."
 }

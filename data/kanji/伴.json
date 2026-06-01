@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "886",
     "strokeCount": 7,
-    "meaning": "consort, accompany, bring with, companion",
+    "meaning": {
+      "en": "consort, accompany, bring with, companion",
+      "vi": "đi cùng, đồng hành, mang theo, bạn đồng hành"
+    },
     "kunyomi": [
       "ともな.う"
     ],
@@ -21,6 +24,7 @@
         "example": "伴侶",
         "reading": "ハンリョ",
         "meaning": {
+          "en": "companion, partner, spouse",
           "vi": "companion, partner, spouse"
         },
         "romaji": "hanryo"
@@ -29,7 +33,8 @@
         "example": "伴性遺伝",
         "reading": "ハンセイイデン",
         "meaning": {
-          "en": "sex-linked inheritance"
+          "en": "sex-linked inheritance",
+          "vi": "di truyền liên kết giới tính"
         },
         "romaji": "hanseiiden"
       },
@@ -37,6 +42,7 @@
         "example": "随伴",
         "reading": "ズイハン",
         "meaning": {
+          "en": "attendance, accompanying, following, adjoint",
           "vi": "attendance, accompanying, following, adjoint"
         },
         "romaji": "zuihan"
@@ -45,6 +51,7 @@
         "example": "朴伴",
         "reading": "ボクハン",
         "meaning": {
+          "en": "Camellia japonica 'Bokuhan' (cultivar of common camellia)",
           "vi": "Camellia japonica 'Bokuhan' (cultivar of common camellia)"
         },
         "romaji": "bokuhan"
@@ -53,6 +60,7 @@
         "example": "伴奏",
         "reading": "バンソウ",
         "meaning": {
+          "en": "accompaniment",
           "vi": "accompaniment"
         },
         "romaji": "bansou"
@@ -61,6 +69,7 @@
         "example": "伴走",
         "reading": "バンソウ",
         "meaning": {
+          "en": "running alongside, pacesetting, accompanying",
           "vi": "running alongside, pacesetting, accompanying"
         },
         "romaji": "bansou"
@@ -69,6 +78,7 @@
         "example": "相伴",
         "reading": "ショウバン",
         "meaning": {
+          "en": "partaking, participating, taking part in, sharing (something with someone)",
           "vi": "partaking, participating, taking part in, sharing (something with someone)"
         },
         "romaji": "shouban"
@@ -77,7 +87,8 @@
         "example": "お相伴",
         "reading": "オショウバン",
         "meaning": {
-          "en": "sharing a meal"
+          "en": "sharing a meal",
+          "vi": "cùng dùng bữa"
         },
         "romaji": "oshouban"
       }
@@ -87,6 +98,7 @@
         "example": "伴う",
         "reading": "ともなう",
         "meaning": {
+          "en": "to accompany, to go hand in hand with, to be consequent upon, to be accompanied by, to bring with, to take with, to be involved in",
           "vi": "to accompany, to go hand in hand with, to be consequent upon, to be accompanied by, to bring with, to take with, to be involved in"
         },
         "romaji": "tomonau"
@@ -97,7 +109,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "二",

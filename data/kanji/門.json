@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "kado",
-    "meaning": "gate",
+    "meaning": {
+      "en": "gate",
+      "vi": "cổng, môn phái"
+    },
     "kstroke": 8,
     "examples": [
       {
         "japanese": "門（もん）",
         "meaning": {
-          "english": "gate"
+          "english": "gate",
+          "en": "gate",
+          "vi": "cổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "正門（せいもん）",
         "meaning": {
-          "english": "main gate"
+          "english": "main gate",
+          "en": "main gate",
+          "vi": "cổng chính"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "校門（こうもん）",
         "meaning": {
-          "english": "school gate"
+          "english": "school gate",
+          "en": "school gate",
+          "vi": "cổng trường"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "専門（せんもん）",
         "meaning": {
-          "english": "speciality"
+          "english": "speciality",
+          "en": "speciality",
+          "vi": "chuyên môn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "部門（ぶもん）",
         "meaning": {
-          "english": "category"
+          "english": "category",
+          "en": "category",
+          "vi": "bộ phận, hạng mục"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "名門（めいもん）",
         "meaning": {
-          "english": "distinguished family"
+          "english": "distinguished family",
+          "en": "distinguished family",
+          "vi": "danh gia vọng tộc"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "入門する（にゅうもんする）",
         "meaning": {
-          "english": "enter an institute"
+          "english": "enter an institute",
+          "en": "enter an institute",
+          "vi": "nhập môn"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "破門する（はもんする）",
         "meaning": {
-          "english": "expel"
+          "english": "expel",
+          "en": "expel",
+          "vi": "trục xuất khỏi môn phái"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "門（かど）",
         "meaning": {
-          "english": "gate"
+          "english": "gate",
+          "en": "gate",
+          "vi": "cổng"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "門出（かどで）",
         "meaning": {
-          "english": "departure, setting out"
+          "english": "departure, setting out",
+          "en": "departure, setting out",
+          "vi": "lên đường, khởi hành"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_j.opus",
@@ -455,5 +478,7 @@
   },
   "hanViet": [
     "môn"
-  ]
+  ],
+  "jlpt": "N2",
+  "mnemonic_vi": "Gợi ý cách nhớ: hai cánh mở ra như cổng lớn trước nhà, nên 門 là cổng, cửa lớn."
 }

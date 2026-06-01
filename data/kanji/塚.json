@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "869",
     "strokeCount": 12,
-    "meaning": "hillock, mound",
+    "meaning": {
+      "en": "hillock, mound",
+      "vi": "gò, mô đất, mộ đắp"
+    },
     "kunyomi": [
       "つか",
       "-づか"
@@ -21,7 +24,8 @@
         "example": "陪塚",
         "reading": "バイチョウ",
         "meaning": {
-          "vi": "subsidiary burial mound (Kofun period), satellite burial mound"
+          "vi": "subsidiary burial mound (Kofun period), satellite burial mound",
+          "en": "subsidiary burial mound (Kofun period), satellite burial mound"
         },
         "romaji": "baichou"
       }
@@ -31,7 +35,8 @@
         "example": "塚",
         "reading": "つか",
         "meaning": {
-          "vi": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue"
+          "vi": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue",
+          "en": "mound, heap, hillock, burial mound, tomb, tumulus, barrow, gravesite, standing stone, stone signpost, roadside stone statue"
         },
         "romaji": "tsuka"
       },
@@ -39,7 +44,8 @@
         "example": "塚穴",
         "reading": "つかあな",
         "meaning": {
-          "en": "grave"
+          "en": "grave",
+          "vi": "mộ huyệt"
         },
         "romaji": "tsukaana"
       },
@@ -47,14 +53,18 @@
         "example": "高塚",
         "reading": "たかつか",
         "meaning": {
-          "en": "tumulus, burial mound"
+          "en": "tumulus, burial mound",
+          "vi": "gò mộ, mộ đắp"
         },
         "romaji": "takatsuka"
       }
     ],
     "radical": {
       "symbol": "土",
-      "meaning": "earth"
+      "meaning": {
+        "en": "earth",
+        "vi": "đất"
+      }
     },
     "parts": [
       "冖",
@@ -66,6 +76,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/585a.gif",
     "uri": "https://jisho.org/search/%E5%A1%9A%23kanji"
   },
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: 土 là đất, 冢 vốn gợi phần mộ lớn, ghép lại thành mô đất hay nấm mộ.",
   "hanViet": [
     "trũng",
     "trủng"

@@ -7,13 +7,18 @@
     "grade": 6,
     "hint_group": 1,
     "kunyomi": "onore",
-    "meaning": "oneself, self",
+    "meaning": {
+      "en": "oneself, self",
+      "vi": "bản thân, chính mình"
+    },
     "kstroke": 3,
     "examples": [
       {
         "japanese": "自己（じこ）",
         "meaning": {
-          "english": "self, oneself"
+          "english": "self, oneself",
+          "en": "self, oneself",
+          "vi": "bản thân, chính mình"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onore_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "利己主義（りこしゅぎ）",
         "meaning": {
-          "english": "egoism, selfishness"
+          "english": "egoism, selfishness",
+          "en": "egoism, selfishness",
+          "vi": "chủ nghĩa vị kỷ, tính ích kỷ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onore_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "知己（ちき）",
         "meaning": {
-          "english": "acquaintance, friend"
+          "english": "acquaintance, friend",
+          "en": "acquaintance, friend",
+          "vi": "người quen, bạn bè"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onore_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "克己心（こっきしん）",
         "meaning": {
-          "english": "spirit of self-denial/self-control"
+          "english": "spirit of self-denial/self-control",
+          "en": "spirit of self-denial/self-control",
+          "vi": "tinh thần tự chế, tự khắc kỷ"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onore_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "己（おのれ）",
         "meaning": {
-          "english": "oneself, you [insulting]"
+          "english": "oneself, you [insulting]",
+          "en": "oneself, you [insulting]",
+          "vi": "chính mình, mày, ngươi theo cách xúc phạm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/onore_06_e.opus",
@@ -149,7 +162,9 @@
     "kanji": {
       "character": "己",
       "meaning": {
-        "english": "oneself, self"
+        "english": "oneself, self",
+        "en": "oneself, self",
+        "vi": "bản thân, chính mình"
       },
       "strokes": {
         "count": 3,
@@ -193,7 +208,9 @@
         "romaji": "onore"
       },
       "meaning": {
-        "english": "self"
+        "english": "self",
+        "en": "self",
+        "vi": "bản thân"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/onore0.svg",
@@ -214,7 +231,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1098",
     "strokeCount": 3,
-    "meaning": "self",
+    "meaning": {
+      "en": "self",
+      "vi": "bản thân"
+    },
     "kunyomi": [
       "おのれ",
       "つちのと",
@@ -229,7 +249,8 @@
         "example": "非自己",
         "reading": "ヒジコ",
         "meaning": {
-          "en": "nonself, not self"
+          "en": "nonself, not self",
+          "vi": "vô ngã, không phải bản ngã"
         },
         "romaji": "hijiko"
       },
@@ -237,7 +258,8 @@
         "example": "一己",
         "reading": "イッコ",
         "meaning": {
-          "vi": "personal, private, oneself"
+          "vi": "cá nhân, riêng tư, bản thân",
+          "en": "personal, private, oneself"
         },
         "romaji": "ikko"
       },
@@ -245,7 +267,8 @@
         "example": "己",
         "reading": "キ",
         "meaning": {
-          "en": "6th in rank, sixth sign of the Chinese calendar"
+          "en": "6th in rank, sixth sign of the Chinese calendar",
+          "vi": "hạng thứ sáu, chi thứ sáu trong lịch can chi"
         },
         "romaji": "ki"
       },
@@ -253,7 +276,8 @@
         "example": "己亥",
         "reading": "ツチノトイ",
         "meaning": {
-          "en": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+          "en": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)",
+          "vi": "Kỷ Hợi, mục thứ 36 trong lục thập hoa giáp"
         },
         "romaji": "tsuchinotoi"
       },
@@ -261,7 +285,8 @@
         "example": "親戚知己",
         "reading": "シンセキチキ",
         "meaning": {
-          "en": "relatives and acquaintances"
+          "en": "relatives and acquaintances",
+          "vi": "bà con và người quen"
         },
         "romaji": "shinsekichiki"
       },
@@ -269,7 +294,8 @@
         "example": "克己",
         "reading": "コッキ",
         "meaning": {
-          "en": "self-control, self-mastery, self-restraint, self-denial"
+          "en": "self-control, self-mastery, self-restraint, self-denial",
+          "vi": "tự chủ, tự kiềm chế, tự kỷ luật, khắc kỷ"
         },
         "romaji": "kokki"
       }
@@ -279,7 +305,8 @@
         "example": "己",
         "reading": "おのれ",
         "meaning": {
-          "vi": "oneself (itself, etc.), I, me, you, by oneself (itself, etc.), interjection expressing anger or chagrin"
+          "vi": "chính mình, tôi, ta, ngươi, tự mình, thán từ bộc lộ tức giận hay bực bội",
+          "en": "oneself (itself, etc.), I, me, you, by oneself (itself, etc.), interjection expressing anger or chagrin"
         },
         "romaji": "onore"
       },
@@ -287,7 +314,8 @@
         "example": "己達せんと欲して人を達せしむ",
         "reading": "おのれたっせんとほっしてひとをたっせしむ",
         "meaning": {
-          "vi": "if you wish to succeed yourself, first help others to succeed"
+          "vi": "nếu muốn bản thân thành công thì trước hết hãy giúp người khác thành công",
+          "en": "if you wish to succeed yourself, first help others to succeed"
         },
         "romaji": "onoretassentohosshitehitowotasseshimu"
       },
@@ -295,7 +323,8 @@
         "example": "己",
         "reading": "き",
         "meaning": {
-          "en": "6th in rank, sixth sign of the Chinese calendar"
+          "en": "6th in rank, sixth sign of the Chinese calendar",
+          "vi": "hạng thứ sáu, chi thứ sáu trong lịch can chi"
         },
         "romaji": "ki"
       },
@@ -303,7 +332,8 @@
         "example": "己亥",
         "reading": "つちのとい",
         "meaning": {
-          "en": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)"
+          "en": "Earth Boar (36th term of the sexagenary cycle, e.g. 1959, 2019, 2079)",
+          "vi": "Kỷ Hợi, mục thứ 36 trong lục thập hoa giáp"
         },
         "romaji": "tsuchinotoi"
       },
@@ -311,7 +341,8 @@
         "example": "己",
         "reading": "な",
         "meaning": {
-          "en": "I, you"
+          "en": "I, you",
+          "vi": "ta, ngươi"
         },
         "romaji": "na"
       },
@@ -319,7 +350,8 @@
         "example": "汝等",
         "reading": "うぬら",
         "meaning": {
-          "en": "ye, you, me, I, us, we"
+          "en": "ye, you, me, I, us, we",
+          "vi": "các ngươi, ngươi, tôi, ta, chúng ta"
         },
         "romaji": "unura"
       }
@@ -331,7 +363,10 @@
         "已",
         "㔾"
       ],
-      "meaning": "oneself"
+      "meaning": {
+        "en": "oneself",
+        "vi": "bản thân"
+      }
     },
     "parts": [
       "已"
@@ -344,5 +379,7 @@
   "hanViet": [
     "kỉ",
     "kỷ"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Gợi ý cách nhớ: Nét cong quay vào chính mình nên 己 gợi ý bản thân, chính mình."
 }

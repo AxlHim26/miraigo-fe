@@ -8,7 +8,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1573",
     "strokeCount": 6,
-    "meaning": "face-up, look up, depend, seek, respect, revere, drink, take",
+    "meaning": {
+      "en": "face-up, look up, depend, seek, respect, revere, drink, take",
+      "vi": "ngửa mặt lên, ngước nhìn, phụ thuộc, tìm kiếm, kính trọng, tôn kính, uống, nhận lấy"
+    },
     "kunyomi": [
       "あお.ぐ",
       "おお.せ",
@@ -24,7 +27,8 @@
         "example": "仰天",
         "reading": "ギョウテン",
         "meaning": {
-          "en": "being amazed, being horrified, being taken aback"
+          "en": "being amazed, being horrified, being taken aback",
+          "vi": "kinh ngạc, khiếp sợ, sửng sốt"
         },
         "romaji": "gyouten"
       },
@@ -32,7 +36,8 @@
         "example": "仰角",
         "reading": "ギョウカク",
         "meaning": {
-          "en": "angle of elevation"
+          "en": "angle of elevation",
+          "vi": "góc ngẩng"
         },
         "romaji": "gyoukaku"
       },
@@ -40,7 +45,8 @@
         "example": "大仰",
         "reading": "オオギョウ",
         "meaning": {
-          "en": "exaggerated, overblown, overdone"
+          "en": "exaggerated, overblown, overdone",
+          "vi": "cường điệu, phô trương, làm quá"
         },
         "romaji": "oogyou"
       },
@@ -48,7 +54,8 @@
         "example": "景仰",
         "reading": "ケイコウ",
         "meaning": {
-          "en": "adoration, admiration, reverence"
+          "en": "adoration, admiration, reverence",
+          "vi": "sự ngưỡng mộ, khâm phục, tôn kính"
         },
         "romaji": "keikou"
       },
@@ -56,7 +63,8 @@
         "example": "景仰",
         "reading": "ケイコウ",
         "meaning": {
-          "en": "adoration, admiration, reverence"
+          "en": "adoration, admiration, reverence",
+          "vi": "sự ngưỡng mộ, khâm phục, tôn kính"
         },
         "romaji": "keikou"
       },
@@ -64,7 +72,8 @@
         "example": "欽仰",
         "reading": "キンギョウ",
         "meaning": {
-          "en": "reverence, adoration, veneration"
+          "en": "reverence, adoration, veneration",
+          "vi": "sự tôn kính, ngưỡng mộ, sùng kính"
         },
         "romaji": "kingyou"
       }
@@ -74,7 +83,8 @@
         "example": "仰ぐ",
         "reading": "あおぐ",
         "meaning": {
-          "vi": "to look up (at), to look up to, to respect, to revere, to ask for (e.g. guidance), to seek, to turn to (someone) for, to depend on, to rely on, to gulp down, to quaff, to drink"
+          "vi": "to look up (at), to look up to, to respect, to revere, to ask for (e.g. guidance), to seek, to turn to (someone) for, to depend on, to rely on, to gulp down, to quaff, to drink",
+          "en": "ngước nhìn, ngưỡng mộ, kính trọng, tôn kính, cầu xin (ví dụ sự chỉ dẫn), tìm kiếm, tìm đến ai đó để nhờ cậy, phụ thuộc vào, dựa vào, nốc ừng ực, tu ừng ực, uống"
         },
         "romaji": "aogu"
       },
@@ -82,7 +92,8 @@
         "example": "仰せ",
         "reading": "おおせ",
         "meaning": {
-          "vi": "order (from one's superior), command, what you say, (someone's) words"
+          "vi": "order (from one's superior), command, what you say, (someone's) words",
+          "en": "mệnh lệnh (từ cấp trên), chỉ thị, điều bạn nói, lời của ai đó"
         },
         "romaji": "oose"
       },
@@ -90,7 +101,8 @@
         "example": "仰せ言",
         "reading": "おおせごと",
         "meaning": {
-          "en": "statement, order"
+          "en": "statement, order",
+          "vi": "phát biểu, mệnh lệnh"
         },
         "romaji": "oosegoto"
       },
@@ -98,7 +110,8 @@
         "example": "仰る",
         "reading": "おっしゃる",
         "meaning": {
-          "vi": "to say, to speak, to tell, to be called"
+          "vi": "to say, to speak, to tell, to be called",
+          "en": "nói, phát biểu, kể, được gọi là"
         },
         "romaji": "ossharu"
       },
@@ -106,7 +119,8 @@
         "example": "おっしゃる通り",
         "reading": "おっしゃるとおり",
         "meaning": {
-          "en": "as you (they, etc.) say, as you suggest, I absolutely agree"
+          "en": "as you (they, etc.) say, as you suggest, I absolutely agree",
+          "vi": "đúng như bạn (hay họ) nói, đúng như bạn gợi ý, tôi hoàn toàn đồng ý"
         },
         "romaji": "ossharutoori"
       },
@@ -114,7 +128,8 @@
         "example": "仰る",
         "reading": "おっしゃる",
         "meaning": {
-          "vi": "to say, to speak, to tell, to be called"
+          "vi": "to say, to speak, to tell, to be called",
+          "en": "nói, phát biểu, kể, được gọi là"
         },
         "romaji": "ossharu"
       },
@@ -122,7 +137,8 @@
         "example": "おっしゃる通り",
         "reading": "おっしゃるとおり",
         "meaning": {
-          "en": "as you (they, etc.) say, as you suggest, I absolutely agree"
+          "en": "as you (they, etc.) say, as you suggest, I absolutely agree",
+          "vi": "đúng như bạn (hay họ) nói, đúng như bạn gợi ý, tôi hoàn toàn đồng ý"
         },
         "romaji": "ossharutoori"
       }
@@ -132,7 +148,10 @@
       "forms": [
         "亻"
       ],
-      "meaning": "man, human"
+      "meaning": {
+        "en": "man, human",
+        "vi": "người, con người"
+      }
     },
     "parts": [
       "化",

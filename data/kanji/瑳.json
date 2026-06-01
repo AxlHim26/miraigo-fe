@@ -6,7 +6,10 @@
     "found": true,
     "jlptLevel": "N1",
     "strokeCount": 14,
-    "meaning": "polish, brilliant white luster of a gem, artful smile",
+    "meaning": {
+      "en": "polish, brilliant white luster of a gem, artful smile",
+      "vi": "mài giũa, ánh trắng rực của ngọc, nụ cười duyên"
+    },
     "kunyomi": [
       "みが.く"
     ],
@@ -18,7 +21,8 @@
         "example": "切磋",
         "reading": "セッサ",
         "meaning": {
-          "vi": "working hard, applying oneself, cultivating one's character (through hard work or study), polishing (stones)"
+          "vi": "working hard, applying oneself, cultivating one's character (through hard work or study), polishing (stones)",
+          "en": "working hard, applying oneself, cultivating one's character (through hard work or study), polishing (stones)"
         },
         "romaji": "sessa"
       }
@@ -29,7 +33,10 @@
       "forms": [
         "王"
       ],
-      "meaning": "jade (king)"
+      "meaning": {
+        "en": "jade (king)",
+        "vi": "ngọc (vương)"
+      }
     },
     "parts": [
       "ノ",
@@ -45,5 +52,7 @@
   },
   "hanViet": [
     "tha"
-  ]
+  ],
+  "jlpt": "N1",
+  "mnemonic_vi": "Ngọc được mài giũa nhiều lần nên phát ánh trắng đẹp và nụ cười cũng trở nên duyên."
 }

@@ -4,8 +4,12 @@
   "jishoData": {
     "query": "凋",
     "found": true,
+    "jlptLevel": null,
     "strokeCount": 10,
-    "meaning": "wither, droop, lame",
+    "meaning": {
+      "en": "wither, droop, lame",
+      "vi": "héo úa, rũ xuống, khập khiễng"
+    },
     "kunyomi": [
       "しぼ.む"
     ],
@@ -17,7 +21,8 @@
         "example": "凋残",
         "reading": "チョウザン",
         "meaning": {
-          "en": "ruined, withered"
+          "en": "ruined, withered",
+          "vi": "tàn tạ, héo úa"
         },
         "romaji": "chouzan"
       },
@@ -25,7 +30,8 @@
         "example": "凋尽",
         "reading": "チョウジン",
         "meaning": {
-          "en": "withering, decay, decline"
+          "en": "withering, decay, decline",
+          "vi": "sự héo tàn, suy tàn, sa sút"
         },
         "romaji": "choujin"
       },
@@ -33,7 +39,8 @@
         "example": "萎凋",
         "reading": "イチョウ",
         "meaning": {
-          "en": "wilting, withering, wilting tea leaves after harvest"
+          "en": "wilting, withering, wilting tea leaves after harvest",
+          "vi": "sự héo úa, làm héo, làm héo lá trà sau khi hái"
         },
         "romaji": "ichou"
       }
@@ -43,14 +50,18 @@
         "example": "萎む",
         "reading": "しぼむ",
         "meaning": {
-          "vi": "to wither (of flowers, dreams, etc.), to wilt, to droop, to shrivel, to fade (away), to sag, to deflate"
+          "vi": "to wither (of flowers, dreams, etc.), to wilt, to droop, to shrivel, to fade (away), to sag, to deflate",
+          "en": "to wither (of flowers, dreams, etc.), to wilt, to droop, to shrivel, to fade (away), to sag, to deflate"
         },
         "romaji": "shibomu"
       }
     ],
     "radical": {
       "symbol": "冫",
-      "meaning": "ice"
+      "meaning": {
+        "en": "ice",
+        "vi": "băng"
+      }
     },
     "parts": [
       "冂",
@@ -65,5 +76,6 @@
   },
   "hanViet": [
     "điêu"
-  ]
+  ],
+  "mnemonic_vi": "Băng 冫 đi với chu 周, gợi cảnh cây cỏ gặp lạnh rồi tàn úa, điêu tàn."
 }

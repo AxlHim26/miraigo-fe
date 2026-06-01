@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "suku, suko, sukunai, sukoshi",
-    "meaning": "little",
+    "meaning": {
+      "en": "little",
+      "vi": "ít"
+    },
     "kstroke": 4,
     "examples": [
       {
         "japanese": "少々（しょうしょう）",
         "meaning": {
-          "english": "small quantity, a little"
+          "english": "small quantity, a little",
+          "en": "small quantity, a little",
+          "vi": "small quantity, a little"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "少数（しょうすう）",
         "meaning": {
-          "english": "minority"
+          "english": "minority",
+          "en": "minority",
+          "vi": "minority"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "少量（しょうりょう）",
         "meaning": {
-          "english": "small quantity"
+          "english": "small quantity",
+          "en": "small quantity",
+          "vi": "small quantity"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "少額（しょうがく）",
         "meaning": {
-          "english": "small sum (of money)"
+          "english": "small sum (of money)",
+          "en": "small sum (of money)",
+          "vi": "small sum (of money)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "多少（たしょう）",
         "meaning": {
-          "english": "more or less"
+          "english": "more or less",
+          "en": "more or less",
+          "vi": "more or less"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "少年（しょうねん）",
         "meaning": {
-          "english": "boy"
+          "english": "boy",
+          "en": "boy",
+          "vi": "boy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "減少する（げんしょうする）",
         "meaning": {
-          "english": "decrease [v.i.]"
+          "english": "decrease [v.i.]",
+          "en": "decrease [v.i.]",
+          "vi": "decrease [v.i.]"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_g.opus",
@@ -97,7 +114,9 @@
       {
         "japanese": "少ない（すくない）",
         "meaning": {
-          "english": "a few, a little"
+          "english": "a few, a little",
+          "en": "a few, a little",
+          "vi": "a few, a little"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_h.opus",
@@ -109,7 +128,9 @@
       {
         "japanese": "少なくとも（すくなくとも）",
         "meaning": {
-          "english": "at least"
+          "english": "at least",
+          "en": "at least",
+          "vi": "at least"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_i.opus",
@@ -121,7 +142,9 @@
       {
         "japanese": "少し（すこし）",
         "meaning": {
-          "english": "small quantity, a little"
+          "english": "small quantity, a little",
+          "en": "small quantity, a little",
+          "vi": "small quantity, a little"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/suko(shi)_06_j.opus",
@@ -274,7 +297,9 @@
     "kanji": {
       "character": "少",
       "meaning": {
-        "english": "little"
+        "english": "little",
+        "en": "little",
+        "vi": "ít"
       },
       "strokes": {
         "count": 4,
@@ -320,7 +345,9 @@
         "romaji": "shou"
       },
       "meaning": {
-        "english": "small"
+        "english": "small",
+        "en": "small",
+        "vi": "small"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/shou0.svg",
@@ -341,7 +368,10 @@
     "jlptLevel": "N4",
     "newspaperFrequencyRank": "287",
     "strokeCount": 4,
-    "meaning": "few, little",
+    "meaning": {
+      "en": "few, little",
+      "vi": "ít, một ít"
+    },
     "kunyomi": [
       "すく.ない",
       "すこ.し"
@@ -354,7 +384,8 @@
         "example": "少",
         "reading": "ショウ",
         "meaning": {
-          "en": "small, little, few"
+          "en": "small, little, few",
+          "vi": "small, little, few"
         },
         "romaji": "shou"
       },
@@ -362,7 +393,8 @@
         "example": "少輔",
         "reading": "ショウ",
         "meaning": {
-          "vi": "assistant vice-minister (ritsuryō system, early Meiji period)"
+          "vi": "assistant vice-minister (ritsuryō system, early Meiji period)",
+          "en": "assistant vice-minister (ritsuryō system, early Meiji period)"
         },
         "romaji": "shou"
       },
@@ -370,7 +402,8 @@
         "example": "最少",
         "reading": "サイショウ",
         "meaning": {
-          "en": "fewest, least, smallest (number), lowest, minimum, youngest"
+          "en": "fewest, least, smallest (number), lowest, minimum, youngest",
+          "vi": "fewest, least, smallest (number), lowest, minimum, youngest"
         },
         "romaji": "saishou"
       },
@@ -378,7 +411,8 @@
         "example": "過少",
         "reading": "カショウ",
         "meaning": {
-          "en": "too few, too little, insufficient"
+          "en": "too few, too little, insufficient",
+          "vi": "too few, too little, insufficient"
         },
         "romaji": "kashou"
       }
@@ -388,7 +422,8 @@
         "example": "少ない",
         "reading": "すくない",
         "meaning": {
-          "en": "few, little, small (amount), low, scarce, insufficient, seldom, rare"
+          "en": "few, little, small (amount), low, scarce, insufficient, seldom, rare",
+          "vi": "few, little, small (amount), low, scarce, insufficient, seldom, rare"
         },
         "romaji": "sukunai"
       },
@@ -396,7 +431,8 @@
         "example": "少し",
         "reading": "すこし",
         "meaning": {
-          "en": "a little, a bit, a small amount, a few, some, slightly, somewhat, a little while, a short time, a moment, a minute, a little way, a short distance"
+          "en": "a little, a bit, a small amount, a few, some, slightly, somewhat, a little while, a short time, a moment, a minute, a little way, a short distance",
+          "vi": "a little, a bit, a small amount, a few, some, slightly, somewhat, a little while, a short time, a moment, a minute, a little way, a short distance"
         },
         "romaji": "sukoshi"
       },
@@ -404,14 +440,18 @@
         "example": "少しも",
         "reading": "すこしも",
         "meaning": {
-          "en": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest"
+          "en": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest",
+          "vi": "(not) at all, (not) a bit, (not) in the least, (not) in the slightest"
         },
         "romaji": "sukoshimo"
       }
     ],
     "radical": {
       "symbol": "小",
-      "meaning": "small, insignificant"
+      "meaning": {
+        "en": "small, insignificant",
+        "vi": "nhỏ, không đáng kể"
+      }
     },
     "parts": [
       "ノ",
@@ -425,5 +465,7 @@
   "hanViet": [
     "thiếu",
     "thiểu"
-  ]
+  ],
+  "jlpt_level": "N4",
+  "mnemonic_vi": "Gợi ý cách nhớ: 少 là chữ nhỏ với nét chấm bị bớt đi, nên mang nghĩa ít."
 }

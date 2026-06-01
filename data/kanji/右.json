@@ -7,13 +7,18 @@
     "grade": 1,
     "hint_group": 2,
     "kunyomi": "migi",
-    "meaning": "right",
+    "meaning": {
+      "en": "right",
+      "vi": "bên phải"
+    },
     "kstroke": 5,
     "examples": [
       {
         "japanese": "右折する（うせつする）",
         "meaning": {
-          "english": "turn to the right"
+          "english": "turn to the right",
+          "en": "turn to the right",
+          "vi": "rẽ phải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/migi_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "右派（うは）",
         "meaning": {
-          "english": "(political) right wing"
+          "english": "(political) right wing",
+          "en": "(political) right wing",
+          "vi": "cánh hữu (chính trị)"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/migi_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "左右する（さゆうする）",
         "meaning": {
-          "english": "influence, control, command"
+          "english": "influence, control, command",
+          "en": "influence, control, command",
+          "vi": "ảnh hưởng, kiểm soát, chỉ huy"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/migi_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "右（みぎ）",
         "meaning": {
-          "english": "right"
+          "english": "right",
+          "en": "right",
+          "vi": "bên phải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/migi_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "右手（みぎて）",
         "meaning": {
-          "english": "right hand, right side"
+          "english": "right hand, right side",
+          "en": "right hand, right side",
+          "vi": "tay phải, phía bên phải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/migi_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "右側（みぎがわ）",
         "meaning": {
-          "english": "right side"
+          "english": "right side",
+          "en": "right side",
+          "vi": "phía bên phải"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/migi_06_f.opus",
@@ -212,7 +227,9 @@
     "kanji": {
       "character": "右",
       "meaning": {
-        "english": "right"
+        "english": "right",
+        "en": "right",
+        "vi": "bên phải"
       },
       "strokes": {
         "count": 5,
@@ -260,7 +277,9 @@
         "romaji": "kuchi"
       },
       "meaning": {
-        "english": "mouth"
+        "english": "mouth",
+        "en": "mouth",
+        "vi": "miệng"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/kuchi0.svg",
@@ -281,7 +300,10 @@
     "jlptLevel": "N5",
     "newspaperFrequencyRank": "602",
     "strokeCount": 5,
-    "meaning": "right",
+    "meaning": {
+      "en": "right",
+      "vi": "bên phải"
+    },
     "kunyomi": [
       "みぎ"
     ],
@@ -294,7 +316,8 @@
         "example": "右中間",
         "reading": "ウチュウカン",
         "meaning": {
-          "en": "between right and center fielders (centre)"
+          "en": "between right and center fielders (centre)",
+          "vi": "khoảng giữa hậu vệ phải và trung tâm"
         },
         "romaji": "uchuukan"
       },
@@ -302,7 +325,8 @@
         "example": "右側",
         "reading": "ミギガワ",
         "meaning": {
-          "en": "right side, right-hand side"
+          "en": "right side, right-hand side",
+          "vi": "phía phải, bên tay phải"
         },
         "romaji": "migigawa"
       },
@@ -310,7 +334,8 @@
         "example": "極右",
         "reading": "キョクウ",
         "meaning": {
-          "vi": "far right (in politics), extreme right, ultraconservative"
+          "vi": "cực hữu, phe cực hữu, siêu bảo thủ",
+          "en": "far right (in politics), extreme right, ultraconservative"
         },
         "romaji": "kyokuu"
       },
@@ -318,7 +343,8 @@
         "example": "最右",
         "reading": "サイウ",
         "meaning": {
-          "en": "right-most, rightmost"
+          "en": "right-most, rightmost",
+          "vi": "ngoài cùng bên phải"
         },
         "romaji": "saiu"
       },
@@ -326,7 +352,8 @@
         "example": "右筆",
         "reading": "ユウヒツ",
         "meaning": {
-          "vi": "private secretary, amanuensis"
+          "vi": "thư ký riêng, người chép thuê",
+          "en": "private secretary, amanuensis"
         },
         "romaji": "yuuhitsu"
       },
@@ -334,7 +361,8 @@
         "example": "右文",
         "reading": "ユウブン",
         "meaning": {
-          "vi": "respect for literary culture"
+          "vi": "sự tôn trọng văn hóa văn chương",
+          "en": "respect for literary culture"
         },
         "romaji": "yuubun"
       },
@@ -342,7 +370,8 @@
         "example": "上下左右",
         "reading": "ジョウゲサユウ",
         "meaning": {
-          "vi": "up and down, left and right, top and bottom, left and right"
+          "vi": "trên dưới, trái phải, trên và dưới, trái và phải",
+          "en": "up and down, left and right, top and bottom, left and right"
         },
         "romaji": "jougesayuu"
       }
@@ -352,7 +381,8 @@
         "example": "右",
         "reading": "みぎ",
         "meaning": {
-          "vi": "right, right-hand side, right hand, the above (in a piece of vertical writing), above-mentioned, the right (wing), rightist, the better (of two)"
+          "vi": "bên phải, phía tay phải, tay phải, phần ở trên trong văn viết dọc, điều đã nêu ở trên, cánh hữu, người cánh hữu, phía tốt hơn trong hai bên",
+          "en": "right, right-hand side, right hand, the above (in a piece of vertical writing), above-mentioned, the right (wing), rightist, the better (of two)"
         },
         "romaji": "migi"
       },
@@ -360,7 +390,8 @@
         "example": "右腕",
         "reading": "みぎうで",
         "meaning": {
-          "vi": "right arm, right-hand man, right hand, right-hand person, right-handed pitcher"
+          "vi": "cánh tay phải, cánh tay đắc lực, trợ thủ đắc lực, người thuận tay phải, tay ném thuận phải",
+          "en": "right arm, right-hand man, right hand, right-hand person, right-handed pitcher"
         },
         "romaji": "migiude"
       },
@@ -368,7 +399,8 @@
         "example": "上右",
         "reading": "うえみぎ",
         "meaning": {
-          "vi": "upper right (corner)"
+          "vi": "góc trên bên phải",
+          "en": "upper right (corner)"
         },
         "romaji": "uemigi"
       },
@@ -376,14 +408,18 @@
         "example": "下右",
         "reading": "したみぎ",
         "meaning": {
-          "en": "lower right (corner)"
+          "en": "lower right (corner)",
+          "vi": "góc dưới bên phải"
         },
         "romaji": "shitamigi"
       }
     ],
     "radical": {
       "symbol": "口",
-      "meaning": "mouth, opening"
+      "meaning": {
+        "en": "mouth, opening",
+        "vi": "miệng, lỗ mở"
+      }
     },
     "parts": [
       "ノ",
@@ -395,6 +431,8 @@
     "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f3.gif",
     "uri": "https://jisho.org/search/%E5%8F%B3%23kanji"
   },
+  "jlpt": "N5",
+  "mnemonic_vi": "Gợi ý cách nhớ: tay phải thường cầm đũa đưa vào miệng 口, nên 右 là bên phải.",
   "hanViet": [
     "hữu"
   ]

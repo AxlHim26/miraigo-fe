@@ -7,13 +7,18 @@
     "grade": 2,
     "hint_group": 1,
     "kunyomi": "katana",
-    "meaning": "sword",
+    "meaning": {
+      "en": "sword",
+      "vi": "kiếm"
+    },
     "kstroke": 2,
     "examples": [
       {
         "japanese": "刀剣（とうけん）",
         "meaning": {
-          "english": "swords"
+          "english": "swords",
+          "en": "swords",
+          "vi": "các thanh kiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_a.opus",
@@ -25,7 +30,9 @@
       {
         "japanese": "刀身（とうしん）",
         "meaning": {
-          "english": "sword blade"
+          "english": "sword blade",
+          "en": "sword blade",
+          "vi": "lưỡi kiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_b.opus",
@@ -37,7 +44,9 @@
       {
         "japanese": "名刀（めいとう）",
         "meaning": {
-          "english": "famous sword, excellent sword"
+          "english": "famous sword, excellent sword",
+          "en": "famous sword, excellent sword",
+          "vi": "thanh kiếm nổi tiếng, kiếm quý"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_c.opus",
@@ -49,7 +58,9 @@
       {
         "japanese": "短刀（たんとう）",
         "meaning": {
-          "english": "short sword, dagger, dirk"
+          "english": "short sword, dagger, dirk",
+          "en": "short sword, dagger, dirk",
+          "vi": "đoản kiếm, dao găm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_d.opus",
@@ -61,7 +72,9 @@
       {
         "japanese": "日本刀（にほんとう）",
         "meaning": {
-          "english": "Japanese sword"
+          "english": "Japanese sword",
+          "en": "Japanese sword",
+          "vi": "kiếm Nhật"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_e.opus",
@@ -73,7 +86,9 @@
       {
         "japanese": "刀（かたな）",
         "meaning": {
-          "english": "sword, blade"
+          "english": "sword, blade",
+          "en": "sword, blade",
+          "vi": "kiếm, lưỡi dao"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_f.opus",
@@ -85,7 +100,9 @@
       {
         "japanese": "小刀（こがたな）",
         "meaning": {
-          "english": "small knife, short sword"
+          "english": "small knife, short sword",
+          "en": "small knife, short sword",
+          "vi": "dao nhỏ, đoản kiếm"
         },
         "audio": {
           "opus": "https://media.kanjialive.com/examples_audio/audio-opus/katana_06_g.opus",
@@ -177,7 +194,9 @@
     "kanji": {
       "character": "刀",
       "meaning": {
-        "english": "sword"
+        "english": "sword",
+        "en": "sword",
+        "vi": "kiếm"
       },
       "strokes": {
         "count": 2,
@@ -219,7 +238,9 @@
         "romaji": "katana"
       },
       "meaning": {
-        "english": "knife, sword"
+        "english": "knife, sword",
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
       },
       "animation": [
         "https://media.kanjialive.com/rad_frames/katana0.svg",
@@ -240,7 +261,10 @@
     "jlptLevel": "N1",
     "newspaperFrequencyRank": "1794",
     "strokeCount": 2,
-    "meaning": "sword, saber, knife",
+    "meaning": {
+      "en": "sword, saber, knife",
+      "vi": "kiếm, đao, dao"
+    },
     "kunyomi": [
       "かたな",
       "そり"
@@ -253,7 +277,8 @@
         "example": "刀",
         "reading": "カタナ",
         "meaning": {
-          "vi": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China)"
+          "vi": "kiếm (đặc biệt là kiếm Nhật một lưỡi), katana, dao mổ, đục, dao khắc, tiền dao (tiền hàng hóa hình dao dùng ở Trung Hoa cổ)",
+          "en": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China)"
         },
         "romaji": "katana"
       },
@@ -261,7 +286,8 @@
         "example": "刀剣",
         "reading": "トウケン",
         "meaning": {
-          "en": "sword, dagger, knife, bayonet"
+          "en": "sword, dagger, knife, bayonet",
+          "vi": "kiếm, dao găm, dao, lưỡi lê"
         },
         "romaji": "touken"
       },
@@ -269,7 +295,8 @@
         "example": "小刀",
         "reading": "コガタナ",
         "meaning": {
-          "en": "(small) knife, short sword, small sword"
+          "en": "(small) knife, short sword, small sword",
+          "vi": "dao nhỏ, đoản kiếm, kiếm nhỏ"
         },
         "romaji": "kogatana"
       },
@@ -277,7 +304,8 @@
         "example": "大刀",
         "reading": "ダイトウ",
         "meaning": {
-          "vi": "(Japanese) long sword, large sword, guandao, Chinese glaive"
+          "vi": "trường kiếm (Nhật), đại kiếm, quan đao, thanh đao dài của Trung Quốc",
+          "en": "(Japanese) long sword, large sword, guandao, Chinese glaive"
         },
         "romaji": "daitou"
       }
@@ -287,7 +315,8 @@
         "example": "刀",
         "reading": "かたな",
         "meaning": {
-          "vi": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China)"
+          "vi": "kiếm (đặc biệt là kiếm Nhật một lưỡi), katana, dao mổ, đục, dao khắc, tiền dao (tiền hàng hóa hình dao dùng ở Trung Hoa cổ)",
+          "en": "sword (esp. Japanese single-edged), katana, scalpel, chisel, burin, graver, knife money (knife-shaped commodity money used in ancient China)"
         },
         "romaji": "katana"
       },
@@ -295,7 +324,8 @@
         "example": "刀折れ矢尽きて",
         "reading": "かたなおれやつきて",
         "meaning": {
-          "en": "having exhausted every available means, having broken one's sword and exhausted one's arrows"
+          "en": "having exhausted every available means, having broken one's sword and exhausted one's arrows",
+          "vi": "đã dùng hết mọi cách, cạn sạch phương kế"
         },
         "romaji": "katanaoreyatsukite"
       },
@@ -303,7 +333,8 @@
         "example": "一刀",
         "reading": "いっとう",
         "meaning": {
-          "en": "sword, blade, single stroke"
+          "en": "sword, blade, single stroke",
+          "vi": "kiếm, lưỡi kiếm, một nhát chém"
         },
         "romaji": "ittou"
       },
@@ -311,7 +342,8 @@
         "example": "返す刀",
         "reading": "かえすかたな",
         "meaning": {
-          "vi": "attacking one opponent then immediately attacking another"
+          "vi": "đánh một đối thủ rồi lập tức đánh sang đối thủ khác",
+          "en": "attacking one opponent then immediately attacking another"
         },
         "romaji": "kaesukatana"
       },
@@ -319,7 +351,8 @@
         "example": "剃刀",
         "reading": "かみそり",
         "meaning": {
-          "en": "razor"
+          "en": "razor",
+          "vi": "dao cạo"
         },
         "romaji": "kamisori"
       },
@@ -327,7 +360,8 @@
         "example": "オッカムの剃刀",
         "reading": "オッカムのかみそり",
         "meaning": {
-          "en": "Occam's razor, Ockham's razor"
+          "en": "Occam's razor, Ockham's razor",
+          "vi": "dao cạo Occam"
         },
         "romaji": "okkamunokamisori"
       }
@@ -337,7 +371,10 @@
       "forms": [
         "刂"
       ],
-      "meaning": "knife, sword"
+      "meaning": {
+        "en": "knife, sword",
+        "vi": "dao, kiếm"
+      }
     },
     "parts": [
       "刀"
@@ -349,5 +386,7 @@
   },
   "hanViet": [
     "đao"
-  ]
+  ],
+  "mnemonic_vi": "Gợi ý cách nhớ: 刀 chính là hình một lưỡi dao cong sắc.",
+  "jlpt": "N1"
 }
