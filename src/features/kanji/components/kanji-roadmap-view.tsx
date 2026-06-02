@@ -100,7 +100,12 @@ const buildOrbitArcPath = (placement: OrbitPlacement) => {
   return `M ${startX} ${startY} A ${radiusX} ${radiusY} 0 1 1 ${endX} ${endY}`;
 };
 
-const getNodeStyles = (state: DayState, level: KanjiRoadmapLevel, isHovered: boolean) => {
+const getNodeStyles = (
+  state: DayState,
+  level: KanjiRoadmapLevel,
+  isHovered: boolean,
+  isDark: boolean,
+) => {
   if (state === "complete") {
     return {
       background: `linear-gradient(135deg, ${level.palette.solid}, ${withAlpha(level.palette.solid, 0.78)})`,
@@ -114,9 +119,11 @@ const getNodeStyles = (state: DayState, level: KanjiRoadmapLevel, isHovered: boo
 
   if (state === "current") {
     return {
-      background: `linear-gradient(135deg, #ffffff, ${level.palette.soft})`,
-      borderColor: withAlpha(level.palette.solid, 0.22),
-      color: level.palette.solid,
+      background: isDark
+        ? `linear-gradient(135deg, ${withAlpha(level.palette.solid, 0.18)}, ${withAlpha(level.palette.solid, 0.12)})`
+        : `linear-gradient(135deg, #ffffff, ${level.palette.soft})`,
+      borderColor: withAlpha(level.palette.solid, isDark ? 0.32 : 0.22),
+      color: isDark ? level.palette.solid : level.palette.solid,
       boxShadow: isHovered
         ? `0 30px 70px -34px ${withAlpha(level.palette.solid, 0.72)}`
         : `0 24px 60px -36px ${withAlpha(level.palette.solid, 0.56)}`,
@@ -124,12 +131,14 @@ const getNodeStyles = (state: DayState, level: KanjiRoadmapLevel, isHovered: boo
   }
 
   return {
-    background: "rgba(255,255,255,0.92)",
-    borderColor: "rgba(148,163,184,0.28)",
-    color: "#64748b",
+    background: isDark ? "rgba(30,41,59,0.92)" : "rgba(255,255,255,0.92)",
+    borderColor: isDark ? "rgba(100,116,139,0.28)" : "rgba(148,163,184,0.28)",
+    color: isDark ? "#94a3b8" : "#64748b",
     boxShadow: isHovered
       ? `0 20px 50px -36px ${withAlpha(level.palette.solid, 0.45)}`
-      : "0 20px 44px -38px rgba(15,23,42,0.6)",
+      : isDark
+        ? "0 20px 44px -38px rgba(0,0,0,0.8)"
+        : "0 20px 44px -38px rgba(15,23,42,0.6)",
   };
 };
 
@@ -191,8 +200,18 @@ const buildRoadmapNodes = (
 export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiRoadmapViewProps) {
   const [activeLevelId, setActiveLevelId] = React.useState(defaultKanjiRoadmapLevelId);
   const [hoveredDayId, setHoveredDayId] = React.useState<string | null>(null);
+  const [isDark, setIsDark] = React.useState(false);
   const viewportRef = React.useRef<HTMLDivElement | null>(null);
   const fallbackLevel = levels[0];
+
+  React.useEffect(() => {
+    setIsDark(document.documentElement.classList.contains("dark"));
+    const observer = new MutationObserver(() => {
+      setIsDark(document.documentElement.classList.contains("dark"));
+    });
+    observer.observe(document.documentElement, { attributes: true, attributeFilter: ["class"] });
+    return () => observer.disconnect();
+  }, []);
 
   const activeLevel = React.useMemo(
     () => levels.find((level) => level.id === activeLevelId) ?? fallbackLevel,
@@ -260,14 +279,22 @@ export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiR
                 )}
                 style={{
                   borderColor: isActive
-                    ? withAlpha(level.palette.solid, 0.18)
-                    : "rgba(148,163,184,0.18)",
+                    ? withAlpha(level.palette.solid, isDark ? 0.28 : 0.18)
+                    : isDark
+                      ? "rgba(100,116,139,0.28)"
+                      : "rgba(148,163,184,0.18)",
                   background: isActive
-                    ? `linear-gradient(135deg, rgba(255,255,255,0.98), ${level.palette.soft})`
-                    : "rgba(255,255,255,0.72)",
+                    ? isDark
+                      ? `linear-gradient(135deg, ${withAlpha(level.palette.solid, 0.15)}, ${withAlpha(level.palette.solid, 0.08)})`
+                      : `linear-gradient(135deg, rgba(255,255,255,0.98), ${level.palette.soft})`
+                    : isDark
+                      ? "rgba(30,41,59,0.7)"
+                      : "rgba(255,255,255,0.72)",
                   boxShadow: isActive
                     ? `0 26px 55px -38px ${withAlpha(level.palette.solid, 0.62)}`
-                    : "0 18px 42px -38px rgba(15,23,42,0.48)",
+                    : isDark
+                      ? "0 18px 42px -38px rgba(0,0,0,0.6)"
+                      : "0 18px 42px -38px rgba(15,23,42,0.48)",
                 }}
               >
                 <div className="flex items-start justify-between gap-3">
@@ -296,11 +323,13 @@ export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiR
                   >
                     <div
                       className="text-2xl font-black"
-                      style={{ color: isActive ? level.palette.solid : "#334155" }}
+                      style={{
+                        color: isActive ? level.palette.solid : isDark ? "#94a3b8" : "#334155",
+                      }}
                     >
                       {level.progress}%
                     </div>
-                    <div className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500">
+                    <div className="text-[11px] font-semibold uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">
                       Done
                     </div>
                   </div>
@@ -323,9 +352,11 @@ export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiR
 
       <Paper
         elevation={0}
-        className="overflow-hidden rounded-[36px] border border-[var(--app-border)] bg-white shadow-[0_30px_70px_-44px_rgba(15,23,42,0.55)]"
+        className="overflow-hidden rounded-[36px] border border-[var(--app-border)] bg-white shadow-[0_30px_70px_-44px_rgba(15,23,42,0.55)] dark:bg-slate-950"
         style={{
-          background: `linear-gradient(180deg, rgba(255,255,255,0.98), ${activeLevel.palette.shell})`,
+          background: `linear-gradient(180deg, ${
+            isDark ? "rgba(3,7,18,0.98)" : "rgba(255,255,255,0.98)"
+          }, ${isDark ? "rgba(15,23,39,0.96)" : activeLevel.palette.shell})`,
         }}
       >
         <div
@@ -339,13 +370,13 @@ export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiR
               style={{
                 background: `
                   radial-gradient(circle at 14% 18%, ${withAlpha(activeLevel.palette.solid, 0.12)}, transparent 28%),
-                  radial-gradient(circle at 84% 14%, rgba(255,255,255,0.98), transparent 25%),
+                  radial-gradient(circle at 84% 14%, ${isDark ? "rgba(50,65,90,0.98)" : "rgba(255,255,255,0.98)"}, transparent 25%),
                   radial-gradient(circle at 68% 78%, ${withAlpha(activeLevel.palette.solid, 0.08)}, transparent 34%)
                 `,
               }}
             />
 
-            <div className="bg-white/34 pointer-events-none absolute inset-[22px] rounded-[32px] border border-white/70 backdrop-blur-[2px]" />
+            <div className="bg-white/34 pointer-events-none absolute inset-[22px] rounded-[32px] border border-white/70 backdrop-blur-[2px] dark:border-slate-700/50 dark:bg-slate-900/20" />
 
             <div className="absolute inset-[22px]">
               <svg
@@ -372,7 +403,9 @@ export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiR
                           ? withAlpha(activeLevel.palette.solid, 0.72)
                           : segmentState === "current"
                             ? withAlpha(activeLevel.palette.solid, 0.54)
-                            : "rgba(148,163,184,0.4)"
+                            : isDark
+                              ? "rgba(100,116,139,0.5)"
+                              : "rgba(148,163,184,0.4)"
                       }
                       strokeWidth={1.3}
                       strokeDasharray={segmentState === "upcoming" ? "5 9" : "6 7"}
@@ -385,7 +418,7 @@ export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiR
               {nodes.map((node) => {
                 const state = getDayState(node.day, activeLevel.currentDay);
                 const isHovered = hoveredDayId === node.id;
-                const nodeStyle = getNodeStyles(state, activeLevel, isHovered);
+                const nodeStyle = getNodeStyles(state, activeLevel, isHovered, isDark);
 
                 return (
                   <div
@@ -425,7 +458,7 @@ export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiR
                           <div
                             key={`${node.id}-${kanji}-${index}`}
                             className={cn(
-                              "absolute flex h-10 w-10 items-center justify-center rounded-full border text-base font-semibold text-slate-900 shadow-[0_20px_35px_-28px_rgba(15,23,42,0.9)] transition duration-300 sm:h-11 sm:w-11 sm:text-lg",
+                              "absolute flex h-10 w-10 items-center justify-center rounded-full border text-base font-semibold text-slate-900 shadow-[0_20px_35px_-28px_rgba(15,23,42,0.9)] transition duration-300 dark:text-slate-100 sm:h-11 sm:w-11 sm:text-lg",
                               isHovered ? "scale-100 opacity-100" : "scale-75 opacity-0",
                             )}
                             style={{
@@ -433,7 +466,9 @@ export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiR
                               top: "50%",
                               transform: `translate(calc(-50% + ${orbit.x}px), calc(-50% + ${orbit.y}px))`,
                               transitionDelay: isHovered ? `${index * 18}ms` : "0ms",
-                              backgroundColor: "rgba(255,255,255,0.96)",
+                              backgroundColor: isDark
+                                ? "rgba(30,41,59,0.96)"
+                                : "rgba(255,255,255,0.96)",
                               borderColor: withAlpha(activeLevel.palette.solid, 0.15),
                             }}
                           >
@@ -487,22 +522,22 @@ export default function KanjiRoadmapView({ levels = kanjiRoadmapLevels }: KanjiR
         </div>
 
         <div className="flex flex-wrap gap-2 px-4 pb-4 pt-3 sm:px-6 sm:pb-6 lg:px-8">
-          <div className="bg-white/92 inline-flex items-center gap-2 rounded-full border border-slate-200 px-3 py-2 text-xs font-semibold text-slate-600 shadow-[0_18px_36px_-30px_rgba(15,23,42,0.8)]">
+          <div className="bg-white/92 dark:bg-slate-900/92 inline-flex items-center gap-2 rounded-full border border-slate-200 px-3 py-2 text-xs font-semibold text-slate-600 shadow-[0_18px_36px_-30px_rgba(15,23,42,0.8)] dark:border-slate-700 dark:text-slate-300">
             <span
               className="h-2.5 w-2.5 rounded-full"
               style={{ backgroundColor: activeLevel.palette.solid }}
             />
             Đã đi qua
           </div>
-          <div className="bg-white/92 inline-flex items-center gap-2 rounded-full border border-slate-200 px-3 py-2 text-xs font-semibold text-slate-600 shadow-[0_18px_36px_-30px_rgba(15,23,42,0.8)]">
+          <div className="bg-white/92 dark:bg-slate-900/92 inline-flex items-center gap-2 rounded-full border border-slate-200 px-3 py-2 text-xs font-semibold text-slate-600 shadow-[0_18px_36px_-30px_rgba(15,23,42,0.8)] dark:border-slate-700 dark:text-slate-300">
             <span
               className="h-2.5 w-2.5 rounded-full border-2"
               style={{ borderColor: activeLevel.palette.solid }}
             />
             Đang học
           </div>
-          <div className="bg-white/92 inline-flex items-center gap-2 rounded-full border border-slate-200 px-3 py-2 text-xs font-semibold text-slate-600 shadow-[0_18px_36px_-30px_rgba(15,23,42,0.8)]">
-            <span className="h-2.5 w-2.5 rounded-full bg-slate-300" />
+          <div className="bg-white/92 dark:bg-slate-900/92 inline-flex items-center gap-2 rounded-full border border-slate-200 px-3 py-2 text-xs font-semibold text-slate-600 shadow-[0_18px_36px_-30px_rgba(15,23,42,0.8)] dark:border-slate-700 dark:text-slate-300">
+            <span className="h-2.5 w-2.5 rounded-full bg-slate-300 dark:bg-slate-600" />
             Sắp tới
           </div>
         </div>
