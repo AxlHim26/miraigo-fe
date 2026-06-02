@@ -9,7 +9,6 @@ export const runtime = "nodejs";
 
 const payloadSchema = z.object({
   proficiencyLevel: readingLevelSchema,
-  topic: z.string().max(200).optional(),
 });
 
 const optionIds = ["A", "B", "C", "D"] as const;
@@ -257,11 +256,10 @@ const isJapaneseQuestionSet = (exercise: NormalizedExercise) =>
       question.options.every((option) => japanesePattern.test(option)),
   );
 
-const buildPrompt = (level: z.infer<typeof readingLevelSchema>, topic?: string) =>
+const buildPrompt = (level: z.infer<typeof readingLevelSchema>) =>
   [
     "Bạn là người tạo đề luyện đọc tiếng Nhật cho học viên Việt Nam.",
     `Trình độ mục tiêu: ${level}. ${levelGuideline[level]}`,
-    topic ? `Chủ đề/Yêu cầu nội dung: ${topic}` : "",
     "Hãy tạo 1 bài đọc ngắn kèm câu hỏi trắc nghiệm.",
     "Yêu cầu bắt buộc:",
     "- Bài đọc bằng tiếng Nhật, 6-10 câu, mạch nội dung liền nhau.",
@@ -273,9 +271,7 @@ const buildPrompt = (level: z.infer<typeof readingLevelSchema>, topic?: string) 
     "Trả về đúng JSON object theo cấu trúc:",
     '{"title":"...","passage":"line1\\nline2...","questions":[{"question":"...","options":["...","...","...","..."],"answerIndex":0,"explanationVi":"...","explanationJa":"..."}]}',
     "Không dùng markdown. Không thêm text ngoài JSON object.",
-  ]
-    .filter(Boolean)
-    .join("\n");
+  ].join("\n");
 
 const buildRepairPrompt = (rawContent: string, level: z.infer<typeof readingLevelSchema>) =>
   [
@@ -321,7 +317,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ message: "Payload không hợp lệ." }, { status: 400 });
   }
 
-  const { proficiencyLevel: level, topic } = parsedPayload.data;
+  const level = parsedPayload.data.proficiencyLevel;
 
   try {
     const firstContent = await requestOpenRouterContent({
@@ -332,7 +328,7 @@ export async function POST(request: Request) {
         },
         {
           role: "user",
-          content: buildPrompt(level, topic),
+          content: buildPrompt(level),
         },
       ],
       temperature: 0.7,

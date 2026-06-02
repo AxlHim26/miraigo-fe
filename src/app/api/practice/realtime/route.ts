@@ -106,7 +106,7 @@ const createOpenRouterStream = async (
     return {
       ok: false,
       status: 500,
-      error: "Thiếu OPENROUTER_API_KEY trong .env.local.",
+      error: "Thiếu OPENROUTER_API_KEY trong .env",
     };
   }
 
