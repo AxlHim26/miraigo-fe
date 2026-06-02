@@ -3,16 +3,18 @@ import path from "node:path";
 
 import { NextResponse } from "next/server";
 
-import { buildMegaLlmChatCompletionsUrl } from "@/lib/megallm";
+import { buildOpenRouterChatCompletionsUrl } from "@/lib/openrouter";
 
-const MEGALLM_API_KEY = process.env["MEGALLM_API_KEY"];
-const MEGALLM_COMPLETIONS_URL = buildMegaLlmChatCompletionsUrl(process.env["MEGALLM_BASE_URL"]);
-const MEGALLM_MODEL = process.env["MEGALLM_MODEL"] || "gpt-4o-mini";
+const OPENROUTER_API_KEY = process.env["OPENROUTER_API_KEY"];
+const OPENROUTER_COMPLETIONS_URL = buildOpenRouterChatCompletionsUrl(
+  process.env["OPENROUTER_BASE_URL"],
+);
+const OPENROUTER_MODEL = process.env["OPENROUTER_MODEL"] || "gpt-4o-mini";
 const KANJI_DIR = process.env["KANJI_DATA_DIR"] || path.join(process.cwd(), "data", "kanji");
 
 async function translateTexts(texts: string[]) {
   if (!texts.length) return [];
-  if (!MEGALLM_API_KEY) throw new Error("Missing MEGALLM_API_KEY");
+  if (!OPENROUTER_API_KEY) throw new Error("Missing OPENROUTER_API_KEY");
 
   const prompt = [
     "Bạn là dịch giả. Dịch các cụm tiếng Anh hoặc Nhật này sang tiếng Việt tự nhiên và sát nghĩa nhất.",
@@ -22,14 +24,14 @@ async function translateTexts(texts: string[]) {
     ...texts.map((text, index) => `${index + 1}. ${text}`),
   ].join("\n");
 
-  const response = await fetch(MEGALLM_COMPLETIONS_URL, {
+  const response = await fetch(OPENROUTER_COMPLETIONS_URL, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      Authorization: `Bearer ${MEGALLM_API_KEY}`,
+      Authorization: `Bearer ${OPENROUTER_API_KEY}`,
     },
     body: JSON.stringify({
-      model: MEGALLM_MODEL,
+      model: OPENROUTER_MODEL,
       messages: [
         {
           role: "system",
@@ -43,7 +45,7 @@ async function translateTexts(texts: string[]) {
 
   if (!response.ok) {
     const errorText = await response.text();
-    throw new Error(`MegaLLM translation failed: ${errorText}`);
+    throw new Error(`OpenRouter translation failed: ${errorText}`);
   }
 
   const data = (await response.json()) as {
@@ -67,8 +69,8 @@ async function translateTexts(texts: string[]) {
 }
 
 export async function POST(request: Request) {
-  if (!MEGALLM_API_KEY) {
-    return NextResponse.json({ error: "Missing MEGALLM_API_KEY" }, { status: 500 });
+  if (!OPENROUTER_API_KEY) {
+    return NextResponse.json({ error: "Missing OPENROUTER_API_KEY" }, { status: 500 });
   }
 
   try {

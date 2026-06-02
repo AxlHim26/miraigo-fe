@@ -10,7 +10,7 @@ interface HoverRevealTextProps {
 
 export default function HoverRevealText({ text, enabled }: HoverRevealTextProps) {
   // This is a simplified version. In a real scenario, you'd parse Kanji and wrap them
-  // with tooltips using the MegaLLM/Kanji dictionary integration.
+  // with tooltips using the OpenRouter/Kanji dictionary integration.
   // For the sake of this gamification plan, we simulate the toggle behavior.
 
   if (!enabled) {

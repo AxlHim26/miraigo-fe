@@ -16,19 +16,70 @@ import LinearProgress from "@mui/material/LinearProgress";
 import Stack from "@mui/material/Stack";
 import Tooltip from "@mui/material/Tooltip";
 import Typography from "@mui/material/Typography";
-import { useCallback, useMemo, useState } from "react";
+import { useQuery } from "@tanstack/react-query";
+import { useSearchParams } from "next/navigation";
+import { useCallback, useEffect, useMemo, useState } from "react";
 
-import { type FlashcardWord, flashcardWords } from "@/features/practice/data/flashcard-data";
+import { flashcardWords } from "@/features/practice/data/flashcard-data";
+import {
+  getVocabularySet,
+  getVocabularyWords,
+} from "@/features/vocabulary/services/vocabulary-service";
 
 /* ------------------------------------------------------------------ */
 /*  Component                                                          */
 /* ------------------------------------------------------------------ */
+type CardProps = {
+  id: string | number;
+  level: string;
+  japanese: string;
+  reading: string;
+  meaning: string;
+  example: string;
+  exampleMeaning: string;
+};
+
 export default function PracticeFlashcardView() {
-  const [deck, setDeck] = useState<FlashcardWord[]>(() => [...flashcardWords]);
+  const searchParams = useSearchParams();
+  const setId = searchParams.get("setId");
+
+  const { data: set } = useQuery({
+    queryKey: ["vocabulary", "sets", setId],
+    queryFn: () => getVocabularySet(setId!),
+    enabled: !!setId,
+  });
+
+  const { data: fetchedWords } = useQuery({
+    queryKey: ["vocabulary", "words", setId],
+    queryFn: () => getVocabularyWords(setId!),
+    enabled: !!setId,
+  });
+
+  const [deck, setDeck] = useState<CardProps[]>([]);
   const [currentIdx, setCurrentIdx] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
-  const [known, setKnown] = useState<Set<number>>(new Set());
-  const [unknown, setUnknown] = useState<Set<number>>(new Set());
+  const [known, setKnown] = useState<Set<string | number>>(new Set());
+  const [unknown, setUnknown] = useState<Set<string | number>>(new Set());
+
+  useEffect(() => {
+    if (setId) {
+      if (fetchedWords) {
+        setDeck(
+          fetchedWords.map((w) => ({
+            id: w.id,
+            level: set?.level || "Từ vựng",
+            japanese: w.japanese,
+            reading: w.reading,
+            meaning: w.meaning,
+            example: w.example || "",
+            exampleMeaning: w.exampleMeaning || "",
+          })),
+        );
+      }
+    } else {
+      setDeck([...flashcardWords]);
+    }
+  }, [setId, fetchedWords, set?.level]);
   const [isSpeaking, setIsSpeaking] = useState(false);
 
   const card = deck[currentIdx];
@@ -96,12 +147,14 @@ export default function PracticeFlashcardView() {
 
   // ── Shuffle ──
   const handleShuffle = useCallback(() => {
-    const shuffled = [...flashcardWords];
-    for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [shuffled[i], shuffled[j]] = [shuffled[j]!, shuffled[i]!];
-    }
-    setDeck(shuffled);
+    setDeck((prevDeck) => {
+      const shuffled = [...prevDeck];
+      for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j]!, shuffled[i]!];
+      }
+      return shuffled;
+    });
     setCurrentIdx(0);
     setIsFlipped(false);
     setKnown(new Set());
@@ -110,18 +163,33 @@ export default function PracticeFlashcardView() {
 
   // ── Reset ──
   const handleReset = useCallback(() => {
-    setDeck([...flashcardWords]);
+    if (setId && fetchedWords) {
+      setDeck(
+        fetchedWords.map((w) => ({
+          id: w.id,
+          level: set?.level || "Từ vựng",
+          japanese: w.japanese,
+          reading: w.reading,
+          meaning: w.meaning,
+          example: w.example || "",
+          exampleMeaning: w.exampleMeaning || "",
+        })),
+      );
+    } else {
+      setDeck([...flashcardWords]);
+    }
     setCurrentIdx(0);
     setIsFlipped(false);
     setKnown(new Set());
     setUnknown(new Set());
-  }, []);
+  }, [setId, fetchedWords, set?.level]);
 
   // ── Review unknown only ──
   const handleReviewUnknown = useCallback(() => {
-    const unknownCards = flashcardWords.filter((w) => unknown.has(w.id));
-    if (unknownCards.length === 0) return;
-    setDeck(unknownCards);
+    setDeck((prevDeck) => {
+      const unknownCards = prevDeck.filter((w) => unknown.has(w.id));
+      return unknownCards.length > 0 ? unknownCards : prevDeck;
+    });
     setCurrentIdx(0);
     setIsFlipped(false);
     setKnown(new Set());

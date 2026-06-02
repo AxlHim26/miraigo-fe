@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 
 import PracticeFlashcardView from "@/features/practice/components/practice-flashcard-view";
 
@@ -8,5 +9,9 @@ export const metadata: Metadata = {
 };
 
 export default function PracticeFlashcardPage() {
-  return <PracticeFlashcardView />;
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <PracticeFlashcardView />
+    </Suspense>
+  );
 }

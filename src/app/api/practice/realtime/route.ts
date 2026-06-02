@@ -1,23 +1,23 @@
 import type { AgentSettings } from "@/features/practice/types/agent";
 import { buildSystemPrompt } from "@/features/practice/utils/jp-agent";
-import { buildMegaLlmChatCompletionsUrl } from "@/lib/megallm";
+import { buildOpenRouterChatCompletionsUrl } from "@/lib/openrouter";
 
 export const runtime = "nodejs";
 
-const completionsUrl = buildMegaLlmChatCompletionsUrl(process.env["MEGALLM_BASE_URL"]);
+const completionsUrl = buildOpenRouterChatCompletionsUrl(process.env["OPENROUTER_BASE_URL"]);
 
-type MegaLlmSuccess = {
+type OpenRouterSuccess = {
   ok: true;
   stream: ReadableStream<Uint8Array>;
 };
 
-type MegaLlmFailure = {
+type OpenRouterFailure = {
   ok: false;
   status: number;
   error: string;
 };
 
-type MegaLlmResult = MegaLlmSuccess | MegaLlmFailure;
+type OpenRouterResult = OpenRouterSuccess | OpenRouterFailure;
 
 const computeBaseMaxTokens = (message: string) => {
   const length = message.trim().length;
@@ -72,12 +72,12 @@ const isRateLimitError = (status: number, message: string) =>
   status === 429 || /rate[_\s-]?limit|too many requests/i.test(message);
 
 const getConfiguredModel = () =>
-  (process.env["MEGALLM_MODEL"] ?? "mistralai/mistral-nemotron").trim();
+  (process.env["OPENROUTER_MODEL"] ?? "mistralai/mistral-nemotron").trim();
 
 const extractUpstreamError = async (response: Response) => {
   const text = await response.text();
   if (!text) {
-    return `MegaLLM request failed with status ${response.status}.`;
+    return `OpenRouter request failed with status ${response.status}.`;
   }
 
   try {
@@ -95,23 +95,23 @@ const extractUpstreamError = async (response: Response) => {
   }
 };
 
-const createMegaLLMStream = async (
+const createOpenRouterStream = async (
   message: string,
   settings: AgentSettings,
   history: Array<{ role: "user" | "assistant"; content: string }> = [],
-): Promise<MegaLlmResult> => {
-  const apiKey = process.env["MEGALLM_API_KEY"];
+): Promise<OpenRouterResult> => {
+  const apiKey = process.env["OPENROUTER_API_KEY"];
   const model = getConfiguredModel();
   if (!apiKey) {
     return {
       ok: false,
       status: 500,
-      error: "Thiếu MEGALLM_API_KEY trong .env.local.",
+      error: "Thiếu OPENROUTER_API_KEY trong .env.local.",
     };
   }
 
-  const maxRateLimitRetries = parsePositiveInt(process.env["MEGALLM_RATE_LIMIT_RETRIES"], 2);
-  const baseRetryDelayMs = parsePositiveInt(process.env["MEGALLM_RATE_LIMIT_DELAY_MS"], 1200);
+  const maxRateLimitRetries = parsePositiveInt(process.env["OPENROUTER_RATE_LIMIT_RETRIES"], 2);
+  const baseRetryDelayMs = parsePositiveInt(process.env["OPENROUTER_RATE_LIMIT_DELAY_MS"], 1200);
 
   for (let attempt = 0; attempt <= maxRateLimitRetries; attempt += 1) {
     try {
@@ -144,10 +144,10 @@ const createMegaLLMStream = async (
 
       const upstreamError = await extractUpstreamError(response);
       const rateLimited = isRateLimitError(response.status, upstreamError);
-      const failure: MegaLlmFailure = {
+      const failure: OpenRouterFailure = {
         ok: false,
         status: response.status,
-        error: `MegaLLM (${model}): ${upstreamError}`,
+        error: `OpenRouter (${model}): ${upstreamError}`,
       };
 
       if (rateLimited && attempt < maxRateLimitRetries) {
@@ -162,7 +162,7 @@ const createMegaLLMStream = async (
       return {
         ok: false,
         status: 500,
-        error: error instanceof Error ? error.message : "Không thể kết nối MegaLLM.",
+        error: error instanceof Error ? error.message : "Không thể kết nối OpenRouter.",
       };
     }
   }
@@ -171,7 +171,7 @@ const createMegaLLMStream = async (
     ok: false,
     status: 429,
     error:
-      "MegaLLM đang quá tải tạm thời. Hệ thống đã tự retry nhưng vẫn chạm giới hạn. Đợi vài giây rồi gửi lại.",
+      "OpenRouter đang quá tải tạm thời. Hệ thống đã tự retry nhưng vẫn chạm giới hạn. Đợi vài giây rồi gửi lại.",
   };
 };
 
@@ -183,24 +183,24 @@ export async function POST(request: Request) {
   };
   const encoder = new TextEncoder();
 
-  const megaResult = await createMegaLLMStream(
+  const openResult = await createOpenRouterStream(
     payload.message,
     payload.settings,
     payload.history ?? [],
   );
-  if (!megaResult.ok) {
+  if (!openResult.ok) {
     return new Response(
       JSON.stringify({
-        error: megaResult.error,
+        error: openResult.error,
       }),
-      { status: megaResult.status || 500 },
+      { status: openResult.status || 500 },
     );
   }
 
   const stream = new ReadableStream({
     async start(controller) {
       try {
-        const reader = megaResult.stream.getReader();
+        const reader = openResult.stream.getReader();
         const decoder = new TextDecoder();
         let buffer = "";
 

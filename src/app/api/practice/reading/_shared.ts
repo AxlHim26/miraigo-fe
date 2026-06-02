@@ -1,6 +1,6 @@
-import { buildMegaLlmChatCompletionsUrl } from "@/lib/megallm";
+import { buildOpenRouterChatCompletionsUrl } from "@/lib/openrouter";
 
-const completionsUrl = buildMegaLlmChatCompletionsUrl(process.env["MEGALLM_BASE_URL"]);
+const completionsUrl = buildOpenRouterChatCompletionsUrl(process.env["OPENROUTER_BASE_URL"]);
 
 type ChatMessage = {
   role: "system" | "user" | "assistant";
@@ -13,12 +13,12 @@ type CompletionOptions = {
   maxTokens?: number;
 };
 
-export class MegaLlmError extends Error {
+export class OpenRouterError extends Error {
   readonly status: number;
 
   constructor(message: string, status: number) {
     super(message);
-    this.name = "MegaLlmError";
+    this.name = "OpenRouterError";
     this.status = status;
   }
 }
@@ -116,14 +116,14 @@ export const parseJsonBlock = <T>(rawContent: string): T | null => {
 };
 
 const getConfiguredModel = () => {
-  const configured = process.env["MEGALLM_MODEL"]?.trim();
-  return configured && configured.length > 0 ? configured : "openai-gpt-oss-20b";
+  const configured = process.env["OPENROUTER_MODEL"]?.trim();
+  return configured && configured.length > 0 ? configured : "openai/gpt-4o-mini";
 };
 
 const extractErrorMessage = async (response: Response) => {
   const text = await response.text();
   if (!text) {
-    return `MegaLLM request failed with status ${response.status}.`;
+    return `OpenRouter request failed with status ${response.status}.`;
   }
 
   try {
@@ -155,14 +155,14 @@ const extractErrorMessage = async (response: Response) => {
   return text;
 };
 
-export const requestMegaLlmContent = async ({
+export const requestOpenRouterContent = async ({
   messages,
   temperature = 0.55,
   maxTokens = 1200,
 }: CompletionOptions) => {
-  const apiKey = process.env["MEGALLM_API_KEY"];
+  const apiKey = process.env["OPENROUTER_API_KEY"];
   if (!apiKey) {
-    throw new MegaLlmError("Missing MEGALLM_API_KEY", 500);
+    throw new OpenRouterError("Missing OPENROUTER_API_KEY", 500);
   }
 
   const response = await fetch(completionsUrl, {
@@ -181,7 +181,7 @@ export const requestMegaLlmContent = async ({
 
   if (!response.ok) {
     const errorMessage = await extractErrorMessage(response);
-    throw new MegaLlmError(errorMessage, response.status);
+    throw new OpenRouterError(errorMessage, response.status);
   }
 
   const payload = (await response.json()) as {
@@ -190,7 +190,7 @@ export const requestMegaLlmContent = async ({
 
   const content = payload.choices?.[0]?.message?.content?.trim();
   if (!content) {
-    throw new MegaLlmError("MegaLLM returned empty content.", 502);
+    throw new OpenRouterError("OpenRouter returned empty content.", 502);
   }
 
   return content;

@@ -3,10 +3,10 @@ import { NextResponse } from "next/server";
 export const dynamic = "force-dynamic";
 
 export async function GET() {
-  if (!process.env["MEGALLM_API_KEY"]) {
+  if (!process.env["OPENROUTER_API_KEY"]) {
     return NextResponse.json(
       {
-        error: "MEGALLM_API_KEY is missing.",
+        error: "OPENROUTER_API_KEY is missing.",
       },
       { status: 500 },
     );
@@ -15,7 +15,7 @@ export async function GET() {
     data: {
       status: "ok",
       timestamp: new Date().toISOString(),
-      llmProvider: process.env["MEGALLM_API_KEY"] ? "megallm" : "local",
+      llmProvider: process.env["OPENROUTER_API_KEY"] ? "openrouter" : "local",
     },
   });
 }
