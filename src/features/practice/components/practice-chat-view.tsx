@@ -481,7 +481,7 @@ export default function PracticeChatView() {
           const errorPayload = await response.json().catch(() => null);
           const message =
             (errorPayload && typeof errorPayload.error === "string" && errorPayload.error) ||
-            "Không thể kết nối MegaLLM. Kiểm tra API key hoặc endpoint.";
+            "Không thể kết nối OpenRouter. Kiểm tra API key hoặc endpoint.";
           throw new Error(message);
         }
 

@@ -3,7 +3,7 @@ import { z } from "zod";
 
 import { readingWordExplanationSchema } from "@/features/practice/types/reading";
 
-import { MegaLlmError, parseJsonBlock, requestMegaLlmContent } from "../_shared";
+import { OpenRouterError, parseJsonBlock, requestOpenRouterContent } from "../_shared";
 
 export const runtime = "nodejs";
 
@@ -39,7 +39,7 @@ export async function POST(request: Request) {
   try {
     const { word, context } = parsedPayload.data;
 
-    const content = await requestMegaLlmContent({
+    const content = await requestOpenRouterContent({
       messages: [
         {
           role: "system",
@@ -63,7 +63,7 @@ export async function POST(request: Request) {
 
     return NextResponse.json(parsed.data);
   } catch (error) {
-    if (error instanceof MegaLlmError) {
+    if (error instanceof OpenRouterError) {
       return NextResponse.json({ message: error.message }, { status: error.status });
     }
 

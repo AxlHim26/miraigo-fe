@@ -1,10 +1,12 @@
 import { NextResponse } from "next/server";
 
-import { buildMegaLlmChatCompletionsUrl } from "@/lib/megallm";
+import { buildOpenRouterChatCompletionsUrl } from "@/lib/openrouter";
 
-const MEGALLM_API_KEY = process.env["MEGALLM_API_KEY"];
-const MEGALLM_COMPLETIONS_URL = buildMegaLlmChatCompletionsUrl(process.env["MEGALLM_BASE_URL"]);
-const MEGALLM_MODEL = process.env["MEGALLM_MODEL"] || "openai-gpt-oss-20b";
+const OPENROUTER_API_KEY = process.env["OPENROUTER_API_KEY"];
+const OPENROUTER_COMPLETIONS_URL = buildOpenRouterChatCompletionsUrl(
+  process.env["OPENROUTER_BASE_URL"],
+);
+const OPENROUTER_MODEL = process.env["OPENROUTER_MODEL"] || "openai/gpt-oss-120b:free";
 
 const readContent = (payload: unknown) => {
   if (!payload || typeof payload !== "object") {
@@ -22,7 +24,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ text: "" });
   }
 
-  if (!MEGALLM_API_KEY) {
+  if (!OPENROUTER_API_KEY) {
     return NextResponse.json({ text });
   }
 
@@ -37,14 +39,14 @@ export async function POST(request: Request) {
   ].join("\n");
 
   try {
-    const response = await fetch(MEGALLM_COMPLETIONS_URL, {
+    const response = await fetch(OPENROUTER_COMPLETIONS_URL, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Authorization: `Bearer ${MEGALLM_API_KEY}`,
+        Authorization: `Bearer ${OPENROUTER_API_KEY}`,
       },
       body: JSON.stringify({
-        model: MEGALLM_MODEL,
+        model: OPENROUTER_MODEL,
         temperature: 0.1,
         max_tokens: 400,
         messages: [

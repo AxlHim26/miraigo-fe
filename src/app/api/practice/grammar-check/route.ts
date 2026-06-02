@@ -1,10 +1,12 @@
 import { NextResponse } from "next/server";
 
-import { buildMegaLlmChatCompletionsUrl } from "@/lib/megallm";
+import { buildOpenRouterChatCompletionsUrl } from "@/lib/openrouter";
 
-const MEGALLM_API_KEY = process.env["MEGALLM_API_KEY"];
-const MEGALLM_COMPLETIONS_URL = buildMegaLlmChatCompletionsUrl(process.env["MEGALLM_BASE_URL"]);
-const MEGALLM_MODEL = process.env["MEGALLM_MODEL"] || "openai-gpt-oss-20b";
+const OPENROUTER_API_KEY = process.env["OPENROUTER_API_KEY"];
+const OPENROUTER_COMPLETIONS_URL = buildOpenRouterChatCompletionsUrl(
+  process.env["OPENROUTER_BASE_URL"],
+);
+const OPENROUTER_MODEL = process.env["OPENROUTER_MODEL"] || "openai/gpt-oss-120b:free";
 
 type GrammarFeedback = {
   corrected: string;
@@ -44,8 +46,8 @@ const parseResult = (raw: string, originalText: string): GrammarFeedback | null 
 };
 
 export async function POST(request: Request) {
-  if (!MEGALLM_API_KEY) {
-    return NextResponse.json({ error: "Missing MEGALLM_API_KEY" }, { status: 500 });
+  if (!OPENROUTER_API_KEY) {
+    return NextResponse.json({ error: "Missing OPENROUTER_API_KEY" }, { status: 500 });
   }
 
   const body = (await request.json().catch(() => null)) as { text?: string } | null;
@@ -67,14 +69,14 @@ export async function POST(request: Request) {
     `Câu cần kiểm tra: ${text}`,
   ].join("\n");
 
-  const response = await fetch(MEGALLM_COMPLETIONS_URL, {
+  const response = await fetch(OPENROUTER_COMPLETIONS_URL, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      Authorization: `Bearer ${MEGALLM_API_KEY}`,
+      Authorization: `Bearer ${OPENROUTER_API_KEY}`,
     },
     body: JSON.stringify({
-      model: MEGALLM_MODEL,
+      model: OPENROUTER_MODEL,
       temperature: 0.2,
       max_tokens: 280,
       messages: [
