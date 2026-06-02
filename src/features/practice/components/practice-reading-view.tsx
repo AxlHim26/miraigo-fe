@@ -7,7 +7,6 @@ import TranslateRoundedIcon from "@mui/icons-material/TranslateRounded";
 import VerticalAlignBottomRoundedIcon from "@mui/icons-material/VerticalAlignBottomRounded";
 import Alert from "@mui/material/Alert";
 import Button from "@mui/material/Button";
-import Chip from "@mui/material/Chip";
 import CircularProgress from "@mui/material/CircularProgress";
 import Dialog from "@mui/material/Dialog";
 import DialogContent from "@mui/material/DialogContent";
@@ -21,7 +20,6 @@ import Popover from "@mui/material/Popover";
 import Select from "@mui/material/Select";
 import Slider from "@mui/material/Slider";
 import Stack from "@mui/material/Stack";
-import TextField from "@mui/material/TextField";
 import Typography from "@mui/material/Typography";
 import { useMutation } from "@tanstack/react-query";
 import * as React from "react";
@@ -134,11 +132,9 @@ export default function PracticeReadingView() {
   const [wordPopup, setWordPopup] = React.useState<WordPopupState>(defaultWordPopupState);
   const [wordCache, setWordCache] = React.useState<Record<string, ReadingWordExplanation>>({});
   const [fontScale, setFontScale] = React.useState(1);
-  const [topicPrompt, setTopicPrompt] = React.useState("");
 
   const generateMutation = useMutation({
-    mutationFn: (variables: { level: ProficiencyLevel; topic?: string }) =>
-      generateReadingExercise(variables.level, variables.topic),
+    mutationFn: generateReadingExercise,
     onSuccess: (nextExercise) => {
       setExercise(nextExercise);
       setSelectedAnswers({});
@@ -222,8 +218,8 @@ export default function PracticeReadingView() {
   }, [annotateMutation, buildLocalFallbackAnnotations, exercise, lineAnnotations.length]);
 
   const handleStartTest = React.useCallback(() => {
-    generateMutation.mutate({ level: proficiencyLevel, topic: topicPrompt });
-  }, [generateMutation, proficiencyLevel, topicPrompt]);
+    generateMutation.mutate(proficiencyLevel);
+  }, [generateMutation, proficiencyLevel]);
 
   const handleSelectOption = React.useCallback((questionId: string, optionId: string) => {
     setSelectedAnswers((prev) => ({ ...prev, [questionId]: optionId }));
@@ -564,39 +560,6 @@ export default function PracticeReadingView() {
                 ))}
               </Select>
             </FormControl>
-
-            <Stack spacing={1.5}>
-              <TextField
-                label="Chủ đề yêu cầu (không bắt buộc)"
-                placeholder="VD: Kể chuyện hài hước, Thư xin việc..."
-                value={topicPrompt}
-                onChange={(e) => setTopicPrompt(e.target.value)}
-                size="small"
-                fullWidth
-                multiline
-                maxRows={2}
-                InputLabelProps={{ shrink: true }}
-                inputProps={{ maxLength: 150 }}
-              />
-              <div className="flex flex-wrap gap-1.5">
-                {[
-                  "Đời sống hàng ngày",
-                  "Môi trường công sở",
-                  "Kể chuyện hài hước",
-                  "Hội thoại mua sắm",
-                ].map((suggestion) => (
-                  <Chip
-                    key={suggestion}
-                    label={suggestion}
-                    size="small"
-                    variant={topicPrompt === suggestion ? "filled" : "outlined"}
-                    color={topicPrompt === suggestion ? "primary" : "default"}
-                    onClick={() => setTopicPrompt(suggestion)}
-                    sx={{ fontSize: "0.75rem" }}
-                  />
-                ))}
-              </div>
-            </Stack>
 
             <Stack spacing={0.8}>
               <div className="flex items-center justify-between">

@@ -6,16 +6,13 @@ import {
 } from "@/features/practice/types/reading";
 import { fetchJson } from "@/lib/fetcher";
 
-export const generateReadingExercise = async (
-  proficiencyLevel: ProficiencyLevel,
-  topic?: string,
-) => {
+export const generateReadingExercise = async (proficiencyLevel: ProficiencyLevel) => {
   const response = await fetchJson<unknown>("/api/practice/reading/generate", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
     },
-    body: JSON.stringify({ proficiencyLevel, topic }),
+    body: JSON.stringify({ proficiencyLevel }),
   });
 
   return readingExerciseSchema.parse(response);
