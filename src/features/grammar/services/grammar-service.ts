@@ -21,13 +21,16 @@ export const getGrammarStats = async () => {
 };
 
 export const getGrammarPoints = async (levelId?: string) => {
-  const url = new URL(`${getBaseUrl()}/api/grammar/points`);
-  if (levelId) {
-    url.searchParams.set("levelId", levelId);
-  }
-
-  const response = await fetchJson<unknown>(url.toString(), {
+  const normalizedLevelId = levelId?.trim().toLowerCase();
+  const qs = normalizedLevelId ? `?levelId=${encodeURIComponent(normalizedLevelId)}` : "";
+  const response = await fetchJson<unknown>(`${getBaseUrl()}/api/grammar/points${qs}`, {
     cache: "no-store",
   });
-  return grammarPointsResponseSchema.parse(response).data;
+  const points = grammarPointsResponseSchema.parse(response).data;
+
+  if (!normalizedLevelId) {
+    return points;
+  }
+
+  return points.filter((point) => point.levelId.toLowerCase() === normalizedLevelId);
 };

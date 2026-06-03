@@ -11,19 +11,20 @@ export const metadata: Metadata = {
 };
 
 type GrammarLevelPageProps = {
-  params: { levelId: string };
+  params: Promise<{ levelId: string }>;
 };
 
 export default async function GrammarLevelPage({ params }: GrammarLevelPageProps) {
+  const { levelId } = await params;
   const queryClient = getQueryClient();
   await queryClient.prefetchQuery({
-    queryKey: grammarQueryKeys.points(params.levelId),
-    queryFn: () => getGrammarPoints(params.levelId),
+    queryKey: grammarQueryKeys.points(levelId),
+    queryFn: () => getGrammarPoints(levelId),
   });
 
   return (
     <HydrationBoundary state={dehydrate(queryClient)}>
-      <GrammarLevelDetail levelId={params.levelId} />
+      <GrammarLevelDetail levelId={levelId} />
     </HydrationBoundary>
   );
 }

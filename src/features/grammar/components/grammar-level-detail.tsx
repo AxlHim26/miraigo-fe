@@ -49,11 +49,14 @@ export default function GrammarLevelDetail({ levelId }: GrammarLevelDetailProps)
     if (!data || data.length === 0) {
       return;
     }
-    if (!selectedPointId) {
-      const first = data[0];
-      if (first) {
-        setSelectedPointId(first.id);
-      }
+    const hasSelectedPoint = data.some((point) => point.id === selectedPointId);
+    if (hasSelectedPoint) {
+      return;
+    }
+
+    const first = data[0];
+    if (first) {
+      setSelectedPointId(first.id);
     }
   }, [data, selectedPointId, setSelectedPointId]);
 
@@ -61,6 +64,7 @@ export default function GrammarLevelDetail({ levelId }: GrammarLevelDetailProps)
 
   return (
     <Stack direction={{ xs: "column", lg: "row" }} spacing={3}>
+      {/* ── Danh sách ngữ pháp ── */}
       <Stack spacing={2} className="w-full lg:max-w-[420px]">
         <Typography variant="h6" fontWeight={600}>
           Danh sách ngữ pháp
@@ -96,6 +100,7 @@ export default function GrammarLevelDetail({ levelId }: GrammarLevelDetailProps)
         )}
       </Stack>
 
+      {/* ── Chi tiết ngữ pháp ── */}
       <Paper
         elevation={0}
         className="flex-1 rounded-3xl border border-[var(--app-border)] bg-[var(--app-card)] p-6"
@@ -108,34 +113,78 @@ export default function GrammarLevelDetail({ levelId }: GrammarLevelDetailProps)
           />
         ) : (
           <Stack spacing={3}>
+            {/* Tiêu đề */}
             <Box>
               <Typography variant="h5" fontWeight={700}>
                 {selected.title}
               </Typography>
-              <Typography variant="body2" color="text.secondary">
+              <Typography variant="body2" color="text.secondary" className="mt-1">
                 {selected.meaning}
               </Typography>
+              {selected.tags && selected.tags.length > 0 && (
+                <Stack direction="row" flexWrap="wrap" gap={0.5} className="mt-2">
+                  {selected.tags.map((tag) => (
+                    <Chip key={tag} size="small" label={tag} variant="outlined" />
+                  ))}
+                </Stack>
+              )}
             </Box>
+
+            {/* Cấu trúc */}
             <Box>
-              <Typography variant="subtitle2" color="text.secondary">
+              <Typography variant="subtitle2" color="text.secondary" className="mb-1">
                 Cấu trúc
               </Typography>
-              <Typography variant="body1" fontWeight={600}>
+              <Paper
+                elevation={0}
+                className="rounded-2xl border border-[var(--app-border)] bg-slate-50 px-4 py-3 font-mono text-sm font-semibold dark:bg-[#1A2231]"
+              >
                 {selected.structure}
-              </Typography>
+              </Paper>
             </Box>
+
+            {/* Ghi chú */}
+            {selected.notes && (
+              <Box>
+                <Typography variant="subtitle2" color="text.secondary" className="mb-1">
+                  Ghi chú
+                </Typography>
+                <Paper
+                  elevation={0}
+                  className="rounded-2xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800 dark:border-amber-800 dark:bg-amber-950/30 dark:text-amber-300"
+                >
+                  {selected.notes}
+                </Paper>
+              </Box>
+            )}
+
+            {/* Ví dụ */}
             <Box>
-              <Typography variant="subtitle2" color="text.secondary">
+              <Typography variant="subtitle2" color="text.secondary" className="mb-1">
                 Ví dụ
               </Typography>
-              <Stack spacing={1}>
-                {selected.examples.map((example) => (
+              <Stack spacing={2}>
+                {selected.examples.map((example, index) => (
                   <Paper
-                    key={example}
+                    key={index}
                     elevation={0}
-                    className="rounded-2xl border border-[var(--app-border)] bg-slate-50 px-4 py-3 text-sm text-slate-700 dark:bg-[#1A2231] dark:text-[#E5E7EB]"
+                    className="rounded-2xl border border-[var(--app-border)] bg-slate-50 px-4 py-3 dark:bg-[#1A2231]"
                   >
-                    {example}
+                    <Typography
+                      variant="body1"
+                      fontWeight={600}
+                      className="text-slate-800 dark:text-slate-100"
+                    >
+                      {example.japanese}
+                    </Typography>
+                    {example.reading && (
+                      <Typography variant="caption" color="text.secondary" className="block">
+                        {example.reading}
+                      </Typography>
+                    )}
+                    <Typography variant="body2" className="mt-1 text-slate-500 dark:text-slate-400">
+                      {example.vietnamese}
+                    </Typography>
                   </Paper>
                 ))}
               </Stack>
