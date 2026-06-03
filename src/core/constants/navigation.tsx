@@ -230,12 +230,6 @@ export const practiceSidebarSections: NavSection[] = [
     title: "Khu vực luyện tập",
     items: [
       {
-        id: "chat",
-        label: "Trò chuyện AI",
-        href: "/practice/chat",
-        icon: <AutoAwesomeIcon fontSize="small" />,
-      },
-      {
         id: "practice-reading",
         label: "Luyện đọc",
         href: "/practice/reading",
@@ -246,12 +240,6 @@ export const practiceSidebarSections: NavSection[] = [
         label: "Luyện nghe",
         href: "/practice/listening",
         icon: <GraphicEqIcon fontSize="small" />,
-      },
-      {
-        id: "practice-shadowing",
-        label: "Shadowing",
-        href: "/practice/shadowing",
-        icon: <RecordVoiceOverIcon fontSize="small" />,
       },
       {
         id: "flashcard",
@@ -271,6 +259,12 @@ export const practiceSidebarSections: NavSection[] = [
     id: "ai-voice",
     title: "AI Voice",
     items: [
+      {
+        id: "chat",
+        label: "Trò chuyện AI",
+        href: "/practice/chat",
+        icon: <AutoAwesomeIcon fontSize="small" />,
+      },
       {
         id: "pronunciation",
         label: "Luyện phát âm",

@@ -6,10 +6,10 @@ export const dynamic = "force-dynamic";
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
-  const levelId = searchParams.get("levelId");
+  const levelId = searchParams.get("levelId")?.trim().toLowerCase();
 
   const filtered = levelId
-    ? grammarPoints.filter((point) => point.levelId === levelId)
+    ? grammarPoints.filter((point) => point.levelId.toLowerCase() === levelId)
     : grammarPoints;
 
   return NextResponse.json({ data: filtered });
