@@ -3,7 +3,7 @@ import { z } from "zod";
 
 import { readingLevelSchema } from "@/features/practice/types/reading";
 
-import { OpenRouterError, parseJsonBlock, requestOpenRouterContent } from "../_shared";
+import { GroqError, parseJsonBlock, requestGroqContent } from "../_shared";
 
 export const runtime = "nodejs";
 
@@ -269,7 +269,7 @@ const buildPrompt = (level: z.infer<typeof readingLevelSchema>) =>
     "- explanationVi: giải thích chi tiết bằng tiếng Việt.",
     "- explanationJa: giải thích tương ứng bằng tiếng Nhật, cùng nội dung với explanationVi.",
     "Trả về đúng JSON object theo cấu trúc:",
-    '{"title":"...","passage":"line1\\nline2...","questions":[{"question":"...","options":["...","...","...","..."],"answerIndex":0,"explanationVi":"...","explanationJa":"..."}]}',
+    '{"title":"...","passage":"line1\\\\nline2...","questions":[{"question":"...","options":["...","...","...","..."],"answerIndex":0,"explanationVi":"...","explanationJa":"..."}]}',
     "Không dùng markdown. Không thêm text ngoài JSON object.",
   ].join("\n");
 
@@ -320,7 +320,7 @@ export async function POST(request: Request) {
   const level = parsedPayload.data.proficiencyLevel;
 
   try {
-    const firstContent = await requestOpenRouterContent({
+    const firstContent = await requestGroqContent({
       messages: [
         {
           role: "system",
@@ -344,7 +344,7 @@ export async function POST(request: Request) {
       return NextResponse.json(toResponsePayload(firstParsed, level));
     }
 
-    const repairedContent = await requestOpenRouterContent({
+    const repairedContent = await requestGroqContent({
       messages: [
         {
           role: "system",
@@ -373,7 +373,7 @@ export async function POST(request: Request) {
 
     return NextResponse.json(toResponsePayload(repairedParsed, level));
   } catch (error) {
-    if (error instanceof OpenRouterError) {
+    if (error instanceof GroqError) {
       return NextResponse.json({ message: error.message }, { status: error.status });
     }
 

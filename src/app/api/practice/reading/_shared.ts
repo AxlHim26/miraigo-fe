@@ -1,6 +1,4 @@
-import { buildOpenRouterChatCompletionsUrl } from "@/lib/openrouter";
-
-const completionsUrl = buildOpenRouterChatCompletionsUrl(process.env["OPENROUTER_BASE_URL"]);
+import { getGroqModel, groq } from "@/lib/groq";
 
 type ChatMessage = {
   role: "system" | "user" | "assistant";
@@ -13,12 +11,12 @@ type CompletionOptions = {
   maxTokens?: number;
 };
 
-export class OpenRouterError extends Error {
+export class GroqError extends Error {
   readonly status: number;
 
   constructor(message: string, status: number) {
     super(message);
-    this.name = "OpenRouterError";
+    this.name = "GroqError";
     this.status = status;
   }
 }
@@ -48,7 +46,7 @@ const extractStructuredBlock = (raw: string) => {
     // continue
   }
 
-  const firstIndex = cleaned.search(/[\[{]/);
+  const firstIndex = cleaned.search(/[[\{]/);
   if (firstIndex < 0) {
     return null;
   }
@@ -115,83 +113,43 @@ export const parseJsonBlock = <T>(rawContent: string): T | null => {
   }
 };
 
-const getConfiguredModel = () => {
-  const configured = process.env["OPENROUTER_MODEL"]?.trim();
-  return configured && configured.length > 0 ? configured : "openai/gpt-4o-mini";
-};
-
-const extractErrorMessage = async (response: Response) => {
-  const text = await response.text();
-  if (!text) {
-    return `OpenRouter request failed with status ${response.status}.`;
-  }
-
-  try {
-    const parsed = JSON.parse(text) as {
-      error?: string | { message?: string };
-      detail?: { message?: string };
-      message?: string;
-    };
-
-    if (typeof parsed.error === "string") {
-      return parsed.error;
-    }
-
-    if (parsed.error?.message) {
-      return parsed.error.message;
-    }
-
-    if (parsed.detail?.message) {
-      return parsed.detail.message;
-    }
-
-    if (parsed.message) {
-      return parsed.message;
-    }
-  } catch {
-    return text;
-  }
-
-  return text;
-};
-
-export const requestOpenRouterContent = async ({
+export const requestGroqContent = async ({
   messages,
   temperature = 0.55,
   maxTokens = 1200,
 }: CompletionOptions) => {
-  const apiKey = process.env["OPENROUTER_API_KEY"];
-  if (!apiKey) {
-    throw new OpenRouterError("Missing OPENROUTER_API_KEY", 500);
+  if (!process.env["GROQ_API_KEY"]) {
+    throw new GroqError("Missing GROQ_API_KEY", 500);
   }
 
-  const response = await fetch(completionsUrl, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${apiKey}`,
-    },
-    body: JSON.stringify({
-      model: getConfiguredModel(),
+  try {
+    const completion = await groq().chat.completions.create({
+      model: getGroqModel(),
       temperature,
       max_tokens: maxTokens,
       messages,
-    }),
-  });
+    });
 
-  if (!response.ok) {
-    const errorMessage = await extractErrorMessage(response);
-    throw new OpenRouterError(errorMessage, response.status);
+    const content = completion.choices[0]?.message?.content?.trim();
+    if (!content) {
+      throw new GroqError("Groq returned empty content.", 502);
+    }
+
+    return content;
+  } catch (error) {
+    if (error instanceof GroqError) {
+      throw error;
+    }
+
+    const message = error instanceof Error ? error.message : "Groq request failed.";
+    const status =
+      error != null &&
+      typeof error === "object" &&
+      "status" in error &&
+      typeof (error as Record<string, unknown>)["status"] === "number"
+        ? ((error as Record<string, unknown>)["status"] as number)
+        : 500;
+
+    throw new GroqError(message, status);
   }
-
-  const payload = (await response.json()) as {
-    choices?: Array<{ message?: { content?: string } }>;
-  };
-
-  const content = payload.choices?.[0]?.message?.content?.trim();
-  if (!content) {
-    throw new OpenRouterError("OpenRouter returned empty content.", 502);
-  }
-
-  return content;
 };

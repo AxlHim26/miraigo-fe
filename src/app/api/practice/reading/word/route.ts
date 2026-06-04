@@ -3,7 +3,7 @@ import { z } from "zod";
 
 import { readingWordExplanationSchema } from "@/features/practice/types/reading";
 
-import { OpenRouterError, parseJsonBlock, requestOpenRouterContent } from "../_shared";
+import { GroqError, parseJsonBlock, requestGroqContent } from "../_shared";
 
 export const runtime = "nodejs";
 
@@ -39,7 +39,7 @@ export async function POST(request: Request) {
   try {
     const { word, context } = parsedPayload.data;
 
-    const content = await requestOpenRouterContent({
+    const content = await requestGroqContent({
       messages: [
         {
           role: "system",
@@ -63,7 +63,7 @@ export async function POST(request: Request) {
 
     return NextResponse.json(parsed.data);
   } catch (error) {
-    if (error instanceof OpenRouterError) {
+    if (error instanceof GroqError) {
       return NextResponse.json({ message: error.message }, { status: error.status });
     }
 
