@@ -3,7 +3,7 @@ import { z } from "zod";
 
 import { readingAnnotationResponseSchema } from "@/features/practice/types/reading";
 
-import { OpenRouterError, parseJsonBlock, requestOpenRouterContent } from "../_shared";
+import { GroqError, parseJsonBlock, requestGroqContent } from "../_shared";
 
 export const runtime = "nodejs";
 
@@ -54,7 +54,7 @@ const parsePlainLines = (raw: string, expectedCount: number) => {
 };
 
 const requestFallbackArray = async (prompt: string, maxTokens: number) => {
-  const content = await requestOpenRouterContent({
+  const content = await requestGroqContent({
     messages: [
       {
         role: "system",
@@ -124,7 +124,7 @@ export async function POST(request: Request) {
 
   try {
     const lines = parsedPayload.data.lines;
-    const content = await requestOpenRouterContent({
+    const content = await requestGroqContent({
       messages: [
         {
           role: "system",
@@ -165,7 +165,7 @@ export async function POST(request: Request) {
 
     return NextResponse.json(readingAnnotationResponseSchema.parse({ items }));
   } catch (error) {
-    if (error instanceof OpenRouterError) {
+    if (error instanceof GroqError) {
       return NextResponse.json({ message: error.message }, { status: error.status });
     }
 

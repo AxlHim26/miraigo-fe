@@ -1,23 +1,23 @@
+import Groq from "groq-sdk";
+
 import type { AgentSettings } from "@/features/practice/types/agent";
 import { buildSystemPrompt } from "@/features/practice/utils/jp-agent";
-import { buildOpenRouterChatCompletionsUrl } from "@/lib/openrouter";
+import { getGroqModel, groq } from "@/lib/groq";
 
 export const runtime = "nodejs";
 
-const completionsUrl = buildOpenRouterChatCompletionsUrl(process.env["OPENROUTER_BASE_URL"]);
-
-type OpenRouterSuccess = {
+type GroqStreamSuccess = {
   ok: true;
-  stream: ReadableStream<Uint8Array>;
+  stream: AsyncIterable<Groq.Chat.Completions.ChatCompletionChunk>;
 };
 
-type OpenRouterFailure = {
+type GroqStreamFailure = {
   ok: false;
   status: number;
   error: string;
 };
 
-type OpenRouterResult = OpenRouterSuccess | OpenRouterFailure;
+type GroqStreamResult = GroqStreamSuccess | GroqStreamFailure;
 
 const computeBaseMaxTokens = (message: string) => {
   const length = message.trim().length;
@@ -56,8 +56,8 @@ const sleep = (ms: number) =>
     setTimeout(resolve, ms);
   });
 
-const readRetryAfterMs = (response: Response) => {
-  const retryAfter = response.headers.get("retry-after");
+const readRetryAfterMs = (headers: Headers) => {
+  const retryAfter = headers.get("retry-after");
   if (!retryAfter) {
     return null;
   }
@@ -71,98 +71,62 @@ const readRetryAfterMs = (response: Response) => {
 const isRateLimitError = (status: number, message: string) =>
   status === 429 || /rate[_\s-]?limit|too many requests/i.test(message);
 
-const getConfiguredModel = () =>
-  (process.env["OPENROUTER_MODEL"] ?? "mistralai/mistral-nemotron").trim();
-
-const extractUpstreamError = async (response: Response) => {
-  const text = await response.text();
-  if (!text) {
-    return `OpenRouter request failed with status ${response.status}.`;
-  }
-
-  try {
-    const parsed = JSON.parse(text) as {
-      error?: string | { message?: string };
-      message?: string;
-    };
-    const errorMessage =
-      typeof parsed.error === "string"
-        ? parsed.error
-        : parsed.error?.message || parsed.message || text;
-    return String(errorMessage);
-  } catch {
-    return text;
-  }
-};
-
-const createOpenRouterStream = async (
+const createGroqStream = async (
   message: string,
   settings: AgentSettings,
   history: Array<{ role: "user" | "assistant"; content: string }> = [],
-): Promise<OpenRouterResult> => {
-  const apiKey = process.env["OPENROUTER_API_KEY"];
-  const model = getConfiguredModel();
+): Promise<GroqStreamResult> => {
+  const apiKey = process.env["GROQ_API_KEY"];
+  const model = getGroqModel();
   if (!apiKey) {
     return {
       ok: false,
       status: 500,
-      error: "Thiếu OPENROUTER_API_KEY trong .env",
+      error: "Thiếu GROQ_API_KEY trong .env",
     };
   }
 
-  const maxRateLimitRetries = parsePositiveInt(process.env["OPENROUTER_RATE_LIMIT_RETRIES"], 2);
-  const baseRetryDelayMs = parsePositiveInt(process.env["OPENROUTER_RATE_LIMIT_DELAY_MS"], 1200);
+  const maxRateLimitRetries = parsePositiveInt(process.env["GROQ_RATE_LIMIT_RETRIES"], 2);
+  const baseRetryDelayMs = parsePositiveInt(process.env["GROQ_RATE_LIMIT_DELAY_MS"], 1200);
 
   for (let attempt = 0; attempt <= maxRateLimitRetries; attempt += 1) {
     try {
-      const response = await fetch(completionsUrl, {
-        method: "POST",
-        headers: {
-          Authorization: `Bearer ${apiKey}`,
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          model,
-          stream: true,
-          temperature: 0.7,
-          top_p: 0.9,
-          max_tokens: computeMaxTokens(message, model),
-          messages: [
-            { role: "system", content: buildSystemPrompt(settings) },
-            ...history,
-            { role: "user", content: message },
-          ],
-        }),
+      const stream = await groq().chat.completions.create({
+        model,
+        stream: true,
+        temperature: 0.7,
+        top_p: 0.9,
+        max_tokens: computeMaxTokens(message, model),
+        messages: [
+          { role: "system", content: buildSystemPrompt(settings) },
+          ...history,
+          { role: "user", content: message },
+        ],
       });
 
-      if (response.ok && response.body) {
-        return {
-          ok: true,
-          stream: response.body,
-        };
-      }
-
-      const upstreamError = await extractUpstreamError(response);
-      const rateLimited = isRateLimitError(response.status, upstreamError);
-      const failure: OpenRouterFailure = {
-        ok: false,
-        status: response.status,
-        error: `OpenRouter (${model}): ${upstreamError}`,
+      return {
+        ok: true,
+        stream,
       };
+    } catch (error: unknown) {
+      const statusCode = error instanceof Groq.APIError ? error.status : 500;
+      const errorMessage = error instanceof Error ? error.message : "Không thể kết nối Groq.";
+      const rateLimited = isRateLimitError(statusCode, errorMessage);
 
       if (rateLimited && attempt < maxRateLimitRetries) {
-        const headerDelay = readRetryAfterMs(response);
+        const headerDelay =
+          error instanceof Groq.APIError && error.headers
+            ? readRetryAfterMs(new Headers(error.headers as Record<string, string>))
+            : null;
         const retryDelay = headerDelay ?? baseRetryDelayMs * (attempt + 1);
         await sleep(retryDelay);
         continue;
       }
 
-      return failure;
-    } catch (error) {
       return {
         ok: false,
-        status: 500,
-        error: error instanceof Error ? error.message : "Không thể kết nối OpenRouter.",
+        status: statusCode,
+        error: `Groq (${model}): ${errorMessage}`,
       };
     }
   }
@@ -171,7 +135,7 @@ const createOpenRouterStream = async (
     ok: false,
     status: 429,
     error:
-      "OpenRouter đang quá tải tạm thời. Hệ thống đã tự retry nhưng vẫn chạm giới hạn. Đợi vài giây rồi gửi lại.",
+      "Groq đang quá tải tạm thời. Hệ thống đã tự retry nhưng vẫn chạm giới hạn. Đợi vài giây rồi gửi lại.",
   };
 };
 
@@ -183,78 +147,27 @@ export async function POST(request: Request) {
   };
   const encoder = new TextEncoder();
 
-  const openResult = await createOpenRouterStream(
+  const groqResult = await createGroqStream(
     payload.message,
     payload.settings,
     payload.history ?? [],
   );
-  if (!openResult.ok) {
+  if (!groqResult.ok) {
     return new Response(
       JSON.stringify({
-        error: openResult.error,
+        error: groqResult.error,
       }),
-      { status: openResult.status || 500 },
+      { status: groqResult.status || 500 },
     );
   }
 
-  const stream = new ReadableStream({
+  const readable = new ReadableStream({
     async start(controller) {
       try {
-        const reader = openResult.stream.getReader();
-        const decoder = new TextDecoder();
-        let buffer = "";
-
-        while (true) {
-          const { value, done } = await reader.read();
-          if (done) {
-            break;
-          }
-          buffer += decoder.decode(value, { stream: true });
-          const lines = buffer.split("\n");
-          buffer = lines.pop() ?? "";
-
-          for (const line of lines) {
-            if (!line.startsWith("data: ")) {
-              continue;
-            }
-            const data = line.replace("data: ", "").trim();
-            if (data === "[DONE]") {
-              controller.enqueue(encoder.encode("data: [DONE]\n\n"));
-              controller.close();
-              return;
-            }
-            try {
-              const json = JSON.parse(data) as {
-                choices?: Array<{
-                  delta?: {
-                    content?:
-                      | string
-                      | Array<{
-                          text?: string;
-                          type?: string;
-                        }>;
-                    text?: string;
-                  };
-                }>;
-              };
-              const delta = json.choices?.[0]?.delta;
-              const content = delta?.content;
-              const text =
-                typeof content === "string"
-                  ? content
-                  : Array.isArray(content)
-                    ? content
-                        .map((part) => (typeof part?.text === "string" ? part.text : ""))
-                        .join("")
-                    : typeof delta?.text === "string"
-                      ? delta.text
-                      : "";
-              if (text) {
-                controller.enqueue(encoder.encode(`data: ${text}\n\n`));
-              }
-            } catch {
-              // ignore malformed chunk
-            }
+        for await (const chunk of groqResult.stream) {
+          const text = chunk.choices[0]?.delta?.content || "";
+          if (text) {
+            controller.enqueue(encoder.encode(`data: ${text}\n\n`));
           }
         }
         controller.enqueue(encoder.encode("data: [DONE]\n\n"));
@@ -266,7 +179,7 @@ export async function POST(request: Request) {
     },
   });
 
-  return new Response(stream, {
+  return new Response(readable, {
     headers: {
       "Content-Type": "text/event-stream",
       "Cache-Control": "no-cache, no-transform",

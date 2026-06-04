@@ -1,12 +1,6 @@
 import { NextResponse } from "next/server";
 
-import { buildOpenRouterChatCompletionsUrl } from "@/lib/openrouter";
-
-const OPENROUTER_API_KEY = process.env["OPENROUTER_API_KEY"];
-const OPENROUTER_COMPLETIONS_URL = buildOpenRouterChatCompletionsUrl(
-  process.env["OPENROUTER_BASE_URL"],
-);
-const OPENROUTER_MODEL = process.env["OPENROUTER_MODEL"] || "openai/gpt-oss-120b:free";
+import { getGroqModel, groq } from "@/lib/groq";
 
 type GrammarFeedback = {
   corrected: string;
@@ -46,8 +40,8 @@ const parseResult = (raw: string, originalText: string): GrammarFeedback | null 
 };
 
 export async function POST(request: Request) {
-  if (!OPENROUTER_API_KEY) {
-    return NextResponse.json({ error: "Missing OPENROUTER_API_KEY" }, { status: 500 });
+  if (!process.env["GROQ_API_KEY"]) {
+    return NextResponse.json({ error: "Missing GROQ_API_KEY" }, { status: 500 });
   }
 
   const body = (await request.json().catch(() => null)) as { text?: string } | null;
@@ -69,14 +63,9 @@ export async function POST(request: Request) {
     `Câu cần kiểm tra: ${text}`,
   ].join("\n");
 
-  const response = await fetch(OPENROUTER_COMPLETIONS_URL, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${OPENROUTER_API_KEY}`,
-    },
-    body: JSON.stringify({
-      model: OPENROUTER_MODEL,
+  try {
+    const completion = await groq().chat.completions.create({
+      model: getGroqModel(),
       temperature: 0.2,
       max_tokens: 280,
       messages: [
@@ -89,17 +78,11 @@ export async function POST(request: Request) {
           content: prompt,
         },
       ],
-    }),
-  });
+    });
 
-  if (!response.ok) {
+    const content = completion.choices?.[0]?.message?.content?.trim() ?? "";
+    return NextResponse.json(parseResult(content, text) ?? fallbackResult(text));
+  } catch {
     return NextResponse.json(fallbackResult(text));
   }
-
-  const payload = (await response.json()) as {
-    choices?: Array<{ message?: { content?: string } }>;
-  };
-
-  const content = payload.choices?.[0]?.message?.content?.trim() ?? "";
-  return NextResponse.json(parseResult(content, text) ?? fallbackResult(text));
 }
